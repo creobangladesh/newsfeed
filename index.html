@@ -3,71 +3,132 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TBS News Aggregator</title>
+    <title>TBS News Newsletter</title>
     <style>
-        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; max-width: 900px; margin: 40px auto; padding: 20px; background: #f0f2f5; color: #333; }
-        header { display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid #ddd; padding-bottom: 15px; margin-bottom: 25px; }
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; max-width: 1000px; margin: 0 auto; padding: 20px; background: #f4f6f8; color: #2d3748; }
         
-        .news-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px; }
-        .news-card { background: white; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 6px rgba(0,0,0,0.05); transition: transform 0.2s ease; display: flex; flex-direction: column; }
-        .news-card:hover { transform: translateY(-4px); box-shadow: 0 8px 15px rgba(0,0,0,0.1); }
+        /* Header & Filters */
+        header { text-align: center; margin-bottom: 30px; padding-bottom: 20px; border-bottom: 2px solid #e2e8f0; }
+        h1 { margin: 0 0 10px 0; font-size: 2.2rem; color: #1a202c; }
+        .sync-status { font-size: 0.9rem; color: #718096; margin-bottom: 20px; }
         
-        .news-image { width: 100%; height: 180px; object-fit: cover; background: #e9ecef; border-bottom: 1px solid #eee; }
-        .news-content { padding: 20px; display: flex; flex-direction: column; flex-grow: 1; }
+        .filter-bar { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin-bottom: 30px; }
+        .filter-btn { padding: 8px 16px; border-radius: 20px; border: 1px solid #cbd5e0; background: white; cursor: pointer; font-weight: 600; font-size: 0.9rem; transition: all 0.2s; color: #4a5568; }
+        .filter-btn:hover { background: #edf2f7; }
+        .filter-btn.active { background: #2b6cb0; color: white; border-color: #2b6cb0; }
+
+        /* Newsletter Grid */
+        .news-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 25px; }
+        .news-card { background: white; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1); transition: transform 0.2s; display: flex; flex-direction: column; }
+        .news-card:hover { transform: translateY(-4px); box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1); }
         
-        .news-title { display: block; color: #1a1a1a; text-decoration: none; font-size: 1.15rem; font-weight: 700; margin: 12px 0; line-height: 1.4; }
-        .news-title:hover { color: #0056b3; }
+        .news-image { width: 100%; height: 200px; object-fit: cover; background: #e2e8f0; border-bottom: 1px solid #edf2f7; }
+        .news-content { padding: 24px; display: flex; flex-direction: column; flex-grow: 1; }
         
-        .meta { color: #666; font-size: 0.85rem; margin-top: auto; display: flex; justify-content: space-between; align-items: center; }
-        .category-badge { display: inline-flex; align-items: center; gap: 6px; padding: 4px 10px; border-radius: 20px; font-size: 0.75rem; font-weight: 600; width: fit-content; }
+        .news-title { display: block; color: #1a202c; text-decoration: none; font-size: 1.25rem; font-weight: 700; margin: 12px 0; line-height: 1.4; }
+        .news-title:hover { color: #3182ce; text-decoration: underline; }
+        
+        .meta { color: #718096; font-size: 0.85rem; margin-top: auto; padding-top: 15px; border-top: 1px solid #edf2f7; }
+        
+        /* Tags */
+        .category-badge { display: inline-flex; align-items: center; gap: 6px; padding: 4px 12px; border-radius: 20px; font-size: 0.8rem; font-weight: 600; width: fit-content; cursor: pointer; border: 1px solid transparent; }
+        .category-badge:hover { filter: brightness(0.95); border-color: currentColor; }
     </style>
 </head>
 <body>
     <header>
-        <h1>TBS News Explorer</h1>
-        <div id="updated-at" style="font-size: 0.9rem; color: #666;">Syncing...</div>
+        <h1>The Daily Brief: TBS</h1>
+        <div id="updated-at" class="sync-status">Updating...</div>
+        
+        <div id="filter-container" class="filter-bar">
+            </div>
     </header>
 
     <div id="news-container" class="news-grid"></div>
 
     <script>
-        async function fetchNews() {
+        let globalNewsData = [];
+
+        function setupFilters() {
+            const container = document.getElementById('filter-container');
+            container.innerHTML = `<button class="filter-btn active" onclick="filterNews('All', this)">🌐 All News</button>`;
+            
+            const categories = [...new Set(globalNewsData.map(item => item.category))];
+            
+            categories.forEach(cat => {
+                const sample = globalNewsData.find(item => item.category === cat);
+                container.innerHTML += `<button class="filter-btn" onclick="filterNews('${cat}', this)">${sample.icon} ${cat}</button>`;
+            });
+        }
+
+        function renderNews(filterCategory = 'All') {
+            const container = document.getElementById('news-container');
+            container.innerHTML = ''; 
+
+            const filteredData = filterCategory === 'All' 
+                ? globalNewsData 
+                : globalNewsData.filter(item => item.category === filterCategory);
+
+            if (filteredData.length === 0) {
+                container.innerHTML = '<p>No recent news in this category (last 30 hours).</p>';
+                return;
+            }
+
+            filteredData.forEach(item => {
+                const imageHtml = item.image 
+                    ? `<a href="${item.link}" target="_blank"><img src="${item.image}" alt="Article image" class="news-image" loading="lazy"></a>` 
+                    : `<div class="news-image" style="display: flex; align-items: center; justify-content: center; color: #a0aec0;">No Image Provided</div>`;
+
+                container.innerHTML += `
+                    <div class="news-card">
+                        ${imageHtml}
+                        <div class="news-content">
+                            <span class="category-badge" 
+                                  style="background-color: ${item.bg}; color: ${item.color};" 
+                                  onclick="filterNews('${item.category}')">
+                                ${item.icon} ${item.category}
+                            </span>
+                            <a class="news-title" href="${item.link}" target="_blank" rel="noopener">${item.title}</a>
+                            <div class="meta">
+                                ${new Date(item.pubDate).toLocaleString([], {month: 'short', day: 'numeric', hour: '2-digit', minute:'2-digit'})}
+                            </div>
+                        </div>
+                    </div>
+                `;
+            });
+        }
+
+        window.filterNews = function(category, buttonElement = null) {
+            if (buttonElement) {
+                document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
+                buttonElement.classList.add('active');
+            } else {
+                document.querySelectorAll('.filter-btn').forEach(btn => {
+                    btn.classList.remove('active');
+                    if(btn.innerText.includes(category)) btn.classList.add('active');
+                    if(category === 'All' && btn.innerText.includes('All News')) btn.classList.add('active');
+                });
+            }
+            renderNews(category);
+        }
+
+        async function init() {
             try {
                 const response = await fetch('./data.json?t=' + new Date().getTime());
                 const data = await response.json();
                 
-                document.getElementById('updated-at').innerText = `Last sync: ${new Date(data.updatedAt).toLocaleTimeString()}`;
-                const container = document.getElementById('news-container');
-                container.innerHTML = ''; 
-
-                data.news.forEach(item => {
-                    // Check if an image exists. If not, use a blank placeholder or skip it.
-                    const imageHtml = item.image 
-                        ? `<img src="${item.image}" alt="News thumbnail" class="news-image" loading="lazy">` 
-                        : `<div class="news-image" style="display: flex; align-items: center; justify-content: center; color: #aaa; font-size: 0.8rem;">No Image</div>`;
-
-                    container.innerHTML += `
-                        <div class="news-card">
-                            ${imageHtml}
-                            <div class="news-content">
-                                <span class="category-badge" style="background-color: ${item.bg}; color: ${item.color};">
-                                    ${item.icon} ${item.category}
-                                </span>
-                                <a class="news-title" href="${item.link}" target="_blank" rel="noopener">${item.title}</a>
-                                <div class="meta">
-                                    <span>${new Date(item.pubDate).toLocaleDateString()}</span>
-                                </div>
-                            </div>
-                        </div>
-                    `;
-                });
+                globalNewsData = data.news;
+                document.getElementById('updated-at').innerText = `Last automated sync: ${new Date(data.updatedAt).toLocaleTimeString()}`;
+                
+                setupFilters();
+                renderNews('All');
             } catch (error) {
                 document.getElementById('news-container').innerHTML = '<p>Loading feeds...</p>';
             }
         }
         
-        fetchNews();
-        setInterval(fetchNews, 30 * 60 * 1000); 
+        init();
+        setInterval(init, 30 * 60 * 1000); 
     </script>
 </body>
 </html>
