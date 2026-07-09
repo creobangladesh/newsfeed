@@ -3,61 +3,126 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>TBS News Newsletter</title>
+    <title>Amer's News</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    
     <style>
-        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; max-width: 1000px; margin: 0 auto; padding: 20px; background: #f4f6f8; color: #2d3748; }
+        /* Global & Dark Mode Styles */
+        body { 
+            font-family: 'Inter', sans-serif; 
+            background: #121212; 
+            color: #e0e0e0; 
+            margin: 0; 
+            padding: 20px 0; 
+        }
         
-        /* Header & Filters */
-        header { text-align: center; margin-bottom: 30px; padding-bottom: 20px; border-bottom: 2px solid #e2e8f0; }
-        h1 { margin: 0 0 10px 0; font-size: 2.2rem; color: #1a202c; }
-        .sync-status { font-size: 0.9rem; color: #718096; margin-bottom: 20px; }
+        /* Layout Widths */
+        .container { margin: 0 auto; width: 95%; }
+        @media (min-width: 1024px) { .container { width: 80%; } }
+        
+        /* Header & Logo */
+        header { text-align: center; margin-bottom: 30px; padding-bottom: 20px; border-bottom: 1px solid #333; }
+        .header-top { display: flex; align-items: center; justify-content: center; gap: 15px; margin-bottom: 10px; }
+        .logo { width: 50px; height: 50px; border-radius: 50%; object-fit: cover; }
+        h1 { margin: 0; font-size: 2.2rem; color: #ffffff; font-weight: 700; }
+        
+        .sync-row { display: flex; align-items: center; justify-content: center; gap: 15px; margin-bottom: 20px; }
+        .sync-status { font-size: 0.85rem; color: #888; }
+        
+        /* Flat Buttons */
+        .btn { 
+            background: #222; color: #e0e0e0; border: 1px solid #444; 
+            padding: 6px 16px; cursor: pointer; font-weight: 600; font-size: 0.85rem; 
+            font-family: 'Inter', sans-serif; transition: background 0.2s; 
+        }
+        .btn:hover { background: #333; }
+        .btn.active { background: #e0e0e0; color: #121212; border-color: #e0e0e0; }
         
         .filter-bar { display: flex; gap: 10px; justify-content: center; flex-wrap: wrap; margin-bottom: 30px; }
-        .filter-btn { padding: 8px 16px; border-radius: 20px; border: 1px solid #cbd5e0; background: white; cursor: pointer; font-weight: 600; font-size: 0.9rem; transition: all 0.2s; color: #4a5568; }
-        .filter-btn:hover { background: #edf2f7; }
-        .filter-btn.active { background: #2b6cb0; color: white; border-color: #2b6cb0; }
 
-        /* Newsletter Grid */
-        .news-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 25px; }
-        .news-card { background: white; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1); transition: transform 0.2s; display: flex; flex-direction: column; }
-        .news-card:hover { transform: translateY(-4px); box-shadow: 0 10px 15px -3px rgba(0,0,0,0.1); }
+        /* Grid Layout (Phone 1, Tablet 3, PC 4) */
+        .news-grid { display: grid; grid-template-columns: 1fr; gap: 20px; }
+        @media (min-width: 768px) { .news-grid { grid-template-columns: repeat(3, 1fr); } }
+        @media (min-width: 1024px) { .news-grid { grid-template-columns: repeat(4, 1fr); } }
+
+        /* Flat Cards */
+        .news-card { 
+            background: #1a1a1a; border: 1px solid #333; 
+            display: flex; flex-direction: column; 
+            /* No rounded corners, no hover animations, no shadows */
+        }
         
-        .news-image { width: 100%; height: 200px; object-fit: cover; background: #e2e8f0; border-bottom: 1px solid #edf2f7; }
-        .news-content { padding: 24px; display: flex; flex-direction: column; flex-grow: 1; }
+        /* Images */
+        .news-image { width: 100%; height: 200px; object-fit: cover; background: #222; border-bottom: 1px solid #333; }
+        .news-content { padding: 20px; display: flex; flex-direction: column; flex-grow: 1; }
         
-        .news-title { display: block; color: #1a202c; text-decoration: none; font-size: 1.25rem; font-weight: 700; margin: 12px 0; line-height: 1.4; }
-        .news-title:hover { color: #3182ce; text-decoration: underline; }
+        /* Typography */
+        .news-title { display: block; color: #ffffff; text-decoration: none; font-size: 1.1rem; font-weight: 600; line-height: 1.4; margin: 0 0 15px 0; }
+        .news-title:hover { text-decoration: underline; color: #bbb; }
         
-        .meta { color: #718096; font-size: 0.85rem; margin-top: auto; padding-top: 15px; border-top: 1px solid #edf2f7; }
+        .meta { color: #888; font-size: 0.8rem; margin-top: auto; padding-top: 15px; border-top: 1px solid #333; }
         
-        /* Tags */
-        .category-badge { display: inline-flex; align-items: center; gap: 6px; padding: 4px 12px; border-radius: 20px; font-size: 0.8rem; font-weight: 600; width: fit-content; cursor: pointer; border: 1px solid transparent; }
-        .category-badge:hover { filter: brightness(0.95); border-color: currentColor; }
+        /* Tags (Dark Mode adjusted) */
+        .category-badge { 
+            display: inline-flex; align-items: center; gap: 6px; 
+            padding: 4px 8px; font-size: 0.75rem; font-weight: 700; text-transform: uppercase; 
+            width: fit-content; cursor: pointer; margin-bottom: 12px; border: 1px solid rgba(255,255,255,0.1);
+        }
+        .category-badge:hover { filter: brightness(1.2); }
     </style>
 </head>
 <body>
-    <header>
-        <h1>The Daily Brief: TBS</h1>
-        <div id="updated-at" class="sync-status">Updating...</div>
-        
-        <div id="filter-container" class="filter-bar">
+    <div class="container">
+        <header>
+            <div class="header-top">
+                <img src="https://amerhabib.com/wp-content/uploads/2023/03/new_me.jpg" alt="Logo" class="logo">
+                <h1>Amer's News</h1>
             </div>
-    </header>
+            
+            <div class="sync-row">
+                <div id="updated-at" class="sync-status">Fetching latest updates...</div>
+                <button class="btn" onclick="init()">↻ Refresh Now</button>
+            </div>
+            
+            <div id="filter-container" class="filter-bar">
+                </div>
+        </header>
 
-    <div id="news-container" class="news-grid"></div>
+        <div id="news-container" class="news-grid"></div>
+    </div>
 
     <script>
         let globalNewsData = [];
 
+        // Time Calculator 
+        function getRelativeTime(dateString) {
+            const now = new Date();
+            const pubDate = new Date(dateString);
+            const diffSecs = Math.floor((now - pubDate) / 1000);
+            const diffMins = Math.floor(diffSecs / 60);
+            const diffHours = Math.floor(diffMins / 60);
+            const diffDays = Math.floor(diffHours / 24);
+
+            if (diffSecs < 60) return "Just now";
+            if (diffMins < 60) return `${diffMins} minute${diffMins > 1 ? 's' : ''} ago`;
+            if (diffHours < 24) return `${diffHours} hour${diffHours > 1 ? 's' : ''} ago`;
+            if (diffDays === 1) return "Yesterday";
+            return `${diffDays} days ago`;
+        }
+
         function setupFilters() {
             const container = document.getElementById('filter-container');
-            container.innerHTML = `<button class="filter-btn active" onclick="filterNews('All', this)">🌐 All News</button>`;
+            container.innerHTML = `<button class="btn active" onclick="filterNews('All', this)">All News</button>`;
             
             const categories = [...new Set(globalNewsData.map(item => item.category))];
             
             categories.forEach(cat => {
                 const sample = globalNewsData.find(item => item.category === cat);
-                container.innerHTML += `<button class="filter-btn" onclick="filterNews('${cat}', this)">${sample.icon} ${cat}</button>`;
+                // We add the icon manually here to ensure it displays
+                const icon = sample.icon || '';
+                container.innerHTML += `<button class="btn" onclick="filterNews('${cat}', this)">${icon} ${cat}</button>`;
             });
         }
 
@@ -70,14 +135,17 @@
                 : globalNewsData.filter(item => item.category === filterCategory);
 
             if (filteredData.length === 0) {
-                container.innerHTML = '<p>No recent news in this category (last 30 hours).</p>';
+                container.innerHTML = '<p style="color: #888;">No recent news in this category.</p>';
                 return;
             }
 
             filteredData.forEach(item => {
                 const imageHtml = item.image 
                     ? `<a href="${item.link}" target="_blank"><img src="${item.image}" alt="Article image" class="news-image" loading="lazy"></a>` 
-                    : `<div class="news-image" style="display: flex; align-items: center; justify-content: center; color: #a0aec0;">No Image Provided</div>`;
+                    : `<div class="news-image" style="display: flex; align-items: center; justify-content: center; color: #555;">No Image</div>`;
+
+                const relativeTime = getRelativeTime(item.pubDate);
+                const icon = item.icon || '';
 
                 container.innerHTML += `
                     <div class="news-card">
@@ -86,11 +154,11 @@
                             <span class="category-badge" 
                                   style="background-color: ${item.bg}; color: ${item.color};" 
                                   onclick="filterNews('${item.category}')">
-                                ${item.icon} ${item.category}
+                                ${icon} ${item.category}
                             </span>
                             <a class="news-title" href="${item.link}" target="_blank" rel="noopener">${item.title}</a>
                             <div class="meta">
-                                ${new Date(item.pubDate).toLocaleString([], {month: 'short', day: 'numeric', hour: '2-digit', minute:'2-digit'})}
+                                <span title="${new Date(item.pubDate).toLocaleString()}">${relativeTime}</span>
                             </div>
                         </div>
                     </div>
@@ -100,10 +168,10 @@
 
         window.filterNews = function(category, buttonElement = null) {
             if (buttonElement) {
-                document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
+                document.querySelectorAll('.filter-bar .btn').forEach(btn => btn.classList.remove('active'));
                 buttonElement.classList.add('active');
             } else {
-                document.querySelectorAll('.filter-btn').forEach(btn => {
+                document.querySelectorAll('.filter-bar .btn').forEach(btn => {
                     btn.classList.remove('active');
                     if(btn.innerText.includes(category)) btn.classList.add('active');
                     if(category === 'All' && btn.innerText.includes('All News')) btn.classList.add('active');
@@ -114,16 +182,25 @@
 
         async function init() {
             try {
+                document.getElementById('updated-at').innerText = "Fetching latest updates...";
                 const response = await fetch('./data.json?t=' + new Date().getTime());
                 const data = await response.json();
                 
                 globalNewsData = data.news;
-                document.getElementById('updated-at').innerText = `Last automated sync: ${new Date(data.updatedAt).toLocaleTimeString()}`;
+                document.getElementById('updated-at').innerText = `Data synced: ${new Date(data.updatedAt).toLocaleTimeString()}`;
                 
-                setupFilters();
-                renderNews('All');
+                // Only setup filters on the very first load to prevent buttons from resetting
+                if(document.getElementById('filter-container').innerHTML.trim() === "") {
+                    setupFilters();
+                }
+                
+                // Re-render based on whatever category is currently active
+                const activeBtn = document.querySelector('.filter-bar .btn.active');
+                const activeCat = activeBtn ? activeBtn.innerText.replace(/[^\w\s]/gi, '').trim() : 'All';
+                renderNews(activeCat === 'All News' ? 'All' : activeCat);
+                
             } catch (error) {
-                document.getElementById('news-container').innerHTML = '<p>Loading feeds...</p>';
+                document.getElementById('news-container').innerHTML = '<p style="color: #ff6b6b;">Failed to load data. Please check your GitHub Actions.</p>';
             }
         }
         
