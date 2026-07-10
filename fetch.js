@@ -25,7 +25,7 @@ const feeds = [
     { id: 'Analysis', url: 'https://www.tbsnews.net/analysis/rss.xml', color: '#5d4037', bg: '#efebe9', icon: '🔍' }
 ];
 
-// UPDATED: 120 hours (5 days)
+// 120 hours (5 days) of history for the "Load More" button
 const FRESHNESS_HOURS = 120; 
 const TIME_LIMIT = Date.now() - (FRESHNESS_HOURS * 60 * 60 * 1000);
 const seenLinks = new Set(); 
@@ -39,16 +39,20 @@ async function fetchAllNews() {
             let feedItemCount = 0; 
             
             for (const item of parsedFeed.items) {
-                // UPDATED: Allow up to 25 items per category so we have plenty of history
+                // Keep up to 25 items per category
                 if (feedItemCount >= 25) break; 
+                
+                // Deduplication check
                 if (seenLinks.has(item.link)) continue;
                 
+                // Freshness check
                 const itemDate = new Date(item.pubDate || item.isoDate).getTime();
                 if (itemDate < TIME_LIMIT) continue;
 
                 seenLinks.add(item.link);
                 feedItemCount++; 
 
+                // 1. Try to find the image in the RSS data
                 let imageUrl = null;
                 if (item.enclosure && item.enclosure.url) imageUrl = item.enclosure.url;
                 else if (item.mediaContent && item.mediaContent['$'] && item.mediaContent['$'].url) imageUrl = item.mediaContent['$'].url;
@@ -60,6 +64,7 @@ async function fetchAllNews() {
                     if (imgMatch) imageUrl = imgMatch[1];
                 }
 
+                // 2. Scrape the live site for the image if RSS fails
                 if (!imageUrl) {
                     try {
                         const response = await fetch(item.link);
@@ -67,10 +72,11 @@ async function fetchAllNews() {
                         const ogMatch = html.match(/<meta[^>]+property=['"]og:image['"][^>]+content=['"]([^'"]+)['"]/i);
                         if (ogMatch) imageUrl = ogMatch[1];
                     } catch (e) {
-                        // ignore fetch errors
+                        // Silently ignore fetch errors to keep the loop running
                     }
                 }
 
+                // Add the fully compiled article to our array
                 allNews.push({
                     title: item.title,
                     link: item.link,
@@ -79,7 +85,8 @@ async function fetchAllNews() {
                     color: feed.color,
                     bg: feed.bg,
                     icon: feed.icon,
-                    image: imageUrl 
+                    image: imageUrl,
+                    snippet: item.contentSnippet || item.description || '' // <-- The new snippet field!
                 });
             }
         } catch (error) {
@@ -87,7 +94,10 @@ async function fetchAllNews() {
         }
     }
 
+    // Sort everything by newest time
     allNews.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+
+    // Package it up and save it to data.json
     const output = { news: allNews, updatedAt: new Date().toISOString() };
     fs.writeFileSync('data.json', JSON.stringify(output, null, 2));
 }
