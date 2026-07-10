@@ -40,7 +40,7 @@
         * { box-sizing: border-box; margin: 0; padding: 0; }
         body { font-family: 'Inter', sans-serif; background: var(--background); color: var(--foreground); transition: background 0.2s, color 0.2s; line-height: 1.5; }
         
-        .container { margin: 0 auto; width: 95%; padding: 15px 0; max-width: 1400px; }
+        .container { margin: 0 auto; width: 95%; padding: 15px 0; max-width: 1600px; }
         @media (min-width: 1024px) { .container { width: 85%; } }
 
         /* NYT Minimal Header */
@@ -52,30 +52,26 @@
         h1 { font-size: 1.25rem; font-weight: 800; letter-spacing: -0.02em; }
         .brand-meta { font-size: 0.75rem; color: var(--muted-foreground); margin-top: 2px; }
 
-        .utility-zone { display: flex; align-items: center; gap: 15px; font-size: 0.8rem; font-weight: 500; color: var(--muted-foreground); }
-        .live-clock { display: none; text-transform: uppercase; letter-spacing: 0.05em; }
+        .utility-zone { display: flex; align-items: center; gap: 10px; font-size: 0.8rem; font-weight: 500; color: var(--muted-foreground); }
+        .live-clock { display: none; text-transform: uppercase; letter-spacing: 0.05em; margin-right: 10px; }
         @media (min-width: 768px) { .live-clock { display: block; } }
 
-        /* Icon Buttons (Search, Theme, Bookmarks) */
-        .icon-btn { background: none; border: none; color: var(--foreground); cursor: pointer; display: flex; align-items: center; justify-content: center; padding: 4px; border-radius: var(--radius); transition: background 0.2s; opacity: 0.7; }
+        .icon-btn { background: none; border: none; color: var(--foreground); cursor: pointer; display: flex; align-items: center; justify-content: center; padding: 6px; border-radius: var(--radius); transition: background 0.2s; opacity: 0.7; }
         .icon-btn:hover { background: var(--accent); opacity: 1; }
-        .icon-btn.active { opacity: 1; }
         .icon-btn svg { width: 18px; height: 18px; }
 
-        /* Search Dropdown */
         #search-container { display: none; padding: 10px 0; border-bottom: 1px solid var(--border); margin-bottom: 15px; }
         .search-box { width: 100%; padding: 10px 12px; border: 1px solid var(--border); background: var(--background); color: var(--foreground); font-family: inherit; border-radius: var(--radius); outline: none; font-size: 0.9rem; }
-        .search-box:focus { border-color: var(--muted-foreground); }
-
+        
         /* Controls Area */
         .controls-row { display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between; align-items: center; margin-bottom: 20px; font-size: 0.85rem; }
         .select-box { padding: 6px 10px; border: 1px solid var(--border); background: var(--background); color: var(--foreground); border-radius: var(--radius); outline: none; cursor: pointer; font-family: inherit; }
         
-        .view-toggles { display: flex; gap: 5px; background: var(--muted); padding: 4px; border-radius: var(--radius); }
+        .view-toggles { display: flex; gap: 5px; background: var(--muted); padding: 4px; border-radius: var(--radius); flex-wrap: wrap; }
         .view-btn { background: transparent; border: none; padding: 4px 8px; border-radius: var(--radius); cursor: pointer; color: var(--muted-foreground); font-size: 0.8rem; font-weight: 600; transition: all 0.2s; }
         .view-btn.active { background: var(--background); color: var(--foreground); box-shadow: 0 1px 2px rgba(0,0,0,0.05); }
 
-        /* Tight Filter Accordion */
+        /* Filter Accordion */
         .filter-accordion { border: 1px solid var(--border); border-radius: var(--radius); margin-bottom: 20px; font-size: 0.85rem; }
         .filter-accordion summary { padding: 10px 15px; font-weight: 600; cursor: pointer; list-style: none; display: flex; justify-content: space-between; align-items: center; background: var(--muted); }
         .filter-accordion summary::-webkit-details-marker { display: none; }
@@ -87,19 +83,19 @@
         .capsule:hover { border-color: var(--border); }
         .capsule.active { background: var(--foreground); color: var(--background); }
 
-        /* Layout Systems */
-        .layout-grid { display: grid; grid-template-columns: 1fr; gap: 20px; }
-        @media (min-width: 768px) { .layout-grid { grid-template-columns: repeat(3, 1fr); gap: 25px; } }
-        @media (min-width: 1024px) { .layout-grid { grid-template-columns: repeat(4, 1fr); } }
-        
-        .layout-masonry { column-count: 1; column-gap: 25px; }
-        @media (min-width: 768px) { .layout-masonry { column-count: 3; } }
-        @media (min-width: 1024px) { .layout-masonry { column-count: 4; } }
-        .layout-masonry .news-card { break-inside: avoid; margin-bottom: 25px; }
+        /* Dynamic Grid Systems */
+        .layout-grid-3, .layout-grid-4, .layout-grid-5 { display: grid; grid-template-columns: 1fr; gap: 20px; }
+        @media (min-width: 768px) { 
+            .layout-grid-3 { grid-template-columns: repeat(3, 1fr); gap: 25px; } 
+            .layout-grid-4 { grid-template-columns: repeat(3, 1fr); gap: 20px; } 
+            .layout-grid-5 { grid-template-columns: repeat(3, 1fr); gap: 15px; } 
+        }
+        @media (min-width: 1200px) { 
+            .layout-grid-4 { grid-template-columns: repeat(4, 1fr); } 
+            .layout-grid-5 { grid-template-columns: repeat(5, 1fr); } 
+        }
 
         .layout-list { display: flex; flex-direction: column; gap: 15px; }
-        
-        /* Drudge-style Text Layout */
         .layout-text { display: flex; flex-direction: column; gap: 0; }
 
         /* Standard Card Aesthetics */
@@ -112,16 +108,14 @@
         .card-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; }
         .tag { font-size: 0.7rem; font-weight: 600; text-transform: uppercase; padding: 2px 8px; border-radius: var(--radius); cursor: pointer; border: 1px solid var(--border); background: var(--muted); color: var(--foreground); }
         
-        /* Bookmark SVG Icon styling */
         .bookmark-btn { background: none; border: none; cursor: pointer; color: var(--muted-foreground); display: flex; align-items: center; transition: color 0.2s; }
         .bookmark-btn:hover { color: var(--foreground); }
-        .bookmark-btn.saved { color: #2563eb; } /* Blue filled state */
+        .bookmark-btn.saved { color: #2563eb; } 
 
         .news-title { display: block; color: var(--foreground); text-decoration: none; font-size: 1.05rem; font-weight: 700; line-height: 1.3; margin-bottom: 8px; }
         .news-title:hover { text-decoration: underline; }
         
         .snippet { font-size: 0.85rem; color: var(--muted-foreground); margin-bottom: 12px; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
-        
         .meta { color: var(--muted-foreground); font-size: 0.75rem; display: flex; justify-content: space-between; align-items: center; }
         
         /* List Mode Adjustments */
@@ -130,7 +124,7 @@
             .layout-list .card-image-wrap { width: 280px; height: 160px; flex-shrink: 0; margin-bottom: 0; }
         }
 
-        /* Text Mode Adjustments (Drudge Style) */
+        /* Text Mode Adjustments */
         .layout-text .news-card { flex-direction: column; padding: 10px 0; border-bottom: 1px solid var(--border); gap: 4px; }
         .layout-text .card-image-wrap { display: none; }
         .layout-text .card-header { display: none; }
@@ -138,31 +132,32 @@
         .layout-text .snippet { font-size: 0.8rem; margin: 4px 0 0 0; -webkit-line-clamp: 2; }
         .layout-text .meta { font-size: 0.7rem; margin-top: 4px; }
 
-        /* --- HERO CARD (Grid View Only) --- */
-        .layout-grid .hero-card { grid-column: 1 / -1; position: relative; height: 450px; border-radius: var(--radius); overflow: hidden; margin-bottom: 10px; display: flex; flex-direction: column; justify-content: flex-end; padding: 0; }
+        /* --- HERO CARD --- */
+        .hero-card { grid-column: 1 / -1; position: relative; height: 450px; border-radius: var(--radius); overflow: hidden; margin-bottom: 10px; display: flex; flex-direction: column; justify-content: flex-end; padding: 0; }
         .hero-card .card-image-wrap { position: absolute; top: 0; left: 0; width: 100%; height: 100%; margin: 0; border-radius: 0; z-index: 1; }
-        .hero-card .news-image { object-fit: cover; }
         .hero-card .hero-overlay { position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(to bottom, transparent 20%, rgba(0,0,0,0.85) 100%); z-index: 2; }
         
         .hero-card .news-content { position: relative; z-index: 3; padding: 25px; display: flex; flex-direction: column; gap: 10px; }
-        /* Force dark theme text colors for hero overlay so it's always readable */
-        .hero-card .tag { background: rgba(255,255,255,0.2); border: none; color: white; }
-        .hero-card .news-title { color: #ffffff; font-size: 1.5rem; font-weight: 800; max-width: 100%; }
-        .hero-card .snippet { color: #d4d4d8; font-size: 0.95rem; max-width: 100%; -webkit-line-clamp: 2; }
+        .hero-card .tag { background: rgba(255,255,255,0.2); border: none; color: white; width: fit-content; }
+        .hero-card .news-title { color: #ffffff; font-size: 1.5rem; font-weight: 800; }
+        .hero-card .snippet { color: #d4d4d8; font-size: 0.95rem; -webkit-line-clamp: 2; }
         .hero-card .meta, .hero-card .bookmark-btn { color: #a1a1aa; }
         
         @media (min-width: 768px) {
             .hero-card .news-content { flex-direction: row; align-items: flex-end; justify-content: space-between; padding: 35px; gap: 30px; }
-            .hero-card .hero-text-block { flex: 1; max-width: 65%; }
-            .hero-card .news-title { font-size: 2.2rem; }
-            .hero-card .snippet { -webkit-line-clamp: 3; }
+            .hero-card .hero-text-block { flex: 1; max-width: 65%; display: flex; flex-direction: column; gap: 10px;}
+            .hero-card .news-title { font-size: 2.2rem; margin:0;}
+            .hero-card .snippet { margin:0; }
             .hero-card .hero-meta-block { display: flex; flex-direction: column; align-items: flex-end; gap: 15px; }
         }
 
-        /* Pagination & Footer */
+        /* Pagination, Back to top & Footer */
         .load-more { display: block; width: 100%; padding: 12px; margin-top: 30px; background: var(--background); color: var(--foreground); border: 1px solid var(--border); border-radius: var(--radius); font-weight: 600; cursor: pointer; transition: background 0.2s; font-size: 0.9rem; }
         .load-more:hover { background: var(--muted); }
         
+        .back-to-top { position: fixed; bottom: 30px; right: 30px; background: var(--foreground); color: var(--background); width: 45px; height: 45px; border-radius: 50%; display: none; align-items: center; justify-content: center; cursor: pointer; border: none; z-index: 50; box-shadow: 0 4px 10px rgba(0,0,0,0.2); transition: transform 0.2s; }
+        .back-to-top:hover { transform: translateY(-3px); }
+
         footer { text-align: center; padding: 40px 0; margin-top: 40px; border-top: 1px solid var(--border); color: var(--muted-foreground); font-size: 0.85rem; }
         footer a { color: var(--foreground); text-decoration: underline; font-weight: 500; }
     </style>
@@ -185,6 +180,9 @@
                     <button class="icon-btn" onclick="toggleSearch()" title="Search">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
                     </button>
+                    <button class="icon-btn" onclick="init()" title="Refresh Feed">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></svg>
+                    </button>
                     <button id="theme-btn" class="icon-btn" onclick="toggleTheme()" title="Toggle Theme">
                         </button>
                 </div>
@@ -203,8 +201,9 @@
             </select>
             
             <div class="view-toggles">
-                <button class="view-btn active" id="view-grid" onclick="setView('grid')">Grid</button>
-                <button class="view-btn" id="view-masonry" onclick="setView('masonry')">Masonry</button>
+                <button class="view-btn active" id="view-grid-4" onclick="setView('grid-4')">Grid 4</button>
+                <button class="view-btn" id="view-grid-3" onclick="setView('grid-3')">Grid 3</button>
+                <button class="view-btn" id="view-grid-5" onclick="setView('grid-5')">Grid 5</button>
                 <button class="view-btn" id="view-list" onclick="setView('list')">List</button>
                 <button class="view-btn" id="view-text" onclick="setView('text')">Text</button>
             </div>
@@ -216,9 +215,9 @@
                 </div>
         </details>
 
-        <div id="news-container" class="layout-grid"></div>
+        <div id="news-container" class="layout-grid-4"></div>
         
-        <button id="load-more-btn" class="load-more" onclick="loadMore()" style="display: none;">Load Older Articles ↓</button>
+        <button id="load-more-btn" class="load-more" onclick="loadMore()" style="display: none;">Load More</button>
 
         <footer>
             Built with ♥ by <a href="https://amerhabib.com/" target="_blank" rel="noopener">Amer Habib</a>
@@ -226,19 +225,20 @@
 
     </div>
 
+    <button id="back-to-top" class="back-to-top" onclick="window.scrollTo({top: 0, behavior: 'smooth'})" title="Back to top">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m18 15-6-6-6 6"/></svg>
+    </button>
+
     <script>
-        // State Management
         let globalData = [];
         let filteredData = [];
         let itemsPerPage = 13; 
         let currentDisplayed = itemsPerPage;
-        let currentView = 'grid';
+        let currentView = 'grid-4'; 
         
-        // Local Storage State
         let readArticles = JSON.parse(localStorage.getItem('readArticles') || '[]');
         let bookmarks = JSON.parse(localStorage.getItem('bookmarks') || '[]');
 
-        // SVGs
         const svgSun = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2"/><path d="M12 20v2"/><path d="m4.93 4.93 1.41 1.41"/><path d="m17.66 17.66 1.41 1.41"/><path d="M2 12h2"/><path d="M20 12h2"/><path d="m6.34 17.66-1.41 1.41"/><path d="m19.07 4.93-1.41 1.41"/></svg>`;
         const svgMoon = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/></svg>`;
         const svgBookmarkEmpty = `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z"/></svg>`;
@@ -267,13 +267,15 @@
 
         window.toggleSearch = function() {
             const el = document.getElementById('search-container');
-            if (el.style.display === 'block') {
-                el.style.display = 'none';
-            } else {
-                el.style.display = 'block';
-                document.getElementById('search-box').focus();
-            }
+            el.style.display = el.style.display === 'block' ? 'none' : 'block';
+            if(el.style.display === 'block') document.getElementById('search-box').focus();
         }
+
+        // Back to top scroll listener
+        window.addEventListener('scroll', () => {
+            const btn = document.getElementById('back-to-top');
+            btn.style.display = window.scrollY > 400 ? 'flex' : 'none';
+        });
 
         function getRelativeTime(dateStr) {
             const diffSecs = Math.floor((new Date() - new Date(dateStr)) / 1000);
@@ -357,7 +359,8 @@
             if (!readArticles.includes(link)) {
                 readArticles.push(link);
                 localStorage.setItem('readArticles', JSON.stringify(readArticles));
-                document.getElementById(`card-${btoa(link).replace(/=/g,'')}`).classList.add('read');
+                const card = document.getElementById(`card-${btoa(link).replace(/=/g,'')}`);
+                if(card) card.classList.add('read');
             }
         }
 
@@ -394,7 +397,7 @@
                         <div class="hero-text-block">
                             <span class="tag" onclick="filterCategory('${item.category}')">${item.category}</span>
                             <a class="news-title" href="${item.link}" target="_blank" onclick="markRead('${item.link}')">${item.title}</a>
-                            <div class="snippet">${snippet}</div>
+                            ${snippet ? `<div class="snippet">${snippet}</div>` : ''}
                         </div>
                         
                         <div class="hero-meta-block">
@@ -431,7 +434,7 @@
                             </button>
                         </div>
                         <a class="news-title" href="${item.link}" target="_blank" onclick="markRead('${item.link}')">${item.title}</a>
-                        <div class="snippet">${snippet}</div>
+                        ${snippet ? `<div class="snippet">${snippet}</div>` : ''}
                         <div class="meta">
                             <span>${getRelativeTime(item.pubDate)}</span>
                         </div>
@@ -453,8 +456,9 @@
             const itemsToRender = filteredData.slice(0, currentDisplayed);
             let html = '';
 
-            // Apply Hero Logic only on Grid view, newest sort, empty search, All category
-            const isDefaultState = (currentView === 'grid' && document.getElementById('search-box').value === '' && document.getElementById('sort-box').value === 'newest');
+            // Apply Hero Logic only if using a Grid view, newest sort, and All category
+            const isGrid = currentView.includes('grid');
+            const isDefaultState = (isGrid && document.getElementById('search-box').value === '' && document.getElementById('sort-box').value === 'newest');
 
             if (isDefaultState && itemsToRender.length > 0) {
                 html += buildHeroHtml(itemsToRender[0]);
@@ -469,12 +473,12 @@
 
         async function init() {
             try {
+                document.getElementById('sync-status').innerText = "Fetching latest data...";
                 const response = await fetch('./data.json?t=' + new Date().getTime());
                 const data = await response.json();
                 
                 globalData = data.news;
                 
-                // Format the sync time nicely
                 const syncTime = new Date(data.updatedAt).toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'});
                 document.getElementById('sync-status').innerText = `Updated ${syncTime}`;
                 
@@ -484,7 +488,7 @@
                 
                 applyFiltersAndSort(); 
             } catch (error) {
-                document.getElementById('sync-status').innerText = 'Sync failed. Waiting for runner...';
+                document.getElementById('sync-status').innerText = 'Sync failed. Check connection.';
             }
         }
         
