@@ -5,6 +5,7 @@
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Amer Habib's News</title>
+    
     <link rel="icon" type="image/jpeg" href="https://amerhabib.com/wp-content/uploads/2023/03/new_me.jpg">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     
@@ -21,7 +22,7 @@
         body { font-family: 'Inter', sans-serif; background: var(--background); color: var(--foreground); line-height: 1.5; }
         
         /* Sticky Header */
-        .sticky-wrapper { position: sticky; top: 0; background: var(--background); z-index: 100; border-bottom: 1px solid var(--border); padding: 10px 0; }
+        .sticky-wrapper { position: sticky; top: 0; background: var(--background); z-index: 1000; border-bottom: 1px solid var(--border); padding: 10px 0; }
         .container { margin: 0 auto; width: 95%; max-width: 1600px; }
         
         header { padding-bottom: 5px; }
@@ -32,19 +33,18 @@
         .utility-zone { display: flex; gap: 10px; }
         
         .icon-btn { background: none; border: none; color: var(--foreground); cursor: pointer; padding: 6px; opacity: 0.7; }
-        
         #search-container { display: none; padding-top: 10px; }
         .search-box { width: 100%; padding: 8px; border: 1px solid var(--border); border-radius: var(--radius); background: var(--background); color: var(--foreground); }
 
         .controls-row { display: flex; gap: 15px; align-items: center; margin: 20px 0; }
         
-        /* Mobile Layout Toggle Rules */
+        /* Layout Toggle Rules */
         .layout-segmented { display: flex; background: var(--muted); padding: 4px; border-radius: var(--radius); }
         .seg-btn { padding: 6px 12px; border: none; background: transparent; color: var(--muted-foreground); cursor: pointer; border-radius: var(--radius); font-size: 0.8rem; }
         .seg-btn.active { background: var(--background); color: var(--foreground); box-shadow: 0 1px 2px rgba(0,0,0,0.1); }
         
         @media (max-width: 767px) {
-            .hide-mobile { display: none !important; }
+            .mobile-hide { display: none !important; }
         }
 
         .filter-accordion { margin-bottom: 20px; }
@@ -56,13 +56,14 @@
         @media (max-width: 767px) { .layout-grid-3 { grid-template-columns: 1fr; } }
         
         .news-card { display: flex; flex-direction: column; }
-        .card-image-wrap { width: 100%; height: 200px; background: var(--muted); border-radius: var(--radius); margin-bottom: 10px; overflow: hidden; }
+        .card-image-wrap { width: 100%; height: 200px; background: var(--muted); border-radius: var(--radius); overflow: hidden; margin-bottom: 10px; }
         .news-image { width: 100%; height: 100%; object-fit: cover; }
         .news-title { font-size: 1rem; font-weight: 700; color: var(--foreground); text-decoration: none; }
         .snippet { font-size: 0.85rem; color: var(--muted-foreground); margin: 8px 0; -webkit-line-clamp: 3; display: -webkit-box; -webkit-box-orient: vertical; overflow: hidden; }
         .meta { font-size: 0.75rem; color: var(--muted-foreground); }
         
         .back-to-top { position: fixed; bottom: 30px; right: 30px; background: var(--foreground); color: var(--background); width: 40px; height: 40px; border-radius: 50%; display: none; align-items: center; justify-content: center; }
+        footer { text-align: center; padding: 40px 0; color: var(--muted-foreground); font-size: 0.85rem; }
     </style>
 </head>
 <body>
@@ -89,8 +90,8 @@
         <div class="controls-row">
             <div class="layout-segmented">
                 <button class="seg-btn active" onclick="setView('grid-3', this)">Grid</button>
-                <button class="seg-btn hide-mobile" onclick="setView('grid-2', this)">2 Col</button>
-                <button class="seg-btn hide-mobile" onclick="setView('grid-4', this)">4 Col</button>
+                <button class="seg-btn mobile-hide" onclick="setView('grid-2', this)">2 Col</button>
+                <button class="seg-btn mobile-hide" onclick="setView('grid-4', this)">4 Col</button>
                 <button class="seg-btn" onclick="setView('text', this)">Text</button>
             </div>
         </div>
