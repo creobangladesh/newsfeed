@@ -1,6 +1,83 @@
 {
   "news": [
     {
+      "title": "PM asks administration, party leaders to stand by flood victims",
+      "link": "https://www.tbsnews.net/bangladesh/pm-asks-administration-party-leaders-stand-flood-victims-1484951",
+      "pubDate": "Fri, 10 Jul 2026 22:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/pm_flood.jpg",
+      "snippet": "State Minister for Disaster Management and Relief M Iqbal Hossain is scheduled to visit Chattogram tomorrow to assess the flood situation."
+    },
+    {
+      "title": "Floods leave over 7.5 lakh people marooned in Ctg",
+      "link": "https://www.tbsnews.net/bangladesh/floods-leave-over-75-lakh-people-marooned-ctg-1484941",
+      "pubDate": "Fri, 10 Jul 2026 21:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/ctg_flood01.jpg",
+      "snippet": "Flood situation has worsened in Satkania and Banshkhali, leaving hundreds of thousands of people marooned as heavy rain, hill runoff and tidal water continue to affect Chattogram."
+    },
+    {
+      "title": "Narsingdi elderly railway cleaner Bobby was tortured, killed for her Tk20,000 savings, 5 held: RAB",
+      "link": "https://www.tbsnews.net/bangladesh/crime/narsingdi-elderly-railway-cleaner-bobby-was-tortured-killed-her-tk20000-savings-5",
+      "pubDate": "Fri, 10 Jul 2026 21:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/photo-output.jpeg",
+      "snippet": "According to RAB, the suspects attacked Bobby Begum in an abandoned room at Methikanda Railway Station late on 4 July, leaving her critically injured before fleeing with around Tk20,000 she had saved over a long period."
+    },
+    {
+      "title": "Forecast of 200-500mm rain in 3 days puts Ctg at high landslide risk, anticipatory action underway",
+      "link": "https://www.tbsnews.net/bangladesh/200-500mm-rainfall-three-days-forecast-puts-ctg-high-landslide-risk-anticipatory-action",
+      "pubDate": "Fri, 10 Jul 2026 21:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/08/landslide.jpg",
+      "snippet": "At least 30 people have been killed in separate landslide incidents across five districts over the past five days."
+    },
+    {
+      "title": "Bangladesh to host RCOY for the first time in history",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-host-rcoy-first-time-history-1484906",
+      "pubDate": "Fri, 10 Jul 2026 21:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/2b0a7ebf86d4f67f2e6e0274cfa0cb88_0.jpeg",
+      "snippet": ""
+    },
+    {
+      "title": "Kaptai lake hydroelectric plant boosts power generation to 179 MW",
+      "link": "https://www.tbsnews.net/bangladesh/kaptai-lake-hydroelectric-plant-boosts-power-generation-179-mw-1484911",
+      "pubDate": "Fri, 10 Jul 2026 21:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/kaptai-lake-hydroelectric-plant.jpg",
+      "snippet": "The recent rainfall has improved water inflow, allowing the plant to increase electricity generation."
+    },
+    {
+      "title": "Bangladesh, Turkey to set up joint drone factory: State minister",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-turkey-set-joint-drone-factory-state-minister-1484921",
+      "pubDate": "Fri, 10 Jul 2026 21:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/bangladesh-turkey.jpg",
+      "snippet": "Alongside the joint venture drone manufacturing factory, a new Bangladesh Air Force base will be built in Bogura, State Minister for Local Government Mir Shahe Alam has said."
+    },
+    {
       "title": "Bandarban extends tourist site closure until 15 July amid adverse weather",
       "link": "https://www.tbsnews.net/bangladesh/bandarban-extends-tourist-site-closure-until-15-july-amid-adverse-weather-1484891",
       "pubDate": "Fri, 10 Jul 2026 20:40:00 +0600",
@@ -12,7 +89,7 @@
       "snippet": "During this period, all tourist spots, waterfalls, hill trails, waterways, remote areas and other high-risk locations will remain off-limits to tourists, tour operators and the general public."
     },
     {
-      "title": "BRAC Bank, Tarupallab honour environmental heroes with ‘Dwijen Sharma Poribesh Padak’ ",
+      "title": "BRAC Bank, Tarupallab honour environmental heroes with 'Dwijen Sharma Poribesh Padak'",
       "link": "https://www.tbsnews.net/bangladesh/brac-bank-tarupallab-honour-environmental-heroes-dwijen-sharma-poribesh-padak-1484881",
       "pubDate": "Fri, 10 Jul 2026 20:30:00 +0600",
       "category": "Bangladesh",
@@ -20,10 +97,10 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/780c549221d212d91fd36df4f4294cc8_0.jpeg",
-      "snippet": "The awards were given at a ceremony held today (10 July) at the Bangla Academy."
+      "snippet": "The award honours the legacy of the late Professor Dwijen Sharma, a prominent naturalist and botanist whose work has inspired countless individuals to protect nature."
     },
     {
-      "title": "Floods leave over 500,000 stranded in Cox's Bazar amid drinking water crisis",
+      "title": "Floods leave over 5 lakh stranded in Cox's Bazar amid drinking water crisis",
       "link": "https://www.tbsnews.net/bangladesh/floods-leave-over-500000-stranded-coxs-bazar-amid-drinking-water-crisis-1484876",
       "pubDate": "Fri, 10 Jul 2026 20:10:00 +0600",
       "category": "Bangladesh",
@@ -43,17 +120,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/01/06/cmm_court.jpg",
       "snippet": "Police arrested the accused after three volumes of Tafhimul Quran were allegedly set on fire at Dhaka University early today."
-    },
-    {
-      "title": "Nahid calls for execution of Hasina's death sentence if she returns",
-      "link": "https://www.tbsnews.net/bangladesh/politics/nahid-calls-execution-hasinas-death-sentence-if-she-returns-1484846",
-      "pubDate": "Fri, 10 Jul 2026 19:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/nahid_10_jul.png",
-      "snippet": "Those who participated in the 2024 July Uprising are prepared to respond to any untoward political developments, says the NCP chief."
     },
     {
       "title": "Extremist links: Tahseen lands in jail as court wants probe report by 26 July",
@@ -191,10 +257,10 @@
       "title": "Measles: Death toll reaches 750 as 3 more children die in 24 hours",
       "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-750-3-more-children-die-24-hours-1484756",
       "pubDate": "Fri, 10 Jul 2026 16:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/07/whatsapp_image_2026-05-07_at_2.56.49_pm.jpeg",
       "snippet": "A total of 901 new suspected measles cases were reported during the 24-hour period, bringing the cumulative number of suspected cases nationwide to 1,09,899."
     },
@@ -202,23 +268,12 @@
       "title": "Chattogram Board postpones tomorrow's HSC exam amid worsening floods",
       "link": "https://www.tbsnews.net/bangladesh/education/chattogram-board-postpones-tomorrows-hsc-exam-amid-worsening-floods-1484741",
       "pubDate": "Fri, 10 Jul 2026 16:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/04/02/hsc_22_tbs.jpg",
       "snippet": "The board said a revised schedule for the postponed examination will be announced later."
-    },
-    {
-      "title": "July Memorial Museum to open soon: Minister",
-      "link": "https://www.tbsnews.net/bangladesh/july-memorial-museum-open-soon-minister-1484716",
-      "pubDate": "Fri, 10 Jul 2026 15:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/img_6618.jpeg",
-      "snippet": "Cultural Affairs Minister Nitai Roy Chowdhury said the erstwhile Awami League government had destroyed the country’s cultural heritage."
     },
     {
       "title": "Is gold a good investment?",
@@ -235,34 +290,12 @@
       "title": "Ministry suspends official following premature publication of scholarship results",
       "link": "https://www.tbsnews.net/bangladesh/education/ministry-suspends-official-following-premature-publication-scholarship-results",
       "pubDate": "Fri, 10 Jul 2026 14:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/01/16/mopme_0.jpg",
       "snippet": "The Ministry of Primary and Mass Education issued a notification today (10 July) saying the action was taken against Md Mehtab Kayes, the official in question."
-    },
-    {
-      "title": "Hasina plans December return with party colleagues to surrender",
-      "link": "https://www.tbsnews.net/bangladesh/bangladeshs-hasina-plans-december-return-party-colleagues-surrender-1484636",
-      "pubDate": "Fri, 10 Jul 2026 14:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/08/05/hasina_2.jpg",
-      "snippet": "Sheikh Hasina, facing a death sentence back in Bangladesh, told Reuters that she and members of her Awami League aim to return voluntarily to the country they fled two years ago ‌and present themselves in court."
-    },
-    {
-      "title": "The hidden cost of being a woman in Bangladesh",
-      "link": "https://www.tbsnews.net/thoughts/hidden-cost-being-woman-bangladesh-1484691",
-      "pubDate": "Fri, 10 Jul 2026 14:40:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/01/07/untitled_design_7.png",
-      "snippet": "Every month, millions of Bangladeshi women face an unavoidable expense that affects their health, education and livelihoods. As the cost of menstrual products continues to strain household budgets, the authors argue that affordable menstrual care sho..."
     },
     {
       "title": "Delisting is not the solution: Inquiry, accountability and investor protection must come first",
@@ -276,6 +309,17 @@
       "snippet": "With 62 sick and non-operational companies facing removal from the Dhaka Stock Exchange, the instinct to clean up the board is understandable — but delisting without inquiry lets sponsors walk away and leaves ordinary shareholders with nothing"
     },
     {
+      "title": "The hidden cost of being a woman in Bangladesh",
+      "link": "https://www.tbsnews.net/thoughts/hidden-cost-being-woman-bangladesh-1484691",
+      "pubDate": "Fri, 10 Jul 2026 14:40:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/01/07/untitled_design_7.png",
+      "snippet": "Every month, millions of Bangladeshi women face an unavoidable expense that affects their health, education and livelihoods. As the cost of menstrual products continues to strain household budgets, the authors argue that affordable menstrual care sho..."
+    },
+    {
       "title": "SK Hynix set for marquee US debut in test for AI appetite",
       "link": "https://www.tbsnews.net/tech/sk-hynix-set-marquee-us-debut-test-ai-appetite-1484646",
       "pubDate": "Fri, 10 Jul 2026 14:35:00 +0600",
@@ -285,17 +329,6 @@
       "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/jhh47rj3afln5hvwo2cl6vyqjy.jpg",
       "snippet": "The South Korean chipmaker is the latest to ride a frenzy of investor interest in ​firms perceived as reaping big gains from the AI revolution that has spawned hundreds of billions of dollars in capital spending."
-    },
-    {
-      "title": "461 stranded tourists evacuated from Sajek Valley",
-      "link": "https://www.tbsnews.net/bangladesh/461-stranded-tourists-evacuated-sajek-valley-1484626",
-      "pubDate": "Fri, 10 Jul 2026 14:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/04/29/sajek_valley_d.jpg",
-      "snippet": "A total of 561 tourists had been stranded in Sajek Valley following days of continuous rainfall, landslides, and severed road links."
     },
     {
       "title": "Islami Bank remains remittance leader in FY26 as Krishi, BRAC banks post strong gains",
@@ -1231,29 +1264,7 @@
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/06/private_sector_credit_growth.jpg",
       "snippet": "Bankers and analysts attribute the shift to sluggish private investment, rising non-performing loans (NPLs) and weak loan recovery from several large business groups."
-    },
-    {
-      "title": "PM to inaugurate second unit of neurosciences hospital on 15 Aug: Health minister",
-      "link": "https://www.tbsnews.net/bangladesh/health/pm-inaugurate-second-unit-neurosciences-hospital-15-aug-health-minister-1480481",
-      "pubDate": "Sun, 05 Jul 2026 21:45:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/05/health_minsiter_nnsh.jpg",
-      "snippet": "The minister says the health system will be decentralised so that people from Chattogram and other districts no longer have to travel to Dhaka for treatment."
-    },
-    {
-      "title": "BRAC Bank eyes retail expansion, aims to become ‘Amazon of banks’",
-      "link": "https://www.tbsnews.net/economy/banking/brac-bank-aims-become-amazon-banks-new-retail-banking-strategy-chairman-1480471",
-      "pubDate": "Sun, 05 Jul 2026 21:35:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/06/p1_brac_img_9806.jpg",
-      "snippet": "The bank honours 25 organisations for their exceptional contribution to Bangladesh’s socio-economic development"
     }
   ],
-  "updatedAt": "2026-07-10T15:12:12.163Z"
+  "updatedAt": "2026-07-10T17:18:35.294Z"
 }
