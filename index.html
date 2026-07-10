@@ -7,168 +7,211 @@
     <title>Amer's News</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     
     <script>
-        const savedTheme = localStorage.getItem('theme') || 'dark';
+        const savedTheme = localStorage.getItem('theme') || 'light';
         document.documentElement.setAttribute('data-theme', savedTheme);
     </script>
 
     <style>
-        /* Light Theme (Default CSS variables) */
+        /* Shadcn-inspired CSS Variables */
         :root {
-            --bg-main: #f4f6f8;
-            --bg-card: #ffffff;
-            --text-main: #1a202c;
-            --text-dim: #718096;
-            --border: #e2e8f0;
-            --capsule: #e2e8f0;
-            --capsule-hover: #cbd5e0;
-            --accent: #2b6cb0;
+            --background: #ffffff;
+            --foreground: #09090b;
+            --muted: #f4f4f5;
+            --muted-foreground: #71717a;
+            --border: #e4e4e7;
+            --accent: #f4f4f5;
+            --accent-foreground: #18181b;
+            --radius: 0.3rem;
         }
 
-        /* Dark Theme */
         [data-theme="dark"] {
-            --bg-main: #121212;
-            --bg-card: #1e1e1e;
-            --text-main: #f7fafc;
-            --text-dim: #a0aec0;
-            --border: #333333;
-            --capsule: #2d3748;
-            --capsule-hover: #4a5568;
-            --accent: #63b3ed;
+            --background: #09090b;
+            --foreground: #fafafa;
+            --muted: #27272a;
+            --muted-foreground: #a1a1aa;
+            --border: #27272a;
+            --accent: #27272a;
+            --accent-foreground: #fafafa;
         }
 
-        body { font-family: 'Inter', sans-serif; background: var(--bg-main); color: var(--text-main); margin: 0; padding: 0; transition: background 0.3s, color 0.3s; }
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body { font-family: 'Inter', sans-serif; background: var(--background); color: var(--foreground); transition: background 0.2s, color 0.2s; line-height: 1.5; }
         
-        .container { margin: 0 auto; width: 95%; padding: 20px 0; max-width: 1400px; }
-        @media (min-width: 1024px) { .container { width: 80%; } }
+        .container { margin: 0 auto; width: 95%; padding: 15px 0; max-width: 1400px; }
+        @media (min-width: 1024px) { .container { width: 85%; } }
 
-        /* Top Header Area */
-        .top-bar { display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid var(--border); padding-bottom: 15px; margin-bottom: 20px; font-size: 0.9rem; font-weight: 600; color: var(--text-dim); }
-        .theme-toggle { background: none; border: none; font-size: 1.2rem; cursor: pointer; color: var(--text-main); }
-        .live-clock { text-transform: uppercase; letter-spacing: 0.5px; }
-
-        /* Brand Header */
-        .brand-header { text-align: center; margin-bottom: 30px; }
-        .logo { width: 60px; height: 60px; border-radius: 50%; object-fit: cover; margin-bottom: 10px; }
-        h1 { margin: 0; font-size: 2.5rem; font-weight: 800; letter-spacing: -1px; }
-        .sync-row { display: flex; align-items: center; justify-content: center; gap: 15px; margin-top: 10px; }
+        /* NYT Minimal Header */
+        header { border-bottom: 1px solid var(--border); padding-bottom: 10px; margin-bottom: 15px; }
+        .header-top { display: flex; justify-content: space-between; align-items: center; }
         
-        /* Controls (Search, Sort, View) */
-        .controls-row { display: flex; flex-wrap: wrap; gap: 15px; justify-content: space-between; align-items: center; background: var(--bg-card); padding: 15px; margin-bottom: 20px; border: 1px solid var(--border); }
-        .search-box { flex: 1; min-width: 200px; padding: 10px 15px; border: 1px solid var(--border); background: var(--bg-main); color: var(--text-main); font-family: 'Inter'; outline: none; }
-        .view-sort { display: flex; gap: 15px; align-items: center; }
-        .select-box { padding: 9px; border: 1px solid var(--border); background: var(--bg-main); color: var(--text-main); outline: none; cursor: pointer; }
-        .icon-btn { background: none; border: none; font-size: 1.2rem; cursor: pointer; color: var(--text-dim); opacity: 0.5; transition: opacity 0.2s; }
-        .icon-btn.active { opacity: 1; color: var(--text-main); }
+        .brand-zone { display: flex; align-items: center; gap: 12px; }
+        .logo { width: 32px; height: 32px; border-radius: 50%; object-fit: cover; }
+        h1 { font-size: 1.25rem; font-weight: 800; letter-spacing: -0.02em; }
+        .brand-meta { font-size: 0.75rem; color: var(--muted-foreground); margin-top: 2px; }
 
-        /* Filter Capsules & Accordion */
-        .filter-accordion { background: var(--bg-card); border: 1px solid var(--border); margin-bottom: 25px; }
-        .filter-accordion summary { padding: 15px; font-weight: 600; cursor: pointer; list-style: none; display: flex; justify-content: space-between; }
+        .utility-zone { display: flex; align-items: center; gap: 15px; font-size: 0.8rem; font-weight: 500; color: var(--muted-foreground); }
+        .live-clock { display: none; text-transform: uppercase; letter-spacing: 0.05em; }
+        @media (min-width: 768px) { .live-clock { display: block; } }
+
+        /* Icon Buttons (Search, Theme, Bookmarks) */
+        .icon-btn { background: none; border: none; color: var(--foreground); cursor: pointer; display: flex; align-items: center; justify-content: center; padding: 4px; border-radius: var(--radius); transition: background 0.2s; opacity: 0.7; }
+        .icon-btn:hover { background: var(--accent); opacity: 1; }
+        .icon-btn.active { opacity: 1; }
+        .icon-btn svg { width: 18px; height: 18px; }
+
+        /* Search Dropdown */
+        #search-container { display: none; padding: 10px 0; border-bottom: 1px solid var(--border); margin-bottom: 15px; }
+        .search-box { width: 100%; padding: 10px 12px; border: 1px solid var(--border); background: var(--background); color: var(--foreground); font-family: inherit; border-radius: var(--radius); outline: none; font-size: 0.9rem; }
+        .search-box:focus { border-color: var(--muted-foreground); }
+
+        /* Controls Area */
+        .controls-row { display: flex; flex-wrap: wrap; gap: 10px; justify-content: space-between; align-items: center; margin-bottom: 20px; font-size: 0.85rem; }
+        .select-box { padding: 6px 10px; border: 1px solid var(--border); background: var(--background); color: var(--foreground); border-radius: var(--radius); outline: none; cursor: pointer; font-family: inherit; }
+        
+        .view-toggles { display: flex; gap: 5px; background: var(--muted); padding: 4px; border-radius: var(--radius); }
+        .view-btn { background: transparent; border: none; padding: 4px 8px; border-radius: var(--radius); cursor: pointer; color: var(--muted-foreground); font-size: 0.8rem; font-weight: 600; transition: all 0.2s; }
+        .view-btn.active { background: var(--background); color: var(--foreground); box-shadow: 0 1px 2px rgba(0,0,0,0.05); }
+
+        /* Tight Filter Accordion */
+        .filter-accordion { border: 1px solid var(--border); border-radius: var(--radius); margin-bottom: 20px; font-size: 0.85rem; }
+        .filter-accordion summary { padding: 10px 15px; font-weight: 600; cursor: pointer; list-style: none; display: flex; justify-content: space-between; align-items: center; background: var(--muted); }
         .filter-accordion summary::-webkit-details-marker { display: none; }
-        .filter-accordion summary:after { content: "▼"; font-size: 0.8rem; }
-        .filter-accordion[open] summary:after { content: "▲"; }
-        .filter-bar { display: flex; gap: 10px; flex-wrap: wrap; padding: 0 15px 15px 15px; }
+        .filter-accordion summary:after { content: "+ Expand Filters"; font-size: 0.75rem; color: var(--muted-foreground); }
+        .filter-accordion[open] summary:after { content: "- Collapse"; }
+        .filter-bar { display: flex; gap: 8px; flex-wrap: wrap; padding: 12px 15px; background: var(--background); }
         
-        .capsule { background: var(--capsule); color: var(--text-main); border: none; padding: 6px 16px; border-radius: 999px; cursor: pointer; font-size: 0.85rem; font-weight: 600; transition: background 0.2s; }
-        .capsule:hover { background: var(--capsule-hover); }
-        .capsule.active { background: var(--text-main); color: var(--bg-main); }
+        .capsule { background: var(--muted); color: var(--foreground); border: 1px solid transparent; padding: 4px 12px; border-radius: 99px; cursor: pointer; font-size: 0.8rem; font-weight: 500; transition: all 0.2s; }
+        .capsule:hover { border-color: var(--border); }
+        .capsule.active { background: var(--foreground); color: var(--background); }
 
-        /* News Layouts */
+        /* Layout Systems */
         .layout-grid { display: grid; grid-template-columns: 1fr; gap: 20px; }
-        @media (min-width: 768px) { .layout-grid { grid-template-columns: repeat(3, 1fr); } }
+        @media (min-width: 768px) { .layout-grid { grid-template-columns: repeat(3, 1fr); gap: 25px; } }
         @media (min-width: 1024px) { .layout-grid { grid-template-columns: repeat(4, 1fr); } }
         
-        .layout-masonry { column-count: 1; column-gap: 20px; }
+        .layout-masonry { column-count: 1; column-gap: 25px; }
         @media (min-width: 768px) { .layout-masonry { column-count: 3; } }
         @media (min-width: 1024px) { .layout-masonry { column-count: 4; } }
-        .layout-masonry .news-card { break-inside: avoid; margin-bottom: 20px; }
+        .layout-masonry .news-card { break-inside: avoid; margin-bottom: 25px; }
 
-        .layout-list { display: flex; flex-direction: column; gap: 20px; }
+        .layout-list { display: flex; flex-direction: column; gap: 15px; }
+        
+        /* Drudge-style Text Layout */
+        .layout-text { display: flex; flex-direction: column; gap: 0; }
 
-        /* Card Styles (Flat) */
-        .news-card { background: var(--bg-card); border: 1px solid var(--border); display: flex; flex-direction: column; transition: opacity 0.3s; position: relative; }
-        .news-card.read { opacity: 0.55; }
-        .news-image { width: 100%; height: 200px; object-fit: cover; background: var(--bg-main); border-bottom: 1px solid var(--border); display: block; }
-        .news-content { padding: 20px; display: flex; flex-direction: column; flex-grow: 1; }
+        /* Standard Card Aesthetics */
+        .news-card { display: flex; flex-direction: column; transition: opacity 0.3s; }
+        .news-card.read { opacity: 0.6; }
+        
+        .card-image-wrap { position: relative; width: 100%; height: 200px; margin-bottom: 12px; background: var(--muted); border-radius: var(--radius); overflow: hidden; }
+        .news-image { width: 100%; height: 100%; object-fit: cover; display: block; }
+        
+        .card-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px; }
+        .tag { font-size: 0.7rem; font-weight: 600; text-transform: uppercase; padding: 2px 8px; border-radius: var(--radius); cursor: pointer; border: 1px solid var(--border); background: var(--muted); color: var(--foreground); }
+        
+        /* Bookmark SVG Icon styling */
+        .bookmark-btn { background: none; border: none; cursor: pointer; color: var(--muted-foreground); display: flex; align-items: center; transition: color 0.2s; }
+        .bookmark-btn:hover { color: var(--foreground); }
+        .bookmark-btn.saved { color: #2563eb; } /* Blue filled state */
+
+        .news-title { display: block; color: var(--foreground); text-decoration: none; font-size: 1.05rem; font-weight: 700; line-height: 1.3; margin-bottom: 8px; }
+        .news-title:hover { text-decoration: underline; }
+        
+        .snippet { font-size: 0.85rem; color: var(--muted-foreground); margin-bottom: 12px; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+        
+        .meta { color: var(--muted-foreground); font-size: 0.75rem; display: flex; justify-content: space-between; align-items: center; }
         
         /* List Mode Adjustments */
         @media (min-width: 768px) {
-            .layout-list .news-card { flex-direction: row; }
-            .layout-list .news-image { width: 300px; height: auto; min-height: 200px; border-bottom: none; border-right: 1px solid var(--border); }
+            .layout-list .news-card { flex-direction: row; gap: 20px; align-items: flex-start; padding-bottom: 15px; border-bottom: 1px solid var(--border); }
+            .layout-list .card-image-wrap { width: 280px; height: 160px; flex-shrink: 0; margin-bottom: 0; }
         }
 
-        /* Hero Article (Only applies in Grid view) */
-        .layout-grid .hero-card { grid-column: 1 / -1; display: flex; flex-direction: column; }
+        /* Text Mode Adjustments (Drudge Style) */
+        .layout-text .news-card { flex-direction: column; padding: 10px 0; border-bottom: 1px solid var(--border); gap: 4px; }
+        .layout-text .card-image-wrap { display: none; }
+        .layout-text .card-header { display: none; }
+        .layout-text .news-title { font-size: 1rem; font-weight: 500; display: inline; margin: 0; }
+        .layout-text .snippet { font-size: 0.8rem; margin: 4px 0 0 0; -webkit-line-clamp: 2; }
+        .layout-text .meta { font-size: 0.7rem; margin-top: 4px; }
+
+        /* --- HERO CARD (Grid View Only) --- */
+        .layout-grid .hero-card { grid-column: 1 / -1; position: relative; height: 450px; border-radius: var(--radius); overflow: hidden; margin-bottom: 10px; display: flex; flex-direction: column; justify-content: flex-end; padding: 0; }
+        .hero-card .card-image-wrap { position: absolute; top: 0; left: 0; width: 100%; height: 100%; margin: 0; border-radius: 0; z-index: 1; }
+        .hero-card .news-image { object-fit: cover; }
+        .hero-card .hero-overlay { position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(to bottom, transparent 20%, rgba(0,0,0,0.85) 100%); z-index: 2; }
+        
+        .hero-card .news-content { position: relative; z-index: 3; padding: 25px; display: flex; flex-direction: column; gap: 10px; }
+        /* Force dark theme text colors for hero overlay so it's always readable */
+        .hero-card .tag { background: rgba(255,255,255,0.2); border: none; color: white; }
+        .hero-card .news-title { color: #ffffff; font-size: 1.5rem; font-weight: 800; max-width: 100%; }
+        .hero-card .snippet { color: #d4d4d8; font-size: 0.95rem; max-width: 100%; -webkit-line-clamp: 2; }
+        .hero-card .meta, .hero-card .bookmark-btn { color: #a1a1aa; }
+        
         @media (min-width: 768px) {
-            .layout-grid .hero-card { flex-direction: row; align-items: stretch; }
-            .layout-grid .hero-card .news-image { width: 60%; height: 400px; border-bottom: none; border-right: 1px solid var(--border); }
-            .layout-grid .hero-card .news-content { width: 40%; justify-content: center; padding: 40px; }
-            .layout-grid .hero-card .news-title { font-size: 2rem; }
+            .hero-card .news-content { flex-direction: row; align-items: flex-end; justify-content: space-between; padding: 35px; gap: 30px; }
+            .hero-card .hero-text-block { flex: 1; max-width: 65%; }
+            .hero-card .news-title { font-size: 2.2rem; }
+            .hero-card .snippet { -webkit-line-clamp: 3; }
+            .hero-card .hero-meta-block { display: flex; flex-direction: column; align-items: flex-end; gap: 15px; }
         }
-
-        /* Typography & Utilities inside cards */
-        .card-header { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 12px; }
-        .tag { font-size: 0.75rem; font-weight: 700; text-transform: uppercase; padding: 4px 10px; border-radius: 999px; cursor: pointer; border: 1px solid rgba(150,150,150,0.2); }
-        .tag:hover { filter: brightness(1.2); }
-        .bookmark-btn { background: none; border: none; font-size: 1.2rem; cursor: pointer; color: var(--text-dim); }
-        .bookmark-btn.saved { color: #f6ad55; }
-
-        .news-title { display: block; color: var(--text-main); text-decoration: none; font-size: 1.1rem; font-weight: 700; line-height: 1.4; margin-bottom: 15px; }
-        .news-title:hover { text-decoration: underline; color: var(--accent); }
-        
-        .meta { color: var(--text-dim); font-size: 0.8rem; margin-top: auto; padding-top: 15px; border-top: 1px solid var(--border); display: flex; justify-content: space-between; align-items: center; }
-        
-        /* Social Share */
-        .social-row { display: flex; gap: 10px; }
-        .social-row a { color: var(--text-dim); text-decoration: none; font-size: 1rem; transition: color 0.2s; }
-        .social-row a:hover { color: var(--accent); }
 
         /* Pagination & Footer */
-        .load-more { display: block; width: 100%; padding: 15px; margin-top: 30px; background: var(--bg-card); color: var(--text-main); border: 1px solid var(--border); font-weight: 700; cursor: pointer; transition: background 0.2s; }
-        .load-more:hover { background: var(--capsule); }
+        .load-more { display: block; width: 100%; padding: 12px; margin-top: 30px; background: var(--background); color: var(--foreground); border: 1px solid var(--border); border-radius: var(--radius); font-weight: 600; cursor: pointer; transition: background 0.2s; font-size: 0.9rem; }
+        .load-more:hover { background: var(--muted); }
         
-        footer { text-align: center; padding: 40px 0; margin-top: 40px; border-top: 1px solid var(--border); color: var(--text-dim); font-size: 0.9rem; }
-        footer a { color: var(--accent); text-decoration: none; font-weight: 600; }
+        footer { text-align: center; padding: 40px 0; margin-top: 40px; border-top: 1px solid var(--border); color: var(--muted-foreground); font-size: 0.85rem; }
+        footer a { color: var(--foreground); text-decoration: underline; font-weight: 500; }
     </style>
 </head>
 <body>
     <div class="container">
         
-        <div class="top-bar">
-            <button id="theme-btn" class="theme-toggle" onclick="toggleTheme()" title="Toggle Dark/Light Mode"></button>
-            <div id="live-datetime" class="live-clock"></div>
-        </div>
-
-        <div class="brand-header">
-            <img src="https://amerhabib.com/wp-content/uploads/2023/03/new_me.jpg" alt="Amer Habib Logo" class="logo">
-            <h1>Amer's News</h1>
-            <div class="sync-row">
-                <span id="sync-status" style="font-size: 0.85rem; color: var(--text-dim);">Fetching latest data...</span>
-                <button class="capsule" style="padding: 4px 10px; font-size: 0.75rem;" onclick="init()">↻ Force Sync</button>
+        <header>
+            <div class="header-top">
+                <div class="brand-zone">
+                    <img src="https://amerhabib.com/wp-content/uploads/2023/03/new_me.jpg" alt="Logo" class="logo">
+                    <div>
+                        <h1>Amer's News</h1>
+                        <div class="brand-meta" id="sync-status">Fetching latest data...</div>
+                    </div>
+                </div>
+                
+                <div class="utility-zone">
+                    <div id="live-datetime" class="live-clock"></div>
+                    <button class="icon-btn" onclick="toggleSearch()" title="Search">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+                    </button>
+                    <button id="theme-btn" class="icon-btn" onclick="toggleTheme()" title="Toggle Theme">
+                        </button>
+                </div>
             </div>
+        </header>
+
+        <div id="search-container">
+            <input type="text" id="search-box" class="search-box" placeholder="Search articles, keywords..." oninput="handleSearch()">
         </div>
 
         <div class="controls-row">
-            <input type="text" id="search-box" class="search-box" placeholder="Search articles, keywords..." oninput="handleSearch()">
+            <select id="sort-box" class="select-box" onchange="handleSort()">
+                <option value="newest">Sort: Newest</option>
+                <option value="oldest">Sort: Oldest</option>
+                <option value="bookmarks">View Saved</option>
+            </select>
             
-            <div class="view-sort">
-                <select id="sort-box" class="select-box" onchange="handleSort()">
-                    <option value="newest">Sort: Newest First</option>
-                    <option value="oldest">Sort: Oldest First</option>
-                    <option value="alpha">Sort: A-Z</option>
-                    <option value="bookmarks">View Bookmarks Only</option>
-                </select>
-                
-                <button class="icon-btn active" id="view-grid" onclick="setView('grid')" title="Grid View">⊞</button>
-                <button class="icon-btn" id="view-masonry" onclick="setView('masonry')" title="Masonry View">⚏</button>
-                <button class="icon-btn" id="view-list" onclick="setView('list')" title="List View">☰</button>
+            <div class="view-toggles">
+                <button class="view-btn active" id="view-grid" onclick="setView('grid')">Grid</button>
+                <button class="view-btn" id="view-masonry" onclick="setView('masonry')">Masonry</button>
+                <button class="view-btn" id="view-list" onclick="setView('list')">List</button>
+                <button class="view-btn" id="view-text" onclick="setView('text')">Text</button>
             </div>
         </div>
 
         <details class="filter-accordion" id="filter-details">
-            <summary>Filter Categories</summary>
+            <summary>Categories & Topics</summary>
             <div id="filter-container" class="filter-bar">
                 </div>
         </details>
@@ -187,7 +230,7 @@
         // State Management
         let globalData = [];
         let filteredData = [];
-        let itemsPerPage = 13; // 1 Hero + 12 Cards
+        let itemsPerPage = 13; 
         let currentDisplayed = itemsPerPage;
         let currentView = 'grid';
         
@@ -195,18 +238,22 @@
         let readArticles = JSON.parse(localStorage.getItem('readArticles') || '[]');
         let bookmarks = JSON.parse(localStorage.getItem('bookmarks') || '[]');
 
-        // Initialize Live Clock
+        // SVGs
+        const svgSun = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2"/><path d="M12 20v2"/><path d="m4.93 4.93 1.41 1.41"/><path d="m17.66 17.66 1.41 1.41"/><path d="M2 12h2"/><path d="M20 12h2"/><path d="m6.34 17.66-1.41 1.41"/><path d="m19.07 4.93-1.41 1.41"/></svg>`;
+        const svgMoon = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/></svg>`;
+        const svgBookmarkEmpty = `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z"/></svg>`;
+        const svgBookmarkFilled = `<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m19 21-7-4-7 4V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2v16z"/></svg>`;
+
         function updateClock() {
             const now = new Date();
-            const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit' };
+            const options = { weekday: 'short', month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' };
             document.getElementById('live-datetime').innerText = now.toLocaleDateString('en-US', options);
         }
         setInterval(updateClock, 60000); updateClock();
 
-        // Theme Setup
         function setupThemeIcon() {
             const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
-            document.getElementById('theme-btn').innerText = isDark ? '☀️ Light' : '🌙 Dark';
+            document.getElementById('theme-btn').innerHTML = isDark ? svgSun : svgMoon;
         }
         setupThemeIcon();
 
@@ -218,7 +265,16 @@
             setupThemeIcon();
         }
 
-        // Relative Time logic
+        window.toggleSearch = function() {
+            const el = document.getElementById('search-container');
+            if (el.style.display === 'block') {
+                el.style.display = 'none';
+            } else {
+                el.style.display = 'block';
+                document.getElementById('search-box').focus();
+            }
+        }
+
         function getRelativeTime(dateStr) {
             const diffSecs = Math.floor((new Date() - new Date(dateStr)) / 1000);
             const diffMins = Math.floor(diffSecs / 60);
@@ -232,79 +288,60 @@
             return `${diffDays} days ago`;
         }
 
-        // Set View mode
         window.setView = function(viewType) {
             currentView = viewType;
             document.getElementById('news-container').className = `layout-${viewType}`;
-            
-            // Update Icon opacities
-            document.querySelectorAll('.icon-btn').forEach(btn => btn.classList.remove('active'));
+            document.querySelectorAll('.view-btn').forEach(btn => btn.classList.remove('active'));
             document.getElementById(`view-${viewType}`).classList.add('active');
-            
-            renderArticles(); // Re-render to handle Hero logic
+            renderArticles(); 
         }
 
-        // Setup the filter capsules
         function setupFilters() {
             const container = document.getElementById('filter-container');
-            container.innerHTML = `<button class="capsule active" onclick="filterCategory('All', this)">All News</button>`;
+            container.innerHTML = `<button class="capsule active" onclick="filterCategory('All', this)">All</button>`;
             
             const categories = [...new Set(globalData.map(item => item.category))];
             categories.forEach(cat => {
-                const sample = globalData.find(item => item.category === cat);
-                container.innerHTML += `<button class="capsule" onclick="filterCategory('${cat}', this)">${sample.icon} ${cat}</button>`;
+                container.innerHTML += `<button class="capsule" onclick="filterCategory('${cat}', this)">${cat}</button>`;
             });
-            
-            // Auto-open accordion on Desktop
-            if (window.innerWidth >= 1024) document.getElementById('filter-details').open = true;
         }
 
         window.filterCategory = function(category, btnElement) {
-            // Update Active Buttons
             document.querySelectorAll('.capsule').forEach(b => b.classList.remove('active'));
             if(btnElement) btnElement.classList.add('active');
             else {
                 document.querySelectorAll('.capsule').forEach(b => {
-                    if (b.innerText.includes(category) || (category === 'All' && b.innerText === 'All News')) b.classList.add('active');
+                    if (b.innerText.includes(category) || (category === 'All' && b.innerText === 'All')) b.classList.add('active');
                 });
             }
-
-            // Reset search box when clicking a category
             document.getElementById('search-box').value = '';
-            
             applyFiltersAndSort();
         }
 
         window.handleSearch = function() { applyFiltersAndSort(); }
         window.handleSort = function() { applyFiltersAndSort(); }
 
-        // Core logic: Filters data based on Category, Search, and Sort state
         function applyFiltersAndSort() {
             const activeBtn = document.querySelector('.capsule.active');
             const category = activeBtn ? activeBtn.innerText.replace(/[^\w\s]/gi, '').trim() : 'All';
             const searchTerm = document.getElementById('search-box').value.toLowerCase();
             const sortMode = document.getElementById('sort-box').value;
 
-            // 1. Filter Category & Bookmarks
             filteredData = globalData;
             if (sortMode === 'bookmarks') {
                 filteredData = filteredData.filter(item => bookmarks.includes(item.link));
-            } else if (category !== 'All' && category !== 'All News') {
+            } else if (category !== 'All') {
                 filteredData = filteredData.filter(item => item.category === category);
             }
 
-            // 2. Filter Search
             if (searchTerm) {
-                filteredData = filteredData.filter(item => item.title.toLowerCase().includes(searchTerm));
+                filteredData = filteredData.filter(item => item.title.toLowerCase().includes(searchTerm) || (item.snippet && item.snippet.toLowerCase().includes(searchTerm)));
             }
 
-            // 3. Sort
             if (sortMode === 'newest' || sortMode === 'bookmarks') {
                 filteredData.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
             } else if (sortMode === 'oldest') {
                 filteredData.sort((a, b) => new Date(a.pubDate) - new Date(b.pubDate));
-            } else if (sortMode === 'alpha') {
-                filteredData.sort((a, b) => a.title.localeCompare(b.title));
             }
 
             currentDisplayed = itemsPerPage;
@@ -320,65 +357,83 @@
             if (!readArticles.includes(link)) {
                 readArticles.push(link);
                 localStorage.setItem('readArticles', JSON.stringify(readArticles));
-                // Find and dim the card visually without a full re-render
                 document.getElementById(`card-${btoa(link).replace(/=/g,'')}`).classList.add('read');
             }
         }
 
         window.toggleBookmark = function(event, link) {
-            event.preventDefault(); // Stop link from opening
-            
+            event.preventDefault();
+            const btn = event.currentTarget;
             if (bookmarks.includes(link)) {
                 bookmarks = bookmarks.filter(l => l !== link);
-                event.target.innerHTML = '☆';
-                event.target.classList.remove('saved');
+                btn.innerHTML = svgBookmarkEmpty;
+                btn.classList.remove('saved');
             } else {
                 bookmarks.push(link);
-                event.target.innerHTML = '★';
-                event.target.classList.add('saved');
+                btn.innerHTML = svgBookmarkFilled;
+                btn.classList.add('saved');
             }
             localStorage.setItem('bookmarks', JSON.stringify(bookmarks));
-            
-            // If currently in bookmark view, re-filter
             if (document.getElementById('sort-box').value === 'bookmarks') applyFiltersAndSort();
         }
 
-        // HTML Generator for a single card
-        function buildCardHtml(item, isHero = false) {
+        function buildHeroHtml(item) {
             const isRead = readArticles.includes(item.link);
             const isBookmarked = bookmarks.includes(item.link);
             const cardId = `card-${btoa(item.link).replace(/=/g,'')}`;
-            
-            const imageHtml = item.image 
-                ? `<a href="${item.link}" target="_blank" onclick="markRead('${item.link}')"><img src="${item.image}" alt="News thumbnail" class="news-image" loading="lazy"></a>` 
-                : `<div class="news-image" style="display:flex;align-items:center;justify-content:center;color:var(--text-dim);">No Image</div>`;
-
-            // Social Share URLs
-            const encodedUrl = encodeURIComponent(item.link);
-            const encodedTitle = encodeURIComponent(item.title);
+            const snippet = item.snippet || '';
 
             return `
-                <div id="${cardId}" class="news-card ${isHero ? 'hero-card' : ''} ${isRead ? 'read' : ''}">
+                <div id="${cardId}" class="hero-card ${isRead ? 'read' : ''}">
+                    <div class="card-image-wrap">
+                        ${item.image ? `<img src="${item.image}" class="news-image">` : ''}
+                        <div class="hero-overlay"></div>
+                    </div>
+                    
+                    <div class="news-content">
+                        <div class="hero-text-block">
+                            <span class="tag" onclick="filterCategory('${item.category}')">${item.category}</span>
+                            <a class="news-title" href="${item.link}" target="_blank" onclick="markRead('${item.link}')">${item.title}</a>
+                            <div class="snippet">${snippet}</div>
+                        </div>
+                        
+                        <div class="hero-meta-block">
+                            <button class="bookmark-btn ${isBookmarked ? 'saved' : ''}" onclick="toggleBookmark(event, '${item.link}')" title="Save">
+                                ${isBookmarked ? svgBookmarkFilled : svgBookmarkEmpty}
+                            </button>
+                            <div class="meta">
+                                <span>${getRelativeTime(item.pubDate)}</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            `;
+        }
+
+        function buildCardHtml(item) {
+            const isRead = readArticles.includes(item.link);
+            const isBookmarked = bookmarks.includes(item.link);
+            const cardId = `card-${btoa(item.link).replace(/=/g,'')}`;
+            const snippet = item.snippet || '';
+            
+            const imageHtml = item.image 
+                ? `<a href="${item.link}" target="_blank" onclick="markRead('${item.link}')" class="card-image-wrap"><img src="${item.image}" alt="Thumbnail" class="news-image" loading="lazy"></a>` 
+                : `<div class="card-image-wrap" style="display:flex;align-items:center;justify-content:center;color:var(--muted-foreground);font-size:0.8rem;">No Image</div>`;
+
+            return `
+                <div id="${cardId}" class="news-card ${isRead ? 'read' : ''}">
                     ${imageHtml}
                     <div class="news-content">
                         <div class="card-header">
-                            <span class="tag" style="background-color: ${item.bg}; color: ${item.color};" onclick="filterCategory('${item.category}')">
-                                ${item.icon} ${item.category}
-                            </span>
-                            <button class="bookmark-btn ${isBookmarked ? 'saved' : ''}" onclick="toggleBookmark(event, '${item.link}')" title="Bookmark Article">
-                                ${isBookmarked ? '★' : '☆'}
+                            <span class="tag" onclick="filterCategory('${item.category}')">${item.category}</span>
+                            <button class="bookmark-btn ${isBookmarked ? 'saved' : ''}" onclick="toggleBookmark(event, '${item.link}')" title="Save">
+                                ${isBookmarked ? svgBookmarkFilled : svgBookmarkEmpty}
                             </button>
                         </div>
-                        
-                        <a class="news-title" href="${item.link}" target="_blank" rel="noopener" onclick="markRead('${item.link}')">${item.title}</a>
-                        
+                        <a class="news-title" href="${item.link}" target="_blank" onclick="markRead('${item.link}')">${item.title}</a>
+                        <div class="snippet">${snippet}</div>
                         <div class="meta">
-                            <span title="${new Date(item.pubDate).toLocaleString()}">${getRelativeTime(item.pubDate)}</span>
-                            <div class="social-row">
-                                <a href="https://twitter.com/intent/tweet?url=${encodedUrl}&text=${encodedTitle}" target="_blank" title="Share on Twitter">𝕏</a>
-                                <a href="https://www.linkedin.com/shareArticle?mini=true&url=${encodedUrl}&title=${encodedTitle}" target="_blank" title="Share on LinkedIn">in</a>
-                                <a href="mailto:?subject=${encodedTitle}&body=Check out this article: ${encodedUrl}" title="Email this">✉</a>
-                            </div>
+                            <span>${getRelativeTime(item.pubDate)}</span>
                         </div>
                     </div>
                 </div>
@@ -390,7 +445,7 @@
             container.innerHTML = '';
 
             if (filteredData.length === 0) {
-                container.innerHTML = '<p style="color: var(--text-dim); padding: 20px;">No articles found matching this criteria.</p>';
+                container.innerHTML = '<p style="color: var(--muted-foreground); padding: 20px;">No articles found.</p>';
                 document.getElementById('load-more-btn').style.display = 'none';
                 return;
             }
@@ -398,38 +453,38 @@
             const itemsToRender = filteredData.slice(0, currentDisplayed);
             let html = '';
 
-            // Apply Hero Logic: Only if sorted by newest, grid view, no search, and 'All' category
+            // Apply Hero Logic only on Grid view, newest sort, empty search, All category
             const isDefaultState = (currentView === 'grid' && document.getElementById('search-box').value === '' && document.getElementById('sort-box').value === 'newest');
 
             if (isDefaultState && itemsToRender.length > 0) {
-                html += buildCardHtml(itemsToRender[0], true); // First item is Hero
-                itemsToRender.slice(1).forEach(item => html += buildCardHtml(item, false));
+                html += buildHeroHtml(itemsToRender[0]);
+                itemsToRender.slice(1).forEach(item => html += buildCardHtml(item));
             } else {
-                itemsToRender.forEach(item => html += buildCardHtml(item, false));
+                itemsToRender.forEach(item => html += buildCardHtml(item));
             }
 
             container.innerHTML = html;
-
-            // Load More button visibility
             document.getElementById('load-more-btn').style.display = (currentDisplayed < filteredData.length) ? 'block' : 'none';
         }
 
         async function init() {
             try {
-                document.getElementById('sync-status').innerText = "Fetching latest data...";
                 const response = await fetch('./data.json?t=' + new Date().getTime());
                 const data = await response.json();
                 
                 globalData = data.news;
-                document.getElementById('sync-status').innerText = `Synced: ${new Date(data.updatedAt).toLocaleTimeString()}`;
+                
+                // Format the sync time nicely
+                const syncTime = new Date(data.updatedAt).toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'});
+                document.getElementById('sync-status').innerText = `Updated ${syncTime}`;
                 
                 if(document.getElementById('filter-container').innerHTML.trim() === "") {
                     setupFilters();
                 }
                 
-                applyFiltersAndSort(); // Trigger initial render
+                applyFiltersAndSort(); 
             } catch (error) {
-                document.getElementById('sync-status').innerText = 'Failed to load data. Waiting for GitHub Action...';
+                document.getElementById('sync-status').innerText = 'Sync failed. Waiting for runner...';
             }
         }
         
