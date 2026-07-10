@@ -2,24 +2,47 @@
 <html lang="en" data-theme="dark">
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Amer's News</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+    
+    <script>
+        const savedTheme = localStorage.getItem('theme') || 'dark';
+        document.documentElement.setAttribute('data-theme', savedTheme);
+    </script>
+
     <style>
-        /* [ ... Keep your existing CSS variables and styles here ... ] */
+        :root { --bg-main: #f4f6f8; --bg-card: #ffffff; --text-main: #1a202c; --text-dim: #718096; --border: #e2e8f0; --capsule: #e2e8f0; --capsule-hover: #cbd5e0; --accent: #2b6cb0; }
+        [data-theme="dark"] { --bg-main: #121212; --bg-card: #1e1e1e; --text-main: #f7fafc; --text-dim: #a0aec0; --border: #333333; --capsule: #2d3748; --capsule-hover: #4a5568; --accent: #63b3ed; }
+
+        body { font-family: 'Inter', sans-serif; background: var(--bg-main); color: var(--text-main); margin: 0; padding: 0; transition: background 0.3s, color 0.3s; }
+        .container { margin: 0 auto; width: 95%; padding: 20px 0; max-width: 1400px; }
+        @media (min-width: 1024px) { .container { width: 80%; } }
+
+        .top-bar { display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid var(--border); padding-bottom: 15px; margin-bottom: 20px; font-size: 0.9rem; font-weight: 600; color: var(--text-dim); }
+        .theme-toggle { background: none; border: none; font-size: 1.2rem; cursor: pointer; color: var(--text-main); }
+        .brand-header { text-align: center; margin-bottom: 30px; }
+        .logo { width: 60px; height: 60px; border-radius: 50%; object-fit: cover; margin-bottom: 10px; }
+        h1 { margin: 0; font-size: 2.5rem; font-weight: 800; }
         
-        /* New Modal Styles */
-        .modal { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.8); z-index: 1000; overflow-y: auto; }
-        .modal-content { background: var(--bg-card); width: 80%; margin: 50px auto; padding: 40px; border: 1px solid var(--border); position: relative; }
+        .modal { display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: rgba(0,0,0,0.9); z-index: 1000; overflow-y: auto; }
+        .modal-content { background: var(--bg-card); width: 85%; margin: 50px auto; padding: 40px; border: 1px solid var(--border); position: relative; color: var(--text-main); }
         .close-btn { position: absolute; top: 20px; right: 20px; cursor: pointer; font-size: 2rem; }
         
-        /* Card Tweaks */
-        .snippet { font-size: 0.9rem; color: var(--text-dim); margin-bottom: 15px; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
-        .read-btn { cursor: pointer; background: var(--capsule); border: none; padding: 8px; margin-top: 10px; width: 100%; color: var(--text-main); font-weight: 600; }
+        .news-grid { display: grid; grid-template-columns: 1fr; gap: 20px; }
+        @media (min-width: 768px) { .news-grid { grid-template-columns: repeat(3, 1fr); } }
+        @media (min-width: 1024px) { .news-grid { grid-template-columns: repeat(4, 1fr); } }
+        
+        .news-card { background: var(--bg-card); border: 1px solid var(--border); padding: 20px; display: flex; flex-direction: column; }
+        .news-image { width: 100%; height: 200px; object-fit: cover; margin-bottom: 15px; display: block; }
+        .snippet { font-size: 0.9rem; color: var(--text-dim); margin-bottom: 15px; }
+        .read-btn { cursor: pointer; background: var(--capsule); border: none; padding: 10px; width: 100%; font-weight: 600; }
     </style>
 </head>
 <body>
-
-    <!-- Modal Pop-up -->
     <div id="article-modal" class="modal">
         <div class="modal-content">
             <span class="close-btn" onclick="closeModal()">&times;</span>
@@ -27,49 +50,62 @@
         </div>
     </div>
 
-    <!-- [ ... Your existing HTML content ... ] -->
+    <div class="container">
+        <div class="top-bar">
+            <button id="theme-btn" class="theme-toggle" onclick="toggleTheme()"></button>
+            <div id="live-datetime"></div>
+        </div>
+        <div class="brand-header">
+            <img src="https://amerhabib.com/wp-content/uploads/2023/03/new_me.jpg" alt="Logo" class="logo">
+            <h1>Amer's News</h1>
+        </div>
+        <div id="news-container" class="news-grid"></div>
+    </div>
 
     <script>
-        // ... (Keep existing JS logic) ...
+        let globalNewsData = [];
 
-        // NEW: Modal Logic
         window.openModal = async function(link) {
-            const modal = document.getElementById('article-modal');
-            const body = document.getElementById('modal-body');
-            modal.style.display = 'block';
-            body.innerHTML = 'Fetching article...';
-
+            document.getElementById('article-modal').style.display = 'block';
+            document.getElementById('modal-body').innerHTML = 'Fetching article...';
             try {
                 const response = await fetch(link);
                 const text = await response.text();
-                const parser = new DOMParser();
-                const doc = parser.parseFromString(text, 'text/html');
-                // Target the main article body of TBS (standard selector)
+                const doc = new DOMParser().parseFromString(text, 'text/html');
                 const content = doc.querySelector('.article-content') || doc.querySelector('article') || doc.body;
-                body.innerHTML = content.innerHTML;
+                document.getElementById('modal-body').innerHTML = content.innerHTML;
             } catch (e) {
-                body.innerHTML = 'Could not load article directly. <a href="'+link+'" target="_blank">Click here to read on site</a>';
+                document.getElementById('modal-body').innerHTML = 'Could not load directly. <a href="'+link+'" target="_blank">Read on site</a>';
             }
         }
+        window.closeModal = () => document.getElementById('article-modal').style.display = 'none';
 
-        window.closeModal = function() {
-            document.getElementById('article-modal').style.display = 'none';
+        window.toggleTheme = function() {
+            const next = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+            document.documentElement.setAttribute('data-theme', next);
+            localStorage.setItem('theme', next);
+            document.getElementById('theme-btn').innerText = next === 'dark' ? '🌙' : '☀️';
         }
 
-        // Updated buildCardHtml function to include snippet and button
-        function buildCardHtml(item, isHero = false) {
-            // ... (keep existing card structure)
-            return `
-                <div class="news-card">
-                    ${imageHtml}
-                    <div class="news-content">
-                        <!-- ... -->
-                        <div class="snippet">${item.snippet}</div>
+        async function init() {
+            const response = await fetch('./data.json?t=' + new Date().getTime());
+            const data = await response.json();
+            globalNewsData = data.news;
+            const container = document.getElementById('news-container');
+            container.innerHTML = '';
+            globalNewsData.forEach(item => {
+                container.innerHTML += `
+                    <div class="news-card">
+                        ${item.image ? `<img src="${item.image}" class="news-image">` : ''}
+                        <h3>${item.title}</h3>
+                        <div class="snippet">${item.snippet || ''}</div>
                         <button class="read-btn" onclick="openModal('${item.link}')">Read Here</button>
                     </div>
-                </div>
-            `;
+                `;
+            });
         }
+        init();
+        document.getElementById('theme-btn').innerText = localStorage.getItem('theme') === 'dark' ? '🌙' : '☀️';
     </script>
 </body>
 </html>
