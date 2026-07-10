@@ -78,17 +78,6 @@
       "snippet": "At least 30 people have been killed in separate landslide incidents across five districts over the past five days."
     },
     {
-      "title": "Kaptai lake hydroelectric plant boosts power generation to 179 MW",
-      "link": "https://www.tbsnews.net/bangladesh/kaptai-lake-hydroelectric-plant-boosts-power-generation-179-mw-1484911",
-      "pubDate": "Fri, 10 Jul 2026 21:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/kaptai-lake-hydroelectric-plant.jpg",
-      "snippet": "The recent rainfall has improved water inflow, allowing the plant to increase electricity generation."
-    },
-    {
       "title": "Bangladesh to host RCOY for the first time in history",
       "link": "https://www.tbsnews.net/bangladesh/bangladesh-host-rcoy-first-time-history-1484906",
       "pubDate": "Fri, 10 Jul 2026 21:20:00 +0600",
@@ -98,6 +87,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/2b0a7ebf86d4f67f2e6e0274cfa0cb88_0.jpeg",
       "snippet": ""
+    },
+    {
+      "title": "Kaptai lake hydroelectric plant boosts power generation to 179 MW",
+      "link": "https://www.tbsnews.net/bangladesh/kaptai-lake-hydroelectric-plant-boosts-power-generation-179-mw-1484911",
+      "pubDate": "Fri, 10 Jul 2026 21:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/kaptai-lake-hydroelectric-plant.jpg",
+      "snippet": "The recent rainfall has improved water inflow, allowing the plant to increase electricity generation."
     },
     {
       "title": "Bangladesh, Turkey to set up joint drone factory: State minister",
@@ -1244,5 +1244,5 @@
       "snippet": "Experts call for immediate screening as seven more children die from measles-like symptoms"
     }
   ],
-  "updatedAt": "2026-07-10T20:49:46.874Z"
+  "updatedAt": "2026-07-10T22:03:00.048Z"
 }
