@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "Flood toll climbs to 39 as 9.28 lakh affected across five districts in Ctg",
+      "link": "https://www.tbsnews.net/bangladesh/flood-toll-climbs-39-928-lakh-affected-across-five-districts-chattogram-1484966",
+      "pubDate": "Sat, 11 Jul 2026 00:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/coxs_bazar_flood_1.jpeg",
+      "snippet": "According to the Chattogram district administration, 1,88,648 families have been affected in 16 upazilas, including Chattogram city, following days of torrential rain, hill runoff and landslides."
+    },
+    {
+      "title": "Army deployed in Chattogram to assist flash flood response",
+      "link": "https://www.tbsnews.net/bangladesh/army-deployed-chattogram-assist-flash-flood-response-1484961",
+      "pubDate": "Sat, 11 Jul 2026 00:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/army_distributes_flood_relief.jpeg",
+      "snippet": "Continuous heavy rainfall and hill runoff have caused severe flooding in Lohagara, Satkania, Chandanaish, and Banshkhali upazilas, leaving around 4,00,000 people stranded and affected"
+    },
+    {
+      "title": "Govt urges media to follow court directives on broadcasting Hasina's statements",
+      "link": "https://www.tbsnews.net/bangladesh/govt-urges-media-follow-court-directives-broadcasting-hasinas-statements-1484956",
+      "pubDate": "Fri, 10 Jul 2026 23:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/06/govt_of_bangladesh.jpg",
+      "snippet": "On 5 December 2024, the International Crimes Tribunal (ICT) imposed a ban on broadcasting statements by the deposed and fugitive prime minister."
+    },
+    {
       "title": "PM asks administration, party leaders to stand by flood victims",
       "link": "https://www.tbsnews.net/bangladesh/pm-asks-administration-party-leaders-stand-flood-victims-1484951",
       "pubDate": "Fri, 10 Jul 2026 22:20:00 +0600",
@@ -45,17 +78,6 @@
       "snippet": "At least 30 people have been killed in separate landslide incidents across five districts over the past five days."
     },
     {
-      "title": "Bangladesh to host RCOY for the first time in history",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-host-rcoy-first-time-history-1484906",
-      "pubDate": "Fri, 10 Jul 2026 21:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/2b0a7ebf86d4f67f2e6e0274cfa0cb88_0.jpeg",
-      "snippet": ""
-    },
-    {
       "title": "Kaptai lake hydroelectric plant boosts power generation to 179 MW",
       "link": "https://www.tbsnews.net/bangladesh/kaptai-lake-hydroelectric-plant-boosts-power-generation-179-mw-1484911",
       "pubDate": "Fri, 10 Jul 2026 21:20:00 +0600",
@@ -65,6 +87,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/kaptai-lake-hydroelectric-plant.jpg",
       "snippet": "The recent rainfall has improved water inflow, allowing the plant to increase electricity generation."
+    },
+    {
+      "title": "Bangladesh to host RCOY for the first time in history",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-host-rcoy-first-time-history-1484906",
+      "pubDate": "Fri, 10 Jul 2026 21:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/2b0a7ebf86d4f67f2e6e0274cfa0cb88_0.jpeg",
+      "snippet": ""
     },
     {
       "title": "Bangladesh, Turkey to set up joint drone factory: State minister",
@@ -188,7 +221,7 @@
       "snippet": "ChatGPT Work is a direct answer to Anthropic's Claude Cowork, an ⁠agent it launched in January that is capable of planning and executing multi-step tasks autonomously."
     },
     {
-      "title": "Flood fears loom for more low-lying areas as upstream deluge intensifies",
+      "title": "River levels rising as flood threat looms over several districts",
       "link": "https://www.tbsnews.net/bangladesh/flood-fears-loom-more-low-lying-areas-upstream-deluge-intensifies-1484796",
       "pubDate": "Fri, 10 Jul 2026 18:10:00 +0600",
       "category": "Bangladesh",
@@ -196,7 +229,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/flood_in-ctg.jpg",
-      "snippet": "Heavy rainfall in upstream India and a low-pressure system over the northwestern Bay have kept flood conditions active across parts of Bangladesh, with authorities warning that rising river levels could inundate new low-lying areas over the next 24 t..."
+      "snippet": "The Khowai River at Balla point in Habiganj remained the worst affected, flowing 192cm above the danger level."
     },
     {
       "title": "Downpour leaves parts of Dhaka waterlogged",
@@ -219,39 +252,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/spain_wildfire_9_july.jpg",
       "snippet": "Most of the victims appeared to be foreign nationals who ignored instructions to shelter in place and decided to try to flee in their cars, an official said."
-    },
-    {
-      "title": "30,000 marooned as Khowai embankment collapse floods 25 villages in Habiganj",
-      "link": "https://www.tbsnews.net/bangladesh/30000-marooned-khowai-embankment-collapse-floods-25-villages-habiganj-1484771",
-      "pubDate": "Fri, 10 Jul 2026 17:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/habiganj_flood.jpg",
-      "snippet": "The breach in the Khowai River protection embankment followed days of heavy rain and upstream runoff, flooding villages in Habiganj Sadar, Bahubal and Baniachong upazilas."
-    },
-    {
-      "title": "2 children swept away, killed by onrush of upstream water in Ctg's Banshkhali ",
-      "link": "https://www.tbsnews.net/bangladesh/2-children-swept-away-killed-onrush-upstream-water-ctgs-banshkhali-1484761",
-      "pubDate": "Fri, 10 Jul 2026 16:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/ctg_mirsharai_flood.jpg",
-      "snippet": "Both children were in the yards of their respective homes when strong currents flowing down from the east swept them away."
-    },
-    {
-      "title": "PM orders prompt measures to support flood victims",
-      "link": "https://www.tbsnews.net/bangladesh/pm-orders-prompt-measures-support-flood-victims-1484766",
-      "pubDate": "Fri, 10 Jul 2026 16:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/06/food_safety_pm.jpeg",
-      "snippet": "The Prime Minister has directed leaders and activists of the ruling BNP and its affiliated and associate bodies to stand by the flood victims."
     },
     {
       "title": "Measles: Death toll reaches 750 as 3 more children die in 24 hours",
@@ -848,17 +848,6 @@
       "snippet": ""
     },
     {
-      "title": "School feeding irregularities: State Minister orders swift probe, stern action",
-      "link": "https://www.tbsnews.net/bangladesh/education/school-feeding-irregularities-state-minister-orders-swift-probe-stern-action",
-      "pubDate": "Tue, 07 Jul 2026 19:10:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/20/bobby_hajjaj.jpg",
-      "snippet": "Following the minister's instruction, the ministry directed the Director General (DG) of the Primary Education to conduct a swift investigation into the allegations, take action against those responsible in accordance with the law and submit the inve..."
-    },
-    {
       "title": "Bill placed in parliament to establish full-fledged public university in Bogura",
       "link": "https://www.tbsnews.net/bangladesh/education/bill-placed-parliament-establish-full-fledged-public-university-bogura-1482306",
       "pubDate": "Tue, 07 Jul 2026 19:10:00 +0600",
@@ -868,6 +857,17 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/bogura_university.jpg",
       "snippet": "The proposed law seeks to replace the unimplemented 2001 legislation for a science and technology university with a full-fledged public university."
+    },
+    {
+      "title": "School feeding irregularities: State Minister orders swift probe, stern action",
+      "link": "https://www.tbsnews.net/bangladesh/education/school-feeding-irregularities-state-minister-orders-swift-probe-stern-action",
+      "pubDate": "Tue, 07 Jul 2026 19:10:00 +0600",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/20/bobby_hajjaj.jpg",
+      "snippet": "Following the minister's instruction, the ministry directed the Director General (DG) of the Primary Education to conduct a swift investigation into the allegations, take action against those responsible in accordance with the law and submit the inve..."
     },
     {
       "title": "Forex reserves stand at $27.93b",
@@ -1242,29 +1242,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/04/measles.jpg",
       "snippet": "Experts call for immediate screening as seven more children die from measles-like symptoms"
-    },
-    {
-      "title": "Production halted at three Ctg apparel factories over structural safety risks",
-      "link": "https://www.tbsnews.net/economy/industry/production-halted-three-ctg-apparel-factories-over-structural-safety-risks-1480561",
-      "pubDate": "Mon, 06 Jul 2026 00:40:00 +0600",
-      "category": "Industry",
-      "color": "#f57c00",
-      "bg": "#fff3e0",
-      "icon": "🏭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/08/rmg_1.jpg",
-      "snippet": "The factories – HB Fashions Ltd, HKTG Garments Ltd, and Chumki Apparels Ltd – operate from a six-storey building on Colonel Jones Road in North Kattali under Pahartali Police Station."
-    },
-    {
-      "title": "Banks turn to govt securities as private credit growth still sluggish at 4.98%",
-      "link": "https://www.tbsnews.net/economy/banking/banks-turn-govt-securities-private-credit-growth-still-sluggish-498-1480541",
-      "pubDate": "Sun, 05 Jul 2026 23:50:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/06/private_sector_credit_growth.jpg",
-      "snippet": "Bankers and analysts attribute the shift to sluggish private investment, rising non-performing loans (NPLs) and weak loan recovery from several large business groups."
     }
   ],
-  "updatedAt": "2026-07-10T17:18:35.294Z"
+  "updatedAt": "2026-07-10T19:00:37.997Z"
 }
