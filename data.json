@@ -1,6 +1,56 @@
 {
   "news": [
     {
+      "title": "National Herbarium identifies 442 new plant species",
+      "link": "https://www.tbsnews.net/bangladesh/environment/national-herbarium-identifies-442-new-plant-species-1484396",
+      "pubDate": "Fri, 10 Jul 2026 11:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/plants_representational.jpg"
+    },
+    {
+      "title": "Netherlands keen to deepen defence cooperation with Bangladesh: Envoy",
+      "link": "https://www.tbsnews.net/bangladesh/netherlands-keen-deepen-defence-cooperation-bangladesh-envoy-1484391",
+      "pubDate": "Fri, 10 Jul 2026 10:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/bangladesh_netherlands_flag.jpg"
+    },
+    {
+      "title": "PM expresses interest in visiting Pitachhara conservation forest in Khagrachhari",
+      "link": "https://www.tbsnews.net/bangladesh/pm-expresses-interest-visiting-pitachhara-conservation-forest-khagrachhari-1484406",
+      "pubDate": "Fri, 10 Jul 2026 09:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/9f44a24bb962b1ae4efec5b5cf47d98b.jpeg"
+    },
+    {
+      "title": "Bar Council-style journalist registration under consideration: Info minister",
+      "link": "https://www.tbsnews.net/bangladesh/govt-considering-bar-council-style-registration-journalists-info-minister-1484401",
+      "pubDate": "Fri, 10 Jul 2026 09:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/06/image-392941-1780730776.jpg"
+    },
+    {
+      "title": "Islami Bank remains remittance leader in FY26 as Krishi, BRAC banks post strong gains",
+      "link": "https://www.tbsnews.net/economy/banking/islami-bank-remains-remittance-leader-fy26-krishi-brac-banks-post-strong-gains",
+      "pubDate": "Fri, 10 Jul 2026 07:40:00 +0600",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/27/ashiyan-citys-fraud_2.jpg"
+    },
+    {
       "title": "Osmani Hospital interns conditionally withdraw strike, to return to work on 11 July",
       "link": "https://www.tbsnews.net/bangladesh/osmani-hospital-interns-conditionally-withdraw-strike-return-work-11-july-1484366",
       "pubDate": "Fri, 10 Jul 2026 02:50:00 +0600",
@@ -91,16 +141,6 @@
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/cabinet_meeting.jpg"
     },
     {
-      "title": "Sarwar Alamgir takes oath as Chattogram-2 MP after five-month legal battle",
-      "link": "https://www.tbsnews.net/bangladesh/sarwar-alamgir-takes-oath-chattogram-2-mp-after-five-month-legal-battle-1484296",
-      "pubDate": "Thu, 09 Jul 2026 22:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/hafiz_sarwar.jpg"
-    },
-    {
       "title": "UGC to provide soft skills training for university students",
       "link": "https://www.tbsnews.net/bangladesh/education/ugc-provide-soft-skills-training-university-students-1484301",
       "pubDate": "Thu, 09 Jul 2026 22:15:00 +0600",
@@ -109,6 +149,16 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/11/ugc.png"
+    },
+    {
+      "title": "Sarwar Alamgir takes oath as Chattogram-2 MP after five-month legal battle",
+      "link": "https://www.tbsnews.net/bangladesh/sarwar-alamgir-takes-oath-chattogram-2-mp-after-five-month-legal-battle-1484296",
+      "pubDate": "Thu, 09 Jul 2026 22:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/hafiz_sarwar.jpg"
     },
     {
       "title": "Govt appoints new Sylhet DC in fresh reshuffle",
@@ -169,46 +219,6 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/coast_guard_pirate_gang.jpg"
-    },
-    {
-      "title": "Jeddah mission urges discipline during consular service visits ",
-      "link": "https://www.tbsnews.net/bangladesh/jeddah-mission-urges-discipline-during-consular-service-visits-1484236",
-      "pubDate": "Thu, 09 Jul 2026 21:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/riyadh_emabassy.png"
-    },
-    {
-      "title": "Govt reconstitutes selection committee to recommend Information Commission members",
-      "link": "https://www.tbsnews.net/bangladesh/govt-reconstitutes-selection-committee-recommend-information-commission-members-1484226",
-      "pubDate": "Thu, 09 Jul 2026 21:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/01/02/govt_0.jpg"
-    },
-    {
-      "title": "3 sentenced to death in gang rape, murder case of child Nichhamoni ",
-      "link": "https://www.tbsnews.net/bangladesh/3-sentenced-death-gang-rape-murder-case-child-nichhamoni-1484221",
-      "pubDate": "Thu, 09 Jul 2026 21:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/verdict.png"
-    },
-    {
-      "title": "EC to publish updated voter list for local polls on 31 Aug",
-      "link": "https://www.tbsnews.net/bangladesh/ec-publish-updated-voter-list-local-polls-31-aug-1484211",
-      "pubDate": "Thu, 09 Jul 2026 20:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/uploads/2023/12/24/election_commission_6.jpg"
     },
     {
       "title": "Bangladesh needs swift reforms to stay competitive after LDC graduation: ICCB",
@@ -1119,17 +1129,7 @@
       "bg": "#eceff1",
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/05/energy_0_0.jpg"
-    },
-    {
-      "title": "How Sri Lanka regains upper-middle-income status after enduring a three-year crisis",
-      "link": "https://www.tbsnews.net/analysis/how-sri-lanka-regains-upper-middle-income-status-after-enduring-three-year-crisis-1479766",
-      "pubDate": "Sun, 05 Jul 2026 11:00:00 +0600",
-      "category": "Analysis",
-      "color": "#5d4037",
-      "bg": "#efebe9",
-      "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/04/11/bloomberg.png"
     }
   ],
-  "updatedAt": "2026-07-10T01:09:03.743Z"
+  "updatedAt": "2026-07-10T05:35:13.390Z"
 }
