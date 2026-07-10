@@ -23,65 +23,55 @@
         * { box-sizing: border-box; margin: 0; padding: 0; }
         body { font-family: 'Inter', sans-serif; background: var(--background); color: var(--foreground); transition: background 0.2s, color 0.2s; line-height: 1.5; }
         
-        /* Sticky Header */
-        .sticky-wrapper { position: sticky; top: 0; background: var(--background); z-index: 100; border-bottom: 1px solid var(--border); padding-top: 10px; }
+        .sticky-header { position: sticky; top: 0; background: var(--background); z-index: 100; border-bottom: 1px solid var(--border); padding: 10px 0; }
         .container { margin: 0 auto; width: 95%; max-width: 1600px; }
         @media (min-width: 1024px) { .container { width: 85%; } }
 
-        header { padding-bottom: 10px; }
         .header-top { display: flex; justify-content: space-between; align-items: center; }
         .brand-zone { display: flex; align-items: center; gap: 12px; }
         .logo { width: 32px; height: 32px; border-radius: 50%; object-fit: cover; }
         h1 { font-size: 1.25rem; font-weight: 800; letter-spacing: -0.02em; }
         .utility-zone { display: flex; align-items: center; gap: 10px; }
         
-        .icon-btn { background: none; border: none; color: var(--foreground); cursor: pointer; padding: 6px; border-radius: var(--radius); transition: background 0.2s; opacity: 0.7; }
-        .icon-btn:hover { background: var(--accent); opacity: 1; }
-        .icon-btn svg { width: 18px; height: 18px; }
-
+        .icon-btn { background: none; border: none; color: var(--foreground); cursor: pointer; padding: 6px; opacity: 0.7; }
+        .icon-btn:hover { opacity: 1; }
+        
         #search-container { display: none; padding: 10px 0; border-top: 1px solid var(--border); margin-top: 10px; }
         .search-box { width: 100%; padding: 10px; border: 1px solid var(--border); background: var(--background); color: var(--foreground); border-radius: var(--radius); outline: none; }
 
-        /* Controls */
-        .controls-row { display: flex; flex-wrap: wrap; gap: 15px; justify-content: space-between; align-items: center; margin: 15px 0; }
-        .select-box { background: transparent; border: none; padding: 6px 10px; color: var(--foreground); font-weight: 600; cursor: pointer; }
+        .controls-row { display: flex; gap: 15px; align-items: center; margin: 20px 0; }
+        .select-box { background: var(--muted); border: none; padding: 6px 12px; border-radius: var(--radius); cursor: pointer; font-weight: 600; }
         
-        .layout-segmented { position: relative; display: flex; align-items: center; background: var(--muted); padding: 4px; border-radius: var(--radius); }
-        .seg-slider { position: absolute; top: 4px; left: 0; height: calc(100% - 8px); background: var(--background); border-radius: var(--radius); transition: transform 0.25s, width 0.25s; box-shadow: 0 1px 3px rgba(0,0,0,0.1); z-index: 1; }
-        .seg-btn { position: relative; z-index: 2; border: none; background: none; padding: 6px 12px; cursor: pointer; color: var(--muted-foreground); }
-        .seg-btn.active { color: var(--foreground); }
-        
-        /* Filters */
-        .filter-accordion { border: none; margin-bottom: 20px; font-size: 0.85rem; }
-        .filter-accordion summary { padding: 10px 0; font-weight: 600; cursor: pointer; list-style: none; display: flex; justify-content: space-between; }
-        .filter-accordion summary::-webkit-details-marker { display: none; }
-        .filter-bar { display: flex; gap: 8px; flex-wrap: wrap; padding-bottom: 12px; }
+        .layout-slider { display: flex; background: var(--muted); padding: 4px; border-radius: var(--radius); cursor: pointer; }
+        .layout-btn { padding: 4px 12px; border-radius: var(--radius); font-size: 0.8rem; border: none; background: transparent; color: var(--muted-foreground); }
+        .layout-btn.active { background: var(--background); color: var(--foreground); box-shadow: 0 1px 2px rgba(0,0,0,0.1); }
+
+        .filter-accordion { margin-bottom: 20px; }
+        .filter-bar { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 10px; }
         .capsule { background: var(--muted); padding: 4px 12px; border-radius: 99px; cursor: pointer; font-size: 0.8rem; border: none; }
         .capsule.active { background: var(--foreground); color: var(--background); }
 
-        /* Grids */
-        .layout-grid-2, .layout-grid-3, .layout-grid-4 { display: grid; grid-template-columns: 1fr; gap: 20px; }
-        @media (min-width: 768px) { .layout-grid-2 { grid-template-columns: repeat(2, 1fr); } .layout-grid-3 { grid-template-columns: repeat(3, 1fr); } .layout-grid-4 { grid-template-columns: repeat(4, 1fr); } }
-        .layout-list { display: flex; flex-direction: column; gap: 15px; }
-        .layout-text { display: flex; flex-direction: column; }
-
-        /* Card */
-        .news-card { display: flex; flex-direction: column; transition: opacity 0.3s; }
+        .layout-grid-3 { display: grid; grid-template-columns: 1fr; gap: 20px; }
+        @media (min-width: 768px) { .layout-grid-3 { grid-template-columns: repeat(3, 1fr); } }
+        
+        .news-card { display: flex; flex-direction: column; }
         .card-image-wrap { width: 100%; height: 200px; background: var(--muted); border-radius: var(--radius); overflow: hidden; margin-bottom: 10px; }
         .news-image { width: 100%; height: 100%; object-fit: cover; }
-        .news-title { display: block; color: var(--foreground); font-weight: 700; text-decoration: none; }
+        .news-title { font-size: 1.05rem; font-weight: 700; color: var(--foreground); text-decoration: none; }
         .snippet { font-size: 0.85rem; color: var(--muted-foreground); margin: 8px 0; -webkit-line-clamp: 3; display: -webkit-box; -webkit-box-orient: vertical; overflow: hidden; }
-        .meta { color: var(--muted-foreground); font-size: 0.75rem; display: flex; justify-content: space-between; align-items: center; }
+        .meta { font-size: 0.75rem; color: var(--muted-foreground); display: flex; justify-content: space-between; }
         
-        .bookmark-btn { background: none; border: none; color: var(--muted-foreground); cursor: pointer; }
-        .bookmark-btn.saved { color: #2563eb; }
+        .hero-card { grid-column: 1 / -1; height: 400px; position: relative; border-radius: var(--radius); overflow: hidden; display: flex; flex-direction: column; justify-content: flex-end; padding: 20px; }
+        .hero-full-link { position: absolute; top:0; left:0; width:100%; height:100%; z-index:1; }
+        .hero-overlay { position: absolute; top:0; left:0; width:100%; height:100%; background: linear-gradient(transparent, rgba(0,0,0,0.8)); z-index: 1; }
+        .hero-content { position: relative; z-index: 2; color: #fff; }
 
         .back-to-top { position: fixed; bottom: 30px; right: 30px; background: var(--foreground); color: var(--background); width: 45px; height: 45px; border-radius: 50%; display: none; align-items: center; justify-content: center; z-index: 50; }
         footer { text-align: center; padding: 40px 0; color: var(--muted-foreground); font-size: 0.85rem; }
     </style>
 </head>
 <body>
-    <div class="sticky-wrapper">
+    <div class="sticky-header">
         <div class="container">
             <header>
                 <div class="header-top">
@@ -90,8 +80,8 @@
                         <h1>Amer Habib's News</h1>
                     </div>
                     <div class="utility-zone">
-                        <button class="icon-btn" onclick="toggleSearch()"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg></button>
-                        <button class="icon-btn" onclick="init()"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></svg></button>
+                        <button class="icon-btn" onclick="toggleSearch()"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg></button>
+                        <button class="icon-btn" onclick="init()"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></svg></button>
                         <button id="theme-btn" class="icon-btn" onclick="toggleTheme()"></button>
                     </div>
                 </div>
@@ -102,107 +92,77 @@
 
     <div class="container">
         <div class="controls-row">
-            <select id="sort-box" class="select-box" onchange="handleSort()"><option value="newest">Newest</option><option value="oldest">Oldest</option><option value="bookmarks">Saved</option></select>
-            <div class="layout-segmented" id="layout-segmented">
-                <div class="seg-slider" id="seg-slider"></div>
-                <button class="seg-btn" onclick="setView('grid-3', this)">Grid</button>
-                <button class="seg-btn" onclick="setView('list', this)">List</button>
-                <button class="seg-btn" onclick="setView('text', this)">Text</button>
+            <select id="sort-box" class="select-box" onchange="handleSort()"><option value="newest">Sort: Newest</option><option value="oldest">Sort: Oldest</option></select>
+            <div class="layout-slider" onclick="cycleLayout()">
+                <button class="layout-btn active" id="layout-label">Layout: Grid 3</button>
             </div>
         </div>
 
         <details class="filter-accordion"><summary>Categories</summary><div id="filter-container" class="filter-bar"></div></details>
         <div id="news-container" class="layout-grid-3"></div>
-        <button id="load-more-btn" class="load-more" onclick="loadMore()" style="display: none;">Load More</button>
+        <button id="load-more-btn" class="load-more" onclick="loadMore()">Load More</button>
         <footer>Built with ♥ by Amer Habib</footer>
     </div>
+    <button id="back-to-top" class="back-to-top" onclick="window.scrollTo({top:0, behavior:'smooth'})">↑</button>
 
     <script>
-        let globalData = [], filteredData = [], currentDisplayed = 13, activeCategory = 'All', currentView = 'grid-3';
-        let readArticles = JSON.parse(localStorage.getItem('readArticles') || '[]');
-        let bookmarks = JSON.parse(localStorage.getItem('bookmarks') || '[]');
-
-        const svgSun = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"/></svg>`;
-        const svgMoon = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/></svg>`;
-
-        function setupThemeIcon() {
-            document.getElementById('theme-btn').innerHTML = document.documentElement.getAttribute('data-theme') === 'dark' ? svgSun : svgMoon;
-        }
-        setupThemeIcon();
-
-        window.toggleTheme = function() {
-            const target = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
-            document.documentElement.setAttribute('data-theme', target);
-            localStorage.setItem('theme', target);
-            setupThemeIcon();
-        }
-
-        window.toggleSearch = function() {
-            const el = document.getElementById('search-container');
-            el.style.display = el.style.display === 'block' ? 'none' : 'block';
-        }
-
-        window.setView = function(viewType, btn) {
-            currentView = viewType;
-            document.getElementById('news-container').className = `layout-${viewType}`;
-            if(btn) {
-                document.querySelectorAll('.seg-btn').forEach(b => b.classList.remove('active'));
-                btn.classList.add('active');
-                const slider = document.getElementById('seg-slider');
-                slider.style.width = btn.offsetWidth + 'px';
-                slider.style.transform = `translateX(${btn.offsetLeft}px)`;
-            }
-            renderArticles();
-        }
-
-        function setupFilters() {
-            const container = document.getElementById('filter-container');
-            container.innerHTML = `<button class="capsule active" onclick="filterCategory('All', this)">All</button>`;
-            [...new Set(globalData.map(i => i.category))].forEach(cat => container.innerHTML += `<button class="capsule" onclick="filterCategory('${cat}', this)">${cat}</button>`);
-        }
-
-        window.filterCategory = function(cat, btn) {
-            activeCategory = cat;
-            document.querySelectorAll('.capsule').forEach(b => b.classList.remove('active'));
-            if(btn) btn.classList.add('active');
-            applyFiltersAndSort();
-        }
-
-        function applyFiltersAndSort() {
-            const term = document.getElementById('search-box').value.toLowerCase();
-            filteredData = globalData.filter(i => activeCategory === 'All' || i.category === activeCategory)
-                                     .filter(i => !term || i.title.toLowerCase().includes(term) || i.snippet.toLowerCase().includes(term));
-            renderArticles();
-        }
-
-        function renderArticles() {
-            const container = document.getElementById('news-container');
-            container.innerHTML = filteredData.slice(0, currentDisplayed).map(item => `
-                <div class="news-card" id="card-${btoa(item.link).replace(/=/g,'')}">
-                    ${currentView !== 'text' ? `<div class="card-image-wrap"><img src="${item.image}" class="news-image"></div>` : ''}
-                    <div class="news-content">
-                        <a class="news-title" href="${item.link}" target="_blank">${item.title}</a>
-                        <div class="snippet">${item.snippet}</div>
-                        <div class="meta">
-                            <span>${new Date(item.pubDate).toLocaleDateString()}</span>
-                            <button class="bookmark-btn" onclick="toggleBookmark('${item.link}')">★</button>
-                        </div>
-                    </div>
-                </div>
-            `).join('');
-            document.getElementById('load-more-btn').style.display = (currentDisplayed < filteredData.length) ? 'block' : 'none';
-        }
+        let globalData = [], filteredData = [], currentDisplayed = 13, currentLayout = 0;
+        const layouts = ['grid-3', 'list', 'text'];
 
         async function init() {
-            const res = await fetch('./data.json?t=' + Date.now());
-            const data = await res.json();
-            globalData = data.news;
-            setupFilters();
-            applyFiltersAndSort();
-            // Trigger slider init
-            const initialBtn = document.querySelector('.seg-btn.active');
-            if(initialBtn) { const s = document.getElementById('seg-slider'); s.style.width = initialBtn.offsetWidth + 'px'; s.style.transform = `translateX(${initialBtn.offsetLeft}px)`; }
+            try {
+                const res = await fetch('./data.json?t=' + Date.now());
+                const data = await res.json();
+                globalData = data.news;
+                if(document.getElementById('filter-container').innerHTML === "") {
+                    const cats = [...new Set(globalData.map(i => i.category))];
+                    document.getElementById('filter-container').innerHTML = `<button class="capsule active" onclick="filterCat('All', this)">All</button>` + 
+                        cats.map(c => `<button class="capsule" onclick="filterCat('${c}', this)">${c}</button>`).join('');
+                }
+                applyFilters();
+            } catch(e) { console.error(e); }
         }
+
+        function cycleLayout() {
+            currentLayout = (currentLayout + 1) % layouts.length;
+            const l = layouts[currentLayout];
+            document.getElementById('news-container').className = 'layout-' + l;
+            document.getElementById('layout-label').innerText = 'Layout: ' + l.toUpperCase();
+            render();
+        }
+
+        function filterCat(c, btn) {
+            document.querySelectorAll('.capsule').forEach(b => b.classList.remove('active'));
+            btn.classList.add('active');
+            filteredData = c === 'All' ? globalData : globalData.filter(i => i.category === c);
+            render();
+        }
+
+        function applyFilters() { filteredData = globalData; render(); }
+
+        function render() {
+            const container = document.getElementById('news-container');
+            container.innerHTML = filteredData.slice(0, currentDisplayed).map((item, idx) => {
+                if(idx === 0 && layouts[currentLayout] === 'grid-3') return `
+                    <div class="hero-card">
+                        <a href="${item.link}" target="_blank" class="hero-full-link"></a>
+                        <div class="card-image-wrap"><img src="${item.image}" class="news-image"></div>
+                        <div class="hero-overlay"></div>
+                        <div class="hero-content"><h2>${item.title}</h2><p>${item.snippet}</p></div>
+                    </div>`;
+                return `
+                    <div class="news-card">
+                        ${layouts[currentLayout] !== 'text' ? `<div class="card-image-wrap"><img src="${item.image}" class="news-image"></div>` : ''}
+                        <div class="news-content">
+                            <a class="news-title" href="${item.link}" target="_blank">${item.title}</a>
+                            <div class="snippet">${item.snippet}</div>
+                            <div class="meta"><span>${new Date(item.pubDate).toLocaleDateString()}</span></div>
+                        </div>
+                    </div>`;
+            }).join('');
+        }
+
+        window.onscroll = () => document.getElementById('back-to-top').style.display = window.scrollY > 400 ? 'flex' : 'none';
         init();
     </script>
 </body>
