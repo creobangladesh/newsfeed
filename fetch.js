@@ -18,14 +18,10 @@ const FRESHNESS_HOURS = 120;
 const TIME_LIMIT = Date.now() - (FRESHNESS_HOURS * 60 * 60 * 1000);
 const seenLinks = new Set(); 
 
-// Forcefully strips HTML tags to guarantee a clean excerpt
 function getCleanSnippet(item) {
     let raw = item.contentSnippet || item.description || item.contentEncoded || '';
     let cleanText = raw.replace(/<[^>]*>?/gm, '').trim();
-    
-    // Remove extra spaces and newlines
     cleanText = cleanText.replace(/\s+/g, ' ');
-    
     if (cleanText.length > 250) {
         return cleanText.substring(0, 250) + '...';
     }
@@ -61,17 +57,6 @@ async function fetchAllNews() {
                     if (imgMatch) imageUrl = imgMatch[1];
                 }
 
-                if (!imageUrl) {
-                    try {
-                        const response = await fetch(item.link);
-                        const html = await response.text();
-                        const ogMatch = html.match(/<meta[^>]+property=['"]og:image['"][^>]+content=['"]([^'"]+)['"]/i);
-                        if (ogMatch) imageUrl = ogMatch[1];
-                    } catch (e) {
-                        // ignore fetch errors
-                    }
-                }
-
                 allNews.push({
                     title: item.title,
                     link: item.link,
@@ -89,9 +74,7 @@ async function fetchAllNews() {
         }
     }
 
-    // Sort newest first
     allNews.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
-    
     const output = { news: allNews, updatedAt: new Date().toISOString() };
     fs.writeFileSync('data.json', JSON.stringify(output, null, 2));
 }
