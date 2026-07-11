@@ -1,6 +1,94 @@
 {
   "news": [
     {
+      "title": "Heavy rain paralyses life in Rangamati",
+      "link": "https://www.tbsnews.net/bangladesh/heavy-rain-paralyses-life-rangamati-1485341",
+      "pubDate": "Sat, 11 Jul 2026 16:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/image-404464-1783764563.jpg",
+      "snippet": "Several sections of rural walking trails have been damaged, forcing the suspension of motorcycle services in many remote areas."
+    },
+    {
+      "title": "BGB seizes Indian mobile phone parts worth Tk3.17 crore at Brahmanbaria border",
+      "link": "https://www.tbsnews.net/bangladesh/crime/bgb-seizes-indian-mobile-phone-parts-worth-tk317-crore-brahmanbaria-border-1485336",
+      "pubDate": "Sat, 11 Jul 2026 16:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/06/bgb.jpg",
+      "snippet": "BGB members recovered 3,960 mobile phone displays."
+    },
+    {
+      "title": "Creative economy needs policy, tax reforms to unlock Tk800cr plan: stakeholders",
+      "link": "https://www.tbsnews.net/economy/creative-economy-needs-policy-tax-reforms-unlock-tk800cr-plan-stakeholders-1485346",
+      "pubDate": "Sat, 11 Jul 2026 16:30:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/08/pprc-logo.jpg",
+      "snippet": "The initiative includes a direct allocation of Tk300 crore and plans to mobilise another Tk500 crore."
+    },
+    {
+      "title": "Govt moves to introduce ration facilities for employees in Grades 12-20",
+      "link": "https://www.tbsnews.net/bangladesh/govt-moves-introduce-ration-facilities-employees-grades-12-20-1485331",
+      "pubDate": "Sat, 11 Jul 2026 16:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/06/govt_of_bangladesh.jpg",
+      "snippet": "Against the backdrop of rising inflation and increasing living costs in the country, the Deputy Commissioner of Pirojpur proposed introducing ration facilities for government employees in Grades 12 to 20. This proposal was put forward during the Depu..."
+    },
+    {
+      "title": "2-year-old drowns in floodwaters in Ctg",
+      "link": "https://www.tbsnews.net/bangladesh/2-year-old-drowns-floodwaters-ctg-1485306",
+      "pubDate": "Sat, 11 Jul 2026 15:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/ctg_flood01.jpg",
+      "snippet": "He was later recovered from the floodwaters and taken to Satkania Upazila Health Complex, where the doctor on duty declared him dead."
+    },
+    {
+      "title": "Youth dies after being shot by Indian Khasi near Sylhet border",
+      "link": "https://www.tbsnews.net/bangladesh/youth-dies-after-being-shot-indian-khasi-near-sylhet-border-1485301",
+      "pubDate": "Sat, 11 Jul 2026 15:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/08/21/screenshot_2025-08-21_072628.png",
+      "snippet": "He was brought back to Bangladesh but died on the way to hospital, said Lieutenant Colonel Md Nazmul Haque, commanding officer of Sylhet Battalion (48 BGB)."
+    },
+    {
+      "title": "Win public trust to save $5b spent on overseas treatment, PM tells doctors",
+      "link": "https://www.tbsnews.net/bangladesh/win-public-trust-save-5b-spent-overseas-treatment-pm-tells-doctors-1485281",
+      "pubDate": "Sat, 11 Jul 2026 15:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/uw.jpg",
+      "snippet": "Prime Minister Tarique Rahman says he expects both practising and future doctors to help change the situation by strengthening people's trust and confidence in the country's physicians and healthcare system."
+    },
+    {
+      "title": "Govt begins clearing waste along Dhaka-Aricha highway, plans tree plantation to prevent dumping",
+      "link": "https://www.tbsnews.net/bangladesh/environment/govt-begins-clearing-waste-along-dhaka-aricha-highway-plans-tree-plantation",
+      "pubDate": "Sat, 11 Jul 2026 15:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/8f85d2a2-ec1a-4bf5-a8d2-9a5289820f9b.png",
+      "snippet": "Local Government, Rural Development and Cooperatives State Minister Mir Shahe Alam announced the initiative while inspecting waste removal work in the Boliarpur area of the highway today"
+    },
+    {
       "title": "Over 20 countries to join Bangladesh Travel Mart in September",
       "link": "https://www.tbsnews.net/bangladesh/over-20-countries-join-bangladesh-travel-mart-september-1485261",
       "pubDate": "Sat, 11 Jul 2026 15:00:00 +0600",
@@ -10,6 +98,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/botoa.jpg",
       "snippet": "The three-day event will be held from 3 to 5 September at Hotel InterContinental Dhaka."
+    },
+    {
+      "title": "Govt compiling lists of flood-hit farmers for aid: Agriculture minister ",
+      "link": "https://www.tbsnews.net/bangladesh/govt-compiling-lists-flood-hit-farmers-aid-agriculture-minister-1485266",
+      "pubDate": "Sat, 11 Jul 2026 14:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/farmer_flood_img.jpg",
+      "snippet": "The government will provide assistance to the affected farmers once the lists are complete, added Amin, who is also the fisheries and livestock minister."
     },
     {
       "title": "Water levels fall slightly in Sylhet, Sunamganj; over 50,000 still stranded in Habiganj, Moulvibazar",
@@ -30,8 +129,8 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/hehhh.jpg",
-      "snippet": "Port authorities have been using power pumps to drain the water, while officials and port users inspected the affected areas today (11 July)."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/img-20260711-wa0001.jpg",
+      "snippet": "Port authorities have been using power pumps to drain the water, while officials and port users inspected the affected areas today."
     },
     {
       "title": "3 suffer burn injuries in Keraniganj 'gas pipeline blast'",
@@ -63,7 +162,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/ctg_flood02.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/whatsapp_image_2026-07-11_at_15.36.49.jpeg",
       "snippet": "Authorities remain on alert over water levels in the Teesta River in northern Bangladesh."
     },
     {
@@ -155,92 +254,15 @@
       "snippet": "The million-dollar question is whether businesses will invest when lending rates sit at 12-14%. Businesses say they need 15-18% operating profit just to service debt but profits remain thin or nonexistent. Without that margin, investment stalls."
     },
     {
-      "title": "Dhaka's air quality 'moderate' this morning",
-      "link": "https://www.tbsnews.net/bangladesh/environment/dhakas-air-quality-moderate-morning-1485061",
-      "pubDate": "Sat, 11 Jul 2026 10:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/02/03/475685954_965240508465427_5000090421525970151_n.jpg",
-      "snippet": "With an air quality index (AQI) score of 86 at 9:29am, Dhaka ranked 16th on the list of world cities with the worst air quality."
-    },
-    {
-      "title": "Bangladesh highlights Teesta, skills and innovation at UN SDG forum",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-highlights-teesta-skills-and-innovation-un-sdg-forum-1485051",
-      "pubDate": "Sat, 11 Jul 2026 10:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/2784523.jpg",
-      "snippet": "Dr Awal also stressed the importance of international cooperation on transboundary water sharing including support for the Teesta Barrage Project in northern Bangladesh, said a press release of Permanent Mission of Bangladesh to the United Nations, N..."
-    },
-    {
-      "title": "Scams, smuggling, battlefields: How flawed vetting sent our workers into harm's way",
-      "link": "https://www.tbsnews.net/bangladesh/migration/scams-smuggling-battlefields-how-flawed-vetting-sent-our-workers-harms-way",
-      "pubDate": "Sat, 11 Jul 2026 10:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/migrant-workers-journey.jpg",
-      "snippet": "Over the past 18 months, the Bureau of Manpower, Employment and Training (BMET) granted official emigration clearance to 15,921 Bangladeshis to travel to Cambodia."
-    },
-    {
       "title": "Vegetable exports fail to grow due to weak diversification of basket and market",
       "link": "https://www.tbsnews.net/economy/vegetable-exports-fail-grow-due-weak-diversification-basket-and-market-1484971",
       "pubDate": "Sat, 11 Jul 2026 06:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/29/image-336845-1764394010.jpg",
       "snippet": "Export Promotion Bureau data show that vegetable exports earned $88.88 million in FY26, up 9.57% from $81.12 million a year earlier. But this is $14.36 million below the $103.24 million earned in FY15"
-    },
-    {
-      "title": "Flood toll climbs to 39 as 9.28 lakh affected across five districts in Ctg",
-      "link": "https://www.tbsnews.net/bangladesh/flood-toll-climbs-39-928-lakh-affected-across-five-districts-chattogram-1484966",
-      "pubDate": "Sat, 11 Jul 2026 00:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/coxs_bazar_flood_1.jpeg",
-      "snippet": "According to the Chattogram district administration, 1,88,648 families have been affected in 16 upazilas, including Chattogram city, following days of torrential rain, hill runoff and landslides."
-    },
-    {
-      "title": "Army deployed in Chattogram to assist flash flood response",
-      "link": "https://www.tbsnews.net/bangladesh/army-deployed-chattogram-assist-flash-flood-response-1484961",
-      "pubDate": "Sat, 11 Jul 2026 00:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/army_distributes_flood_relief.jpeg",
-      "snippet": "Continuous heavy rainfall and hill runoff have caused severe flooding in Lohagara, Satkania, Chandanaish, and Banshkhali upazilas, leaving around 4,00,000 people stranded and affected"
-    },
-    {
-      "title": "Govt urges media to follow court directives on broadcasting Hasina's statements",
-      "link": "https://www.tbsnews.net/bangladesh/govt-urges-media-follow-court-directives-broadcasting-hasinas-statements-1484956",
-      "pubDate": "Fri, 10 Jul 2026 23:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/06/govt_of_bangladesh.jpg",
-      "snippet": "On 5 December 2024, the International Crimes Tribunal (ICT) imposed a ban on broadcasting statements by the deposed and fugitive prime minister."
-    },
-    {
-      "title": "PM asks administration, party leaders to stand by flood victims",
-      "link": "https://www.tbsnews.net/bangladesh/pm-asks-administration-party-leaders-stand-flood-victims-1484951",
-      "pubDate": "Fri, 10 Jul 2026 22:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/pm_flood.jpg",
-      "snippet": "State Minister for Disaster Management and Relief M Iqbal Hossain is scheduled to visit Chattogram tomorrow to assess the flood situation."
     },
     {
       "title": "Realising the hopes and aspirations of young people: Bangladesh's path to a demographic future of choice and opportunity",
@@ -681,29 +703,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/25/r1447415_1296x729_16-9.jpg",
       "snippet": "Cristiano Ronaldo has never been just a footballer to me. He has been a source of inspiration, a role model, and, in many ways, a life coach. His influence has shaped my mindset, my values, and the way I approach life’s challenges"
-    },
-    {
-      "title": "Argentina's comeback, the controversy, and the debate that divided football",
-      "link": "https://www.tbsnews.net/sports/football/argentinas-comeback-controversy-and-debate-divided-football-1483106",
-      "pubDate": "Wed, 08 Jul 2026 16:25:00 +0600",
-      "category": "Analysis",
-      "color": "#5d4037",
-      "bg": "#efebe9",
-      "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/08/739408248_1055093156851400_2641977566997425382_n_0.jpg",
-      "snippet": "A two-goal deficit. A missed penalty. A captain dragging his team back into the game. Then came the controversy."
-    },
-    {
-      "title": "Measles: Death toll reaches 745 as three more die",
-      "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-745-three-more-die-1482991",
-      "pubDate": "Wed, 08 Jul 2026 15:50:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/30/measles_outbreak.jpg",
-      "snippet": "With the latest update, the number of suspected measles deaths has risen to 652, while the number of laboratory-confirmed measles deaths has reached 93."
     }
   ],
-  "updatedAt": "2026-07-11T09:07:27.675Z"
+  "updatedAt": "2026-07-11T10:41:53.411Z"
 }
