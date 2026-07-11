@@ -8,15 +8,5 @@
   { "id": "Tech", "url": "https://www.tbsnews.net/tech/rss.xml", "color": "#1976d2", "bg": "#e3f2fd", "icon": "💻" },
   { "id": "Thoughts", "url": "https://www.tbsnews.net/thoughts/rss.xml", "color": "#455a64", "bg": "#eceff1", "icon": "💭" },
   { "id": "Industry", "url": "https://www.tbsnews.net/economy/industry/rss.xml", "color": "#f57c00", "bg": "#fff3e0", "icon": "🏭" },
-  { "id": "Analysis", "url": "https://www.tbsnews.net/analysis/rss.xml", "color": "#5d4037", "bg": "#efebe9", "icon": "🔍" },
-  { "id": "The Daily Star", "url": "https://www.thedailystar.net/taxonomy/term/1/rss.xml", "color": "#0288d1", "bg": "#e1f5fe", "icon": "📰" },
-  { "id": "Business", "url": "https://www.thedailystar.net/taxonomy/term/2/rss.xml", "color": "#2e7d32", "bg": "#e8f5e9", "icon": "📈" },
-  { "id": "Sports", "url": "https://www.thedailystar.net/taxonomy/term/3/rss.xml", "color": "#c2185b", "bg": "#fce4ec", "icon": "⚽" },
-  { "id": "Opinion", "url": "https://www.thedailystar.net/taxonomy/term/4/rss.xml", "color": "#7b1fa2", "bg": "#f3e5f5", "icon": "💭" },
-  { "id": "Arts and Entertainment", "url": "https://www.thedailystar.net/taxonomy/term/5/rss.xml", "color": "#e65100", "bg": "#fff3e0", "icon": "🎭" },
-  { "id": "Life and Living", "url": "https://www.thedailystar.net/taxonomy/term/6/rss.xml", "color": "#00796b", "bg": "#e0f2f1", "icon": "🌿" },
-  { "id": "Bytes", "url": "https://www.thedailystar.net/taxonomy/term/7/rss.xml", "color": "#1976d2", "bg": "#e3f2fd", "icon": "💻" },
-  { "id": "World News", "url": "https://www.thedailystar.net/taxonomy/term/8/rss.xml", "color": "#455a64", "bg": "#eceff1", "icon": "🌍" },
-  { "id": "The Star", "url": "https://www.thedailystar.net/taxonomy/term/9/rss.xml", "color": "#f57c00", "bg": "#fff3e0", "icon": "⭐" },
-  { "id": "Culture and Entertainment", "url": "https://www.thedailystar.net/taxonomy/term/10/rss.xml", "color": "#5d4037", "bg": "#efebe9", "icon": "🎬" }
+  { "id": "Analysis", "url": "https://www.tbsnews.net/analysis/rss.xml", "color": "#5d4037", "bg": "#efebe9", "icon": "🔍" }
 ]
