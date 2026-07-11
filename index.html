@@ -504,7 +504,9 @@
             if (!readArticles.includes(link)) {
                 readArticles.push(link);
                 localStorage.setItem('readArticles', JSON.stringify(readArticles));
-                const card = document.getElementById(`card-${btoa(link).replace(/=/g,'')}`);
+                // ADDED encodeURIComponent to safely handle Daily Star foreign language URLs
+                const cardId = `card-${btoa(encodeURIComponent(link)).replace(/=/g,'')}`;
+                const card = document.getElementById(cardId);
                 if(card) card.classList.add('read');
             }
         }
@@ -614,7 +616,8 @@
         function buildCardHtml(item) {
             const isRead = readArticles.includes(item.link);
             const isBookmarked = bookmarks.includes(item.link);
-            const cardId = `card-${btoa(item.link).replace(/=/g,'')}`;
+            // ADDED encodeURIComponent to safely handle Daily Star foreign language URLs
+            const cardId = `card-${btoa(encodeURIComponent(item.link)).replace(/=/g,'')}`;
             const snippet = item.snippet || '';
             
             const imageHtml = item.image 
