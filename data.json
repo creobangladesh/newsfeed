@@ -1,25 +1,15 @@
 {
   "news": [
     {
-      "title": {
-        "a": [
-          {
-            "_": "Labour groups demand quick trial for killing of Narsingdi railway cleaner",
-            "$": {
-              "href": "/news/bangladesh/news/labour-groups-demand-quick-trial-killing-narsingdi-railway-cleaner-4221186",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/news/bangladesh/news/labour-groups-demand-quick-trial-killing-narsingdi-railway-cleaner-4221186",
-      "pubDate": "Sat, 11 Jul 26 14:29:05 +0600\n",
-      "category": "The Daily Star",
+      "title": "Rainwater waterlogging at Benapole Land Port, imported goods submerged",
+      "link": "https://www.tbsnews.net/bangladesh/rainwater-waterlogging-benapole-land-port-imported-goods-submerged-1485241",
+      "pubDate": "Sat, 11 Jul 2026 14:30:00 +0600",
+      "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
-      "icon": "📰",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "Speakers urge authorities to ensure justice and dignity for marginalised workers"
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/hehhh.jpg",
+      "snippet": "Port authorities have been using power pumps to drain the water, while officials and port users inspected the affected areas today (11 July)."
     },
     {
       "title": "3 suffer burn injuries in Keraniganj 'gas pipeline blast'",
@@ -44,27 +34,6 @@
       "snippet": "They husband Saiful confessed to the killing during primary interrogation."
     },
     {
-      "title": {
-        "a": [
-          {
-            "_": "Waterlogging floods multiple warehouses at Benapole port, damaging imported goods",
-            "$": {
-              "href": "/news/bangladesh/news/waterlogging-floods-multiple-warehouses-benapole-port-damaging-imported-goods-4221181",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/news/bangladesh/news/waterlogging-floods-multiple-warehouses-benapole-port-damaging-imported-goods-4221181",
-      "pubDate": "Sat, 11 Jul 26 13:41:49 +0600\n",
-      "category": "The Daily Star",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "📰",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "Traders seek compensation, blame poor drainage"
-    },
-    {
       "title": "Flooding persists in 7 districts; 4 rivers flow above danger level ",
       "link": "https://www.tbsnews.net/bangladesh/flooding-persists-7-districts-4-rivers-flow-above-danger-level-1485191",
       "pubDate": "Sat, 11 Jul 2026 13:30:00 +0600",
@@ -74,132 +43,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/ctg_flood02.jpg",
       "snippet": "Authorities remain on alert over water levels in the Teesta River in northern Bangladesh."
-    },
-    {
-      "title": {
-        "a": [
-          {
-            "_": "Bangladesh bowl with two changes in 3rd ODI",
-            "$": {
-              "href": "/sports/cricket/news/bangladesh-bowl-two-changes-3rd-odi-4221176",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/sports/cricket/news/bangladesh-bowl-two-changes-3rd-odi-4221176",
-      "pubDate": "Sat, 11 Jul 26 13:25:36 +0600\n",
-      "category": "The Daily Star",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "📰",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "Bangladesh will bowl first in the third and final ODI against Zimbabwe in Harare today after making two changes to their playing XI for the dead rubber."
-    },
-    {
-      "title": {
-        "a": [
-          {
-            "_": "After six months of treatment, rescued tigress to return to Sundarbans tomorrow",
-            "$": {
-              "href": "/news/environment/wild-life/news/after-six-months-treatment-rescued-tigress-return-sundarbans-tomorrow-4221171",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/news/environment/wild-life/news/after-six-months-treatment-rescued-tigress-return-sundarbans-tomorrow-4221171",
-      "pubDate": "Sat, 11 Jul 26 12:55:33 +0600\n",
-      "category": "The Daily Star",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "📰",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "Forest officials say the big cat will remain under watch of 20 trap cameras"
-    },
-    {
-      "title": {
-        "a": [
-          {
-            "_": "Fed report cites 'stepped-up' inflation due to tariffs, Iran war, AI buildout",
-            "$": {
-              "href": "/business/news/fed-report-cites-stepped-inflation-due-tariffs-iran-war-ai-buildout-4221166",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/business/news/fed-report-cites-stepped-inflation-due-tariffs-iran-war-ai-buildout-4221166",
-      "pubDate": "Sat, 11 Jul 26 12:53:55 +0600\n",
-      "category": "Business",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "Job vacancies have been \"flat,\" the report noted, layoffs have been similarly \"subdued\""
-    },
-    {
-      "title": {
-        "a": [
-          {
-            "_": "Oil prices settle lower on hopes for smoother shipping in Strait of Hormuz",
-            "$": {
-              "href": "/business/news/oil-prices-settle-lower-hopes-smoother-shipping-strait-hormuz-4221161",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/business/news/oil-prices-settle-lower-hopes-smoother-shipping-strait-hormuz-4221161",
-      "pubDate": "Sat, 11 Jul 26 12:50:50 +0600\n",
-      "category": "Business",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "Brent futures settled at $76.01 a barrel, down 29 cents, or 0.38 percent"
-    },
-    {
-      "title": {
-        "a": [
-          {
-            "_": "Winning at a cost? How Argentina became football's most debated team",
-            "$": {
-              "href": "/sports/sports-special/fifa-world-cup-2026/news/winning-cost-how-argentina-became-footballs-most-debated-team-4221156",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/winning-cost-how-argentina-became-footballs-most-debated-team-4221156",
-      "pubDate": "Sat, 11 Jul 26 12:39:22 +0600\n",
-      "category": "The Daily Star",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "📰",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "On July 11, 2021, Argentina ended a 28-year wait for a major international trophy by defeating Brazil 1-0 in the Copa America final at the Maracana Stadium."
-    },
-    {
-      "title": {
-        "a": [
-          {
-            "_": "Man hacked to death in Bogura over money dispute",
-            "$": {
-              "href": "/news/crime-justice/news/man-hacked-death-bogura-over-money-dispute-4221151",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/news/crime-justice/news/man-hacked-death-bogura-over-money-dispute-4221151",
-      "pubDate": "Sat, 11 Jul 26 12:33:01 +0600\n",
-      "category": "The Daily Star",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "📰",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "Victim had multiple criminal cases pending, police say"
     },
     {
       "title": "Kashimpur jailbreak: RAB arrests escaped death row convict in Dhaka",
@@ -246,48 +89,6 @@
       "snippet": "People can be both an asset and, under certain circumstances, a liability for a country"
     },
     {
-      "title": {
-        "a": [
-          {
-            "_": "A familiar tale of costly delays",
-            "$": {
-              "href": "/opinion/editorial/news/familiar-tale-costly-delays-4220871",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/opinion/editorial/news/familiar-tale-costly-delays-4220871",
-      "pubDate": "Sat, 11 Jul 26 12:00:00 +0600\n",
-      "category": "Opinion",
-      "color": "#7b1fa2",
-      "bg": "#f3e5f5",
-      "icon": "💭",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "Trouble-ridden novo theatre projects highlight the need for better planning"
-    },
-    {
-      "title": {
-        "a": [
-          {
-            "_": "PM inaugurates DMC Day as Dhaka Medical College celebrates 80 years",
-            "$": {
-              "href": "/news/bangladesh/news/pm-inaugurates-dmc-day-dhaka-medical-college-celebrates-80-years-4221146",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/news/bangladesh/news/pm-inaugurates-dmc-day-dhaka-medical-college-celebrates-80-years-4221146",
-      "pubDate": "Sat, 11 Jul 26 11:56:49 +0600\n",
-      "category": "The Daily Star",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "📰",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "The prime minister formally opened the celebration at 10:00am by releasing balloons and pigeons on the college campus"
-    },
-    {
       "title": "PM inaugurates DMC Day, wife Zubaida revisits memories of student life",
       "link": "https://www.tbsnews.net/bangladesh/pm-inaugurates-dmc-day-2026-dhaka-medical-college-celebrates-80-years-1485131",
       "pubDate": "Sat, 11 Jul 2026 11:50:00 +0600",
@@ -297,48 +98,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/pm.jpeg",
       "snippet": "Dr Zubaida Rahman lived at the hostel while studying at Dhaka Medical College"
-    },
-    {
-      "title": {
-        "a": [
-          {
-            "_": "Friendship on hold as 'hell of a beating' returns",
-            "$": {
-              "href": "/sports/sports-special/fifa-world-cup-2026/news/friendship-hold-hell-beating-returns-4221141",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/friendship-hold-hell-beating-returns-4221141",
-      "pubDate": "Sat, 11 Jul 26 11:35:45 +0600\n",
-      "category": "The Daily Star",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "📰",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "When two close friends Jude Bellingham and Erling Haaland collide in Miami on Saturday with a World Cup semifinal on the line, their reunion unfolds in the shadow of a footballing ghost."
-    },
-    {
-      "title": {
-        "a": [
-          {
-            "_": "'Beast' Haaland a different player to me: Kane",
-            "$": {
-              "href": "/sports/sports-special/fifa-world-cup-2026/news/beast-haaland-different-player-me-kane-4221136",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/beast-haaland-different-player-me-kane-4221136",
-      "pubDate": "Sat, 11 Jul 26 11:30:00 +0600\n",
-      "category": "The Daily Star",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "📰",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "Haaland has struck seven times in his first four matches ever at a major tournament, including a devastating double to eliminate Brazil, and his goals have carried Norway into the last eight for the first time."
     },
     {
       "title": "Heavy rains inundate parts of Khulna; effectiveness of Tk823cr drainage project questioned",
@@ -374,69 +133,6 @@
       "snippet": "The million-dollar question is whether businesses will invest when lending rates sit at 12-14%. Businesses say they need 15-18% operating profit just to service debt but profits remain thin or nonexistent. Without that margin, investment stalls."
     },
     {
-      "title": {
-        "a": [
-          {
-            "_": "Argentina vs Switzerland: Key stats",
-            "$": {
-              "href": "/sports/sports-special/fifa-world-cup-2026/news/argentina-vs-switzerland-key-stats-4221046",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/argentina-vs-switzerland-key-stats-4221046",
-      "pubDate": "Sat, 11 Jul 26 11:00:00 +0600\n",
-      "category": "The Daily Star",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "📰",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "Lionel Messi's Argentina will face Switzerland in a World Cup quarterfinal in Kansas City on Sunday morning, with the game scheduled to kick off at 7:00 am in Bangladesh time."
-    },
-    {
-      "title": {
-        "a": [
-          {
-            "_": "Rohingya deaths in landslides call for a reckoning with systemic failures",
-            "$": {
-              "href": "/opinion/views/news/rohingya-deaths-landslides-call-reckoning-systemic-failures-4220896",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/opinion/views/news/rohingya-deaths-landslides-call-reckoning-systemic-failures-4220896",
-      "pubDate": "Sat, 11 Jul 26 11:00:00 +0600\n",
-      "category": "Opinion",
-      "color": "#7b1fa2",
-      "bg": "#f3e5f5",
-      "icon": "💭",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "This year’s monsoon season has already turned deadly."
-    },
-    {
-      "title": {
-        "a": [
-          {
-            "_": "Lisandro Martinez praises referees' 'excellent job' at FIFA World Cup 2026",
-            "$": {
-              "href": "/sports/sports-special/fifa-world-cup-2026/news/lisandro-martinez-praises-referees-excellent-job-fifa-world-cup-2026-4221121",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/lisandro-martinez-praises-referees-excellent-job-fifa-world-cup-2026-4221121",
-      "pubDate": "Sat, 11 Jul 26 10:43:49 +0600\n",
-      "category": "Sports",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "⚽",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "The match between Argentina and Egypt sparked complaints from the Egyptian Football Association over the use of the Video Assistant Referee (VAR), particularly the disallowing of a Mostafa Zico goal in the 62nd minute that would have doubled the Nort..."
-    },
-    {
       "title": "Dhaka's air quality 'moderate' this morning",
       "link": "https://www.tbsnews.net/bangladesh/environment/dhakas-air-quality-moderate-morning-1485061",
       "pubDate": "Sat, 11 Jul 2026 10:40:00 +0600",
@@ -470,195 +166,6 @@
       "snippet": "Over the past 18 months, the Bureau of Manpower, Employment and Training (BMET) granted official emigration clearance to 15,921 Bangladeshis to travel to Cambodia."
     },
     {
-      "title": {
-        "a": [
-          {
-            "_": "How Messi prepared for the World Cup: Outsmarting time and metrics",
-            "$": {
-              "href": "/sports/sports-special/fifa-world-cup-2026/news/how-messi-prepared-the-world-cup-outsmarting-time-and-metrics-4221001",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/how-messi-prepared-the-world-cup-outsmarting-time-and-metrics-4221001",
-      "pubDate": "Sat, 11 Jul 26 10:00:00 +0600\n",
-      "category": "Sports",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "⚽",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "When an athlete reaches the age of 39, romance alone does not assure a World Cup pedigree. As much as football fans love the narrative of a seasoned veteran willing his team to glory purely on heart and nostalgia, the reality of the 2026 tournament i..."
-    },
-    {
-      "title": {
-        "a": [
-          {
-            "_": "Time is running out for our demographic dividend",
-            "$": {
-              "href": "/opinion/views/news/time-running-out-our-demographic-dividend-4220901",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/opinion/views/news/time-running-out-our-demographic-dividend-4220901",
-      "pubDate": "Sat, 11 Jul 26 10:00:00 +0600\n",
-      "category": "Opinion",
-      "color": "#7b1fa2",
-      "bg": "#f3e5f5",
-      "icon": "💭",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "Bangladesh is now home to more than 17.5 crore people. Roughly one in four is 15-29 years of age, a cohort of around 4.7 crore, larger than the population of many countries."
-    },
-    {
-      "title": {
-        "a": [
-          {
-            "_": "'A machine': Scaloni on Messi's remarkable form at 39",
-            "$": {
-              "href": "/sports/sports-special/fifa-world-cup-2026/news/machine-scaloni-messis-remarkable-form-39-4221116",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/machine-scaloni-messis-remarkable-form-39-4221116",
-      "pubDate": "Sat, 11 Jul 26 09:49:03 +0600\n",
-      "category": "Sports",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "⚽",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "Messi has been instrumental in Argentina's World Cup campaign, scoring eight goals — level with France's Kylian Mbappe — and inspiring a dramatic 3-2 comeback victory over Egypt in the round of 16."
-    },
-    {
-      "title": {
-        "a": [
-          {
-            "_": "Bangladesh must hold its own amid changing geopolitics",
-            "$": {
-              "href": "/opinion/views/blowin-the-wind/news/bangladesh-must-hold-its-own-amid-changing-geopolitics-4220876",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/opinion/views/blowin-the-wind/news/bangladesh-must-hold-its-own-amid-changing-geopolitics-4220876",
-      "pubDate": "Sat, 11 Jul 26 09:00:00 +0600\n",
-      "category": "Opinion",
-      "color": "#7b1fa2",
-      "bg": "#f3e5f5",
-      "icon": "💭",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "The performative presence of two superpowers in the precincts of Bangladesh’s national parliament has added some twists in the country’s political plot."
-    },
-    {
-      "title": {
-        "a": [
-          {
-            "_": "Trump officials sought ways to sidestep election agency before firings, sources say",
-            "$": {
-              "href": "/news/world/usa/news/trump-officials-sought-ways-sidestep-election-agency-firings-sources-say-4221101",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/news/world/usa/news/trump-officials-sought-ways-sidestep-election-agency-firings-sources-say-4221101",
-      "pubDate": "Sat, 11 Jul 26 08:53:48 +0600\n",
-      "category": "World News",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "🌍",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "White House and intelligence officials had met to discuss election commission's future"
-    },
-    {
-      "title": {
-        "a": [
-          {
-            "_": "Iran says 'kept its word' on US ceasefire",
-            "$": {
-              "href": "/news/world/us-israel-war-iran/news/iran-says-kept-its-word-us-ceasefire-4221096",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/news/world/us-israel-war-iran/news/iran-says-kept-its-word-us-ceasefire-4221096",
-      "pubDate": "Sat, 11 Jul 26 08:46:18 +0600\n",
-      "category": "World News",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "🌍",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "Iranian Foreign Minister Abbas Araghchi said Saturday that Tehran had \"kept its word\" on a ceasefire with the United States, after Donald Trump insisted the truce was over but that he had agreed to further negotiations with the Islamic republic"
-    },
-    {
-      "title": {
-        "a": [
-          {
-            "_": "Apple sues OpenAI, two former employees for trade secrets theft",
-            "$": {
-              "href": "/business/news/apple-sues-openai-two-former-employees-trade-secrets-theft-4221091",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/business/news/apple-sues-openai-two-former-employees-trade-secrets-theft-4221091",
-      "pubDate": "Sat, 11 Jul 26 08:41:04 +0600\n",
-      "category": "Business",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "Apple alleges coordinated effort to steal designs and manufacturing processes"
-    },
-    {
-      "title": {
-        "a": [
-          {
-            "_": "Death toll in Venezuela quakes rises past 4,000",
-            "$": {
-              "href": "/news/world/news/death-toll-venezuela-quakes-rises-past-4000-4221086",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/news/world/news/death-toll-venezuela-quakes-rises-past-4000-4221086",
-      "pubDate": "Sat, 11 Jul 26 08:36:38 +0600\n",
-      "category": "World News",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "🌍",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "Thousands more are listed as missing"
-    },
-    {
-      "title": {
-        "a": [
-          {
-            "_": "Can Argentina keep fuelling themselves on emotion?",
-            "$": {
-              "href": "/sports/sports-special/fifa-world-cup-2026/news/can-argentina-keep-fuelling-themselves-emotion-4220806",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/can-argentina-keep-fuelling-themselves-emotion-4220806",
-      "pubDate": "Sat, 11 Jul 26 08:00:00 +0600\n",
-      "category": "Sports",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "⚽",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "Argentina and Lionel Messi face Murat Yakin's Switzerland in what promises to be a sterner test for the defending champions than any they have encountered so far in the tournament."
-    },
-    {
       "title": "Vegetable exports fail to grow due to weak diversification of basket and market",
       "link": "https://www.tbsnews.net/economy/vegetable-exports-fail-grow-due-weak-diversification-basket-and-market-1484971",
       "pubDate": "Sat, 11 Jul 2026 06:55:00 +0600",
@@ -668,27 +175,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/29/image-336845-1764394010.jpg",
       "snippet": "Export Promotion Bureau data show that vegetable exports earned $88.88 million in FY26, up 9.57% from $81.12 million a year earlier. But this is $14.36 million below the $103.24 million earned in FY15"
-    },
-    {
-      "title": {
-        "a": [
-          {
-            "_": "A golden generation without a crown",
-            "$": {
-              "href": "/sports/sports-special/fifa-world-cup-2026/news/golden-generation-without-crown-4221081",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/sports/sports-special/fifa-world-cup-2026/news/golden-generation-without-crown-4221081",
-      "pubDate": "Sat, 11 Jul 26 06:30:50 +0600\n",
-      "category": "Sports",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "⚽",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "\"I really can't stand it when my four leaders are called 'veterans'. It is ugly. It is awful,\" Belgium coach Rudi Garcia had said a few days ago during the FIFA World Cup 2026."
     },
     {
       "title": "Flood toll climbs to 39 as 9.28 lakh affected across five districts in Ctg",
@@ -711,174 +197,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/army_distributes_flood_relief.jpeg",
       "snippet": "Continuous heavy rainfall and hill runoff have caused severe flooding in Lohagara, Satkania, Chandanaish, and Banshkhali upazilas, leaving around 4,00,000 people stranded and affected"
-    },
-    {
-      "title": {
-        "a": [
-          {
-            "_": "Tk 6,000cr moves daily.  But not every wallet is winning",
-            "$": {
-              "href": "/business/news/tk-6000cr-moves-daily-not-every-wallet-winning-4220811",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/business/news/tk-6000cr-moves-daily-not-every-wallet-winning-4220811",
-      "pubDate": "Sat, 11 Jul 26 00:00:00 +0600\n",
-      "category": "Business",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "Mobile financial services changed how Bangladesh sends money and makes payments, but market competition has failed to keep pace"
-    },
-    {
-      "title": {
-        "a": [
-          {
-            "_": "Rethinking how we teach political science",
-            "$": {
-              "href": "/opinion/views/news/rethinking-how-we-teach-political-science-4220886",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/opinion/views/news/rethinking-how-we-teach-political-science-4220886",
-      "pubDate": "Sat, 11 Jul 26 00:00:00 +0600\n",
-      "category": "Opinion",
-      "color": "#7b1fa2",
-      "bg": "#f3e5f5",
-      "icon": "💭",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "A political science student in Bangladesh will spend the first year studying European history."
-    },
-    {
-      "title": {
-        "a": [
-          {
-            "_": "Greek anti-terror police arrest three after blast kills woman",
-            "$": {
-              "href": "/news/world/news/greek-anti-terror-police-arrest-three-after-blast-kills-woman-4221051",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/news/world/news/greek-anti-terror-police-arrest-three-after-blast-kills-woman-4221051",
-      "pubDate": "Sat, 11 Jul 26 00:00:00 +0600\n",
-      "category": "World News",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "🌍",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "Police in Greece yesterday said they had arrested three people in connection to attacks this month that targeted ruling party politicians, killing a woman in a car explosion."
-    },
-    {
-      "title": {
-        "a": [
-          {
-            "_": "Israeli drone strikes, gunfire kill 6 in Gaza",
-            "$": {
-              "href": "/news/world/news/israeli-drone-strikes-gunfire-kill-6-gaza-4221041",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/news/world/news/israeli-drone-strikes-gunfire-kill-6-gaza-4221041",
-      "pubDate": "Sat, 11 Jul 26 00:00:00 +0600\n",
-      "category": "World News",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "🌍",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "Gaza’s civil defence agency and health officials said Israeli attacks killed six people across the Palestinian territory on Thursday evening."
-    },
-    {
-      "title": {
-        "a": [
-          {
-            "_": "Uneasy calm in Middle East as fighting pauses",
-            "$": {
-              "href": "/news/world/middle-east/news/uneasy-calm-middle-east-fighting-pauses-4221031",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/news/world/middle-east/news/uneasy-calm-middle-east-fighting-pauses-4221031",
-      "pubDate": "Sat, 11 Jul 26 00:00:00 +0600\n",
-      "category": "World News",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "🌍",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "Fighting paused in the Middle East yesterday after two days of deadly strikes between the United States and Iran, as Qatari negotiators travelled to Tehran in an attempt to get diplomacy back on track."
-    },
-    {
-      "title": {
-        "a": [
-          {
-            "_": "War with Russia not  yet at ‘turning point’",
-            "$": {
-              "href": "/news/world/russian-invasion-ukraine/news/war-russia-not-yet-turning-point-4221076",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/news/world/russian-invasion-ukraine/news/war-russia-not-yet-turning-point-4221076",
-      "pubDate": "Sat, 11 Jul 26 00:00:00 +0600\n",
-      "category": "World News",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "🌍",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "Ukraine’s commander-in-chief Oleksandr Syrsky said yesterday that a turning point in the war with Russia was “still a long way off”, despite hailing a string of recent successes for his troops."
-    },
-    {
-      "title": {
-        "a": [
-          {
-            "_": "Global donor aid cuts: One million women, girls lose aid access",
-            "$": {
-              "href": "/news/world/news/global-donor-aid-cuts-one-million-women-girls-lose-aid-access-4221036",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/news/world/news/global-donor-aid-cuts-one-million-women-girls-lose-aid-access-4221036",
-      "pubDate": "Sat, 11 Jul 26 00:00:00 +0600\n",
-      "category": "World News",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "🌍",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "At least one million women and girls have lost access to life-saving support within the last year due to global donor aid cuts, a new United Nations report found yesterday."
-    },
-    {
-      "title": {
-        "a": [
-          {
-            "_": "Trump fires federal polls commissioners",
-            "$": {
-              "href": "/news/world/usa/news/trump-fires-federal-polls-commissioners-4221021",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/news/world/usa/news/trump-fires-federal-polls-commissioners-4221021",
-      "pubDate": "Sat, 11 Jul 26 00:00:00 +0600\n",
-      "category": "World News",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "🌍",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "President Donald Trump fired on Thursday the last two federal election officials in charge of the agency that ensures accurate, secure votes ahead of midterms in November, US media reported."
     },
     {
       "title": "Govt urges media to follow court directives on broadcasting Hasina's statements",
@@ -925,38 +243,6 @@
       "snippet": "According to RAB, the suspects attacked Bobby Begum in an abandoned room at Methikanda Railway Station late on 4 July, leaving her critically injured before fleeing with around Tk20,000 she had saved over a long period."
     },
     {
-      "title": "Forecast of 200-500mm rain in 3 days puts Ctg at high landslide risk, anticipatory action underway",
-      "link": "https://www.tbsnews.net/bangladesh/200-500mm-rainfall-three-days-forecast-puts-ctg-high-landslide-risk-anticipatory-action",
-      "pubDate": "Fri, 10 Jul 2026 21:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/08/landslide.jpg",
-      "snippet": "At least 30 people have been killed in separate landslide incidents across five districts over the past five days."
-    },
-    {
-      "title": {
-        "a": [
-          {
-            "_": "Exhibition opens in Alliance Française to support artist Ritu’s cancer treatment",
-            "$": {
-              "href": "/arts-entertainment/news/exhibition-opens-alliance-francaise-support-artist-ritus-cancer-treatment-4220696",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/arts-entertainment/news/exhibition-opens-alliance-francaise-support-artist-ritus-cancer-treatment-4220696",
-      "pubDate": "Fri, 10 Jul 26 19:39:43 +0600\n",
-      "category": "Arts and Entertainment",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎭",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "'Urban Images' by Kazi Salahuddin Ahmed will run until July 17"
-    },
-    {
       "title": "Realising the hopes and aspirations of young people: Bangladesh's path to a demographic future of choice and opportunity",
       "link": "https://www.tbsnews.net/thoughts/realising-hopes-and-aspirations-young-people-bangladeshs-path-demographic-future-choice-and",
       "pubDate": "Fri, 10 Jul 2026 18:55:00 +0600",
@@ -988,27 +274,6 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/whatsapp_image_2026-07-10_at_5.33.13_pm.jpeg",
       "snippet": "Bangladesh has millions of functioning small businesses — machines running, orders coming in, workers paid — that banks still refuse to finance because they cannot produce a land title. With LDC graduation looming and global competition intensifying,..."
-    },
-    {
-      "title": {
-        "a": [
-          {
-            "_": "Don’t let old ghosts haunt Malaysia reopening",
-            "$": {
-              "href": "/opinion/editorial/news/dont-let-old-ghosts-haunt-malaysia-reopening-4220661",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/opinion/editorial/news/dont-let-old-ghosts-haunt-malaysia-reopening-4220661",
-      "pubDate": "Fri, 10 Jul 26 18:31:16 +0600\n",
-      "category": "Opinion",
-      "color": "#7b1fa2",
-      "bg": "#f3e5f5",
-      "icon": "💭",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "Concerns over potential irregularities in Malaysia bid must be addressed."
     },
     {
       "title": "OpenAI unveils long-awaited 'super app' as rivalry with Anthropic intensifies",
@@ -1066,17 +331,6 @@
       "snippet": "The Ministry of Primary and Mass Education issued a notification today (10 July) saying the action was taken against Md Mehtab Kayes, the official in question."
     },
     {
-      "title": "Delisting is not the solution: Inquiry, accountability and investor protection must come first",
-      "link": "https://www.tbsnews.net/thoughts/delisting-not-solution-inquiry-accountability-and-investor-protection-must-come-first",
-      "pubDate": "Fri, 10 Jul 2026 14:40:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/whatsapp_image_2026-07-10_at_14.39.16.jpeg",
-      "snippet": "With 62 sick and non-operational companies facing removal from the Dhaka Stock Exchange, the instinct to clean up the board is understandable — but delisting without inquiry lets sponsors walk away and leaves ordinary shareholders with nothing"
-    },
-    {
       "title": "The hidden cost of being a woman in Bangladesh",
       "link": "https://www.tbsnews.net/thoughts/hidden-cost-being-woman-bangladesh-1484691",
       "pubDate": "Fri, 10 Jul 2026 14:40:00 +0600",
@@ -1088,6 +342,17 @@
       "snippet": "Every month, millions of Bangladeshi women face an unavoidable expense that affects their health, education and livelihoods. As the cost of menstrual products continues to strain household budgets, the authors argue that affordable menstrual care sho..."
     },
     {
+      "title": "Delisting is not the solution: Inquiry, accountability and investor protection must come first",
+      "link": "https://www.tbsnews.net/thoughts/delisting-not-solution-inquiry-accountability-and-investor-protection-must-come-first",
+      "pubDate": "Fri, 10 Jul 2026 14:40:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/whatsapp_image_2026-07-10_at_14.39.16.jpeg",
+      "snippet": "With 62 sick and non-operational companies facing removal from the Dhaka Stock Exchange, the instinct to clean up the board is understandable — but delisting without inquiry lets sponsors walk away and leaves ordinary shareholders with nothing"
+    },
+    {
       "title": "SK Hynix set for marquee US debut in test for AI appetite",
       "link": "https://www.tbsnews.net/tech/sk-hynix-set-marquee-us-debut-test-ai-appetite-1484646",
       "pubDate": "Fri, 10 Jul 2026 14:35:00 +0600",
@@ -1097,69 +362,6 @@
       "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/10/jhh47rj3afln5hvwo2cl6vyqjy.jpg",
       "snippet": "The South Korean chipmaker is the latest to ride a frenzy of investor interest in ​firms perceived as reaping big gains from the AI revolution that has spawned hundreds of billions of dollars in capital spending."
-    },
-    {
-      "title": {
-        "a": [
-          {
-            "_": "Bangladesh's next strategic test isn't choosing sides",
-            "$": {
-              "href": "/opinion/views/news/bangladeshs-next-strategic-test-isnt-choosing-sides-4220256",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/opinion/views/news/bangladeshs-next-strategic-test-isnt-choosing-sides-4220256",
-      "pubDate": "Fri, 10 Jul 26 11:00:00 +0600\n",
-      "category": "Opinion",
-      "color": "#7b1fa2",
-      "bg": "#f3e5f5",
-      "icon": "💭",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "Once again, Bangladesh finds itself amid South Asia’s geopolitical discourse."
-    },
-    {
-      "title": {
-        "a": [
-          {
-            "_": "Land of rivers and water crises?",
-            "$": {
-              "href": "/opinion/editorial/news/land-rivers-and-water-crises-4220251",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/opinion/editorial/news/land-rivers-and-water-crises-4220251",
-      "pubDate": "Fri, 10 Jul 26 10:00:00 +0600\n",
-      "category": "Opinion",
-      "color": "#7b1fa2",
-      "bg": "#f3e5f5",
-      "icon": "💭",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "For a country so rich in rivers and rainfall, it is unfathomable that safe water—for drinking and everyday use—remains inaccessible to so many people in Bangladesh."
-    },
-    {
-      "title": {
-        "a": [
-          {
-            "_": " Bangladesh needs a new rulebook for the evolving Rohingya crisis",
-            "$": {
-              "href": "/opinion/editorial/news/bangladesh-needs-new-rulebook-the-evolving-rohingya-crisis-4220236",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/opinion/editorial/news/bangladesh-needs-new-rulebook-the-evolving-rohingya-crisis-4220236",
-      "pubDate": "Fri, 10 Jul 26 09:00:00 +0600\n",
-      "category": "Opinion",
-      "color": "#7b1fa2",
-      "bg": "#f3e5f5",
-      "icon": "💭",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "What is the point of negotiating repatriation with Myanmar’s central government when Rakhine State, the territory those refugees would return to, is no longer under that government’s control?"
     },
     {
       "title": "Islami Bank remains remittance leader in FY26 as Krishi, BRAC banks post strong gains",
@@ -1206,132 +408,6 @@
       "snippet": "Economists attribute slowdown to political uncertainty over election, weaker investment climate, mounting economic risks"
     },
     {
-      "title": {
-        "a": [
-          {
-            "_": "Eastern Bank to facilitate secure  online payments for Air Astra",
-            "$": {
-              "href": "/business/organisation-news/news/eastern-bank-facilitate-secure-online-payments-air-astra-4220216",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/business/organisation-news/news/eastern-bank-facilitate-secure-online-payments-air-astra-4220216",
-      "pubDate": "Fri, 10 Jul 26 00:00:00 +0600\n",
-      "category": "Business",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "Eastern Bank PLC (EBL) has signed an agreement with Air Astra, a privately owned airline based in Bangladesh, to become the online payment gateway partner for its digital ticketing platform, enabling secure, seamless, and convenient payment solutions..."
-    },
-    {
-      "title": {
-        "a": [
-          {
-            "_": "Midland Bank cardholders to enjoy discounts at Crowne Plaza",
-            "$": {
-              "href": "/business/organisation-news/news/midland-bank-cardholders-enjoy-discounts-crowne-plaza-4220221",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/business/organisation-news/news/midland-bank-cardholders-enjoy-discounts-crowne-plaza-4220221",
-      "pubDate": "Fri, 10 Jul 26 00:00:00 +0600\n",
-      "category": "Business",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "Midland Bank PLC has signed an agreement with Crowne Plaza Dhaka Airport, an upscale property of IHG Hotels & Resorts, to offer privileges to its cardholders."
-    },
-    {
-      "title": {
-        "a": [
-          {
-            "_": "Al-Arafah Islami Bank partners with upay to expand digital services",
-            "$": {
-              "href": "/business/organisation-news/news/al-arafah-islami-bank-partners-upay-expand-digital-services-4220211",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/business/organisation-news/news/al-arafah-islami-bank-partners-upay-expand-digital-services-4220211",
-      "pubDate": "Fri, 10 Jul 26 00:00:00 +0600\n",
-      "category": "Business",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "Al-Arafah Islami Bank PLC has signed a strategic partnership agreement with UCB Fintech Limited (upay), a subsidiary of United Commercial Bank PLC, to facilitate fund transfers, remittance services, and expand shariah-compliant Islamic micro-savings ..."
-    },
-    {
-      "title": {
-        "a": [
-          {
-            "_": "BRAC Bank’s retail deposits surpass Tk 50,000cr milestone",
-            "$": {
-              "href": "/business/organisation-news/news/brac-banks-retail-deposits-surpass-tk-50000cr-milestone-4220206",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/business/organisation-news/news/brac-banks-retail-deposits-surpass-tk-50000cr-milestone-4220206",
-      "pubDate": "Fri, 10 Jul 26 00:00:00 +0600\n",
-      "category": "Business",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "BRAC Bank PLC’s retail deposit portfolio has surpassed Tk 50,000 crore in its 25th anniversary year."
-    },
-    {
-      "title": {
-        "a": [
-          {
-            "_": "Patenga terminal hikes delayed cargo storage fees fourfold",
-            "$": {
-              "href": "/business/economy/news/patenga-terminal-hikes-delayed-cargo-storage-fees-fourfold-4220201",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/business/economy/news/patenga-terminal-hikes-delayed-cargo-storage-fees-fourfold-4220201",
-      "pubDate": "Fri, 10 Jul 26 00:00:00 +0600\n",
-      "category": "Business",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "The operator of the Patenga Container Terminal has raised storage charges fourfold for less-than-container-load (LCL) cargoes that remain at its container freight stations beyond the free storage period."
-    },
-    {
-      "title": {
-        "a": [
-          {
-            "_": " 250 years of US independence: Do Americans know or care about their founding principles?",
-            "$": {
-              "href": "/opinion/views/the-third-view/news/250-years-us-independence-do-americans-know-or-care-about-their-founding-principles-4220231",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/opinion/views/the-third-view/news/250-years-us-independence-do-americans-know-or-care-about-their-founding-principles-4220231",
-      "pubDate": "Fri, 10 Jul 26 00:00:00 +0600\n",
-      "category": "Opinion",
-      "color": "#7b1fa2",
-      "bg": "#f3e5f5",
-      "icon": "💭",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "America’s most powerful attraction—freedom of thought—is under stress today."
-    },
-    {
       "title": "How football carried war, empire and power over the last century",
       "link": "https://www.tbsnews.net/features/big-picture/how-football-carried-war-empire-and-power-over-last-century-1484661",
       "pubDate": "Thu, 09 Jul 2026 22:45:00 +0600",
@@ -1343,27 +419,6 @@
       "snippet": "Football has never been sealed off from power. On the contrary, history shows how the world’s game became a tool of recruitment, propaganda, morale, and political pressure"
     },
     {
-      "title": {
-        "a": [
-          {
-            "_": "Le Reve Summer Collection: A Fresh Take on Comfort and Effortless Style",
-            "$": {
-              "href": "/lifestyle/news/le-reve-summer-collection-fresh-take-comfort-and-effortless-style-4220121",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/lifestyle/news/le-reve-summer-collection-fresh-take-comfort-and-effortless-style-4220121",
-      "pubDate": "Thu, 09 Jul 26 22:36:33 +0600\n",
-      "category": "Life and Living",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🌿",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "Inspired by Bangladesh's hot and humid climate and the need for practical everyday fashion, leading fashion and lifestyle brand Le Reve has launched its new Summer Collection. The latest range focuses on lightweight fabrics, clean silhouettes, soft c..."
-    },
-    {
       "title": "UGC to provide soft skills training for university students",
       "link": "https://www.tbsnews.net/bangladesh/education/ugc-provide-soft-skills-training-university-students-1484301",
       "pubDate": "Thu, 09 Jul 2026 22:15:00 +0600",
@@ -1373,27 +428,6 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/11/ugc.png",
       "snippet": "The commission has also planned to launch a \"Professional Knowledge Sharing Programme\" for university vice-chancellors, pro-vice-chancellors and treasurers."
-    },
-    {
-      "title": {
-        "a": [
-          {
-            "_": "Stars pay tribute to 'Total Eclipse' singer Bonnie Tyler",
-            "$": {
-              "href": "/arts-entertainment/music/news/stars-pay-tribute-total-eclipse-singer-bonnie-tyler-4220086",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/arts-entertainment/music/news/stars-pay-tribute-total-eclipse-singer-bonnie-tyler-4220086",
-      "pubDate": "Thu, 09 Jul 26 22:10:21 +0600\n",
-      "category": "Arts and Entertainment",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎭",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "The Welsh 'queen of the 80s power ballad' died in a hospital in Portugal at 75"
     },
     {
       "title": "Bangladesh needs swift reforms to stay competitive after LDC graduation: ICCB",
@@ -1449,90 +483,6 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/masud_khan.jpg",
       "snippet": "BSEC Chairman Masud Khan has unveiled a sweeping reform roadmap focused on boosting investor confidence, improving market transparency and strengthening regulatory institutions to drive sustainable growth in Bangladesh's capital market."
-    },
-    {
-      "title": {
-        "a": [
-          {
-            "_": "Regular fans vs Seasonal fans: Same old fight every World Cup",
-            "$": {
-              "href": "/life-living/news/regular-fans-vs-seasonal-fans-same-old-fight-every-world-cup-4219821",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/life-living/news/regular-fans-vs-seasonal-fans-same-old-fight-every-world-cup-4219821",
-      "pubDate": "Thu, 09 Jul 26 14:59:05 +0600\n",
-      "category": "Life and Living",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🌿",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "Explore the passionate clashes between seasonal and regular football fans in Bangladesh during the iconic World Cup tournament. Understanding these diverse perspective gaps helps enthusiastic supporters overcome toxic gatekeeping to truly enjoy the b..."
-    },
-    {
-      "title": {
-        "a": [
-          {
-            "_": "5 surprising facts about Moroccan football that make their story special",
-            "$": {
-              "href": "/life-living/news/5-surprising-facts-about-moroccan-football-make-their-story-special-4219811",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/life-living/news/5-surprising-facts-about-moroccan-football-make-their-story-special-4219811",
-      "pubDate": "Thu, 09 Jul 26 14:51:38 +0600\n",
-      "category": "Life and Living",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🌿",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "Celebrate Morocco global football triumph as the historic Atlas Lions unite an international diaspora at the FIFA World Cup. Deep cultural roots and passionate Casablanca stadium traditions pave a powerful legacy toward hosting the 2030 tournament."
-    },
-    {
-      "title": {
-        "a": [
-          {
-            "_": "What this week's tarot cards say about your life",
-            "$": {
-              "href": "/life-living/news/what-weeks-tarot-cards-say-about-your-life-4219806",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/life-living/news/what-weeks-tarot-cards-say-about-your-life-4219806",
-      "pubDate": "Thu, 09 Jul 26 14:44:46 +0600\n",
-      "category": "Life and Living",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🌿",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "Navigate unpredictable weekly challenges using a special Raider Waite Smith Tarot draw published for The Daily Star readers. Balance intense cosmic energies and release heavy burdens to achieve grounded stability during this transformative Cancer ast..."
-    },
-    {
-      "title": {
-        "a": [
-          {
-            "_": "Badsha Bahadur deserved rescue before his suffering went viral",
-            "$": {
-              "href": "/life-living/news/badsha-bahadur-deserved-rescue-his-suffering-went-viral-4219801",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/life-living/news/badsha-bahadur-deserved-rescue-his-suffering-went-viral-4219801",
-      "pubDate": "Thu, 09 Jul 26 14:41:12 +0600\n",
-      "category": "Life and Living",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🌿",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "Discover how Bangladesh authorities rescued Badsha Bahadur, a fifty-five-year-old circus elephant, transferring him to Mirpur Zoo. This vital wildlife welfare intervention highlights the urgent need for proactive enforcement under the new Wildlife Co..."
     },
     {
       "title": "Govt considers expanding Alo Clinics to improve urban healthcare access",
@@ -1733,48 +683,6 @@
       "snippet": "Cristiano Ronaldo has never been just a footballer to me. He has been a source of inspiration, a role model, and, in many ways, a life coach. His influence has shaped my mindset, my values, and the way I approach life’s challenges"
     },
     {
-      "title": {
-        "a": [
-          {
-            "_": "Is FIFA really biased towards Argentina? Football fans debate! ",
-            "$": {
-              "href": "/life-living/news/fifa-really-biased-towards-argentina-football-fans-debate-4219056",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/life-living/news/fifa-really-biased-towards-argentina-football-fans-debate-4219056",
-      "pubDate": "Wed, 08 Jul 26 16:46:07 +0600\n",
-      "category": "Life and Living",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🌿",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "Unpack the heated debate surrounding FIFA refereeing decisions and Argentina football victories. Fans clash over alleged bias toward Lionel Messi, questioning tournament credibility while others dismiss the controversy as standard social media conspi..."
-    },
-    {
-      "title": {
-        "a": [
-          {
-            "_": "A World Cup own goal that led to murder",
-            "$": {
-              "href": "/life-living/news/world-cup-own-goal-led-murder-4219051",
-              "hreflang": "en"
-            }
-          }
-        ]
-      },
-      "link": "https://www.thedailystar.net/life-living/news/world-cup-own-goal-led-murder-4219051",
-      "pubDate": "Wed, 08 Jul 26 16:41:47 +0600\n",
-      "category": "Life and Living",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🌿",
-      "image": "https://via.placeholder.com/400x200?text=No+Image",
-      "snippet": "Witness the tragic legacy of Colombian defender Andrés Escobar, whose 1994 World Cup own goal led to his fatal shooting in Medellín, illustrating how toxic football fanaticism turns sporting mistakes into dangerous real-world violence."
-    },
-    {
       "title": "Argentina's comeback, the controversy, and the debate that divided football",
       "link": "https://www.tbsnews.net/sports/football/argentinas-comeback-controversy-and-debate-divided-football-1483106",
       "pubDate": "Wed, 08 Jul 2026 16:25:00 +0600",
@@ -1795,18 +703,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/30/measles_outbreak.jpg",
       "snippet": "With the latest update, the number of suspected measles deaths has risen to 652, while the number of laboratory-confirmed measles deaths has reached 93."
-    },
-    {
-      "title": "Ctg customs to auction 168 containers online amid missing cargo row with port authority",
-      "link": "https://www.tbsnews.net/bangladesh/ctg-customs-auction-168-containers-online-amid-missing-cargo-row-port-authority-1482886",
-      "pubDate": "Wed, 08 Jul 2026 14:40:00 +0600",
-      "category": "Industry",
-      "color": "#f57c00",
-      "bg": "#fff3e0",
-      "icon": "🏭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/18/ctg_port_container_congestion.jpg",
-      "snippet": "Prospective buyers can register and bid via the official e-auction portal after a physical inspection of the goods"
     }
   ],
-  "updatedAt": "2026-07-11T08:35:29.734Z"
+  "updatedAt": "2026-07-11T08:49:33.924Z"
 }
