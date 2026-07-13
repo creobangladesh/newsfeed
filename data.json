@@ -1,6 +1,116 @@
 {
   "news": [
     {
+      "title": "Fazlu risks a week's income to earn a day's wage",
+      "link": "https://www.tbsnews.net/bangladesh/fazlu-risks-weeks-income-earn-days-wage-1487656",
+      "pubDate": "Mon, 13 Jul 2026 23:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/01/syed_zakir_hossain_1.jpg",
+      "snippet": "According to Fazlu, repairing a damaged controller costs around Tk1,300 to Tk1,400, while replacing a motor can cost between Tk5,000 and Tk6,000."
+    },
+    {
+      "title": "Four fishermen die, one missing after trawler capsizes off Kutubdia",
+      "link": "https://www.tbsnews.net/bangladesh/four-fishermen-die-one-missing-after-trawler-capsizes-kutubdia-1487641",
+      "pubDate": "Mon, 13 Jul 2026 22:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/07/25/drowned_death_3x2_0.jpg",
+      "snippet": "He said the trawler was carrying 12 fishermen. Of them, seven were rescued alive, four were found dead and one remains missing."
+    },
+    {
+      "title": "LDC challenges test global solidarity, credibility of multilateralism: PM's adviser",
+      "link": "https://www.tbsnews.net/bangladesh/ldc-challenges-test-global-solidarity-credibility-multilateralism-pms-adviser-1487636",
+      "pubDate": "Mon, 13 Jul 2026 22:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/13/0df72fb6-978b-4694-8236-f1dddf785a0a.jpg",
+      "snippet": "Currently, 14 LDCs are at different stages of the graduation process and continue to require sustained international support."
+    },
+    {
+      "title": "Police arrest 116,725 nationwide since May",
+      "link": "https://www.tbsnews.net/bangladesh/police-arrest-116725-nationwide-may-1487631",
+      "pubDate": "Mon, 13 Jul 2026 22:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/28/1a100ef7-3cb0-4195-bd40-300e0e8e87d2.jpg",
+      "snippet": "Police filed 14,157 cases and arrested 20,439 people in connection with the drug recoveries."
+    },
+    {
+      "title": "Parliament passes law allowing death penalty for drug crimes in cyberspace",
+      "link": "https://www.tbsnews.net/bangladesh/parliament-passes-law-allowing-death-penalty-drug-crimes-cyberspace-1487616",
+      "pubDate": "Mon, 13 Jul 2026 22:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/15/untitled_design_15.jpg",
+      "snippet": "The amended law introduces harsh penalties for drug-related activities conducted through digital platforms, allows prosecution based on digital evidence and financial transactions, and provides for separate drug crime tribunals in high-risk areas."
+    },
+    {
+      "title": "5 justice seekers injured as plaster falls from Bagerhat court building",
+      "link": "https://www.tbsnews.net/bangladesh/court/5-justice-seekers-injured-plaster-falls-bagerhat-court-building-1487626",
+      "pubDate": "Mon, 13 Jul 2026 22:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/13/palestar_bagerhat.jpg",
+      "snippet": "The injured were admitted to Bagerhat 250-bed District Hospital."
+    },
+    {
+      "title": "Relentless rain keeps passengers away, hits ride-sharing earnings",
+      "link": "https://www.tbsnews.net/bangladesh/relentless-rain-keeps-passengers-away-hits-ride-sharing-earnings-1487611",
+      "pubDate": "Mon, 13 Jul 2026 22:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/727f96186215522c72824194b4e0760d.jpeg",
+      "snippet": "Many Pathao riders say the number of trips they complete each day has dropped sharply, significantly reducing their daily income."
+    },
+    {
+      "title": "Engineers urge science-based urban planning to combat waterlogging",
+      "link": "https://www.tbsnews.net/bangladesh/engineers-urge-science-based-urban-planning-combat-waterlogging-1487601",
+      "pubDate": "Mon, 13 Jul 2026 21:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/13/745320455_1558681795977523_5850276565425603108_n.jpg",
+      "snippet": "Experts say stronger coordination between engineering research and government policymaking is crucial to building climate-resilient cities."
+    },
+    {
+      "title": "HSC exams to continue despite adverse weather; DCs can act over safety risks",
+      "link": "https://www.tbsnews.net/bangladesh/education/hsc-exams-continue-despite-adverse-weather-dcs-can-act-over-safety-risks",
+      "pubDate": "Mon, 13 Jul 2026 21:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/hsc_22_1-tbs.jpg",
+      "snippet": "Bangladesh Inter-Education Board Coordination Committee says only the Chattogram Education Board's examinations have been suspended until 16 July"
+    },
+    {
+      "title": "Only drug couriers get arrested, traffickers or their family members end up in parliament: Rumeen Farhana",
+      "link": "https://www.tbsnews.net/bangladesh/only-drug-couriers-get-arrested-traffickers-or-their-family-members-end-parliament-rumeen",
+      "pubDate": "Mon, 13 Jul 2026 21:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/08/rumeen_farhana.jpg",
+      "snippet": "The MP says existing laws are already stringent, but the real masterminds behind drug trafficking continue to evade justice."
+    },
+    {
       "title": "BSEC moves to reduce settlement cycle, scrap wet signatures",
       "link": "https://www.tbsnews.net/economy/stocks/bsec-moves-reduce-settlement-cycle-scrap-wet-signatures-1487576",
       "pubDate": "Mon, 13 Jul 2026 21:30:00 +0600",
@@ -122,103 +232,26 @@
       "snippet": "The DMP commissioner instructed officers to conduct regular drives against illegal firearms, snatchers, drug traders and extortionists in their respective jurisdictions."
     },
     {
-      "title": "Tarique to host dinner with alliance partners on 20 July",
-      "link": "https://www.tbsnews.net/bangladesh/politics/tarique-host-dinner-alliance-partners-20-july-1487476",
-      "pubDate": "Mon, 13 Jul 2026 19:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/04/pm_tarique.png",
-      "snippet": "The meeting comes amid growing discontent among some alliance partners, who have reportedly complained that political commitments made before the election and during the movement have not been fulfilled since the government took office."
-    },
-    {
-      "title": "Floodwaters recede in Bandarban, but mud-filled homes prolong suffering",
-      "link": "https://www.tbsnews.net/bangladesh/floodwaters-recede-bandarban-mud-filled-homes-prolong-suffering-1487471",
-      "pubDate": "Mon, 13 Jul 2026 19:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/13/pic_01.jpeg",
-      "snippet": "Long-distance bus services between Bandarban, Dhaka, Chattogram and Cox’s Bazar gradually resume."
-    },
-    {
-      "title": "Jamaat candidate challenges HC verdict upholding BNP's Sarwar Alamgir nomination",
-      "link": "https://www.tbsnews.net/bangladesh/court/jamaat-candidate-challenges-hc-verdict-upholding-bnps-sarwar-alamgir-nomination",
-      "pubDate": "Mon, 13 Jul 2026 19:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/13/sarwar_alamgir.jpg",
-      "snippet": "Earlier on 9 July, a High Court bench of Justice Fahmida Quader and Justice Md Asif Hasan delivered a verdict declaring the nomination valid."
-    },
-    {
-      "title": "'Pay Tk2cr upfront, Tk10 lakh monthly to operate': Ctg ISP office attacked, Tk35 lakh 'looted' after extortion refusal",
-      "link": "https://www.tbsnews.net/bangladesh/crime/pay-tk2cr-upfront-tk10-lakh-monthly-operate-ctg-isp-office-attacked-tk35-lakh",
-      "pubDate": "Mon, 13 Jul 2026 19:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/13/741940428_27458887883765123_8203776088551231376_n.jpg",
-      "snippet": "Digital Dot Net owner Adil Bin Mamun said that two days before the attack, a person who identified himself as \"David Emon\" called him from a foreign number and demanded the money."
-    },
-    {
       "title": "Dengue death toll reaches 27 as 2 die in 24hrs",
       "link": "https://www.tbsnews.net/bangladesh/dengue-death-toll-reaches-27-2-die-24hrs-1487441",
       "pubDate": "Mon, 13 Jul 2026 19:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/13/dengue.jpg",
       "snippet": "In the capital, 38 new cases were reported in Dhaka North City Corporation and 43 in Dhaka South City Corporation."
-    },
-    {
-      "title": "AL regime's model mosque spending 'reprehensible', probe to be ordered: Home minister",
-      "link": "https://www.tbsnews.net/bangladesh/al-regimes-model-mosque-spending-reprehensible-probe-be-ordered-home-minister-1487426",
-      "pubDate": "Mon, 13 Jul 2026 19:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/13/home_minister_parliament.jpg",
-      "snippet": "The government will investigate construction quality and spending at every model mosque separately amid allegations of irregularities and inflated project."
     },
     {
       "title": "92% people with mental illness go untreated: Minister tells parliament",
       "link": "https://www.tbsnews.net/bangladesh/health/92-people-mental-illness-go-untreated-minister-tells-parliament-1487456",
       "pubDate": "Mon, 13 Jul 2026 19:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/11/04/j2cmp3zpinglffqdpuysy6rcmi.png",
       "snippet": "Bangladesh has only 1.17 mental health workers for every 100,000 people"
-    },
-    {
-      "title": "Beza signs $13.7m investment land lease deal",
-      "link": "https://www.tbsnews.net/bangladesh/beza-signs-137m-investment-land-lease-deal-1487411",
-      "pubDate": "Mon, 13 Jul 2026 19:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/13/742172789_1385547330101147_1308636135923256801_n.jpg",
-      "snippet": "He said BEZA is committed to providing fast and investment-friendly services to help investors launch production in the shortest possible time."
-    },
-    {
-      "title": "Court orders seizure of BSB Global owner Khairul Bashar’s Tk33cr assets",
-      "link": "https://www.tbsnews.net/bangladesh/court/court-orders-seizure-bsb-global-owner-khairul-bashars-tk33cr-assets-1487436",
-      "pubDate": "Mon, 13 Jul 2026 19:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/13/bsb-global-owner.jpg",
-      "snippet": "The CID alleges Md Khairul Bashar Bahar built the properties using proceeds from an organised scam through fake admission offers."
     },
     {
       "title": "BB eases outward remittance rules for DPA enterprises in economic zones",
@@ -230,17 +263,6 @@
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/03/30/bangladesh_bank_0.jpg",
       "snippet": "The central bank issued the policy change through a circular today (13 July), amending the existing framework governing foreign exchange remittances by DPA-based enterprises."
-    },
-    {
-      "title": "Bangladesh posts 0.89% apparel export growth in 2025, lowest among Asian rivals: WTO",
-      "link": "https://www.tbsnews.net/economy/rmg/bangladesh-posts-089-apparel-export-growth-2025-lowest-among-asian-rivals-wto-1487416",
-      "pubDate": "Mon, 13 Jul 2026 18:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/02/09/copy_of_rmg_2.jpg",
-      "snippet": "Among the world's leading apparel exporters, only China, Turkey and the United States recorded export declines."
     },
     {
       "title": "Waist-deep water, illness fears add to HSC examinees' ordeal ",
@@ -265,15 +287,15 @@
       "snippet": "She has served in several key departments and holds postgraduate qualifications from institutions in Bangladesh and Japan."
     },
     {
-      "title": "IMF agrees to phased reform roadmap for new Bangladesh programme: Khosru",
-      "link": "https://www.tbsnews.net/economy/imf-agrees-phased-reform-roadmap-new-bangladesh-programme-khosru-1487331",
+      "title": "IMF inquires how NBR plans to meet its 45% higher revenue target for FY27",
+      "link": "https://www.tbsnews.net/economy/imf-inquires-how-nbr-plans-meet-its-45-higher-revenue-target-fy27-1487331",
       "pubDate": "Mon, 13 Jul 2026 17:50:00 +0600",
       "category": "Economy",
       "color": "#2e7d32",
       "bg": "#e8f5e9",
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/13/khosru_imf.jpg",
-      "snippet": "The lender praised the government's recent progress in financial sector reforms, capital market development and revenue mobilisation, with further negotiations expected later this year."
+      "snippet": "IMF has commended the government’s financial reforms, says FinMin; next round of talks in Sep or Oct."
     },
     {
       "title": "The de-commonisation of the Brahmaputra: A call for transformative governance",
@@ -780,18 +802,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/30/monetary_policy_1.png",
       "snippet": "The million-dollar question is whether businesses will invest when lending rates sit at 12-14%. Businesses say they need 15-18% operating profit just to service debt but profits remain thin or nonexistent. Without that margin, investment stalls."
-    },
-    {
-      "title": "Vegetable exports fail to grow due to weak diversification of basket and market",
-      "link": "https://www.tbsnews.net/economy/vegetable-exports-fail-grow-due-weak-diversification-basket-and-market-1484971",
-      "pubDate": "Sat, 11 Jul 2026 06:55:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/29/image-336845-1764394010.jpg",
-      "snippet": "Export Promotion Bureau data show that vegetable exports earned $88.88 million in FY26, up 9.57% from $81.12 million a year earlier. But this is $14.36 million below the $103.24 million earned in FY15"
     }
   ],
-  "updatedAt": "2026-07-13T15:42:56.980Z"
+  "updatedAt": "2026-07-13T17:55:01.676Z"
 }
