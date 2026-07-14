@@ -1,6 +1,94 @@
 {
   "news": [
     {
+      "title": "Wildlife conservationist Sitesh Ranjan Deb no more",
+      "link": "https://www.tbsnews.net/bangladesh/wildlife-conservationist-sitesh-ranjan-deb-no-more-1487951",
+      "pubDate": "Tue, 14 Jul 2026 13:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/received_2880148862338519.jpeg",
+      "snippet": "Through the foundation, he gained nationwide recognition for his work in wildlife conservation."
+    },
+    {
+      "title": "PM assures full govt support for young entrepreneurs to transform economy",
+      "link": "https://www.tbsnews.net/bangladesh/pm-inaugurates-national-startup-and-entrepreneurship-platform-1487946",
+      "pubDate": "Tue, 14 Jul 2026 13:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/pm_inauguration_0.jpg",
+      "snippet": "The prime minister acknowledged that building a business is far from easy and requires determination, patience and perseverance."
+    },
+    {
+      "title": "463 killed in 532 road accidents in June: Jatri Kalyan Samity",
+      "link": "https://www.tbsnews.net/bangladesh/532-road-accidents-kill-463-june-jatri-kalyan-1487926",
+      "pubDate": "Tue, 14 Jul 2026 13:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/25/tangail_accident.jpg",
+      "snippet": "The Samity's Accident Monitoring Cell compiled the data by reviewing media reports"
+    },
+    {
+      "title": "HSC examinees block Science Lab, Uttara roads demanding education minister's resignation",
+      "link": "https://www.tbsnews.net/bangladesh/education/hsc-examinees-block-science-lab-uttara-roads-demanding-education-ministers",
+      "pubDate": "Tue, 14 Jul 2026 12:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/hsc_edu_min_resign.jpg",
+      "snippet": "The protesters took to the streets at around 11:30am at the Science Lab intersection, bringing traffic to a halt on both sides."
+    },
+    {
+      "title": "27 members of 'Chhoto Jahangir Bahini', largest pirate gang of Sundarbans, surrender with arms",
+      "link": "https://www.tbsnews.net/bangladesh/27-members-sundarbans-largest-pirate-gang-chhoto-jahangir-bahini-surrender-arms-1487916",
+      "pubDate": "Tue, 14 Jul 2026 12:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/pirates.jpg",
+      "snippet": "Chhoto Jahangir Bahini had long been involved in robbery, kidnapping fishermen and woodcutters, and extorting ransom in the Sundarbans."
+    },
+    {
+      "title": "Army continues humanitarian assistance in flood-hit areas in Ctg",
+      "link": "https://www.tbsnews.net/bangladesh/army-continues-humanitarian-assistance-flood-hit-areas-ctg-1487901",
+      "pubDate": "Tue, 14 Jul 2026 12:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/ispr_flood_relief.jpg",
+      "snippet": "In Rangamati, the Army distributed relief materials among flood victims and provided necessary assistance to affected residents."
+    },
+    {
+      "title": "Jamaat removes Kushtia secretary over job at girls' college",
+      "link": "https://www.tbsnews.net/bangladesh/jamaat-removes-kushtia-secretary-over-job-girls-college-1487876",
+      "pubDate": "Tue, 14 Jul 2026 11:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/untitled-1.jpg",
+      "snippet": "According to the statement, under the central organisation’s decision, no man employed at a women’s educational institution may carry out organisational responsibilities as a member of Jamaat."
+    },
+    {
+      "title": "Govt prioritising rescue, relief in flood-hit areas; rehabilitation to follow: State minister",
+      "link": "https://www.tbsnews.net/bangladesh/govt-prioritising-rescue-relief-flood-hit-areas-rehabilitation-follow-state-minister",
+      "pubDate": "Tue, 14 Jul 2026 11:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/untitled_design_18.png",
+      "snippet": "The government plans to compensate affected farmers and livestock owners for their losses, says Aninda Islam Amit"
+    },
+    {
       "title": "Can 'sponge cities' help Bangladesh beat urban flooding?",
       "link": "https://www.tbsnews.net/features/panorama/can-sponge-cities-help-bangladesh-beat-urban-flooding-1487806",
       "pubDate": "Tue, 14 Jul 2026 11:00:00 +0600",
@@ -8,7 +96,7 @@
       "color": "#5d4037",
       "bg": "#efebe9",
       "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/flood.png",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/dhaka_flood_12_july_1.jpeg",
       "snippet": "Cities must move beyond grey infrastructure to manage stormwater"
     },
     {
@@ -144,90 +232,13 @@
       "snippet": "According to Fazlu, repairing a damaged controller costs around Tk1,300 to Tk1,400, while replacing a motor can cost between Tk5,000 and Tk6,000."
     },
     {
-      "title": "Four fishermen die, one missing after trawler capsizes off Kutubdia",
-      "link": "https://www.tbsnews.net/bangladesh/four-fishermen-die-one-missing-after-trawler-capsizes-kutubdia-1487641",
-      "pubDate": "Mon, 13 Jul 2026 22:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/07/25/drowned_death_3x2_0.jpg",
-      "snippet": "He said the trawler was carrying 12 fishermen. Of them, seven were rescued alive, four were found dead and one remains missing."
-    },
-    {
-      "title": "LDC challenges test global solidarity, credibility of multilateralism: PM's adviser",
-      "link": "https://www.tbsnews.net/bangladesh/ldc-challenges-test-global-solidarity-credibility-multilateralism-pms-adviser-1487636",
-      "pubDate": "Mon, 13 Jul 2026 22:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/13/0df72fb6-978b-4694-8236-f1dddf785a0a.jpg",
-      "snippet": "Currently, 14 LDCs are at different stages of the graduation process and continue to require sustained international support."
-    },
-    {
-      "title": "Police arrest 116,725 nationwide since May",
-      "link": "https://www.tbsnews.net/bangladesh/police-arrest-116725-nationwide-may-1487631",
-      "pubDate": "Mon, 13 Jul 2026 22:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/28/1a100ef7-3cb0-4195-bd40-300e0e8e87d2.jpg",
-      "snippet": "Police filed 14,157 cases and arrested 20,439 people in connection with the drug recoveries."
-    },
-    {
-      "title": "Parliament passes law allowing death penalty for drug crimes in cyberspace",
-      "link": "https://www.tbsnews.net/bangladesh/parliament-passes-law-allowing-death-penalty-drug-crimes-cyberspace-1487616",
-      "pubDate": "Mon, 13 Jul 2026 22:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/15/untitled_design_15.jpg",
-      "snippet": "The amended law introduces harsh penalties for drug-related activities conducted through digital platforms, allows prosecution based on digital evidence and financial transactions, and provides for separate drug crime tribunals in high-risk areas."
-    },
-    {
-      "title": "5 justice seekers injured as plaster falls from Bagerhat court building",
-      "link": "https://www.tbsnews.net/bangladesh/court/5-justice-seekers-injured-plaster-falls-bagerhat-court-building-1487626",
-      "pubDate": "Mon, 13 Jul 2026 22:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/13/palestar_bagerhat.jpg",
-      "snippet": "The injured were admitted to Bagerhat 250-bed District Hospital."
-    },
-    {
-      "title": "Relentless rain keeps passengers away, hits ride-sharing earnings",
-      "link": "https://www.tbsnews.net/bangladesh/relentless-rain-keeps-passengers-away-hits-ride-sharing-earnings-1487611",
-      "pubDate": "Mon, 13 Jul 2026 22:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/messenger_creation_e64dd676-0c31-4510-ac08-42e81e4dedb6.jpeg",
-      "snippet": "Many Pathao riders say the number of trips they complete each day has dropped sharply, significantly reducing their daily income."
-    },
-    {
-      "title": "Engineers urge science-based urban planning to combat waterlogging",
-      "link": "https://www.tbsnews.net/bangladesh/engineers-urge-science-based-urban-planning-combat-waterlogging-1487601",
-      "pubDate": "Mon, 13 Jul 2026 21:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/13/745320455_1558681795977523_5850276565425603108_n.jpg",
-      "snippet": "Experts say stronger coordination between engineering research and government policymaking is crucial to building climate-resilient cities."
-    },
-    {
       "title": "HSC exams to continue despite adverse weather; DCs can act over safety risks",
       "link": "https://www.tbsnews.net/bangladesh/education/hsc-exams-continue-despite-adverse-weather-dcs-can-act-over-safety-risks",
       "pubDate": "Mon, 13 Jul 2026 21:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/hsc_22_1-tbs.jpg",
       "snippet": "Bangladesh Inter-Education Board Coordination Committee says only the Chattogram Education Board's examinations have been suspended until 16 July"
     },
@@ -802,29 +813,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/08/pprc-logo.jpg",
       "snippet": "Stakeholders also warn that tax, copyright and licensing reforms are essential to unlock the sector's growth and employment potential."
-    },
-    {
-      "title": "PKSF to borrow Tk5,000cr from cenbank to expand finance for small entrepreneurs ",
-      "link": "https://www.tbsnews.net/economy/pksf-borrow-tk5000cr-cenbank-expand-finance-small-entrepreneurs-1485021",
-      "pubDate": "Sat, 11 Jul 2026 12:00:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/11/startup_1.png",
-      "snippet": "The funds will be released once the finance ministry provides a sovereign guarantee, which PKSF has formally requested. On 27 June, PKSF Managing Director Md Fazlul Kader wrote to the secretary of the Financial Institutions Division, seeking a govern..."
-    },
-    {
-      "title": "Humans versus human resources",
-      "link": "https://www.tbsnews.net/analysis/humans-versus-human-resources-1485146",
-      "pubDate": "Sat, 11 Jul 2026 12:00:00 +0600",
-      "category": "Analysis",
-      "color": "#5d4037",
-      "bg": "#efebe9",
-      "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/population.jpg",
-      "snippet": "People can be both an asset and, under certain circumstances, a liability for a country"
     }
   ],
-  "updatedAt": "2026-07-14T05:52:11.498Z"
+  "updatedAt": "2026-07-14T08:05:00.459Z"
 }
