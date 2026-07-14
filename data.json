@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "164 dengue cases reported in 13 days as Ctg battles rain-induced outbreak",
+      "link": "https://www.tbsnews.net/bangladesh/health/164-dengue-cases-reported-13-days-ctg-battles-rain-induced-outbreak-1488566",
+      "pubDate": "Tue, 14 Jul 2026 23:50:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/25/05_news_copy.png",
+      "snippet": "CMCH opens 70-bed dengue corner; eight city wards declared red zones"
+    },
+    {
       "title": "No delay in trial of July killings will be tolerated: Shafiqur Rahman",
       "link": "https://www.tbsnews.net/bangladesh/no-delay-trial-july-killings-will-be-tolerated-shafiqur-rahman-1488531",
       "pubDate": "Tue, 14 Jul 2026 22:10:00 +0600",
@@ -901,18 +912,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/05/ctg_port_6.jpg",
       "snippet": "Five days of heavy rain and rough seas have slowed cargo handling at Chattogram Port, stranded dozens of vessels and disrupted inland transportation."
-    },
-    {
-      "title": "SME owners demand policy reforms to ease business",
-      "link": "https://www.tbsnews.net/economy/industry/sme-owners-demand-policy-reforms-ease-business-1485766",
-      "pubDate": "Sat, 11 Jul 2026 23:40:00 +0600",
-      "category": "Industry",
-      "color": "#f57c00",
-      "bg": "#fff3e0",
-      "icon": "🏭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/05/02/sme_foundation_logo.jpg",
-      "snippet": "Entrepreneurs called for longer trade licence validity, lower real estate taxes and easier import procedures"
     }
   ],
-  "updatedAt": "2026-07-14T16:45:15.017Z"
+  "updatedAt": "2026-07-14T18:03:26.950Z"
 }
