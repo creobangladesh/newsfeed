@@ -1,15 +1,81 @@
 {
   "news": [
     {
-      "title": "Wildlife conservationist Sitesh Ranjan Deb no more",
-      "link": "https://www.tbsnews.net/bangladesh/wildlife-conservationist-sitesh-ranjan-deb-no-more-1487951",
-      "pubDate": "Tue, 14 Jul 2026 13:45:00 +0600",
+      "title": "Why did 12,000 kilometers of blind rage have to kill 12 Bangladeshis?",
+      "link": "https://www.tbsnews.net/thoughts/why-did-12000-kilometers-blind-rage-have-kill-12-bangladeshis-1488116",
+      "pubDate": "Tue, 14 Jul 2026 16:10:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/2026-06-22t215212z_1128336590_rc25zla3j9in_rtrmadp_3_soccer-worldcup-arg-aut-fans-bangladesh.jpg",
+      "snippet": "Sometimes I think that if Neymar, Messi, Ronaldo, Mbappé, or Haaland witnessed this spectacle, each of them would declare these fans the real GOATs."
+    },
+    {
+      "title": "Measles-related deaths rise to 766 as seven more children die",
+      "link": "https://www.tbsnews.net/bangladesh/health/measles-related-deaths-rise-766-seven-more-children-die-1488086",
+      "pubDate": "Tue, 14 Jul 2026 15:50:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/07/whatsapp_image_2026-05-07_at_2.56.37_pm.jpeg",
+      "snippet": "With the latest update, the number of suspected measles-related deaths has risen to 671, while laboratory-confirmed measles deaths stand at 95."
+    },
+    {
+      "title": "Why HSC candidates are demanding education minister's resignation",
+      "link": "https://www.tbsnews.net/bangladesh/why-hsc-candidates-are-demanding-education-ministers-resignation-1488051",
+      "pubDate": "Tue, 14 Jul 2026 15:25:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/received_2880148862338519.jpeg",
-      "snippet": "Through the foundation, he gained nationwide recognition for his work in wildlife conservation."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/students_protest_img_1.jpg",
+      "snippet": "The protests stem from the government's decision to continue HSC and equivalent examinations despite widespread flooding, heavy rainfall and waterlogging in several parts of the country."
+    },
+    {
+      "title": "Attackers unidentified, no arrests 24 hours after attack on Ctg ISP office",
+      "link": "https://www.tbsnews.net/bangladesh/attackers-unidentified-no-arrests-24-hours-after-attack-ctg-isp-office-1488056",
+      "pubDate": "Tue, 14 Jul 2026 15:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/13/741940428_27458887883765123_8203776088551231376_n.jpg",
+      "snippet": "Police said efforts are underway to identify the attackers by analysing CCTV camera footage, and technological and other evidence."
+    },
+    {
+      "title": "Four more RMG factories earn LEED certification",
+      "link": "https://www.tbsnews.net/economy/rmg/four-more-rmg-factories-earn-leed-certification-1488046",
+      "pubDate": "Tue, 14 Jul 2026 15:15:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/10/24/rmg_tram_group_nidle_3.jpg",
+      "snippet": "With the latest additions, Bangladesh now has 290 LEED-certified RMG factories, including 125 Platinum-rated and 145 Gold-rated facilities."
+    },
+    {
+      "title": "Govt to welcome Hasina if she returns to face justice: PM’s Adviser Zahed",
+      "link": "https://www.tbsnews.net/bangladesh/govt-welcome-hasina-if-she-returns-face-justice-pms-adviser-zahed-1488031",
+      "pubDate": "Tue, 14 Jul 2026 15:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/16/16-06-26-information_advisor-1.jpg",
+      "snippet": "\"There is now scope for engaging foreign lawyers in the International Crimes Tribunal. She may appoint the best lawyers in the world to defend her. International observers can monitor the proceedings, video recording facilities are available,\" he sai..."
+    },
+    {
+      "title": "RAB arrests man for killing wife over money for drugs in Gazipur",
+      "link": "https://www.tbsnews.net/bangladesh/crime/rab-arrests-man-killing-wife-over-money-drugs-gazipur-1488036",
+      "pubDate": "Tue, 14 Jul 2026 15:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/743699293_2087735845432215_2657356621136930149_n.jpg",
+      "snippet": "According to RAB, during an altercation, Sayedul allegedly stabbed Nasima repeatedly, killing her in front of their eight-year-old daughter and five-year-old son."
     },
     {
       "title": "PM assures full govt support for young entrepreneurs to transform economy",
@@ -34,7 +100,7 @@
       "snippet": "The Samity's Accident Monitoring Cell compiled the data by reviewing media reports"
     },
     {
-      "title": "HSC examinees block Science Lab, Uttara roads demanding education minister's resignation",
+      "title": "HSC examinees protest in Dhaka, 4 other districts, demand education minister's resignation",
       "link": "https://www.tbsnews.net/bangladesh/education/hsc-examinees-block-science-lab-uttara-roads-demanding-education-ministers",
       "pubDate": "Tue, 14 Jul 2026 12:50:00 +0600",
       "category": "Bangladesh",
@@ -42,7 +108,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/hsc_edu_min_resign.jpg",
-      "snippet": "The protesters took to the streets at around 11:30am at the Science Lab intersection, bringing traffic to a halt on both sides."
+      "snippet": "Protests were held in Dhaka, Bogura, Barishal, Chattogram, and Faridpur over the government's decision to continue HSC and equivalent examinations despite adverse weather conditions."
     },
     {
       "title": "27 members of 'Chhoto Jahangir Bahini', largest pirate gang of Sundarbans, surrender with arms",
@@ -199,39 +265,6 @@
       "snippet": ""
     },
     {
-      "title": "Days of rain wash away Mariam's only source of income",
-      "link": "https://www.tbsnews.net/bangladesh/days-rain-wash-away-mariams-only-source-income-1487666",
-      "pubDate": "Mon, 13 Jul 2026 23:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/02/22/rain_0_0.png",
-      "snippet": "She has an umbrella but it offers little protection as rainwater seeps through its gaps. Around her, pedestrians hurry past without stopping."
-    },
-    {
-      "title": "Opposition walks out over constitutional amendment panel; home minister rejects 'dual oath' argument",
-      "link": "https://www.tbsnews.net/bangladesh/opposition-walks-out-over-constitutional-amendment-panel-home-minister-rejects-dual-oath",
-      "pubDate": "Mon, 13 Jul 2026 23:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/12/parliament.png",
-      "snippet": "Shafiqur maintained that forming a parliamentary committee while bypassing the reform council contradicted the public mandate."
-    },
-    {
-      "title": "Fazlu risks a week's income to earn a day's wage",
-      "link": "https://www.tbsnews.net/bangladesh/fazlu-risks-weeks-income-earn-days-wage-1487656",
-      "pubDate": "Mon, 13 Jul 2026 23:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/01/syed_zakir_hossain_1.jpg",
-      "snippet": "According to Fazlu, repairing a damaged controller costs around Tk1,300 to Tk1,400, while replacing a motor can cost between Tk5,000 and Tk6,000."
-    },
-    {
       "title": "HSC exams to continue despite adverse weather; DCs can act over safety risks",
       "link": "https://www.tbsnews.net/bangladesh/education/hsc-exams-continue-despite-adverse-weather-dcs-can-act-over-safety-risks",
       "pubDate": "Mon, 13 Jul 2026 21:50:00 +0600",
@@ -254,17 +287,6 @@
       "snippet": "The move allows exporters in EPZs, private EPZs, economic zones and high-tech parks to access short-term Taka liquidity without converting their foreign currency holdings."
     },
     {
-      "title": "Typhoid vaccine to join routine EPI programme from 1 August",
-      "link": "https://www.tbsnews.net/bangladesh/health/typhoid-vaccine-join-routine-epi-programme-1-august-1487521",
-      "pubDate": "Mon, 13 Jul 2026 20:40:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/12/pyphiod-vaccine.png",
-      "snippet": "Until now, parents had to purchase the typhoid vaccine privately, as it was not included in the government's routine immunisation programme."
-    },
-    {
       "title": "Govt plans kidney dialysis services at district, upazila hospitals",
       "link": "https://www.tbsnews.net/bangladesh/health/govt-plans-kidney-dialysis-services-district-upazila-hospitals-1487531",
       "pubDate": "Mon, 13 Jul 2026 20:40:00 +0600",
@@ -274,6 +296,17 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/10/dialysis.jpg",
       "snippet": "Around 3.8 crore people in Bangladesh are suffering from kidney-related diseases, says KAMPS"
+    },
+    {
+      "title": "Typhoid vaccine to join routine EPI programme from 1 August",
+      "link": "https://www.tbsnews.net/bangladesh/health/typhoid-vaccine-join-routine-epi-programme-1-august-1487521",
+      "pubDate": "Mon, 13 Jul 2026 20:40:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/12/pyphiod-vaccine.png",
+      "snippet": "Until now, parents had to purchase the typhoid vaccine privately, as it was not included in the government's routine immunisation programme."
     },
     {
       "title": "Series of mega projects coming under healthcare sector: Health minister tells parliament",
@@ -815,5 +848,5 @@
       "snippet": "Stakeholders also warn that tax, copyright and licensing reforms are essential to unlock the sector's growth and employment potential."
     }
   ],
-  "updatedAt": "2026-07-14T08:05:00.459Z"
+  "updatedAt": "2026-07-14T10:16:56.882Z"
 }
