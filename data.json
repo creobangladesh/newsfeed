@@ -1,7 +1,95 @@
 {
   "news": [
     {
-      "title": "Why did 12,000 kilometers of blind rage have to kill 12 Bangladeshis?",
+      "title": "1.61Cr families to be covered under Family Card scheme by 2030: State minister",
+      "link": "https://www.tbsnews.net/bangladesh/161cr-families-be-covered-under-family-card-scheme-2030-state-minister-1488176",
+      "pubDate": "Tue, 14 Jul 2026 17:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/08/family_card_0.jpg",
+      "snippet": "Around 4.10 crore families will be counted to build a modern database under the DSR system, with the aim of bringing 1.61 crore families under its coverage by the 2029-30 fiscal year"
+    },
+    {
+      "title": "Head teacher promotions to begin soon to fill vacancies at primary schools: Education minister",
+      "link": "https://www.tbsnews.net/bangladesh/head-teacher-promotions-begin-soon-fill-vacancies-primary-schools-education-minister",
+      "pubDate": "Tue, 14 Jul 2026 17:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/04/milon_.jpg",
+      "snippet": "He added that the new recruitment rules have increased the promotion quota for head teacher posts from 65% to 80%."
+    },
+    {
+      "title": "101 parks to be constructed in country: Housing Minister",
+      "link": "https://www.tbsnews.net/bangladesh/101-parks-be-constructed-country-housing-minister-1488186",
+      "pubDate": "Tue, 14 Jul 2026 17:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/parks_to_be_constructed.jpg",
+      "snippet": "The minister said the government is giving top priority to environmental protection in all development activities to promote planned urbanisation."
+    },
+    {
+      "title": "HSC exams held smoothly after consulting local authorities, weather office: Education minister",
+      "link": "https://www.tbsnews.net/bangladesh/education/hsc-exams-held-smoothly-after-consulting-local-authorities-weather-office",
+      "pubDate": "Tue, 14 Jul 2026 17:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/milon_parliament.png",
+      "snippet": "Addressing complaints, Milon says errors had been identified in questions 6 and 7 of the physics paper and assured parliament that all candidates would receive full marks for those two questions."
+    },
+    {
+      "title": "Bandarban plans to resume HSC exams, reopen tourist spots from 16 July if weather improves",
+      "link": "https://www.tbsnews.net/bangladesh/bandarban-plans-resume-hsc-exams-reopen-tourist-spots-16-july-if-weather-improves-1488171",
+      "pubDate": "Tue, 14 Jul 2026 17:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/hsc_bandarban_press_briefing_img_1.jpg",
+      "snippet": "About 70% of the district was inundated during the recent floods, affecting 12,500 families and triggering 47 landslides."
+    },
+    {
+      "title": "BNP leader accused of biting trader's ear, ordering him to leave area in Narsingdi",
+      "link": "https://www.tbsnews.net/bangladesh/bnp-leader-accused-biting-traders-ear-ordering-him-leave-area-narsingdi-1488136",
+      "pubDate": "Tue, 14 Jul 2026 16:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/narsingdi-injured.jpg",
+      "snippet": "The incident reportedly took place yesterday evening in front of Bangladesh Jute Mills in Ghorashal."
+    },
+    {
+      "title": "US-Bangla offers to fly Hajj pilgrims for Tk98,000 – Tk56,000 less than last fare",
+      "link": "https://www.tbsnews.net/bangladesh/us-bangla-offers-fly-hajj-pilgrims-tk98000-tk56000-less-last-fare-1488141",
+      "pubDate": "Tue, 14 Jul 2026 16:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/us_bangla.jpg",
+      "snippet": "The airfare for the 2026 Hajj season was Tk1,54,830 per passenger, making air travel one of the largest components of the overall Hajj package."
+    },
+    {
+      "title": "Bangladesh, US discuss stronger cooperation in agriculture, trade, labour and health",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-us-discuss-stronger-cooperation-agriculture-trade-labour-and-health-1488126",
+      "pubDate": "Tue, 14 Jul 2026 16:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/yygg_1.jpg",
+      "snippet": "Christensen stressed the need for effective cold chain systems and refrigerated transport to ensure proper storage, transportation and export of agricultural products. He said the United States is interested in supporting Bangladesh in developing rel..."
+    },
+    {
+      "title": "Why did a World Cup happening 12,000kms away get 12 killed in Bangladesh?",
       "link": "https://www.tbsnews.net/thoughts/why-did-12000-kilometers-blind-rage-have-kill-12-bangladeshis-1488116",
       "pubDate": "Tue, 14 Jul 2026 16:10:00 +0600",
       "category": "Thoughts",
@@ -100,7 +188,7 @@
       "snippet": "The Samity's Accident Monitoring Cell compiled the data by reviewing media reports"
     },
     {
-      "title": "HSC examinees protest in Dhaka, 4 other districts, demand education minister's resignation",
+      "title": "HSC examinees protest in Dhaka, 5 other districts, demand education minister's resignation",
       "link": "https://www.tbsnews.net/bangladesh/education/hsc-examinees-block-science-lab-uttara-roads-demanding-education-ministers",
       "pubDate": "Tue, 14 Jul 2026 12:50:00 +0600",
       "category": "Bangladesh",
@@ -108,7 +196,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/hsc_edu_min_resign.jpg",
-      "snippet": "Protests were held in Dhaka, Bogura, Barishal, Chattogram, and Faridpur over the government's decision to continue HSC and equivalent examinations despite adverse weather conditions."
+      "snippet": "Protests were held in Dhaka, Cumilla, Bogura, Barishal, Chattogram, and Faridpur over the government's decision to continue HSC and equivalent examinations despite adverse weather conditions."
     },
     {
       "title": "27 members of 'Chhoto Jahangir Bahini', largest pirate gang of Sundarbans, surrender with arms",
@@ -180,10 +268,10 @@
       "title": "EV investments spark on budget perks",
       "link": "https://www.tbsnews.net/economy/ev-investments-spark-budget-perks-1487731",
       "pubDate": "Tue, 14 Jul 2026 10:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/ev-car.png",
       "snippet": "Sector’s biggest challenge shifted to ensuring reliable electricity"
     },
@@ -191,78 +279,12 @@
       "title": "Overseas education scam: Just Thought consultancy owner arrested while trying to leave country",
       "link": "https://www.tbsnews.net/bangladesh/crime/overseas-education-scam-just-thought-consultancy-owner-arrested-while-trying-leave",
       "pubDate": "Tue, 14 Jul 2026 10:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/2.jpg",
       "snippet": "Acting on a tip-off, officers from Bhatara Police Station arrested Matiur Rahman in Uttara shortly before he was due to board a flight out of the country, scheduled for 2:30am, said Officer-in-Charge Mazharul Islam."
-    },
-    {
-      "title": "Rain leaks thru parliament roof; deputy speaker says uses bowls to catch water at his own residence",
-      "link": "https://www.tbsnews.net/bangladesh/rain-leaks-thru-parliament-roof-deputy-speaker-uses-bowls-catch-water-his-own-residence",
-      "pubDate": "Tue, 14 Jul 2026 10:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/01/04/bangladesh_national_parliament-tbs.png",
-      "snippet": "Speaking on a point of order during the parliamentary session chaired by the deputy speaker, Gauch drew the House’s attention to the condition of the Sangsad Bhaban."
-    },
-    {
-      "title": "Govt plans to halve bureaucrats' car maintenance allowance to Tk25,000",
-      "link": "https://www.tbsnews.net/bangladesh/govt-plans-halve-bureaucrats-car-maintenance-allowance-tk25000-1487726",
-      "pubDate": "Tue, 14 Jul 2026 09:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/08/21/fuel.jpeg",
-      "snippet": "The finance ministry wrote to the public administration ministry on 9 July seeking to reduce vehicle maintenance costs by half"
-    },
-    {
-      "title": "How BSEC chairman plans to revive the stock market by boosting institutional investors",
-      "link": "https://www.tbsnews.net/interviews/how-bsec-chairman-plans-revive-stock-market-boosting-institutional-investors-1487706",
-      "pubDate": "Tue, 14 Jul 2026 07:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/masud_khan.jpg",
-      "snippet": "The newly appointed commission plans to review IPO (Initial Public Offering) rules to revive the primary market, simplify margin rules to improve money flow, and introduce performance-based mechanisms for mutual funds to attract institutional investo..."
-    },
-    {
-      "title": "Parliament passes bill to run BMU hospital through companies",
-      "link": "https://www.tbsnews.net/bangladesh/parliament-passes-bill-run-bmu-hospital-through-companies-1487686",
-      "pubDate": "Tue, 14 Jul 2026 00:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/sardar_.jpg",
-      "snippet": "The government said the initiative would improve specialised medical services."
-    },
-    {
-      "title": "Only Tk85 lakh relief for over 7.5 lakh flood victims in Ctg, 80% yet to receive relief assistance",
-      "link": "https://www.tbsnews.net/bangladesh/only-tk85-lakh-relief-over-75-lakh-flood-victims-ctg-80-yet-receive-relief-assistance",
-      "pubDate": "Tue, 14 Jul 2026 00:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/ctg_flood3.jpg",
-      "snippet": "Based on the total number of affected people, the daily cash allocation amounts to about Tk11.6 per person, while the quantity of rice remains far below the estimated demand."
-    },
-    {
-      "title": "Six parliamentary standing committees formed",
-      "link": "https://www.tbsnews.net/bangladesh/six-parliamentary-standing-committees-formed-1487676",
-      "pubDate": "Tue, 14 Jul 2026 00:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/16/parliament_rajib-dhar.png",
-      "snippet": ""
     },
     {
       "title": "HSC exams to continue despite adverse weather; DCs can act over safety risks",
@@ -287,17 +309,6 @@
       "snippet": "The move allows exporters in EPZs, private EPZs, economic zones and high-tech parks to access short-term Taka liquidity without converting their foreign currency holdings."
     },
     {
-      "title": "Govt plans kidney dialysis services at district, upazila hospitals",
-      "link": "https://www.tbsnews.net/bangladesh/health/govt-plans-kidney-dialysis-services-district-upazila-hospitals-1487531",
-      "pubDate": "Mon, 13 Jul 2026 20:40:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/10/dialysis.jpg",
-      "snippet": "Around 3.8 crore people in Bangladesh are suffering from kidney-related diseases, says KAMPS"
-    },
-    {
       "title": "Typhoid vaccine to join routine EPI programme from 1 August",
       "link": "https://www.tbsnews.net/bangladesh/health/typhoid-vaccine-join-routine-epi-programme-1-august-1487521",
       "pubDate": "Mon, 13 Jul 2026 20:40:00 +0600",
@@ -307,6 +318,17 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/12/pyphiod-vaccine.png",
       "snippet": "Until now, parents had to purchase the typhoid vaccine privately, as it was not included in the government's routine immunisation programme."
+    },
+    {
+      "title": "Govt plans kidney dialysis services at district, upazila hospitals",
+      "link": "https://www.tbsnews.net/bangladesh/health/govt-plans-kidney-dialysis-services-district-upazila-hospitals-1487531",
+      "pubDate": "Mon, 13 Jul 2026 20:40:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/10/dialysis.jpg",
+      "snippet": "Around 3.8 crore people in Bangladesh are suffering from kidney-related diseases, says KAMPS"
     },
     {
       "title": "Series of mega projects coming under healthcare sector: Health minister tells parliament",
@@ -824,29 +846,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/1._bike_2.jpg",
       "snippet": "The provisions, which apply to all digital labour platforms and all digital platform workers regardless of employment classification, provide a comprehensive framework for regulating work organised or facilitated through digital technologies"
-    },
-    {
-      "title": "Measles: Death toll reaches 753 as three more children die in 24 hours",
-      "link": "https://www.tbsnews.net/bangladesh/measles-death-toll-reaches-753-three-more-children-die-24-hours-1485351",
-      "pubDate": "Sat, 11 Jul 2026 16:40:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/04/measles.jpg",
-      "snippet": "So far, 93 people have died with confirmed measles infections, while 702 have died with measles-like symptoms, the data showed."
-    },
-    {
-      "title": "Creative economy needs policy reforms to thrive on Tk800cr support in FY27: Stakeholders",
-      "link": "https://www.tbsnews.net/economy/creative-economy-needs-policy-tax-reforms-unlock-tk800cr-plan-stakeholders-1485346",
-      "pubDate": "Sat, 11 Jul 2026 16:30:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/08/pprc-logo.jpg",
-      "snippet": "Stakeholders also warn that tax, copyright and licensing reforms are essential to unlock the sector's growth and employment potential."
     }
   ],
-  "updatedAt": "2026-07-14T10:16:56.882Z"
+  "updatedAt": "2026-07-14T11:54:12.176Z"
 }
