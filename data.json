@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Metro Rail safety audit flags structural defects, fire risks",
+      "link": "https://www.tbsnews.net/bangladesh/transport/metro-rail-safety-audit-flags-structural-defects-fire-risks-1488656",
+      "pubDate": "Wed, 15 Jul 2026 09:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/01/26/bmrt-salahuddin-ahmed.jpg",
+      "snippet": "Audit finds 730 defective bearing pads, cracks in piers, overhead wire sparks, jerk, undermining MRT Line-6 performance"
+    },
+    {
+      "title": "Chinese firms drive two-thirds of EPZ investments in FY26",
+      "link": "https://www.tbsnews.net/economy/chinese-firms-drive-two-thirds-epz-investments-fy26-1488641",
+      "pubDate": "Wed, 15 Jul 2026 07:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/06/06/bepza.jpg",
+      "snippet": "Chinese-owned and joint-venture companies accounted for nearly two-thirds of the investment commitments secured by the Bangladesh Export Processing Zones Authority (Bepza) in the fiscal 2025-26"
+    },
+    {
       "title": "RSGT Bangladesh launches full operations at Patenga terminal after $170m investment",
       "link": "https://www.tbsnews.net/bangladesh/rsgt-bangladesh-launches-full-operations-patenga-terminal-after-170m-investment-1488626",
       "pubDate": "Wed, 15 Jul 2026 01:20:00 +0600",
@@ -12,17 +34,6 @@
       "snippet": "Since taking over operations in 2024, the company has invested in expanding the terminal's capacity and modernising its facilities."
     },
     {
-      "title": "France wants stronger Bangladesh partnership based on reciprocity: Ambassador",
-      "link": "https://www.tbsnews.net/foreign-policy/france-wants-stronger-bangladesh-partnership-based-reciprocity-ambassador-1488606",
-      "pubDate": "Wed, 15 Jul 2026 00:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/03/12/france_bd_flag.png",
-      "snippet": "Sere-Charlet said France is committed to expanding its partnership with Bangladesh in trade, investment, culture, climate action, innovation and strategic cooperation."
-    },
-    {
       "title": "'Don't turn July Uprising into political business', says home minister",
       "link": "https://www.tbsnews.net/bangladesh/dont-turn-july-uprising-political-business-says-home-minister-1488611",
       "pubDate": "Wed, 15 Jul 2026 00:35:00 +0600",
@@ -32,6 +43,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/15/salahuddin_ahmed.jpg",
       "snippet": "“If Sheikh Hasina returns to Bangladesh, she will be arrested in accordance with the law and the judicial process will be followed,” he said."
+    },
+    {
+      "title": "France wants stronger Bangladesh partnership based on reciprocity: Ambassador",
+      "link": "https://www.tbsnews.net/foreign-policy/france-wants-stronger-bangladesh-partnership-based-reciprocity-ambassador-1488606",
+      "pubDate": "Wed, 15 Jul 2026 00:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/03/12/france_bd_flag.png",
+      "snippet": "Sere-Charlet said France is committed to expanding its partnership with Bangladesh in trade, investment, culture, climate action, innovation and strategic cooperation."
     },
     {
       "title": "IMF reviews Bangladesh's external debt risks, slow loan disbursements",
@@ -312,10 +334,10 @@
       "title": "HSC question paper errors: 4 teacher served show-cause notices",
       "link": "https://www.tbsnews.net/bangladesh/education/hsc-question-paper-errors-4-teacher-served-show-cause-notices-1488396",
       "pubDate": "Tue, 14 Jul 2026 20:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/sylhet_edu_board_0.jpg",
       "snippet": "The teachers have been instructed to submit written explanations within three working days."
     },
@@ -323,10 +345,10 @@
       "title": "Commuters suffer for hours as student protest in Uttara paralyses Elevated Expressway, Airport Road",
       "link": "https://www.tbsnews.net/bangladesh/commuters-suffer-hours-student-protest-uttara-paralyses-elevated-expressway-airport-road",
       "pubDate": "Tue, 14 Jul 2026 19:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/elevated.png",
       "snippet": "The protesters also announced a \"March to the Education Ministry\" programme for tomorrow, reiterating their demand that Education Minister ANM Ehsanul Hoque Milon resign within 24 hours."
     },
@@ -936,5 +958,5 @@
       "snippet": "A father's search for a Portugal football jersey reveals something larger than consumer choice. It exposes how markets determine which identities become visible, which preferences matter, and which remain on the margins – even in something as seeming..."
     }
   ],
-  "updatedAt": "2026-07-15T00:50:21.369Z"
+  "updatedAt": "2026-07-15T03:57:55.705Z"
 }
