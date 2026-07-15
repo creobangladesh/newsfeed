@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "President pays tribute to July Martyrs, urges unity to build martyrs' envisioned Bangladesh",
+      "link": "https://www.tbsnews.net/bangladesh/president-pays-tribute-july-martyrs-urges-unity-build-martyrs-envisioned-bangladesh",
+      "pubDate": "Thu, 16 Jul 2026 03:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/president_shahabuddin_bss_1.jpg",
+      "snippet": "President said the July Mass Uprising was an outburst of the people's long-standing anger against discrimination, corruption, enforced disappearances, killings, deprivation of voting rights, repression and fascist misrule."
+    },
+    {
+      "title": "Today marks historic July Martyrs’ Day",
+      "link": "https://www.tbsnews.net/bangladesh/today-marks-historic-july-martyrs-day-1489511",
+      "pubDate": "Thu, 16 Jul 2026 03:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/08/06/abu_sayeed_0.jpg",
+      "snippet": "On this day in 2024, at least six people were killed during the anti-fascist movement."
+    },
+    {
       "title": "Eight days of rain damages 197km of Ctg roads, surpassing six years’ monsoon toll",
       "link": "https://www.tbsnews.net/bangladesh/eight-days-rain-damages-197km-ctg-roads-surpassing-six-years-monsoon-toll-1489506",
       "pubDate": "Thu, 16 Jul 2026 01:30:00 +0600",
@@ -221,28 +243,6 @@
       "snippet": "Police says several of those arrested have previous criminal cases, including extortion, human trafficking, illegal arms, narcotics and robbery."
     },
     {
-      "title": "Parliament passes Invest Bangladesh Bill despite opposition objections",
-      "link": "https://www.tbsnews.net/bangladesh/parliament-passes-invest-bangladesh-bill-despite-opposition-objections-1489311",
-      "pubDate": "Wed, 15 Jul 2026 20:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/15/untitled_design_15.jpg",
-      "snippet": "He argued that although the Cabinet approved the bill on 9 July, MPs were not provided with the mandatory documents within the stipulated notice period."
-    },
-    {
-      "title": "PM orders naming Dhaka road after ex-Qatari Emir Sheikh Hamad bin Khalifa Al Thani",
-      "link": "https://www.tbsnews.net/bangladesh/pm-orders-naming-dhaka-road-after-ex-qatari-emir-sheikh-hamad-bin-khalifa-al-thani",
-      "pubDate": "Wed, 15 Jul 2026 20:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/pm-qatari_emir_sheikh_hamad_bin_khalifa_al_thani-converted-from-webp.jpeg",
-      "snippet": "He served as Emir of Qatar from 1995 to 2013 and is widely regarded as one of the principal architects of the country's transformation into a modern state."
-    },
-    {
       "title": "Cenbank eases foreign borrowing rules for foreign-owned firms",
       "link": "https://www.tbsnews.net/economy/banking/cenbank-eases-foreign-borrowing-rules-foreign-owned-firms-1489296",
       "pubDate": "Wed, 15 Jul 2026 19:50:00 +0600",
@@ -318,6 +318,17 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/shikkha_bhaban.jpg",
       "snippet": "A six-member delegation entered the Secretariat for talks after police stopped the protesters at Shikkha Bhaban, where they submitted a revised set of demands, dropping their earlier call for the education minister's resignation."
+    },
+    {
+      "title": "Bepza secures record $718m investment proposals in FY26",
+      "link": "https://www.tbsnews.net/economy/corporates/bepza-contributes-1751-national-exports-fy2025-26-1489071",
+      "pubDate": "Wed, 15 Jul 2026 16:25:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/09/14/bepza.jpg",
+      "snippet": "The export processing zone authority secured $717.71 million in proposed investments, contributed 17.5% of Bangladesh's exports and created more than 25,000 jobs during FY2025-26."
     },
     {
       "title": "Measles death toll reaches 771 as five more children die",
@@ -991,5 +1002,5 @@
       "snippet": "The absence of economic decentralisation and long-term urban planning has turned Dhaka into one of the world's least liveable cities despite its central role in Bangladesh's economy"
     }
   ],
-  "updatedAt": "2026-07-15T20:33:24.181Z"
+  "updatedAt": "2026-07-15T22:00:52.466Z"
 }
