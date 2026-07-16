@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "Bangladesh's fertility U-turn: The case for demographic governance ",
+      "link": "https://www.tbsnews.net/thoughts/bangladeshs-fertility-u-turn-case-demographic-governance-1490431",
+      "pubDate": "Thu, 16 Jul 2026 23:55:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/20210719170259_sap_8471-01.jpeg",
+      "snippet": "Bangladesh's recent rise in fertility is not merely a population issue. It is a reminder that demographic success requires continuous governance"
+    },
+    {
+      "title": "Hearing in graft case against ex-IGP Benazir adjourned till 17 August",
+      "link": "https://www.tbsnews.net/bangladesh/court/hearing-graft-case-against-ex-igp-benazir-adjourned-till-17-august-1490426",
+      "pubDate": "Thu, 16 Jul 2026 23:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/05/26/benazir.ahmed_.png",
+      "snippet": "Department of Textiles Assistant Director Md Faisal Kabir testified as the 15th prosecution witness in the case."
+    },
+    {
+      "title": "Rear Admiral Khondkar Misbah Ul Azim appointed new Bangladesh Navy chief",
+      "link": "https://www.tbsnews.net/bangladesh/rear-admiral-khondkar-misbah-ul-azim-appointed-new-bangladesh-navy-chief-1490421",
+      "pubDate": "Thu, 16 Jul 2026 23:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/khondkar_misbah_ul_azim_.png",
+      "snippet": "Currently serving as Bangladesh's ambassador to Oman, he will be promoted to vice admiral and assume charge as the chief of the Bangladesh Navy on 23 July."
+    },
+    {
       "title": "Clearing Tk7,000cr insurance claims tops reform agenda: New Idra chairman",
       "link": "https://www.tbsnews.net/economy/clearing-tk7000cr-insurance-claims-tops-reform-agenda-new-idra-chairman-1490401",
       "pubDate": "Thu, 16 Jul 2026 21:50:00 +0600",
@@ -221,7 +254,7 @@
       "snippet": "Authorities forecast light to heavy rainfall across coastal areas over the next few days, raising fresh concerns as flood-hit communities continue recovery efforts."
     },
     {
-      "title": "Bangladesh Bank issues framework for import trade in Free Trade Zones",
+      "title": "BB issues framework for import trade in Free Trade Zones",
       "link": "https://www.tbsnews.net/economy/banking/bangladesh-bank-issues-framework-import-trade-free-trade-zones-1490216",
       "pubDate": "Thu, 16 Jul 2026 19:20:00 +0600",
       "category": "Banking",
@@ -265,24 +298,13 @@
       "snippet": "Students have questioned the education minister’s role, weather-related decisions, and exam standards. At the same time, they also made some demands that raised eyebrows."
     },
     {
-      "title": "Dhaka north budget shrinks 25%, but waste and mosquito control allocations rise",
-      "link": "https://www.tbsnews.net/bangladesh/dhaka-north-approves-tk452774cr-budget-highest-allocation-road-infrastructure-1490166",
-      "pubDate": "Thu, 16 Jul 2026 18:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/01/15/dncc.png",
-      "snippet": "The allocation for mosquito control and healthcare has also increased to Tk208.85 crore, compared with Tk187.75 crore in the previous fiscal year."
-    },
-    {
       "title": "Without reforms, Bangladesh's GDP growth could slow to 3.5% in FY27: IMF",
       "link": "https://www.tbsnews.net/economy/imf-warns-bangladeshs-gdp-growth-could-slow-35-fy27-without-reforms-1490181",
       "pubDate": "Thu, 16 Jul 2026 18:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/06/24/panorama_30_10_2022_0.png",
       "snippet": "Reforms will be phased under govt’s priorities, Khosru tells IMF."
     },
@@ -969,5 +991,5 @@
       "snippet": "Three were sent to court and 7-day remand hearing scheduled for 16 July"
     }
   ],
-  "updatedAt": "2026-07-16T16:49:17.346Z"
+  "updatedAt": "2026-07-16T18:06:44.494Z"
 }
