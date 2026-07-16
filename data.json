@@ -1,6 +1,94 @@
 {
   "news": [
     {
+      "title": "Agrochemical makers file complaint over raw material import restrictions",
+      "link": "https://www.tbsnews.net/agriculture/agrochemical-makers-file-complaint-over-raw-material-import-restrictions-1489666",
+      "pubDate": "Thu, 16 Jul 2026 12:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/d3f2c7ea-db11-4d94-ab29-4596609b0b6f.png",
+      "snippet": "Hearing filed with the Competition Commission; hearing expected on 22 July."
+    },
+    {
+      "title": "Rain likely in 8 divisions",
+      "link": "https://www.tbsnews.net/bangladesh/rain-likely-8-divisions-1489646",
+      "pubDate": "Thu, 16 Jul 2026 11:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/rain.jpg",
+      "snippet": "Day and night temperatures may fall slightly over the country."
+    },
+    {
+      "title": "Govt moves to raise strategic fuel storage capacity to 90 days",
+      "link": "https://www.tbsnews.net/bangladesh/govt-moves-raise-strategic-fuel-storage-capacity-90-days-1489651",
+      "pubDate": "Thu, 16 Jul 2026 11:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/27/fuel.png",
+      "snippet": "Strategic fuel storage capacity will be increased from the current 60 days to 71 days by December this year and to 90 days by 2027."
+    },
+    {
+      "title": "Factory warehouse gutted in Gazipur fire",
+      "link": "https://www.tbsnews.net/bangladesh/factory-warehouse-gutted-gazipur-fire-1489621",
+      "pubDate": "Thu, 16 Jul 2026 11:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/05/19/fire.jpg",
+      "snippet": "The fire originated around 5:30am in the warehouse of Globe Safety Factory located on the third floor of the six-storey Mansur Plaza building, according to the Fire Service."
+    },
+    {
+      "title": "2 journalists killed in Uttara road crash",
+      "link": "https://www.tbsnews.net/bangladesh/2-journalists-killed-uttara-road-crash-1489626",
+      "pubDate": "Thu, 16 Jul 2026 11:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/05/05/death.jpg",
+      "snippet": "According to police and local sources, they were on their way home after watching the world cup semi-final between England and Argentina on a giant outdoor screen."
+    },
+    {
+      "title": "Titumir seeks stronger UN Women support to protect women, girls amid global crises",
+      "link": "https://www.tbsnews.net/bangladesh/titumir-seeks-stronger-un-women-support-protect-women-girls-amid-global-crises-1489616",
+      "pubDate": "Thu, 16 Jul 2026 11:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/02/for_web_rashed_al_mahmud_titumir.png",
+      "snippet": "ASG Gumbonzvanda commended Bangladesh's progress in advancing gender equality and described the Family Card initiative as an innovative women-centred social protection programme."
+    },
+    {
+      "title": "Housing sector sinks deeper amid plunging sales, soaring costs",
+      "link": "https://www.tbsnews.net/economy/housing-sector-sinks-deeper-amid-plunging-sales-soaring-costs-1489586",
+      "pubDate": "Thu, 16 Jul 2026 10:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/07/07/construction_worker_1.jpg",
+      "snippet": "Industry leaders warn introduction of 15% capital gains tax on apartment registrations may worsen crisis"
+    },
+    {
+      "title": "HSC exam controversy: When policy missteps meet a culture of pressure politics",
+      "link": "https://www.tbsnews.net/features/panorama/hsc-exam-controversy-when-policy-missteps-meet-culture-pressure-politics-1489591",
+      "pubDate": "Thu, 16 Jul 2026 10:20:00 +0600",
+      "category": "Analysis",
+      "color": "#5d4037",
+      "bg": "#efebe9",
+      "icon": "🔍",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/_rd_4392.jpeg",
+      "snippet": "The government's handling of this year's HSC examinations has exposed failures in planning, communication and crisis management. But as legitimate grievances gave way to roadblocks, vandalism, and demands beyond institutional authority, the incident ..."
+    },
+    {
       "title": "Rupsha 800MW power plant seeks one-year extension as long-term gas supply remains uncertain",
       "link": "https://www.tbsnews.net/bangladesh/energy/rupsha-800mw-power-plant-seeks-one-year-extension-long-term-gas-supply-remains",
       "pubDate": "Thu, 16 Jul 2026 08:20:00 +0600",
@@ -169,76 +257,21 @@
       "title": "Health minister advises mosquito nets, full-sleeved clothes to combat dengue",
       "link": "https://www.tbsnews.net/bangladesh/health-minister-advises-mosquito-nets-full-sleeved-clothes-combat-dengue-1489376",
       "pubDate": "Wed, 15 Jul 2026 21:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/13/dengue.jpg",
       "snippet": "Free NS1 tests, hospital bed reserves among preparedness measures."
-    },
-    {
-      "title": "PM blames AL for destroying education, health; reiterates promise to implement July Charter",
-      "link": "https://www.tbsnews.net/bangladesh/pm-plans-5-gdp-allocation-education-healthcare-parliament-closing-speech-1489381",
-      "pubDate": "Wed, 15 Jul 2026 21:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/13/july_charter.png",
-      "snippet": "Paying tribute to those killed in the July mass uprising, Tarique reiterated the government’s commitment to implementing every provision of the July Charter, signed by political parties."
-    },
-    {
-      "title": "PM reaffirms zero tolerance on corruption, extremism; vows accountable governance",
-      "link": "https://www.tbsnews.net/bangladesh/law-order/govt-recruit-10000-police-constables-vows-zero-tolerance-extremism-1489386",
-      "pubDate": "Wed, 15 Jul 2026 21:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/01/pm_tarique_rahman.jpg",
-      "snippet": "The prime minister says the government has planned to recruit 10,000 new police constables as part of efforts to build a professional, modern and people-oriented law enforcement force."
-    },
-    {
-      "title": "Parliament's budget session ends after 26 sittings, passes 10 government bills",
-      "link": "https://www.tbsnews.net/bangladesh/parliaments-budget-session-ends-after-26-sittings-passes-10-government-bills-1489366",
-      "pubDate": "Wed, 15 Jul 2026 21:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/10/tbs_19.png",
-      "snippet": "During the question-and-answer session, 278 questions were submitted for the prime minister, of which 35 were answered in writing and tabled in parliament."
-    },
-    {
-      "title": "2 to die, 10 get life term for killing deed writer in Mymensingh",
-      "link": "https://www.tbsnews.net/bangladesh/2-die-10-get-life-term-killing-deed-writer-mymensingh-1489361",
-      "pubDate": "Wed, 15 Jul 2026 20:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/e92a2653-82d7-48ec-98c8-d31c87bd8962.png",
-      "snippet": "The court also fined each of them Tk 50,000, in default, to suffer six months more in jail."
-    },
-    {
-      "title": "Sajek Valley to reopen for tourists on Thursday",
-      "link": "https://www.tbsnews.net/bangladesh/sajek-valley-reopen-tourists-tomorrow-1489356",
-      "pubDate": "Wed, 15 Jul 2026 20:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/04/29/sajek_valley_d.jpg",
-      "snippet": "However, visitors have been urged to remain cautious during travel and strictly follow all instructions issued by the administration due to the ongoing monsoon season."
     },
     {
       "title": "Mahdi Amin explains HSC exam decision, outlines 5 govt measures",
       "link": "https://www.tbsnews.net/bangladesh/education/mahdi-amin-explains-hsc-exam-decision-outlines-5-govt-measures-1489341",
       "pubDate": "Wed, 15 Jul 2026 20:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/26/mahdi_amin.png",
       "snippet": "The adviser says local administrations have been empowered to take necessary steps, including changing examination centres and extending exam hours, where needed."
     },
@@ -628,17 +661,6 @@
       "snippet": "The teachers have been instructed to submit written explanations within three working days."
     },
     {
-      "title": "Curriculum to retain Faraizi Movement, may add Dhamrai’s traditional crafts: Edu minister",
-      "link": "https://www.tbsnews.net/bangladesh/education/curriculum-retain-faraizi-movement-may-add-dhamrais-traditional-crafts-edu",
-      "pubDate": "Tue, 14 Jul 2026 19:40:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/milon_parliament_0.png",
-      "snippet": "The minister says the government will consider adding a dedicated section on Dhamrai’s traditional crafts in the revised curriculum from the 2028 academic year."
-    },
-    {
       "title": "Commuters suffer for hours as student protest in Uttara paralyses Elevated Expressway, Airport Road",
       "link": "https://www.tbsnews.net/bangladesh/commuters-suffer-hours-student-protest-uttara-paralyses-elevated-expressway-airport-road",
       "pubDate": "Tue, 14 Jul 2026 19:40:00 +0600",
@@ -648,6 +670,17 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/elevated.png",
       "snippet": "The protesters also announced a \"March to the Education Ministry\" programme for tomorrow, reiterating their demand that Education Minister ANM Ehsanul Hoque Milon resign within 24 hours."
+    },
+    {
+      "title": "Curriculum to retain Faraizi Movement, may add Dhamrai’s traditional crafts: Edu minister",
+      "link": "https://www.tbsnews.net/bangladesh/education/curriculum-retain-faraizi-movement-may-add-dhamrais-traditional-crafts-edu",
+      "pubDate": "Tue, 14 Jul 2026 19:40:00 +0600",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/milon_parliament_0.png",
+      "snippet": "The minister says the government will consider adding a dedicated section on Dhamrai’s traditional crafts in the revised curriculum from the 2028 academic year."
     },
     {
       "title": "Primary school dropout rate stands at 16.25%: Education minister",
@@ -978,40 +1011,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/13/health_minister.jpg",
       "snippet": "He also outlines plans to make healthcare more accessible at the grassroots level."
-    },
-    {
-      "title": "Rethinking Bangladesh’s economic ties with the US as it turns 250",
-      "link": "https://www.tbsnews.net/thoughts/rethinking-bangladeshs-economic-ties-us-it-turns-250-1486836",
-      "pubDate": "Mon, 13 Jul 2026 11:45:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/13/ctg_port_4.jpg",
-      "snippet": "Bangladesh earns billions of dollars from American consumers and from Bangladeshis living in the US, yet attracts comparatively little American capital. That matters because investment is the only one of the three channels that Bangladesh can influen..."
-    },
-    {
-      "title": "Nagad transforms country's fintech landscape",
-      "link": "https://www.tbsnews.net/economy/corporates/nagad-transforms-countrys-fintech-landscape-1486821",
-      "pubDate": "Mon, 13 Jul 2026 11:35:00 +0600",
-      "category": "Industry",
-      "color": "#f57c00",
-      "bg": "#fff3e0",
-      "icon": "🏭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/08/19/nagad_new_logo_bangla_16x9.png",
-      "snippet": "As digital payments become increasingly common in Bangladesh, Nagad's record monthly transaction volume reflects the sector's continued expansion"
-    },
-    {
-      "title": "This city is no longer mine",
-      "link": "https://www.tbsnews.net/thoughts/city-no-longer-mine-1486826",
-      "pubDate": "Mon, 13 Jul 2026 11:20:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/13/dji_0613_1.jpg",
-      "snippet": "The absence of economic decentralisation and long-term urban planning has turned Dhaka into one of the world's least liveable cities despite its central role in Bangladesh's economy"
     }
   ],
-  "updatedAt": "2026-07-16T04:16:29.805Z"
+  "updatedAt": "2026-07-16T06:43:07.503Z"
 }
