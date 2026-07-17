@@ -1,6 +1,61 @@
 {
   "news": [
     {
+      "title": "RMG sector to be key partner in rebuilding Bangladesh’s economy: Fakhrul",
+      "link": "https://www.tbsnews.net/bangladesh/rmg-sector-be-key-partner-rebuilding-bangladeshs-economy-fakhrul-1491021",
+      "pubDate": "Fri, 17 Jul 2026 22:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/mirza_fakhrul.jpg",
+      "snippet": "The minister says the government will support employment, industrialisation, and private sector growth while working to address the garment industry's key challenges."
+    },
+    {
+      "title": "'I was in Chhatra Dal long before you': Cumilla SP responds to critic",
+      "link": "https://www.tbsnews.net/bangladesh/i-was-chhatra-dal-long-you-cumilla-sp-responds-critic-1490991",
+      "pubDate": "Fri, 17 Jul 2026 21:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/cumilla_sp_viral_news.jpg",
+      "snippet": "The exchange took place after a former Chhatra Dal leader criticised police over the handling of cases against those accused of supporting the previous government."
+    },
+    {
+      "title": "Apple unseats Nvidia to become world's most valuable company as AI bets shift",
+      "link": "https://www.tbsnews.net/tech/apple-unseats-nvidia-become-worlds-most-valuable-company-ai-bets-shift-1490981",
+      "pubDate": "Fri, 17 Jul 2026 21:20:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/apple.jpg",
+      "snippet": "Apple overtakes Nvidia, signalling shifting investor confidence beyond AI chipmakers now"
+    },
+    {
+      "title": "Madrasa education must embrace research, technology: IAU VC",
+      "link": "https://www.tbsnews.net/bangladesh/madrasa-education-must-embrace-research-technology-iau-vc-1490961",
+      "pubDate": "Fri, 17 Jul 2026 21:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/1000043995_16x9.png",
+      "snippet": ""
+    },
+    {
+      "title": "Exports through Benapole halve in FY26 as trade curbs deepen crisis",
+      "link": "https://www.tbsnews.net/economy/exports-through-benapole-halve-fy26-trade-curbs-deepen-crisis-1490951",
+      "pubDate": "Fri, 17 Jul 2026 20:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/25/benapole.png",
+      "snippet": "Port statistics show that exports through Benapole dropped to 189,358 tonnes in FY2025-26, down from 381,440 tonnes in FY2024-25, a decline of 192,082 tonnes."
+    },
+    {
       "title": "What our stock and bond markets say about Bangladeshis",
       "link": "https://www.tbsnews.net/thoughts/what-our-stock-and-bond-markets-say-about-bangladeshis-1490921",
       "pubDate": "Fri, 17 Jul 2026 20:15:00 +0600",
@@ -221,35 +276,13 @@
       "snippet": "He reaffirmed the government’s commitment to strengthening governance, improving the financial sector, expanding infrastructure, enhancing domestic resource mobilisation and creating a more investment-friendly business environment."
     },
     {
-      "title": "UNFPA pledges to champion Bangladesh's demographic resilience, people-centred development agenda",
-      "link": "https://www.tbsnews.net/foreign-policy/unfpa-pledges-champion-bangladeshs-demographic-resilience-people-centred-development",
-      "pubDate": "Fri, 17 Jul 2026 14:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/6949180.jpg",
-      "snippet": "The commitment came during a meeting with a Bangladeshi delegation led by Adviser to the Prime Minister on Finance and Planning Dr Rashed Al Mahmud Titumir at UNFPA Headquarters in New York on 16 July."
-    },
-    {
-      "title": "Poised to combat new, emerging threats together, says Ajit Doval seeking solutions through discussions",
-      "link": "https://www.tbsnews.net/foreign-policy/poised-combat-new-emerging-threats-together-says-ajit-doval-seeking-solutions-through",
-      "pubDate": "Fri, 17 Jul 2026 13:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/4817298.jpg",
-      "snippet": "Ajit Doval hosted National Security Advisers/Heads of Delegations from all other member states, namely Bangladesh, Bhutan, Myanmar, Nepal, Sri Lanka, and Thailand."
-    },
-    {
       "title": "Why Bangladesh's garment exports to Europe are falling faster than competitors' ",
       "link": "https://www.tbsnews.net/explainer/why-bangladeshs-garment-exports-europe-are-falling-faster-competitors-1490666",
       "pubDate": "Fri, 17 Jul 2026 11:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/17/rmg_1_1.jpg",
       "snippet": "Bangladesh's apparel exports to the EU fell by 18.9% during January–May, significantly steeper than the declines seen in China (4.20%), Vietnam (1.51%), India (13.33%), and Türkiye (15.66%)."
     },
@@ -257,10 +290,10 @@
       "title": "Bangladesh loses EU apparel market share faster than rivals",
       "link": "https://www.tbsnews.net/economy/rmg/bangladesh-loses-eu-apparel-market-share-faster-rivals-1490571",
       "pubDate": "Fri, 17 Jul 2026 10:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/02/21/rmg_garments_factory_apparel_6.jpg",
       "snippet": "According to the latest Eurostat data compiled by the Bangladesh Apparel Voice, total EU apparel imports fell 9.96% year-on-year to €33.84 billion during January-May 2026, down from €37.58 billion in the same period a year earlier"
     },
@@ -802,117 +835,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/sabir_mustafa.jpg",
       "snippet": "Future national elections will be held under a non-partisan caretaker government, thus vastly increasing the likelihood of public confidence in the electoral process. This brings us back full circle to 1996, with a touch of irony"
-    },
-    {
-      "title": "The index has recovered. The exchange hasn't",
-      "link": "https://www.tbsnews.net/thoughts/index-has-recovered-exchange-hasnt-1488541",
-      "pubDate": "Tue, 14 Jul 2026 22:10:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/whatsapp_image_2026-07-14_at_21.52.12.jpeg",
-      "snippet": "Dhaka's stock market had its best year in a decade – the DSEX rose 19% in FY26, turnover jumped 55%, and the bourse outperformed almost every Asian market in the first half of 2026. But this rally is running on broken infrastructure, and without fixi..."
-    },
-    {
-      "title": "Bangladesh seeks stronger UN support for LDC graduation, SDG implementation",
-      "link": "https://www.tbsnews.net/economy/bangladesh-seeks-stronger-un-support-ldc-graduation-sdg-implementation-1488526",
-      "pubDate": "Tue, 14 Jul 2026 22:05:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/24/ldc-graduation.png",
-      "snippet": "UN representatives reaffirmed their continued support for Bangladesh's LDC graduation process, governance reforms, climate resilience initiatives and expansion of social protection programmes."
-    },
-    {
-      "title": "ACI to invest Tk700cr in Shwapno",
-      "link": "https://www.tbsnews.net/economy/stocks/aci-invest-tk700cr-shwapno-1488506",
-      "pubDate": "Tue, 14 Jul 2026 22:00:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/27/aci-logo.jpg",
-      "snippet": "ACI will subscribe to 70 lakh convertible preference shares of ACI Logistics"
-    },
-    {
-      "title": "Digitalising social protection: Towards a smarter and more inclusive welfare state in Bangladesh",
-      "link": "https://www.tbsnews.net/thoughts/digitalising-social-protection-towards-smarter-and-more-inclusive-welfare-state-bangladesh",
-      "pubDate": "Tue, 14 Jul 2026 22:00:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/15_thoughts_copy.png",
-      "snippet": "As Bangladesh expands its social protection system, digital integration offers an opportunity to improve targeting, transparency and service delivery, making public support more accessible, efficient and responsive throughout citizens' lives"
-    },
-    {
-      "title": "Cenbank grants special exemption for Shinepukur Ceramics to open LCs",
-      "link": "https://www.tbsnews.net/economy/industry/cenbank-grants-special-exemption-shinepukur-ceramics-open-lcs-1488511",
-      "pubDate": "Tue, 14 Jul 2026 21:55:00 +0600",
-      "category": "Industry",
-      "color": "#f57c00",
-      "bg": "#fff3e0",
-      "icon": "🏭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/12/19/shinepukur_ceramics_ltd.jpg",
-      "snippet": "Sonali Bank to facilitate raw material imports for the Beximco concern at 100% margin until December 2027."
-    },
-    {
-      "title": "Bangladesh seeks stronger global support to bridge $132b SDG financing gap",
-      "link": "https://www.tbsnews.net/economy/bangladesh-seeks-stronger-global-support-bridge-132b-sdg-financing-gap-1488496",
-      "pubDate": "Tue, 14 Jul 2026 21:40:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/30/saki.jpg",
-      "snippet": "“We stand ready to reform, invest and deliver for better implementation of the SDGs,” Saki said."
-    },
-    {
-      "title": "Early menopause affects around one in 13 Bangladeshi women aged 30-49: icddr,b study",
-      "link": "https://www.tbsnews.net/bangladesh/health/early-menopause-affects-around-one-13-bangladeshi-women-aged-30-49-icddrb-study",
-      "pubDate": "Tue, 14 Jul 2026 21:35:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/manopose_tension.png",
-      "snippet": "Rural women and those with less education face higher odds"
-    },
-    {
-      "title": "Cenbank seeks explanation from HSBC over layoffs of 257",
-      "link": "https://www.tbsnews.net/economy/banking/cenbank-seeks-explanation-hsbc-over-layoffs-257-1488466",
-      "pubDate": "Tue, 14 Jul 2026 21:35:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/bangladesh_bank.jpg",
-      "snippet": "HSBC has been asked to submit a detailed explanation within 14 working days"
-    },
-    {
-      "title": "Full marks for two flawed HSC Physics questions, pass mark effectively falls to 13: Milon",
-      "link": "https://www.tbsnews.net/bangladesh/education/full-marks-two-flawed-hsc-physics-questions-pass-mark-effectively-falls-13",
-      "pubDate": "Tue, 14 Jul 2026 21:15:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/02/10.hsc_results.jpeg",
-      "snippet": "Minister says question paper was prepared under previous administration."
-    },
-    {
-      "title": "Experts urge stronger governance to unlock Bangladesh's blue economy potential",
-      "link": "https://www.tbsnews.net/economy/experts-urge-stronger-governance-unlock-bangladeshs-blue-economy-potential-1488431",
-      "pubDate": "Tue, 14 Jul 2026 21:10:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/blue_economy.jpg",
-      "snippet": "Policy experts say a comprehensive legal framework, stronger institutional coordination and science-based policymaking are essential to harness the country's vast marine resources."
     }
   ],
-  "updatedAt": "2026-07-17T14:43:41.988Z"
+  "updatedAt": "2026-07-17T16:15:46.766Z"
 }
