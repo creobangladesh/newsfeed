@@ -1,6 +1,50 @@
 {
   "news": [
     {
+      "title": "All sluice gates of Kaptai Dam opened to ease pressure on lake",
+      "link": "https://www.tbsnews.net/bangladesh/all-sluice-gates-kaptai-dam-opened-ease-pressure-lake-1491316",
+      "pubDate": "Sat, 18 Jul 2026 13:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/30/karnaphuli_power_plant.jpg",
+      "snippet": "Power generation at the hydropower station remains normal despite the water release."
+    },
+    {
+      "title": "CID arrests Facebook Group Admin over alleged Atif Aslam concert ticket scam",
+      "link": "https://www.tbsnews.net/bangladesh/cid-arrests-facebook-group-admin-over-alleged-atif-aslam-concert-ticket-scam-1491301",
+      "pubDate": "Sat, 18 Jul 2026 13:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/05/cid.png",
+      "snippet": "The misleading posts were allegedly published by multiple Facebook accounts to deceive prospective buyers."
+    },
+    {
+      "title": "Designed for 10 PSI gas, running on 1.5: How Bangladesh's industries are being choked",
+      "link": "https://www.tbsnews.net/bangladesh/energy/designed-10-psi-gas-running-15-how-bangladeshs-industries-are-being-choked-1491136",
+      "pubDate": "Sat, 18 Jul 2026 13:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/19/titas_gas_field.jpg",
+      "snippet": "Manufacturers want adequate pressure rather than subsidies"
+    },
+    {
+      "title": "Rain likely to continue across country",
+      "link": "https://www.tbsnews.net/bangladesh/rain-likely-continue-across-country-1491246",
+      "pubDate": "Sat, 18 Jul 2026 12:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/rain.jpg",
+      "snippet": "Heavy to very heavy rainfall may occur at places over Rangpur Division."
+    },
+    {
       "title": "Experts urge closing vaccine gaps as measles deaths continue despite nationwide campaign",
       "link": "https://www.tbsnews.net/bangladesh/health/experts-urge-closing-vaccine-gaps-measles-deaths-continue-despite-nationwide",
       "pubDate": "Sat, 18 Jul 2026 12:00:00 +0600",
@@ -191,10 +235,10 @@
       "title": "What our stock and bond markets say about Bangladeshis",
       "link": "https://www.tbsnews.net/thoughts/what-our-stock-and-bond-markets-say-about-bangladeshis-1490921",
       "pubDate": "Fri, 17 Jul 2026 20:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/stocks_dse_11_0.jpeg",
       "snippet": "A functioning bond market requires a credible risk-free benchmark, confidence that inflation will not erode fixed payments, and courts that can enforce contracts when borrowers refuse to pay"
     },
@@ -210,35 +254,13 @@
       "snippet": "A functioning bond market requires a credible risk-free benchmark, confidence that inflation will not erode fixed payments, and courts that can enforce contracts when borrowers refuse to pay"
     },
     {
-      "title": "Jamaat warns of street movement if constitutional reforms not implemented",
-      "link": "https://www.tbsnews.net/bangladesh/jamaat-warns-street-movement-if-constitutional-reforms-not-implemented-1490876",
-      "pubDate": "Fri, 17 Jul 2026 18:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/mia_golam_porwar.jpg",
-      "snippet": "Porwar said the current political crisis could be resolved through constitutional reforms based on the outcome of a referendum linked to the proposed July Charter."
-    },
-    {
-      "title": "Seven arrested over Chattogram security guard murder",
-      "link": "https://www.tbsnews.net/bangladesh/crime/seven-arrested-over-chattogram-security-guard-murder-1490866",
-      "pubDate": "Fri, 17 Jul 2026 18:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/7_arrested_ctg_murder.jpg",
-      "snippet": "Police say the suspects were arrested within four hours of the case being filed, and the motive behind the killing is being investigated."
-    },
-    {
       "title": "'Hacker' arrested over NBR, Ctg Port system breach to facilitate smuggling worth crores ",
       "link": "https://www.tbsnews.net/bangladesh/crime/hacker-arrested-over-nbr-ctg-port-system-breach-facilitate-smuggling-worth-crores",
       "pubDate": "Fri, 17 Jul 2026 18:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/hacker-arrested-over-nbr-ctg-port-system-breach-to-facilitate-smuggling.jpg",
       "snippet": "Sezan allegedly helped a smuggling syndicate to evade Tk10-12 crore in duties through forged declarations."
     },
@@ -738,5 +760,5 @@
       "snippet": "The Chittagong Port Authority signed a 22-year concession agreement with RSGT in December 2023 to equip, operate and maintain the Patenga Container Terminal, with the company expected to invest $170 million over the concession period."
     }
   ],
-  "updatedAt": "2026-07-18T06:06:01.166Z"
+  "updatedAt": "2026-07-18T08:20:02.804Z"
 }
