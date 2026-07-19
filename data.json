@@ -1,6 +1,50 @@
 {
   "news": [
     {
+      "title": "Local airlines go for biggest-ever billion dollar expansion ahead of new 3rd Terminal opening",
+      "link": "https://www.tbsnews.net/economy/aviation/local-airlines-go-biggest-ever-billion-dollar-expansion-ahead-new-3rd-terminal",
+      "pubDate": "Sun, 19 Jul 2026 10:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/10/28/bangladesh_airlines_zakir_tbs_1.jpg",
+      "snippet": "Fleet strength to reach 91 aircraft by 2027."
+    },
+    {
+      "title": "Sustainable finance key to Bangladesh’s low-carbon transition: BSEC chief",
+      "link": "https://www.tbsnews.net/bangladesh/sustainable-finance-key-bangladeshs-low-carbon-transition-bsec-chief-1491821",
+      "pubDate": "Sun, 19 Jul 2026 09:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/05/11/juk.png",
+      "snippet": "BSEC Chairman Masud Khan said green, social, sustainability and blue bonds are emerging as key financing instruments worldwide and that Bangladesh must position itself to tap into these emerging sources of capital."
+    },
+    {
+      "title": "Robot loses head in humanoid MMA fight in China ",
+      "link": "https://www.tbsnews.net/tech/robot-loses-head-humanoid-mma-fight-china-1491811",
+      "pubDate": "Sun, 19 Jul 2026 09:25:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/robot_mma.jpg",
+      "snippet": "The event aimed to demonstrate advances in robotics, footage of the fight quickly fuelled the wider debate over the future of AI."
+    },
+    {
+      "title": "Adani power tariff 59% more expensive than three other Indian suppliers to Bangladesh",
+      "link": "https://www.tbsnews.net/bangladesh/energy/adani-power-tariff-59-more-expensive-three-other-indian-suppliers-bangladesh",
+      "pubDate": "Sun, 19 Jul 2026 08:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/12/02/adani_power.jpg",
+      "snippet": "An analysis of the Power Division’s financial statements and the Bangladesh Power Development Board’s annual report shows that electricity imported from Adani cost nearly 59% more than the combined weighted average tariff charged by three other India..."
+    },
+    {
       "title": "Diarrhoea cases emerge across Chattogram after floods, over 200 hospitalised",
       "link": "https://www.tbsnews.net/bangladesh/health/diarrhoea-cases-emerge-across-chattogram-after-floods-over-200-hospitalised",
       "pubDate": "Sun, 19 Jul 2026 00:10:00 +0600",
@@ -34,7 +78,7 @@
       "snippet": "Collaboration, responsible AI can boost Bangladesh's global edge, he says"
     },
     {
-      "title": "Govt committed to building inclusive, prosperous Bangladesh: Mahdi Amin",
+      "title": "Govt marks first five months in office, claims return of stability",
       "link": "https://www.tbsnews.net/bangladesh/govt-committed-building-inclusive-prosperous-bangladesh-mahdi-amin-1491696",
       "pubDate": "Sat, 18 Jul 2026 21:05:00 +0600",
       "category": "Bangladesh",
@@ -221,28 +265,6 @@
       "snippet": "Officials have been asked to ensure that seeds, fertilisers, livestock vaccines, and other government support reach genuine flood-affected farmers without discrimination or additional charges."
     },
     {
-      "title": "Sustainability now a business strategy, not just compliance: Experts",
-      "link": "https://www.tbsnews.net/bangladesh/sustainability-now-business-strategy-not-just-compliance-experts-1491496",
-      "pubDate": "Sat, 18 Jul 2026 17:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/04/feature_image.jpg",
-      "snippet": "Philip Kotler urges businesses to shift from low-cost production to innovation and sustainability to stay competitive in global markets."
-    },
-    {
-      "title": "5 arrested over cattle market leaseholder office shooting",
-      "link": "https://www.tbsnews.net/bangladesh/5-arrested-over-cattle-market-leaseholder-office-shooting-1491486",
-      "pubDate": "Sat, 18 Jul 2026 17:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/18/dmp.jpg",
-      "snippet": "Later in the afternoon, a Dhaka court has placed Bappi and his associate Rakibul on a seven-day remand."
-    },
-    {
       "title": " The Chattogram hills need a new development model",
       "link": "https://www.tbsnews.net/thoughts/chattogram-hills-need-new-development-model-1491481",
       "pubDate": "Sat, 18 Jul 2026 17:15:00 +0600",
@@ -268,10 +290,10 @@
       "title": "SSC, equivalent results won't be published on 20 July: Dhaka board chairman",
       "link": "https://www.tbsnews.net/bangladesh/education/ssc-equivalent-results-wont-be-published-20-july-dhaka-board-chairman-1491456",
       "pubDate": "Sat, 18 Jul 2026 16:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/02/ssc_0.jpg",
       "snippet": "Dhaka Education Board Chairman Syed Akhtaruzzaman today said various administrative complexities related to HSC examinations had prevented the boards from completing the work on time."
     },
@@ -736,29 +758,7 @@
       "icon": "🏭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/03/tbs_illustration.png",
       "snippet": "Simple warning labels on the front of food packages can significantly curb the rise of non-communicable diseases by improving consumer awareness"
-    },
-    {
-      "title": "Housing sector sinks deeper amid plunging sales, soaring costs",
-      "link": "https://www.tbsnews.net/economy/housing-sector-sinks-deeper-amid-plunging-sales-soaring-costs-1489586",
-      "pubDate": "Thu, 16 Jul 2026 10:20:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/07/07/construction_worker_1.jpg",
-      "snippet": "Industry leaders warn introduction of 15% capital gains tax on apartment registrations may worsen crisis"
-    },
-    {
-      "title": "HSC exam controversy: When policy missteps meet a culture of pressure politics",
-      "link": "https://www.tbsnews.net/features/panorama/hsc-exam-controversy-when-policy-missteps-meet-culture-pressure-politics-1489591",
-      "pubDate": "Thu, 16 Jul 2026 10:20:00 +0600",
-      "category": "Analysis",
-      "color": "#5d4037",
-      "bg": "#efebe9",
-      "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/_rd_4392.jpeg",
-      "snippet": "The government's handling of this year's HSC examinations has exposed failures in planning, communication and crisis management. But as legitimate grievances gave way to roadblocks, vandalism, and demands beyond institutional authority, the incident ..."
     }
   ],
-  "updatedAt": "2026-07-19T01:02:28.698Z"
+  "updatedAt": "2026-07-19T04:48:07.919Z"
 }
