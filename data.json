@@ -1,6 +1,50 @@
 {
   "news": [
     {
+      "title": "Salahuddin urges politically neutral civil service to meet public expectations",
+      "link": "https://www.tbsnews.net/bangladesh/salahuddin-urges-politically-neutral-civil-service-meet-public-expectations-1492261",
+      "pubDate": "Sun, 19 Jul 2026 16:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/e1c8b32e-b597-40d7-abbf-4038cefd9ccc.jpg",
+      "snippet": "Describing the civil service as the driving force of the state, Salahuddin stressed that transparency and accountability must be ensured at every level of the administration to transform public service into a genuine servant of the people."
+    },
+    {
+      "title": "Measles: Death toll reaches 788 as 4 more children die in 24 hours",
+      "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-788-4-more-children-die-24-hours-1492226",
+      "pubDate": "Sun, 19 Jul 2026 16:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/04/measles.jpg",
+      "snippet": "The latest fatalities were all classified as suspected measles deaths, taking the number of suspected deaths to 693, while the toll of laboratory-confirmed deaths remained unchanged at 95."
+    },
+    {
+      "title": "State-owned DAP fertiliser plant shut for 20 days amid phosphoric acid shortage",
+      "link": "https://www.tbsnews.net/bangladesh/state-owned-dap-fertiliser-plant-shut-20-days-amid-phosphoric-acid-shortage-1492246",
+      "pubDate": "Sun, 19 Jul 2026 16:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/fertiliser_1.jpg",
+      "snippet": "According to Bangladesh Chemical Industries Corporation (BCIC) officials, a January international tender for importing 20,000 tonnes of phosphoric acid was awarded to local contractor RK Enterprise, with delivery scheduled by June. However, the shipm..."
+    },
+    {
+      "title": "Shapla Chattar massacre: ICT prosecution receives probe report",
+      "link": "https://www.tbsnews.net/bangladesh/shapla-chattar-massacre-ict-prosecution-receives-probe-report-1492251",
+      "pubDate": "Sun, 19 Jul 2026 16:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/05/05/hefazat_shapla_chattar.jpg",
+      "snippet": "Former Ekattor TV Editor-in-Chief Mozammel Haque Babu, channel's former Chief Reporter Farzana Rupa, journalist Shahriar Kabir, as well as the then chiefs of the police and the Rapid Action Battalion (RAB), and the then Dhaka Metropolitan Police (DMP..."
+    },
+    {
       "title": "BNP reports Tk22.19cr income, Tk15.26cr expenditure to EC",
       "link": "https://www.tbsnews.net/bangladesh/bnp-reports-tk2219cr-income-tk1526cr-expenditure-ec-1492181",
       "pubDate": "Sun, 19 Jul 2026 15:15:00 +0600",
@@ -32,17 +76,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/barishal_university.jpg",
       "snippet": "Several journalists covering the incident said that they were also assaulted while collecting information and that their mobile phones were snatched when they attempted to record videos of the attack."
-    },
-    {
-      "title": "Kerala declares school holiday tomorrow for students to watch Fifa World Cup final",
-      "link": "https://www.tbsnews.net/world/south-asia/kerala-declares-school-holiday-tomorrow-students-watch-fifa-world-cup-final-1492151",
-      "pubDate": "Sun, 19 Jul 2026 14:50:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/07/30/school-tbsnews.jpg",
-      "snippet": "Education Minister N Samsudheen announced the decision through his social media accounts."
     },
     {
       "title": "Heavy to very heavy rainfall likely in 3 divisions",
@@ -202,10 +235,10 @@
       "title": "Local airlines go for biggest-ever billion dollar expansion ahead of new 3rd Terminal opening",
       "link": "https://www.tbsnews.net/economy/aviation/local-airlines-go-biggest-ever-billion-dollar-expansion-ahead-new-3rd-terminal",
       "pubDate": "Sun, 19 Jul 2026 10:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/10/28/bangladesh_airlines_zakir_tbs_1.jpg",
       "snippet": "Fleet strength to reach 91 aircraft by 2027."
     },
@@ -213,10 +246,10 @@
       "title": "Sustainable finance key to Bangladesh’s low-carbon transition: BSEC chief",
       "link": "https://www.tbsnews.net/bangladesh/sustainable-finance-key-bangladeshs-low-carbon-transition-bsec-chief-1491821",
       "pubDate": "Sun, 19 Jul 2026 09:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/05/11/juk.png",
       "snippet": "BSEC Chairman Masud Khan said green, social, sustainability and blue bonds are emerging as key financing instruments worldwide and that Bangladesh must position itself to tap into these emerging sources of capital."
     },
@@ -232,17 +265,6 @@
       "snippet": "The event aimed to demonstrate advances in robotics, footage of the fight quickly fuelled the wider debate over the future of AI."
     },
     {
-      "title": "Adani power tariff 59% more expensive than three other Indian suppliers to Bangladesh",
-      "link": "https://www.tbsnews.net/bangladesh/energy/adani-power-tariff-59-more-expensive-three-other-indian-suppliers-bangladesh",
-      "pubDate": "Sun, 19 Jul 2026 08:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/12/02/adani_power.jpg",
-      "snippet": "An analysis of the Power Division’s financial statements and the Bangladesh Power Development Board’s annual report shows that electricity imported from Adani cost nearly 59% more than the combined weighted average tariff charged by three other India..."
-    },
-    {
       "title": "Diarrhoea cases emerge across Chattogram after floods, over 200 hospitalised",
       "link": "https://www.tbsnews.net/bangladesh/health/diarrhoea-cases-emerge-across-chattogram-after-floods-over-200-hospitalised",
       "pubDate": "Sun, 19 Jul 2026 00:10:00 +0600",
@@ -252,17 +274,6 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/whatsapp_image_2026-07-14_at_11.12.18_am.jpeg",
       "snippet": "Babul Colony probe links cases to unclean water tank."
-    },
-    {
-      "title": "BCCCI calls for responsible AI adoption to strengthen business competitiveness",
-      "link": "https://www.tbsnews.net/bangladesh/bccci-calls-responsible-ai-adoption-strengthen-business-competitiveness-1491716",
-      "pubDate": "Sat, 18 Jul 2026 21:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/18/bcci_meeting.jpg",
-      "snippet": "The seminar explored the growing use of AI and blockchain in sectors including business, banking, trade, logistics and manufacturing, while examining the opportunities, challenges and practical considerations surrounding their adoption."
     },
     {
       "title": "Businesses seek single halal authority as certification hurdles impede export growth",
@@ -758,40 +769,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/06/28/bida_logo_new.jpg",
       "snippet": "The survey aims to provide a comprehensive picture of Bangladesh's investment landscape to support evidence-based policymaking and identify the country's active investors."
-    },
-    {
-      "title": "Measles death toll rises to 779 as 8 more children die in 24hrs",
-      "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-rises-779-eight-more-children-die-24-hours-1489951",
-      "pubDate": "Thu, 16 Jul 2026 16:25:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/measlessssssss.jpeg",
-      "snippet": "Of the total deaths, 684 were suspected measles cases, while 95 were laboratory-confirmed, according to the DGHS."
-    },
-    {
-      "title": "Tax exemptions for renewable energy: Promise, policy, and paradox",
-      "link": "https://www.tbsnews.net/thoughts/tax-exemptions-renewable-energy-promise-policy-and-paradox-1489941",
-      "pubDate": "Thu, 16 Jul 2026 16:05:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/renewable_energy_img.jpg",
-      "snippet": "Nearly 90 percent of Bangladesh's renewable energy equipment is supplied through local importers. Ordinary consumers do not import solar panels, inverters or batteries directly from overseas; they purchase them from local distributors. Therefore, unl..."
-    },
-    {
-      "title": "Beyond tariffs lies Bangladesh's biggest trade opportunity",
-      "link": "https://www.tbsnews.net/thoughts/beyond-tariffs-lies-bangladeshs-biggest-trade-opportunity-1489886",
-      "pubDate": "Thu, 16 Jul 2026 15:45:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/what-did-bangladesh-export-the-most-to-the-united-states-in-fy25-fea_0.png",
-      "snippet": "The proposed US–Bangladesh trade agreement offers more than market access—it provides a blueprint for reforms that could strengthen Bangladesh's long-term trade and investment competitiveness"
     }
   ],
-  "updatedAt": "2026-07-19T09:28:12.709Z"
+  "updatedAt": "2026-07-19T10:55:12.956Z"
 }
