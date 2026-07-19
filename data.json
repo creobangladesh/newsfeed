@@ -1,6 +1,72 @@
 {
   "news": [
     {
+      "title": "Railway earnings rise in FY26, but income still trails expenditure",
+      "link": "https://www.tbsnews.net/bangladesh/railway-earnings-rise-fy26-income-still-trails-expenditure-1492326",
+      "pubDate": "Sun, 19 Jul 2026 17:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/train_unb_img.jpg",
+      "snippet": "Bangladesh Railway claimed that train fares have not been revised since 2016."
+    },
+    {
+      "title": "College student dies after appendicitis surgery in Faridpur; probe committee formed",
+      "link": "https://www.tbsnews.net/bangladesh/health/college-student-dies-after-appendicitis-surgery-faridpur-probe-committee-formed",
+      "pubDate": "Sun, 19 Jul 2026 17:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/al_zara_hospital.jpg",
+      "snippet": "The deceased, 17-year-old Ayesha Afrin, was the daughter of expatriate Liton Matubbar of Kailasher Dangi village in Akoter Char union under Sadarpur upazila."
+    },
+    {
+      "title": "IGP leaves for Thailand to attend regional summit on scam, crime",
+      "link": "https://www.tbsnews.net/bangladesh/igp-leaves-thailand-attend-regional-summit-scam-crime-1492296",
+      "pubDate": "Sun, 19 Jul 2026 17:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/17/ali_hossain_fakir.jpg",
+      "snippet": "Police chiefs, heads of intelligence agencies and senior law enforcement officials from countries across the Asia-Pacific region are expected to participate in the conference."
+    },
+    {
+      "title": "HC stays proceedings in Somoy TV fraud case, issues rule on quashing charges",
+      "link": "https://www.tbsnews.net/bangladesh/court/hc-stays-proceedings-somoy-tv-fraud-case-issues-rule-quashing-charges-1492271",
+      "pubDate": "Sun, 19 Jul 2026 17:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/07/22/image-294687-1753183245.jpg",
+      "snippet": "The court also issued a rule asking why the case should not be quashed and fixed 4 August for the full hearing."
+    },
+    {
+      "title": "Three new Sylhet wells to add 3cr cubic feet of gas daily",
+      "link": "https://www.tbsnews.net/bangladesh/three-new-sylhet-wells-add-3cr-cubic-feet-gas-daily-1492276",
+      "pubDate": "Sun, 19 Jul 2026 17:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/09/10/2020-02-27-15-15-e9a48cf914407974fc14f4837c546540.jpg",
+      "snippet": "SGFL Managing Director Engr Md Faruque Hossain said, “SGFL is currently supplying 14.2 crore cubic feet of gas to the national grid every day. Once drilling of the three wells is completed, an additional 3 crore cubic feet of gas can be added to the ..."
+    },
+    {
+      "title": "Depositors demand gazette on finance minister’s no- ‘haircut’ pledge",
+      "link": "https://www.tbsnews.net/economy/banking/depositors-demand-gazette-finance-ministers-no-haircut-pledge-1492286",
+      "pubDate": "Sun, 19 Jul 2026 16:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/1784448440338_1.jpg",
+      "snippet": "Finance Minister Amir Khosru Mahmud Chowdhury told parliament on 8 July that depositors of troubled banks would receive their money back with interest and without any \"haircut\""
+    },
+    {
       "title": "Salahuddin urges politically neutral civil service to meet public expectations",
       "link": "https://www.tbsnews.net/bangladesh/salahuddin-urges-politically-neutral-civil-service-meet-public-expectations-1492261",
       "pubDate": "Sun, 19 Jul 2026 16:45:00 +0600",
@@ -155,70 +221,26 @@
       "snippet": "Bangladesh is participating in the initiative through a project titled Road Accident Central Database, involving the Automobile Association of Bangladesh and the Ministry of Planning."
     },
     {
-      "title": "Two missing as trawler sinks after collision with launch at Sadarghat",
-      "link": "https://www.tbsnews.net/bangladesh/two-missing-trawler-sinks-after-collision-launch-sadarghat-1491956",
-      "pubDate": "Sun, 19 Jul 2026 12:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/trawler_sinks_at_sadarghat-converted-from-webp.jpeg",
-      "snippet": "Two passengers remained missing till filing."
-    },
-    {
       "title": "Bepza Economic Zone in Mirsarai draws nearly $130m before completion, eyes $2.9b potential",
       "link": "https://www.tbsnews.net/economy/industry/bepza-economic-zone-mirsarai-draws-nearly-130m-completion-eyes-29b-potential",
       "pubDate": "Sun, 19 Jul 2026 12:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Industry",
+      "color": "#f57c00",
+      "bg": "#fff3e0",
+      "icon": "🏭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/bepza.png",
       "snippet": "Bepza officials said the zone has opened up possibilities for industrialisation, product diversification and employment"
-    },
-    {
-      "title": "Why Adani power remains Bangladesh's costliest electricity import  ",
-      "link": "https://www.tbsnews.net/bangladesh/energy/why-adani-power-remains-bangladeshs-costliest-electricity-import-1491866",
-      "pubDate": "Sun, 19 Jul 2026 11:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/02/01/adani.png",
-      "snippet": "Bangladesh paid Tk7.58 per unit for electricity imported from NVVN, including transmission charges, making Adani’s tariff almost 96% higher."
     },
     {
       "title": "NBR intensifies nationwide monitoring of withholding tax compliance",
       "link": "https://www.tbsnews.net/bangladesh/nbr-intensifies-nationwide-monitoring-withholding-tax-compliance-1491861",
       "pubDate": "Sun, 19 Jul 2026 11:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/03/12/nbr.jpg",
       "snippet": "In a press release issued today, the NBR urged all concerned to remain aware of the powers vested in tax officials under Section 147 of the Income Tax Act, 2023."
-    },
-    {
-      "title": "National Sports Council appoints new ad-hoc committee for Taekwondo Federation",
-      "link": "https://www.tbsnews.net/bangladesh/national-sports-council-appoints-new-ad-hoc-committee-taekwondo-federation-1491851",
-      "pubDate": "Sun, 19 Jul 2026 11:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/65a416af8b0161705252527.jpg",
-      "snippet": "In a notification issued yesterday, the NSC said the previous ad-hoc committee had failed to properly discharge its responsibility to organise elections and hand over charge to an elected committee."
-    },
-    {
-      "title": "Hawkers choke Dhaka South's only escalator footbridge",
-      "link": "https://www.tbsnews.net/bangladesh/hawkers-choke-dhaka-souths-only-escalator-footbridge-1491831",
-      "pubDate": "Sun, 19 Jul 2026 11:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/photo-output.jpeg",
-      "snippet": "Evicted from New Market footpaths, hawkers found another trading spot"
     },
     {
       "title": "China's Moonshot unveils world's largest open AI model, closing in on US rivals",
@@ -771,5 +793,5 @@
       "snippet": "The survey aims to provide a comprehensive picture of Bangladesh's investment landscape to support evidence-based policymaking and identify the country's active investors."
     }
   ],
-  "updatedAt": "2026-07-19T10:55:12.956Z"
+  "updatedAt": "2026-07-19T11:58:17.291Z"
 }
