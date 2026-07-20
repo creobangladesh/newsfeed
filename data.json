@@ -1,6 +1,72 @@
 {
   "news": [
     {
+      "title": "PM reaffirms commitment to workers' rights during talks with ILO chief",
+      "link": "https://www.tbsnews.net/foreign-policy/pm-reaffirms-commitment-workers-rights-during-talks-ilo-chief-1492896",
+      "pubDate": "Mon, 20 Jul 2026 12:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/untitled_design.png",
+      "snippet": "Labour Organization (ILO) Director-General Gilbert F Houngbo said Bangladesh's commitment to labour sector reforms and implementation of international labour standards has been receiving positive recognition internationally."
+    },
+    {
+      "title": "Public health risks rise after flood damages thousands of tube wells, toilets in Ctg",
+      "link": "https://www.tbsnews.net/bangladesh/health/public-health-risks-rise-after-flood-damage-thousands-tube-wells-toilets-ctg",
+      "pubDate": "Mon, 20 Jul 2026 12:05:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/740812294_939952482443947_516526457937535675_n.jpg",
+      "snippet": "According to the Civil Surgeon Office, 112 medical camps and 32 mobile medical teams treated 45,200 flood-affected people"
+    },
+    {
+      "title": "ADB warns Bangladeshis against fake loan scams using its name",
+      "link": "https://www.tbsnews.net/economy/banking/adb-warns-bangladeshis-against-fake-loan-scams-using-its-name-1492881",
+      "pubDate": "Mon, 20 Jul 2026 11:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/07/11/asian_development_bank_adb.jpg",
+      "snippet": "In a statement, ADB said it does not request personal financial information or ask for payments through mobile banking or any other channel in exchange for financial assistance."
+    },
+    {
+      "title": "From Gaza to the far-right, UK’s new PM faces major hurdles",
+      "link": "https://www.tbsnews.net/thoughts/gaza-far-right-uks-new-pm-faces-major-hurdles-1492836",
+      "pubDate": "Mon, 20 Jul 2026 11:10:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/burnham.jpg",
+      "snippet": "Andy Burnham takes over as UK prime minister amid Labour’s deep political turmoil, facing immediate challenges from public discontent, a resurgent opposition, and questions over his mandate"
+    },
+    {
+      "title": "Two Chhatra Dal leaders suspended for allegedly assaulting Sust student",
+      "link": "https://www.tbsnews.net/bangladesh/politics/two-chhatra-dal-leaders-suspended-allegedly-assaulting-sust-student-1492796",
+      "pubDate": "Mon, 20 Jul 2026 10:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/23/sust-photo.png",
+      "snippet": "Those suspended are Hasibur Rahman, communication secretary of the university unit Chhatra Dal and a student of the Political Studies department, and Tarek Rahman, co-office secretary of the organisation and a student of the Statistics department."
+    },
+    {
+      "title": "Drug pricing deadlock stalls hundreds of new medicines, strands investment",
+      "link": "https://www.tbsnews.net/bangladesh/health/drug-pricing-deadlock-stalls-hundreds-new-medicines-strands-investment-1492781",
+      "pubDate": "Mon, 20 Jul 2026 09:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/05/26/pharma_mumitm-2299.jpg",
+      "snippet": "Hundreds of new medicines remain stuck without pricing approval, leaving patients waiting while companies see investments frozen"
+    },
+    {
       "title": "Import growth stalls in FY26 on subdued industrial demand",
       "link": "https://www.tbsnews.net/economy/banking/import-growth-stalls-fy26-subdued-industrial-demand-1492766",
       "pubDate": "Mon, 20 Jul 2026 08:00:00 +0600",
@@ -100,7 +166,7 @@
       "snippet": "The Ministry of Home Affairs has also instructed the department to introduce a redesigned e-passport booklet with extensive changes to its internal watermark pages."
     },
     {
-      "title": "BSEC moves to ease margin loan rules; experts urge caution",
+      "title": "BSEC proposes easing margin lending; experts urge caution",
       "link": "https://www.tbsnews.net/economy/stocks/bsec-moves-ease-margin-loan-rules-experts-urge-caution-1492641",
       "pubDate": "Sun, 19 Jul 2026 21:50:00 +0600",
       "category": "Bangladesh",
@@ -111,7 +177,7 @@
       "snippet": "The securities regulator has proposed raising margin financing limits, lowering the investment threshold and revising risk management rules, while market experts warn that stronger oversight will be essential to prevent excessive speculation."
     },
     {
-      "title": "Insurance stocks tumble as tighter margin rules trigger liquidity fears",
+      "title": "Tighter margin rules for insurance see stocks tumble",
       "link": "https://www.tbsnews.net/economy/stocks/insurance-stocks-tumble-tighter-margin-rules-trigger-liquidity-fears-1492646",
       "pubDate": "Sun, 19 Jul 2026 21:50:00 +0600",
       "category": "Bangladesh",
@@ -175,50 +241,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/ilo_pms_foreign_advisers_meeting.jpg",
       "snippet": "ILO Director General Gilbert F Houngbo paid a courtesy call on Prime Minister's Foreign Affairs Adviser Humayun Kabir at a hotel in the capital."
-    },
-    {
-      "title": "Politics can't be done only by capitalising on July spirit: Home minister",
-      "link": "https://www.tbsnews.net/bangladesh/politics-cant-be-done-only-capitalising-july-spirit-home-minister-1492601",
-      "pubDate": "Sun, 19 Jul 2026 21:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/22/salahuddin_ahmed.png",
-      "snippet": "Although a debate over judicial independence continues, he says the judiciary currently enjoys significant autonomy."
-    },
-    {
-      "title": "US-Bangla plans to expand to 30 overseas destinations by 2027, launch second airline",
-      "link": "https://www.tbsnews.net/economy/aviation/us-bangla-plans-expand-30-international-destinations-2027-launch-second-airline",
-      "pubDate": "Sun, 19 Jul 2026 21:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/us-bangla_md.jpeg",
-      "snippet": "The airline says 21 new aircraft will join its fleet in 2027, supporting expansion to 30 international destinations across 20 countries and the launch of a separate low-cost carrier."
-    },
-    {
-      "title": "Govt ensuring taxpayers' money to spend  for public welfare: Asaduzzaman",
-      "link": "https://www.tbsnews.net/bangladesh/govt-ensuring-taxpayers-money-spend-public-welfare-asaduzzaman-1492591",
-      "pubDate": "Sun, 19 Jul 2026 21:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/13/md._asaduzzaman.jpg",
-      "snippet": "Md Asaduzzaman further said the government has been working consistently to fulfil its election pledges. It has already taken initiatives to implement the Family Card, Agriculture Card and Imam Card programmes."
-    },
-    {
-      "title": "Candidate eligibility in local govt elections a decision for the courts, EC: Rizvi",
-      "link": "https://www.tbsnews.net/bangladesh/candidate-eligibility-local-govt-elections-decision-courts-ec-rizvi-1492581",
-      "pubDate": "Sun, 19 Jul 2026 20:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/ruhul_kabir_rizvi_1.jpg",
-      "snippet": "Political parties may back candidates, but not contest directly, he says."
     },
     {
       "title": "200 Bagerhat primary schools hold classes in makeshift sheds, abandoned buildings",
@@ -659,29 +681,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/feature.png",
       "snippet": "There is something uniquely absurd about living in a society that can predict a rise in violence against women with roughly the same confidence it predicts traffic after a bank holiday."
-    },
-    {
-      "title": "Why Bangladesh's garment exports to Europe are falling faster than competitors' ",
-      "link": "https://www.tbsnews.net/explainer/why-bangladeshs-garment-exports-europe-are-falling-faster-competitors-1490666",
-      "pubDate": "Fri, 17 Jul 2026 11:45:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/17/rmg_1_1.jpg",
-      "snippet": "Bangladesh's apparel exports to the EU fell by 18.9% during January–May, significantly steeper than the declines seen in China (4.20%), Vietnam (1.51%), India (13.33%), and Türkiye (15.66%)."
-    },
-    {
-      "title": "Bangladesh loses EU apparel market share faster than rivals",
-      "link": "https://www.tbsnews.net/economy/rmg/bangladesh-loses-eu-apparel-market-share-faster-rivals-1490571",
-      "pubDate": "Fri, 17 Jul 2026 10:00:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/02/21/rmg_garments_factory_apparel_6.jpg",
-      "snippet": "According to the latest Eurostat data compiled by the Bangladesh Apparel Voice, total EU apparel imports fell 9.96% year-on-year to €33.84 billion during January-May 2026, down from €37.58 billion in the same period a year earlier"
     }
   ],
-  "updatedAt": "2026-07-20T03:39:19.898Z"
+  "updatedAt": "2026-07-20T06:45:53.315Z"
 }
