@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Biman also to buy 10 Airbus aircraft in fresh multibillion-dollar deal",
+      "link": "https://www.tbsnews.net/economy/aviation/biman-also-buy-10-airbus-aircraft-fresh-multibillion-dollar-deal-1494331",
+      "pubDate": "Tue, 21 Jul 2026 23:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/biman_0.jpg",
+      "snippet": "Agreement for 10 Airbus aircraft expected by 31 August as Biman pushes ahead with long-term fleet expansion plan."
+    },
+    {
+      "title": "UK airshow visit to support long-term fleet expansion: Biman",
+      "link": "https://www.tbsnews.net/economy/aviation/uk-airshow-visit-support-long-term-fleet-expansion-biman-1494311",
+      "pubDate": "Tue, 21 Jul 2026 22:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/01/biman.jpg",
+      "snippet": "The state-owned carrier says the visit is aimed at preparing for the induction of its new Boeing aircraft through meetings with aircraft manufacturers, leasing companies and aviation suppliers."
+    },
+    {
       "title": "Southeast Bank profit jumps 64% to Tk219cr in H1",
       "link": "https://www.tbsnews.net/economy/stocks/southeast-bank-profit-jumps-64-tk219cr-h1-1494301",
       "pubDate": "Tue, 21 Jul 2026 22:10:00 +0600",
@@ -78,7 +100,7 @@
       "snippet": "CID officials recovered three CPUs, an HP laptop, 56 passports belonging to different individuals, 153 seals in the names of various government, private and foreign individuals and organisations, an iron embossing seal, and Tk 2.5 lakh in cash from t..."
     },
     {
-      "title": "Milestone tragedy: Probe recommended compensation of up to Tk1cr, govt announced only Tk20 lakh; says action will be taken promptly",
+      "title": "Milestone tragedy: Probe team recommended up to Tk1 cr in compensation, only Tk20 lakh was announced",
       "link": "https://www.tbsnews.net/bangladesh/milestone-tragedy-probe-recommended-compensation-tk1cr-govt-announced-only-tk20-lakh-says",
       "pubDate": "Tue, 21 Jul 2026 21:45:00 +0600",
       "category": "Bangladesh",
@@ -86,7 +108,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/07/21/untitled_design_3.jpg",
-      "snippet": "The interim government announced compensation and free treatment for crash victims five months after the accident, but many families rejected the offer as inadequate."
+      "snippet": "The interim government announced compensation and free treatment for crash victims five months after the accident, but many families rejected the offer as inadequate. The BNP government now says action will be taken promptly."
     },
     {
       "title": "Ruling party used majority to pass bills without meaningful scrutiny: TIB",
@@ -208,28 +230,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/21/cng_filling_station_owners.jpg",
       "snippet": "The association also warned that it would enforce an indefinite nationwide shutdown from 23 August if no meaningful progress is made in meeting its demands."
-    },
-    {
-      "title": "Nothing more basic to life than water: ADB President",
-      "link": "https://www.tbsnews.net/bangladesh/nothing-more-basic-life-water-adb-president-1494096",
-      "pubDate": "Tue, 21 Jul 2026 18:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/02/24/masato_kanda.jpg",
-      "snippet": "New water security fund established to protect people across Asia, Pacific"
-    },
-    {
-      "title": "Govt to transform BFTI into strong national trade think tank: Minister Muktadir",
-      "link": "https://www.tbsnews.net/bangladesh/govt-transform-bfti-strong-national-trade-think-tank-minister-muktadir-1494106",
-      "pubDate": "Tue, 21 Jul 2026 18:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/21/commerce_minister.jpg",
-      "snippet": "Bangladesh plans to transform BFTI into a leading trade research hub."
     },
     {
       "title": "Iran’s oil supply threat extends beyond Strait of Hormuz ",
@@ -672,5 +672,5 @@
       "snippet": "Babul Colony probe links cases to unclean water tank."
     }
   ],
-  "updatedAt": "2026-07-21T16:22:46.342Z"
+  "updatedAt": "2026-07-21T17:53:41.033Z"
 }
