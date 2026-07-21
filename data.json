@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "BNP activist hacked to death in Dhaka's Sabujbagh",
+      "link": "https://www.tbsnews.net/bangladesh/crime/bnp-activist-hacked-death-dhakas-sabujbagh-1494371",
+      "pubDate": "Wed, 22 Jul 2026 01:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/28/dead_2.png",
+      "snippet": "Police say the victim was attacked following an altercation linked to a local arbitration."
+    },
+    {
       "title": "31st Dhaka Int'l Trade Fair likely to open on 1 Jan next",
       "link": "https://www.tbsnews.net/bangladesh/31st-dhaka-intl-trade-fair-likely-open-1-jan-next-1494366",
       "pubDate": "Wed, 22 Jul 2026 01:15:00 +0600",
@@ -19,7 +30,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/11/05/un_logo.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/08/15/flag_of_the_united_nations.svg_.png",
       "snippet": "The report estimated that 38.6% of Bangladesh's population could not afford a healthy diet last year, compared with 63.0% in Pakistan."
     },
     {
@@ -53,7 +64,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/01/biman.jpg",
-      "snippet": "Biman should explain its objectives, including what outcomes it expects, to address public concerns, ex-CAAB chairman says."
+      "snippet": "Biman should explain its objectives, including what outcomes it expects, to address public concerns, ex-CAAB chairman says"
     },
     {
       "title": "Southeast Bank profit jumps 64% to Tk219cr in H1",
@@ -89,7 +100,7 @@
       "snippet": "The government has approved Bangladesh's participation in trade fairs across 27 countries in FY27, focusing on 12 priority export sectors."
     },
     {
-      "title": "CSE-30 restructured: GP, LafargeHolcim join; Square Textiles, Crown Cement exit",
+      "title": "CSE revamps CSE-30, adds GP, LafargeHolcim, drops Square Textiles, Crown Cement",
       "link": "https://www.tbsnews.net/economy/stocks/cse-30-restructured-gp-lafargeholcim-join-square-textiles-crown-cement-exit-1494296",
       "pubDate": "Tue, 21 Jul 2026 22:05:00 +0600",
       "category": "Bangladesh",
@@ -133,7 +144,7 @@
       "snippet": "CID officials recovered three CPUs, an HP laptop, 56 passports belonging to different individuals, 153 seals in the names of various government, private and foreign individuals and organisations, an iron embossing seal, and Tk 2.5 lakh in cash from t..."
     },
     {
-      "title": "Milestone tragedy: Probe team recommended up to Tk1 cr in compensation, only Tk20 lakh was announced",
+      "title": "Milestone tragedy: Probe recommended compensation of up to Tk1cr, govt announced only Tk20 lakh",
       "link": "https://www.tbsnews.net/bangladesh/milestone-tragedy-probe-recommended-compensation-tk1cr-govt-announced-only-tk20-lakh-says",
       "pubDate": "Tue, 21 Jul 2026 21:45:00 +0600",
       "category": "Bangladesh",
@@ -155,7 +166,7 @@
       "snippet": "The anti-graft watchdog urges reforms to strengthen parliamentary oversight."
     },
     {
-      "title": "Tk9,367cr provision gap: BSEC orders Dhaka exchange to ensure lenders’ quarterly reporting ",
+      "title": "Tk9,367cr provision gap: BSEC orders Dhaka exchange to ensure lenders' quarterly reporting ",
       "link": "https://www.tbsnews.net/economy/stocks/tk9367cr-provision-gap-bsec-orders-dhaka-exchange-ensure-lenders-quarterly-reporting",
       "pubDate": "Tue, 21 Jul 2026 21:30:00 +0600",
       "category": "Bangladesh",
@@ -175,6 +186,17 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/09/bss.jpg",
       "snippet": "The minister also said coordinated efforts by teachers, parents and education officials are essential to improving primary education, while the government plans to expand teacher training and student welfare programmes."
+    },
+    {
+      "title": "BGB detains 3 Myanmar security personnel in Teknaf",
+      "link": "https://www.tbsnews.net/bangladesh/bgb-detains-3-myanmar-security-personnel-teknaf-1494391",
+      "pubDate": "Tue, 21 Jul 2026 21:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/myanmar_bgb.jpg",
+      "snippet": "The detainees are Hein De Htet, 38, Kyaw Naing, 35, and Hein Zaw, 33."
     },
     {
       "title": "Govt returns non-teaching staff recruitment power to MPO school, college governing bodies",
@@ -199,37 +221,15 @@
       "snippet": "Freshers allegedly faced mental harassment and intimidation during a late-night incident."
     },
     {
-      "title": "South Korean envoy pays courtesy call on PM’s defence adviser",
-      "link": "https://www.tbsnews.net/bangladesh/south-korean-envoy-pays-courtesy-call-pms-defence-adviser-1494201",
-      "pubDate": "Tue, 21 Jul 2026 20:25:00 +0600",
+      "title": "Sacrificing a forest to ‘save’ a city: A waste transfer station at the heart of Bhawal National Park",
+      "link": "https://www.tbsnews.net/features/panorama/sacrificing-forest-save-city-waste-transfer-station-heart-bhawal-national-park",
+      "pubDate": "Tue, 21 Jul 2026 20:30:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/21/d93c2645-0a2e-47b5-8346-21e3175a42df.jpg",
-      "snippet": "Both sides expressed their commitment to expanding collaboration in these areas and further strengthening bilateral defence ties."
-    },
-    {
-      "title": "Benazir extradition: ACC to send documents UAE sought within 2 days",
-      "link": "https://www.tbsnews.net/bangladesh/benazir-extradition-acc-send-uae-sought-documents-within-2-days-1494191",
-      "pubDate": "Tue, 21 Jul 2026 20:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/15/benazir-arrested.png",
-      "snippet": "According to ACC sources, the fugitive former inspector general of police (IGP) Benazir Ahmed was arrested by Dubai Police through Interpol in mid-June."
-    },
-    {
-      "title": "Govt reshuffles 14 senior police officials",
-      "link": "https://www.tbsnews.net/bangladesh/govt-reshuffles-14-senior-police-officials-1494161",
-      "pubDate": "Tue, 21 Jul 2026 19:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/25/police_logo_new_bss.jpg",
-      "snippet": "The reshuffle includes officers holding the ranks of DIG, additional DIG, police commissioner and superintendent of police."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/dji_20260715153449_0373_d.jpg",
+      "snippet": "Conservationists warn that operating the facility inside one of the country’s last remaining Sal forests could pollute the ecosystem, threaten wildlife, and undermine the park’s role as a critical carbon sink and groundwater recharge area"
     },
     {
       "title": "Iran’s oil supply threat extends beyond Strait of Hormuz ",
@@ -661,5 +661,5 @@
       "snippet": "The event aimed to demonstrate advances in robotics, footage of the fight quickly fuelled the wider debate over the future of AI."
     }
   ],
-  "updatedAt": "2026-07-21T19:22:16.302Z"
+  "updatedAt": "2026-07-21T20:44:17.659Z"
 }
