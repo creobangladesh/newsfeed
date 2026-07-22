@@ -1,6 +1,94 @@
 {
   "news": [
     {
+      "title": "Child abducted for ransom in Ctg, 3 arrested, including cousin",
+      "link": "https://www.tbsnews.net/bangladesh/child-abducted-ransom-ctg-3-arrested-including-cousin-1494601",
+      "pubDate": "Wed, 22 Jul 2026 12:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/ctg_arrest.jpg",
+      "snippet": "A CNG-run auto-rickshaw used in the abduction was also seized during the drive."
+    },
+    {
+      "title": "Teesta nears danger level; rising waters spark flood fears in Lalmonirhat",
+      "link": "https://www.tbsnews.net/bangladesh/teesta-nears-danger-level-rising-waters-spark-flood-fears-lalmonirhat-1494581",
+      "pubDate": "Wed, 22 Jul 2026 12:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/teesta_river.jpg",
+      "snippet": "According to the Bangladesh Water Development Board (BWDB), the river's water level was recorded at 52.14 metres at the Dalia point at 9 am on today (22 July), against the danger level of 52.15 metres."
+    },
+    {
+      "title": "Rain likely across country in the next 24 hours",
+      "link": "https://www.tbsnews.net/bangladesh/rain-likely-across-country-next-24-hours-1494571",
+      "pubDate": "Wed, 22 Jul 2026 12:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/rain.jpg",
+      "snippet": "The weather office also predicted heavy to very heavy rainfall at places in Barishal and Chattogram divisions."
+    },
+    {
+      "title": "UNGA to decide on Bangladesh's LDC graduation extension requests: Ecosoc ",
+      "link": "https://www.tbsnews.net/bangladesh/ecosoc-backs-bangladeshs-request-ldc-graduation-extension-1494576",
+      "pubDate": "Wed, 22 Jul 2026 12:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/h.jpg",
+      "snippet": "The recommendation was made through a consensus decision adopted by Ecosoc member states at a meeting of the council on Tuesday, according to a message received here today (22 July)."
+    },
+    {
+      "title": "OpenAI says AI models went rogue during testing, triggering 'unprecedented' breach at startup",
+      "link": "https://www.tbsnews.net/tech/openai-says-ai-models-went-rogue-during-testing-triggering-unprecedented-breach-startup-1494561",
+      "pubDate": "Wed, 22 Jul 2026 12:20:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/open_ai.jpg",
+      "snippet": "OpenAI said the breakout was \"an unprecedented cyber incident, involving state-of-the-art cyber capabilities\" and that the company ⁠was reinforcing its safeguards."
+    },
+    {
+      "title": "Man stabbed to death in Hazaribagh",
+      "link": "https://www.tbsnews.net/bangladesh/crime/man-stabbed-death-hazaribagh-1494541",
+      "pubDate": "Wed, 22 Jul 2026 12:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/04/stabbing.jpg",
+      "snippet": "The incident occurred around 2am on a road beside a temple in Shah Alam Goli, near Hazaribagh Park."
+    },
+    {
+      "title": "Sust suspends two Chhatra Dal leaders for four semesters over assault on student",
+      "link": "https://www.tbsnews.net/bangladesh/sust-suspends-two-chhatra-dal-leaders-four-semesters-over-assault-student-1494506",
+      "pubDate": "Wed, 22 Jul 2026 11:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/23/sust-photo.png",
+      "snippet": "In addition to the academic suspension, both students have been barred from entering the campus during the suspension period."
+    },
+    {
+      "title": "BP shows interest in Bangladesh's offshore bidding",
+      "link": "https://www.tbsnews.net/bangladesh/energy/bp-shows-interest-bangladeshs-offshore-bidding-1494471",
+      "pubDate": "Wed, 22 Jul 2026 10:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/bp.jpeg",
+      "snippet": "The development contrasts with the previous offshore bidding round launched by the interim government in 2024, when BP did not purchase bid documents."
+    },
+    {
       "title": "Dhaka South seeks up to Tk3cr each from banks to celebrate Dhaka's 416th anniversary",
       "link": "https://www.tbsnews.net/bangladesh/dhaka-south-seeks-tk3cr-each-banks-celebrate-dhakas-416th-anniversary-1494451",
       "pubDate": "Wed, 22 Jul 2026 09:30:00 +0600",
@@ -166,81 +254,15 @@
       "snippet": "The workshop focused on sexual and reproductive health and rights (SRHR), nutrition and the role of the media in raising public awareness."
     },
     {
-      "title": "Bangladesh to participate in 50 international trade fairs to boost investment, exports",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-participate-50-international-trade-fairs-boost-investment-exports-1494291",
-      "pubDate": "Tue, 21 Jul 2026 22:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/12/09/investment.jpg",
-      "snippet": "The government has approved Bangladesh's participation in trade fairs across 27 countries in FY27, focusing on 12 priority export sectors."
-    },
-    {
-      "title": "CSE revamps CSE-30, adds GP, LafargeHolcim, drops Square Textiles, Crown Cement",
-      "link": "https://www.tbsnews.net/economy/stocks/cse-30-restructured-gp-lafargeholcim-join-square-textiles-crown-cement-exit-1494296",
-      "pubDate": "Tue, 21 Jul 2026 22:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/15/cse-bd.jpg",
-      "snippet": "The four companies newly included in the index are Grameenphone, Jamuna Bank, LafargeHolcim Bangladesh, and Paramount Textile PLC."
-    },
-    {
-      "title": "Bangladesh moves to expand jute exports thru diplomacy",
-      "link": "https://www.tbsnews.net/agriculture/bangladesh-moves-expand-jute-exports-thru-diplomacy-1494286",
-      "pubDate": "Tue, 21 Jul 2026 22:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/21/e9ac140b-b5be-40f1-80fd-e2aea6dfece3.jpg",
-      "snippet": "State Minister for Foreign Affairs Shama Obaed Islam and State Minister for Textiles and Jute Md Shariful Alam announced the formation of the Joint Working Group between the two ministries and the plan to organise the International Jute Expo with a r..."
-    },
-    {
       "title": "Stocks rebound as DSEX jumps 41 points to edge near 5,900 mark",
       "link": "https://www.tbsnews.net/economy/stocks/stocks-rebound-dsex-jumps-41-points-edge-near-5900-mark-1494276",
       "pubDate": "Tue, 21 Jul 2026 21:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/11/05/dsex.png",
       "snippet": "According to the daily market review by EBL Securities, the capital bourse maintained a firm upward trajectory from the opening bell."
-    },
-    {
-      "title": "Seven held for allegedly sending woman to Italy using another applicant's visa",
-      "link": "https://www.tbsnews.net/bangladesh/seven-held-allegedly-sending-woman-italy-using-another-applicants-visa-1494271",
-      "pubDate": "Tue, 21 Jul 2026 21:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/07/04/arrest-1579498383.jpg",
-      "snippet": "CID officials recovered three CPUs, an HP laptop, 56 passports belonging to different individuals, 153 seals in the names of various government, private and foreign individuals and organisations, an iron embossing seal, and Tk 2.5 lakh in cash from t..."
-    },
-    {
-      "title": "Milestone tragedy: Probe recommended compensation of up to Tk1cr, govt announced only Tk20 lakh",
-      "link": "https://www.tbsnews.net/bangladesh/milestone-tragedy-probe-recommended-compensation-tk1cr-govt-announced-only-tk20-lakh-says",
-      "pubDate": "Tue, 21 Jul 2026 21:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/07/21/untitled_design_3.jpg",
-      "snippet": "The interim government announced compensation and free treatment for crash victims five months after the accident, but many families rejected the offer as inadequate. The BNP government now says action will be taken promptly."
-    },
-    {
-      "title": "Ruling party used majority to pass bills without meaningful scrutiny: TIB",
-      "link": "https://www.tbsnews.net/bangladesh/ruling-party-used-majority-pass-bills-without-meaningful-scrutiny-tib-1494261",
-      "pubDate": "Tue, 21 Jul 2026 21:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/07/tib.jpg",
-      "snippet": "The anti-graft watchdog urges reforms to strengthen parliamentary oversight."
     },
     {
       "title": "Tk9,367cr provision gap: BSEC orders Dhaka exchange to ensure lenders' quarterly reporting ",
@@ -648,40 +670,7 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/barishal_university.jpg",
       "snippet": "Several journalists covering the incident said that they were also assaulted while collecting information and that their mobile phones were snatched when they attempted to record videos of the attack."
-    },
-    {
-      "title": "Bepza Economic Zone in Mirsarai draws nearly $130m before completion, eyes $2.9b potential",
-      "link": "https://www.tbsnews.net/economy/industry/bepza-economic-zone-mirsarai-draws-nearly-130m-completion-eyes-29b-potential",
-      "pubDate": "Sun, 19 Jul 2026 12:00:00 +0600",
-      "category": "Industry",
-      "color": "#f57c00",
-      "bg": "#fff3e0",
-      "icon": "🏭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/bepza.png",
-      "snippet": "Bepza officials said the zone has opened up possibilities for industrialisation, product diversification and employment"
-    },
-    {
-      "title": "NBR intensifies nationwide monitoring of withholding tax compliance",
-      "link": "https://www.tbsnews.net/bangladesh/nbr-intensifies-nationwide-monitoring-withholding-tax-compliance-1491861",
-      "pubDate": "Sun, 19 Jul 2026 11:10:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/03/12/nbr.jpg",
-      "snippet": "In a press release issued today, the NBR urged all concerned to remain aware of the powers vested in tax officials under Section 147 of the Income Tax Act, 2023."
-    },
-    {
-      "title": "China's Moonshot unveils world's largest open AI model, closing in on US rivals",
-      "link": "https://www.tbsnews.net/world/chinese-ai-startup-moonshot-unveils-worlds-largest-open-weight-ai-model-1491846",
-      "pubDate": "Sun, 19 Jul 2026 10:50:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/untitled_design.png",
-      "snippet": "Companies including Moonshot, Z.ai and MiniMax are releasing increasingly powerful models at sharply lower costs, challenging long-held assumptions in the West that Chinese developers trail their American peers by months."
     }
   ],
-  "updatedAt": "2026-07-22T04:24:03.819Z"
+  "updatedAt": "2026-07-22T07:10:31.143Z"
 }
