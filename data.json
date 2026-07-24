@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Explainer: How Bangladesh elects a new president",
+      "link": "https://www.tbsnews.net/bangladesh/explainer-how-bangladesh-elects-new-president-1497031",
+      "pubDate": "Sat, 25 Jul 2026 00:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/25/presidents_of_bd.png",
+      "snippet": "Under the Constitution, the speaker serves as acting president if the post becomes vacant, while the president may resign by writing to the speaker."
+    },
+    {
+      "title": "Most vegetables cross Tk100 mark as rain pushes up prices; green chillies hit Tk240/kg",
+      "link": "https://www.tbsnews.net/markets/most-vegetables-cross-tk100-mark-rain-pushes-prices-green-chillies-hit-tk240kg-1497026",
+      "pubDate": "Fri, 24 Jul 2026 23:40:00 +0600",
+      "category": "Market",
+      "color": "#7b1fa2",
+      "bg": "#f3e5f5",
+      "icon": "📊",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/12/17/vegetable_market_kitchen_market_2.jpg",
+      "snippet": "Consumers say vegetable prices have risen further after increasing steadily over the past several days."
+    },
+    {
       "title": "Acting President Hafiz Uddin Ahmad assumes office, receives floral greetings",
       "link": "https://www.tbsnews.net/bangladesh/acting-president-hafiz-uddin-ahmad-assumes-office-receives-floral-greetings-1497016",
       "pubDate": "Fri, 24 Jul 2026 21:50:00 +0600",
@@ -67,7 +89,7 @@
       "snippet": "Bangladesh will open their campaign against China, while defending champions India face hosts Japan. Sri Lanka meet Malaysia, and Pakistan take on Thailand."
     },
     {
-      "title": "Bomb-like object found under Motijheel metro station safely neutralised: Police",
+      "title": "Bomb squad defuses IED beneath Motijheel Metro Rail Station; passer-by injured",
       "link": "https://www.tbsnews.net/bangladesh/crude-bomb-found-under-motijheel-metro-station-safely-neutralised-1496951",
       "pubDate": "Fri, 24 Jul 2026 20:45:00 +0600",
       "category": "Bangladesh",
@@ -174,7 +196,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/stray_elephant_ctg.jpg",
-      "snippet": "The elephant entered the Chandpur Bazar area of Pukuria Union along the upazila's main road around 11pm, triggering panic among residents, pedestrians and motorists."
+      "snippet": "The elephant entered the Chandpur Bazar area of Pukuria union along the upazila's main road around 11pm, triggering panic among residents, pedestrians and motorists."
     },
     {
       "title": "Trump imposes forced labor tariffs, drawing protests from trading partners",
@@ -263,17 +285,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/15/titumir.png",
       "snippet": "He said the government inherited a fragile fiscal situation but now has both the political mandate and responsibility to pursue transformative reforms."
-    },
-    {
-      "title": "BSF push-in attempt through Chapainawabganj border foiled",
-      "link": "https://www.tbsnews.net/bangladesh/bsf-push-attempt-through-chapainawabganj-border-foiled-1496686",
-      "pubDate": "Fri, 24 Jul 2026 15:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/india_bangladesh_forced_migration.png",
-      "snippet": "12 BSF Battalion's Tilashan Camp allegedly tried to push the seven men into Bangladesh around 6:30am"
     },
     {
       "title": "7 teachers transferred after overseeing HSC exams at waterlogged Cumilla college",
@@ -815,5 +826,5 @@
       "snippet": "The report estimated that 38.6% of Bangladesh's population could not afford a healthy diet last year, compared with 63.0% in Pakistan."
     }
   ],
-  "updatedAt": "2026-07-24T17:05:18.331Z"
+  "updatedAt": "2026-07-24T18:57:50.705Z"
 }
