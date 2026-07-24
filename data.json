@@ -1,6 +1,50 @@
 {
   "news": [
     {
+      "title": "Even I am a victim: BTMA president exposes unchecked extortion in industries ",
+      "link": "https://www.tbsnews.net/bangladesh/crime/even-i-am-victim-btma-president-exposes-unchecked-extortion-industries-1496396",
+      "pubDate": "Fri, 24 Jul 2026 10:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/fabric_wastage_extortion_p1_24072026.jpg",
+      "snippet": "Even Showkat Aziz Russell, president of the Bangladesh Textile Mills Association (BTMA), said he had personally fallen victim to extortion."
+    },
+    {
+      "title": "Trade deficit widens 24% as exports fall and capital imports slump",
+      "link": "https://www.tbsnews.net/economy/trade-deficit-widens-24-exports-fall-and-capital-imports-slump-1496436",
+      "pubDate": "Fri, 24 Jul 2026 09:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/13/ctg_port_4.jpg",
+      "snippet": "The external trade is presenting a stark, two-way picture. On one hand, a slowdown in industrial raw material and capital machinery imports points to sluggish domestic manufacturing; on the other, export earnings have failed to meet expectations. Con..."
+    },
+    {
+      "title": "Nvidia, Amkor strike $1.5 billion chip packaging deal",
+      "link": "https://www.tbsnews.net/tech/nvidia-amkor-strike-15-billion-chip-packaging-deal-1496421",
+      "pubDate": "Fri, 24 Jul 2026 09:05:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/img_8336_0.jpeg",
+      "snippet": "Worth $1.5 billion to expand advanced semiconductor ‌packaging and test capacity in the US, as the chip industry races to build out AI infrastructure."
+    },
+    {
+      "title": "Bangladesh’s liver disease pattern shifts as fatty liver cases rise",
+      "link": "https://www.tbsnews.net/bangladesh/health/bangladeshs-liver-disease-pattern-shifts-fatty-liver-cases-rise-1496391",
+      "pubDate": "Fri, 24 Jul 2026 09:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/fatty_liver.jpg",
+      "snippet": "Hepatitis B cases fell from 51.1% to 44.4% over the decade"
+    },
+    {
       "title": "98.4% of mothers, children in Bangladesh lack health insurance: BBS",
       "link": "https://www.tbsnews.net/bangladesh/health/984-mothers-children-bangladesh-lack-health-insurance-bbs-1496376",
       "pubDate": "Fri, 24 Jul 2026 01:20:00 +0600",
@@ -34,7 +78,7 @@
       "snippet": "A Bangladeshi family travelling from Riyadh to Makkah to perform Umrah met with a fatal road accident after their car was reportedly struck from behind by a heavy vehicle."
     },
     {
-      "title": "President Shahabuddin, former ally of ousted PM Hasina, to resign on Friday: Reuters",
+      "title": "President Shahabuddin, former ally of ousted PM Hasina, to resign today: Reuters",
       "link": "https://www.tbsnews.net/bangladesh/bangladesh-president-backed-ousted-pm-hasina-resign-friday-reuters-1496356",
       "pubDate": "Fri, 24 Jul 2026 00:10:00 +0600",
       "category": "Bangladesh",
@@ -243,28 +287,6 @@
       "snippet": "Bangladesh Railway apologised for passenger suffering, saying around 20,000 travellers were affected due to the blockade."
     },
     {
-      "title": "Cabinet clears law to establish Bogura Development Authority",
-      "link": "https://www.tbsnews.net/bangladesh/cabinet-clears-law-establish-bogura-development-authority-1496121",
-      "pubDate": "Thu, 23 Jul 2026 20:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/prime_minister_tarique_rahman_chairs_the_14th_meeting_of_the_current_cabinet_at_the_secretariat_today_23_july._photo_pid.png",
-      "snippet": "According to the proposed law, a statutory body named “Bogura Development Authority” will be established, comprised of a chairman, full-time members and representatives from various agencies. Its jurisdiction will cover Bogura City Corporation and ad..."
-    },
-    {
-      "title": "3 remanded over alleged proxy recruitment scam at public administration ministry",
-      "link": "https://www.tbsnews.net/bangladesh/court/3-remanded-over-alleged-proxy-recruitment-scam-public-administration-ministry",
-      "pubDate": "Thu, 23 Jul 2026 20:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/751134556_1704022707490695_1970173874201534630_n_0.jpg",
-      "snippet": "Investigators allege the suspects tried to secure office assistant jobs by using proxy candidates to sit the recruitment examinations on their behalf."
-    },
-    {
       "title": "Dengue death toll reaches 39 as 1 more patient dies in 24hrs",
       "link": "https://www.tbsnews.net/bangladesh/health/dengue-death-toll-reaches-39-one-more-patient-dies-24hrs-1496101",
       "pubDate": "Thu, 23 Jul 2026 20:00:00 +0600",
@@ -274,17 +296,6 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/14/dengue.jpg",
       "snippet": "450 new patients were admitted to hospitals across the country"
-    },
-    {
-      "title": "New master plan on the cards to transform Cox's Bazar into modern tourism hub",
-      "link": "https://www.tbsnews.net/bangladesh/govt-plans-new-master-plan-transform-coxs-bazar-modern-tourism-hub-1496091",
-      "pubDate": "Thu, 23 Jul 2026 19:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/cox_salahuddin_khosru.jpg",
-      "snippet": "Home Minister Salahuddin Ahmed says a new master plan would be prepared based on the proposals submitted by the Ministry of Civil Aviation and Tourism."
     },
     {
       "title": "Trump’s UN wager and a global peace body losing its grip",
@@ -815,5 +826,5 @@
       "snippet": "The targets are outlined in the Country Programme Document 2026-2031, prepared by the commerce ministry with financial support from the World Trade Organisation (WTO)."
     }
   ],
-  "updatedAt": "2026-07-24T00:58:27.580Z"
+  "updatedAt": "2026-07-24T04:22:31.153Z"
 }
