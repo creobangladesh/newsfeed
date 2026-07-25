@@ -1,8 +1,107 @@
 {
   "news": [
     {
-      "title": "BGB blocks BSF bid to push 6 people through Jhenaidah border",
-      "link": "https://www.tbsnews.net/bangladesh/bgb-blocks-bsf-bid-push-6-people-bangladesh-1497126",
+      "title": "BGB foils attempt to push 9 women into Bangladesh through Dinajpur border",
+      "link": "https://www.tbsnews.net/bangladesh/bgb-foils-attempt-push-9-women-bangladesh-through-dinajpur-border-1497306",
+      "pubDate": "Sat, 25 Jul 2026 12:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/02/15/border-india_and_bangladesh.jpg",
+      "snippet": "After being stopped by BGB, the women attempted to return to the Indian side."
+    },
+    {
+      "title": "Can ex-president Shahabuddin be arrested? Constitutional immunity at centre of debate ",
+      "link": "https://www.tbsnews.net/bangladesh/can-ex-president-shahabuddin-be-arrested-constitutional-immunity-centre-debate-1497291",
+      "pubDate": "Sat, 25 Jul 2026 12:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/25/mohammed_shahabuddin.jpg",
+      "snippet": "'What trial will they hold? For what? Let them read Article 51 of the Constitution,' Mohammed Shahabuddin says after stepping down."
+    },
+    {
+      "title": "The noise of loneliness",
+      "link": "https://www.tbsnews.net/features/noise-loneliness-1497271",
+      "pubDate": "Sat, 25 Jul 2026 12:20:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/25/spiral_of_silence_final_boss_0.png",
+      "snippet": "Surrounded by people, yet feeling utterly alone. Science is beginning to explain one of modern life's quietest paradoxes."
+    },
+    {
+      "title": "School holidays cut significantly, but Bangladesh still struggles to make class days count ",
+      "link": "https://www.tbsnews.net/bangladesh/education/school-holidays-cut-significantly-bangladesh-still-struggles-make-class-days",
+      "pubDate": "Sat, 25 Jul 2026 12:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/01/17/school.jpg",
+      "snippet": "Educationists say class continuity, teaching quality remain key"
+    },
+    {
+      "title": "After garments, semiconductors could become Bangladesh's next major export: PM",
+      "link": "https://www.tbsnews.net/economy/industry/after-garments-semiconductors-could-become-bangladeshs-next-major-export-pm-1497246",
+      "pubDate": "Sat, 25 Jul 2026 12:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/25/pm_tarique_semiconductor_0.png",
+      "snippet": "The prime minister says Bangladesh has repeatedly overcome structural challenges in agriculture, garments, remittances and digital services."
+    },
+    {
+      "title": "Rain likely across country in the next 24 hours",
+      "link": "https://www.tbsnews.net/bangladesh/environment/rain-likely-across-country-next-24-hours-1497176",
+      "pubDate": "Sat, 25 Jul 2026 11:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/rain.jpg",
+      "snippet": "A low-pressure area has formed over Northwest Bay and adjoining Gangetic West Bengal-North Odisha coasts."
+    },
+    {
+      "title": "UN General Assembly adopts Bangladesh-led Culture of Peace Resolution",
+      "link": "https://www.tbsnews.net/bangladesh/un-general-assembly-adopts-bangladesh-led-culture-peace-resolution-1497151",
+      "pubDate": "Sat, 25 Jul 2026 11:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/02/united_nation_ambassador_salahuddin_noman_chowdhury.png",
+      "snippet": "Originally adopted in 1999 at the initiative of Bangladesh, the resolution has since served as the United Nations' principal framework for advancing a culture of peace."
+    },
+    {
+      "title": "India-produced monsoon dates occupy Bangladesh markets as imports from Mideast costlier",
+      "link": "https://www.tbsnews.net/economy/india-produced-monsoon-dates-occupy-bangladesh-markets-imports-mideast-costlier-1497121",
+      "pubDate": "Sat, 25 Jul 2026 11:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/25/p3_green_date_rajibdhar.jpg",
+      "snippet": "Sajjad Hossain, a wholesaler at Khatunganj fruit market, said his shop alone sells around 100 cases of fresh dates daily"
+    },
+    {
+      "title": "Who will be Bangladesh's next president?",
+      "link": "https://www.tbsnews.net/bangladesh/politics/who-will-be-bangladeshs-next-president-1497141",
+      "pubDate": "Sat, 25 Jul 2026 11:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/25/bangabhaban.png",
+      "snippet": "Among the names being floated are LGRD Minister Mirza Fakhrul Islam Alamgir, who is also the BNP secretary general; and Standing Committee members Khandaker Mosharraf Hossain and Dr Abdul Moyeen Khan."
+    },
+    {
+      "title": "BGB blocks BSF bid to push in 6 people through Jhenaidah border",
+      "link": "https://www.tbsnews.net/bangladesh/bgb-blocks-bsf-bid-push-6-people-through-jhenaidah-border-1497126",
       "pubDate": "Sat, 25 Jul 2026 10:25:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
@@ -67,7 +166,7 @@
       "snippet": "A market investigation by The Business Standard found that virtually every cigarette brand is being sold above its printed MRP, because cigarette companies sell to distributors at or virtually at the MRP itself, leaving no margin for retail sellers"
     },
     {
-      "title": "Jubodal activist killed, 2 injured in Kafrul shooting, 1 suspect held",
+      "title": "Jubo Dal activist killed, 2 injured in Kafrul shooting, 1 suspect held",
       "link": "https://www.tbsnews.net/bangladesh/crime/jubodal-activist-killed-2-injured-kafrul-shooting-1-suspect-held-1497046",
       "pubDate": "Sat, 25 Jul 2026 01:30:00 +0600",
       "category": "Bangladesh",
@@ -177,61 +276,6 @@
       "snippet": "Strip away the flags, the slogans and the satire, and a single thread runs through Delhi's Jantar Mantar, Dhaka's July streets, Kathmandu's burning ministries and Lima's university gates: a generation that did everything it was told to — study, get a..."
     },
     {
-      "title": "Bangladesh earn direct quarter-final spot at Asian Games cricket",
-      "link": "https://www.tbsnews.net/sports/bangladesh-earn-direct-quarter-final-spot-asian-games-cricket-1496966",
-      "pubDate": "Fri, 24 Jul 2026 20:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/bangladesh_cricket.jpg",
-      "snippet": "Bangladesh will open their campaign against China, while defending champions India face hosts Japan. Sri Lanka meet Malaysia, and Pakistan take on Thailand."
-    },
-    {
-      "title": "Bomb squad defuses IED beneath Motijheel Metro Rail Station; passer-by injured",
-      "link": "https://www.tbsnews.net/bangladesh/crude-bomb-found-under-motijheel-metro-station-safely-neutralised-1496951",
-      "pubDate": "Fri, 24 Jul 2026 20:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/bomb_like_object.jpg",
-      "snippet": "Pedestrians alerted police after spotting a suspicious umbrella beneath the station."
-    },
-    {
-      "title": "BNP expels union leader after 'obscene' video goes viral",
-      "link": "https://www.tbsnews.net/bangladesh/politics/bnp-expels-union-leader-after-obscene-video-goes-viral-1496956",
-      "pubDate": "Fri, 24 Jul 2026 20:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/12/image-3273-1625475763.jpg",
-      "snippet": "He was expelled from the party after district leaders said allegations of moral misconduct against him were found to be true."
-    },
-    {
-      "title": "BNP, Democracy International review progress on organisational strengthening",
-      "link": "https://www.tbsnews.net/bangladesh/bnp-democracy-international-review-progress-organisational-strengthening-1496941",
-      "pubDate": "Fri, 24 Jul 2026 20:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/bnp_and_di.png",
-      "snippet": "According to DI, significant progress has been achieved in institutionalising training programmes, increasing women's participation in party committees, resolving internal conflicts and expanding public engagement activities."
-    },
-    {
-      "title": "BERC chairman for securing energy security by achieving renewable targets with aggressive natural gas exploration",
-      "link": "https://www.tbsnews.net/bangladesh/berc-chairman-securing-energy-security-achieving-renewable-targets-aggressive-natural-gas",
-      "pubDate": "Fri, 24 Jul 2026 19:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/08/22/jalal.jpg",
-      "snippet": "\"We currently have excess generation capacity in the power sector. Unfortunately, this surplus has become a burden rather than an asset. Including captive generation, the country's installed capacity is approximately 34,000 MW, which is nearly 100% h..."
-    },
-    {
       "title": "Do we have the right to silence?",
       "link": "https://www.tbsnews.net/thoughts/do-we-have-right-silence-1496896",
       "pubDate": "Fri, 24 Jul 2026 19:30:00 +0600",
@@ -252,39 +296,6 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/15_thoughts_new.png",
       "snippet": "Around the world, enduring digital payment systems have been built on common infrastructure that enables competition and innovation. Bangla QR has the potential to become such an infrastructure, but its success will depend on expanding access, creati..."
-    },
-    {
-      "title": "Kayser Kamal now acting speaker",
-      "link": "https://www.tbsnews.net/bangladesh/kayser-kamal-now-acting-speaker-1496881",
-      "pubDate": "Fri, 24 Jul 2026 19:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/kaisar_kamal.jpg",
-      "snippet": "With Speaker Hafiz assuming the role of acting president following Shahabuddin's resignation, Deputy Speaker Kayser will discharge the duties of speaker."
-    },
-    {
-      "title": "Bangladesh to work closely for stronger Asean: FM",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-work-closely-stronger-asean-fm-1496871",
-      "pubDate": "Fri, 24 Jul 2026 19:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/fm_khalilur_tac.jpeg",
-      "snippet": "The foreign minister also outlined ways to address emerging threats posed by AI-enabled cybercrime as well as misinformation and disinformation spread through social media."
-    },
-    {
-      "title": "Stray elephant returns to forest after entering Ctg's Banshkhali locality",
-      "link": "https://www.tbsnews.net/bangladesh/stray-elephant-returns-forest-after-entering-ctgs-banshkhali-locality-1496851",
-      "pubDate": "Fri, 24 Jul 2026 18:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/stray_elephant_ctg.jpg",
-      "snippet": "The elephant entered the Chandpur Bazar area of Pukuria union along the upazila's main road around 11pm, triggering panic among residents, pedestrians and motorists."
     },
     {
       "title": "Trump imposes forced labor tariffs, drawing protests from trading partners",
@@ -802,18 +813,7 @@
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/09/04/new_project_7_0.jpg",
       "snippet": "The official remains on the run as criminal investigation continues."
-    },
-    {
-      "title": "OpenAI says AI models went rogue during testing, triggering 'unprecedented' breach at startup",
-      "link": "https://www.tbsnews.net/tech/openai-says-ai-models-went-rogue-during-testing-triggering-unprecedented-breach-startup-1494561",
-      "pubDate": "Wed, 22 Jul 2026 12:20:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/open_ai.jpg",
-      "snippet": "OpenAI said the breakout was \"an unprecedented cyber incident, involving state-of-the-art cyber capabilities\" and that the company ⁠was reinforcing its safeguards."
     }
   ],
-  "updatedAt": "2026-07-25T04:43:03.897Z"
+  "updatedAt": "2026-07-25T07:16:34.456Z"
 }
