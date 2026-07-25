@@ -1,6 +1,105 @@
 {
   "news": [
     {
+      "title": "Over half of ICU patients acquire drug-resistant bacteria in hospital: icddr,b",
+      "link": "https://www.tbsnews.net/bangladesh/health/drug-resistant-bacteria-spread-rapidly-bangladesh-icus-icddrb-studies-warn-1497701",
+      "pubDate": "Sat, 25 Jul 2026 19:45:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/25/iccdr_unb_img.jpg",
+      "snippet": "Using laboratory testing and whole-genome sequencing, researchers found that, in some patients, the same bacterial strain detected during colonisation later caused life-threatening infection."
+    },
+    {
+      "title": "Gas supply to be normalised soon: State minister",
+      "link": "https://www.tbsnews.net/bangladesh/energy/gas-supply-be-normalised-soon-state-minister-1497676",
+      "pubDate": "Sat, 25 Jul 2026 19:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/25/amit_on_gas_supply.png",
+      "snippet": "The gas is essential for operating power plants and industries as well as meeting household cooking needs, particularly in the capital, he says."
+    },
+    {
+      "title": "PM joins meeting with BNP leaders of Rangpur division",
+      "link": "https://www.tbsnews.net/bangladesh/pm-joins-meeting-bnp-leaders-rangpur-division-1497666",
+      "pubDate": "Sat, 25 Jul 2026 18:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/25/pm_tarique_meeting.png",
+      "snippet": "Senior party leaders from Nilphamari, Kurigram, Gaibandha, Lalmonirhat, Rangpur districts and Rangpur metropolitan city joined the meeting."
+    },
+    {
+      "title": "Dengue death toll reaches 40 as 1 more patient dies in 24hrs",
+      "link": "https://www.tbsnews.net/bangladesh/health/dengue-death-toll-reaches-40-1-more-patient-dies-24hrs-1497656",
+      "pubDate": "Sat, 25 Jul 2026 18:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/14/dengue.jpg",
+      "snippet": "Meanwhile, 439 new patients were admitted to hospitals during the same period."
+    },
+    {
+      "title": "Tea workers block highway demanding Tk500 daily wage",
+      "link": "https://www.tbsnews.net/bangladesh/tea-workers-block-highway-demanding-tk500-daily-wage-1497646",
+      "pubDate": "Sat, 25 Jul 2026 18:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/25/tea_workers_protest.jpg",
+      "snippet": "During the program, workers observed a two-hour work stoppage and staged a blockade on the Highway."
+    },
+    {
+      "title": "FY27 budget gets healthcare right, now comes the hard part",
+      "link": "https://www.tbsnews.net/thoughts/fy27-budget-gets-healthcare-right-now-comes-hard-part-1497621",
+      "pubDate": "Sat, 25 Jul 2026 18:30:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/25/ad-din_mumit-8340.jpg",
+      "snippet": "From increased health spending and preventive care to pharmaceutical manufacturing and medical education, the proposed FY2026-27 budget signals a stronger commitment to healthcare. The real challenge now lies in turning policy into practice"
+    },
+    {
+      "title": "Roadmap for chemical backward linkage industry a strategic necessity: DCCI",
+      "link": "https://www.tbsnews.net/bangladesh/roadmap-chemical-backward-linkage-industry-strategic-necessity-dcci-1497591",
+      "pubDate": "Sat, 25 Jul 2026 18:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/25/dcci_chemical_meeting.jpg",
+      "snippet": "The chamber says heavy dependence on imported industrial chemicals, tariff complexities and logistical bottlenecks continue to undermine the country’s export-oriented industries."
+    },
+    {
+      "title": "Out on bail, wildlife trafficker Shafiqul arrested again in Ctg with 6 parrots, one hornbill",
+      "link": "https://www.tbsnews.net/bangladesh/environment/out-bail-wildlife-trafficker-shafiqul-arrested-again-ctg-6-parrots-one",
+      "pubDate": "Sat, 25 Jul 2026 18:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/25/wildlife_trafficker_ctg.jpg",
+      "snippet": "The man was arrested during another operation on 18 May. He managed to get released after securing bail - only to get caught red-handed again."
+    },
+    {
+      "title": "Around 9,600 people die from drowning each year in Bangladesh: WHO",
+      "link": "https://www.tbsnews.net/bangladesh/around-9600-people-die-drowning-each-year-bangladesh-who-1497581",
+      "pubDate": "Sat, 25 Jul 2026 18:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/07/25/world_drowning_prevention_day_.png",
+      "snippet": "Calls for stronger action to prevent drowning in Bangladesh."
+    },
+    {
       "title": "Railway staffer allegedly stabs father, son at Kushtia station; protesters halt train for 2hrs",
       "link": "https://www.tbsnews.net/bangladesh/railway-staffer-allegedly-stabs-father-son-kushtia-station-protesters-halt-train-2hrs",
       "pubDate": "Sat, 25 Jul 2026 17:50:00 +0600",
@@ -43,6 +142,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/25/ctg_arrest.jpg",
       "snippet": "Preliminary information suggested the accused might be a drug addict or suffering from mental health issues."
+    },
+    {
+      "title": "State Minister Muhit inaugurates women-led, tech-enabled 'Vision Centre' in Sirajganj",
+      "link": "https://www.tbsnews.net/bangladesh/health/state-minister-muhit-inaugurates-women-led-tech-enabled-vision-centre-sirajganj",
+      "pubDate": "Sat, 25 Jul 2026 17:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/25/state_minister_muhit_at_sirajganj.jpg",
+      "snippet": "Muhit urged people to overcome social stigma surrounding the use of spectacles and encouraged students to act as \"vision ambassadors\" by referring patients with eye problems to the centre."
     },
     {
       "title": "New navy chief pays courtesy call on PM Tarique",
@@ -100,8 +210,8 @@
       "snippet": "According to the Directorate General of Health Services (DGHS), the number of suspected measles deaths has risen to 721 while the number of laboratory-confirmed measles deaths has reached 95."
     },
     {
-      "title": "Can mangroves be a one-stop solution to climate change?",
-      "link": "https://www.tbsnews.net/thoughts/can-mangroves-be-one-stop-solution-climate-change-1497486",
+      "title": "Making the most of mangroves in the fight against climate change",
+      "link": "https://www.tbsnews.net/thoughts/making-most-mangroves-fight-against-climate-change-1497486",
       "pubDate": "Sat, 25 Jul 2026 15:55:00 +0600",
       "category": "Thoughts",
       "color": "#455a64",
@@ -111,15 +221,15 @@
       "snippet": "Investing in mangroves is one of our strongest safeguards against the uncertainties of a changing climate. The green walls we strengthen today will determine whether Bangladesh’s coastal heartlands can thrive as a global model of resilience"
     },
     {
-      "title": "Strengthening nuclear diplomacy to secure Bangladesh's long-term energy future ",
-      "link": "https://www.tbsnews.net/thoughts/strengthening-nuclear-diplomacy-secure-bangladeshs-long-term-energy-future-1497466",
+      "title": "Why Bangladesh needs robust nuclear diplomacy for long-term energy security",
+      "link": "https://www.tbsnews.net/thoughts/why-bangladesh-needs-robust-nuclear-diplomacy-long-term-energy-security-1497466",
       "pubDate": "Sat, 25 Jul 2026 15:50:00 +0600",
       "category": "Thoughts",
       "color": "#455a64",
       "bg": "#eceff1",
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/25/image_0_1.png",
-      "snippet": "Establishing a domestic nuclear energy programme requires extensive international cooperation to ensure compliance with nuclear safeguards, safety standards and long-term fuel supply arrangements"
+      "snippet": "Nuclear diplomacy is a prerequisite for developing a national nuclear power programme, as civilian nuclear technology depends on sustained international collaboration"
     },
     {
       "title": "Cumilla college students protest teachers' transfers; distressed faculty member urges them to back down ",
@@ -155,90 +265,13 @@
       "snippet": "Holding policymaking positions in Chhatra Union and Network for People's Action has created a conflict of interest, he says."
     },
     {
-      "title": "Bangladesh must pursue balanced diplomacy amid global polarisation: Experts",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-must-pursue-balanced-diplomacy-protect-national-interests-amid-global",
-      "pubDate": "Sat, 25 Jul 2026 15:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/25/thoughts_4_9_2022_0.png",
-      "snippet": "Sreeradha added that bilateral relations between Bangladesh and India have suffered over the past two years and expressed hope for more robust engagement between the two neighbours."
-    },
-    {
-      "title": "Probe launched after Forest Department fells 1,200 citrus trees in Moulvibazar",
-      "link": "https://www.tbsnews.net/bangladesh/probe-launched-after-forest-department-fells-1200-citrus-trees-moulvibazar-1497426",
-      "pubDate": "Sat, 25 Jul 2026 14:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/25/moulvibazar_orange-malta_damaged_pic-01.png",
-      "snippet": "The family claimed the orchard was expected to generate Tk25-26 lakh in orange sales within the next three months, with thousands of fruits already growing on the trees."
-    },
-    {
-      "title": "Bangladesh, Chile discuss opening resident diplomatic missions",
-      "link": "https://www.tbsnews.net/foreign-policy/bangladesh-chile-discuss-opening-resident-diplomatic-missions-1497416",
-      "pubDate": "Sat, 25 Jul 2026 14:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/25/image-408734-1784965104.jpg",
-      "snippet": "During the meeting, the two foreign ministers noted the considerable potential for substantially increasing bilateral trade and agreed, in principle, to explore the possibility of a free trade agreement between the two countries."
-    },
-    {
-      "title": "BNP has no official knowledge yet about who will be next president: Rizvi",
-      "link": "https://www.tbsnews.net/bangladesh/politics/bnp-has-no-official-knowledge-yet-about-who-will-be-next-president-rizvi-1497411",
-      "pubDate": "Sat, 25 Jul 2026 14:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/25/ruhul_kabir_rizvi_.jpg",
-      "snippet": "Rizvi made the comments while talking to journalists after paying tribute alongside the 12 BNP leaders at the graves of martyred president and BNP founder Ziaur Rahman and former prime minister Khaleda Zia in the capital’s Sher-e-Bangla Nagar."
-    },
-    {
-      "title": "Former Bangladesh speakers who later became presidents",
-      "link": "https://www.tbsnews.net/bangladesh/former-bangladesh-speakers-who-later-became-president-1497386",
-      "pubDate": "Sat, 25 Jul 2026 14:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/25/tbs.jpg",
-      "snippet": "Law, Justice, and Parliamentary Affairs Minister Md Asaduzzaman today (25 July) said parliament will elect the next president during its regular session in September."
-    },
-    {
-      "title": "Extrajudicial killings have almost come down to zero: Asaduzzaman",
-      "link": "https://www.tbsnews.net/bangladesh/extrajudicial-killings-have-almost-come-down-zero-asaduzzaman-1497371",
-      "pubDate": "Sat, 25 Jul 2026 14:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/21/law_minister.jpg",
-      "snippet": "Referring to politically motivated cases, the law minister said the government has been working relentlessly to withdraw such cases and that the process has now reached its final stage."
-    },
-    {
-      "title": "New president to be elected at regular parliamentary session in September: Law minister",
-      "link": "https://www.tbsnews.net/bangladesh/new-president-be-elected-regular-parliamentary-session-september-law-minister-1497346",
-      "pubDate": "Sat, 25 Jul 2026 13:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/13/md._asaduzzaman.jpg",
-      "snippet": "President Mohammed Shahabuddin resigned from office yesterday, citing ill health."
-    },
-    {
       "title": "Bangladesh's $1b semiconductor ambition now faces critical execution phase",
       "link": "https://www.tbsnews.net/economy/industry/bangladeshs-1b-semiconductor-ambition-now-faces-critical-execution-phase-1497236",
       "pubDate": "Sat, 25 Jul 2026 13:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Industry",
+      "color": "#f57c00",
+      "bg": "#fff3e0",
+      "icon": "🏭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/02/10/semiconductor-circuit-board.jpg",
       "snippet": "As countries across Asia race to strengthen their positions in global chip supply chains, industry leaders say Bangladesh’s semiconductor ambitions have reached a decisive stage where implementation, rather than policy announcements, will determine s..."
     },
@@ -747,51 +780,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/whatsapp_image_2026-07-22_at_20.24.43_1.jpg",
       "snippet": "The prime minister told BGMEA leaders that government measures to address the energy crisis will become visible within one to one-and-a-half years."
-    },
-    {
-      "title": "Facebook, Messenger face outage, users report widespread disruptions",
-      "link": "https://www.tbsnews.net/tech/facebook-messenger-face-outage-users-report-widespread-disruptions-1495246",
-      "pubDate": "Wed, 22 Jul 2026 20:00:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/07/23/101911203-20140811-9125-674.1910x1000.jpg",
-      "snippet": "Users reported problems sending messages, refreshing feeds and loading content, while Meta had yet to comment on the disruption."
-    },
-    {
-      "title": "Jamuna Bank profit jumps 22% to Tk378cr in H1",
-      "link": "https://www.tbsnews.net/economy/stocks/jamuna-bank-profit-jumps-22-tk378cr-h1-1495236",
-      "pubDate": "Wed, 22 Jul 2026 19:50:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/organization/logo/jamuna_bank.png",
-      "snippet": "During the first half, its consolidated earnings per share stood at Tk4.03, which was Tk3.31 a year ago."
-    },
-    {
-      "title": "Govt to launch 'National Health Card' to eliminate healthcare inequality: Faqir Mahbub",
-      "link": "https://www.tbsnews.net/bangladesh/health/govt-launch-national-health-card-eliminate-healthcare-inequality-faqir-mahbub",
-      "pubDate": "Wed, 22 Jul 2026 19:05:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/minister_faqir_mahbub_anam_spoke_at_silk_road_forum_in_xian_china_on_national_health_card_and_ai-driven_healthcare.-converted-from-webp.jpeg",
-      "snippet": "The proposed National Health Card will enable nationwide access to patients' medical records, helping improve healthcare access and reduce urban-rural disparities."
-    },
-    {
-      "title": "Shifting winds: Bangladesh in an age of fragmented interdependence",
-      "link": "https://www.tbsnews.net/thoughts/shifting-winds-bangladesh-age-fragmented-interdependence-1495126",
-      "pubDate": "Wed, 22 Jul 2026 18:50:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/12/thoughts_4_9_2022_0_0_0.png",
-      "snippet": "As great-power rivalry reshapes global politics, Bangladesh's greatest strategic advantage lies not in choosing sides but in building resilient institutions, diversifying partnerships and practising disciplined multi-alignment"
     }
   ],
-  "updatedAt": "2026-07-25T12:02:25.161Z"
+  "updatedAt": "2026-07-25T14:10:01.467Z"
 }
