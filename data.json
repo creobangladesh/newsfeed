@@ -1,6 +1,61 @@
 {
   "news": [
     {
+      "title": "Railway staffer allegedly stabs father, son at Kushtia station; protesters halt train for 2hrs",
+      "link": "https://www.tbsnews.net/bangladesh/railway-staffer-allegedly-stabs-father-son-kushtia-station-protesters-halt-train-2hrs",
+      "pubDate": "Sat, 25 Jul 2026 17:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/25/kushtia_train1.jpg",
+      "snippet": "Passengers and locals blocked the Khulna-bound train after the alleged attack at Kushtia Court Railway Station. Services resumed after officials assured protesters that those responsible would face action."
+    },
+    {
+      "title": "Police rescue woman held hostage after gunman opens fire in Ashulia",
+      "link": "https://www.tbsnews.net/bangladesh/police-rescue-woman-held-hostage-after-gunman-opens-fire-ashulia-1497561",
+      "pubDate": "Sat, 25 Jul 2026 17:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/25/received_1033948962558221.jpg",
+      "snippet": "According to police, around 7am today, Bappi arrived at the building with three accomplices. He allegedly took the building's caretaker, Lima, hostage and demanded money."
+    },
+    {
+      "title": "Acting president to work from Bangabhaban, stay at speaker's official residence  ",
+      "link": "https://www.tbsnews.net/bangladesh/acting-president-work-bangabhaban-stay-speakers-official-residence-1497551",
+      "pubDate": "Sat, 25 Jul 2026 17:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/21/speaker.jpg",
+      "snippet": "Sayrul said the acting president will place a wreath at the National Martyrs’ Memorial in Savar at 11:30am tomorrow to pay tribute to the martyrs."
+    },
+    {
+      "title": "Son arrested for killing parents with scissors in Ctg",
+      "link": "https://www.tbsnews.net/bangladesh/crime/son-arrested-killing-parents-scissors-ctg-1497546",
+      "pubDate": "Sat, 25 Jul 2026 17:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/25/ctg_arrest.jpg",
+      "snippet": "Preliminary information suggested the accused might be a drug addict or suffering from mental health issues."
+    },
+    {
+      "title": "New navy chief pays courtesy call on PM Tarique",
+      "link": "https://www.tbsnews.net/bangladesh/new-navy-chief-pays-courtesy-call-pm-tarique-1497516",
+      "pubDate": "Sat, 25 Jul 2026 16:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/25/navy_cheif-pm.jpg",
+      "snippet": "The prime minister praises the Bangladesh Navy’s professionalism and role in safeguarding the country’s sovereignty."
+    },
+    {
       "title": "Khelafat Majlis ends ties with Jamaat-led 11-party alliance",
       "link": "https://www.tbsnews.net/bangladesh/politics/khelafat-majlis-ends-ties-jamaat-led-11-party-alliance-1497501",
       "pubDate": "Sat, 25 Jul 2026 16:30:00 +0600",
@@ -188,28 +243,6 @@
       "snippet": "As countries across Asia race to strengthen their positions in global chip supply chains, industry leaders say Bangladesh’s semiconductor ambitions have reached a decisive stage where implementation, rather than policy announcements, will determine s..."
     },
     {
-      "title": "BGB foils attempt to push 9 women into Bangladesh through Dinajpur border",
-      "link": "https://www.tbsnews.net/bangladesh/bgb-foils-attempt-push-9-women-bangladesh-through-dinajpur-border-1497306",
-      "pubDate": "Sat, 25 Jul 2026 12:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/02/15/border-india_and_bangladesh.jpg",
-      "snippet": "After being stopped by BGB, the women attempted to return to the Indian side."
-    },
-    {
-      "title": "Can ex-president Shahabuddin be arrested? Constitutional immunity at centre of debate ",
-      "link": "https://www.tbsnews.net/bangladesh/can-ex-president-shahabuddin-be-arrested-constitutional-immunity-centre-debate-1497291",
-      "pubDate": "Sat, 25 Jul 2026 12:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/25/mohammed_shahabuddin.jpg",
-      "snippet": "'What trial will they hold? For what? Let them read Article 51 of the Constitution,' Mohammed Shahabuddin says after stepping down."
-    },
-    {
       "title": "The noise of loneliness",
       "link": "https://www.tbsnews.net/features/noise-loneliness-1497271",
       "pubDate": "Sat, 25 Jul 2026 12:20:00 +0600",
@@ -224,10 +257,10 @@
       "title": "School holidays cut significantly, but Bangladesh still struggles to make class days count ",
       "link": "https://www.tbsnews.net/bangladesh/education/school-holidays-cut-significantly-bangladesh-still-struggles-make-class-days",
       "pubDate": "Sat, 25 Jul 2026 12:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/01/17/school.jpg",
       "snippet": "Educationists say class continuity, teaching quality remain key"
     },
@@ -235,23 +268,12 @@
       "title": "After garments, semiconductors could become Bangladesh's next major export: PM",
       "link": "https://www.tbsnews.net/economy/industry/after-garments-semiconductors-could-become-bangladeshs-next-major-export-pm-1497246",
       "pubDate": "Sat, 25 Jul 2026 12:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Industry",
+      "color": "#f57c00",
+      "bg": "#fff3e0",
+      "icon": "🏭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/25/pm_tarique_semiconductor_0.png",
       "snippet": "The prime minister says Bangladesh has repeatedly overcome structural challenges in agriculture, garments, remittances and digital services."
-    },
-    {
-      "title": "Rain likely across country in the next 24 hours",
-      "link": "https://www.tbsnews.net/bangladesh/environment/rain-likely-across-country-next-24-hours-1497176",
-      "pubDate": "Sat, 25 Jul 2026 11:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/rain.jpg",
-      "snippet": "A low-pressure area has formed over Northwest Bay and adjoining Gangetic West Bengal-North Odisha coasts."
     },
     {
       "title": "India-produced monsoon dates occupy Bangladesh markets as imports from Mideast costlier",
@@ -769,18 +791,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/12/thoughts_4_9_2022_0_0_0.png",
       "snippet": "As great-power rivalry reshapes global politics, Bangladesh's greatest strategic advantage lies not in choosing sides but in building resilient institutions, diversifying partnerships and practising disciplined multi-alignment"
-    },
-    {
-      "title": "bKash deploys largest Bangla QR network nationwide to accelerate cashless payment",
-      "link": "https://www.tbsnews.net/bangladesh/bkash-deploys-largest-bangla-qr-network-nationwide-accelerate-cashless-payment-1495011",
-      "pubDate": "Wed, 22 Jul 2026 17:55:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/25/bangla_qr.png",
-      "snippet": "From neighbourhood grocery stores to pharmacies, restaurants, hotels, supermarkets, lifestyle brands and leading retail chains, customers can now conveniently pay by scanning Bangla QR codes deployed by bKash."
     }
   ],
-  "updatedAt": "2026-07-25T10:52:13.217Z"
+  "updatedAt": "2026-07-25T12:02:25.161Z"
 }
