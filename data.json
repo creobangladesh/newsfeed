@@ -1,6 +1,61 @@
 {
   "news": [
     {
+      "title": "Bangladesh, Japan unveil roadmap to boost women's economic leadership",
+      "link": "https://www.tbsnews.net/foreign-policy/bangladesh-japan-unveil-roadmap-boost-womens-economic-leadership-1498811",
+      "pubDate": "Sun, 26 Jul 2026 22:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/26/1000134503.jpg",
+      "snippet": "The proposed \"Give to Gain\" model seeks to move women from economic participation to leadership roles through better access to finance, mentorship and business networks."
+    },
+    {
+      "title": "ACI Godrej, Aftab Feed among seven firms fined Tk14.8 lakh for lacking BSTI certification",
+      "link": "https://www.tbsnews.net/bangladesh/aci-godrej-aftab-feed-among-seven-firms-fined-tk148-lakh-lacking-bsti-certification",
+      "pubDate": "Sun, 26 Jul 2026 22:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/10/14/bsti.jpg",
+      "snippet": "The penalties were imposed for producing and selling poultry feed, fish feed, batteries, toiletries and food products without required BSTI certificates and registrations."
+    },
+    {
+      "title": "Listed insurers post strong earnings growth in H1 2026",
+      "link": "https://www.tbsnews.net/economy/stocks/listed-insurers-post-strong-earnings-growth-h1-2026-1498806",
+      "pubDate": "Sun, 26 Jul 2026 22:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/21/insurance.png",
+      "snippet": "Some insurers recorded more than double-digit growth, with Global Insurance leading the sector with a 121% increase in half-yearly earnings."
+    },
+    {
+      "title": "Southeast Bank sponsor Rehana Kashem to sell 10 lakh shares",
+      "link": "https://www.tbsnews.net/economy/southeast-bank-sponsor-rehana-kashem-sell-10-lakh-shares-1498796",
+      "pubDate": "Sun, 26 Jul 2026 21:55:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/10/30/southeast_bank.jpg",
+      "snippet": "Southeast Bank’s share price rose 0.94% to close at Tk10.70 on the DSE today."
+    },
+    {
+      "title": "Walton Hi-Tech expands global footprint with 3-year Libya distribution deal",
+      "link": "https://www.tbsnews.net/economy/industry/walton-hi-tech-expands-global-footprint-3-year-libya-distribution-deal-1498786",
+      "pubDate": "Sun, 26 Jul 2026 21:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/03/walton_hi-tech.jpg",
+      "snippet": "The three-year deal with Libya-based ASR AL TECHNIYAH marks another step in Walton’s global expansion drive, with the company earning Tk80 crore from exports in the first nine months of FY26."
+    },
+    {
       "title": "MEP Group to invest Tk200cr in electrical goods project in Mirsarai",
       "link": "https://www.tbsnews.net/economy/mep-group-invest-tk200cr-electrical-goods-project-mirsarai-1498766",
       "pubDate": "Sun, 26 Jul 2026 21:30:00 +0600",
@@ -32,6 +87,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/26/ctg_cctv.jpg",
       "snippet": "The attackers also reportedly exploded three crude bombs while leaving the scene."
+    },
+    {
+      "title": "Biman to resume Dhaka-Narita flights after one-year suspension",
+      "link": "https://www.tbsnews.net/foreign-policy/biman-resume-dhaka-narita-flights-after-one-year-suspension-1498781",
+      "pubDate": "Sun, 26 Jul 2026 21:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/biman_0.jpg",
+      "snippet": "Biman Bangladesh Airlines is restoring the route to boost air connectivity between Bangladesh and Japan and support trade, tourism and investment ties."
     },
     {
       "title": "BB directs banks to resolve staff disciplinary complaints within 2 months",
@@ -177,17 +243,6 @@
       "snippet": "Police says the victim was brutally beaten in an attempt to force a confession over a suspected theft."
     },
     {
-      "title": "Presidential election: EC to seek acting speaker's appointment for schedule announcement",
-      "link": "https://www.tbsnews.net/bangladesh/presidential-election-ec-seek-speakers-appointment-schedule-announcement-1498631",
-      "pubDate": "Sun, 26 Jul 2026 18:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/election_commission_img.jpg",
-      "snippet": "Now Barrister Kayser Kamal is serving as the acting speaker."
-    },
-    {
       "title": "The quiet crisis of the missing signature: Why documentation is microfinance's true bedrock",
       "link": "https://www.tbsnews.net/thoughts/quiet-crisis-missing-signature-why-documentation-microfinances-true-bedrock-1498626",
       "pubDate": "Sun, 26 Jul 2026 18:25:00 +0600",
@@ -197,50 +252,6 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/20/digital_banking_cover_copy.png",
       "snippet": "As Bangladesh's microfinance sector embraces digital transformation, stronger documentation standards are essential for managing legal, operational and regulatory risks."
-    },
-    {
-      "title": "Govt checking past corruption allegations against ex-president Shahabuddin: Law minister",
-      "link": "https://www.tbsnews.net/bangladesh/govt-checking-past-corruption-allegations-against-ex-president-shahabuddin-law-minister",
-      "pubDate": "Sun, 26 Jul 2026 18:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/26/754553577_1389064869810739_6770404829572664207_n.jpg",
-      "snippet": "Any decision on the former president’s foreign travel for medical treatment falls under the home ministry's jurisdiction, says the minister."
-    },
-    {
-      "title": "Investment in agri research essential to ensure food security- Mirza Fakhrul",
-      "link": "https://www.tbsnews.net/bangladesh/investment-agri-research-essential-ensure-food-security-mirza-fakhrul-1498606",
-      "pubDate": "Sun, 26 Jul 2026 18:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/26/mirza_fakhrul_img_pid_1.jpg",
-      "snippet": "\"The country's agriculture sector has enormous potentials. If young people come forward as entrepreneurs, they can generate employment while making a significant contribution to the national economy,\" he said."
-    },
-    {
-      "title": "Gas crisis deepens as LNG terminal outage disrupts supply, cripples household cooking",
-      "link": "https://www.tbsnews.net/bangladesh/gas-crisis-deepens-lng-terminal-outage-disrupts-supply-cripples-household-cooking-1498596",
-      "pubDate": "Sun, 26 Jul 2026 18:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/26/gas_crisis.jpg",
-      "snippet": "Dhaka kitchens fall silent as gas shortages deepen after terminal fire."
-    },
-    {
-      "title": "Health minister suspends 2 doctors during surprise Satkhira hospital inspections",
-      "link": "https://www.tbsnews.net/bangladesh/health-minister-suspends-2-doctors-during-surprise-satkhira-hospital-inspections-1498601",
-      "pubDate": "Sun, 26 Jul 2026 18:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/26/sardar_shakhawat.png",
-      "snippet": "The minister also assured employment for a visually impaired job seeker."
     },
     {
       "title": "27 July 2024: The untold stories of doctors in Dhaka",
@@ -287,17 +298,6 @@
       "snippet": "The former president had been associated with Global Islami Bank and Islami Bank, and any investigation by the central bank would focus on the institutions concerned, says Arief Hossain Khan."
     },
     {
-      "title": "BSEC extends deadline for appointing female independent directors until 31 Dec",
-      "link": "https://www.tbsnews.net/economy/stocks/bsec-extends-deadline-appointing-female-independent-directors-until-31-dec-1498456",
-      "pubDate": "Sun, 26 Jul 2026 16:25:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/24/bsec_1.jpg",
-      "snippet": "Under a previous BSEC directive, listed companies were required to appoint at least one female independent director by 31 December 2025."
-    },
-    {
       "title": "4 more suspected measles deaths reported in Bangladesh; toll rises to 820",
       "link": "https://www.tbsnews.net/bangladesh/health/4-more-suspected-measles-deaths-reported-bangladesh-toll-rises-820-1498391",
       "pubDate": "Sun, 26 Jul 2026 15:25:00 +0600",
@@ -318,6 +318,17 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/26/image_0.png",
       "snippet": "Friday, on 24 July 2026, showed signs of stabilising after its initial correction. The stock opened the session at $116.00, reached an intra¬day high of $117.00, and tested its bottom at $111.40, before finally settling at a closing price of $115.07...."
+    },
+    {
+      "title": "Microplastics detected in 76% of toothpaste samples sold in Bangladesh: Study",
+      "link": "https://www.tbsnews.net/bangladesh/health/microplastics-detected-76-toothpaste-samples-sold-bangladesh-study-1498326",
+      "pubDate": "Sun, 26 Jul 2026 14:45:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/10/23/toothpaste.jpg",
+      "snippet": "A study found microplastics in more than three-quarters of toothpaste samples sold in Bangladesh, prompting fresh scrutiny of everyday consumer products."
     },
     {
       "title": "After every historic uprising: Why do our dreams fade? ",
@@ -791,29 +802,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/fdi-bangladesh.png",
       "snippet": "PM invites global investors to partner in Bangladesh’s economic transformation."
-    },
-    {
-      "title": "PRI proposes inclusive system to unify digital payments, cut remittance costs",
-      "link": "https://www.tbsnews.net/economy/pri-proposes-inclusive-system-unify-digital-payments-cut-remittance-costs-1496306",
-      "pubDate": "Thu, 23 Jul 2026 22:10:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/pri.jpg",
-      "snippet": "According to the study, the system would be built on the open-source Mojaloop platform to enable instant, low-cost and interoperable transactions across banks, mobile financial service providers and other financial institutions."
-    },
-    {
-      "title": "Bangladesh to host first national semiconductor summit as deep-tech ambitions gather pace",
-      "link": "https://www.tbsnews.net/tech/bangladesh-host-first-national-semiconductor-summit-deep-tech-ambitions-gather-pace-1496281",
-      "pubDate": "Thu, 23 Jul 2026 22:00:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/semiconductor.jpg",
-      "snippet": "PM Tarique Rahman is expected to inaugurate two-day summit on 25 July"
     }
   ],
-  "updatedAt": "2026-07-26T15:42:26.172Z"
+  "updatedAt": "2026-07-26T17:00:50.249Z"
 }
