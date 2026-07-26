@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Chinese economic zone to break ground in Ctg tomorrow",
+      "link": "https://www.tbsnews.net/economy/industry/chinese-economic-zone-break-ground-ctg-tomorrow-1497946",
+      "pubDate": "Sun, 26 Jul 2026 07:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/09/08/china_banglades_0.jpg",
+      "snippet": "The zone is expected to boost international trade and foreign investment in a wide range of sectors"
+    },
+    {
       "title": "Registration called for HSC examinees absent due to adverse weather",
       "link": "https://www.tbsnews.net/bangladesh/education/registration-called-hsc-examinees-absent-due-adverse-weather-1497941",
       "pubDate": "Sun, 26 Jul 2026 01:10:00 +0600",
@@ -100,17 +111,6 @@
       "snippet": "The BNP chairman tells leaders to complete pending organisational work and ensure unity over candidates ahead of local government elections."
     },
     {
-      "title": "Caab rejects irregularity allegations over 3rd terminal project, state minister vows probe",
-      "link": "https://www.tbsnews.net/economy/aviation/caab-rejects-3rd-terminal-irregularity-claims-state-minister-vows-corruption-probe",
-      "pubDate": "Sat, 25 Jul 2026 21:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/12/p1_third_terminal_rkd_0048.jpg",
-      "snippet": "The aviation regulator said all spending followed approved procedures as the government prepares to launch commercial operations by December 2026."
-    },
-    {
       "title": "Umbrella bomb planted during Rath Jatra would have exploded if opened: DMP",
       "link": "https://www.tbsnews.net/bangladesh/crime/umbrella-bomb-planted-during-rath-jatra-would-have-exploded-if-opened-dmp-1497846",
       "pubDate": "Sat, 25 Jul 2026 21:50:00 +0600",
@@ -120,6 +120,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/bomb_like_object.jpg",
       "snippet": "Ansar personnel assigned to metro rail security spotted the umbrella around 6pm after noticing a blinking red light and hearing sounds coming from inside it."
+    },
+    {
+      "title": "Caab rejects irregularity allegations over 3rd terminal project, state minister vows probe",
+      "link": "https://www.tbsnews.net/economy/aviation/caab-rejects-3rd-terminal-irregularity-claims-state-minister-vows-corruption-probe",
+      "pubDate": "Sat, 25 Jul 2026 21:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/12/p1_third_terminal_rkd_0048.jpg",
+      "snippet": "The aviation regulator said all spending followed approved procedures as the government prepares to launch commercial operations by December 2026."
     },
     {
       "title": "Lawyer stabbed to death in Bagerhat",
@@ -274,17 +285,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/14/dengue.jpg",
       "snippet": "Meanwhile, 439 new patients were admitted to hospitals during the same period."
-    },
-    {
-      "title": "Tea workers block highway demanding Tk500 daily wage",
-      "link": "https://www.tbsnews.net/bangladesh/tea-workers-block-highway-demanding-tk500-daily-wage-1497646",
-      "pubDate": "Sat, 25 Jul 2026 18:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/25/tea_workers_protest.jpg",
-      "snippet": "During the program, workers observed a two-hour work stoppage and staged a blockade on the Highway."
     },
     {
       "title": "FY27 budget gets healthcare right, now comes the hard part",
@@ -780,18 +780,7 @@
       "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/google.jpg",
       "snippet": "“Our AI investments are redefining what’s possible across every part of our business,” Alphabet CEO Sundar Pichai said in a statement."
-    },
-    {
-      "title": "Pubali Bank to buy troubled Bengal Group's 26-storey Swissôtel building for Tk800cr",
-      "link": "https://www.tbsnews.net/economy/banking/pubali-bank-buy-troubled-bengal-groups-26-storey-swissotel-building-tk800cr-1495481",
-      "pubDate": "Thu, 23 Jul 2026 09:25:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/swissotel_dhaka.png",
-      "snippet": "Lender plans to relocate its head office; Bengal Group expects sale to ease its financial strain."
     }
   ],
-  "updatedAt": "2026-07-26T00:04:09.789Z"
+  "updatedAt": "2026-07-26T04:05:59.079Z"
 }
