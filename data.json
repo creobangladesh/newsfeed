@@ -1,6 +1,94 @@
 {
   "news": [
     {
+      "title": "Presidential election: EC to seek Speaker’s appointment for schedule announcement",
+      "link": "https://www.tbsnews.net/bangladesh/presidential-election-ec-seek-speakers-appointment-schedule-announcement-1498631",
+      "pubDate": "Sun, 26 Jul 2026 18:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/election_commission_img.jpg",
+      "snippet": "Now Barrister Kayser Kamal is serving as the acting Speaker."
+    },
+    {
+      "title": "The quiet crisis of the missing signature: Why documentation is microfinance's true bedrock",
+      "link": "https://www.tbsnews.net/thoughts/quiet-crisis-missing-signature-why-documentation-microfinances-true-bedrock-1498626",
+      "pubDate": "Sun, 26 Jul 2026 18:25:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/20/digital_banking_cover_copy.png",
+      "snippet": "As Bangladesh's microfinance sector embraces digital transformation, stronger documentation standards are essential for managing legal, operational and regulatory risks."
+    },
+    {
+      "title": "Govt checking past corruption allegations against ex-president Shahabuddin: Law minister",
+      "link": "https://www.tbsnews.net/bangladesh/govt-checking-past-corruption-allegations-against-ex-president-shahabuddin-law-minister",
+      "pubDate": "Sun, 26 Jul 2026 18:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/26/754553577_1389064869810739_6770404829572664207_n.jpg",
+      "snippet": "Any decision on the former president’s foreign travel for medical treatment falls under the home ministry's jurisdiction, says the minister."
+    },
+    {
+      "title": "Investment in agri research essential to ensure food security- Mirza Fakhrul",
+      "link": "https://www.tbsnews.net/bangladesh/investment-agri-research-essential-ensure-food-security-mirza-fakhrul-1498606",
+      "pubDate": "Sun, 26 Jul 2026 18:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/26/mirza_fakhrul_img_pid_1.jpg",
+      "snippet": "\"The country's agriculture sector has enormous potentials. If young people come forward as entrepreneurs, they can generate employment while making a significant contribution to the national economy,\" he said."
+    },
+    {
+      "title": "Gas crisis deepens as LNG terminal outage disrupts supply, cripples household cooking",
+      "link": "https://www.tbsnews.net/bangladesh/gas-crisis-deepens-lng-terminal-outage-disrupts-supply-cripples-household-cooking-1498596",
+      "pubDate": "Sun, 26 Jul 2026 18:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/26/gas_crisis.jpg",
+      "snippet": "Dhaka kitchens fall silent as gas shortages deepen after terminal fire."
+    },
+    {
+      "title": "Health minister suspends 2 doctors during surprise Satkhira hospital inspections",
+      "link": "https://www.tbsnews.net/bangladesh/health-minister-suspends-2-doctors-during-surprise-satkhira-hospital-inspections-1498601",
+      "pubDate": "Sun, 26 Jul 2026 18:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/26/sardar_shakhawat.png",
+      "snippet": "The minister also assured employment for a visually impaired job seeker."
+    },
+    {
+      "title": "27 July 2024: The untold stories of doctors in Dhaka",
+      "link": "https://www.tbsnews.net/features/panorama/27-july-2024-untold-stories-doctors-dhaka-1498591",
+      "pubDate": "Sun, 26 Jul 2026 18:05:00 +0600",
+      "category": "Analysis",
+      "color": "#5d4037",
+      "bg": "#efebe9",
+      "icon": "🔍",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/26/this.jpg",
+      "snippet": "As thousands of injured protesters arrived at Dhaka’s hospitals during the July uprising, doctors faced a surge of gunshot wounds, emergency surgeries and pressure over the treatment and documentation of patients"
+    },
+    {
+      "title": "Man remanded for 3 days in case over murder of 7-month-old daughter",
+      "link": "https://www.tbsnews.net/bangladesh/court/man-remanded-3-days-case-over-murder-7-month-old-daughter-1498571",
+      "pubDate": "Sun, 26 Jul 2026 17:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/01/06/cmm_court_0.jpg",
+      "snippet": "The accused was sent on a three-day remand in a case filed after the infant died from injuries allegedly inflicted by her father during a family dispute in Turag."
+    },
+    {
       "title": "Govt sets $63.4b export target for FY27, eyes 15% growth",
       "link": "https://www.tbsnews.net/economy/govt-sets-634bn-export-target-fy27-eyes-15pc-growth-1498511",
       "pubDate": "Sun, 26 Jul 2026 17:05:00 +0600",
@@ -9,7 +97,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/13/ctg_port_4.jpg",
-      "snippet": "Commerce Minister Khandakar Abdul Muktadir says Bangladesh also plans to conclude trade negotiations with four to five more countries by December."
+      "snippet": "Around 30% of the country's industrial capacity remains unused because of the ongoing energy crisis, Commerce Minister Khandaker Abdul Muktadir says."
     },
     {
       "title": "Govt’s top priority is to turn every school into a fully functional educational institution: Bobby",
@@ -30,11 +118,11 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/07/9077771.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/26/752550936_2094443674764103_1482195900394917700_n.jpg",
       "snippet": "The victim had been named the prime accused in a murder case filed hours earlier over the death of a teenage boy allegedly assaulted earlier this week."
     },
     {
-      "title": "Court rejects ex-Somoy TV MD Zobayer’s fresh bail plea in fraud case",
+      "title": "Court rejects ex-Somoy TV MD Zobayer's fresh bail plea in fraud case",
       "link": "https://www.tbsnews.net/bangladesh/court/court-rejects-ex-somoy-tv-md-zobayers-fresh-bail-plea-fraud-case-1498521",
       "pubDate": "Sun, 26 Jul 2026 16:45:00 +0600",
       "category": "Bangladesh",
@@ -177,50 +265,6 @@
       "snippet": "Friday, on 24 July 2026, showed signs of stabilising after its initial correction. The stock opened the session at $116.00, reached an intra¬day high of $117.00, and tested its bottom at $111.40, before finally settling at a closing price of $115.07...."
     },
     {
-      "title": "BGB stops 4 Indian citizens from illegally crossing through Cumilla border",
-      "link": "https://www.tbsnews.net/bangladesh/bgb-stops-4-indian-citizens-illegally-crossing-through-cumilla-border-1498341",
-      "pubDate": "Sun, 26 Jul 2026 15:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/06/bgb.jpg",
-      "snippet": "According to a press release, the incident occurred near the zero line along the Bangladesh-India border around 10:30am."
-    },
-    {
-      "title": "Ex-president Shahabuddin leaves Bangabhaban",
-      "link": "https://www.tbsnews.net/bangladesh/ex-president-shahabuddin-leaves-bangabhaban-1498311",
-      "pubDate": "Sun, 26 Jul 2026 14:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/26/chupppu.png",
-      "snippet": "He will now move to his private residence in Gulshan."
-    },
-    {
-      "title": "Microplastics found in over 76% of toothpaste sold in Bangladesh: Study",
-      "link": "https://www.tbsnews.net/bangladesh/microplastics-found-over-76-toothpaste-sold-bangladesh-study-1498326",
-      "pubDate": "Sun, 26 Jul 2026 14:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/10/23/toothpaste.jpg",
-      "snippet": "Mediplus was the most commonly used toothpaste brand among respondents, followed by Closeup and Pepsodent, and Colgate."
-    },
-    {
-      "title": "Govt sees no legal basis to arrest ex-president Shahabuddin: Home minister ",
-      "link": "https://www.tbsnews.net/bangladesh/govt-sees-no-legal-basis-arrest-ex-president-shahabuddin-home-minister-1498251",
-      "pubDate": "Sun, 26 Jul 2026 14:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/23/23-02-26-home_minister-5_1.jpg",
-      "snippet": "The minister said Shahabuddin enjoyed constitutional immunity and special privileges while serving as president."
-    },
-    {
       "title": "After every historic uprising: Why do our dreams fade? ",
       "link": "https://www.tbsnews.net/thoughts/after-every-historic-uprising-why-do-our-dreams-fade-1498256",
       "pubDate": "Sun, 26 Jul 2026 14:00:00 +0600",
@@ -230,28 +274,6 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/02/12/july-revolution-1.png",
       "snippet": "Two years after the July Uprising, many citizens continue to ask whether the aspirations that inspired such extraordinary sacrifice have truly been realised. Yet this question is not only about July. It has recurred throughout Bangladesh's history."
-    },
-    {
-      "title": "Palak seeks half-hour family visits, special meetings with lawyers",
-      "link": "https://www.tbsnews.net/bangladesh/court/palak-seeks-half-hour-family-visits-special-meetings-lawyers-1498231",
-      "pubDate": "Sun, 26 Jul 2026 13:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/16/palak.png",
-      "snippet": "Zunaid Ahmed Palak says he currently faces 98 cases and has spent 89 days on remand"
-    },
-    {
-      "title": "Hadi murder: HC refuses bail to key accused Faisal's wife",
-      "link": "https://www.tbsnews.net/bangladesh/court/hadi-murder-hc-refuses-bail-key-accused-faisals-wife-1498201",
-      "pubDate": "Sun, 26 Jul 2026 13:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/26/faisal_wife_hadi-murder.png",
-      "snippet": "A High Court bench comprising Justice Md Khairul Alam and Justice AKM Rabiul Hasan passed the order, Assistant Attorney General Hosne Mobarak confirmed."
     },
     {
       "title": "Chinese AI models gain popularity in US with lower costs and strong performance",
@@ -758,29 +780,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/14/dengue.jpg",
       "snippet": "450 new patients were admitted to hospitals across the country"
-    },
-    {
-      "title": "Trump’s UN wager and a global peace body losing its grip",
-      "link": "https://www.tbsnews.net/features/big-picture/trumps-un-wager-and-global-peace-body-losing-its-grip-1496046",
-      "pubDate": "Thu, 23 Jul 2026 18:25:00 +0600",
-      "category": "Analysis",
-      "color": "#5d4037",
-      "bg": "#efebe9",
-      "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/169_2.png",
-      "snippet": "Gianni Infantino’s sudden emergence in the race to succeed António Guterres is more than a political curiosity. It is a sign of an international system in which influence, access and personal loyalty increasingly compete with diplomatic experience an..."
-    },
-    {
-      "title": "Cenbank tightens EDF eligibility for overdue borrowers",
-      "link": "https://www.tbsnews.net/economy/cenbank-issues-master-circular-edf-tightens-eligibility-overdue-borrowers-1495966",
-      "pubDate": "Thu, 23 Jul 2026 18:05:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/28/bangladesh_bank.jpg",
-      "snippet": "Manufacturer-exporters who settled EDF liabilities through funded facilities will remain ineligible for fresh loans until their overdue export proceeds are repatriated or exempted by the Discount Committee."
     }
   ],
-  "updatedAt": "2026-07-26T11:19:14.155Z"
+  "updatedAt": "2026-07-26T12:37:40.722Z"
 }
