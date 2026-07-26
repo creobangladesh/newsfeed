@@ -1,6 +1,105 @@
 {
   "news": [
     {
+      "title": "Govt sets $63.4b export target for FY27, eyes 15% growth",
+      "link": "https://www.tbsnews.net/economy/govt-sets-634bn-export-target-fy27-eyes-15pc-growth-1498511",
+      "pubDate": "Sun, 26 Jul 2026 17:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/13/ctg_port_4.jpg",
+      "snippet": "Commerce Minister Khandakar Abdul Muktadir says Bangladesh also plans to conclude trade negotiations with four to five more countries by December."
+    },
+    {
+      "title": "Govt’s top priority is to turn every school into a fully functional educational institution: Bobby",
+      "link": "https://www.tbsnews.net/bangladesh/education/govts-top-priority-turn-every-school-fully-functional-educational-institution",
+      "pubDate": "Sun, 26 Jul 2026 17:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/20/bobby_hajjaj.jpg",
+      "snippet": "Addressing field-level education officials, he provided guidance on the future vision for primary education, administrative reforms, effective monitoring and improving learning standards."
+    },
+    {
+      "title": "Murder accused beaten to death by mob in Sitakunda, house set ablaze",
+      "link": "https://www.tbsnews.net/bangladesh/crime/murder-accused-beaten-death-mob-sitakunda-house-set-ablaze-1498496",
+      "pubDate": "Sun, 26 Jul 2026 16:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/07/9077771.jpg",
+      "snippet": "The victim had been named the prime accused in a murder case filed hours earlier over the death of a teenage boy allegedly assaulted earlier this week."
+    },
+    {
+      "title": "Court rejects ex-Somoy TV MD Zobayer’s fresh bail plea in fraud case",
+      "link": "https://www.tbsnews.net/bangladesh/court/court-rejects-ex-somoy-tv-md-zobayers-fresh-bail-plea-fraud-case-1498521",
+      "pubDate": "Sun, 26 Jul 2026 16:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/26/photo-collage.png.png",
+      "snippet": "Zobayer has been in jail since surrendering before a Dhaka court on 18 June after his initial bail plea was rejected."
+    },
+    {
+      "title": "Bangladesh Bank won’t probe Shahabuddin individually over graft allegations: Spokesperson",
+      "link": "https://www.tbsnews.net/bangladesh/bb-wont-probe-shahabuddin-individually-over-graft-allegations-spokesperson-1498471",
+      "pubDate": "Sun, 26 Jul 2026 16:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/06/22/bangladesh_bank_1.jpg",
+      "snippet": "The former president had been associated with Global Islami Bank and Islami Bank, and any investigation by the central bank would focus on the institutions concerned, says Arief Hossain Khan."
+    },
+    {
+      "title": "BSEC extends deadline for appointing female independent directors until 31 Dec",
+      "link": "https://www.tbsnews.net/economy/stocks/bsec-extends-deadline-appointing-female-independent-directors-until-31-dec-1498456",
+      "pubDate": "Sun, 26 Jul 2026 16:25:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/24/bsec_1.jpg",
+      "snippet": "Under a previous BSEC directive, listed companies were required to appoint at least one female independent director by 31 December 2025."
+    },
+    {
+      "title": "Shama Obaed praises IFRC's humanitarian support at farewell meeting with outgoing delegation head",
+      "link": "https://www.tbsnews.net/bangladesh/shama-obaed-praises-ifrcs-humanitarian-support-farewell-meeting-outgoing-delegation-head",
+      "pubDate": "Sun, 26 Jul 2026 16:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/26/shama_ifrc.jpg",
+      "snippet": "The state minister appreciated the organisation's continued support during floods, cyclones and other climate-induced disasters."
+    },
+    {
+      "title": "Ex-presidents Abdul Hamid, Shahabuddin named in ICT complaints over alleged crimes against humanity",
+      "link": "https://www.tbsnews.net/bangladesh/ex-presidents-abdul-hamid-shahabuddin-named-ict-complaints-over-alleged-crimes-against",
+      "pubDate": "Sun, 26 Jul 2026 15:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/26/tbs_1.jpg",
+      "snippet": "The Bangladesh Azad Party and the Rashtra Sanglap Forum submitted separate complaints today (26 July)."
+    },
+    {
+      "title": "Maritime ports asked to keep local cautionary signal No 3",
+      "link": "https://www.tbsnews.net/bangladesh/maritime-ports-asked-keep-local-cautionary-signal-no-3-1498406",
+      "pubDate": "Sun, 26 Jul 2026 15:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/maritime_ports_cautionary_signal-converted-from-webp.jpeg",
+      "snippet": "Under its influence, squally weather may affect the Maritime Ports, North Bay and adjoining Coastal areas of Bangladesh."
+    },
+    {
       "title": "4 more suspected measles deaths reported in Bangladesh; toll rises to 820",
       "link": "https://www.tbsnews.net/bangladesh/health/4-more-suspected-measles-deaths-reported-bangladesh-toll-rises-820-1498391",
       "pubDate": "Sun, 26 Jul 2026 15:25:00 +0600",
@@ -10,6 +109,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/11/measles_tbs.jpeg",
       "snippet": "A total of 990 new suspected measles cases were reported during the period, bringing the cumulative number of suspected cases nationwide to 123,753."
+    },
+    {
+      "title": "PM to visit more neighbouring countries under inclusive foreign policy: Titumir",
+      "link": "https://www.tbsnews.net/foreign-policy/more-visits-neighbouring-countries-after-china-malaysia-trips-under-inclusive-foreign",
+      "pubDate": "Sun, 26 Jul 2026 15:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/24/titumir.png",
+      "snippet": "Bangladesh’s relationship with China has entered a new phase of deeper strategic cooperation following PM’s June 2026 visit to Beijing, the adviser said."
     },
     {
       "title": "PM assures support for tea industry, orders panel to resolve sector's problems",
@@ -56,6 +166,17 @@
       "snippet": "Protesters, however, allowed ambulances, emergency vehicles and students appearing in the ongoing HSC and equivalent examinations to pass."
     },
     {
+      "title": "Space, hype, and reality: Is the SpaceX crash a bargain or a trap?",
+      "link": "https://www.tbsnews.net/thoughts/space-hype-and-reality-spacex-crash-bargain-or-trap-1498376",
+      "pubDate": "Sun, 26 Jul 2026 15:05:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/26/image_0.png",
+      "snippet": "Friday, on 24 July 2026, showed signs of stabilising after its initial correction. The stock opened the session at $116.00, reached an intra¬day high of $117.00, and tested its bottom at $111.40, before finally settling at a closing price of $115.07...."
+    },
+    {
       "title": "BGB stops 4 Indian citizens from illegally crossing through Cumilla border",
       "link": "https://www.tbsnews.net/bangladesh/bgb-stops-4-indian-citizens-illegally-crossing-through-cumilla-border-1498341",
       "pubDate": "Sun, 26 Jul 2026 15:00:00 +0600",
@@ -67,17 +188,6 @@
       "snippet": "According to a press release, the incident occurred near the zero line along the Bangladesh-India border around 10:30am."
     },
     {
-      "title": "Microplastics found in over 76% of toothpaste sold in Bangladesh: Study",
-      "link": "https://www.tbsnews.net/bangladesh/microplastics-found-over-76-toothpaste-sold-bangladesh-study-1498326",
-      "pubDate": "Sun, 26 Jul 2026 14:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/10/23/toothpaste.jpg",
-      "snippet": "Mediplus was the most commonly used toothpaste brand among respondents, followed by Closeup and Pepsodent, and Colgate."
-    },
-    {
       "title": "Ex-president Shahabuddin leaves Bangabhaban",
       "link": "https://www.tbsnews.net/bangladesh/ex-president-shahabuddin-leaves-bangabhaban-1498311",
       "pubDate": "Sun, 26 Jul 2026 14:45:00 +0600",
@@ -87,6 +197,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/26/chupppu.png",
       "snippet": "He will now move to his private residence in Gulshan."
+    },
+    {
+      "title": "Microplastics found in over 76% of toothpaste sold in Bangladesh: Study",
+      "link": "https://www.tbsnews.net/bangladesh/microplastics-found-over-76-toothpaste-sold-bangladesh-study-1498326",
+      "pubDate": "Sun, 26 Jul 2026 14:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/10/23/toothpaste.jpg",
+      "snippet": "Mediplus was the most commonly used toothpaste brand among respondents, followed by Closeup and Pepsodent, and Colgate."
     },
     {
       "title": "Govt sees no legal basis to arrest ex-president Shahabuddin: Home minister ",
@@ -133,83 +254,6 @@
       "snippet": "A High Court bench comprising Justice Md Khairul Alam and Justice AKM Rabiul Hasan passed the order, Assistant Attorney General Hosne Mobarak confirmed."
     },
     {
-      "title": "Govt to set up 100-bed facility at Hajj Camp for outgoing migrant workers: Minister ",
-      "link": "https://www.tbsnews.net/bangladesh/govt-set-100-bed-facility-hajj-camp-outgoing-migrant-workers-minister-1498196",
-      "pubDate": "Sun, 26 Jul 2026 13:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/26/752229928_1004717155735751_7522589911888591523_n.jpg",
-      "snippet": "He said the new facility will complement the existing 49-bed Wage Earners' Centre operated by the Ministry of Expatriates' Welfare and Overseas Employment."
-    },
-    {
-      "title": "Tribunal accepts charges against Hasina, 10 others in case over Ekramul killing",
-      "link": "https://www.tbsnews.net/bangladesh/charges-filed-against-hasina-10-others-case-over-teknaf-councillor-ekramul-killing",
-      "pubDate": "Sun, 26 Jul 2026 13:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/12/24/photo_courtesy.jpeg",
-      "snippet": "Ekramul, 46, died on the night of 26 May 2018 in an alleged gunfight with the Rapid Action Battalion (RAB) at Noakhaliapara under Teknaf Sadar union along the Cox’s Bazar-Teknaf Marine Drive."
-    },
-    {
-      "title": "HC issues rule over 'excessive, arbitrary' MFS charges",
-      "link": "https://www.tbsnews.net/bangladesh/court/hc-issues-rule-over-excessive-arbitrary-mfs-charges-1498151",
-      "pubDate": "Sun, 26 Jul 2026 12:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/19/high_courtt.png",
-      "snippet": "The court also asked why a Mobile Financial Services Act should not be enacted to regulate MFS service charges, strengthen consumer protection and ensure accountability, with the aim of providing reasonable, fair and affordable charges, particularly ..."
-    },
-    {
-      "title": "PM for merit-based Army promotions free from political considerations",
-      "link": "https://www.tbsnews.net/bangladesh/pm-merit-based-army-promotions-free-political-considerations-1498146",
-      "pubDate": "Sun, 26 Jul 2026 12:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/26/753306638_1528394848466806_6615491900428995162_n.jpg",
-      "snippet": "The Prime Minister thanked the chief and all members of the Bangladesh Army for their continued professionalism and dedicated service to the nation."
-    },
-    {
-      "title": "Charges filed against 19 over killing of Yamin during July Uprising",
-      "link": "https://www.tbsnews.net/bangladesh/court/charges-filed-against-19-over-killing-yamin-during-july-uprising-1498136",
-      "pubDate": "Sun, 26 Jul 2026 12:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/09/international_crimes_tribunal_ict_2_1.jpg",
-      "snippet": "Seven of the accused are currently in jail"
-    },
-    {
-      "title": "Acting President Hafiz Uddin pays tribute to Liberation War martyrs at Savar",
-      "link": "https://www.tbsnews.net/bangladesh/acting-president-hafiz-uddin-pays-tribute-liberation-war-martyrs-savar-1498126",
-      "pubDate": "Sun, 26 Jul 2026 12:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/26/4454162.jpg",
-      "snippet": "The acting President is also scheduled to pay tribute to Shaheed President Ziaur Rahman and former Prime Minister Begum Khaleda Zia at Sher-e-Bangla Nagar in the capital."
-    },
-    {
-      "title": "Rain likely across country in the next 24 hours",
-      "link": "https://www.tbsnews.net/bangladesh/rain-likely-across-country-next-24-hours-1498116",
-      "pubDate": "Sun, 26 Jul 2026 12:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/rain.jpg",
-      "snippet": "The highest temperature on Saturday was 35.8 degrees Celsius in Tetulia, while today's minimum temperature is 24.2 degrees Celsius in Rangamati."
-    },
-    {
       "title": "Chinese AI models gain popularity in US with lower costs and strong performance",
       "link": "https://www.tbsnews.net/tech/chinese-ai-models-gain-popularity-us-lower-costs-and-strong-performance-1498076",
       "pubDate": "Sun, 26 Jul 2026 11:20:00 +0600",
@@ -219,28 +263,6 @@
       "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/26/9462660.jpg",
       "snippet": "The rise of Chinese AI systems has raised concerns among some US technology companies, particularly over intellectual property and access to advanced technology."
-    },
-    {
-      "title": "Bangladesh, Maldives pledge stronger ties, stress need to reinvigorate Saarc",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-maldives-pledge-stronger-ties-stress-need-reinvigorate-saarc-1498066",
-      "pubDate": "Sun, 26 Jul 2026 11:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/26/bangladesh_maldives.jpg",
-      "snippet": "The foreign minister conveyed the greetings of Prime Minister Tarique Rahman and thanked President Muizzu for attending the installation ceremony of Bangladesh's newly elected government in February."
-    },
-    {
-      "title": "Floating guava market breathes new life into Pirojpur's rural economy",
-      "link": "https://www.tbsnews.net/bangladesh/floating-guava-market-breathes-new-life-pirojpurs-rural-economy-1498051",
-      "pubDate": "Sun, 26 Jul 2026 11:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/26/peyara.jpg",
-      "snippet": "The tourism boom has also transformed the fortunes of local farmers."
     },
     {
       "title": "Economists question US trade deal gains after new tariff",
@@ -758,29 +780,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/28/bangladesh_bank.jpg",
       "snippet": "Manufacturer-exporters who settled EDF liabilities through funded facilities will remain ineligible for fresh loans until their overdue export proceeds are repatriated or exempted by the Discount Committee."
-    },
-    {
-      "title": "UGC drafts 5-year roadmap to transform higher education",
-      "link": "https://www.tbsnews.net/bangladesh/education/ugc-unveils-draft-five-year-higher-education-reform-plan-1495856",
-      "pubDate": "Thu, 23 Jul 2026 16:40:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/ugc.jpg",
-      "snippet": "The draft strategy for 2026-2030 outlines priorities including improving graduate employability, strengthening university-industry links, advancing digital transformation and attracting international students."
-    },
-    {
-      "title": "Measles: Death toll rises to 805 as 2 more children die in 24hrs",
-      "link": "https://www.tbsnews.net/bangladesh/death-toll-rises-805-2-more-children-die-24hrs-1495776",
-      "pubDate": "Thu, 23 Jul 2026 15:55:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/measles_outbreak.jpg",
-      "snippet": "The number of suspected measles deaths has risen to 710, while laboratory-confirmed deaths now stand at 95."
     }
   ],
-  "updatedAt": "2026-07-26T09:33:28.409Z"
+  "updatedAt": "2026-07-26T11:19:14.155Z"
 }
