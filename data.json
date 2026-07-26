@@ -1,7 +1,95 @@
 {
   "news": [
     {
-      "title": "Presidential election: EC to seek Speaker’s appointment for schedule announcement",
+      "title": "Shama seeks UAE support to address expatriates' ongoing challenges",
+      "link": "https://www.tbsnews.net/foreign-policy/shama-seeks-uae-support-address-expatriates-ongoing-challenges-1498726",
+      "pubDate": "Sun, 26 Jul 2026 20:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/26/uae_ambassador_to_bangladesh_abdulla_ali_abdulla_alhmoudi_met_with_state_minister_for_foreign_affairs_shama_obaed_islam_0.jpg",
+      "snippet": "She also conveyed Bangladesh's readiness to host the second Bangladesh-UAE Joint Consular Committee Meeting in Dhaka at a mutually convenient date in 2026."
+    },
+    {
+      "title": "HC questions govt's inaction over noise pollution, violence during sports celebrations",
+      "link": "https://www.tbsnews.net/bangladesh/court/hc-questions-govts-inaction-over-noise-pollution-violence-during-sports",
+      "pubDate": "Sun, 26 Jul 2026 20:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/19/high_courtt.png",
+      "snippet": "The court orders to respond to the rule within four weeks."
+    },
+    {
+      "title": "Govt steps up efforts to attract required investment for $1 trillion economy: Shama Obaed",
+      "link": "https://www.tbsnews.net/bangladesh/govt-steps-efforts-attract-required-investment-1-trillion-economy-shama-obaed-1498721",
+      "pubDate": "Sun, 26 Jul 2026 20:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/26/shama_obaeid.jpg",
+      "snippet": "Bangladesh eyes global capital to fuel trillion-dollar economic ambitions by 2034."
+    },
+    {
+      "title": "The story behind curious case against ex-president Shahabuddin",
+      "link": "https://www.tbsnews.net/bangladesh/court/story-behind-curious-case-against-ex-president-shahabuddin-1498711",
+      "pubDate": "Sun, 26 Jul 2026 19:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/04/08/mohammad_shahabuddin.jpg",
+      "snippet": "Despite constitutional immunity for a sitting president, a corruption case was filed against Mohammed Shahabuddin while he was in office, raising questions over how the court accepted the case."
+    },
+    {
+      "title": "Three die of dengue, 458 more hospitalised in 24hrs",
+      "link": "https://www.tbsnews.net/bangladesh/three-die-dengue-458-more-hospitalised-24hrs-1498666",
+      "pubDate": "Sun, 26 Jul 2026 19:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/25/05_news_copy.png",
+      "snippet": "According to the DGHS, the latest fatalities raised this year's dengue death toll to 43, while the total number of confirmed cases climbed to 13,098."
+    },
+    {
+      "title": "4 arrested from Ctg over stabbing of police SI in Mohammadpur",
+      "link": "https://www.tbsnews.net/bangladesh/crime/4-arrested-ctg-over-stabbing-police-si-mohammadpur-1498676",
+      "pubDate": "Sun, 26 Jul 2026 19:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/07/20/woman_arrested.jpg",
+      "snippet": "Investigators believe the incident stemmed from previous enmity rather than a mugging."
+    },
+    {
+      "title": "Actor Dipjol sued over intimidation, defamation allegations",
+      "link": "https://www.tbsnews.net/bangladesh/court/actor-dipjol-sued-over-intimidation-defamation-allegations-1498661",
+      "pubDate": "Sun, 26 Jul 2026 18:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/13/dipjol.png",
+      "snippet": "Dhaka Metropolitan Magistrate Hasan Shahadat directed the DB to investigate the allegations and submit its report by 24 September."
+    },
+    {
+      "title": "Woman 'tricked, tortured' over theft suspicion in Shariatpur; five sued",
+      "link": "https://www.tbsnews.net/bangladesh/crime/woman-tricked-tortured-over-theft-suspicion-shariatpur-five-sued-1498671",
+      "pubDate": "Sun, 26 Jul 2026 18:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/26/shariatpur.png",
+      "snippet": "Police says the victim was brutally beaten in an attempt to force a confession over a suspected theft."
+    },
+    {
+      "title": "Presidential election: EC to seek acting speaker's appointment for schedule announcement",
       "link": "https://www.tbsnews.net/bangladesh/presidential-election-ec-seek-speakers-appointment-schedule-announcement-1498631",
       "pubDate": "Sun, 26 Jul 2026 18:30:00 +0600",
       "category": "Bangladesh",
@@ -9,7 +97,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/election_commission_img.jpg",
-      "snippet": "Now Barrister Kayser Kamal is serving as the acting Speaker."
+      "snippet": "Now Barrister Kayser Kamal is serving as the acting speaker."
     },
     {
       "title": "The quiet crisis of the missing signature: Why documentation is microfinance's true bedrock",
@@ -166,92 +254,15 @@
       "snippet": "The state minister appreciated the organisation's continued support during floods, cyclones and other climate-induced disasters."
     },
     {
-      "title": "Ex-presidents Abdul Hamid, Shahabuddin named in ICT complaints over alleged crimes against humanity",
-      "link": "https://www.tbsnews.net/bangladesh/ex-presidents-abdul-hamid-shahabuddin-named-ict-complaints-over-alleged-crimes-against",
-      "pubDate": "Sun, 26 Jul 2026 15:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/26/tbs_1.jpg",
-      "snippet": "The Bangladesh Azad Party and the Rashtra Sanglap Forum submitted separate complaints today (26 July)."
-    },
-    {
-      "title": "Maritime ports asked to keep local cautionary signal No 3",
-      "link": "https://www.tbsnews.net/bangladesh/maritime-ports-asked-keep-local-cautionary-signal-no-3-1498406",
-      "pubDate": "Sun, 26 Jul 2026 15:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/maritime_ports_cautionary_signal-converted-from-webp.jpeg",
-      "snippet": "Under its influence, squally weather may affect the Maritime Ports, North Bay and adjoining Coastal areas of Bangladesh."
-    },
-    {
       "title": "4 more suspected measles deaths reported in Bangladesh; toll rises to 820",
       "link": "https://www.tbsnews.net/bangladesh/health/4-more-suspected-measles-deaths-reported-bangladesh-toll-rises-820-1498391",
       "pubDate": "Sun, 26 Jul 2026 15:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/11/measles_tbs.jpeg",
       "snippet": "A total of 990 new suspected measles cases were reported during the period, bringing the cumulative number of suspected cases nationwide to 123,753."
-    },
-    {
-      "title": "PM to visit more neighbouring countries under inclusive foreign policy: Titumir",
-      "link": "https://www.tbsnews.net/foreign-policy/more-visits-neighbouring-countries-after-china-malaysia-trips-under-inclusive-foreign",
-      "pubDate": "Sun, 26 Jul 2026 15:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/24/titumir.png",
-      "snippet": "Bangladesh’s relationship with China has entered a new phase of deeper strategic cooperation following PM’s June 2026 visit to Beijing, the adviser said."
-    },
-    {
-      "title": "PM assures support for tea industry, orders panel to resolve sector's problems",
-      "link": "https://www.tbsnews.net/bangladesh/pm-assures-support-tea-industry-orders-panel-resolve-sectors-problems-1498371",
-      "pubDate": "Sun, 26 Jul 2026 15:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/pm_tarique.jpg",
-      "snippet": "The assurance came at a meeting on the development of the country's tea industry held at the Prime Minister's Office in the Bangladesh Secretariat, said PM’s Deputy Press Secretary Hasan Shiplu."
-    },
-    {
-      "title": "Students lock Barishal civil surgeon's office, demand his removal",
-      "link": "https://www.tbsnews.net/bangladesh/students-lock-barishal-civil-surgeons-office-demand-his-removal-1498361",
-      "pubDate": "Sun, 26 Jul 2026 15:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/26/753169369_1067506332298598_8189371347642909533_n.jpg",
-      "snippet": "The protest began around 10am in front of the Barishal Civil Surgeon Office, where participants alleged that a controversial and previously punished official had been appointed to the position, which they said was unacceptable."
-    },
-    {
-      "title": "Acting President Hafiz Uddin pays homage at graves of Ziaur Rahman, Khaleda Zia",
-      "link": "https://www.tbsnews.net/bangladesh/acting-president-hafiz-uddin-pays-homage-graves-ziaur-rahman-khaleda-zia-1498346",
-      "pubDate": "Sun, 26 Jul 2026 15:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/26/image-409007-1785052734.jpg",
-      "snippet": "He paid homage by placing wreaths at the graves of Shaheed President Ziaur Rahman and Prime Minister Begum Khaleda Zia at Zia Uddyan here at 12.46pm."
-    },
-    {
-      "title": "48-hour strike begins in Ctg over location of new Fatikchhari North upazila office",
-      "link": "https://www.tbsnews.net/bangladesh/48-hour-strike-begins-ctg-over-location-new-fatikchhari-north-upazila-office-1498356",
-      "pubDate": "Sun, 26 Jul 2026 15:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/26/dantmara.jpg",
-      "snippet": "Protesters, however, allowed ambulances, emergency vehicles and students appearing in the ongoing HSC and equivalent examinations to pass."
     },
     {
       "title": "Space, hype, and reality: Is the SpaceX crash a bargain or a trap?",
@@ -769,18 +780,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/06/28/bida_logo_new.jpg",
       "snippet": "China’s Hengli Group, through its subsidiary Lead Bangladesh Textile Technology Co Ltd, is investing nearly $35 million at the Bangladesh Special Economic Zone (BSEZ) in Araihazar to establish an advanced textile manufacturing facility."
-    },
-    {
-      "title": "Dengue death toll reaches 39 as 1 more patient dies in 24hrs",
-      "link": "https://www.tbsnews.net/bangladesh/health/dengue-death-toll-reaches-39-one-more-patient-dies-24hrs-1496101",
-      "pubDate": "Thu, 23 Jul 2026 20:00:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/14/dengue.jpg",
-      "snippet": "450 new patients were admitted to hospitals across the country"
     }
   ],
-  "updatedAt": "2026-07-26T12:37:40.722Z"
+  "updatedAt": "2026-07-26T14:28:45.714Z"
 }
