@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "4 confess in court over Jubo Dal activist's murder; 5 sent to jail",
+      "link": "https://www.tbsnews.net/bangladesh/court/4-confess-court-over-jubo-dal-activists-murder-5-sent-jail-1499736",
+      "pubDate": "Tue, 28 Jul 2026 02:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/01/21/court_orders.jpg",
+      "snippet": "Earlier, on Saturday (26 July), police arrested the seven accused from a garage near Mina Bazar at the Five-Road intersection in Mirpur-13."
+    },
+    {
+      "title": "Food security must go hand in hand with climate resilience, eco-friendly agriculture: Shama Obaed",
+      "link": "https://www.tbsnews.net/bangladesh/food-security-must-go-hand-hand-climate-resilience-eco-friendly-agriculture-shama-obaed",
+      "pubDate": "Tue, 28 Jul 2026 02:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/28/state_minister_for_foreign_affairs_shama_obaed_islam_held_a_meeting_with_coco_h_ushiyama_resident_representative_and_country_director_of_the_wfp_in_bangladesh_yesterday_27_july._photo_courtesy.jpg",
+      "snippet": "The state minister also urged sustained international support for Rohingya food assistance and sought closer collaboration with the World Food Programme on nutrition, social protection and sustainable agriculture."
+    },
+    {
       "title": "We ousted the dictatorship in July Uprising, now we must rebuild the state: Nahid",
       "link": "https://www.tbsnews.net/bangladesh/politics/we-ousted-dictatorship-july-uprising-now-we-must-rebuild-state-nahid-1499726",
       "pubDate": "Tue, 28 Jul 2026 01:50:00 +0600",
@@ -52,7 +74,7 @@
       "color": "#2e7d32",
       "bg": "#e8f5e9",
       "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/10/12/imf-bd.png",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/01/new-payscale.png",
       "snippet": "National Pay Commission submits reports on 22 January this year recommending salary and allowance increases of 100% to 140%."
     },
     {
@@ -155,17 +177,6 @@
       "snippet": "Bata posted a net profit of Tk12.6 crore in the April-June quarter, reversing a Tk9.64 crore loss in the same period last year."
     },
     {
-      "title": "DSE opens electronic subscription platform for retail investors under new 'Private Investor' category",
-      "link": "https://www.tbsnews.net/economy/stocks/dse-opens-electronic-subscription-platform-retail-investors-under-new-private",
-      "pubDate": "Mon, 27 Jul 2026 22:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/07/dse.jpg",
-      "snippet": "From now on general investors can subscribe to privately offered bonds, open-end mutual funds, ETFs through the platform without any registration fees."
-    },
-    {
       "title": "Three killed in Ramu road crash",
       "link": "https://www.tbsnews.net/bangladesh/three-killed-ramu-road-crash-1499626",
       "pubDate": "Mon, 27 Jul 2026 22:10:00 +0600",
@@ -175,6 +186,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/27/screenshot_273.png",
       "snippet": "Two sisters were among three people killed and two others injured after a covered van collided head-on with an auto-rickshaw in Ramu, Cox's Bazar, this afternoon."
+    },
+    {
+      "title": "DSE opens electronic subscription platform for retail investors under new 'Private Investor' category",
+      "link": "https://www.tbsnews.net/economy/stocks/dse-opens-electronic-subscription-platform-retail-investors-under-new-private",
+      "pubDate": "Mon, 27 Jul 2026 22:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/07/dse.jpg",
+      "snippet": "From now on general investors can subscribe to privately offered bonds, open-end mutual funds, ETFs through the platform without any registration fees."
     },
     {
       "title": "Sylhet teacher files police complaint over online harassment after viral video",
@@ -235,23 +257,12 @@
       "title": "DU female students demand end to hall curfew, seek 24-hour access",
       "link": "https://www.tbsnews.net/bangladesh/education/du-female-students-demand-end-hall-curfew-seek-24-hour-access-1499581",
       "pubDate": "Mon, 27 Jul 2026 21:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/27/female_student_du.jpg",
       "snippet": "A platform of DU female students has submitted a memorandum to the vice-chancellor."
-    },
-    {
-      "title": "Expatriates' welfare minister to leave for Malaysia tonight",
-      "link": "https://www.tbsnews.net/bangladesh/expatriates-welfare-minister-leave-malaysia-tonight-1499566",
-      "pubDate": "Mon, 27 Jul 2026 21:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/17/untitled_design_10.jpg",
-      "snippet": "The visit comes as Bangladesh intensifies efforts to restore access to one of its largest overseas labour markets, which has remained closed since June 2024."
     },
     {
       "title": "Bagerhat family planning officer suspended after minister finds irregularities during hospital visit",
@@ -848,5 +859,5 @@
       "snippet": "A market investigation by The Business Standard found that virtually every cigarette brand is being sold above its printed MRP, because cigarette companies sell to distributors at or virtually at the MRP itself, leaving no margin for retail sellers"
     }
   ],
-  "updatedAt": "2026-07-27T20:04:19.137Z"
+  "updatedAt": "2026-07-27T21:38:43.841Z"
 }
