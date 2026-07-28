@@ -1,6 +1,160 @@
 {
   "news": [
     {
+      "title": "PM urges Japan to recruit more Bangladeshi workers",
+      "link": "https://www.tbsnews.net/bangladesh/pm-urges-japan-recruit-more-bangladeshi-workers-1500266",
+      "pubDate": "Tue, 28 Jul 2026 18:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/28/pm_tarique_japan.png",
+      "snippet": "The Prime Minister called for increased investment by Japanese companies in Bangladesh, saying, \"Bangladesh government would provide all-out support if Japan showed interest in establishing another industrial park similar to the one at Araihazar in N..."
+    },
+    {
+      "title": "Govt approves Teesta University in northern Bangladesh",
+      "link": "https://www.tbsnews.net/bangladesh/education/govt-approves-teesta-university-northern-bangladesh-1500251",
+      "pubDate": "Tue, 28 Jul 2026 18:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/28/teesta_univ.jpg",
+      "snippet": "The UGC says the new university will broaden access to quality higher education, strengthen research and help drive socio-economic development across the northern region."
+    },
+    {
+      "title": "Robi logs 29% profit jump to Tk495cr in H1",
+      "link": "https://www.tbsnews.net/economy/stocks/robi-logs-29-profit-jump-tk495cr-h1-1500271",
+      "pubDate": "Tue, 28 Jul 2026 17:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/05/07/robi_0.png",
+      "snippet": "The company's earnings per share (EPS) for the first half improved to Tk0.95."
+    },
+    {
+      "title": "Dhaka-Kuala Lumpur discuss LNG cooperation: Malaysian PM",
+      "link": "https://www.tbsnews.net/foreign-policy/anwar-tarique-discuss-lng-cooperation-1500231",
+      "pubDate": "Tue, 28 Jul 2026 17:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/22/pm_anwar_ibrahim.png",
+      "snippet": "The Malaysian prime minister says the two leaders discussed energy cooperation, including PETRONAS LNG supply, and potential investments during a telephone conversation."
+    },
+    {
+      "title": "Ex-MP Tanveer Imam shown arrested in July Uprising attempted murder case",
+      "link": "https://www.tbsnews.net/bangladesh/ex-mp-tanveer-imam-shown-arrested-july-uprising-attempted-murder-case-1500211",
+      "pubDate": "Tue, 28 Jul 2026 17:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/28/753627580_1321082766859548_6659817212294875512_n.jpg",
+      "snippet": "Police sought to show the former lawmaker arrested in the case, telling the court it was necessary for a proper investigation."
+    },
+    {
+      "title": "Man arrested after alleged sexual assault of child in Cox's Bazar",
+      "link": "https://www.tbsnews.net/bangladesh/crime/man-arrested-after-alleged-sexual-assault-child-coxs-bazar-1500196",
+      "pubDate": "Tue, 28 Jul 2026 17:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/28/coxsbazar_arrest.jpg",
+      "snippet": "Police arrested the suspect after receiving an emergency 999 call."
+    },
+    {
+      "title": "3 sentenced to death in 2012 Faridpur murder case",
+      "link": "https://www.tbsnews.net/bangladesh/crime/3-sentenced-death-2012-faridpur-murder-case-1500201",
+      "pubDate": "Tue, 28 Jul 2026 17:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/28/fardipur_murder_case.jpg",
+      "snippet": "One of the three convicts was present in court when the verdict was delivered, while another accused died during the trial proceedings in the case involving four accused."
+    },
+    {
+      "title": "BSTI seeks Esdo research data after study detects microplastics in toothpaste",
+      "link": "https://www.tbsnews.net/bangladesh/bsti-seeks-esdo-research-data-after-study-detects-microplastics-toothpaste-1500181",
+      "pubDate": "Tue, 28 Jul 2026 17:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/28/toothpaste.jpg",
+      "snippet": "The standards body also urged the consumers not to panic over the microplastics report."
+    },
+    {
+      "title": "TBD Town Hall VI calls for institutional reforms to sustain peace, democracy in Bangladesh",
+      "link": "https://www.tbsnews.net/bangladesh/tbd-town-hall-vi-calls-institutional-reforms-sustain-peace-democracy-bangladesh-1500176",
+      "pubDate": "Tue, 28 Jul 2026 17:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/28/whatsapp_image_2026-07-28_at_4.50.38_pm.jpeg",
+      "snippet": "Participants at a Bangladesh Dialogue roundtable highlighted police and judicial reforms, parliamentary oversight, media freedom and continuous political dialogue"
+    },
+    {
+      "title": "PM seeks Malaysia's support to ease Bangladesh's gas crisis: State minister",
+      "link": "https://www.tbsnews.net/bangladesh/energy/pm-seeks-malaysias-support-ease-bangladeshs-gas-crisis-state-minister-1500186",
+      "pubDate": "Tue, 28 Jul 2026 17:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/no_cng_gas1.jpg",
+      "snippet": "The government expects partial restoration of the damaged LNG terminal early next week."
+    },
+    {
+      "title": "2 killed as college boundary wall collapses onto TCB queue in Mirpur",
+      "link": "https://www.tbsnews.net/bangladesh/2-killed-college-boundary-wall-collapses-tcb-queue-mirpur-1500161",
+      "pubDate": "Tue, 28 Jul 2026 16:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/28/757506812_1626258645727287_4146157292323331116_n.jpg",
+      "snippet": "The two waiting to buy subsidised TCB products were buried under debris."
+    },
+    {
+      "title": "Shamim Osman's son shot protester beside me, witness tells tribunal",
+      "link": "https://www.tbsnews.net/bangladesh/court/shamim-osmans-son-shot-protester-beside-me-witness-tells-tribunal-1500146",
+      "pubDate": "Tue, 28 Jul 2026 16:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/09/26/ict.jpg",
+      "snippet": "A prosecution witness allege that Ayan Osman shot a protester during the July Uprising in Narayanganj and recounted separate attacks allegedly led by Shamim Osman and his associates."
+    },
+    {
+      "title": "Bangladesh seeks Japan's support to open Dhaka airport third terminal on 16 Dec",
+      "link": "https://www.tbsnews.net/economy/aviation/bangladesh-seeks-japans-support-open-dhaka-airport-third-terminal-16-dec-1500126",
+      "pubDate": "Tue, 28 Jul 2026 16:15:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/10/07/third_terminal_1.png",
+      "snippet": "Civil Aviation and Tourism Minister Afroza Khanam said the government is working to inaugurate the terminal on 16 December in line with the prime minister's directive"
+    },
+    {
+      "title": "2 RU students arrested, probe committee formed over campus 'mob violence'",
+      "link": "https://www.tbsnews.net/bangladesh/2-ru-students-arrested-probe-committee-formed-over-campus-mob-violence-1500121",
+      "pubDate": "Tue, 28 Jul 2026 16:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/28/84d004a8-2d97-408e-9a5c-bc30927f8213.png",
+      "snippet": "The arrests and the inquiry come after several active student organisations condemned assaults inside the university's proctor's office and central library as \"mob violence\" and demanded action against those responsible"
+    },
+    {
       "title": "Taxation without motivation: Time for a new social contract with taxpayers?",
       "link": "https://www.tbsnews.net/thoughts/taxation-without-motivation-time-new-social-contract-taxpayers-1500116",
       "pubDate": "Tue, 28 Jul 2026 15:50:00 +0600",
@@ -89,17 +243,6 @@
       "snippet": "Police also seized yaba, heroin, phensedyl and other narcotics."
     },
     {
-      "title": "DMP to install 1,000 plug-and-play cameras on Dhaka roads",
-      "link": "https://www.tbsnews.net/bangladesh/dmp-install-1000-plug-and-play-cameras-dhaka-roads-1500021",
-      "pubDate": "Tue, 28 Jul 2026 14:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/28/dmp.jpg",
-      "snippet": "At present, 37 AI-enabled cameras are operating at 16 locations, he said, adding that authorities are managing them effectively."
-    },
-    {
       "title": "From Naogaon to the world: A blueprint for Bangladesh's mango exports",
       "link": "https://www.tbsnews.net/thoughts/naogaon-world-blueprint-bangladeshs-mango-exports-1500036",
       "pubDate": "Tue, 28 Jul 2026 14:20:00 +0600",
@@ -109,39 +252,6 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/28/37567bfd-5647-4153-bbc0-82b3b0335453_0.jpg",
       "snippet": "From orchards to overseas markets, Bangladesh's mango industry needs stronger infrastructure, value addition and export-focused reforms to unlock its full economic potential"
-    },
-    {
-      "title": "Govt to launch AI system to predict supply crises, stabilise essential goods market",
-      "link": "https://www.tbsnews.net/bangladesh/govt-launch-ai-system-predict-supply-crises-stabilise-essential-goods-market-1500011",
-      "pubDate": "Tue, 28 Jul 2026 14:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/28/ai.jpg",
-      "snippet": "The AI platform will help identify when shortages may occur, which countries could provide better import options, and when global markets may offer favourable prices"
-    },
-    {
-      "title": "3 workers burned in gas cylinder explosion in Sylhet",
-      "link": "https://www.tbsnews.net/bangladesh/3-workers-burned-gas-cylinder-explosion-sylhet-1499996",
-      "pubDate": "Tue, 28 Jul 2026 14:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/28/explosion.jpg",
-      "snippet": "With the help of local residents, the injured workers were rescued and taken to Sylhet MAG Osmani Medical College Hospital for treatment."
-    },
-    {
-      "title": "Whip ABM Ashraf Uddin Nizan attends Islami Bank customer gathering in Ramgati",
-      "link": "https://www.tbsnews.net/bangladesh/whip-abm-ashraf-uddin-nizan-attends-islami-bank-customer-gathering-ramgati-1499991",
-      "pubDate": "Tue, 28 Jul 2026 13:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/28/28th_july_pr.jpg",
-      "snippet": ""
     },
     {
       "title": "World risks HIV resurgence as funding falls 18%: UNAIDS",
@@ -155,94 +265,6 @@
       "snippet": "The warning came in a 60-page report released by UNAIDS at the start of the International AIDS Conference in Brazil"
     },
     {
-      "title": "Environmentalists demand halt to construction of garbage station in Bhawal park, roads in reserved forests",
-      "link": "https://www.tbsnews.net/bangladesh/environmentalists-demand-halt-construction-garbage-station-bhawal-park-roads-reserved",
-      "pubDate": "Tue, 28 Jul 2026 13:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/28/bikkhubdho_poribeshbadigon.jpeg",
-      "snippet": "Environmentalists presented a 4-point charter of demands, including cancelling the STS construction in Bhawal National Park, scrapping proposed roads through Moheshkhali and Chakaria reserved forests, and ensuring strict implementation of existing en..."
-    },
-    {
-      "title": "High Court orders probe into microplastics in toothpastes",
-      "link": "https://www.tbsnews.net/bangladesh/court/high-court-orders-probe-microplastics-toothpastes-1499966",
-      "pubDate": "Tue, 28 Jul 2026 13:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/10/23/toothpaste.jpg",
-      "snippet": "The order follows a recent study that found that nearly three out of every four toothpaste products tested in Bangladesh contain microplastics."
-    },
-    {
-      "title": "Acting President Hafiz Uddin begins official duties at Bangabhaban",
-      "link": "https://www.tbsnews.net/bangladesh/acting-president-hafiz-uddin-begins-official-duties-bangabhaban-1499961",
-      "pubDate": "Tue, 28 Jul 2026 13:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/28/president_hafiz_uddin_1.jpg",
-      "snippet": "On his arrival, a smart contingent of the horse-mounted President Guard Regiment (PGR) welcomed the acting president and escorted him to the venue of the Guard of Honour"
-    },
-    {
-      "title": "Alleged syndicate, extra charges fuel anger at Haluaghat sub-registry office",
-      "link": "https://www.tbsnews.net/bangladesh/alleged-syndicate-extra-charges-fuel-anger-haluaghat-sub-registry-office-1499956",
-      "pubDate": "Tue, 28 Jul 2026 12:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/28/28th_june_pr.jpg",
-      "snippet": ""
-    },
-    {
-      "title": "More than 7,300 students killed in road accidents since 2019: Report",
-      "link": "https://www.tbsnews.net/bangladesh/more-7300-students-killed-road-accidents-2019-road-safety-foundation-1499951",
-      "pubDate": "Tue, 28 Jul 2026 12:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/21/road_safety.jpg",
-      "snippet": "According to the report, 3,328 school and madrasa students aged between 5 and 17 were killed, accounting for 45.19% of student fatalities"
-    },
-    {
-      "title": "College student shot in Dhaka's Manikdi",
-      "link": "https://www.tbsnews.net/bangladesh/crime/college-student-shot-dhakas-manikdi-1499931",
-      "pubDate": "Tue, 28 Jul 2026 12:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/22/crime-scene-37cc6f4cb68e00cd3ffd449144604d6c.jpg",
-      "snippet": "He had gone out to buy mosquito coils and was returning home when the shooting occurred."
-    },
-    {
-      "title": "EC ready to hold presidential election: CEC",
-      "link": "https://www.tbsnews.net/bangladesh/ec-ready-hold-presidential-election-cec-1499921",
-      "pubDate": "Tue, 28 Jul 2026 12:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/28/meeting.jpg",
-      "snippet": "As per the Presidential Election Act, 1991, the Election Commission needs to consult the Speaker before fixing the schedule for the presidential election."
-    },
-    {
-      "title": "Hearing ends on Jamaat candidate's plea over Ctg-2 nomination; Supreme Court order tomorrow",
-      "link": "https://www.tbsnews.net/bangladesh/hearing-ends-jamaat-candidates-plea-over-ctg-2-nomination-supreme-court-order-tomorrow",
-      "pubDate": "Tue, 28 Jul 2026 11:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/01/08/supreme_court_1.jpg",
-      "snippet": "The dispute began after Nurul Amin appealed to the Election Commission, alleging that Sarwar Alamgir was a loan defaulter."
-    },
-    {
       "title": "Bangladesh's hidden hepatitis crisis: 1 crore infected, most unaware",
       "link": "https://www.tbsnews.net/bangladesh/health/bangladeshs-hidden-hepatitis-crisis-1-crore-infected-most-unaware-1499891",
       "pubDate": "Tue, 28 Jul 2026 11:45:00 +0600",
@@ -252,17 +274,6 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/08/hepatitis.jpg",
       "snippet": "Experts call for mass screening, vaccination on eve of World Hepatitis Day today"
-    },
-    {
-      "title": "Rain likely across country: BMD",
-      "link": "https://www.tbsnews.net/bangladesh/rain-likely-across-country-bmd-1499836",
-      "pubDate": "Tue, 28 Jul 2026 11:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/04/17/rain_kids.jpg",
-      "snippet": "The Met Office also predicted moderately heavy to heavy rainfall is likely at places across the country."
     },
     {
       "title": "High-level panel formed to assess feasibility of issuing Panda, other foreign currency sovereign bonds",
@@ -824,18 +835,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/25/ad-din_mumit-8340.jpg",
       "snippet": "From increased health spending and preventive care to pharmaceutical manufacturing and medical education, the proposed FY2026-27 budget signals a stronger commitment to healthcare. The real challenge now lies in turning policy into practice"
-    },
-    {
-      "title": "State Minister Muhit inaugurates women-led, tech-enabled 'Vision Centre' in Sirajganj",
-      "link": "https://www.tbsnews.net/bangladesh/health/state-minister-muhit-inaugurates-women-led-tech-enabled-vision-centre-sirajganj",
-      "pubDate": "Sat, 25 Jul 2026 17:15:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/25/state_minister_muhit_at_sirajganj.jpg",
-      "snippet": "Muhit urged people to overcome social stigma surrounding the use of spectacles and encouraged students to act as \"vision ambassadors\" by referring patients with eye problems to the centre."
     }
   ],
-  "updatedAt": "2026-07-28T10:05:53.474Z"
+  "updatedAt": "2026-07-28T12:20:56.209Z"
 }
