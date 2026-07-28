@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Floods destroy Tk140.82cr in vegetables, prices jump Tk20-50 in Ctg markets",
+      "link": "https://www.tbsnews.net/agriculture/floods-destroy-tk14082cr-vegetables-prices-jump-tk20-50-ctg-markets-1499761",
+      "pubDate": "Tue, 28 Jul 2026 08:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/ctg_flood_0.jpg",
+      "snippet": "The sharp fall in supplies from flood-hit production areas has pushed up the prices of almost all vegetables, adding to the financial strain on middle- and low-income families"
+    },
+    {
       "title": "4 confess in court over Jubo Dal activist's murder; 5 sent to jail",
       "link": "https://www.tbsnews.net/bangladesh/court/4-confess-court-over-jubo-dal-activists-murder-5-sent-jail-1499736",
       "pubDate": "Tue, 28 Jul 2026 02:10:00 +0600",
@@ -241,17 +252,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/30/tuku.png",
       "snippet": "Two LNG cargoes remain waiting offshore amid repairs."
-    },
-    {
-      "title": "Alleged international wildlife trafficker held with 13 green parrots in Ctg",
-      "link": "https://www.tbsnews.net/bangladesh/alleged-international-wildlife-trafficker-held-13-green-parrots-ctg-1499586",
-      "pubDate": "Mon, 27 Jul 2026 21:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/27/wildhouse.jpg",
-      "snippet": "The suspect was then taken to his alleged warehouse, where officials recovered three more green parrots, bringing the total number of rescued birds to 13."
     },
     {
       "title": "DU female students demand end to hall curfew, seek 24-hour access",
@@ -824,40 +824,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/25/p3_green_date_rajibdhar.jpg",
       "snippet": "Sajjad Hossain, a wholesaler at Khatunganj fruit market, said his shop alone sells around 100 cases of fresh dates daily"
-    },
-    {
-      "title": "Why offshore borrowing not taking off",
-      "link": "https://www.tbsnews.net/economy/why-offshore-borrowing-not-taking-1497111",
-      "pubDate": "Sat, 25 Jul 2026 10:00:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/25/offshore_borrowing.jpg",
-      "snippet": "Bankers say two policy changes – recent changes to the interest rate cap on trade financing, along with the reimposition of tax on interest paid on offshore loans – have made foreign lenders more cautious, narrowed financing options for importers, an..."
-    },
-    {
-      "title": "Its AI agent spent days hacking a company, but sources say OpenAI did not notice for a week",
-      "link": "https://www.tbsnews.net/tech/its-ai-agent-spent-days-hacking-company-sources-say-openai-did-not-notice-week-1497086",
-      "pubDate": "Sat, 25 Jul 2026 08:50:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/11/20/openai.jpg",
-      "snippet": "The agent – a program capable of making decisions and executing complex tasks with little or no human oversight – attempted to break out of its isolated testing environment at OpenAI around 9 July, according to two of the people"
-    },
-    {
-      "title": "Tk4,000cr vanishes into cigarette supply chain: Who pockets the extra money?",
-      "link": "https://www.tbsnews.net/economy/tk4000cr-vanishes-cigarette-supply-chain-who-pockets-extra-money-1497071",
-      "pubDate": "Sat, 25 Jul 2026 08:00:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/05/31/bat_tobacco_cigarette.jpg",
-      "snippet": "A market investigation by The Business Standard found that virtually every cigarette brand is being sold above its printed MRP, because cigarette companies sell to distributors at or virtually at the MRP itself, leaving no margin for retail sellers"
     }
   ],
-  "updatedAt": "2026-07-28T00:55:30.366Z"
+  "updatedAt": "2026-07-28T04:10:25.838Z"
 }
