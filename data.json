@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "British Bangladeshi man jailed after lying about attending Oxford to secure NHS jobs",
+      "link": "https://www.tbsnews.net/bangladesh/british-bangladeshi-man-jailed-after-lying-about-attending-oxford-secure-nhs-jobs-1500536",
+      "pubDate": "Tue, 28 Jul 2026 23:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/28/uk_bangladeshi.jpg",
+      "snippet": "He secured 13 NHS jobs by falsely claiming to be an Oxford graduate and inventing senior roles in the health service, investigators said."
+    },
+    {
       "title": "Premier Bank mobilises Tk3,003cr in fresh deposits in 60 working days",
       "link": "https://www.tbsnews.net/economy/banking/premier-bank-mobilises-tk3003cr-fresh-deposits-60-working-days-1500521",
       "pubDate": "Tue, 28 Jul 2026 22:15:00 +0600",
@@ -213,10 +224,10 @@
       "title": "Dengue death toll reaches 47 as 3 more patient dies in 24hrs",
       "link": "https://www.tbsnews.net/bangladesh/dengue-death-toll-reaches-47-3-more-patient-dies-24hrs-1500291",
       "pubDate": "Tue, 28 Jul 2026 18:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/25/05_news_copy.png",
       "snippet": "532 patients were discharged from hospitals after recovering from the mosquito-borne disease, bringing the total number of recoveries in 2026 to 13,009."
     },
@@ -813,18 +824,7 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/06/whatsapp_image_2022-11-06_at_11.47.22_am.jpeg",
       "snippet": "Examination centres have been instructed to send the list of registered candidates to their respective board controllers by 30 July."
-    },
-    {
-      "title": "Bangladesh loses second spot to Vietnam in global garment exports: Ex-BGMEA president",
-      "link": "https://www.tbsnews.net/economy/industry/bangladesh-loses-second-spot-vietnam-global-garment-exports-ex-bgmea-president",
-      "pubDate": "Sat, 25 Jul 2026 23:55:00 +0600",
-      "category": "Industry",
-      "color": "#f57c00",
-      "bg": "#fff3e0",
-      "icon": "🏭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/08/16/20220629_rajibdhar_8149.jpg",
-      "snippet": "They cite rising production costs, financial constraints, policy uncertainty and administrative bottlenecks as key pressures threatening the industry’s competitiveness."
     }
   ],
-  "updatedAt": "2026-07-28T16:46:36.883Z"
+  "updatedAt": "2026-07-28T18:14:20.166Z"
 }
