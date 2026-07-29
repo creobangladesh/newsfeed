@@ -1,6 +1,182 @@
 {
   "news": [
     {
+      "title": "Bapex begins drilling new gas well in Noakhali",
+      "link": "https://www.tbsnews.net/bangladesh/bapex-begins-drilling-new-gas-well-noakhali-1501281",
+      "pubDate": "Wed, 29 Jul 2026 17:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/08/09/bapex.jpg",
+      "snippet": "Historical data from Bapex shows that gas exploration in the region dates back to 1976 when the first well was discovered in Begumganj."
+    },
+    {
+      "title": "Bapex begins drilling new gas well in Noakhali",
+      "link": "https://www.tbsnews.net/bangladesh/bapex-begins-drilling-new-gas-well-noakhali-1501286",
+      "pubDate": "Wed, 29 Jul 2026 17:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/08/09/bapex.jpg",
+      "snippet": "Historical data from Bapex shows that gas exploration in the region dates back to 1976 when the first well was discovered in Begumganj."
+    },
+    {
+      "title": "Russia charges Telegram founder Durov with aiding terrorism, he gives Moscow the finger",
+      "link": "https://www.tbsnews.net/tech/russia-charges-telegram-founder-durov-aiding-terrorism-he-gives-moscow-finger-1501296",
+      "pubDate": "Wed, 29 Jul 2026 17:50:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/8dfa5fe9-60d8-49ed-8308-05b7bbcc77ed.png",
+      "snippet": "The FSB statement said Durov was being placed on an international wanted list, but it ‌did not ⁠specify what mechanism Russia would use to do this."
+    },
+    {
+      "title": "RU journalists boycott all Rucsu programmes, demand VP's unconditional apology",
+      "link": "https://www.tbsnews.net/bangladesh/education/ru-journalists-boycott-all-rucsu-programmes-demand-vps-unconditional-apology",
+      "pubDate": "Wed, 29 Jul 2026 17:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/12/22/rajshahi_university.jpg",
+      "snippet": "Three campus journalists' organisations have given the Rucsu vice-president 24 hours to apologise over remarks they say threatened journalists."
+    },
+    {
+      "title": "BB paves way for PayPal, Payoneer-style cross-border payment services",
+      "link": "https://www.tbsnews.net/economy/bangladesh-bank-paves-way-paypal-payoneer-style-cross-border-payment-services-1501241",
+      "pubDate": "Wed, 29 Jul 2026 17:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/03/img_2640.jpeg",
+      "snippet": "Before launching such services, banks will have to obtain prior regulatory acknowledgement from BB by submitting details of their their partnerships, technology infrastructure, cybersecurity measures and compliance arrangements."
+    },
+    {
+      "title": "PM Tarique meets boy whose viral smile hid a story of loss",
+      "link": "https://www.tbsnews.net/bangladesh/pm-tarique-meets-boy-whose-viral-smile-hid-story-loss-1501186",
+      "pubDate": "Wed, 29 Jul 2026 17:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/9a719920-d27f-4614-8ef6-4ffdc57bc414.jpg",
+      "snippet": "Rumon said Tahsin had no idea he was going to meet the Prime Minister until he entered the Prime Minister's Office."
+    },
+    {
+      "title": "Dengue claims 3 more lives, 534 hospitalised in 24 hrs",
+      "link": "https://www.tbsnews.net/bangladesh/health/dengue-claims-3-more-lives-534-hospitalised-24-hrs-1501156",
+      "pubDate": "Wed, 29 Jul 2026 17:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/25/05_news_copy.png",
+      "snippet": "The latest fatalities have pushed this year's dengue death toll to 50, while total infections have risen to 14,690."
+    },
+    {
+      "title": "New York school pauses plan to use AI robot teacher",
+      "link": "https://www.tbsnews.net/tech/new-york-school-pauses-plan-use-ai-robot-teacher-1501136",
+      "pubDate": "Wed, 29 Jul 2026 16:55:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/new_york_school_pauses_plan_to_use_ai_robot_teacher-converted-from-webp.jpeg",
+      "snippet": "New York school halts AI teacher robot amid privacy and ethics concerns."
+    },
+    {
+      "title": "Health minister vows to end hospital broker syndicates, roll out AI-powered doorstep health screening",
+      "link": "https://www.tbsnews.net/bangladesh/health/health-minister-vows-end-hospital-broker-syndicates-roll-out-ai-powered-doorstep",
+      "pubDate": "Wed, 29 Jul 2026 16:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/754699819_1357962685800671_4328417482214096904_n.jpg",
+      "snippet": "The minister says the government will not renew a foreign firm's dialysis contract and plans to expand low-cost dialysis services nationwide."
+    },
+    {
+      "title": "Bangladesh, Brunei discuss manpower recruitment, trade and investment",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-brunei-discuss-manpower-recruitment-trade-and-investment-1501121",
+      "pubDate": "Wed, 29 Jul 2026 16:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/755349301_909496224927907_4953775208466221015_n.jpg",
+      "snippet": "During the meeting, the state minister expressed Bangladesh’s interest in facilitating employment opportunities for more Bangladeshi workers in Brunei."
+    },
+    {
+      "title": "Gas crisis leaves auto-rickshaw drivers languishing in queues, facing income drop",
+      "link": "https://www.tbsnews.net/bangladesh/energy/gas-crisis-leaves-auto-rickshaw-drivers-languishing-queues-facing-income-drop",
+      "pubDate": "Wed, 29 Jul 2026 16:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/magbazar_anudeep-filling-station-20.jpg",
+      "snippet": "Reduced gas supply at refuelling stations is forcing drivers to wait for hours to refuel, disrupting passenger services and reducing daily incomes."
+    },
+    {
+      "title": "3 rocket-like metallic objects recovered in Lakshmipur",
+      "link": "https://www.tbsnews.net/bangladesh/3-rocket-metallic-objects-recovered-lakshmipur-1501086",
+      "pubDate": "Wed, 29 Jul 2026 16:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/rocket_object.jpg",
+      "snippet": "Police have placed the items under a security cordon and alerted an army bomb disposal expert team."
+    },
+    {
+      "title": "Shapla Chattar case: Latif Siddique says will surrender by Monday if police don't arrest him before then",
+      "link": "https://www.tbsnews.net/bangladesh/court/latif-siddique-surrender-shapla-chattar-case-if-police-do-not-arrest-him-1501091",
+      "pubDate": "Wed, 29 Jul 2026 16:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/06/20/latif-siddique.jpg",
+      "snippet": "He made the remarks today (29 July) after appearing before a Dhaka court in a case filed under the Anti-Terrorism Act."
+    },
+    {
+      "title": "Case filed over gun attack on businessman's car in Chattogram",
+      "link": "https://www.tbsnews.net/bangladesh/crime/case-filed-over-gun-attack-businessmans-car-chattogram-1501001",
+      "pubDate": "Wed, 29 Jul 2026 15:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/04/19/gunfight_tbs.png",
+      "snippet": "No one was injured in the attack, but the vehicle's window was shattered. Police recovered two bullet casings and pieces of bricks from the scene."
+    },
+    {
+      "title": "Measles outbreak: Death toll hits 831 as 3 more children die in 24hrs",
+      "link": "https://www.tbsnews.net/bangladesh/health/measles-outbreak-death-toll-hits-831-3-more-children-die-24hrs-1501016",
+      "pubDate": "Wed, 29 Jul 2026 15:45:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/03/whatsapp_image_2026-05-03_at_14.50.36.jpeg",
+      "snippet": "79 new laboratory-confirmed measles cases were recorded, bringing the total number of confirmed infections to 15,739"
+    },
+    {
+      "title": "Incoming Apple CEO aims to build on movie and TV progress",
+      "link": "https://www.tbsnews.net/tech/incoming-apple-ceo-aims-build-movie-and-tv-progress-1500986",
+      "pubDate": "Wed, 29 Jul 2026 15:35:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/apples_senior_vice_president_reuters.jpg",
+      "snippet": "Apple says its focus remains on creating high-quality original entertainment rather than the largest streaming library."
+    },
+    {
       "title": "Rajshahi University students demand action against Rucsu, Shibir over campus violence",
       "link": "https://www.tbsnews.net/bangladesh/rajshahi-university-students-demand-action-against-rucsu-shibir-over-campus-violence",
       "pubDate": "Wed, 29 Jul 2026 15:25:00 +0600",
@@ -12,7 +188,7 @@
       "snippet": "The protest was held in front of the library around noon under the banner of general students."
     },
     {
-      "title": "Police arrest Chattogram's listed 'top criminal' David Emon, 5 associates in Jashore",
+      "title": "Police arrest Chattogram's listed 'top criminal' David Emon, 4 associates in Jashore",
       "link": "https://www.tbsnews.net/bangladesh/crime/police-arrest-chattograms-listed-top-criminal-david-emon-5-associates-jashore",
       "pubDate": "Wed, 29 Jul 2026 15:25:00 +0600",
       "category": "Bangladesh",
@@ -21,6 +197,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/c7018650-dada-4ac9-8e4c-3d8319edae90.jpg",
       "snippet": "According to police, Emon is a widely known figure in Chattogram’s criminal underworld and faces accusations of criminal activities, extortion and involvement in firearms-related offences."
+    },
+    {
+      "title": "CU to plant 25,000 trees across 25 acres this year",
+      "link": "https://www.tbsnews.net/bangladesh/education/cu-plant-25000-trees-across-25-acres-year-1501021",
+      "pubDate": "Wed, 29 Jul 2026 15:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/cu_tree_plantation_0.jpg",
+      "snippet": "The initiative is being jointly implemented by the university administration and the Chittagong University Central Students' Union (Cucsu)."
     },
     {
       "title": "Police seek ex-BRUR VC Kalimullah’s arrest in July attempt to murder case; hearing tomorrow ",
@@ -34,7 +221,7 @@
       "snippet": "He had secured bail in another case and was set to be released."
     },
     {
-      "title": "Acting Speaker, Nepal Ambassador discuss SAARC revival, bilateral cooperation",
+      "title": "Acting Speaker Kamal, Nepal emvoy discuss Saarc revival, bilateral cooperation",
       "link": "https://www.tbsnews.net/bangladesh/acting-speaker-nepal-ambassador-discuss-saarc-revival-bilateral-cooperation-1500946",
       "pubDate": "Wed, 29 Jul 2026 15:05:00 +0600",
       "category": "Bangladesh",
@@ -52,7 +239,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/img-20260729-wa0133.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/img-20260729-wa0129_2.jpg",
       "snippet": "The gift follows Prime Minister Tarique Rahman's recent gesture of sending 600kg of Haribhanga and Amrapali mangoes to the Tripura chief minister and the state government."
     },
     {
@@ -89,57 +276,13 @@
       "snippet": "Dry-season navigability has shrunk to 3,865 kilometres, down from 6,000 kilometres during the monsoon, while 77 percent of freight remains road-dependent despite waterways offering a cheaper and cleaner alternative"
     },
     {
-      "title": "ASK calls for judicial probe into Mongla fisherman’s alleged enforced disappearance",
-      "link": "https://www.tbsnews.net/bangladesh/crime/ask-calls-judicial-probe-mongla-fishermans-alleged-enforced-disappearance-1500836",
-      "pubDate": "Wed, 29 Jul 2026 13:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/23/untitled_design_1.png",
-      "snippet": ""
-    },
-    {
-      "title": "Apex court stays HC order that barred arrests without specific cases",
-      "link": "https://www.tbsnews.net/bangladesh/appellate-division-stays-high-court-order-arrests-without-specific-cases-1500821",
-      "pubDate": "Wed, 29 Jul 2026 13:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/01/08/supreme_court_1.jpg",
-      "snippet": "High Court had ordered that authorities should not show individuals arrested, arrest them or otherwise harass them if no case had been filed against them, following petitions by several individuals."
-    },
-    {
-      "title": "Bangladesh has only 189 tigers left, species faces existential threat: State minister",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-has-only-189-tigers-left-species-faces-existential-threat-state-minister",
-      "pubDate": "Wed, 29 Jul 2026 13:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/zoo.jpg",
-      "snippet": "“Tigers are one of the most important wildlife species in the world and an indispensable part of biodiversity. It is extremely important to raise public awareness and build a conservation mindset among the new generation to protect this animal,” the ..."
-    },
-    {
-      "title": "Section 144 imposed in Habiganj as NCP, BNP affiliates announce rallies",
-      "link": "https://www.tbsnews.net/bangladesh/politics/section-144-imposed-habiganj-ncp-bnp-affiliates-announce-rallies-1500806",
-      "pubDate": "Wed, 29 Jul 2026 13:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/758750507_2171529670086328_7699173475941507647_n.jpg",
-      "snippet": "Witnesses said that during the rally, Nasiruddin Patwary criticised local BNP leaders and activists, alleging their involvement in drug trafficking and criminal activities"
-    },
-    {
       "title": "UAE cenbank asks Janata to appoint administrator by mid-Aug for winding down operations",
       "link": "https://www.tbsnews.net/economy/banking/uae-cenbank-asks-janata-appoint-administrator-mid-aug-winding-down-operations",
       "pubDate": "Wed, 29 Jul 2026 13:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/janata_bank_uae_1_0.png",
       "snippet": "Under the UAE central bank’s instructions, Janata Bank must appoint an administrator within 30 days of the issuance of the letter."
     },
@@ -155,92 +298,15 @@
       "snippet": "The expansion includes 15 Boeing 737-8 aircraft and six Boeing 737-800 aircraft, all scheduled for delivery by the end of 2027."
     },
     {
-      "title": "Barrister Mosharraf Hossain takes charge as CID chief",
-      "link": "https://www.tbsnews.net/bangladesh/barrister-mosharraf-hossain-takes-charge-cid-chief-1500791",
-      "pubDate": "Wed, 29 Jul 2026 12:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/new_cid_chief.jpg",
-      "snippet": "Earlier, he served as director of the National Security Intelligence"
-    },
-    {
-      "title": "Jamaat asks EC to lift MPO teacher election bar; seeks removal of additional secretary",
-      "link": "https://www.tbsnews.net/bangladesh/jamaat-delegation-holds-meeting-election-commission-1500771",
-      "pubDate": "Wed, 29 Jul 2026 12:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/jamat_.jpg",
-      "snippet": "In the letter, Jamaat said the EC has sent a proposal to the Ministry of Local Government declaring MPO-affiliated teachers ineligible to contest in local government elections."
-    },
-    {
-      "title": "World Tiger Day: Sundarbans sees steady rise in tiger population despite mounting challenges",
-      "link": "https://www.tbsnews.net/bangladesh/sundarbans-see-steady-rise-tiger-population-despite-mounting-challenges-world-tiger-day",
-      "pubDate": "Wed, 29 Jul 2026 12:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/78dd7187-850b-4d8e-9959-7c21db364990.jpg",
-      "snippet": "World Tiger Day is being observed today (July 29) under the theme, “Be Aware, Conserve Tigers.”"
-    },
-    {
       "title": "Weak feasibility study, economic analysis leads to time, cost overruns of projects: IMED",
       "link": "https://www.tbsnews.net/analysis/weak-feasibility-study-economic-analysis-leads-time-cost-overruns-projects-imed-1500711",
       "pubDate": "Wed, 29 Jul 2026 12:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Analysis",
+      "color": "#5d4037",
+      "bg": "#efebe9",
+      "icon": "🔍",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/01/05/imed.jpg",
       "snippet": "IMED identifies 18 major challenges hindering ADP projects"
-    },
-    {
-      "title": "BGMEA, BKMEA seek CNG to run factories amid gas crisis",
-      "link": "https://www.tbsnews.net/bangladesh/energy/bgmea-bkmea-seek-cng-run-factories-amid-gas-crisis-1500766",
-      "pubDate": "Wed, 29 Jul 2026 12:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/no_cng_gas1.jpg",
-      "snippet": "Their requests came after Titas instructed CNG filling stations to stop selling natural gas into open cylinders or gas cascade cylinders not mounted on authorised vehicles, citing safety concerns and violations of the Gas Act and Gas Distribution Rul..."
-    },
-    {
-      "title": "Fake DO letter in deputy speaker's name: AC Land withdrawn",
-      "link": "https://www.tbsnews.net/bangladesh/fake-do-letter-deputy-speakers-name-ac-land-withdrawn-1500756",
-      "pubDate": "Wed, 29 Jul 2026 11:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/12/31/mopa_logo_0.jpg",
-      "snippet": "The order, issued in the public interest by order of the President, took immediate effect"
-    },
-    {
-      "title": "SC drops plea against BNP MP Sarowar, AG says no legal bar remains to performing duties ",
-      "link": "https://www.tbsnews.net/bangladesh/court/sc-drops-plea-against-bnp-mp-sarowar-ag-says-no-legal-bar-remains-performing-duties",
-      "pubDate": "Wed, 29 Jul 2026 11:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/01/27/sarawar-alamgir-1768468355.jpg",
-      "snippet": "A bench led by Chief Justice Zubayer Rahman Chowdhury passed the order this morning."
-    },
-    {
-      "title": "Rain likely across country",
-      "link": "https://www.tbsnews.net/bangladesh/rain-likely-across-country-1500716",
-      "pubDate": "Wed, 29 Jul 2026 11:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/rain.jpg",
-      "snippet": "Day and night temperature may rise slightly over the country, the forecast said."
     },
     {
       "title": "Study finds microplastics in bottled, loose soybean oil sold in Dhaka",
@@ -846,40 +912,7 @@
       "icon": "🔍",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/26/this.jpg",
       "snippet": "As thousands of injured protesters arrived at Dhaka’s hospitals during the July uprising, doctors faced a surge of gunshot wounds, emergency surgeries and pressure over the treatment and documentation of patients"
-    },
-    {
-      "title": "Exports face massive 15% growth test",
-      "link": "https://www.tbsnews.net/economy/govt-sets-634bn-export-target-fy27-eyes-15pc-growth-1498511",
-      "pubDate": "Sun, 26 Jul 2026 17:05:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/13/ctg_port_4.jpg",
-      "snippet": "Around 30% of the country's industrial capacity remains unused because of the ongoing energy crisis, Commerce Minister Khandaker Abdul Muktadir says."
-    },
-    {
-      "title": "Govt’s top priority is to make every school fully functional: Bobby",
-      "link": "https://www.tbsnews.net/bangladesh/education/govts-top-priority-turn-every-school-fully-functional-educational-institution",
-      "pubDate": "Sun, 26 Jul 2026 17:00:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/20/bobby_hajjaj.jpg",
-      "snippet": "Addressing field-level education officials, he provided guidance on the future vision for primary education, administrative reforms, effective monitoring and improving learning standards."
-    },
-    {
-      "title": "Bangladesh Bank won’t probe Shahabuddin individually over graft allegations: Spokesperson",
-      "link": "https://www.tbsnews.net/bangladesh/bb-wont-probe-shahabuddin-individually-over-graft-allegations-spokesperson-1498471",
-      "pubDate": "Sun, 26 Jul 2026 16:40:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/06/22/bangladesh_bank_1.jpg",
-      "snippet": "The former president had been associated with Global Islami Bank and Islami Bank, and any investigation by the central bank would focus on the institutions concerned, says Arief Hossain Khan."
     }
   ],
-  "updatedAt": "2026-07-29T09:37:34.722Z"
+  "updatedAt": "2026-07-29T12:00:54.553Z"
 }
