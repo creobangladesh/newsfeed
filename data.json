@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Fragrant rice prices hit record high; market manipulation, export permission blamed",
+      "link": "https://www.tbsnews.net/markets/fragrant-rice-prices-hit-record-high-market-manipulation-export-permission-blamed-1500616",
+      "pubDate": "Wed, 29 Jul 2026 08:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/08/01/rice.jpg",
+      "snippet": "According to traders, the retail price of various aromatic rice varieties has increased by Tk70 to Tk80 per kilogram over the past six months."
+    },
+    {
       "title": "The price of conflict: What if the point is the price?",
       "link": "https://www.tbsnews.net/thoughts/price-conflict-what-if-point-price-1500591",
       "pubDate": "Wed, 29 Jul 2026 01:55:00 +0600",
@@ -188,8 +199,8 @@
       "snippet": "The party claims local Chatradal activists attacked its convoy after a rally in Habiganj."
     },
     {
-      "title": "The government has a plan. Now it must deliver!",
-      "link": "https://www.tbsnews.net/thoughts/government-has-plan-now-it-must-deliver-1500596",
+      "title": "The new government: A rare opportunity for reform",
+      "link": "https://www.tbsnews.net/thoughts/new-government-rare-opportunity-reform-1500596",
       "pubDate": "Tue, 28 Jul 2026 21:10:00 +0600",
       "category": "Thoughts",
       "color": "#455a64",
@@ -252,17 +263,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/10/30/bandarban_border_pic.jpg",
       "snippet": "The victim reportedly crossed into Myanmar to retrieve family-owned cattle before triggering a landmine about 500 metres beyond the zero line, the BGB says."
-    },
-    {
-      "title": "Beijing is willing to elevate cultural ties with Bangladesh: envoy",
-      "link": "https://www.tbsnews.net/bangladesh/beijing-willing-elevate-cultural-ties-bangladesh-envoy-1500441",
-      "pubDate": "Tue, 28 Jul 2026 20:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/28/chinese_ambassador_and_nitai_roy.png",
-      "snippet": "“The ambassador expressed hope that China and Bangladesh would work together to take bilateral cultural exchanges to a higher level,” a cultural affairs ministry official, meanwhile, said."
     },
     {
       "title": "Dengue death toll reaches 47 as 3 more patient dies in 24hrs",
@@ -846,18 +846,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/26/us-trade-tariff.png",
       "snippet": "Bangladesh now faces an additional 10% tariff over alleged forced labour, effective 24 July, while a separate US investigation into alleged excess production could expose the country to further duties."
-    },
-    {
-      "title": "Chinese economic zone to break ground in Ctg tomorrow",
-      "link": "https://www.tbsnews.net/economy/industry/chinese-economic-zone-break-ground-ctg-tomorrow-1497946",
-      "pubDate": "Sun, 26 Jul 2026 07:15:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/09/08/china_banglades_0.jpg",
-      "snippet": "The zone is expected to boost international trade and foreign investment in a wide range of sectors"
     }
   ],
-  "updatedAt": "2026-07-29T00:04:20.623Z"
+  "updatedAt": "2026-07-29T03:49:29.903Z"
 }
