@@ -1,13 +1,57 @@
 {
   "news": [
     {
+      "title": "Unilever Bangladesh crowns BizMaestros X UFLP 2026 winners",
+      "link": "https://www.tbsnews.net/bangladesh/unilever-bangladesh-crowns-bizmaestros-x-uflp-2026-winners-1501671",
+      "pubDate": "Thu, 30 Jul 2026 00:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/05/16/unilever.jpg",
+      "snippet": "Soap-R-Stars emerged as champions of the 16th edition of Unilever Bangladesh's flagship business competition, followed by Locked Out and Breaking Good."
+    },
+    {
+      "title": "Gas crunch cripples industries, threatens export orders",
+      "link": "https://www.tbsnews.net/bangladesh/energy/gas-crunch-cripples-industries-threatens-export-orders-1501656",
+      "pubDate": "Thu, 30 Jul 2026 00:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/no_cng_gas1.jpg",
+      "snippet": "Industry leaders warn that persistent energy shortages are forcing factories to scale back production and raising fears of losing overseas buyers."
+    },
+    {
+      "title": "Govt to form earthquake taskforce, prepare 1 lakh volunteers on PM’s directives",
+      "link": "https://www.tbsnews.net/bangladesh/govt-form-earthquake-taskforce-prepare-1-lakh-volunteers-pms-directives-1501651",
+      "pubDate": "Thu, 30 Jul 2026 00:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/12/pm_tarique_hajj_meeting.png",
+      "snippet": "The prime minister also ordered the establishment of a dedicated earthquake preparedness cell at the Prime Minister's Office."
+    },
+    {
+      "title": "Bangladesh’s stronger ties with one country do not come at another’s expense: FM",
+      "link": "https://www.tbsnews.net/foreign-policy/bangladeshs-stronger-ties-one-country-do-not-come-anothers-expense-fm-1501636",
+      "pubDate": "Wed, 29 Jul 2026 23:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/10/khalilur.jpg",
+      "snippet": "The foreign minister says Bangladesh seeks stronger ties with all countries based on national interests, not geopolitical rivalry."
+    },
+    {
       "title": "Islami Bank incurs highest ever Tk1,316cr loss in H1",
       "link": "https://www.tbsnews.net/economy/banking/islami-bank-incurs-highest-ever-tk1316cr-loss-h1-1501626",
       "pubDate": "Wed, 29 Jul 2026 23:40:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/08/06/islami_bank_1.jpg",
       "snippet": "IFIC Bank reports Tk1,668cr loss as asset quality crisis erodes financial strength."
     },
@@ -45,8 +89,8 @@
       "snippet": "The two are among 22 people charged by CID over the 2024 Bailey Road fire that claimed 46 lives."
     },
     {
-      "title": "Govt approves Tk16,089cr refined fuel import for July-December",
-      "link": "https://www.tbsnews.net/bangladesh/energy/govt-approves-tk16089cr-refined-fuel-import-july-december-1501586",
+      "title": "Govt approves Tk16,089cr refined fuel imports for Jul-Dec",
+      "link": "https://www.tbsnews.net/bangladesh/energy/govt-approves-tk16089cr-refined-fuel-imports-jul-dec-1501586",
       "pubDate": "Wed, 29 Jul 2026 21:45:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
@@ -111,17 +155,6 @@
       "snippet": "The bank said the improvement in EPS was largely attributable to better performance by its subsidiaries."
     },
     {
-      "title": "LafargeHolcim Bangladesh posts Tk104.5cr Q2 profit on aggregates, pricing strength",
-      "link": "https://www.tbsnews.net/economy/stocks/lafargeholcim-bangladesh-posts-tk1045cr-profit-q2-aggregates-pricing-power-fuel",
-      "pubDate": "Wed, 29 Jul 2026 21:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/04/25/lafargeholcim_1.jpg",
-      "snippet": "April-June revenue rose 14% year-on-year to Tk739.7 crore from Tk646.6 crore, driven by strategic price adjustments and strong demand for the company's value-added products."
-    },
-    {
       "title": "Sammilito Islami Bank depositors can withdraw up to Tk10 lakh for emergency needs",
       "link": "https://www.tbsnews.net/economy/banking/sammilito-islami-bank-depositors-can-withdraw-tk10-lakh-emergency-needs-1501581",
       "pubDate": "Wed, 29 Jul 2026 21:05:00 +0600",
@@ -131,6 +164,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/30/sammilito_islami_bank.jpg",
       "snippet": "Bangladesh Bank plans to appoint an administrator to Sammilito Islami Bank by August."
+    },
+    {
+      "title": "LafargeHolcim Bangladesh posts Tk104.5cr Q2 profit on aggregates, pricing strength",
+      "link": "https://www.tbsnews.net/economy/stocks/lafargeholcim-bangladesh-posts-tk1045cr-profit-q2-aggregates-pricing-power-fuel",
+      "pubDate": "Wed, 29 Jul 2026 21:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/04/25/lafargeholcim_1.jpg",
+      "snippet": "April-June revenue rose 14% year-on-year to Tk739.7 crore from Tk646.6 crore, driven by strategic price adjustments and strong demand for the company's value-added products."
     },
     {
       "title": "Additional Foreign Secretary Ferdousi Shahriar passes away",
@@ -232,59 +276,15 @@
       "snippet": "The rights group says shortcomings in tribunal proceedings risk undermining justice for victims and enabling political persecution."
     },
     {
-      "title": "Ex-MP Latif Siddique arrested following ICT warrant in Shapla Chattar case",
-      "link": "https://www.tbsnews.net/bangladesh/former-minister-latif-siddique-arrested-shapla-chattar-case-1501401",
-      "pubDate": "Wed, 29 Jul 2026 18:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/06/20/latif-siddique.jpg",
-      "snippet": "Earlier in the day, Latif said he would surrender before the tribunal if not arrested."
-    },
-    {
-      "title": "Contractors to be blacklisted for irregularities in dev work: Monzoor",
-      "link": "https://www.tbsnews.net/bangladesh/contractors-be-blacklisted-irregularities-dev-work-monzoor-1501396",
-      "pubDate": "Wed, 29 Jul 2026 18:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/e441ccdb-bde3-44da-8bdf-e766944e2473.jpg",
-      "snippet": "The state minister was speaking at a view-exchange meeting on the development activities and progress of various projects of the National Housing Authority held at its conference room in Segunbagicha."
-    },
-    {
       "title": "Only 22% of public health facilities have essential medicines in stock: PPRC study",
       "link": "https://www.tbsnews.net/bangladesh/health/health-budgets-not-translating-services-due-governance-gaps-pprc-study-1501371",
       "pubDate": "Wed, 29 Jul 2026 18:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/754699819_1357962685800671_4328417482214096904_n.jpg",
       "snippet": "The report said Essential Drugs Company Limited supplies about 62% of medicines, and timely, adequate deliveries alone could raise availability to nearly 90%."
-    },
-    {
-      "title": "NCP leaders face police obstruction in Sreemangal while heading to Habiganj",
-      "link": "https://www.tbsnews.net/bangladesh/ncp-leaders-face-police-obstruction-sreemangal-while-heading-habiganj-1501356",
-      "pubDate": "Wed, 29 Jul 2026 18:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/ncp_leaders.jpg",
-      "snippet": "The party leaders were stopped for around 30 minutes before police withdrew; they later staged a sit-in on the road."
-    },
-    {
-      "title": "France invested €2b in Bangladesh over past 14 years: Envoy",
-      "link": "https://www.tbsnews.net/foreign-policy/france-invested-eu2bn-bangladesh-over-past-14-years-envoy-1501361",
-      "pubDate": "Wed, 29 Jul 2026 18:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/french_envoy.jpg",
-      "snippet": "The ambassador says France will continue investing in Bangladesh and wants to expand academic exchanges between the two countries."
     },
     {
       "title": "Russia charges Telegram founder Durov with aiding terrorism, he gives Moscow the finger",
@@ -309,7 +309,7 @@
       "snippet": "Three campus journalists' organisations have given the Rucsu vice-president 24 hours to apologise over remarks they say threatened journalists."
     },
     {
-      "title": "BB paves way for PayPal, Payoneer-style cross-border payment services",
+      "title": "BB paves way for PayPal, Payoneer-style cross-border digital payment services",
       "link": "https://www.tbsnews.net/economy/bangladesh-bank-paves-way-paypal-payoneer-style-cross-border-payment-services-1501241",
       "pubDate": "Wed, 29 Jul 2026 17:25:00 +0600",
       "category": "Economy",
@@ -419,7 +419,7 @@
       "snippet": "Under the UAE central bank’s instructions, Janata Bank must appoint an administrator within 30 days of the issuance of the letter."
     },
     {
-      "title": "US-Bangla unveils $1.5b plan to add 21 Boeing aircraft",
+      "title": "US-Bangla unveils $1.5b leasing deal to add 21 Boeing aircraft",
       "link": "https://www.tbsnews.net/economy/aviation/us-bangla-unveils-15b-plan-add-21-boeing-aircraft-1500801",
       "pubDate": "Wed, 29 Jul 2026 12:50:00 +0600",
       "category": "Economy",
@@ -956,18 +956,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/27/754871766_1576320167439274_7897286603120533916_n.jpg",
       "snippet": "The Bangladeshi government expressed expectations that restarting the direct link will strengthen bilateral trade, investment, education, and people-to-people ties between Bangladesh and Japan, opening new avenues for economic cooperation"
-    },
-    {
-      "title": "NBR banks on tobacco, high-value litigations to boost revenue by 47%",
-      "link": "https://www.tbsnews.net/nbr/nbr-banks-tobacco-high-value-litigations-boost-revenue-47-1498836",
-      "pubDate": "Mon, 27 Jul 2026 01:15:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/03/29/bat_tobacco_cigarette.jpg",
-      "snippet": "To curb tax evasion, NBR is considering QR codes on cigarette packs and AI cameras in tobacco factories, according to an NBR official."
     }
   ],
-  "updatedAt": "2026-07-29T17:47:38.195Z"
+  "updatedAt": "2026-07-29T19:15:55.396Z"
 }
