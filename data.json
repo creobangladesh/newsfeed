@@ -1,6 +1,160 @@
 {
   "news": [
     {
+      "title": "NCP files complaint over Habiganj attack after police block district entry",
+      "link": "https://www.tbsnews.net/bangladesh/ncp-files-complaint-over-habiganj-attack-after-police-block-district-entry-1501596",
+      "pubDate": "Wed, 29 Jul 2026 22:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/ncp_leaders.jpg",
+      "snippet": "Nahid Islam demands the complaint be registered as a case within two hours after police bar NCP leaders from entering Habiganj for a planned protest rally."
+    },
+    {
+      "title": "Bailey Road fire: Two accused surrender, secure bail",
+      "link": "https://www.tbsnews.net/bangladesh/court/bailey-road-fire-two-accused-surrender-secure-bail-1501601",
+      "pubDate": "Wed, 29 Jul 2026 22:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/07/05/cmm-court.png",
+      "snippet": "The two are among 22 people charged by CID over the 2024 Bailey Road fire that claimed 46 lives."
+    },
+    {
+      "title": "Govt approves Tk16,089cr refined fuel import for July-December",
+      "link": "https://www.tbsnews.net/bangladesh/energy/govt-approves-tk16089cr-refined-fuel-import-july-december-1501586",
+      "pubDate": "Wed, 29 Jul 2026 21:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/01/02/refined_fuel_oil.png",
+      "snippet": "The fuel will be imported under G2G agreements from six state-owned foreign suppliers to meet domestic demand during the first half of the fiscal year."
+    },
+    {
+      "title": "It's important to address some irritations in Dhaka-Delhi relations: FM",
+      "link": "https://www.tbsnews.net/foreign-policy/its-important-address-some-irritations-dhaka-delhi-relations-fm-1501576",
+      "pubDate": "Wed, 29 Jul 2026 21:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/dinesh_trivedi_khalilur_rahman.jpg",
+      "snippet": "India has invited Prime Minister Tarique Rahman to attend the 18th BRICS Summit in New Delhi on September 12-13."
+    },
+    {
+      "title": "Human trafficking surges as criminals turn to digital platforms: BRAC",
+      "link": "https://www.tbsnews.net/bangladesh/crime/human-trafficking-surges-criminals-turn-digital-platforms-brac-1501561",
+      "pubDate": "Wed, 29 Jul 2026 21:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/07/20/human_trafficking_1.jpg",
+      "snippet": "World Day against Trafficking in Persons today"
+    },
+    {
+      "title": "WhatsApp's biggest calling update is here: You can now make audio and video calls on WhatsApp Web",
+      "link": "https://www.tbsnews.net/tech/whatsapps-biggest-calling-update-here-you-can-now-make-audio-and-video-calls-whatsapp-web",
+      "pubDate": "Wed, 29 Jul 2026 21:20:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/c9fd4a72-cd8a-4ccd-89de-ea3fece59fa5.png",
+      "snippet": "WhatsApp has started rolling out these features to all its users. They will be available to everyone globally in the coming weeks."
+    },
+    {
+      "title": "Berger Paints to invest Tk20cr in wholly owned subsidiary",
+      "link": "https://www.tbsnews.net/economy/stocks/berger-paints-invest-tk20cr-wholly-owned-subsidiary-1501551",
+      "pubDate": "Wed, 29 Jul 2026 21:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/berger_paint.jpg",
+      "snippet": "The company’s revenue rose 15% year-on-year to Tk814.19 crore in the first quarter of 2026."
+    },
+    {
+      "title": "UCB H1 profit jumps 90% to Tk34cr on subsidiary earnings, lower provisioning",
+      "link": "https://www.tbsnews.net/economy/banking/ucb-h1-profit-jumps-90-tk34cr-subsidiary-earnings-lower-provisioning-1501531",
+      "pubDate": "Wed, 29 Jul 2026 21:10:00 +0600",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/08/17/ucb.jpg",
+      "snippet": "The bank said the improvement in EPS was largely attributable to better performance by its subsidiaries."
+    },
+    {
+      "title": "LafargeHolcim Bangladesh posts Tk104.5cr Q2 profit on aggregates, pricing strength",
+      "link": "https://www.tbsnews.net/economy/stocks/lafargeholcim-bangladesh-posts-tk1045cr-profit-q2-aggregates-pricing-power-fuel",
+      "pubDate": "Wed, 29 Jul 2026 21:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/04/25/lafargeholcim_1.jpg",
+      "snippet": "April-June revenue rose 14% year-on-year to Tk739.7 crore from Tk646.6 crore, driven by strategic price adjustments and strong demand for the company's value-added products."
+    },
+    {
+      "title": "Sammilito Islami Bank depositors can withdraw up to Tk10 lakh for emergency needs",
+      "link": "https://www.tbsnews.net/economy/banking/sammilito-islami-bank-depositors-can-withdraw-tk10-lakh-emergency-needs-1501581",
+      "pubDate": "Wed, 29 Jul 2026 21:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/30/sammilito_islami_bank.jpg",
+      "snippet": "Bangladesh Bank plans to appoint an administrator to Sammilito Islami Bank by August."
+    },
+    {
+      "title": "Additional Foreign Secretary Ferdousi Shahriar passes away",
+      "link": "https://www.tbsnews.net/bangladesh/additional-foreign-secretary-ferdousi-shahriar-passes-away-1501526",
+      "pubDate": "Wed, 29 Jul 2026 21:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/f1cc9ab3-3685-4cb9-b434-b0a5ccc23e5f.png",
+      "snippet": ""
+    },
+    {
+      "title": "JU Proctor Rashidul Alam resigns, Zakir Hossain appointed acting successor",
+      "link": "https://www.tbsnews.net/bangladesh/education/ju-proctor-rashidul-alam-resigns-zakir-hossain-appointed-acting-successor",
+      "pubDate": "Wed, 29 Jul 2026 20:50:00 +0600",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/06/04/jahangirnagar-university_0.jpg",
+      "snippet": "Philosophy Professor Md Zakir Hossain will serve as acting proctor until further notice following AKM Rashidul Alam’s resignation"
+    },
+    {
+      "title": "Dear AI, are you stealing my brain?",
+      "link": "https://www.tbsnews.net/thoughts/dear-ai-are-you-stealing-my-brain-1501501",
+      "pubDate": "Wed, 29 Jul 2026 20:45:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/gemini_generated_image_isua1iisua1iisua-clean.png",
+      "snippet": "You should always remember that humans created AI, not AI created humans, so don’t let AI take it over our brains. This is made for our help, not to get sabotaged by it."
+    },
+    {
+      "title": "Two WB missions to visit Dhaka in August to review governance, project impact",
+      "link": "https://www.tbsnews.net/bangladesh/two-world-bank-missions-visit-dhaka-august-review-governance-project-impact-1501511",
+      "pubDate": "Wed, 29 Jul 2026 20:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/09/26/world_bank.jpg",
+      "snippet": "Resilience project evaluation mission to visit on 9-16 Aug, Governance mission on 9-13 Aug."
+    },
+    {
       "title": "HRW's criticism of ICT 'one-sided and biased': Chief prosecutor",
       "link": "https://www.tbsnews.net/bangladesh/hrws-criticism-ict-one-sided-and-biased-chief-prosecutor-1501476",
       "pubDate": "Wed, 29 Jul 2026 20:25:00 +0600",
@@ -78,7 +232,7 @@
       "snippet": "The state minister was speaking at a view-exchange meeting on the development activities and progress of various projects of the National Housing Authority held at its conference room in Segunbagicha."
     },
     {
-      "title": "Health budgets not translating into services due to governance gaps: PPRC study",
+      "title": "Only 22% of public health facilities have essential medicines in stock: PPRC study",
       "link": "https://www.tbsnews.net/bangladesh/health/health-budgets-not-translating-services-due-governance-gaps-pprc-study-1501371",
       "pubDate": "Wed, 29 Jul 2026 18:30:00 +0600",
       "category": "Bangladesh",
@@ -86,18 +240,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/754699819_1357962685800671_4328417482214096904_n.jpg",
-      "snippet": "The report revealed that essential medicines were available in only 22% of public health facilities on average and nearly 40% of sanctioned medical technologist posts remain vacant."
-    },
-    {
-      "title": "France invested €2b in Bangladesh over past 14 years: Envoy",
-      "link": "https://www.tbsnews.net/foreign-policy/france-invested-eu2bn-bangladesh-over-past-14-years-envoy-1501361",
-      "pubDate": "Wed, 29 Jul 2026 18:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/french_envoy.jpg",
-      "snippet": "The ambassador says France will continue investing in Bangladesh and wants to expand academic exchanges between the two countries."
+      "snippet": "The report said Essential Drugs Company Limited (EDCL) supplies about 62% of medicines, and timely, adequate deliveries alone could raise availability to nearly 90%."
     },
     {
       "title": "NCP leaders face police obstruction in Sreemangal while heading to Habiganj",
@@ -111,26 +254,15 @@
       "snippet": "The party leaders were stopped for around 30 minutes before police withdrew; they later staged a sit-in on the road."
     },
     {
-      "title": "Govt taken effective initiatives to reduce civil case backlog: Asaduzzaman ",
-      "link": "https://www.tbsnews.net/bangladesh/govt-taken-effective-initiatives-reduce-civil-case-backlog-asaduzzaman-1501306",
-      "pubDate": "Wed, 29 Jul 2026 17:55:00 +0600",
+      "title": "France invested €2b in Bangladesh over past 14 years: Envoy",
+      "link": "https://www.tbsnews.net/foreign-policy/france-invested-eu2bn-bangladesh-over-past-14-years-envoy-1501361",
+      "pubDate": "Wed, 29 Jul 2026 18:20:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/md_asaduzzaman_img.jpg",
-      "snippet": "The government is pursuing judicial reforms, including expanded alternative dispute resolution, greater use of technology, and international cooperation, to speed up case disposal and improve access to justice."
-    },
-    {
-      "title": "Bapex begins drilling new gas well in Noakhali",
-      "link": "https://www.tbsnews.net/bangladesh/bapex-begins-drilling-new-gas-well-noakhali-1501286",
-      "pubDate": "Wed, 29 Jul 2026 17:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/08/09/bapex.jpg",
-      "snippet": "Historical data from Bapex shows that gas exploration in the region dates back to 1976 when the first well was discovered in Begumganj."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/french_envoy.jpg",
+      "snippet": "The ambassador says France will continue investing in Bangladesh and wants to expand academic exchanges between the two countries."
     },
     {
       "title": "Russia charges Telegram founder Durov with aiding terrorism, he gives Moscow the finger",
@@ -147,10 +279,10 @@
       "title": "RU journalists boycott all Rucsu programmes, demand VP's unconditional apology",
       "link": "https://www.tbsnews.net/bangladesh/education/ru-journalists-boycott-all-rucsu-programmes-demand-vps-unconditional-apology",
       "pubDate": "Wed, 29 Jul 2026 17:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/12/22/rajshahi_university.jpg",
       "snippet": "Three campus journalists' organisations have given the Rucsu vice-president 24 hours to apologise over remarks they say threatened journalists."
     },
@@ -158,32 +290,21 @@
       "title": "BB paves way for PayPal, Payoneer-style cross-border payment services",
       "link": "https://www.tbsnews.net/economy/bangladesh-bank-paves-way-paypal-payoneer-style-cross-border-payment-services-1501241",
       "pubDate": "Wed, 29 Jul 2026 17:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/paypal_payooner111.jpg",
       "snippet": "Before launching such services, banks will have to obtain prior regulatory acknowledgement from BB by submitting details of their their partnerships, technology infrastructure, cybersecurity measures and compliance arrangements."
-    },
-    {
-      "title": "PM Tarique meets boy whose viral smile hid a story of loss",
-      "link": "https://www.tbsnews.net/bangladesh/pm-tarique-meets-boy-whose-viral-smile-hid-story-loss-1501186",
-      "pubDate": "Wed, 29 Jul 2026 17:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/9a719920-d27f-4614-8ef6-4ffdc57bc414.jpg",
-      "snippet": "Rumon said Tahsin had no idea he was going to meet the Prime Minister until he entered the Prime Minister's Office."
     },
     {
       "title": "Dengue claims 3 more lives, 534 hospitalised in 24 hrs",
       "link": "https://www.tbsnews.net/bangladesh/health/dengue-claims-3-more-lives-534-hospitalised-24-hrs-1501156",
       "pubDate": "Wed, 29 Jul 2026 17:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/25/05_news_copy.png",
       "snippet": "The latest fatalities have pushed this year's dengue death toll to 50, while total infections have risen to 14,690."
     },
@@ -213,45 +334,12 @@
       "title": "Health minister vows to end hospital broker syndicates, roll out AI-powered doorstep health screening",
       "link": "https://www.tbsnews.net/bangladesh/health/health-minister-vows-end-hospital-broker-syndicates-roll-out-ai-powered-doorstep",
       "pubDate": "Wed, 29 Jul 2026 16:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/754699819_1357962685800671_4328417482214096904_n.jpg",
       "snippet": "The minister says the government will not renew a foreign firm's dialysis contract and plans to expand low-cost dialysis services nationwide."
-    },
-    {
-      "title": "Bangladesh, Brunei discuss manpower recruitment, trade and investment",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-brunei-discuss-manpower-recruitment-trade-and-investment-1501121",
-      "pubDate": "Wed, 29 Jul 2026 16:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/755349301_909496224927907_4953775208466221015_n.jpg",
-      "snippet": "During the meeting, the state minister expressed Bangladesh’s interest in facilitating employment opportunities for more Bangladeshi workers in Brunei."
-    },
-    {
-      "title": "Gas crisis leaves auto-rickshaw drivers languishing in queues, facing income drop",
-      "link": "https://www.tbsnews.net/bangladesh/energy/gas-crisis-leaves-auto-rickshaw-drivers-languishing-queues-facing-income-drop",
-      "pubDate": "Wed, 29 Jul 2026 16:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/magbazar_anudeep-filling-station-20.jpg",
-      "snippet": "Reduced gas supply at refuelling stations is forcing drivers to wait for hours to refuel, disrupting passenger services and reducing daily incomes."
-    },
-    {
-      "title": "3 rocket-like metallic objects recovered in Lakshmipur",
-      "link": "https://www.tbsnews.net/bangladesh/3-rocket-metallic-objects-recovered-lakshmipur-1501086",
-      "pubDate": "Wed, 29 Jul 2026 16:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/rocket_object.jpg",
-      "snippet": "Police have placed the items under a security cordon and alerted an army bomb disposal expert team."
     },
     {
       "title": "Measles outbreak: Death toll hits 831 as 3 more children die in 24hrs",
@@ -857,51 +945,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/03/29/bat_tobacco_cigarette.jpg",
       "snippet": "To curb tax evasion, NBR is considering QR codes on cigarette packs and AI cameras in tobacco factories, according to an NBR official."
-    },
-    {
-      "title": "Southeast Bank sponsor Rehana Kashem to sell 10 lakh shares",
-      "link": "https://www.tbsnews.net/economy/southeast-bank-sponsor-rehana-kashem-sell-10-lakh-shares-1498796",
-      "pubDate": "Sun, 26 Jul 2026 21:55:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/10/30/southeast_bank.jpg",
-      "snippet": "Southeast Bank’s share price rose 0.94% to close at Tk10.70 on the DSE today."
-    },
-    {
-      "title": "Walton Hi-Tech expands global footprint with 3-year Libya distribution deal",
-      "link": "https://www.tbsnews.net/economy/industry/walton-hi-tech-expands-global-footprint-3-year-libya-distribution-deal-1498786",
-      "pubDate": "Sun, 26 Jul 2026 21:50:00 +0600",
-      "category": "Industry",
-      "color": "#f57c00",
-      "bg": "#fff3e0",
-      "icon": "🏭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/03/walton_hi-tech.jpg",
-      "snippet": "The three-year deal with Libya-based ASR AL TECHNIYAH marks another step in Walton’s global expansion drive, with the company earning Tk80 crore from exports in the first nine months of FY26."
-    },
-    {
-      "title": "MEP Group to invest Tk200cr in electrical goods project in Mirsarai",
-      "link": "https://www.tbsnews.net/economy/mep-group-invest-tk200cr-electrical-goods-project-mirsarai-1498766",
-      "pubDate": "Sun, 26 Jul 2026 21:30:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/26/mep_group_mirsarai.jpeg",
-      "snippet": "Project expected to create around 2,000 direct and indirect jobs."
-    },
-    {
-      "title": "BB directs banks to resolve staff disciplinary complaints within 2 months",
-      "link": "https://www.tbsnews.net/economy/banking/bb-directs-banks-resolve-staff-disciplinary-complaints-within-2-months-1498756",
-      "pubDate": "Sun, 26 Jul 2026 21:05:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/26/bangladesh_bank.jpg",
-      "snippet": "The central bank has amended its two-decade-old policy to prevent prolonged internal investigations and ensure faster disposal of misconduct allegations."
     }
   ],
-  "updatedAt": "2026-07-29T14:41:26.384Z"
+  "updatedAt": "2026-07-29T16:21:50.687Z"
 }
