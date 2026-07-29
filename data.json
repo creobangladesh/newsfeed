@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Islami Bank incurs highest ever Tk1,316cr loss in H1",
+      "link": "https://www.tbsnews.net/economy/banking/islami-bank-incurs-highest-ever-tk1316cr-loss-h1-1501626",
+      "pubDate": "Wed, 29 Jul 2026 23:40:00 +0600",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/08/06/islami_bank_1.jpg",
+      "snippet": "IFIC Bank reports Tk1,668cr loss as asset quality crisis erodes financial strength."
+    },
+    {
+      "title": "Foreign banks’ credit contracts 11% in 2025 despite profit uptick",
+      "link": "https://www.tbsnews.net/economy/banking/foreign-banks-credit-contracts-11-2025-despite-profit-uptick-1501621",
+      "pubDate": "Wed, 29 Jul 2026 23:30:00 +0600",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/09/09/collage-dollar.jpg",
+      "snippet": "Loan portfolio falls as lenders adopt cautious credit strategy."
+    },
+    {
       "title": "NCP files complaint over Habiganj attack after police block district entry",
       "link": "https://www.tbsnews.net/bangladesh/ncp-files-complaint-over-habiganj-attack-after-police-block-district-entry-1501596",
       "pubDate": "Wed, 29 Jul 2026 22:05:00 +0600",
@@ -240,7 +262,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/754699819_1357962685800671_4328417482214096904_n.jpg",
-      "snippet": "The report said Essential Drugs Company Limited (EDCL) supplies about 62% of medicines, and timely, adequate deliveries alone could raise availability to nearly 90%."
+      "snippet": "The report said Essential Drugs Company Limited supplies about 62% of medicines, and timely, adequate deliveries alone could raise availability to nearly 90%."
     },
     {
       "title": "NCP leaders face police obstruction in Sreemangal while heading to Habiganj",
@@ -947,5 +969,5 @@
       "snippet": "To curb tax evasion, NBR is considering QR codes on cigarette packs and AI cameras in tobacco factories, according to an NBR official."
     }
   ],
-  "updatedAt": "2026-07-29T16:21:50.687Z"
+  "updatedAt": "2026-07-29T17:47:38.195Z"
 }
