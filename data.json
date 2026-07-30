@@ -1,6 +1,226 @@
 {
   "news": [
     {
+      "title": "No discussion between Bangladesh and Myanmar on taking back 3 lakh Rohingyas: Shama Obaed",
+      "link": "https://www.tbsnews.net/bangladesh/no-discussion-between-bangladesh-and-myanmar-taking-back-3-lakh-rohingyas-shama-obaed",
+      "pubDate": "Thu, 30 Jul 2026 21:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/03/02/rohingya_camp.jpg",
+      "snippet": "Shama said that if such a development takes place, Bangladesh would certainly welcome it."
+    },
+    {
+      "title": "US deports 23 more Bangladeshis amid irregular migration crackdown",
+      "link": "https://www.tbsnews.net/bangladesh/migration/us-deports-23-more-bangladeshis-amid-irregular-migration-crackdown-1502441",
+      "pubDate": "Thu, 30 Jul 2026 21:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/01/14/dhaka_airport_0.jpeg",
+      "snippet": "Most of the returnees reportedly spent Tk50-65 lakh each to reach the US through risky routes across South and Central America."
+    },
+    {
+      "title": "BSEC prohibits Ex-DSE CRO Khairul Bashar from market entities",
+      "link": "https://www.tbsnews.net/economy/stocks/bsec-prohibits-ex-dse-cro-khairul-bashar-market-entities-1502446",
+      "pubDate": "Thu, 30 Jul 2026 21:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/07/14/khairul-bashar.jpg",
+      "snippet": "According to the order, all stock exchanges, market intermediaries, listed companies and other entities regulated by the BSEC have been instructed not to appoint Khairul Bashar to any official position related to the capital market."
+    },
+    {
+      "title": "Cenbank forms Tk2,000cr scheme at 7% interest to boost leather sector",
+      "link": "https://www.tbsnews.net/economy/industry/cenbank-forms-tk2000cr-scheme-7-interest-boost-leather-sector-1502436",
+      "pubDate": "Thu, 30 Jul 2026 21:00:00 +0600",
+      "category": "Industry",
+      "color": "#f57c00",
+      "bg": "#fff3e0",
+      "icon": "🏭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/05/31/bangladesh-leather-industry.jpg",
+      "snippet": "The scheme aims to help local manufacturers expand in global markets while transforming the leather industry into an eco-friendly and compliant sector."
+    },
+    {
+      "title": "BB updates export trade rules, expands digital trade, financing framework",
+      "link": "https://www.tbsnews.net/economy/banking/bb-updates-export-trade-rules-expands-digital-trade-financing-framework-1502431",
+      "pubDate": "Thu, 30 Jul 2026 20:55:00 +0600",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/bangladesh_bank.jpg",
+      "snippet": "New guidelines introduce digital trade documentation, alternative trade finance and dedicated foreign exchange rules for freelancers and service exporters."
+    },
+    {
+      "title": "Govt appoints 86 deputy attorney generals, 179 assistant attorney generals",
+      "link": "https://www.tbsnews.net/bangladesh/govt-appoints-86-deputy-attorney-generals-179-assistant-attorney-generals-1502426",
+      "pubDate": "Thu, 30 Jul 2026 20:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/govt_10.png",
+      "snippet": "The government cancelled all previous appointments as part of a fresh reshuffle of the Attorney General's Office"
+    },
+    {
+      "title": "'Cut-throat' overseas migration expenses need to be reduced: State minister",
+      "link": "https://www.tbsnews.net/bangladesh/cut-throat-overseas-migration-expenses-need-be-reduced-state-minister-1502421",
+      "pubDate": "Thu, 30 Jul 2026 20:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/30/migration.jpg",
+      "snippet": "Referring to migration costs to Singapore, Nur said charging workers Tk12 lakh to Tk15 lakh is unjustified."
+    },
+    {
+      "title": "Nothing has changed yet, but Tarique Rahman is trying to bring change: Fakhrul",
+      "link": "https://www.tbsnews.net/bangladesh/nothing-has-changed-yet-tarique-rahman-trying-bring-change-fakhrul-1502416",
+      "pubDate": "Thu, 30 Jul 2026 20:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/30/af31cd59-55c5-4b4c-9c6c-4821beb03749.jpg",
+      "snippet": "Mirza Fakhrul Islam Alamgir said many people have simply changed their colours and they have now become the biggest July warriors."
+    },
+    {
+      "title": "PM orders completion of reopening, privatisation of closed state-run factories by 2026",
+      "link": "https://www.tbsnews.net/bangladesh/pm-orders-completion-reopening-privatisation-closed-state-run-factories-2026-1502396",
+      "pubDate": "Thu, 30 Jul 2026 20:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/25/pm_tarique_rahman.jpg",
+      "snippet": "Tarique orders faster privatisation, reopening of state-owned industries to attract investment."
+    },
+    {
+      "title": "626 Bangladeshis experience 'auto-cancellation' of UAE visas; renewal process underway",
+      "link": "https://www.tbsnews.net/bangladesh/626-bangladeshis-experience-auto-cancellation-uae-visas-renewal-process-underway-1502406",
+      "pubDate": "Thu, 30 Jul 2026 20:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/30/shama_nur.jpg",
+      "snippet": "Shama Obaed urges Bangladeshis to refrain from any unlawful activities"
+    },
+    {
+      "title": "PKSF launches 'GREEN' project to scale up climate-resilient initiatives",
+      "link": "https://www.tbsnews.net/bangladesh/pksf-launches-green-project-scale-climate-resilient-initiatives-1502411",
+      "pubDate": "Thu, 30 Jul 2026 20:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/30/36b9b274899c34c85277d5a85e1361e8.jpeg",
+      "snippet": "According to the project presentation, the GREEN Project will be implemented from 2026 to 2031 with a total investment of $211.7 million."
+    },
+    {
+      "title": "UGC to establish language centres at 25 universities to boost global competitiveness",
+      "link": "https://www.tbsnews.net/bangladesh/education/ugc-establish-language-centres-25-universities-boost-global-competitiveness",
+      "pubDate": "Thu, 30 Jul 2026 20:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/ugc.jpg",
+      "snippet": "The centres will offer courses in eight international languages, including Japanese, Korean, Chinese, Arabic, French and German"
+    },
+    {
+      "title": "Regent Group Chairman Shahed gets bail in Tk1cr fraud case",
+      "link": "https://www.tbsnews.net/bangladesh/court/regent-group-chairman-shahed-gets-bail-tk1cr-fraud-case-1502371",
+      "pubDate": "Thu, 30 Jul 2026 20:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/30/regent_shahed.jpg",
+      "snippet": "A Dhaka court granted him 10 days' bail after a settlement with the complainant, but he will remain in jail due to other pending cases."
+    },
+    {
+      "title": "The anatomy of an uprising: When protest topples power, and when it fails",
+      "link": "https://www.tbsnews.net/features/big-picture/anatomy-uprising-when-protest-topples-power-and-when-it-fails-1502381",
+      "pubDate": "Thu, 30 Jul 2026 20:05:00 +0600",
+      "category": "Analysis",
+      "color": "#5d4037",
+      "bg": "#efebe9",
+      "icon": "🔍",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/30/169.png",
+      "snippet": "Uprisings can force presidents into exile, bring down dictatorships or leave authoritarian systems more entrenched than before. What determines whether the street succeeds has depended on far more than courage alone"
+    },
+    {
+      "title": "Workers block road in Barishal over unpaid wages, 8-point demand",
+      "link": "https://www.tbsnews.net/bangladesh/workers-block-road-barishal-over-unpaid-wages-8-point-demand-1502361",
+      "pubDate": "Thu, 30 Jul 2026 20:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/30/barishal_protest.jpg",
+      "snippet": "The protesting workers alleged that they had not received salaries for the past two months despite working regularly."
+    },
+    {
+      "title": "Furnace oil price cut by Tk8.71 per litre to Tk100.39",
+      "link": "https://www.tbsnews.net/bangladesh/energy/furnace-oil-price-cut-tk871-litre-tk10039-1502351",
+      "pubDate": "Thu, 30 Jul 2026 19:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/09/16/oil_import_unb.jpeg",
+      "snippet": "The Bangladesh Energy Regulatory Commission has reduced the price for the second consecutive month, citing changes in international fuel prices, freight costs and exchange rates."
+    },
+    {
+      "title": "ICT minister urges Grameenphone to improve network quality, reduce call drops",
+      "link": "https://www.tbsnews.net/bangladesh/telecom/ict-minister-urges-grameenphone-improve-network-quality-reduce-call-drops-1502346",
+      "pubDate": "Thu, 30 Jul 2026 19:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/30/757146773_1026022523383933_7653457927847280329_n.jpg",
+      "snippet": "Faqir Mahbub Anam calls on the operator to address consumer concerns over service quality and pricing while expanding digital access to underserved communities."
+    },
+    {
+      "title": "Sacked employees of Islami Bank seek reinstatement, warn of 'peaceful' protests",
+      "link": "https://www.tbsnews.net/bangladesh/sacked-employees-islami-bank-seek-reinstatement-warn-peaceful-protests-1502321",
+      "pubDate": "Thu, 30 Jul 2026 19:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/30/img_9982.jpeg",
+      "snippet": "The dismissed employees say they were terminated without notice or a chance to defend themselves."
+    },
+    {
+      "title": "Top criminal David Emon's 'Indian Aadhaar card' found to be a demo",
+      "link": "https://www.tbsnews.net/bangladesh/crime/top-criminal-david-emons-indian-aadhaar-card-found-be-demo-1502296",
+      "pubDate": "Thu, 30 Jul 2026 19:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/30/david_emon.jpg",
+      "snippet": "Police claimed Emon had obtained the Aadhaar card to flee to India, but a verification found it carried a widely used demo number rather than a valid Indian identity."
+    },
+    {
+      "title": "From cricketer to crime figure: David Emon sent to jail in four cases",
+      "link": "https://www.tbsnews.net/bangladesh/court/top-criminal-david-emon-shown-arrested-4-cases-sent-jail-1502281",
+      "pubDate": "Thu, 30 Jul 2026 18:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/30/753864826_1811248023193042_3447844728230653642_n.jpg",
+      "snippet": "He was arrested yesterday at the Jhikargachha border area in Jashore."
+    },
+    {
       "title": "Fuel prices remain unchanged for August  ",
       "link": "https://www.tbsnews.net/bangladesh/energy/fuel-prices-remain-unchanged-august-1502286",
       "pubDate": "Thu, 30 Jul 2026 18:35:00 +0600",
@@ -56,125 +276,15 @@
       "snippet": "The cargo, to be supplied by Singapore's Vitol Asia in mid-August, is expected to help ease the gas shortage triggered by the outage of the Moheshkhali floating LNG terminal."
     },
     {
-      "title": "ICT allows questioning of ex-MP Golap in Madaripur crimes against humanity case",
-      "link": "https://www.tbsnews.net/bangladesh/court/ict-allows-questioning-ex-mp-golap-madaripur-crimes-against-humanity-case-1502131",
-      "pubDate": "Thu, 30 Jul 2026 17:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/08/25/abdus_sobhan_golap.jpg",
-      "snippet": "Golap will be questioned in a crimes against humanity case linked to the killing of three people during the 2024 July Uprising in Madaripur."
-    },
-    {
-      "title": "ARSA member shot dead by unidentified assailants in Rohingya camp",
-      "link": "https://www.tbsnews.net/bangladesh/crime/arsa-member-shot-dead-unidentified-assailants-rohingya-camp-1502151",
-      "pubDate": "Thu, 30 Jul 2026 17:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/12/14/rohingya_camp.jpg",
-      "snippet": "Police suspect the killing may be linked to a turf war between armed groups or factional infighting within the camps."
-    },
-    {
-      "title": "DU syndicate to review all appointments from 2009 to June 2024",
-      "link": "https://www.tbsnews.net/bangladesh/du-syndicate-review-all-appointments-2009-june-2024-1502121",
-      "pubDate": "Thu, 30 Jul 2026 16:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/30/du.jpg",
-      "snippet": "DU to review appointments, probe teachers over July Uprising roles, research."
-    },
-    {
-      "title": "PM Gold Cup football tournament to involve over 1.6cr students, 40,231 institutions",
-      "link": "https://www.tbsnews.net/bangladesh/pm-gold-cup-football-tournament-involve-over-16cr-students-40231-institutions-1502126",
-      "pubDate": "Thu, 30 Jul 2026 16:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/30/football_tournament.jpg",
-      "snippet": "Matches will begin in August as scheduled, but the tournament's official inauguration has been rescheduled to 9 or 10 September."
-    },
-    {
-      "title": "Malaysia to begin taking new Bangladeshi workers from late August: PM's adviser",
-      "link": "https://www.tbsnews.net/foreign-policy/malaysia-begin-taking-new-bangladeshi-workers-late-august-pms-adviser-1502156",
-      "pubDate": "Thu, 30 Jul 2026 16:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/30/755450808_1046397747864654_5150318743794886546_n_0.jpg",
-      "snippet": "A limited number of agencies are likely to send workers again."
-    },
-    {
-      "title": "15-foot Burmese python rescued from CU campus, released into nearby forest",
-      "link": "https://www.tbsnews.net/bangladesh/15-foot-burmese-python-rescued-cu-campus-released-nearby-forest-1502171",
-      "pubDate": "Thu, 30 Jul 2026 16:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/30/cu_snake.jpg",
-      "snippet": "A wandering forest giant briefly startled campus before returning to wilderness safely."
-    },
-    {
       "title": "Ctg Chamber seeks permission for empty container storage outside bonded facilities",
       "link": "https://www.tbsnews.net/economy/ctg-chamber-seeks-permission-empty-container-storage-outside-bonded-facilities-1502111",
       "pubDate": "Thu, 30 Jul 2026 16:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/02/13/ctg_port_container_photo_4_0.jpg",
       "snippet": "The business body says allowing shipping agents and main line operators to use non-bonded storage facilities would ease congestion at Chattogram Port and strengthen Bangladesh's trade competitiveness."
-    },
-    {
-      "title": "Govt seeks Saudi levy cut as Hajj airfare drops to Tk130,000",
-      "link": "https://www.tbsnews.net/bangladesh/govt-seeks-saudi-levy-cut-hajj-airfare-drops-tk130000-1502101",
-      "pubDate": "Thu, 30 Jul 2026 16:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/30/d09c6756-458c-44da-ad45-f4c9e459c7f6.jpg",
-      "snippet": "Religious Affairs Secretary Munshi Alauddin Al Azad said around 95% of Bangladeshi pilgrims perform Hajj through private agencies and only 5% travel under the government management system."
-    },
-    {
-      "title": "PM raises hopes for social change in post-July Bangladesh: Fakhrul",
-      "link": "https://www.tbsnews.net/bangladesh/pm-raises-hopes-social-change-post-july-bangladesh-fakhrul-1502106",
-      "pubDate": "Thu, 30 Jul 2026 16:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/30/mirza_fakrul.png",
-      "snippet": "\"Only the Prime Minister is holding the change to build the country and society. Many who used to take bribes, commit corruption, and used opportunities are changing their stance from fascists to take advantage of the July changes. All this is sad,\" ..."
-    },
-    {
-      "title": "Bricks hurled at Sarjis Alam's motorcade in Sylhet; BNP denies NCP's allegation",
-      "link": "https://www.tbsnews.net/bangladesh/politics/bricks-hurled-sarjis-alams-motorcade-sylhet-bnp-denies-ncps-allegation-1502081",
-      "pubDate": "Thu, 30 Jul 2026 16:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/30/car_ncp_damaged.jpg",
-      "snippet": "One vehicle was damaged after protesters hurled bricks at vehicles carrying NCP leaders; Sarjis Alam alleged BNP activists were behind the attack, while the party denied any involvement."
-    },
-    {
-      "title": "Ex-BRUR VC Kalimullah arrested in July Uprising attempted murder case",
-      "link": "https://www.tbsnews.net/bangladesh/ex-brur-vc-kalimullah-arrested-july-uprising-attempted-murder-case-1502096",
-      "pubDate": "Thu, 30 Jul 2026 16:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/30/nazmul_ahsan_kalimullah_the_former_vice-chancellor_of_begum_rokeya_university.jpg",
-      "snippet": "Fresh arrest order keeps former BRUR vice-chancellor behind bars."
     },
     {
       "title": "BB extends deadline for MFS card-to-wallet add money compliance to 31 Dec",
@@ -188,70 +298,26 @@
       "snippet": "Mobile financial service providers and scheduled banks failing to implement the required measures by the deadline will have to suspend card-to-MFS 'add money' services from 1 January 2027."
     },
     {
-      "title": "Parents to keep lifetime possession after gifting property to children under proposed law: Minister",
-      "link": "https://www.tbsnews.net/bangladesh/parents-keep-lifetime-possession-after-gifting-property-children-under-proposed-law",
-      "pubDate": "Thu, 30 Jul 2026 16:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/30/law_justice_and_parliamentary_affairs_minister_md_asaduzzama.jpg",
-      "snippet": "Proposed law lets parents retain lifetime possession of gifted property."
-    },
-    {
-      "title": "Hasina to face legal action if she returns to Bangladesh: Law minister",
-      "link": "https://www.tbsnews.net/bangladesh/hasina-face-legal-action-if-she-returns-bangladesh-law-minister-1502051",
-      "pubDate": "Thu, 30 Jul 2026 16:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/30/law_justice_and_parliamentary_affairs_minister_md_asaduzzama.jpg",
-      "snippet": "Minister says law will take its course if Hasina returns."
-    },
-    {
       "title": "Experts call for stronger role of nutritionists, dietitians in healthcare",
       "link": "https://www.tbsnews.net/bangladesh/experts-call-stronger-role-nutritionists-dietitians-healthcare-1502056",
       "pubDate": "Thu, 30 Jul 2026 16:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/30/health_and_neutritionist.png",
       "snippet": "The event was organised by Shushasther Bangladesh that brought together policymakers, physicians, nutritionists, dietitians, academics and researchers from the health, nutrition and education sectors."
     },
     {
-      "title": "FY26 ADP implementation falls to record low of 67.52%",
-      "link": "https://www.tbsnews.net/economy/fy26-adp-implementation-falls-record-low-6752-1502041",
+      "title": "Political transition, project review drag FY26 ADP implementation to record low of 67.52%",
+      "link": "https://www.tbsnews.net/economy/political-transition-project-review-drag-fy26-adp-implementation-record-low-6752-1502041",
       "pubDate": "Thu, 30 Jul 2026 16:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/22/adp_0.png",
       "snippet": "According to IMED officials, ADP implementation had exceeded 80% in previous fiscal years, but the rate has dropped below that threshold over the past two years."
-    },
-    {
-      "title": "Khulna man arrested for raping 9-year-old daughter after 999 emergency call",
-      "link": "https://www.tbsnews.net/bangladesh/khulna-man-arrested-raping-9-year-old-daughter-after-999-emergency-call-1502046",
-      "pubDate": "Thu, 30 Jul 2026 16:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/06/14/1660100471-four-arrested-with-hoarded-diesel-stock-l.jpg",
-      "snippet": "Acting on the 999 alert, Daulatpur police rushed to the scene, rescued the accused from an angry mob, and took him into custody."
-    },
-    {
-      "title": "PM's defence adviser lauds PLA modernisation, China's support to Bangladesh",
-      "link": "https://www.tbsnews.net/foreign-policy/pms-defence-adviser-lauds-pla-modernisation-chinas-support-bangladesh-1502021",
-      "pubDate": "Thu, 30 Jul 2026 16:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/07/10/1720587314-unb_newswire.jpg",
-      "snippet": "He said China is willing to strengthen exchanges and cooperation with Bangladesh in defence and other fields."
     },
     {
       "title": "Measles: Death toll reaches 835 as 4 more children die",
@@ -956,51 +1022,7 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/27/female_student_du.jpg",
       "snippet": "A platform of DU female students has submitted a memorandum to the vice-chancellor."
-    },
-    {
-      "title": "Bagerhat family planning officer suspended after minister finds irregularities during hospital visit",
-      "link": "https://www.tbsnews.net/bangladesh/bagerhat-family-planning-officer-suspended-after-minister-finds-irregularities-during",
-      "pubDate": "Mon, 27 Jul 2026 21:10:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/02/26/bagerhat.jpg",
-      "snippet": "The officer will receive a subsistence allowance in accordance with the applicable rules during the suspension period."
-    },
-    {
-      "title": "Fosun Health launches world’s first approved solid tumor CAR-T therapy",
-      "link": "https://www.tbsnews.net/world/fosun-health-launches-worlds-first-approved-solid-tumor-car-t-therapy-1499531",
-      "pubDate": "Mon, 27 Jul 2026 21:05:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/27/fosun_health.png",
-      "snippet": "As one of the first medical institutions in China to complete evaluation and certification by regulatory authority and carry out standardized clinical application of this product, Fosun Health’s completion of the first gastric cancer patient cell col..."
-    },
-    {
-      "title": "Dismissed Islami Bank employees protest outside Chinese economic zone event in Ctg",
-      "link": "https://www.tbsnews.net/bangladesh/dismissed-islami-bank-employees-protest-outside-chinese-economic-zone-event-ctg-1499501",
-      "pubDate": "Mon, 27 Jul 2026 19:50:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/27/755555131_1567231004933141_3436909053174904012_n.jpg",
-      "snippet": "The protesters demanded reinstatement and urged government intervention during the foundation stone-laying ceremony of the Chinese Economic and Industrial Zone in Anwara."
-    },
-    {
-      "title": "Govt appoints Prof Mahbub Ullah as national professor",
-      "link": "https://www.tbsnews.net/bangladesh/education/govt-appoints-prof-mahbub-ullah-national-professor-1499481",
-      "pubDate": "Mon, 27 Jul 2026 19:35:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/27/1cf4f6ab-d5a5-47db-8119-7f139f511e54.jpg",
-      "snippet": "He has been appointed for a five-year term under the National Professor Policy 2023."
     }
   ],
-  "updatedAt": "2026-07-30T13:10:03.552Z"
+  "updatedAt": "2026-07-30T15:31:14.549Z"
 }
