@@ -1,6 +1,61 @@
 {
   "news": [
     {
+      "title": "Fuel prices remain unchanged for August  ",
+      "link": "https://www.tbsnews.net/bangladesh/energy/fuel-prices-remain-unchanged-august-1502286",
+      "pubDate": "Thu, 30 Jul 2026 18:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/27/fuel.png",
+      "snippet": "Diesel will continue to retail at Tk115 per litre, octane at Tk145, petrol at Tk140 and kerosene at Tk135 from 1 August."
+    },
+    {
+      "title": "31 July 2024: The March for Justice",
+      "link": "https://www.tbsnews.net/features/panorama/31-july-2024-march-justice-1502211",
+      "pubDate": "Thu, 30 Jul 2026 18:30:00 +0600",
+      "category": "Analysis",
+      "color": "#5d4037",
+      "bg": "#efebe9",
+      "icon": "🔍",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/30/hc_protest_0.jpg",
+      "snippet": "The events of the day were widely viewed as a significant moment in the protests, with many observers describing them as marking a shift in the movement's momentum"
+    },
+    {
+      "title": "Quota system now implemented in its worst form despite anti-quota movement: Shafiqur",
+      "link": "https://www.tbsnews.net/bangladesh/politics/quota-system-now-implemented-its-worst-form-despite-anti-quota-movement-shafiqur",
+      "pubDate": "Thu, 30 Jul 2026 18:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/30/shafiqur.jpg",
+      "snippet": "Jamaat chief accuses the government of replacing merit with partisan appointments across universities, banks and public institutions."
+    },
+    {
+      "title": "Dengue: 3 more die, 467 hospitalised in 24 hours",
+      "link": "https://www.tbsnews.net/bangladesh/health/dengue-3-more-die-467-hospitalised-24-hours-1502181",
+      "pubDate": "Thu, 30 Jul 2026 17:45:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/20/dengue_6.jpg",
+      "snippet": "So far, 53 dengue-related deaths and 15,157 cases have been recorded this year."
+    },
+    {
+      "title": "Govt approves purchase of LNG cargo at $22.35 per MMBtu amid gas crisis",
+      "link": "https://www.tbsnews.net/bangladesh/energy/govt-approves-purchase-lng-cargo-2235-mmbtu-amid-gas-crisis-1502176",
+      "pubDate": "Thu, 30 Jul 2026 17:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/06/reuters_lng.jpg",
+      "snippet": "The cargo, to be supplied by Singapore's Vitol Asia in mid-August, is expected to help ease the gas shortage triggered by the outage of the Moheshkhali floating LNG terminal."
+    },
+    {
       "title": "ICT allows questioning of ex-MP Golap in Madaripur crimes against humanity case",
       "link": "https://www.tbsnews.net/bangladesh/court/ict-allows-questioning-ex-mp-golap-madaripur-crimes-against-humanity-case-1502131",
       "pubDate": "Thu, 30 Jul 2026 17:00:00 +0600",
@@ -188,28 +243,6 @@
       "snippet": "Acting on the 999 alert, Daulatpur police rushed to the scene, rescued the accused from an angry mob, and took him into custody."
     },
     {
-      "title": "Dhaka South approved Tk4,004cr budget; drainage, dengue control, and civic services prioritised",
-      "link": "https://www.tbsnews.net/bangladesh/dhaka-south-approved-tk4004cr-prioritises-drainage-dengue-control-and-civic-services",
-      "pubDate": "Thu, 30 Jul 2026 16:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/12/15/dscc.jpg",
-      "snippet": "He also described the budget as a reflection of the trust placed by taxpayers in the city corporation."
-    },
-    {
-      "title": "Govt maintains “zero tolerance” against human trafficking, online scams: Home minister",
-      "link": "https://www.tbsnews.net/bangladesh/govt-maintains-zero-tolerance-against-human-trafficking-online-scams-home-minister",
-      "pubDate": "Thu, 30 Jul 2026 16:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/30/home_minister_salahuddin_ahmed.jpg",
-      "snippet": "Bangladesh intensifies crackdown on trafficking and technology-enabled scam networks."
-    },
-    {
       "title": "PM's defence adviser lauds PLA modernisation, China's support to Bangladesh",
       "link": "https://www.tbsnews.net/foreign-policy/pms-defence-adviser-lauds-pla-modernisation-chinas-support-bangladesh-1502021",
       "pubDate": "Thu, 30 Jul 2026 16:10:00 +0600",
@@ -224,10 +257,10 @@
       "title": "Measles: Death toll reaches 835 as 4 more children die",
       "link": "https://www.tbsnews.net/bangladesh/measles-death-toll-reaches-835-5-more-children-die-1501991",
       "pubDate": "Thu, 30 Jul 2026 15:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/measles_outbreak.jpg",
       "snippet": "A total of 870 new suspected measles cases were reported during the 24-hour period, bringing the cumulative number of suspected cases nationwide to 1,27,410."
     },
@@ -967,29 +1000,7 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/27/1cf4f6ab-d5a5-47db-8119-7f139f511e54.jpg",
       "snippet": "He has been appointed for a five-year term under the National Professor Policy 2023."
-    },
-    {
-      "title": "Dengue claims one more life as 546 hospitalised in 24hrs",
-      "link": "https://www.tbsnews.net/bangladesh/dengue-claims-one-more-life-546-hospitalised-24hrs-1499456",
-      "pubDate": "Mon, 27 Jul 2026 19:15:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/dengue.jpg",
-      "snippet": "The country has recorded 44 dengue deaths and 13,644 cases so far this year, according to DGHS data."
-    },
-    {
-      "title": "HSC exams resume in flood-hit Ctg, with 1,825 candidates absent",
-      "link": "https://www.tbsnews.net/bangladesh/education/hsc-exams-resume-flood-hit-ctg-1825-candidates-absent-1499386",
-      "pubDate": "Mon, 27 Jul 2026 18:25:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/06/whatsapp_image_2022-11-06_at_11.47.22_am.jpeg",
-      "snippet": "The examinations began at 10am in line with the previous schedule."
     }
   ],
-  "updatedAt": "2026-07-30T11:29:06.200Z"
+  "updatedAt": "2026-07-30T13:10:03.552Z"
 }
