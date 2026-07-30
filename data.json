@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "US upgrades Bangladesh travel advisory, lowers risk level",
+      "link": "https://www.tbsnews.net/foreign-policy/us-upgrades-bangladesh-travel-advisory-says-country-safe-travel-1502596",
+      "pubDate": "Fri, 31 Jul 2026 00:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/13/usta.png",
+      "snippet": "I informed Khalilur Rahman that the State Department has taken into consideration the stable conditions on the ground and has deemed that Bangladesh is safer for travel, US Special Envoy for South and Central Asia Sergio Gor says."
+    },
+    {
+      "title": "BB cuts policy rate by 50 basis points after 2 years",
+      "link": "https://www.tbsnews.net/economy/banking/bb-cuts-policy-rate-50-basis-points-after-2-years-1502576",
+      "pubDate": "Thu, 30 Jul 2026 23:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/13/monetary_policy.png",
+      "snippet": "The new rates will come into effect from 2 August 2026."
+    },
+    {
+      "title": "Indian parliamentary panel flags 'increasing Chinese footprints' in Bangladesh, urges stronger dev co-op with Dhaka",
+      "link": "https://www.tbsnews.net/foreign-policy/indian-parliamentary-panel-flags-increasing-chinese-footprints-bangladesh-urges",
+      "pubDate": "Thu, 30 Jul 2026 22:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/10/29/india_bangladesh.jpg",
+      "snippet": "The committee urged New Delhi to closely monitor the activities of foreign powers in Bangladesh, warning that any attempt by \"unfriendly countries\" to establish a military foothold in the country would pose serious security risks for India."
+    },
+    {
       "title": "Bangladesh-US ties on very positive trajectory; committed to building on achievements: FM",
       "link": "https://www.tbsnews.net/foreign-policy/bangladesh-us-ties-very-positive-trajectory-committed-building-achievements-fm",
       "pubDate": "Thu, 30 Jul 2026 22:15:00 +0600",
@@ -67,17 +100,6 @@
       "snippet": "UAE President Sheikh Mohamed also expressed heartfelt condolences over the deaths of two Bangladeshi nationals residing in the UAE who were among the victims of the attacks"
     },
     {
-      "title": "Ruling party creating 'reign of terror' in Bangladesh: Nasiruddin Patwary",
-      "link": "https://www.tbsnews.net/bangladesh/politics/ruling-party-creating-reign-terror-bangladesh-nasiruddin-patwary-1502471",
-      "pubDate": "Thu, 30 Jul 2026 21:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/12/16/nasiruddin-patwary.jpg",
-      "snippet": "NCP leaders alleged that activists of the ruling party attacked their motorcade in Sylhet’s Golapganj earlier in the day."
-    },
-    {
       "title": "Customs seizes 101 cartons of misdeclared imported goods from UAE",
       "link": "https://www.tbsnews.net/bangladesh/customs-seizes-101-cartons-misdeclared-imported-goods-uae-1502486",
       "pubDate": "Thu, 30 Jul 2026 21:25:00 +0600",
@@ -87,6 +109,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/30/untitled-2.jpg",
       "snippet": "Authorities investigate importer after shipment reveals undeclared goods during airport inspection."
+    },
+    {
+      "title": "Ruling party creating 'reign of terror' in Bangladesh: Nasiruddin Patwary",
+      "link": "https://www.tbsnews.net/bangladesh/politics/ruling-party-creating-reign-terror-bangladesh-nasiruddin-patwary-1502471",
+      "pubDate": "Thu, 30 Jul 2026 21:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/12/16/nasiruddin-patwary.jpg",
+      "snippet": "NCP leaders alleged that activists of the ruling party attacked their motorcade in Sylhet’s Golapganj earlier in the day."
     },
     {
       "title": "No discussion between Bangladesh and Myanmar on taking back 3 lakh Rohingyas: Shama Obaed",
@@ -213,23 +246,12 @@
       "title": "UGC to establish language centres at 25 universities to boost global competitiveness",
       "link": "https://www.tbsnews.net/bangladesh/education/ugc-establish-language-centres-25-universities-boost-global-competitiveness",
       "pubDate": "Thu, 30 Jul 2026 20:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/ugc.jpg",
-      "snippet": "The centres will offer courses in eight international languages, including Japanese, Korean, Chinese, Arabic, French and German"
-    },
-    {
-      "title": "Regent Group Chairman Shahed gets bail in Tk1cr fraud case",
-      "link": "https://www.tbsnews.net/bangladesh/court/regent-group-chairman-shahed-gets-bail-tk1cr-fraud-case-1502371",
-      "pubDate": "Thu, 30 Jul 2026 20:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/30/regent_shahed.jpg",
-      "snippet": "A Dhaka court granted him 10 days' bail after a settlement with the complainant, but he will remain in jail due to other pending cases."
+      "snippet": "Languages include Japanese, Korean, Chinese, Arabic, French, German"
     },
     {
       "title": "The anatomy of an uprising: When protest topples power, and when it fails",
@@ -241,17 +263,6 @@
       "icon": "🔍",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/30/169.png",
       "snippet": "Uprisings can force presidents into exile, bring down dictatorships or leave authoritarian systems more entrenched than before. What determines whether the street succeeds has depended on far more than courage alone"
-    },
-    {
-      "title": "Workers block road in Barishal over unpaid wages, 8-point demand",
-      "link": "https://www.tbsnews.net/bangladesh/workers-block-road-barishal-over-unpaid-wages-8-point-demand-1502361",
-      "pubDate": "Thu, 30 Jul 2026 20:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/30/barishal_protest.jpg",
-      "snippet": "The protesting workers alleged that they had not received salaries for the past two months despite working regularly."
     },
     {
       "title": "31 July 2024: The March for Justice",
@@ -276,7 +287,7 @@
       "snippet": "So far, 53 dengue-related deaths and 15,157 cases have been recorded this year."
     },
     {
-      "title": "Ctg Chamber seeks permission for empty container storage outside bonded facilities",
+      "title": "Ctg Chamber seeks permission to store empty containers outside bonded facilities",
       "link": "https://www.tbsnews.net/economy/ctg-chamber-seeks-permission-empty-container-storage-outside-bonded-facilities-1502111",
       "pubDate": "Thu, 30 Jul 2026 16:50:00 +0600",
       "category": "Economy",
@@ -284,7 +295,7 @@
       "bg": "#e8f5e9",
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/02/13/ctg_port_container_photo_4_0.jpg",
-      "snippet": "The business body says allowing shipping agents and main line operators to use non-bonded storage facilities would ease congestion at Chattogram Port and strengthen Bangladesh's trade competitiveness."
+      "snippet": "The current restriction is worsening congestion at Chattogram Port and undermining the country’s trade competitiveness, the chamber says."
     },
     {
       "title": "BB extends deadline for MFS card-to-wallet add money compliance to 31 Dec",
@@ -295,7 +306,7 @@
       "bg": "#e0f2f1",
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/04/bangladesh_bank.jpg",
-      "snippet": "Mobile financial service providers and scheduled banks failing to implement the required measures by the deadline will have to suspend card-to-MFS 'add money' services from 1 January 2027."
+      "snippet": "Failure to do so will require them to discontinue card-to-MFS account ‘add money’ services from 1 January 2027."
     },
     {
       "title": "Experts call for stronger role of nutritionists, dietitians in healthcare",
@@ -804,17 +815,6 @@
       "snippet": "Bangladesh has an opportunity to reform the state, attract investment, create jobs and identify new engines of growth. But that opportunity will disappear unless the government establishes accountability and protects public institutions"
     },
     {
-      "title": "Moghbazar Ad-din hospital resumes services after licence reinstatement",
-      "link": "https://www.tbsnews.net/bangladesh/health/ad-din-hospital-resumes-services-after-licence-reinstatement-1500296",
-      "pubDate": "Tue, 28 Jul 2026 18:35:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/27/ad-din_medical_moghbazar.jpg",
-      "snippet": "The government restored the hospital's licence subject to conditions, including compliance with existing regulations and the recruitment of the required number of doctors and nurses."
-    },
-    {
       "title": "Dengue death toll reaches 47 as 3 more patient dies in 24hrs",
       "link": "https://www.tbsnews.net/bangladesh/dengue-death-toll-reaches-47-3-more-patient-dies-24hrs-1500291",
       "pubDate": "Tue, 28 Jul 2026 18:35:00 +0600",
@@ -824,6 +824,17 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/25/05_news_copy.png",
       "snippet": "532 patients were discharged from hospitals after recovering from the mosquito-borne disease, bringing the total number of recoveries in 2026 to 13,009."
+    },
+    {
+      "title": "Moghbazar Ad-din hospital resumes services after licence reinstatement",
+      "link": "https://www.tbsnews.net/bangladesh/health/ad-din-hospital-resumes-services-after-licence-reinstatement-1500296",
+      "pubDate": "Tue, 28 Jul 2026 18:35:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/27/ad-din_medical_moghbazar.jpg",
+      "snippet": "The government restored the hospital's licence subject to conditions, including compliance with existing regulations and the recruitment of the required number of doctors and nurses."
     },
     {
       "title": "Govt approves Teesta University in northern Bangladesh",
@@ -967,40 +978,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/28/banglabiz.jpg",
       "snippet": "Awaiting final approval from the Prime Minister’s Office, the initiative aims to bring all investor-related services under a single digital umbrella by 2030, streamlining everything from initial business registration to final clearances."
-    },
-    {
-      "title": "9th Pay Scale announcement not before IMF loan talks in October",
-      "link": "https://www.tbsnews.net/economy/9th-pay-scale-announcement-not-imf-loan-talks-october-1499691",
-      "pubDate": "Tue, 28 Jul 2026 00:25:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/01/new-payscale.png",
-      "snippet": "National Pay Commission submits reports on 22 January this year recommending salary and allowance increases of 100% to 140%."
-    },
-    {
-      "title": "E coli found in drinking water used by 85% of household members: BBS survey",
-      "link": "https://www.tbsnews.net/bangladesh/health/e-coli-found-drinking-water-used-85-household-members-bbs-survey-1499676",
-      "pubDate": "Tue, 28 Jul 2026 00:05:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/04/water_0.jpg",
-      "snippet": "Over one-third of young children have elevated lead levels"
-    },
-    {
-      "title": "Govt to waive booth rent for small exporters at int'l fairs: Muktadir",
-      "link": "https://www.tbsnews.net/economy/industry/govt-waive-booth-rent-small-exporters-intl-fairs-muktadir-1499666",
-      "pubDate": "Tue, 28 Jul 2026 00:00:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/05/muktadir-1771544088.jpg",
-      "snippet": "He said small entrepreneurs play an immense role in the country’s export sector but many are unable to participate in overseas exhibitions due to financial constraints."
     }
   ],
-  "updatedAt": "2026-07-30T17:27:14.020Z"
+  "updatedAt": "2026-07-30T18:56:29.204Z"
 }
