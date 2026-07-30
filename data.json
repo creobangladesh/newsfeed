@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "Woman found dead at Uttara home; police suspect burglars strangled her after cutting window grille",
+      "link": "https://www.tbsnews.net/bangladesh/crime/woman-found-dead-uttara-home-police-suspect-burglars-strangled-her-after-cutting",
+      "pubDate": "Fri, 31 Jul 2026 01:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/04/04/dead_ht_0.png",
+      "snippet": "The incident occurred around 3pm on the second floor of a house in the Jamtala Lane area of Faydabad."
+    },
+    {
+      "title": "10 injured as NCP, BNP activists clash in Kurigram",
+      "link": "https://www.tbsnews.net/bangladesh/politics/10-injured-ncp-bnp-activists-clash-kurigram-1502611",
+      "pubDate": "Fri, 31 Jul 2026 01:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/31/ncp_bnp_kurigram.jpeg",
+      "snippet": "The clash broke out around 6:30pm on Thana Road in the upazila headquarters when separate protest processions brought out by the two parties came face to face."
+    },
+    {
+      "title": "Attempted murder complaint filed against Rucsu GS Ammar, 8 others over RU library assault",
+      "link": "https://www.tbsnews.net/bangladesh/court/attempted-murder-complaint-filed-against-rucsu-gs-ammar-8-others-over-ru-library",
+      "pubDate": "Fri, 31 Jul 2026 00:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/28/84d004a8-2d97-408e-9a5c-bc30927f8213.png",
+      "snippet": "The court directed the Police Bureau of Investigation (PBI) to investigate the allegations."
+    },
+    {
       "title": "US upgrades Bangladesh travel advisory, lowers risk level",
       "link": "https://www.tbsnews.net/foreign-policy/us-upgrades-bangladesh-travel-advisory-says-country-safe-travel-1502596",
       "pubDate": "Fri, 31 Jul 2026 00:00:00 +0600",
@@ -19,7 +52,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/13/monetary_policy.png",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/03/01/bangladesh_bank_1.jpg",
       "snippet": "The new rates will come into effect from 2 August 2026."
     },
     {
@@ -52,7 +85,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/22/bmd_logo.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/31/bmd_new_project_2.jpg",
       "snippet": "Developed with JICA support, the new tools aim to strengthen disaster preparedness by improving forecasts of extreme weather, flash floods and coastal inundation risks."
     },
     {
@@ -100,17 +133,6 @@
       "snippet": "UAE President Sheikh Mohamed also expressed heartfelt condolences over the deaths of two Bangladeshi nationals residing in the UAE who were among the victims of the attacks"
     },
     {
-      "title": "Customs seizes 101 cartons of misdeclared imported goods from UAE",
-      "link": "https://www.tbsnews.net/bangladesh/customs-seizes-101-cartons-misdeclared-imported-goods-uae-1502486",
-      "pubDate": "Thu, 30 Jul 2026 21:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/30/untitled-2.jpg",
-      "snippet": "Authorities investigate importer after shipment reveals undeclared goods during airport inspection."
-    },
-    {
       "title": "Ruling party creating 'reign of terror' in Bangladesh: Nasiruddin Patwary",
       "link": "https://www.tbsnews.net/bangladesh/politics/ruling-party-creating-reign-terror-bangladesh-nasiruddin-patwary-1502471",
       "pubDate": "Thu, 30 Jul 2026 21:25:00 +0600",
@@ -120,6 +142,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/12/16/nasiruddin-patwary.jpg",
       "snippet": "NCP leaders alleged that activists of the ruling party attacked their motorcade in Sylhet’s Golapganj earlier in the day."
+    },
+    {
+      "title": "Customs seizes 101 cartons of misdeclared imported goods from UAE",
+      "link": "https://www.tbsnews.net/bangladesh/customs-seizes-101-cartons-misdeclared-imported-goods-uae-1502486",
+      "pubDate": "Thu, 30 Jul 2026 21:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/30/untitled-2.jpg",
+      "snippet": "Authorities investigate importer after shipment reveals undeclared goods during airport inspection."
     },
     {
       "title": "No discussion between Bangladesh and Myanmar on taking back 3 lakh Rohingyas: Shama Obaed",
@@ -208,39 +241,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/30/af31cd59-55c5-4b4c-9c6c-4821beb03749.jpg",
       "snippet": "Mirza Fakhrul Islam Alamgir said many people have simply changed their colours and they have now become the biggest July warriors."
-    },
-    {
-      "title": "PM orders completion of reopening, privatisation of closed state-run factories by 2026",
-      "link": "https://www.tbsnews.net/bangladesh/pm-orders-completion-reopening-privatisation-closed-state-run-factories-2026-1502396",
-      "pubDate": "Thu, 30 Jul 2026 20:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/25/pm_tarique_rahman.jpg",
-      "snippet": "The prime minister also instructed the relevant agencies to take effective measures to improve the country’s investment climate."
-    },
-    {
-      "title": "626 Bangladeshis experience 'auto-cancellation' of UAE visas; renewal process underway",
-      "link": "https://www.tbsnews.net/bangladesh/626-bangladeshis-experience-auto-cancellation-uae-visas-renewal-process-underway-1502406",
-      "pubDate": "Thu, 30 Jul 2026 20:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/30/shama_nur.jpg",
-      "snippet": "Shama Obaed urges Bangladeshis to refrain from any unlawful activities"
-    },
-    {
-      "title": "PKSF launches 'GREEN' project to scale up climate-resilient initiatives",
-      "link": "https://www.tbsnews.net/bangladesh/pksf-launches-green-project-scale-climate-resilient-initiatives-1502411",
-      "pubDate": "Thu, 30 Jul 2026 20:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/30/36b9b274899c34c85277d5a85e1361e8.jpeg",
-      "snippet": "According to the project presentation, the GREEN Project will be implemented from 2026 to 2031 with a total investment of $211.7 million."
     },
     {
       "title": "UGC to establish language centres at 25 universities to boost global competitiveness",
@@ -967,18 +967,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/08/22/s-amp-p-global-rating-assigns-morocco-bb-b-credit-rating-800x400.jpg",
       "snippet": "'We revised the outlook to negative due to the increasing risks to Bangladesh's economy posed by a weak domestic banking sector, fiscal constraints, external headwinds, and the growing prospects of a more protracted recovery,' says the ratings agency..."
-    },
-    {
-      "title": "Govt proposes Tk661cr project to merge all OSS portals into BanglaBiz",
-      "link": "https://www.tbsnews.net/economy/govt-proposes-tk661cr-project-merge-all-oss-portals-banglabiz-1499721",
-      "pubDate": "Tue, 28 Jul 2026 01:30:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/28/banglabiz.jpg",
-      "snippet": "Awaiting final approval from the Prime Minister’s Office, the initiative aims to bring all investor-related services under a single digital umbrella by 2030, streamlining everything from initial business registration to final clearances."
     }
   ],
-  "updatedAt": "2026-07-30T18:56:29.204Z"
+  "updatedAt": "2026-07-30T20:16:31.053Z"
 }
