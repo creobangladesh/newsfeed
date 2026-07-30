@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "APM Terminals unveils $550m Laldia terminal layout; construction starts in December",
+      "link": "https://www.tbsnews.net/bangladesh/infrastructure/apm-terminals-unveils-550m-laldia-terminal-layout-construction-starts",
+      "pubDate": "Thu, 30 Jul 2026 07:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/30/p3_laldia_terminal_layout.jpeg",
+      "snippet": "Once completed, the facility will become Bangladesh’s first fully foreign-invested container terminal. Designed to handle more than 8 lakh TEUs annually, it is expected to increase Chattogram Port’s container handling capacity by nearly 23%, easing c..."
+    },
+    {
       "title": "Unilever Bangladesh crowns BizMaestros X UFLP 2026 winners",
       "link": "https://www.tbsnews.net/bangladesh/unilever-bangladesh-crowns-bizmaestros-x-uflp-2026-winners-1501671",
       "pubDate": "Thu, 30 Jul 2026 00:50:00 +0600",
@@ -263,17 +274,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/08/13/tib_logo.jpeg",
       "snippet": "The organisation urges the govt to extend the feedback period by at least two weeks."
-    },
-    {
-      "title": "HRW raises concerns over fair trial standards at Bangladesh's ICT",
-      "link": "https://www.tbsnews.net/bangladesh/hrw-raises-concerns-over-fair-trial-standards-bangladeshs-ict-1501406",
-      "pubDate": "Wed, 29 Jul 2026 19:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/07/01/hrw_logo.jpg",
-      "snippet": "The rights group says shortcomings in tribunal proceedings risk undermining justice for victims and enabling political persecution."
     },
     {
       "title": "Only 22% of public health facilities have essential medicines in stock: PPRC study",
@@ -945,18 +945,7 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/12/26/bd-eng-teachers_0.png",
       "snippet": "Tk200 crore earmarked for bringing new educational institutions under the MPO system."
-    },
-    {
-      "title": "Biman Bangladesh resumes direct flights to Japan's Narita after year-long pause",
-      "link": "https://www.tbsnews.net/economy/aviation/biman-bangladesh-resumes-direct-flights-japans-narita-after-year-long-pause-1498861",
-      "pubDate": "Mon, 27 Jul 2026 07:35:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/27/754871766_1576320167439274_7897286603120533916_n.jpg",
-      "snippet": "The Bangladeshi government expressed expectations that restarting the direct link will strengthen bilateral trade, investment, education, and people-to-people ties between Bangladesh and Japan, opening new avenues for economic cooperation"
     }
   ],
-  "updatedAt": "2026-07-29T23:59:22.828Z"
+  "updatedAt": "2026-07-30T03:16:14.403Z"
 }
