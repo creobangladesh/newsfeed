@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "'My blood has been shed; Tarique Rahman will have to pay the price': Patwary",
+      "link": "https://www.tbsnews.net/bangladesh/politics/my-blood-has-been-shed-tarique-rahman-will-have-pay-price-patwary-1503361",
+      "pubDate": "Sat, 01 Aug 2026 01:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/01/31/nasiruddin_patwary.png",
+      "snippet": "The NCP chief organiser made the remarks after alleging his convoy came under attack in Sylhet, a claim police have dismissed as false."
+    },
+    {
       "title": "Schoolgirl 'dragged from home, gang-raped' in Faridpur; two held",
       "link": "https://www.tbsnews.net/bangladesh/crime/schoolgirl-dragged-home-gang-raped-faridpur-two-held-1503356",
       "pubDate": "Sat, 01 Aug 2026 01:10:00 +0600",
@@ -166,17 +177,6 @@
       "snippet": "PM’s spouse Zubaida Rahman attended the event as the chief guest."
     },
     {
-      "title": "Dhaka South administrator announces seven-day ‘crash programme’ in Kamrangirchar",
-      "link": "https://www.tbsnews.net/bangladesh/dhaka-south-administrator-announces-seven-day-crash-programme-kamrangirchar-1503256",
-      "pubDate": "Fri, 31 Jul 2026 20:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/31/dhaka_north_city_corporation.png",
-      "snippet": "Administrator urges residents to help eliminate mosquito breeding and improve sanitation."
-    },
-    {
       "title": "July graffiti restoration to begin at DU tomorrow",
       "link": "https://www.tbsnews.net/bangladesh/july-graffiti-restoration-begin-du-tomorrow-1503241",
       "pubDate": "Fri, 31 Jul 2026 20:55:00 +0600",
@@ -186,6 +186,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/16/1910489.jpg",
       "snippet": "Dhaka University will begin a three-day programme tomorrow (1 August) to restore and preserve July graffiti across its campus, with the inauguration to be led by Vice-Chancellor Prof ABM Obaidul Islam."
+    },
+    {
+      "title": "Dhaka South administrator announces seven-day ‘crash programme’ in Kamrangirchar",
+      "link": "https://www.tbsnews.net/bangladesh/dhaka-south-administrator-announces-seven-day-crash-programme-kamrangirchar-1503256",
+      "pubDate": "Fri, 31 Jul 2026 20:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/31/dhaka_north_city_corporation.png",
+      "snippet": "Administrator urges residents to help eliminate mosquito breeding and improve sanitation."
     },
     {
       "title": "RAB uncovers yaba 'factory' in Keraniganj, arrests 4 with 1,968 pills",
@@ -241,17 +252,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/31/nasiruddin-patwary.jpg",
       "snippet": "The NCP leader also urged businesspeople not to pay extortion and accused the BNP of politicising state institutions."
-    },
-    {
-      "title": "Youth held in Feni over harassment of six-year-old in TikTok video",
-      "link": "https://www.tbsnews.net/bangladesh/crime/youth-held-feni-over-harassment-six-year-old-tiktok-video-1503126",
-      "pubDate": "Fri, 31 Jul 2026 19:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/31/feni_youth_arrested.jpg",
-      "snippet": "The girl was allegedly harassed while returning home from school on 28 July; police are looking for two others accused in the case."
     },
     {
       "title": "Two more die with measles-like symptoms",
@@ -967,18 +967,7 @@
       "icon": "📊",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/08/01/rice.jpg",
       "snippet": "According to traders, the retail price of various aromatic rice varieties has increased by Tk70 to Tk80 per kilogram over the past six months."
-    },
-    {
-      "title": "The price of conflict: What if the point is the price?",
-      "link": "https://www.tbsnews.net/thoughts/price-conflict-what-if-point-price-1500591",
-      "pubDate": "Wed, 29 Jul 2026 01:55:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/hormuz_reuters.jpg",
-      "snippet": "Recurring conflicts and volatile oil prices may be reshaping the global financial order, with import-dependent economies like Bangladesh paying the price"
     }
   ],
-  "updatedAt": "2026-07-31T19:24:07.572Z"
+  "updatedAt": "2026-07-31T20:41:52.526Z"
 }
