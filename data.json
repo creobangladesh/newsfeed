@@ -1,6 +1,105 @@
 {
   "news": [
     {
+      "title": "Stone thrown at Dhaka-bound train window, injures 2 passengers",
+      "link": "https://www.tbsnews.net/bangladesh/stone-thrown-dhaka-bound-train-window-injures-2-passengers-1503096",
+      "pubDate": "Fri, 31 Jul 2026 19:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/train_unb_img.jpg",
+      "snippet": "The train was passing through the Dulahazara area of Chakaria when a stone thrown from outside shattered a window and injured two passengers."
+    },
+    {
+      "title": "Law commission proposals to be executed in line with July Charter: Law minister",
+      "link": "https://www.tbsnews.net/bangladesh/law-commission-proposals-be-executed-line-july-charter-law-minister-1503101",
+      "pubDate": "Fri, 31 Jul 2026 18:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/31/law_justice_and_parliamentary_affairs_minister_md._asaduzzaman.jpg",
+      "snippet": "Government says remaining legal reforms will follow July Charter framework."
+    },
+    {
+      "title": "Airport customs seize goods worth Tk2.04 crore in anti-smuggling drive",
+      "link": "https://www.tbsnews.net/bangladesh/crime/airport-customs-seize-goods-worth-tk204-crore-anti-smuggling-drive-1503086",
+      "pubDate": "Fri, 31 Jul 2026 18:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/31/nbr_operation.jpg",
+      "snippet": "Officials recovered 481 cartons of foreign cigarettes during the day's drive."
+    },
+    {
+      "title": "'Pressure cooker' bomb found outside Ashulia tea stall, safely defused",
+      "link": "https://www.tbsnews.net/bangladesh/pressure-cooker-bomb-found-outside-ashulia-tea-stall-safely-defused-1503081",
+      "pubDate": "Fri, 31 Jul 2026 18:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/31/asulia_bomb.jpg",
+      "snippet": "Police says the device contained chemical explosives and numerous ball bearings, indicating it was designed to inflict significant casualties."
+    },
+    {
+      "title": "Two more die with measles-like symptoms",
+      "link": "https://www.tbsnews.net/bangladesh/health/two-more-die-measles-symptoms-1503076",
+      "pubDate": "Fri, 31 Jul 2026 17:45:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/11/measles_tbs.jpeg",
+      "snippet": "Suspected measles deaths rise to 741 as total reported cases exceed 128,000."
+    },
+    {
+      "title": "Man held hours after allegedly killing mother in Faridpur",
+      "link": "https://www.tbsnews.net/bangladesh/crime/man-held-hours-after-allegedly-killing-mother-faridpur-1503061",
+      "pubDate": "Fri, 31 Jul 2026 17:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/07/04/arrest-1579498383.jpg",
+      "snippet": "Rahim allegedly killed his mother at their home in Faridpur town and fled the scene before police arrested him in Saltha hours later."
+    },
+    {
+      "title": "When young people lose hope, nations lose stability",
+      "link": "https://www.tbsnews.net/thoughts/when-young-people-lose-hope-nations-lose-stability-1503031",
+      "pubDate": "Fri, 31 Jul 2026 17:25:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/31/zpcmsn5sonolhp3ma2e7r4hdkm.jpg",
+      "snippet": "India’s student protests offer Bangladesh a warning: when young people lose faith in fairness, opportunity and merit, national stability is at risk"
+    },
+    {
+      "title": "Meta India head named in police case over Facebook videos targeting Modi",
+      "link": "https://www.tbsnews.net/world/south-asia/meta-india-head-named-police-case-over-facebook-videos-targeting-modi-1503026",
+      "pubDate": "Fri, 31 Jul 2026 17:10:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/31/meta.png",
+      "snippet": "Fresh scrutiny of Meta intensifies amid India's online content crackdown."
+    },
+    {
+      "title": "Most Australian teens still on social media three months after under-16 ban began, study finds",
+      "link": "https://www.tbsnews.net/tech/most-australian-teens-still-social-media-three-months-after-under-16-ban-began-study-finds",
+      "pubDate": "Fri, 31 Jul 2026 17:05:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/31/social_sites_reuters_img.jpg",
+      "snippet": "The findings raise questions over the effectiveness of Australia's world-first age restriction as platforms struggle to enforce checks."
+    },
+    {
       "title": "DU teachers' association demands withdrawal of punitive actions against 10 teachers",
       "link": "https://www.tbsnews.net/bangladesh/education/du-teachers-association-demands-withdrawal-punitive-actions-against-10-teachers",
       "pubDate": "Fri, 31 Jul 2026 16:45:00 +0600",
@@ -213,10 +312,10 @@
       "title": "Govt orders redistribution of idle medical equipment at public hospitals",
       "link": "https://www.tbsnews.net/bangladesh/health/govt-orders-redistribution-idle-medical-equipment-public-hospitals-1502681",
       "pubDate": "Fri, 31 Jul 2026 10:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/11/healthcare.png",
       "snippet": "DGHS instructed to submit progress reports every 15 days"
     },
@@ -224,45 +323,23 @@
       "title": "KU sacks professor over sexual harassment, forms fresh probe against another",
       "link": "https://www.tbsnews.net/bangladesh/education/ku-sacks-professor-over-sexual-harassment-forms-fresh-probe-against-another",
       "pubDate": "Fri, 31 Jul 2026 10:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/29/khulna_university.jpg",
       "snippet": "The decisions were taken at the university's 237th Syndicate meeting yesterday (30 July), Acting Registrar Professor Dr S M Mahbubur Rahman confirmed."
-    },
-    {
-      "title": "Decades lost in courtrooms, insurance claims still out of reach",
-      "link": "https://www.tbsnews.net/bangladesh/decades-lost-courtrooms-insurance-claims-still-out-reach-1502716",
-      "pubDate": "Fri, 31 Jul 2026 10:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/31/insurence.png",
-      "snippet": "On 29 November 2015, a fire ripped through its warehouse and showroom, destroying inventory."
     },
     {
       "title": "Post-Covid job competition surges by 66%: Study",
       "link": "https://www.tbsnews.net/economy/post-covid-job-competition-surges-66-study-1502731",
       "pubDate": "Fri, 31 Jul 2026 09:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/07/26/learning_covid.png",
       "snippet": "The findings were presented at a seminar in Dhaka yesterday by BIDS Research Director Prof Atonu Rabbani."
-    },
-    {
-      "title": "Woman found dead at Uttara home; police suspect burglars strangled her after cutting window grille",
-      "link": "https://www.tbsnews.net/bangladesh/crime/woman-found-dead-uttara-home-police-suspect-burglars-strangled-her-after-cutting",
-      "pubDate": "Fri, 31 Jul 2026 01:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/04/04/dead_ht_0.png",
-      "snippet": "The incident occurred around 3pm on the second floor of a house in the Jamtala Lane area of Faydabad."
     },
     {
       "title": "BB cuts policy rate by 50 basis points after 2 years",
@@ -901,51 +978,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/2.jpg",
       "snippet": "Bangladesh has an opportunity to reform the state, attract investment, create jobs and identify new engines of growth. But that opportunity will disappear unless the government establishes accountability and protects public institutions"
-    },
-    {
-      "title": "Dengue death toll reaches 47 as 3 more patient dies in 24hrs",
-      "link": "https://www.tbsnews.net/bangladesh/dengue-death-toll-reaches-47-3-more-patient-dies-24hrs-1500291",
-      "pubDate": "Tue, 28 Jul 2026 18:35:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/25/05_news_copy.png",
-      "snippet": "532 patients were discharged from hospitals after recovering from the mosquito-borne disease, bringing the total number of recoveries in 2026 to 13,009."
-    },
-    {
-      "title": "Moghbazar Ad-din hospital resumes services after licence reinstatement",
-      "link": "https://www.tbsnews.net/bangladesh/health/ad-din-hospital-resumes-services-after-licence-reinstatement-1500296",
-      "pubDate": "Tue, 28 Jul 2026 18:35:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/27/ad-din_medical_moghbazar.jpg",
-      "snippet": "The government restored the hospital's licence subject to conditions, including compliance with existing regulations and the recruitment of the required number of doctors and nurses."
-    },
-    {
-      "title": "Govt approves Teesta University in northern Bangladesh",
-      "link": "https://www.tbsnews.net/bangladesh/education/govt-approves-teesta-university-northern-bangladesh-1500251",
-      "pubDate": "Tue, 28 Jul 2026 18:00:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/28/teesta_univ.jpg",
-      "snippet": "The UGC says the new university will broaden access to quality higher education, strengthen research and help drive socio-economic development across the northern region."
-    },
-    {
-      "title": "Measles outbreak: Death toll reaches 828 as 3 more children die in 24hrs",
-      "link": "https://www.tbsnews.net/bangladesh/health/measles-outbreak-death-toll-reaches-828-3-more-children-die-24hrs-1500361",
-      "pubDate": "Tue, 28 Jul 2026 17:30:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/03/whatsapp_image_2026-05-03_at_14.50.36.jpeg",
-      "snippet": "During the same period, a total of 799 new suspected measles cases were reported during the 24-hour period, bringing the cumulative number of suspected cases nationwide to 1,25,544."
     }
   ],
-  "updatedAt": "2026-07-31T11:06:13.716Z"
+  "updatedAt": "2026-07-31T13:14:26.727Z"
 }
