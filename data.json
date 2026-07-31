@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "Green chilli hits Tk400 a kg as vegetables remain pricey",
+      "link": "https://www.tbsnews.net/bangladesh/green-chilli-hits-tk400-kg-vegetables-remain-pricey-1503291",
+      "pubDate": "Fri, 31 Jul 2026 21:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/07/03/videocapture_20230703-104316_1.jpg",
+      "snippet": "Vendors were selling 100 grams for Tk40 and 250 grams for Tk100."
+    },
+    {
+      "title": "Apple set to lose nearly $500 billion in value after weak forecast",
+      "link": "https://www.tbsnews.net/tech/apple-set-lose-nearly-500-billion-value-after-weak-forecast-1503286",
+      "pubDate": "Fri, 31 Jul 2026 21:45:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/31/apple_stock_down.png",
+      "snippet": "Supply chain strains wipe billions from Apple’s market value."
+    },
+    {
+      "title": "'We'll take to streets with 70% who backed referendum,' says Porwar",
+      "link": "https://www.tbsnews.net/bangladesh/politics/well-take-streets-70-who-backed-referendum-says-porwar-1503281",
+      "pubDate": "Fri, 31 Jul 2026 21:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/31/porwar_jamaat.jpg",
+      "snippet": "The Jamaat secretary general accused the ruling party of following the same path as the Awami League and urged it to ‘turn back from the path of fascism.’"
+    },
+    {
       "title": "Zubaida Rahman calls for nationwide database of thalassaemia, rare disease patients",
       "link": "https://www.tbsnews.net/bangladesh/health/zubaida-rahman-calls-nationwide-database-thalassaemia-rare-disease-patients",
       "pubDate": "Fri, 31 Jul 2026 21:25:00 +0600",
@@ -12,15 +45,26 @@
       "snippet": "Although it may not be possible to cure thalassaemia fighters completely, we must extend reassurance to them and their families through compassion and empathy, she says."
     },
     {
-      "title": "S Alam shuts at least 11 Chattogram factories, around 6,000 workers lose jobs",
-      "link": "https://www.tbsnews.net/economy/industry/s-alam-shuts-least-11-chattogram-factories-around-6000-workers-lose-jobs-1503271",
+      "title": "S Alam shuts 11 Chattogram factories, around 6,000 workers lose jobs",
+      "link": "https://www.tbsnews.net/economy/industry/s-alam-shuts-11-chattogram-factories-around-6000-workers-lose-jobs-1503271",
       "pubDate": "Fri, 31 Jul 2026 21:20:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/11/03/s-alam-group-logo-2101271654.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/31/s-alam-group.jpg",
       "snippet": "The industrial units have closed amid prolonged raw material shortages and financial constraints, with the company saying affected workers will receive all outstanding dues by 6 August."
+    },
+    {
+      "title": "Anthropic's AI hacked three companies during tests, highlighting growing security risks",
+      "link": "https://www.tbsnews.net/tech/anthropics-ai-hacked-three-companies-during-tests-highlighting-growing-security-risks-1503276",
+      "pubDate": "Fri, 31 Jul 2026 21:20:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/31/claude_ai.png",
+      "snippet": "Testing error exposed AI models to the internet, triggering real-world security breaches."
     },
     {
       "title": "Health minister pledges maximum support for thalassemia patients",
@@ -34,17 +78,6 @@
       "snippet": "PM’s spouse Zubaida Rahman attended the event as the chief guest."
     },
     {
-      "title": "July graffiti restoration to begin at DU tomorrow",
-      "link": "https://www.tbsnews.net/bangladesh/july-graffiti-restoration-begin-du-tomorrow-1503241",
-      "pubDate": "Fri, 31 Jul 2026 20:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/16/1910489.jpg",
-      "snippet": "Dhaka University will begin a three-day programme tomorrow (1 August) to restore and preserve July graffiti across its campus, with the inauguration to be led by Vice-Chancellor Prof ABM Obaidul Islam."
-    },
-    {
       "title": "Dhaka South administrator announces seven-day ‘crash programme’ in Kamrangirchar",
       "link": "https://www.tbsnews.net/bangladesh/dhaka-south-administrator-announces-seven-day-crash-programme-kamrangirchar-1503256",
       "pubDate": "Fri, 31 Jul 2026 20:55:00 +0600",
@@ -54,6 +87,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/31/dhaka_north_city_corporation.png",
       "snippet": "Administrator urges residents to help eliminate mosquito breeding and improve sanitation."
+    },
+    {
+      "title": "July graffiti restoration to begin at DU tomorrow",
+      "link": "https://www.tbsnews.net/bangladesh/july-graffiti-restoration-begin-du-tomorrow-1503241",
+      "pubDate": "Fri, 31 Jul 2026 20:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/16/1910489.jpg",
+      "snippet": "Dhaka University will begin a three-day programme tomorrow (1 August) to restore and preserve July graffiti across its campus, with the inauguration to be led by Vice-Chancellor Prof ABM Obaidul Islam."
     },
     {
       "title": "RAB uncovers yaba 'factory' in Keraniganj, arrests 4 with 1,968 pills",
@@ -144,7 +188,7 @@
       "snippet": "Swapon said any attempt to capture the state in the name of religion or to use followers of any faith for political purposes amounts to communalism and runs contrary to the principles of religion."
     },
     {
-      "title": "Stay united against those want to divide nation on religion: Fakhrul",
+      "title": "Stay united against those who want to divide nation on religion: Fakhrul",
       "link": "https://www.tbsnews.net/bangladesh/stay-united-against-those-want-divide-nation-religion-fakhrul-1503121",
       "pubDate": "Fri, 31 Jul 2026 19:15:00 +0600",
       "category": "Bangladesh",
@@ -221,17 +265,6 @@
       "snippet": "Suspected measles deaths rise to 741 as total reported cases exceed 128,000."
     },
     {
-      "title": "Man held hours after allegedly killing mother in Faridpur",
-      "link": "https://www.tbsnews.net/bangladesh/crime/man-held-hours-after-allegedly-killing-mother-faridpur-1503061",
-      "pubDate": "Fri, 31 Jul 2026 17:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/07/04/arrest-1579498383.jpg",
-      "snippet": "Rahim allegedly killed his mother at their home in Faridpur town and fled the scene before police arrested him in Saltha hours later."
-    },
-    {
       "title": "When young people lose hope, nations lose stability",
       "link": "https://www.tbsnews.net/thoughts/when-young-people-lose-hope-nations-lose-stability-1503031",
       "pubDate": "Fri, 31 Jul 2026 17:25:00 +0600",
@@ -274,17 +307,6 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/30/du.jpg",
       "snippet": "The statement comes after the university syndicate on 28 July decided to permanently dismiss one professor and suspend six others from academic and administrative duties."
-    },
-    {
-      "title": "Sergio Gor, Dinesh Trivedi hold 'good' meeting in Dhaka",
-      "link": "https://www.tbsnews.net/bangladesh/sergio-gor-dinesh-trivedi-hold-good-meeting-dhaka-1502976",
-      "pubDate": "Fri, 31 Jul 2026 16:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/31/e6fd5f76-50a4-4348-8b61-26cf456f0eea.jpg",
-      "snippet": "\"As the US Special Envoy for South and Central Asia, I look forward to working closely with him,\" Gor said on 25 June."
     },
     {
       "title": "How illicit Iranian gambling network helped pull off $4b sanctions dodge",
@@ -978,29 +1000,7 @@
       "icon": "🔍",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/use_1.png",
       "snippet": "The reel itself was simple. The resulting chaos was less an assessment of the video’s actual consequences than a struggle over what a teacher, and a woman, is socially permitted to look like, do and share in public"
-    },
-    {
-      "title": "29 July 2024: The red flag of the movement is reborn",
-      "link": "https://www.tbsnews.net/features/panorama/29-july-2024-red-flag-movement-reborn-1500581",
-      "pubDate": "Tue, 28 Jul 2026 22:35:00 +0600",
-      "category": "Analysis",
-      "color": "#5d4037",
-      "bg": "#efebe9",
-      "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/nasl1989.jpg",
-      "snippet": "Despite mass arrests and violent crackdowns, the quota reform movement regained momentum on the day as students, teachers, the judiciary, and millions online united in defiance of the government’s repression"
-    },
-    {
-      "title": "Premier Bank mobilises Tk3,003cr in fresh deposits in 60 working days",
-      "link": "https://www.tbsnews.net/economy/banking/premier-bank-mobilises-tk3003cr-fresh-deposits-60-working-days-1500521",
-      "pubDate": "Tue, 28 Jul 2026 22:15:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/05/29/premier_bank.png",
-      "snippet": "The bank also recovered Tk769 crore in cash from non-performing loans during the first half of the year."
     }
   ],
-  "updatedAt": "2026-07-31T15:37:38.687Z"
+  "updatedAt": "2026-07-31T17:36:23.683Z"
 }
