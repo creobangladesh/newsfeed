@@ -1,6 +1,94 @@
 {
   "news": [
     {
+      "title": "Schoolgirl 'dragged from home, gang-raped' in Faridpur; two held",
+      "link": "https://www.tbsnews.net/bangladesh/crime/schoolgirl-dragged-home-gang-raped-faridpur-two-held-1503356",
+      "pubDate": "Sat, 01 Aug 2026 01:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/07/child_rape.jpg",
+      "snippet": "Police say they have received a written complaint after locals detained two suspects."
+    },
+    {
+      "title": "BNP standing committee to discuss presidential nominee today",
+      "link": "https://www.tbsnews.net/bangladesh/politics/bnp-standing-committee-discuss-presidential-nominee-today-1503346",
+      "pubDate": "Sat, 01 Aug 2026 00:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/06/bnp_logo.png",
+      "snippet": "Election Commission preparing for presidential election by 22 October"
+    },
+    {
+      "title": "3 govt employees, including BCS cadre selectee, arrested over proxy exam fraud",
+      "link": "https://www.tbsnews.net/bangladesh/crime/3-govt-employees-including-bcs-cadre-selectee-arrested-over-proxy-exam-fraud",
+      "pubDate": "Sat, 01 Aug 2026 00:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/01/three_arrested.jpg",
+      "snippet": "CID says the suspects were part of an organised syndicate that allegedly supplied proxy candidates to help applicants fraudulently secure government jobs."
+    },
+    {
+      "title": "Govt rejects operator appointment proposal for six Ctg Port berths, orders fresh tender",
+      "link": "https://www.tbsnews.net/bangladesh/govt-rejects-operator-appointment-proposal-six-ctg-port-berths-orders-fresh-tender",
+      "pubDate": "Sat, 01 Aug 2026 00:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/02/13/ctg_port_container_photo_4_0.jpg",
+      "snippet": "Following the decision, the shipping ministry on 29 July formed a seven-member high-level committee to examine the previous tender process."
+    },
+    {
+      "title": "NCP alleges fresh attack during Sylhet march; police deny claim",
+      "link": "https://www.tbsnews.net/bangladesh/politics/ncp-alleges-fresh-attack-during-sylhet-march-police-deny-claim-1503336",
+      "pubDate": "Sat, 01 Aug 2026 00:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/01/attack-on-ncp-march.jpg",
+      "snippet": "The party claimed two people were injured after a vehicle carrying its leaders was attacked in Jaintiapur, but police insisted no such incident occurred."
+    },
+    {
+      "title": "Rohingya crisis: US urges global partners to increase contributions",
+      "link": "https://www.tbsnews.net/foreign-policy/rohingya-crisis-us-urges-global-partners-increase-contributions-1503331",
+      "pubDate": "Sat, 01 Aug 2026 00:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/01/sergio_gor_on_rohingya.jpeg",
+      "snippet": "The US Special Envoy Sergio Gor is scheduled to meet Prime Minister Tarique Rahman today (1 August)."
+    },
+    {
+      "title": "'Top criminal' Bappi, aide sent to jail after remand; police cite 'important information'",
+      "link": "https://www.tbsnews.net/bangladesh/court/top-criminal-bappi-aide-sent-jail-after-remand-police-cite-important-information",
+      "pubDate": "Fri, 31 Jul 2026 23:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/10/12/jail.jpg",
+      "snippet": "Investigators told the court the two suspects disclosed crucial information during remand, which police are now verifying as part of the ongoing investigation."
+    },
+    {
+      "title": "Martial arts to become mandatory for Classes IV and V under primary school sports curriculum",
+      "link": "https://www.tbsnews.net/bangladesh/education/martial-arts-become-mandatory-classes-iv-and-v-under-primary-school-sports",
+      "pubDate": "Fri, 31 Jul 2026 23:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/31/martial_arts_in_pryschool.jpg",
+      "snippet": "The government plans to introduce martial arts into compulsory physical education to improve students' fitness, discipline, confidence and self-defence skills."
+    },
+    {
       "title": "Green chilli hits Tk400 a kg as vegetables remain pricey",
       "link": "https://www.tbsnews.net/bangladesh/green-chilli-hits-tk400-kg-vegetables-remain-pricey-1503291",
       "pubDate": "Fri, 31 Jul 2026 21:55:00 +0600",
@@ -164,94 +252,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/31/feni_youth_arrested.jpg",
       "snippet": "The girl was allegedly harassed while returning home from school on 28 July; police are looking for two others accused in the case."
-    },
-    {
-      "title": "Pakistan to export automobiles to Bangladesh",
-      "link": "https://www.tbsnews.net/bangladesh/pakistan-export-automobiles-bangladesh-1503131",
-      "pubDate": "Fri, 31 Jul 2026 19:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/31/vehicles_export_pakistan_bd.jpeg",
-      "snippet": "A Memorandum of Understanding (MoU) was signed between MG JW Automobile Pakistan and Bangladesh's RANCON Group."
-    },
-    {
-      "title": "No conspiracy based on religion, race to succeed in Bangladesh: Swapon",
-      "link": "https://www.tbsnews.net/bangladesh/no-conspiracy-based-religion-race-succeed-bangladesh-swapon-1503116",
-      "pubDate": "Fri, 31 Jul 2026 19:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/31/4dc79a5e-ab36-42b2-964c-a76ff0b50f3c.jpg",
-      "snippet": "Swapon said any attempt to capture the state in the name of religion or to use followers of any faith for political purposes amounts to communalism and runs contrary to the principles of religion."
-    },
-    {
-      "title": "Stay united against those who want to divide nation on religion: Fakhrul",
-      "link": "https://www.tbsnews.net/bangladesh/stay-united-against-those-want-divide-nation-religion-fakhrul-1503121",
-      "pubDate": "Fri, 31 Jul 2026 19:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/31/mirza_fakhrul_1.jpg",
-      "snippet": "He reaffirmed the government's commitment to building a liberal democratic Bangladesh."
-    },
-    {
-      "title": "EU provides €200 000 in response to severe monsoon in Chattogram division",
-      "link": "https://www.tbsnews.net/bangladesh/eu-provides-eu200-000-response-severe-monsoon-chattogram-division-1503111",
-      "pubDate": "Fri, 31 Jul 2026 19:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/31/eu_funding_ctg_flood.jpg",
-      "snippet": "Funding will support Rohingya refugees and flood-hit communities in southeastern Bangladesh."
-    },
-    {
-      "title": "Stone thrown at Dhaka-bound train window, injures 2 passengers",
-      "link": "https://www.tbsnews.net/bangladesh/stone-thrown-dhaka-bound-train-window-injures-2-passengers-1503096",
-      "pubDate": "Fri, 31 Jul 2026 19:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/train_unb_img.jpg",
-      "snippet": "The train was passing through the Dulahazara area of Chakaria when a stone thrown from outside shattered a window and injured two passengers."
-    },
-    {
-      "title": "Law commission proposals to be executed in line with July Charter: Law minister",
-      "link": "https://www.tbsnews.net/bangladesh/law-commission-proposals-be-executed-line-july-charter-law-minister-1503101",
-      "pubDate": "Fri, 31 Jul 2026 18:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/31/law_justice_and_parliamentary_affairs_minister_md._asaduzzaman.jpg",
-      "snippet": "Government says remaining legal reforms will follow July Charter framework."
-    },
-    {
-      "title": "Airport customs seize goods worth Tk2.04 crore in anti-smuggling drive",
-      "link": "https://www.tbsnews.net/bangladesh/crime/airport-customs-seize-goods-worth-tk204-crore-anti-smuggling-drive-1503086",
-      "pubDate": "Fri, 31 Jul 2026 18:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/31/nbr_operation.jpg",
-      "snippet": "Officials recovered 481 cartons of foreign cigarettes during the day's drive."
-    },
-    {
-      "title": "'Pressure cooker' bomb found outside Ashulia tea stall, safely defused",
-      "link": "https://www.tbsnews.net/bangladesh/pressure-cooker-bomb-found-outside-ashulia-tea-stall-safely-defused-1503081",
-      "pubDate": "Fri, 31 Jul 2026 18:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/31/asulia_bomb.jpg",
-      "snippet": "Police says the device contained chemical explosives and numerous ball bearings, indicating it was designed to inflict significant casualties."
     },
     {
       "title": "Two more die with measles-like symptoms",
@@ -978,29 +978,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/hormuz_reuters.jpg",
       "snippet": "Recurring conflicts and volatile oil prices may be reshaping the global financial order, with import-dependent economies like Bangladesh paying the price"
-    },
-    {
-      "title": "BB imposes informal cap on dollar rates amid rising pressure",
-      "link": "https://www.tbsnews.net/economy/banking/bb-imposes-informal-cap-dollar-rates-amid-rising-pressure-1500561",
-      "pubDate": "Wed, 29 Jul 2026 00:50:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/09/04/new_project_7_0.jpg",
-      "snippet": "Bankers warn informal rate guidance affects interbank market efficiency."
-    },
-    {
-      "title": "Teacher, woman, minority: Why Beauty Rani Pal’s innocent reel generated such disproportionate controversy",
-      "link": "https://www.tbsnews.net/features/panorama/teacher-woman-minority-why-beauty-rani-pals-innocent-reel-generated-such",
-      "pubDate": "Tue, 28 Jul 2026 23:40:00 +0600",
-      "category": "Analysis",
-      "color": "#5d4037",
-      "bg": "#efebe9",
-      "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/use_1.png",
-      "snippet": "The reel itself was simple. The resulting chaos was less an assessment of the video’s actual consequences than a struggle over what a teacher, and a woman, is socially permitted to look like, do and share in public"
     }
   ],
-  "updatedAt": "2026-07-31T17:36:23.683Z"
+  "updatedAt": "2026-07-31T19:24:07.572Z"
 }
