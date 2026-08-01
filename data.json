@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Petrobangla says no plan to raise gas prices now",
+      "link": "https://www.tbsnews.net/bangladesh/energy/petrobangla-says-no-plan-raise-gas-prices-now-1504106",
+      "pubDate": "Sat, 01 Aug 2026 23:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/11/08/petrobangla.jpg",
+      "snippet": "The state-owned corporation says recent reports about a possible tariff hike have created confusion among stakeholders."
+    },
+    {
       "title": "Some quarters misleading PM to steer ruling party towards fascism: Porwar",
       "link": "https://www.tbsnews.net/bangladesh/politics/some-quarters-misleading-pm-steer-ruling-party-towards-fascism-porwar-1504091",
       "pubDate": "Sat, 01 Aug 2026 22:05:00 +0600",
@@ -133,7 +144,7 @@
       "snippet": "He says administrative steps are underway to expedite the recruitment process for the recommended candidates."
     },
     {
-      "title": "'Derogatory Facebook post about PM': NCP suspends Sahlahuddin Tanvir citing 'tarnished party's image'",
+      "title": "'Derogatory Facebook post about PM': NCP suspends Sahlahuddin Tanvir for tarnishing party's image",
       "link": "https://www.tbsnews.net/bangladesh/politics/derogatory-facebook-post-about-pm-ncp-suspends-sahlahuddin-tanvir-citing",
       "pubDate": "Sat, 01 Aug 2026 20:30:00 +0600",
       "category": "Bangladesh",
@@ -246,10 +257,10 @@
       "title": "Govt finalising project design to upgrade all upazila health complexes to 101 beds: Muhit",
       "link": "https://www.tbsnews.net/bangladesh/health/govt-finalising-project-design-upgrade-all-upazila-health-complexes-101-beds-muhit",
       "pubDate": "Sat, 01 Aug 2026 18:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/01/health_muhit.jpg",
       "snippet": "The government also plans to raise health spending to 5% of GDP over the next five years and establish five specialised children’s hospitals in divisional cities."
     },
@@ -813,29 +824,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/30/cc5103dd-4ad4-49a0-8792-14c111d9ef20.jpg",
       "snippet": "The diversion is expected to delay the 100,000-tonne cargo by about a month and raise transportation costs by up to $5.4 million, according to Shipping Corporation documents."
-    },
-    {
-      "title": "Islami Bank incurs highest ever Tk1,316cr loss in H1",
-      "link": "https://www.tbsnews.net/economy/banking/islami-bank-incurs-highest-ever-tk1316cr-loss-h1-1501626",
-      "pubDate": "Wed, 29 Jul 2026 23:40:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/08/06/islami_bank_1.jpg",
-      "snippet": "IFIC Bank reports Tk1,668cr loss as asset quality crisis erodes financial strength."
-    },
-    {
-      "title": "Foreign banks’ credit contracts 11% in 2025 despite profit uptick",
-      "link": "https://www.tbsnews.net/economy/banking/foreign-banks-credit-contracts-11-2025-despite-profit-uptick-1501621",
-      "pubDate": "Wed, 29 Jul 2026 23:30:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/09/09/collage-dollar.jpg",
-      "snippet": "Loan portfolio falls as lenders adopt cautious credit strategy."
     }
   ],
-  "updatedAt": "2026-08-01T16:59:07.058Z"
+  "updatedAt": "2026-08-01T18:05:34.105Z"
 }
