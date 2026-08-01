@@ -1,6 +1,116 @@
 {
   "news": [
     {
+      "title": "BGB provides free medicare services to nearly 500 border residents in Panchagarh",
+      "link": "https://www.tbsnews.net/bangladesh/bgb-provides-free-medicare-services-nearly-500-border-residents-panchagarh-1503836",
+      "pubDate": "Sat, 01 Aug 2026 17:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/01/bgb_unb_img.jpg",
+      "snippet": "The humanitarian medical camp offered free treatment and medicines to underprivileged people in Atwari, with a focus on tackling seasonal illnesses during the monsoon."
+    },
+    {
+      "title": "Doctors must dedicate themselves to serving humanity through humane behaviour: Land Minister",
+      "link": "https://www.tbsnews.net/bangladesh/health/doctors-must-dedicate-themselves-serving-humanity-through-humane-behaviour-land",
+      "pubDate": "Sat, 01 Aug 2026 17:00:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/01/rmc_img_bss.jpg",
+      "snippet": "The call came as 216 intern doctors took their oath at Rajshahi Medical College, where new healthcare projects were also announced."
+    },
+    {
+      "title": "Every inflationary lever is being pulled at once ",
+      "link": "https://www.tbsnews.net/thoughts/every-inflationary-lever-being-pulled-once-1503821",
+      "pubDate": "Sat, 01 Aug 2026 17:00:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/01/inflation_0.png",
+      "snippet": "The government wants to increase the money supply. Cutting the ceiling rate and the policy rate will expand the money supply, but that comes with an inflation link"
+    },
+    {
+      "title": "Can Trump make Gianni Infantino the next U.N. Secretary-General?",
+      "link": "https://www.tbsnews.net/thoughts/can-trump-make-gianni-infantino-next-un-secretary-general-1503816",
+      "pubDate": "Sat, 01 Aug 2026 16:50:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/01/oilrgpzybzoqznujvkrpsecmny.jpg",
+      "snippet": "Whether serious or rhetorical, it drew attention to one of the curious questions of global diplomacy: Who actually chooses the world's top diplomat?"
+    },
+    {
+      "title": "The cycle of custodial deaths, enforced disappearances and the culture of impunity in Bangladesh: What should we do immediately?",
+      "link": "https://www.tbsnews.net/thoughts/cycle-custodial-deaths-enforced-disappearances-and-culture-impunity-bangladesh-what-should",
+      "pubDate": "Sat, 01 Aug 2026 16:45:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/01/forced-disappearances_1.png",
+      "snippet": "These recurring incidents demonstrate that custodial torture, custodial deaths and enforced disappearances continue in Bangladesh despite the promises of reform made by the new government"
+    },
+    {
+      "title": "Tourist dies after falling into sea as parasailing rope snaps in Cox's Bazar",
+      "link": "https://www.tbsnews.net/bangladesh/tourist-dies-after-falling-sea-parasailing-rope-snaps-coxs-bazar-1503796",
+      "pubDate": "Sat, 01 Aug 2026 16:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/01/dc268c81-482f-4b3c-b658-93855b7a7190.jpg",
+      "snippet": "The accident occurred at a commercial parasailing facility in Darianagar, where previous safety concerns and injuries have also been reported."
+    },
+    {
+      "title": " The invisible infrastructure behind every trusted number",
+      "link": "https://www.tbsnews.net/thoughts/invisible-infrastructure-behind-every-trusted-number-1503781",
+      "pubDate": "Sat, 01 Aug 2026 16:25:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/01/coronavirus_vaccine_1.jpg",
+      "snippet": "How accredited laboratories protect our health, food safety and global trade"
+    },
+    {
+      "title": "Canal excavation programme to be completed on schedule next year: Agriculture minister",
+      "link": "https://www.tbsnews.net/bangladesh/canal-excavation-programme-be-completed-schedule-next-year-agriculture-minister-1503761",
+      "pubDate": "Sat, 01 Aug 2026 16:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/01/canal_excavation_img_1.jpg",
+      "snippet": "The minister said agricultural scientists are continuing research and development to produce more resilient and higher-yielding rice varieties."
+    },
+    {
+      "title": "Ticket syndicates being tackled to ensure fair airfare for expatriates: Minister Afroza",
+      "link": "https://www.tbsnews.net/economy/aviation/ticket-syndicates-being-tackled-ensure-fair-airfare-expatriates-minister-afroza",
+      "pubDate": "Sat, 01 Aug 2026 15:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/29/afroza_khanam.jpg",
+      "snippet": "\"We are working to curb ticket syndicates and protect the interests of expatriates,\" the minister said, adding that restoring order in the aviation sector remains one of the ministry's key priorities."
+    },
+    {
+      "title": "Dhaka-Cox's Bazar to get another pair of trains this month: State minister",
+      "link": "https://www.tbsnews.net/bangladesh/dhaka-coxs-bazar-get-another-pair-trains-month-state-minister-1503731",
+      "pubDate": "Sat, 01 Aug 2026 15:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/01/img_9663.jpeg",
+      "snippet": "The government is pursuing a nationwide strategy to expand rail connectivity, Habibur Rashid says."
+    },
+    {
       "title": "Chattogram Zoo plans to acquire six new zebras in exchange for three tigers",
       "link": "https://www.tbsnews.net/bangladesh/chattogram-zoo-plans-acquire-six-new-zebras-exchange-three-tigers-1503701",
       "pubDate": "Sat, 01 Aug 2026 14:55:00 +0600",
@@ -166,28 +276,6 @@
       "snippet": "The road has become the main access route for residents of Dakshin Khan, Ashkona and Kaola as nearby roads remain closed or unusable due to the Airport Underpass project and utility pipeline works."
     },
     {
-      "title": "Dhaka airport passengers to see noticeable improvements from next year: Millat",
-      "link": "https://www.tbsnews.net/interviews/dhaka-airport-passengers-see-noticeable-improvements-next-year-millat-1503451",
-      "pubDate": "Sat, 01 Aug 2026 11:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/01/rashiduzzaman_millat.png",
-      "snippet": "In a recent interview, State Minister for Civil Aviation and Tourism M Rashiduzzaman Millat spoke to our Senior Staff Correspondent Kamran Siddiqui about the Third Terminal, Biman’s expansion plans and the government’s vision for making Bangladesh a ..."
-    },
-    {
-      "title": "Classes, exams at KU to resume Sunday after weeklong stalemate",
-      "link": "https://www.tbsnews.net/bangladesh/classes-exams-ku-resume-sunday-after-weeklong-stalemate-1503516",
-      "pubDate": "Sat, 01 Aug 2026 11:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/01/7451942.jpg",
-      "snippet": "They said they would continue monitoring the situation until the demands are fully implemented."
-    },
-    {
       "title": "Families sue Meta, TikTok, Snapchat and YouTube over deaths of four teens",
       "link": "https://www.tbsnews.net/tech/families-sue-meta-tiktok-snapchat-and-youtube-over-deaths-four-teens-1503506",
       "pubDate": "Sat, 01 Aug 2026 11:20:00 +0600",
@@ -197,17 +285,6 @@
       "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/31/meta.png",
       "snippet": "The four companies are already facing several lawsuits from states and individuals over claims that their platforms harm children's mental health."
-    },
-    {
-      "title": "Rain likely across country: BMD",
-      "link": "https://www.tbsnews.net/bangladesh/environment/rain-likely-across-country-bmd-1503486",
-      "pubDate": "Sat, 01 Aug 2026 11:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/rain.jpg",
-      "snippet": "Day and night temperatures may remain nearly unchanged over the country."
     },
     {
       "title": "When global sea routes become battlefields",
@@ -221,24 +298,13 @@
       "snippet": "Repeated disruptions at the world’s maritime chokepoints are exposing the limits of international law and raising the cost of global trade"
     },
     {
-      "title": "US investment delegation to visit Bangladesh next week: Special Envoy Sergio Gor ",
-      "link": "https://www.tbsnews.net/foreign-policy/us-special-envoy-sergio-gor-calls-pm-1503461",
-      "pubDate": "Sat, 01 Aug 2026 10:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/01/bro.jpg",
-      "snippet": "'The US holds the prime minister in the highest regard. We have a lot of potential, as we discussed,' says visiting US Special Envoy for South and Central Asia Sergio Gor."
-    },
-    {
       "title": "Export freight costs double, lead time rises as shipping lines trim Bangladesh bookings",
       "link": "https://www.tbsnews.net/economy/export-shipping-costs-lead-times-double-shipping-lines-trim-bangladesh-bookings-1503421",
       "pubDate": "Sat, 01 Aug 2026 10:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/01/p_1_lead1.png",
       "snippet": "Representatives of importers, buying houses, shipping agents, and exporters said even when bookings are accepted, lead times have increased by up to three weeks in some cases, while freight rates have more than doubled."
     },
@@ -846,73 +912,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/paypal_payooner111.jpg",
       "snippet": "Before launching such services, banks will have to obtain prior regulatory acknowledgement from BB by submitting details of their their partnerships, technology infrastructure, cybersecurity measures and compliance arrangements."
-    },
-    {
-      "title": "Dengue claims 3 more lives, 534 hospitalised in 24 hrs",
-      "link": "https://www.tbsnews.net/bangladesh/health/dengue-claims-3-more-lives-534-hospitalised-24-hrs-1501156",
-      "pubDate": "Wed, 29 Jul 2026 17:10:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/25/05_news_copy.png",
-      "snippet": "The latest fatalities have pushed this year's dengue death toll to 50, while total infections have risen to 14,690."
-    },
-    {
-      "title": "New York school pauses plan to use AI robot teacher",
-      "link": "https://www.tbsnews.net/tech/new-york-school-pauses-plan-use-ai-robot-teacher-1501136",
-      "pubDate": "Wed, 29 Jul 2026 16:55:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/new_york_school_pauses_plan_to_use_ai_robot_teacher-converted-from-webp.jpeg",
-      "snippet": "New York school halts AI teacher robot amid privacy and ethics concerns."
-    },
-    {
-      "title": "Leveraging on space technology and AI for flood and disaster management: Predict, protect, respond and recover",
-      "link": "https://www.tbsnews.net/thoughts/leveraging-space-technology-and-ai-flood-and-disaster-management-predict-protect-respond",
-      "pubDate": "Wed, 29 Jul 2026 16:45:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/25/5148959.jpg",
-      "snippet": "Bangladesh already receives enormous amounts of satellite data free of charge from international missions (such as Sentinel, Landsat, GPM, SWOT, etc.). The available data is often of very low-resolution data, and also not real time data. Bangladesh’s..."
-    },
-    {
-      "title": "Health minister vows to end hospital broker syndicates, roll out AI-powered doorstep health screening",
-      "link": "https://www.tbsnews.net/bangladesh/health/health-minister-vows-end-hospital-broker-syndicates-roll-out-ai-powered-doorstep",
-      "pubDate": "Wed, 29 Jul 2026 16:40:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/754699819_1357962685800671_4328417482214096904_n.jpg",
-      "snippet": "The minister says the government will not renew a foreign firm's dialysis contract and plans to expand low-cost dialysis services nationwide."
-    },
-    {
-      "title": "Measles outbreak: Death toll hits 831 as 3 more children die in 24hrs",
-      "link": "https://www.tbsnews.net/bangladesh/health/measles-outbreak-death-toll-hits-831-3-more-children-die-24hrs-1501016",
-      "pubDate": "Wed, 29 Jul 2026 15:45:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/03/whatsapp_image_2026-05-03_at_14.50.36.jpeg",
-      "snippet": "79 new laboratory-confirmed measles cases were recorded, bringing the total number of confirmed infections to 15,739"
-    },
-    {
-      "title": "Incoming Apple CEO aims to build on movie and TV progress",
-      "link": "https://www.tbsnews.net/tech/incoming-apple-ceo-aims-build-movie-and-tv-progress-1500986",
-      "pubDate": "Wed, 29 Jul 2026 15:35:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/apples_senior_vice_president_reuters.jpg",
-      "snippet": "Apple says its focus remains on creating high-quality original entertainment rather than the largest streaming library."
     }
   ],
-  "updatedAt": "2026-08-01T09:32:17.594Z"
+  "updatedAt": "2026-08-01T11:16:17.229Z"
 }
