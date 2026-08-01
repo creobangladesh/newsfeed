@@ -1,6 +1,61 @@
 {
   "news": [
     {
+      "title": "US Special Envoy Sergio Gor calls on PM",
+      "link": "https://www.tbsnews.net/foreign-policy/us-special-envoy-sergio-gor-calls-pm-1503461",
+      "pubDate": "Sat, 01 Aug 2026 10:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/01/sergei.jpg",
+      "snippet": "During the meeting, the two sides exchanged views on Bangladesh-US bilateral relations, expanding trade and investment, regional cooperation, and other issues of mutual interest."
+    },
+    {
+      "title": "Export freight costs double, lead time rises as shipping lines trim Bangladesh bookings",
+      "link": "https://www.tbsnews.net/economy/export-shipping-costs-lead-times-double-shipping-lines-trim-bangladesh-bookings-1503421",
+      "pubDate": "Sat, 01 Aug 2026 10:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/01/p_1_lead1.png",
+      "snippet": "Representatives of importers, buying houses, shipping agents, and exporters said even when bookings are accepted, lead times have increased by up to three weeks in some cases, while freight rates have more than doubled."
+    },
+    {
+      "title": "Alphabet rolls back AI image generation in Google Earth over policy violations",
+      "link": "https://www.tbsnews.net/tech/alphabet-rolls-back-ai-image-generation-google-earth-over-policy-violations-1503411",
+      "pubDate": "Sat, 01 Aug 2026 09:35:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/01/google_1.jpg",
+      "snippet": "The feature, powered by Google's Nano Banana 2 AI model, had allowed users to generate photorealistic images grounded in Google Earth's satellite, aerial and 3D imagery by typing a text prompt for any location on the globe."
+    },
+    {
+      "title": "All 53 Parjatan hotels, restaurants, bars to go under PPP amid weak performance",
+      "link": "https://www.tbsnews.net/bangladesh/all-53-parjatan-hotels-restaurants-bars-go-under-ppp-amid-weak-performance-1503386",
+      "pubDate": "Sat, 01 Aug 2026 07:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/27/coxs_bazar_1.jpg",
+      "snippet": "130-acre Hotel Shaibal in Cox’s Bazar to be first such project; integrated tourism complex planned under new master plan"
+    },
+    {
+      "title": "Bangladesh among 14 countries on board for Saudi-led maritime defense alliance",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-among-14-countries-board-saudi-led-maritime-defense-alliance-1503381",
+      "pubDate": "Sat, 01 Aug 2026 07:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/yemen_bab_el-mandeb_strait.jpg",
+      "snippet": "The current signatories are Saudi Arabia, Kuwait, Bahrain, Qatar, Pakistan, Türkiye, Egypt, Jordan, Yemen, Bangladesh, Nigeria, Sudan, Djibouti, and Somalia"
+    },
+    {
       "title": "'My blood has been shed; Tarique Rahman will have to pay the price': Patwary",
       "link": "https://www.tbsnews.net/bangladesh/politics/my-blood-has-been-shed-tarique-rahman-will-have-pay-price-patwary-1503361",
       "pubDate": "Sat, 01 Aug 2026 01:25:00 +0600",
@@ -199,17 +254,6 @@
       "snippet": "Administrator urges residents to help eliminate mosquito breeding and improve sanitation."
     },
     {
-      "title": "RAB uncovers yaba 'factory' in Keraniganj, arrests 4 with 1,968 pills",
-      "link": "https://www.tbsnews.net/bangladesh/crime/rab-uncovers-yaba-factory-keraniganj-arrests-4-1968-pills-1503226",
-      "pubDate": "Fri, 31 Jul 2026 20:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/31/rab-10_yaba_0.jpg",
-      "snippet": "The arrestees are Md Alamgir alias Ande, 40, Md Ali Arman, 36, Md Shahjahan, 40, and Sonia, 30."
-    },
-    {
       "title": "17 arrested after Awami League procession in Mirpur",
       "link": "https://www.tbsnews.net/bangladesh/17-arrested-after-awami-league-procession-mirpur-1503231",
       "pubDate": "Fri, 31 Jul 2026 20:40:00 +0600",
@@ -219,39 +263,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/31/760471482_1576604914156673_4742676703192504525_n.jpg",
       "snippet": "Among those arrested, six are minors."
-    },
-    {
-      "title": "US will continue to stand by Bangladesh on Rohingya crisis: Sergio Gor",
-      "link": "https://www.tbsnews.net/rohingya-crisis/us-will-continue-stand-bangladesh-rohingya-crisis-sergio-gor-1503211",
-      "pubDate": "Fri, 31 Jul 2026 20:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/31/whatsapp_image_2026-07-31_at_7.36.02_pm.jpeg",
-      "snippet": "Rohingyas urged the international community to ensure their safe, dignified and voluntary repatriation to Myanmar during the US delegation's visit to the camps."
-    },
-    {
-      "title": "PM drives through DNCC areas to inspect cleanliness, waste management",
-      "link": "https://www.tbsnews.net/bangladesh/pm-drives-through-dncc-areas-inspect-cleanliness-waste-management-1503146",
-      "pubDate": "Fri, 31 Jul 2026 19:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/31/pm_car.jpg",
-      "snippet": "The prime minister drove through Shyamoli, Bijoy Sarani, Rokeya Sarani, Mirpur-10, Kachukhet and Shewrapara during the more than two-and-a-half-hour inspection."
-    },
-    {
-      "title": "Tarique has failed the test of running Bangladesh in 6 months: Nasiruddin Patwary",
-      "link": "https://www.tbsnews.net/bangladesh/politics/tarique-has-failed-test-running-bangladesh-6-months-nasiruddin-patwary-1503136",
-      "pubDate": "Fri, 31 Jul 2026 19:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/31/nasiruddin-patwary.jpg",
-      "snippet": "The NCP leader also urged businesspeople not to pay extortion and accused the BNP of politicising state institutions."
     },
     {
       "title": "Two more die with measles-like symptoms",
@@ -934,40 +945,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/p5_old_dhaka_hospital_series_pxl_20260726_120524899.jpeg",
       "snippet": "Behind the doors of Old Dhaka’s public hospitals, it is not only patients who are ailing. Vacant posts, missing specialists, idle facilities and failing services plague these hospitals. This first instalment of a three-part series examines the gaps a..."
-    },
-    {
-      "title": "NBR wants Tk52,000cr extra source tax, businesses worried",
-      "link": "https://www.tbsnews.net/nbr/nbr-wants-tk52000cr-extra-source-tax-businesses-worried-1500641",
-      "pubDate": "Wed, 29 Jul 2026 10:00:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/nbr.png",
-      "snippet": "Business leaders warn that alongside targeting major tax evaders, even minor compliance errors by companies could trigger enforcement actions, potentially increasing irregularities in the tax administration process."
-    },
-    {
-      "title": "Regime change? Inside Reza Pahlavi's faltering bid to lead Iran",
-      "link": "https://www.tbsnews.net/analysis/regime-change-inside-reza-pahlavis-faltering-bid-lead-iran-1500661",
-      "pubDate": "Wed, 29 Jul 2026 09:40:00 +0600",
-      "category": "Analysis",
-      "color": "#5d4037",
-      "bg": "#efebe9",
-      "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/reza_pahlavi.jpg",
-      "snippet": "The son of Iran’s last shah says the Islamic Republic is on the brink of collapse and he is the bridge to a democratic future. But he’s contending with violence by some supporters, discontent among donors and rejection by the Trump administration."
-    },
-    {
-      "title": "Fragrant rice prices hit record high; market manipulation, export permission blamed",
-      "link": "https://www.tbsnews.net/markets/fragrant-rice-prices-hit-record-high-market-manipulation-export-permission-blamed-1500616",
-      "pubDate": "Wed, 29 Jul 2026 08:20:00 +0600",
-      "category": "Market",
-      "color": "#7b1fa2",
-      "bg": "#f3e5f5",
-      "icon": "📊",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/08/01/rice.jpg",
-      "snippet": "According to traders, the retail price of various aromatic rice varieties has increased by Tk70 to Tk80 per kilogram over the past six months."
     }
   ],
-  "updatedAt": "2026-08-01T01:07:29.579Z"
+  "updatedAt": "2026-08-01T04:51:25.917Z"
 }
