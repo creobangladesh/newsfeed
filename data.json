@@ -1,7 +1,95 @@
 {
   "news": [
     {
-      "title": "Draft law on enforced disappearances to be tabled in next parliament session: Minister",
+      "title": "Mercantile Bank incurs loss in Q2 as interest income plummets",
+      "link": "https://www.tbsnews.net/economy/stocks/mercantile-bank-incurs-loss-q2-interest-income-plummets-1504031",
+      "pubDate": "Sat, 01 Aug 2026 21:20:00 +0600",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/06/22/mercantile_bank.jpg",
+      "snippet": "The bank’s liquidity position saw a significant squeeze, with the consolidated net operating cash flow per share (NOCFPS) dropping by 79% to Tk0.74 at the end of June."
+    },
+    {
+      "title": "NCP threatens to blockade Petrobangla over proposed gas price hike",
+      "link": "https://www.tbsnews.net/bangladesh/politics/ncp-threatens-blockade-petrobangla-over-proposed-gas-price-hike-1504021",
+      "pubDate": "Sat, 01 Aug 2026 21:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/01/ncp_rally.jpg",
+      "snippet": "The party’s leaders demand a solution to the ongoing gas shortage and warn of protests over the proposed increase in gas prices."
+    },
+    {
+      "title": "Earnings optimism lifts DSEX near 5,900 despite gas supply shortages",
+      "link": "https://www.tbsnews.net/economy/stocks/earnings-optimism-lifts-dsex-near-5900-despite-gas-supply-shortages-1504026",
+      "pubDate": "Sat, 01 Aug 2026 21:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/07/dse.jpg",
+      "snippet": "The DSEX, the key index of the Dhaka bourse, gained 91 points to close at 5,895, recovering from the sharp correction recorded in the previous week."
+    },
+    {
+      "title": "BSEC bars former DSE regulatory chief from all capital market roles",
+      "link": "https://www.tbsnews.net/economy/stocks/bsec-bars-former-dse-regulatory-chief-all-capital-market-roles-1504011",
+      "pubDate": "Sat, 01 Aug 2026 21:15:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/24/bsec_1.jpg",
+      "snippet": "The regulator says Khairul Bashar Abu Taher Mohammed failed to complete inspections of seven TREC holders within the stipulated timeframe, citing gross negligence."
+    },
+    {
+      "title": "Islami Bank deep in the red as income bleeds across all segments",
+      "link": "https://www.tbsnews.net/economy/stocks/islami-bank-deep-red-income-bleeds-across-all-segments-1504001",
+      "pubDate": "Sat, 01 Aug 2026 21:05:00 +0600",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/08/06/islami_bank_1.jpg",
+      "snippet": "The Shariah-based lender posted a Tk1,316 crore net loss in H1 2026, pushing retained earnings into negative territory as deposits and investment income declined."
+    },
+    {
+      "title": "Expanding technical education key to building skilled workforce: Rizvi",
+      "link": "https://www.tbsnews.net/bangladesh/education/expanding-technical-education-key-building-skilled-workforce-rizvi-1503986",
+      "pubDate": "Sat, 01 Aug 2026 20:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/01/rizvi.jpg",
+      "snippet": "BNP leader Ruhul Kabir Rizvi has called for stronger links between technical institutions and industries to equip students with practical skills and meet the demands of the job market."
+    },
+    {
+      "title": "Joining of 14,384 recommended primary assistant teachers to begin in Oct",
+      "link": "https://www.tbsnews.net/bangladesh/education/joining-14384-recommended-primary-assistant-teachers-begin-oct-1503991",
+      "pubDate": "Sat, 01 Aug 2026 20:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/01/f57cd4bb-f59b-4882-a145-f492867c3bdb.jpg",
+      "snippet": "He says administrative steps are underway to expedite the recruitment process for the recommended candidates."
+    },
+    {
+      "title": "'Derogatory Facebook post about PM': NCP suspends Sahlahuddin Tanvir citing 'tarnished party's image'",
+      "link": "https://www.tbsnews.net/bangladesh/politics/derogatory-facebook-post-about-pm-ncp-suspends-sahlahuddin-tanvir-citing",
+      "pubDate": "Sat, 01 Aug 2026 20:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/01/18e25829-72ec-477d-b9ac-159eec663c40.jpg",
+      "snippet": "This is the second time Tanvir has been temporarily relieved of his party responsibilities."
+    },
+    {
+      "title": "Draft law on enforced disappearances to be tabled in next parliament session: Asaduzzaman",
       "link": "https://www.tbsnews.net/bangladesh/draft-law-enforced-disappearances-be-tabled-next-parliament-session-minister-1503966",
       "pubDate": "Sat, 01 Aug 2026 20:15:00 +0600",
       "category": "Bangladesh",
@@ -166,24 +254,13 @@
       "snippet": "The retired army officer and academic says he will focus on strengthening skills, diversifying products and markets, and enhancing the global competitiveness of Bangladesh's garment industry."
     },
     {
-      "title": "BGB provides free medicare services to nearly 500 border residents in Panchagarh",
-      "link": "https://www.tbsnews.net/bangladesh/bgb-provides-free-medicare-services-nearly-500-border-residents-panchagarh-1503836",
-      "pubDate": "Sat, 01 Aug 2026 17:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/01/bgb_unb_img.jpg",
-      "snippet": "The humanitarian medical camp offered free treatment and medicines to underprivileged people in Atwari, with a focus on tackling seasonal illnesses during the monsoon."
-    },
-    {
       "title": "DU launches restoration of 'July graffiti' across campus",
       "link": "https://www.tbsnews.net/bangladesh/education/du-launches-restoration-july-graffiti-across-campus-1503846",
       "pubDate": "Sat, 01 Aug 2026 17:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/01/july_grafiti.jpg",
       "snippet": "DU Vice-Chancellor Prof ABM Obaidul Islam inaugurated the restoration campaign at the main gate of the Vice-Chancellor's residence today (1 August)."
     },
@@ -232,17 +309,6 @@
       "snippet": "These recurring incidents demonstrate that custodial torture, custodial deaths and enforced disappearances continue in Bangladesh despite the promises of reform made by the new government"
     },
     {
-      "title": "Tourist dies after falling into sea as parasailing rope snaps in Cox's Bazar",
-      "link": "https://www.tbsnews.net/bangladesh/tourist-dies-after-falling-sea-parasailing-rope-snaps-coxs-bazar-1503796",
-      "pubDate": "Sat, 01 Aug 2026 16:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/01/dc268c81-482f-4b3c-b658-93855b7a7190.jpg",
-      "snippet": "The accident occurred at a commercial parasailing facility in Darianagar, where previous safety concerns and injuries have also been reported."
-    },
-    {
       "title": " The invisible infrastructure behind every trusted number",
       "link": "https://www.tbsnews.net/thoughts/invisible-infrastructure-behind-every-trusted-number-1503781",
       "pubDate": "Sat, 01 Aug 2026 16:25:00 +0600",
@@ -252,28 +318,6 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/01/coronavirus_vaccine_1.jpg",
       "snippet": "How accredited laboratories protect our health, food safety and global trade"
-    },
-    {
-      "title": "Canal excavation programme to be completed on schedule next year: Agriculture minister",
-      "link": "https://www.tbsnews.net/bangladesh/canal-excavation-programme-be-completed-schedule-next-year-agriculture-minister-1503761",
-      "pubDate": "Sat, 01 Aug 2026 16:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/01/canal_excavation_img_1.jpg",
-      "snippet": "The minister said agricultural scientists are continuing research and development to produce more resilient and higher-yielding rice varieties."
-    },
-    {
-      "title": "Ticket syndicates being tackled to ensure fair airfare for expatriates: Minister Afroza",
-      "link": "https://www.tbsnews.net/economy/aviation/ticket-syndicates-being-tackled-ensure-fair-airfare-expatriates-minister-afroza",
-      "pubDate": "Sat, 01 Aug 2026 15:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/29/afroza_khanam.jpg",
-      "snippet": "\"We are working to curb ticket syndicates and protect the interests of expatriates,\" the minister said, adding that restoring order in the aviation sector remains one of the ministry's key priorities."
     },
     {
       "title": "Families sue Meta, TikTok, Snapchat and YouTube over deaths of four teens",
@@ -791,62 +835,7 @@
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/09/09/collage-dollar.jpg",
       "snippet": "Loan portfolio falls as lenders adopt cautious credit strategy."
-    },
-    {
-      "title": "WhatsApp's biggest calling update is here: You can now make audio and video calls on WhatsApp Web",
-      "link": "https://www.tbsnews.net/tech/whatsapps-biggest-calling-update-here-you-can-now-make-audio-and-video-calls-whatsapp-web",
-      "pubDate": "Wed, 29 Jul 2026 21:20:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/c9fd4a72-cd8a-4ccd-89de-ea3fece59fa5.png",
-      "snippet": "WhatsApp has started rolling out these features to all its users. They will be available to everyone globally in the coming weeks."
-    },
-    {
-      "title": "UCB H1 profit jumps 90% to Tk34cr on subsidiary earnings, lower provisioning",
-      "link": "https://www.tbsnews.net/economy/banking/ucb-h1-profit-jumps-90-tk34cr-subsidiary-earnings-lower-provisioning-1501531",
-      "pubDate": "Wed, 29 Jul 2026 21:10:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/08/17/ucb.jpg",
-      "snippet": "The bank said the improvement in EPS was largely attributable to better performance by its subsidiaries."
-    },
-    {
-      "title": "Sammilito Islami Bank depositors can withdraw up to Tk10 lakh for emergency needs",
-      "link": "https://www.tbsnews.net/economy/banking/sammilito-islami-bank-depositors-can-withdraw-tk10-lakh-emergency-needs-1501581",
-      "pubDate": "Wed, 29 Jul 2026 21:05:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/30/sammilito_islami_bank.jpg",
-      "snippet": "Bangladesh Bank plans to appoint an administrator to Sammilito Islami Bank by August."
-    },
-    {
-      "title": "JU Proctor Rashidul Alam resigns, Zakir Hossain appointed acting successor",
-      "link": "https://www.tbsnews.net/bangladesh/education/ju-proctor-rashidul-alam-resigns-zakir-hossain-appointed-acting-successor",
-      "pubDate": "Wed, 29 Jul 2026 20:50:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/06/04/jahangirnagar-university_0.jpg",
-      "snippet": "Philosophy Professor Md Zakir Hossain will serve as acting proctor until further notice following AKM Rashidul Alam’s resignation"
-    },
-    {
-      "title": "Dear AI, are you stealing my brain?",
-      "link": "https://www.tbsnews.net/thoughts/dear-ai-are-you-stealing-my-brain-1501501",
-      "pubDate": "Wed, 29 Jul 2026 20:45:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/gemini_generated_image_isua1iisua1iisua-clean.png",
-      "snippet": "You should always remember that humans created AI, not AI created humans, so don’t let AI take it over our brains. This is made for our help, not to get sabotaged by it."
     }
   ],
-  "updatedAt": "2026-08-01T14:25:50.416Z"
+  "updatedAt": "2026-08-01T15:37:24.758Z"
 }
