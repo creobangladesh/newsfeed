@@ -1,6 +1,127 @@
 {
   "news": [
     {
+      "title": "David Emon on 10-day remand as police probe extortion network ",
+      "link": "https://www.tbsnews.net/bangladesh/court/david-emon-10-day-remand-police-probe-extortion-network-1504581",
+      "pubDate": "Sun, 02 Aug 2026 17:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/b8696a9e-e724-4f39-bf43-75394621b0ca.jpg",
+      "snippet": "Police say the remand will help uncover the operations of an alleged extortion network that targeted business owners with threats, armed attacks and demands for large sums of money."
+    },
+    {
+      "title": "Dhaka North administrator, Dhaka-18 MP attacked during inspection",
+      "link": "https://www.tbsnews.net/bangladesh/dhaka-north-administrator-dhaka-18-mp-attacked-during-inspection-1504586",
+      "pubDate": "Sun, 02 Aug 2026 17:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/dncc.png",
+      "snippet": "Three people arrested after clash leaves several injured."
+    },
+    {
+      "title": "CAB urges withdrawal of Ctg Wasa's proposed 5% water tariff hike",
+      "link": "https://www.tbsnews.net/bangladesh/cab-urges-withdrawal-ctg-wasas-proposed-5-water-tariff-hike-1504576",
+      "pubDate": "Sun, 02 Aug 2026 17:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/chittagong-wasa-31.jpg",
+      "snippet": "Consumer body says price increase is unjustified without improving service quality."
+    },
+    {
+      "title": "DU to open undergraduate admission applications on 11 Nov, exams begin 5 Dec",
+      "link": "https://www.tbsnews.net/bangladesh/education/du-open-undergraduate-admission-applications-11-november-exams-begin-5-december",
+      "pubDate": "Sun, 02 Aug 2026 17:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/30/du.jpg",
+      "snippet": "The university has announced the admission schedule, eligibility criteria and exam dates for all five units, with classes set to begin on 28 March 2027."
+    },
+    {
+      "title": "Why Bangladesh needs environmental foresight over populism ",
+      "link": "https://www.tbsnews.net/thoughts/why-bangladesh-needs-environmental-foresight-over-populism-1504561",
+      "pubDate": "Sun, 02 Aug 2026 17:35:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/copyof20250324_095502-ezgif.com-avif-to-jpg-converter.jpg",
+      "snippet": "The ultimate success of the government’s canal restoration and 250-million-tree plantation initiatives will depend not on how impressive the numbers appear in official reports, but on whether they generate lasting ecological and socioeconomic benefit..."
+    },
+    {
+      "title": "12kg LPG cylinder price hiked by Tk70 ",
+      "link": "https://www.tbsnews.net/bangladesh/12kg-lpg-cylinder-price-hiked-tk70-1504556",
+      "pubDate": "Sun, 02 Aug 2026 17:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/10/06/sap_8025_1.jpg",
+      "snippet": "The new rate of Tk1,598 will take effect from 6pm todThe new rate will take effect from 6pm today (2 August).ay."
+    },
+    {
+      "title": "Bangladesh’s semiconductor ambition requires a design-first strategy ",
+      "link": "https://www.tbsnews.net/thoughts/bangladeshs-semiconductor-ambition-requires-design-first-strategy-1504546",
+      "pubDate": "Sun, 02 Aug 2026 17:30:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/08_panorama_semiconductor_copy.png",
+      "snippet": "The government has identified semiconductors as a strategic growth sector after RMG. However, Bangladesh should pursue a ‘design-first strategy’, investing in talent, research and engineering capability before attempting capital-intensive chip manufa..."
+    },
+    {
+      "title": "Remittance inflow rises to $2.86b in July",
+      "link": "https://www.tbsnews.net/economy/remittance-inflow-rises-286b-july-1504526",
+      "pubDate": "Sun, 02 Aug 2026 17:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/12/02/remittance.jpg",
+      "snippet": "Bangladesh received $390 million more than in July last year."
+    },
+    {
+      "title": "Law firm in UAE hired to seek cancellation of ex-IGP Benazir's bail: Home minister",
+      "link": "https://www.tbsnews.net/bangladesh/govt-hires-law-firm-uae-seek-cancellation-ex-igp-benazirs-bail-home-minister-1504531",
+      "pubDate": "Sun, 02 Aug 2026 17:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/21/salahuddin.jpg",
+      "snippet": "The minister says the government is trying to obtain a certified copy of the bail order as it seeks Benazir's return through legal channels."
+    },
+    {
+      "title": "Primary teachers' joining date advanced to October 1",
+      "link": "https://www.tbsnews.net/bangladesh/education/primary-teachers-joining-date-advanced-october-1-1504511",
+      "pubDate": "Sun, 02 Aug 2026 17:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/15/image-300109-1754713315.jpg",
+      "snippet": "Candidates will report to district primary education offices on 1 October, with school postings scheduled three days later."
+    },
+    {
+      "title": "'Not fully aware yet': PM's adviser on Benazir's reported UAE bail",
+      "link": "https://www.tbsnews.net/bangladesh/not-fully-aware-yet-pms-adviser-benazirs-reported-uae-bail-1504516",
+      "pubDate": "Sun, 02 Aug 2026 17:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/09/humayun_kabir.jpg",
+      "snippet": "The government is initiating the process of bringing back former inspector general of police Benazir Ahmed from the UAE, says PM's Foreign Affairs Adviser Humaiun Kobir."
+    },
+    {
       "title": "Govt launches National Action Plan for safe, orderly migration",
       "link": "https://www.tbsnews.net/bangladesh/govt-launches-national-action-plan-safe-orderly-migration-1504466",
       "pubDate": "Sun, 02 Aug 2026 16:35:00 +0600",
@@ -122,101 +243,13 @@
       "snippet": "Before entering damaged buildings, safety must be ensured."
     },
     {
-      "title": "HC orders authorities to process expatriates' passport applications within 60 days",
-      "link": "https://www.tbsnews.net/bangladesh/court/hc-orders-authorities-process-expatriates-passport-applications-within-60-days",
-      "pubDate": "Sun, 02 Aug 2026 14:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/10/18/hc.jpg",
-      "snippet": "The writ was filed on behalf of HRPB, following media reports alleging that expatriates had been waiting for long periods to receive new or renewed passports."
-    },
-    {
-      "title": "Experts call for prioritising distributed renewable energy to cut fuel imports",
-      "link": "https://www.tbsnews.net/bangladesh/experts-call-prioritising-distributed-renewable-energy-cut-fuel-imports-1504356",
-      "pubDate": "Sun, 02 Aug 2026 14:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/cpd.jpg",
-      "snippet": "Prime Minister’s Adviser for Finance and Planning Rashed Al Mahmud Titumir attended the seminar as the chief guest."
-    },
-    {
-      "title": "Recommended pry assistant teachers begin indefinite sit-in, demand appointments within Aug",
-      "link": "https://www.tbsnews.net/bangladesh/recommended-pry-assistant-teachers-begin-indefinite-sit-demand-appointments-within-aug-0",
-      "pubDate": "Sun, 02 Aug 2026 14:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/primary_teachers_protest.jpg",
-      "snippet": "The demonstration began around 11:00am under tight police security."
-    },
-    {
-      "title": "David Emon, three associates put on 10 days' remand in two cases",
-      "link": "https://www.tbsnews.net/bangladesh/court/david-emon-three-associates-put-10-days-remand-two-cases-1504336",
-      "pubDate": "Sun, 02 Aug 2026 13:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/760771738_2001702497148075_8080740943088704117_n.jpg",
-      "snippet": "David Emon was arrested in a joint operation in Jashore in the early hours of 29 July while trying to flee to India."
-    },
-    {
-      "title": "Chattogram Wasa mulls rising water price by 5%",
-      "link": "https://www.tbsnews.net/bangladesh/chattogram-wasa-mulls-rising-water-price-5-1504321",
-      "pubDate": "Sun, 02 Aug 2026 13:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/08/08/safe_water.jpg",
-      "snippet": "Household consumers will bear the brunt of any fresh increase"
-    },
-    {
-      "title": "Rain likely over country in the next 24 hours",
-      "link": "https://www.tbsnews.net/bangladesh/environment/rain-likely-over-country-next-24-hours-1504326",
-      "pubDate": "Sun, 02 Aug 2026 13:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/27/rain_bss_img.jpg",
-      "snippet": "Day temperature may fall slightly and night temperature may remain nearly unchanged across the country."
-    },
-    {
-      "title": "Recommended pry assistant teachers begin indefinite sit-in, demand appointments within Aug",
-      "link": "https://www.tbsnews.net/bangladesh/recommended-pry-assistant-teachers-begin-indefinite-sit-demand-appointments-within-aug",
-      "pubDate": "Sun, 02 Aug 2026 13:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/primary_teachers_protest.jpg",
-      "snippet": "The demonstration began around 11:00am under tight police security."
-    },
-    {
-      "title": "Regent Group Chairman Shahed handed one-year jail term in Tk23 lakh cheque dishonour case",
-      "link": "https://www.tbsnews.net/bangladesh/court/regent-group-chairman-shahed-handed-one-year-jail-term-tk23-lakh-cheque-dishonour",
-      "pubDate": "Sun, 02 Aug 2026 12:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/30/regent_shahed.jpg",
-      "snippet": "Shahed was arrested on 20 July in the capital's ECB Chattar area by Pallabi police based on an arrest warrant issued in a separate cheque dishonour case involving Tk2.16 crore, filed by Mercantile Co-operative Bank"
-    },
-    {
       "title": "Over 14,000 primary assistant teachers to join duties on 1 October",
       "link": "https://www.tbsnews.net/bangladesh/education/over-14000-primary-assistant-teachers-join-duties-1-october-1504301",
       "pubDate": "Sun, 02 Aug 2026 12:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/12/26/bd-eng-teachers_0.png",
       "snippet": "According to the notice, appointment letters will be sent to the selected candidates in due course against vacant posts at government primary schools."
     },
@@ -769,18 +802,7 @@
       "icon": "🔍",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/30/hc_protest_0.jpg",
       "snippet": "The events of the day were widely viewed as a significant moment in the protests, with many observers describing them as marking a shift in the movement's momentum"
-    },
-    {
-      "title": "Dengue: 3 more die, 467 hospitalised in 24 hours",
-      "link": "https://www.tbsnews.net/bangladesh/health/dengue-3-more-die-467-hospitalised-24-hours-1502181",
-      "pubDate": "Thu, 30 Jul 2026 17:45:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/20/dengue_6.jpg",
-      "snippet": "So far, 53 dengue-related deaths and 15,157 cases have been recorded this year."
     }
   ],
-  "updatedAt": "2026-08-02T10:58:58.266Z"
+  "updatedAt": "2026-08-02T12:10:41.621Z"
 }
