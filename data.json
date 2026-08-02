@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Empty containers pile up at ICDs as import-export gap widens ",
+      "link": "https://www.tbsnews.net/economy/empty-containers-pile-icds-import-export-gap-widens-1504151",
+      "pubDate": "Sun, 02 Aug 2026 07:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/08/09/ctg_container_depot_photo1.jpg",
+      "snippet": "The CPA has asked the National Board of Revenue to allow shipping agents and main line operators (MLOs) to store empty containers at suitable non-bonded locations without requiring bonded warehouse licences, arguing that the current rules are worseni..."
+    },
+    {
       "title": "Wild boars attack python, rescued on CU campus",
       "link": "https://www.tbsnews.net/bangladesh/wild-boars-attack-python-rescued-cu-campus-1504146",
       "pubDate": "Sun, 02 Aug 2026 01:20:00 +0600",
@@ -241,17 +252,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/11/measles_tbs.jpeg",
       "snippet": "Bangladesh has recorded 16,180 laboratory-confirmed measles cases and more than 1,11000 hospitalisations since mid-March, according to DGHS data."
-    },
-    {
-      "title": "CTTC cautions public not to touch suspicious objects",
-      "link": "https://www.tbsnews.net/bangladesh/cttc-cautions-public-not-touch-suspicious-objects-1503941",
-      "pubDate": "Sat, 01 Aug 2026 19:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/01/cttc.jpg",
-      "snippet": "The counter-terrorism unit says objects found at Mirpur-10 and Farmgate metro stations contained no explosives, while investigations into the Motijheel IED continue."
     },
     {
       "title": "PM pledges industry-focused gas supply, faster business approvals",
@@ -837,5 +837,5 @@
       "snippet": "The diversion is expected to delay the 100,000-tonne cargo by about a month and raise transportation costs by up to $5.4 million, according to Shipping Corporation documents."
     }
   ],
-  "updatedAt": "2026-08-01T23:59:55.511Z"
+  "updatedAt": "2026-08-02T03:42:46.886Z"
 }
