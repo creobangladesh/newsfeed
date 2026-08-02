@@ -1,6 +1,105 @@
 {
   "news": [
     {
+      "title": "July Charter implementation demand should come from CHT region: Nahid Islam",
+      "link": "https://www.tbsnews.net/bangladesh/politics/july-charter-implementation-demand-should-come-cht-region-nahid-islam-1504841",
+      "pubDate": "Sun, 02 Aug 2026 21:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/cht_nahid.jpg",
+      "snippet": "The government had failed to appoint a representative from the hill districts to the Ministry of Chittagong Hill Tracts Affairs, he says."
+    },
+    {
+      "title": "Section of BNP-aligned lawyers protest against irregularities in deputy, assistant attorney general appointments",
+      "link": "https://www.tbsnews.net/bangladesh/section-bnp-aligned-lawyers-protest-against-irregularities-deputy-assistant-attorney",
+      "pubDate": "Sun, 02 Aug 2026 21:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/760792706_1384778223568580_3288459698977689943_n_0.jpg",
+      "snippet": "They call for the latest appointments to be scrapped."
+    },
+    {
+      "title": "Shibir, Chatradal clash at DU's Shahidullah Hall over 'homosexual activity' incident",
+      "link": "https://www.tbsnews.net/bangladesh/shibir-chatradal-clash-dus-shahidullah-hall-over-homosexual-activity-incident-1504801",
+      "pubDate": "Sun, 02 Aug 2026 20:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/760861696_1057027310134187_529109068921528931_n.jpg",
+      "snippet": "The clash erupted at the provost's office during an inquiry meeting over allegations involving two guests staying in a student's room."
+    },
+    {
+      "title": "Adabar BNP leader murder: Accused Ledu’s remand plea rejected, sent to jail",
+      "link": "https://www.tbsnews.net/bangladesh/court/adabar-bnp-leader-murder-accused-ledus-remand-plea-rejected-sent-jail-1504781",
+      "pubDate": "Sun, 02 Aug 2026 20:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/cmm_court.jpg",
+      "snippet": "Ledu faces 32 cases involving murder, arms, drugs and other offences at different police stations in the capital."
+    },
+    {
+      "title": "New ACC commission likely to be constituted this month: Secretary",
+      "link": "https://www.tbsnews.net/bangladesh/new-acc-commission-likely-be-constituted-month-secretary-1504786",
+      "pubDate": "Sun, 02 Aug 2026 20:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/uploads/2021/11/20/acc-tbs-2.jpg",
+      "snippet": "He says the search committee has finalised its recommendations and the government will now move to constitute the new commission."
+    },
+    {
+      "title": "Lightning strike kills 2 in Thakurgaon; two injured",
+      "link": "https://www.tbsnews.net/bangladesh/lightning-strike-kills-2-thakurgaon-two-injured-1504791",
+      "pubDate": "Sun, 02 Aug 2026 20:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/lightning-strike-kills-2-in-thakurgaon-two-injured.jpg",
+      "snippet": "Worsened two were referred to Dinajpur Medical College Hospital for advanced treatment."
+    },
+    {
+      "title": "Bangladesh eyes gas imports from Myanmar through pipeline",
+      "link": "https://www.tbsnews.net/bangladesh/energy/bangladesh-eyes-gas-imports-myanmar-through-pipeline-1504776",
+      "pubDate": "Sun, 02 Aug 2026 20:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/bd-myanmar_meeting.jpg",
+      "snippet": "The two sides discuss importing gas from Myanmar through a pipeline and exploring LNG supply options."
+    },
+    {
+      "title": "Chinmoy Krishna Das granted bail in 2 cases, remains behind bars",
+      "link": "https://www.tbsnews.net/bangladesh/court/chinmoy-krishna-das-granted-bail-2-cases-remains-behind-bars-1504766",
+      "pubDate": "Sun, 02 Aug 2026 20:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/11/28/chinmoy_iskcon.gif",
+      "snippet": "The Sanatani Jagaran Jote spokesperson is facing six criminal cases, including a murder case over lawyer Saiful Islam's death and a sedition case in which his bail remains stayed."
+    },
+    {
+      "title": "July Uprising belonged to all, not just two parties: Anee",
+      "link": "https://www.tbsnews.net/bangladesh/july-uprising-belonged-all-not-just-two-parties-anee-1504771",
+      "pubDate": "Sun, 02 Aug 2026 20:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/17/shahiduddin_chowdhury_anee.jpg",
+      "snippet": "He also criticised the previous interim government's decision to describe certain individuals as the \"masterminds\" of the July uprising."
+    },
+    {
       "title": "34 July 2024: One point, one demand — Sheikh Hasina must resign ",
       "link": "https://www.tbsnews.net/features/panorama/34-july-2024-one-point-one-demand-sheikh-hasina-must-resign-1504756",
       "pubDate": "Sun, 02 Aug 2026 19:55:00 +0600",
@@ -34,7 +133,7 @@
       "snippet": "Bank boards will make final appointments after obtaining Bangladesh Bank clearance."
     },
     {
-      "title": "Price of green chilli to come down to tolerable level within 2-5 days: Agriculture Minister",
+      "title": "Price of green chilli to come down to tolerable level within 2-5 days: Agriculture minister",
       "link": "https://www.tbsnews.net/bangladesh/price-green-chilli-come-down-tolerable-level-within-2-5-days-agriculture-minister-1504726",
       "pubDate": "Sun, 02 Aug 2026 19:25:00 +0600",
       "category": "Bangladesh",
@@ -42,7 +141,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/07/06/videocapture_20230706-094526.jpg",
-      "snippet": ""
+      "snippet": "The government has allowed the import of green chillies and decided to reduce the existing import tax in a bid to stabilise prices, he says."
     },
     {
       "title": "No negligence in bringing back Benazir: ACC DG",
@@ -89,15 +188,15 @@
       "snippet": "Minimum Tk3,000 penalty for filing after Dec, Tk5,000 after Mar"
     },
     {
-      "title": "Tea stall 'turned into' HSC marking centre, board investigates examiner",
-      "link": "https://www.tbsnews.net/bangladesh/education/tea-stall-turned-hsc-marking-centre-board-investigates-examiner-1504656",
+      "title": "HSC examiner 'turns tea stall into marking centre'; 550 answer scripts seized, show-cause notice issued",
+      "link": "https://www.tbsnews.net/bangladesh/education/hsc-examiner-turns-tea-stall-marking-centre-550-answer-scripts-seized-show",
       "pubDate": "Sun, 02 Aug 2026 18:50:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/760502067_2932215740473884_854881336557029941_n.jpg",
-      "snippet": "The examiner has been served with a show-cause notice after board officials recovered the HSC answer scripts from the roadside location during a late-night raid."
+      "snippet": "A general diary also has been filed over the incident."
     },
     {
       "title": "Armed gang robs bus on Cox's Bazar-Teknaf highway; shoots bKash employee, 'loots Tk57 lakh'",
@@ -119,7 +218,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/11/05/measles_mumps_and_rubella_mmr_vaccine.jpg",
-      "snippet": ""
+      "snippet": "According to the Directorate General of Health Services (DGHS), four more children died from measles and measles-like symptoms in the 24 hours until 8am today."
     },
     {
       "title": "Joining Saudi-led alliance aimed at tackling Houthi challenges: Bangladesh",
@@ -144,90 +243,13 @@
       "snippet": "The country's dengue caseload has risen to 16,104 this year, while the death toll stands at 56."
     },
     {
-      "title": "Nationwide alert over potential sabotage targeting force's vehicles: Police HQ",
-      "link": "https://www.tbsnews.net/bangladesh/nationwide-alert-over-potential-sabotage-targeting-forces-vehicles-police-hq-1504606",
-      "pubDate": "Sun, 02 Aug 2026 18:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/03/31/police_hq.jpg",
-      "snippet": "Police tighten security for official vehicles as authorities remain on high alert over potential sabotage."
-    },
-    {
-      "title": "PM hails MIST world champions, pledges support for young innovators, startups",
-      "link": "https://www.tbsnews.net/bangladesh/pm-hails-mist-world-champions-pledges-support-young-innovators-startups-1504616",
-      "pubDate": "Sun, 02 Aug 2026 18:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/pm_mist_award.jpeg",
-      "snippet": "The prime minister said such achievements would help elevate Bangladesh's technological capability on the global stage."
-    },
-    {
-      "title": "Fazlul Hoque takes charge as FBCCI administrator",
-      "link": "https://www.tbsnews.net/bangladesh/fazlul-hoque-takes-charge-fbcci-administrator-1504596",
-      "pubDate": "Sun, 02 Aug 2026 18:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/fazlul_haque.png",
-      "snippet": "Fazlul, who is also the managing director of Plummy Fashions Ltd, was appointed to the post with the mandate to conduct a free and fair election within 120 days and hand over responsibilities to the newly elected body thereafter."
-    },
-    {
-      "title": "Misinformation remains biggest challenge for the media: Info minister",
-      "link": "https://www.tbsnews.net/bangladesh/misinformation-remains-biggest-challenge-media-info-minister-1504601",
-      "pubDate": "Sun, 02 Aug 2026 18:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/info_minister_at_du.jpg",
-      "snippet": "He urges journalists to continually question how objectivity can be ensured and truth established."
-    },
-    {
-      "title": "David Emon's remand brings relief, but Chattogram businesses remain wary",
-      "link": "https://www.tbsnews.net/bangladesh/court/david-emon-10-day-remand-police-probe-extortion-network-1504581",
-      "pubDate": "Sun, 02 Aug 2026 17:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/753522109_1050708527419018_1060570425526930899_n.jpg",
-      "snippet": "Police say the remand will help uncover the operations of an alleged extortion network that targeted business owners with threats, armed attacks and demands for large sums of money."
-    },
-    {
-      "title": "Dhaka North administrator, Dhaka-18 MP attacked during inspection",
-      "link": "https://www.tbsnews.net/bangladesh/dhaka-north-administrator-dhaka-18-mp-attacked-during-inspection-1504586",
-      "pubDate": "Sun, 02 Aug 2026 17:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/dncc.png",
-      "snippet": "Three people arrested after clash leaves several injured."
-    },
-    {
-      "title": "CAB urges withdrawal of Ctg Wasa's proposed 5% water tariff hike",
-      "link": "https://www.tbsnews.net/bangladesh/cab-urges-withdrawal-ctg-wasas-proposed-5-water-tariff-hike-1504576",
-      "pubDate": "Sun, 02 Aug 2026 17:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/chittagong-wasa-31.jpg",
-      "snippet": "Consumer body says price increase is unjustified without improving service quality."
-    },
-    {
       "title": "DU to open undergraduate admission applications on 11 Nov, exams begin 5 Dec",
       "link": "https://www.tbsnews.net/bangladesh/education/du-open-undergraduate-admission-applications-11-november-exams-begin-5-december",
       "pubDate": "Sun, 02 Aug 2026 17:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/30/du.jpg",
       "snippet": "The university has announced the admission schedule, eligibility criteria and exam dates for all five units, with classes set to begin on 28 March 2027."
     },
@@ -241,17 +263,6 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/copyof20250324_095502-ezgif.com-avif-to-jpg-converter.jpg",
       "snippet": "The ultimate success of the government’s canal restoration and 250-million-tree plantation initiatives will depend not on how impressive the numbers appear in official reports, but on whether they generate lasting ecological and socioeconomic benefit..."
-    },
-    {
-      "title": "12kg LPG cylinder price hiked by Tk70 ",
-      "link": "https://www.tbsnews.net/bangladesh/12kg-lpg-cylinder-price-hiked-tk70-1504556",
-      "pubDate": "Sun, 02 Aug 2026 17:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/10/06/sap_8025_1.jpg",
-      "snippet": "The new rate of Tk1,598 will take effect from 6pm todThe new rate will take effect from 6pm today (2 August).ay."
     },
     {
       "title": "Bangladesh’s semiconductor ambition requires a design-first strategy ",
@@ -791,40 +802,7 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/30/1000107363.jpg",
       "snippet": "The syndicate also suspended a university official, formed two committees to review past recruitment and research funding, and approved the construction of a July Memorial on campus."
-    },
-    {
-      "title": "Cenbank forms Tk2,000cr scheme at 7% interest to boost leather sector",
-      "link": "https://www.tbsnews.net/economy/industry/cenbank-forms-tk2000cr-scheme-7-interest-boost-leather-sector-1502436",
-      "pubDate": "Thu, 30 Jul 2026 21:00:00 +0600",
-      "category": "Industry",
-      "color": "#f57c00",
-      "bg": "#fff3e0",
-      "icon": "🏭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/05/31/bangladesh-leather-industry.jpg",
-      "snippet": "The scheme aims to help local manufacturers expand in global markets while transforming the leather industry into an eco-friendly and compliant sector."
-    },
-    {
-      "title": "BB updates export trade rules, expands digital trade, financing framework",
-      "link": "https://www.tbsnews.net/economy/banking/bb-updates-export-trade-rules-expands-digital-trade-financing-framework-1502431",
-      "pubDate": "Thu, 30 Jul 2026 20:55:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/bangladesh_bank.jpg",
-      "snippet": "New guidelines introduce digital trade documentation, alternative trade finance and dedicated foreign exchange rules for freelancers and service exporters."
-    },
-    {
-      "title": "UGC to establish language centres at 25 universities to boost global competitiveness",
-      "link": "https://www.tbsnews.net/bangladesh/education/ugc-establish-language-centres-25-universities-boost-global-competitiveness",
-      "pubDate": "Thu, 30 Jul 2026 20:30:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/ugc.jpg",
-      "snippet": "Languages include Japanese, Korean, Chinese, Arabic, French, German"
     }
   ],
-  "updatedAt": "2026-08-02T14:08:20.053Z"
+  "updatedAt": "2026-08-02T15:37:51.620Z"
 }
