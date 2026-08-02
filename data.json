@@ -1,6 +1,94 @@
 {
   "news": [
     {
+      "title": "Tourist's parasailing death: Case filed against operator, 3 others",
+      "link": "https://www.tbsnews.net/bangladesh/tourists-parasailing-death-case-filed-against-operator-3-others-1504896",
+      "pubDate": "Sun, 02 Aug 2026 22:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/01/dc268c81-482f-4b3c-b658-93855b7a7190.jpg",
+      "snippet": "The victim’s family alleged the company had been operating without approval despite safety concerns, prompting authorities to suspend all parasailing activities on Cox’s Bazar beach."
+    },
+    {
+      "title": "ICT prosecution seeks trial of Hasina, 9 others over 'extrajudicial killings' in 2016 Gazipur anti-militancy operation",
+      "link": "https://www.tbsnews.net/bangladesh/court/ict-prosecution-seeks-trial-hasina-9-others-over-extrajudicial-killings-2016",
+      "pubDate": "Sun, 02 Aug 2026 22:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/09/26/ict.jpg",
+      "snippet": "The ICT fixed 10 August to hear discharge petitions before deciding whether to frame charges against the 10 accused."
+    },
+    {
+      "title": "Govt eyes regional tourism hub with better infrastructure: Millat",
+      "link": "https://www.tbsnews.net/bangladesh/govt-eyes-regional-tourism-hub-better-infrastructure-millat-1504866",
+      "pubDate": "Sun, 02 Aug 2026 21:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/01/rashiduzzaman_millat.png",
+      "snippet": "Millat also underscored the importance of maintaining international hospitality standards, developing skilled human resources and strengthening public-private partnerships to unlock Bangladesh's vast tourism potential."
+    },
+    {
+      "title": "Husband kills wife in Narail, surrenders to police",
+      "link": "https://www.tbsnews.net/bangladesh/husband-kills-wife-narail-surrenders-police-1504881",
+      "pubDate": "Sun, 02 Aug 2026 21:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/28/dead_2.png",
+      "snippet": "After completing the due procedures they would hand over her body to the family, duty doctor said."
+    },
+    {
+      "title": "Al-Arafah Bank's Q2 profit dips 9% on rising costs, lower investment income",
+      "link": "https://www.tbsnews.net/economy/banking/al-arafah-banks-q2-profit-dips-9-rising-costs-lower-investment-income-1504876",
+      "pubDate": "Sun, 02 Aug 2026 21:55:00 +0600",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/al_arafah_bank_1.jpg",
+      "snippet": "The consolidated net profit for the April-June period fell to Tk83.24 crore."
+    },
+    {
+      "title": "Professionalism, ethics take centre stage at Gazipur journalists’ workshop",
+      "link": "https://www.tbsnews.net/bangladesh/professionalism-ethics-take-centre-stage-gazipur-journalists-workshop-1504856",
+      "pubDate": "Sun, 02 Aug 2026 21:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/workshop_gazipur.jpg",
+      "snippet": "Media leaders call for fearless reporting, accountability and fact-based journalism."
+    },
+    {
+      "title": "Govt to implement July Charter, ensure trial over July killings: Mahdi Amin",
+      "link": "https://www.tbsnews.net/bangladesh/govt-implement-july-charter-ensure-trial-over-july-killings-mahdi-amin-1504861",
+      "pubDate": "Sun, 02 Aug 2026 21:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/mahdi_amin.png",
+      "snippet": "\"Some have lost their eyesight, while others have become permanently disabled. Many are still undergoing treatment,\" he said."
+    },
+    {
+      "title": "SC lawyers issue legal notice seeking guidelines to prevent misuse of 'shown arrest'",
+      "link": "https://www.tbsnews.net/bangladesh/court/sc-lawyers-issue-legal-notice-seeking-guidelines-prevent-misuse-shown-arrest",
+      "pubDate": "Sun, 02 Aug 2026 21:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/01/08/supreme_court_1.jpg",
+      "snippet": "The notice warns that misuse of the procedure undermines court-granted bail and violates constitutional rights to personal liberty and legal protection."
+    },
+    {
       "title": "July Charter implementation demand should come from CHT region: Nahid Islam",
       "link": "https://www.tbsnews.net/bangladesh/politics/july-charter-implementation-demand-should-come-cht-region-nahid-islam-1504841",
       "pubDate": "Sun, 02 Aug 2026 21:20:00 +0600",
@@ -78,17 +166,6 @@
       "snippet": "The two sides discuss importing gas from Myanmar through a pipeline and exploring LNG supply options."
     },
     {
-      "title": "Chinmoy Krishna Das granted bail in 2 cases, remains behind bars",
-      "link": "https://www.tbsnews.net/bangladesh/court/chinmoy-krishna-das-granted-bail-2-cases-remains-behind-bars-1504766",
-      "pubDate": "Sun, 02 Aug 2026 20:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/11/28/chinmoy_iskcon.gif",
-      "snippet": "The Sanatani Jagaran Jote spokesperson is facing six criminal cases, including a murder case over lawyer Saiful Islam's death and a sedition case in which his bail remains stayed."
-    },
-    {
       "title": "July Uprising belonged to all, not just two parties: Anee",
       "link": "https://www.tbsnews.net/bangladesh/july-uprising-belonged-all-not-just-two-parties-anee-1504771",
       "pubDate": "Sun, 02 Aug 2026 20:25:00 +0600",
@@ -98,6 +175,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/17/shahiduddin_chowdhury_anee.jpg",
       "snippet": "He also criticised the previous interim government's decision to describe certain individuals as the \"masterminds\" of the July uprising."
+    },
+    {
+      "title": "Chinmoy Krishna Das granted bail in 2 cases, remains behind bars",
+      "link": "https://www.tbsnews.net/bangladesh/court/chinmoy-krishna-das-granted-bail-2-cases-remains-behind-bars-1504766",
+      "pubDate": "Sun, 02 Aug 2026 20:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/11/28/chinmoy_iskcon.gif",
+      "snippet": "The Sanatani Jagaran Jote spokesperson is facing six criminal cases, including a murder case over lawyer Saiful Islam's death and a sedition case in which his bail remains stayed."
     },
     {
       "title": "34 July 2024: One point, one demand — Sheikh Hasina must resign ",
@@ -166,79 +254,46 @@
       "snippet": "Low pressure leaves drivers waiting hours for gas."
     },
     {
-      "title": "Foreign loan commitments hit 14-year low as Bangladesh repays record $4.49b",
+      "title": "Foreign loan commitments fall to 14-year low, repayment reaches record $4.49b",
       "link": "https://www.tbsnews.net/economy/foreign-loan-commitments-hit-14-year-low-bangladesh-repays-record-449b-1504661",
       "pubDate": "Sun, 02 Aug 2026 19:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/09/27/1000029569_678x452.jpg",
       "snippet": "Loan commitments fell to $5.243 billion in FY26, while the country made its highest-ever annual external debt repayment of $4.494 billion."
-    },
-    {
-      "title": "Up to Tk25,000 tax rebate for returns filed by September ",
-      "link": "https://www.tbsnews.net/bangladesh/tk25000-tax-rebate-returns-filed-september-1504686",
-      "pubDate": "Sun, 02 Aug 2026 19:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/03/12/nbr.jpg",
-      "snippet": "Minimum Tk3,000 penalty for filing after Dec, Tk5,000 after Mar"
     },
     {
       "title": "HSC examiner 'turns tea stall into marking centre'; 550 answer scripts seized, show-cause notice issued",
       "link": "https://www.tbsnews.net/bangladesh/education/hsc-examiner-turns-tea-stall-marking-centre-550-answer-scripts-seized-show",
       "pubDate": "Sun, 02 Aug 2026 18:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/760502067_2932215740473884_854881336557029941_n.jpg",
       "snippet": "A general diary also has been filed over the incident."
-    },
-    {
-      "title": "Armed gang robs bus on Cox's Bazar-Teknaf highway; shoots bKash employee, 'loots Tk57 lakh'",
-      "link": "https://www.tbsnews.net/bangladesh/crime/armed-gang-robs-bus-coxs-bazar-teknaf-highway-shoots-bkash-employee-1504671",
-      "pubDate": "Sun, 02 Aug 2026 18:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/teknaf_robbery.jpg",
-      "snippet": "The assailants allegedly looted Tk57 lakh from three bKash agency employees after forcing the bus to stop with nail-studded tree trunks."
     },
     {
       "title": "No genetic evidence of vaccine-resistant measles strain in Bangladesh: icddr,b",
       "link": "https://www.tbsnews.net/bangladesh/health/no-genetic-evidence-vaccine-resistant-measles-strain-bangladesh-icddrb-1504646",
       "pubDate": "Sun, 02 Aug 2026 18:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/11/05/measles_mumps_and_rubella_mmr_vaccine.jpg",
       "snippet": "According to the Directorate General of Health Services (DGHS), four more children died from measles and measles-like symptoms in the 24 hours until 8am today."
-    },
-    {
-      "title": "Joining Saudi-led alliance aimed at tackling Houthi challenges: Bangladesh",
-      "link": "https://www.tbsnews.net/foreign-policy/joining-saudi-led-alliance-aimed-tackling-houthi-challenges-bangladesh-1504641",
-      "pubDate": "Sun, 02 Aug 2026 18:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/humaiyun_kabir.jpeg",
-      "snippet": "14 countries, including Bangladesh, have expressed their support for a multinational maritime defence alliance headed by Saudi Arabia"
     },
     {
       "title": "Dengue: 2 more die, 423 hospitalised in 24hrs",
       "link": "https://www.tbsnews.net/bangladesh/health/dengue-2-more-die-423-hospitalised-24hrs-1504631",
       "pubDate": "Sun, 02 Aug 2026 18:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/20/dengue_6.jpg",
       "snippet": "The country's dengue caseload has risen to 16,104 this year, while the death toll stands at 56."
     },
@@ -276,8 +331,8 @@
       "snippet": "The government has identified semiconductors as a strategic growth sector after RMG. However, Bangladesh should pursue a ‘design-first strategy’, investing in talent, research and engineering capability before attempting capital-intensive chip manufa..."
     },
     {
-      "title": "Remittance inflow rises to $2.86b in July",
-      "link": "https://www.tbsnews.net/economy/remittance-inflow-rises-286b-july-1504526",
+      "title": "Remittance inflows rise 15.8% to $2.86b in July",
+      "link": "https://www.tbsnews.net/economy/remittance-inflows-rise-158-286b-july-1504526",
       "pubDate": "Sun, 02 Aug 2026 17:05:00 +0600",
       "category": "Economy",
       "color": "#2e7d32",
@@ -791,18 +846,7 @@
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/03/01/bangladesh_bank_1.jpg",
       "snippet": "The new rates will come into effect from 2 August 2026."
-    },
-    {
-      "title": "DU suspends 3 teachers; strips 4 others of academic, administrative roles",
-      "link": "https://www.tbsnews.net/bangladesh/education/du-suspends-3-teachers-strips-4-others-academic-administrative-roles-1502521",
-      "pubDate": "Thu, 30 Jul 2026 21:50:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/30/1000107363.jpg",
-      "snippet": "The syndicate also suspended a university official, formed two committees to review past recruitment and research funding, and approved the construction of a July Memorial on campus."
     }
   ],
-  "updatedAt": "2026-08-02T15:37:51.620Z"
+  "updatedAt": "2026-08-02T16:58:24.606Z"
 }
