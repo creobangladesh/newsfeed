@@ -1,15 +1,169 @@
 {
   "news": [
     {
-      "title": "Cargo logjam for years eating up 40% of Chattogram Port’s capacity",
+      "title": "All Kashimpur land office staffers suspended over irregularities",
+      "link": "https://www.tbsnews.net/bangladesh/all-kashimpur-land-office-staffers-suspended-over-irregularities-1505226",
+      "pubDate": "Mon, 03 Aug 2026 13:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/759715363_1302067815129912_2544269404528448236_n_0.jpg",
+      "snippet": "Gazipur Deputy Commissioner Md Nurul Karim Bhuiyan ordered the suspensions this morning after inspecting the office."
+    },
+    {
+      "title": "PM appeals for public help to keep Bangladesh clean and litter-free",
+      "link": "https://www.tbsnews.net/bangladesh/pm-appeals-public-help-keep-bangladesh-clean-and-litter-free-1505181",
+      "pubDate": "Mon, 03 Aug 2026 13:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/25/pm_tarique_rahman.jpg",
+      "snippet": "He urges people to dispose of waste responsibly."
+    },
+    {
+      "title": "Bangladesh should tap China's tech shift to boost manufacturing: PM's Adviser Humayun Kabir",
+      "link": "https://www.tbsnews.net/economy/bangladesh-should-tap-chinas-tech-shift-boost-manufacturing-pms-adviser-humayun-kabir",
+      "pubDate": "Mon, 03 Aug 2026 13:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/humaiyun_kobir.jpeg",
+      "snippet": "Humayun said Bangladesh has a 'tremendous opportunity' to strengthen economic growth and trade by deepening cooperation with China as global supply chains continue to evolve."
+    },
+    {
+      "title": " Major rivers likely to swell up in August",
+      "link": "https://www.tbsnews.net/bangladesh/major-rivers-likely-swell-august-1505176",
+      "pubDate": "Mon, 03 Aug 2026 13:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/bmd_.jpg",
+      "snippet": "Thunderstorms are likely on five to six days during the month, while both day and night temperatures are expected to remain above normal across the country."
+    },
+    {
+      "title": "Gen Z, social media, and South Asia's new protest politics",
+      "link": "https://www.tbsnews.net/features/gen-z-social-media-and-south-asias-new-protest-politics-1505211",
+      "pubDate": "Mon, 03 Aug 2026 13:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/01/14/time.jpg",
+      "snippet": "Recent movements in Bangladesh, Nepal, and India suggest that for digitally native youth, political organisation now unfolds across interconnected online and offline spaces rather than through traditional structures alone."
+    },
+    {
+      "title": "Obesity battle heats up again as Novo claws way back into race with Lilly",
+      "link": "https://www.tbsnews.net/bangladesh/health/obesity-battle-heats-again-novo-claws-way-back-race-lilly-1505156",
+      "pubDate": "Mon, 03 Aug 2026 12:40:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/wegovy.jpg",
+      "snippet": "Novo spent 2025 on the defensive as mounting US pricing pressure and competition led to four guidance cuts and wiped billions from its market value."
+    },
+    {
+      "title": "Court orders trial to begin against ex-NBR official Matiur in graft case",
+      "link": "https://www.tbsnews.net/bangladesh/court-orders-beginning-trial-graft-charges-against-ex-nbr-official-matiur-1505116",
+      "pubDate": "Mon, 03 Aug 2026 12:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/24/matiur_rahman_0.jpg",
+      "snippet": "According to the case statement, Matiur allegedly acquired assets worth Tk5.28 crore beyond his known sources of income and concealed information about assets worth Tk1.27 crore."
+    },
+    {
+      "title": "Heavy rainfall likely in 3 divisions",
+      "link": "https://www.tbsnews.net/bangladesh/heavy-rainfall-likely-3-divisions-1505086",
+      "pubDate": "Mon, 03 Aug 2026 11:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/02/22/rain_0_0.png",
+      "snippet": "Chattogram’s Kutubdia recorded the highest rainfall in the country."
+    },
+    {
+      "title": "Attacks on law enforcers continue, but the pattern has changed",
+      "link": "https://www.tbsnews.net/bangladesh/law-order/attacks-law-enforcers-continue-pattern-has-changed-1505026",
+      "pubDate": "Mon, 03 Aug 2026 11:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/p5_police_hl.png",
+      "snippet": "Officials say attacks once limited to high-risk operations or remote areas are now occurring in broad daylight, often fuelled by rumours or mob mobilisation, causing injuries and damage to government vehicles and facilities."
+    },
+    {
+      "title": "Bangladesh seeks expanded legal migration pathways with IOM support",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-seeks-expanded-legal-migration-pathways-iom-support-1505061",
+      "pubDate": "Mon, 03 Aug 2026 11:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/shama_daniels.jpg",
+      "snippet": "Daniels praised Bangladesh's initiatives to establish sustainable migration governance and commended the country's leadership in promoting safe, orderly and regular migration at the global level."
+    },
+    {
+      "title": "Why are thousands of cargo containers remaining stranded at Ctg Port?",
+      "link": "https://www.tbsnews.net/economy/why-are-thousands-cargo-containers-remaining-stranded-chattogram-port-1505051",
+      "pubDate": "Mon, 03 Aug 2026 10:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/01/02/ctg_port_container_photo_4_0.jpg",
+      "snippet": "Port users and trade representatives say the delays are caused by a combination of customs procedures, legal disputes and slow disposal of abandoned cargo."
+    },
+    {
+      "title": "Alibaba unveils its most capable AI model to date, not far behind Moonshot's in size",
+      "link": "https://www.tbsnews.net/tech/alibaba-unveils-its-most-capable-ai-model-date-not-far-behind-moonshots-size-1505046",
+      "pubDate": "Mon, 03 Aug 2026 10:40:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/alibaba_qwen.jpeg",
+      "snippet": "Chinese tech companies, a major force in open-weight AI models globally, are locked in a fierce race to build more powerful systems without making them prohibitively expensive to run."
+    },
+    {
+      "title": "Holcim to sell Philippines unit to China’s Huaxin in $807m deal",
+      "link": "https://www.tbsnews.net/economy/stocks/holcim-sell-philippines-unit-chinas-huaxin-807m-deal-1505016",
+      "pubDate": "Mon, 03 Aug 2026 10:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/img_0098.jpeg",
+      "snippet": "Holcim will sell an initial 68% stake for $527 million with the remainder to be sold over the next three to five years for a minimum price of $280 million."
+    },
+    {
+      "title": "RU removes images of Nizami, Sayeedi and other executed war crimes convicts from billboard after student protests",
+      "link": "https://www.tbsnews.net/bangladesh/ru-remove-billboard-featuring-nizami-sayeedi-and-other-executed-war-crimes-convicts-after",
+      "pubDate": "Mon, 03 Aug 2026 10:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/761168026_930420005983842_1712176161206646968_n.jpg",
+      "snippet": "The billboard, installed two days earlier under the title 'Judicial Killing,' was put up by Nabho Culture, an organisation led by Rucsu GS Salahuddin Ammar."
+    },
+    {
+      "title": "Cargo logjam for years eating up 40% of Ctg Port's capacity",
       "link": "https://www.tbsnews.net/economy/cargo-logjam-years-eating-40-chattogram-ports-capacity-1504991",
       "pubDate": "Mon, 03 Aug 2026 10:00:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/p1_ctg_port_news_photo_1.jpg",
-      "snippet": "9,330 stranded containers block up to 22% of port yard; port users estimate combined economic losses exceed $5b"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/cargo.png",
+      "snippet": "Altogether, 9,330 stranded containers block up to 22% of port yard; port users estimate combined economic losses exceed $5b"
     },
     {
       "title": "General insurers post stronger Q2 earnings on lower costs, improved underwriting",
@@ -78,6 +232,17 @@
       "snippet": "Houseboat operators have been asked to register their vessels by 10 August as part of an 11-point directive aimed at protecting the ecologically critical wetland."
     },
     {
+      "title": "Dr Saimum Parvez urges people to offer saplings instead of flower bouquets",
+      "link": "https://www.tbsnews.net/bangladesh/environment/dr-saimum-parvez-urges-people-offer-saplings-instead-flower-bouquets-1505106",
+      "pubDate": "Sun, 02 Aug 2026 23:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/758730887_122132232513176133_8784232678103032638_n.jpg",
+      "snippet": "He called on political parties, government institutions, public officials and citizens to adopt the practice of presenting native tree saplings instead of flowers"
+    },
+    {
       "title": "Tourist's parasailing death: Case filed against operator, 3 others",
       "link": "https://www.tbsnews.net/bangladesh/tourists-parasailing-death-case-filed-against-operator-3-others-1504896",
       "pubDate": "Sun, 02 Aug 2026 22:10:00 +0600",
@@ -89,39 +254,6 @@
       "snippet": "The victim’s family alleged the company had been operating without approval despite safety concerns, prompting authorities to suspend all parasailing activities on Cox’s Bazar beach."
     },
     {
-      "title": "ICT prosecution seeks trial of Hasina, 9 others over 'extrajudicial killings' in 2016 Gazipur anti-militancy operation",
-      "link": "https://www.tbsnews.net/bangladesh/court/ict-prosecution-seeks-trial-hasina-9-others-over-extrajudicial-killings-2016",
-      "pubDate": "Sun, 02 Aug 2026 22:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/09/26/ict.jpg",
-      "snippet": "The ICT fixed 10 August to hear discharge petitions before deciding whether to frame charges against the 10 accused."
-    },
-    {
-      "title": "Govt eyes regional tourism hub with better infrastructure: Millat",
-      "link": "https://www.tbsnews.net/bangladesh/govt-eyes-regional-tourism-hub-better-infrastructure-millat-1504866",
-      "pubDate": "Sun, 02 Aug 2026 21:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/01/rashiduzzaman_millat.png",
-      "snippet": "Millat also underscored the importance of maintaining international hospitality standards, developing skilled human resources and strengthening public-private partnerships to unlock Bangladesh's vast tourism potential."
-    },
-    {
-      "title": "Husband kills wife in Narail, surrenders to police",
-      "link": "https://www.tbsnews.net/bangladesh/husband-kills-wife-narail-surrenders-police-1504881",
-      "pubDate": "Sun, 02 Aug 2026 21:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/28/dead_2.png",
-      "snippet": "After completing the due procedures they would hand over her body to the family, duty doctor said."
-    },
-    {
       "title": "Al-Arafah Bank's Q2 profit dips 9% on rising costs, lower investment income",
       "link": "https://www.tbsnews.net/economy/banking/al-arafah-banks-q2-profit-dips-9-rising-costs-lower-investment-income-1504876",
       "pubDate": "Sun, 02 Aug 2026 21:55:00 +0600",
@@ -131,116 +263,6 @@
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/al_arafah_bank_1.jpg",
       "snippet": "The consolidated net profit for the April-June period fell to Tk83.24 crore."
-    },
-    {
-      "title": "Professionalism, ethics take centre stage at Gazipur journalists’ workshop",
-      "link": "https://www.tbsnews.net/bangladesh/professionalism-ethics-take-centre-stage-gazipur-journalists-workshop-1504856",
-      "pubDate": "Sun, 02 Aug 2026 21:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/workshop_gazipur.jpg",
-      "snippet": "Media leaders call for fearless reporting, accountability and fact-based journalism."
-    },
-    {
-      "title": "Govt to implement July Charter, ensure trial over July killings: Mahdi Amin",
-      "link": "https://www.tbsnews.net/bangladesh/govt-implement-july-charter-ensure-trial-over-july-killings-mahdi-amin-1504861",
-      "pubDate": "Sun, 02 Aug 2026 21:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/mahdi_amin.png",
-      "snippet": "\"Some have lost their eyesight, while others have become permanently disabled. Many are still undergoing treatment,\" he said."
-    },
-    {
-      "title": "SC lawyers issue legal notice seeking guidelines to prevent misuse of 'shown arrest'",
-      "link": "https://www.tbsnews.net/bangladesh/court/sc-lawyers-issue-legal-notice-seeking-guidelines-prevent-misuse-shown-arrest",
-      "pubDate": "Sun, 02 Aug 2026 21:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/01/08/supreme_court_1.jpg",
-      "snippet": "The notice warns that misuse of the procedure undermines court-granted bail and violates constitutional rights to personal liberty and legal protection."
-    },
-    {
-      "title": "July Charter implementation demand should come from CHT region: Nahid Islam",
-      "link": "https://www.tbsnews.net/bangladesh/politics/july-charter-implementation-demand-should-come-cht-region-nahid-islam-1504841",
-      "pubDate": "Sun, 02 Aug 2026 21:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/cht_nahid.jpg",
-      "snippet": "The government had failed to appoint a representative from the hill districts to the Ministry of Chittagong Hill Tracts Affairs, he says."
-    },
-    {
-      "title": "Section of BNP-aligned lawyers protest against irregularities in deputy, assistant attorney general appointments",
-      "link": "https://www.tbsnews.net/bangladesh/section-bnp-aligned-lawyers-protest-against-irregularities-deputy-assistant-attorney",
-      "pubDate": "Sun, 02 Aug 2026 21:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/760792706_1384778223568580_3288459698977689943_n_0.jpg",
-      "snippet": "They call for the latest appointments to be scrapped."
-    },
-    {
-      "title": "Shibir, Chatradal clash at DU's Shahidullah Hall over 'homosexual activity' incident",
-      "link": "https://www.tbsnews.net/bangladesh/shibir-chatradal-clash-dus-shahidullah-hall-over-homosexual-activity-incident-1504801",
-      "pubDate": "Sun, 02 Aug 2026 20:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/760861696_1057027310134187_529109068921528931_n.jpg",
-      "snippet": "The clash erupted at the provost's office during an inquiry meeting over allegations involving two guests staying in a student's room."
-    },
-    {
-      "title": "Adabar BNP leader murder: Accused Ledu’s remand plea rejected, sent to jail",
-      "link": "https://www.tbsnews.net/bangladesh/court/adabar-bnp-leader-murder-accused-ledus-remand-plea-rejected-sent-jail-1504781",
-      "pubDate": "Sun, 02 Aug 2026 20:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/cmm_court.jpg",
-      "snippet": "Ledu faces 32 cases involving murder, arms, drugs and other offences at different police stations in the capital."
-    },
-    {
-      "title": "New ACC commission likely to be constituted this month: Secretary",
-      "link": "https://www.tbsnews.net/bangladesh/new-acc-commission-likely-be-constituted-month-secretary-1504786",
-      "pubDate": "Sun, 02 Aug 2026 20:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/uploads/2021/11/20/acc-tbs-2.jpg",
-      "snippet": "He says the search committee has finalised its recommendations and the government will now move to constitute the new commission."
-    },
-    {
-      "title": "Lightning strike kills 2 in Thakurgaon; two injured",
-      "link": "https://www.tbsnews.net/bangladesh/lightning-strike-kills-2-thakurgaon-two-injured-1504791",
-      "pubDate": "Sun, 02 Aug 2026 20:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/lightning-strike-kills-2-in-thakurgaon-two-injured.jpg",
-      "snippet": "Worsened two were referred to Dinajpur Medical College Hospital for advanced treatment."
-    },
-    {
-      "title": "Bangladesh eyes gas imports from Myanmar through pipeline",
-      "link": "https://www.tbsnews.net/bangladesh/energy/bangladesh-eyes-gas-imports-myanmar-through-pipeline-1504776",
-      "pubDate": "Sun, 02 Aug 2026 20:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/bd-myanmar_meeting.jpg",
-      "snippet": "The two sides discuss importing gas from Myanmar through a pipeline and exploring LNG supply options."
     },
     {
       "title": "Bangladesh must strengthen policy independence to sustain growth: Experts",
@@ -780,62 +802,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/31/fdi-bangladesh.png",
       "snippet": "As global companies diversify supply chains and seek new investment destinations, we have a genuine opportunity to position ourselves as a competitive regional hub. Realising that potential will depend less on ambitious targets and more on implementa..."
-    },
-    {
-      "title": "Why Bangladesh must prioritise industrial growth",
-      "link": "https://www.tbsnews.net/thoughts/why-bangladesh-must-prioritise-industrial-growth-1502841",
-      "pubDate": "Fri, 31 Jul 2026 12:00:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/31/growth_story_supplement_1.jpgthougths-15_copy.png",
-      "snippet": "The country's foreign exchange reserves have recently shown signs of stability. However, reserve growth alone cannot be regarded as a true indicator of economic strength"
-    },
-    {
-      "title": "C-sections suspended at Nazirabazar maternity hospital amid specialist, medicine shortages",
-      "link": "https://www.tbsnews.net/bangladesh/health/c-sections-suspended-nazirabazar-maternity-hospital-amid-specialist-medicine",
-      "pubDate": "Fri, 31 Jul 2026 11:30:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/31/pxl_20260726_115112528.mp_.jpeg",
-      "snippet": "Behind the doors of Old Dhaka’s public hospitals, it is not only patients who are ailing. Vacant posts, missing specialists, idle facilities and failing services plague these hospitals. This final instalment of a three-part series examines the gaps a..."
-    },
-    {
-      "title": "Healthcare Pharma begins penicillin trial production at Tk600cr Mirsarai EZ plant",
-      "link": "https://www.tbsnews.net/bangladesh/health/healthcare-pharma-begins-penicillin-trial-production-tk600cr-mirsarai-ez-plant",
-      "pubDate": "Fri, 31 Jul 2026 11:00:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/11/18/antibiotics.jpg",
-      "snippet": "The company expects to launch the antibiotic commercially next month, making it the first company to begin pharmaceutical production in the industrial zone."
-    },
-    {
-      "title": "Govt orders redistribution of idle medical equipment at public hospitals",
-      "link": "https://www.tbsnews.net/bangladesh/health/govt-orders-redistribution-idle-medical-equipment-public-hospitals-1502681",
-      "pubDate": "Fri, 31 Jul 2026 10:30:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/11/healthcare.png",
-      "snippet": "DGHS instructed to submit progress reports every 15 days"
-    },
-    {
-      "title": "KU sacks professor over sexual harassment, forms fresh probe against another",
-      "link": "https://www.tbsnews.net/bangladesh/education/ku-sacks-professor-over-sexual-harassment-forms-fresh-probe-against-another",
-      "pubDate": "Fri, 31 Jul 2026 10:10:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/29/khulna_university.jpg",
-      "snippet": "The decisions were taken at the university's 237th Syndicate meeting yesterday (30 July), Acting Registrar Professor Dr S M Mahbubur Rahman confirmed."
     }
   ],
-  "updatedAt": "2026-08-03T04:06:22.377Z"
+  "updatedAt": "2026-08-03T07:56:45.765Z"
 }
