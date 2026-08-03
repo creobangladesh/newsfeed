@@ -1,6 +1,182 @@
 {
   "news": [
     {
+      "title": "JU forms probe committee over research misconduct allegations",
+      "link": "https://www.tbsnews.net/bangladesh/ju-forms-probe-committee-over-research-misconduct-allegations-1505691",
+      "pubDate": "Mon, 03 Aug 2026 19:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/01/06/jahangirnagar-university.jpg",
+      "snippet": "The committee will investigate the reported irregularities and recommend necessary measures based on its findings."
+    },
+    {
+      "title": "BB scraps TT discounting facility against current accounts",
+      "link": "https://www.tbsnews.net/economy/banking/bb-scraps-tt-discounting-facility-against-current-accounts-1505696",
+      "pubDate": "Mon, 03 Aug 2026 19:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/10/27/image-90440-1666873321.jpg",
+      "snippet": "The central bank said the facility had become unnecessary due to the availability of alternative liquidity management tools, including the repo, Standing Lending Facility (SLF), call money market and interbank borrowing."
+    },
+    {
+      "title": "Education in your pocket, yet still taxed as a luxury",
+      "link": "https://www.tbsnews.net/thoughts/education-your-pocket-yet-still-taxed-luxury-1505666",
+      "pubDate": "Mon, 03 Aug 2026 19:10:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/chatgpt_image_aug_3_2026_07_10_16_pm.png",
+      "snippet": "Our tax policy still treats smartphones and mobile internet as if they are luxury products rather than basic necessities of modern life."
+    },
+    {
+      "title": "Vast scope for Bangladesh-India joint venture industries in border areas: Envoy Trivedi",
+      "link": "https://www.tbsnews.net/foreign-policy/vast-scope-bangladesh-india-joint-venture-industries-border-areas-envoy-trivedi",
+      "pubDate": "Mon, 03 Aug 2026 19:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/11/dinesh_trivedi.jpg",
+      "snippet": "Longstanding unresolved issues between the two neighbours could be addressed through regular high-level dialogue and sustained engagement, Dinesh Tripathi says."
+    },
+    {
+      "title": "US Pacific Fleet commander to visit Bangladesh",
+      "link": "https://www.tbsnews.net/bangladesh/us-pacific-fleet-commander-visit-bangladesh-1505631",
+      "pubDate": "Mon, 03 Aug 2026 18:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/admiral_steve_koehler1.png",
+      "snippet": "Admiral Steve Koehler to hold defence cooperation talks in Dhaka"
+    },
+    {
+      "title": "ICT sets 20 Aug for framing charges over killings of Mugdho, 10 others during July Uprising",
+      "link": "https://www.tbsnews.net/bangladesh/court/ict-sets-20-aug-framing-charges-over-killings-mugdho-10-others-during-july-uprising",
+      "pubDate": "Mon, 03 Aug 2026 18:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/ict.jpg",
+      "snippet": "The tribunal will decide whether to frame charges against 26 accused, including former Dhaka-18 MP Habib Hasan and former DMP commissioner Habibur Rahman, in a crimes against humanity case over the killing of 11 people during the July Uprising in Utt..."
+    },
+    {
+      "title": "Zaima Rahman obtains driving licence after appearing for test, waiting in queue",
+      "link": "https://www.tbsnews.net/bangladesh/zaima-rahman-obtains-driving-licence-after-appearing-test-waiting-queue-1505626",
+      "pubDate": "Mon, 03 Aug 2026 18:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/30/zaima.png",
+      "snippet": "BNP media cell says Tarique Rahman's daughter followed all required procedures like other applicants at the BRTC Tejgaon Training Institute."
+    },
+    {
+      "title": "8 more senior police officers transferred",
+      "link": "https://www.tbsnews.net/bangladesh/8-more-senior-police-officers-transferred-1505596",
+      "pubDate": "Mon, 03 Aug 2026 18:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/25/police_logo_new_bss.jpg",
+      "snippet": "The latest reshuffle affects officers serving in the Chattogram Metropolitan Police, RAB, Industrial Police and several district police units."
+    },
+    {
+      "title": "Dhaka seeks Delhi's clarification on Hasina's planned Aug 5 virtual appearance",
+      "link": "https://www.tbsnews.net/bangladesh/dhaka-seeks-delhis-clarification-hasinas-planned-aug-5-virtual-appearance-1505581",
+      "pubDate": "Mon, 03 Aug 2026 18:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/shama_obayed.jpg",
+      "snippet": "She also said Sheikh Hasina's public political activities from Indian territory could have a negative impact on bilateral relations between the two countries."
+    },
+    {
+      "title": "Former Somoy TV MD shown arrested in Tk2.33cr embezzlement case, denied bail",
+      "link": "https://www.tbsnews.net/bangladesh/court/former-somoy-tv-md-shown-arrested-tk233cr-embezzlement-case-denied-bail-1505566",
+      "pubDate": "Mon, 03 Aug 2026 17:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/somoy_tv_director_ahmed_jobaer.jpg",
+      "snippet": "Dhaka court rejects bail, orders ex-Somoy TV MD to remain in jail."
+    },
+    {
+      "title": "PM invites South Korean President to visit Bangladesh",
+      "link": "https://www.tbsnews.net/foreign-policy/pm-invites-south-korean-president-visit-bangladesh-1505576",
+      "pubDate": "Mon, 03 Aug 2026 17:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/4d7c10f6-867b-4182-b08b-e3e7ea30897d.jpg",
+      "snippet": "The invitation came as Dhaka and Seoul stepped up efforts to conclude a Comprehensive Economic Partnership Agreement (CEPA) aimed at expanding trade, investment and industrial cooperation."
+    },
+    {
+      "title": "A generation unwilling to accept inherited answers",
+      "link": "https://www.tbsnews.net/thoughts/generation-unwilling-accept-inherited-answers-1505586",
+      "pubDate": "Mon, 03 Aug 2026 17:55:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/a_group_of_students.png",
+      "snippet": "For many young women, politics begins with lived experience rather than party manifestos. It begins with being asked why they return home late from campus while their brothers face no such questions."
+    },
+    {
+      "title": "Sadeeq Agro owner Imran shown arrested in July Uprising attempted murder case",
+      "link": "https://www.tbsnews.net/bangladesh/court/sadeeq-agro-owner-imran-shown-arrested-july-uprising-attempted-murder-case-1505546",
+      "pubDate": "Mon, 03 Aug 2026 17:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/03/03/sadeeq_agro_imran.jpg",
+      "snippet": "Imran Hossain, already in jail in a money laundering case, was shown arrested over the attempted murder of a protester during the July Uprising."
+    },
+    {
+      "title": "Prime Minister's Gold Cup tournament will be a major tool of passive education: Swapon",
+      "link": "https://www.tbsnews.net/bangladesh/prime-ministers-gold-cup-tournament-will-be-major-tool-passive-education-swapon-1505561",
+      "pubDate": "Mon, 03 Aug 2026 17:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/prime_ministers_gold_cup_tournament_will_be_a_major_tool_of_passive_education_swapon-converted-from-webp.jpeg",
+      "snippet": "Swapon said students must be given opportunities for physical and mental development besides confining them solely to textbooks."
+    },
+    {
+      "title": "AL lacks capacity for sabotage centering 5 August: Home minister",
+      "link": "https://www.tbsnews.net/bangladesh/awami-league-lacks-capacity-sabotage-centering-5-august-home-minister-1505541",
+      "pubDate": "Mon, 03 Aug 2026 17:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/salaudddin.png",
+      "snippet": "He added that the Prime Minister is expected to attend the event,where the government's plans for observing the day will be outlined."
+    },
+    {
+      "title": "Journalists demand immediate formation of 10th wage board",
+      "link": "https://www.tbsnews.net/bangladesh/journalists-demand-immediate-formation-10th-wage-board-1505531",
+      "pubDate": "Mon, 03 Aug 2026 17:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/untitled-2.jpg",
+      "snippet": "The speakers urged the information minister to fulfill the long-standing legitimate demands."
+    },
+    {
       "title": "2 more yaba factories busted in Keraniganj, 2 held",
       "link": "https://www.tbsnews.net/bangladesh/crime/2-more-yaba-factories-busted-keraniganj-2-held-1505511",
       "pubDate": "Mon, 03 Aug 2026 17:15:00 +0600",
@@ -89,50 +265,6 @@
       "snippet": "According to the case statement, Tariquzzaman Sunny, an architecture student at Buet, went on a trip with 15 others to Mainot Ghat in Dohar upazila of Dhaka on 14 July 2022, where he went missing."
     },
     {
-      "title": "Savar traffic chaos forces woman to give birth on roadside",
-      "link": "https://www.tbsnews.net/bangladesh/savar-traffic-chaos-forces-woman-give-birth-roadside-1505361",
-      "pubDate": "Mon, 03 Aug 2026 15:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/savar_hospital.jpg",
-      "snippet": "The mother, 32-year-old Mst Rajiya Khatun, is in stable condition, while her premature baby has been admitted to the Neonatal Intensive Care Unit."
-    },
-    {
-      "title": "'Justice must follow due process': University Teachers’ Network questions punishment of 7 teachers, list of 231 others",
-      "link": "https://www.tbsnews.net/bangladesh/justice-must-follow-due-process-university-teachers-network-questions-punishment-7",
-      "pubDate": "Mon, 03 Aug 2026 15:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/01/05/university_teachers_network.jpg",
-      "snippet": "The statement said a section of teachers supporting the current government has prepared a list of 231 teachers in the name of opposing fascism and approached the vice-chancellor demanding blanket action against all of them."
-    },
-    {
-      "title": "Waker-Uz-Zaman opens Army International Islamic Institute",
-      "link": "https://www.tbsnews.net/bangladesh/waker-uz-zaman-opens-army-international-islamic-institute-1505336",
-      "pubDate": "Mon, 03 Aug 2026 15:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/army_islamic_institute.jpeg",
-      "snippet": "The Army International Islamic Institutes will be established in Barishal, Savar, Bogura, Sylhet, Chattogram, Cumilla and Jashore."
-    },
-    {
-      "title": "Govt pursuing efforts to repatriate Benazir: Home minister",
-      "link": "https://www.tbsnews.net/bangladesh/govt-pursuing-efforts-repatriate-benazir-home-minister-1505321",
-      "pubDate": "Mon, 03 Aug 2026 14:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/05/26/benazir.ahmed_.png",
-      "snippet": "Home Minister Salahuddin Ahmed said Benazir Ahmed has been granted conditional bail by a UAE court, which bars him from leaving the country."
-    },
-    {
       "title": "Green industrial policy in Bangladesh needs enforcement, Not more language",
       "link": "https://www.tbsnews.net/thoughts/green-industrial-policy-bangladesh-needs-enforcement-not-more-language-1505316",
       "pubDate": "Mon, 03 Aug 2026 14:55:00 +0600",
@@ -144,114 +276,26 @@
       "snippet": "Bangladesh's industrial sector has grown fast over the past two decades. Export-led manufacturing and large-scale economic zones have created jobs and foreign exchange in numbers few countries can match. But that growth model is now showing its limit..."
     },
     {
-      "title": "Australia commits AUD25.25m to support Rohingya refugees, host communities in Bangladesh",
-      "link": "https://www.tbsnews.net/bangladesh/australia-commits-aud2525m-support-rohingya-refugees-host-communities-bangladesh-1505311",
-      "pubDate": "Mon, 03 Aug 2026 14:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/australia_unhcr.jpg",
-      "snippet": "The funding will enable UNHCR and its partners to continue providing essential services in the Rohingya camps."
-    },
-    {
-      "title": "5 arrested in separate Ctg raids; foreign-made pistols, ammunition seized",
-      "link": "https://www.tbsnews.net/bangladesh/5-arrested-separate-ctg-raids-foreign-made-pistols-ammunition-seized-1505296",
-      "pubDate": "Mon, 03 Aug 2026 14:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/ctg_.jpg",
-      "snippet": "Acting on the findings, police arrested Didar Alam, 30, and Afsar Mia, 30, at a checkpoint in Sitakunda yesterday (2 August)."
-    },
-    {
       "title": "Measles treatment costs push 89% of families into debt: Study",
       "link": "https://www.tbsnews.net/bangladesh/health/measles-treatment-costs-push-89-families-debt-bdrcs-ifrc-1505306",
       "pubDate": "Mon, 03 Aug 2026 14:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/11/measles_tbs.jpeg",
       "snippet": "The assessment was conducted among 2,746 measles-affected families."
-    },
-    {
-      "title": "Ctg Port Protection Committee demands halt to terminal leasing plans, announces citizens' convention",
-      "link": "https://www.tbsnews.net/bangladesh/ctg-port-protection-committee-demands-halt-terminal-leasing-plans-announces-citizens",
-      "pubDate": "Mon, 03 Aug 2026 14:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/whatsapp_image_2026-08-03_at_12.39.54.jpeg",
-      "snippet": "The committee also announced a citizens' convention on 15 August to build public support for its campaign against the proposed leasing of NCT and CCT."
-    },
-    {
-      "title": "Security heightened nationwide ahead of 5 August: Salahuddin ",
-      "link": "https://www.tbsnews.net/bangladesh/security-heightened-nationwide-ahead-august-5-home-minister-1505281",
-      "pubDate": "Mon, 03 Aug 2026 14:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/home_minister.jpg",
-      "snippet": "Home Ministry has issued specific directives to police and other security agencies to strengthen vigilance and remain fully prepared to respond to any untoward situation."
-    },
-    {
-      "title": "Political  unity, social stability need to be addressed in Bangladesh's governance journey: China",
-      "link": "https://www.tbsnews.net/foreign-policy/political-unity-social-stability-need-be-addressed-bangladeshs-governance-journey",
-      "pubDate": "Mon, 03 Aug 2026 14:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/chinese_ambassador_to_bangladesh_yao_wen.jpeg",
-      "snippet": "Prime Minister Tarique Rahman’s people-centred, pragmatic, and efficient governing style has brought a fresh look to national governance, says Chinese Ambassador to Bangladesh Yao Wen."
     },
     {
       "title": "Bangladesh ranks 91st in mobile internet speed, 93rd for fixed broadband: Report",
       "link": "https://www.tbsnews.net/bangladesh/bangladesh-ranks-91st-mobile-internet-speed-93rd-fixed-broadband-wb-report-1505271",
       "pubDate": "Mon, 03 Aug 2026 14:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/internet-slow.png",
       "snippet": "Bangladesh averages only 43 Mbps on mobile internet, while Vietnam, a lower-middle-income country and Bangladesh's regional peer, records 188 Mbps."
-    },
-    {
-      "title": "Agnibina Pathagar in Ctg to hold youth-led reels competition highlighting environmental issues",
-      "link": "https://www.tbsnews.net/bangladesh/agnibina-pathagar-ctg-hold-youth-led-reels-competition-highlighting-environmental-issues",
-      "pubDate": "Mon, 03 Aug 2026 14:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/received_4391019417815072.jpeg",
-      "snippet": "The initiative aims to ensure that the submissions go beyond being social media content and instead contribute to raising public awareness and informing policy discussions."
-    },
-    {
-      "title": "Suspected crude bomb explosion leaves 3 critically injured in Barishal",
-      "link": "https://www.tbsnews.net/bangladesh/suspected-crude-bomb-explosion-leaves-3-critically-injured-barishal-1505231",
-      "pubDate": "Mon, 03 Aug 2026 13:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/bomb_explosion_barishal.jpg",
-      "snippet": "Police said the investigation is ongoing to determine the cause of the explosion and identify those responsible."
-    },
-    {
-      "title": "Gazipur DC suspends all Kashimpur land office staff over irregularities",
-      "link": "https://www.tbsnews.net/bangladesh/all-kashimpur-land-office-staffers-suspended-over-irregularities-1505226",
-      "pubDate": "Mon, 03 Aug 2026 13:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/759715363_1302067815129912_2544269404528448236_n_0.jpg",
-      "snippet": "Gazipur Deputy Commissioner Md Nurul Karim Bhuiyan ordered the suspensions this morning after an unannounced inspection of the office."
     },
     {
       "title": "Bangladesh should tap China's tech shift to boost manufacturing: PM adviser",
@@ -802,18 +846,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/31/health_minister.jpg",
       "snippet": "PM’s spouse Zubaida Rahman attended the event as the chief guest."
-    },
-    {
-      "title": "Two more die with measles-like symptoms",
-      "link": "https://www.tbsnews.net/bangladesh/health/two-more-die-measles-symptoms-1503076",
-      "pubDate": "Fri, 31 Jul 2026 17:45:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/11/measles_tbs.jpeg",
-      "snippet": "Suspected measles deaths rise to 741 as total reported cases exceed 128,000."
     }
   ],
-  "updatedAt": "2026-08-03T11:29:01.614Z"
+  "updatedAt": "2026-08-03T13:58:34.723Z"
 }
