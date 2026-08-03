@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Triple burden of malnutrition cuts Bangladesh's economic growth by 8%: Experts",
+      "link": "https://www.tbsnews.net/bangladesh/health/triple-burden-malnutrition-cuts-bangladeshs-economic-growth-8-experts-1505951",
+      "pubDate": "Tue, 04 Aug 2026 00:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/09/copy_of_mhn_9287.jpg",
+      "snippet": "Every Tk1 invested in nutrition could generate more than Tk23 in long-term economic returns."
+    },
+    {
       "title": "Saudi vice minister arrives in Dhaka on two-day official visit",
       "link": "https://www.tbsnews.net/bangladesh/saudi-vice-minister-arrives-dhaka-two-day-official-visit-1505946",
       "pubDate": "Tue, 04 Aug 2026 00:15:00 +0600",
@@ -199,17 +210,6 @@
       "snippet": "The intelligence agency has frozen around 24,000 mobile financial service accounts in the past month over suspected involvement in illegal activities."
     },
     {
-      "title": "Cambridge, BdREN, UGC to work together to showcase Bangladeshi research on global scale",
-      "link": "https://www.tbsnews.net/bangladesh/education/cambridge-bdren-ugc-work-together-showcase-bangladeshi-research-global-scale",
-      "pubDate": "Mon, 03 Aug 2026 21:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/collage1.png",
-      "snippet": "Sarwat Reza, country head of Cambridge Press & Assessment Bangladesh Limited, said wider access to world-class research and educational resources is essential for building a knowledge- and innovation-driven economy, enabling students, researchers, an..."
-    },
-    {
       "title": "Cabinet clears life Imprisonment for enforced disappearances",
       "link": "https://www.tbsnews.net/bangladesh/cabinet-clears-law-criminalise-enforced-disappearances-ensure-justice-victims-1505806",
       "pubDate": "Mon, 03 Aug 2026 21:05:00 +0600",
@@ -221,6 +221,17 @@
       "snippet": "Life term can be extended to capital punishment in case of death."
     },
     {
+      "title": "Cambridge, BdREN, UGC to work together to showcase Bangladeshi research on global scale",
+      "link": "https://www.tbsnews.net/bangladesh/education/cambridge-bdren-ugc-work-together-showcase-bangladeshi-research-global-scale",
+      "pubDate": "Mon, 03 Aug 2026 21:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/collage1.png",
+      "snippet": "Sarwat Reza, country head of Cambridge Press & Assessment Bangladesh Limited, said wider access to world-class research and educational resources is essential for building a knowledge- and innovation-driven economy, enabling students, researchers, an..."
+    },
+    {
       "title": "Exports hit 12-month high in July, but slip nearly 1% Y-o-Y",
       "link": "https://www.tbsnews.net/economy/exports-dip-09-yoy-july-1505786",
       "pubDate": "Mon, 03 Aug 2026 20:50:00 +0600",
@@ -230,17 +241,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/05/16/ctg_port_2_1.png",
       "snippet": "However, Bangladesh earned $4.72 billion from exports in July, up more than 11% from June's $4.20 billion."
-    },
-    {
-      "title": "No clear directives yet on local government polls: EC secretary",
-      "link": "https://www.tbsnews.net/bangladesh/no-clear-directives-yet-local-government-polls-ec-secretary-1505796",
-      "pubDate": "Mon, 03 Aug 2026 20:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/8f56b638-3f4a-4007-8f4d-95817326c40c.jpg",
-      "snippet": "The Election Commission says preparations are continuing, but uncertainty over the government's plans has left the timeline for local government polls unresolved."
     },
     {
       "title": "77% CMSME entrepreneurs lack access to bank loans: SME Foundation",
@@ -837,5 +837,5 @@
       "snippet": "The feature, powered by Google's Nano Banana 2 AI model, had allowed users to generate photorealistic images grounded in Google Earth's satellite, aerial and 3D imagery by typing a text prompt for any location on the globe."
     }
   ],
-  "updatedAt": "2026-08-03T18:50:50.002Z"
+  "updatedAt": "2026-08-03T20:26:38.334Z"
 }
