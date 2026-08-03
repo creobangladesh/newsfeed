@@ -1,6 +1,50 @@
 {
   "news": [
     {
+      "title": "Cargo logjam for years eating up 40% of Chattogram Port’s capacity",
+      "link": "https://www.tbsnews.net/economy/cargo-logjam-years-eating-40-chattogram-ports-capacity-1504991",
+      "pubDate": "Mon, 03 Aug 2026 10:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/p1_ctg_port_news_photo_1.jpg",
+      "snippet": "9,330 stranded containers block up to 22% of port yard; port users estimate combined economic losses exceed $5b"
+    },
+    {
+      "title": "General insurers post stronger Q2 earnings on lower costs, improved underwriting",
+      "link": "https://www.tbsnews.net/economy/stocks/general-insurers-post-stronger-q2-earnings-lower-costs-improved-underwriting-1505001",
+      "pubDate": "Mon, 03 Aug 2026 09:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/07/dse.jpg",
+      "snippet": "An analysis of Dhaka Stock Exchange (DSE) data shows that 41 of the country’s 43 listed non-life insurers have so far published their unaudited April-June financial statements."
+    },
+    {
+      "title": "34 July 2024: One point, one demand — Sheikh Hasina must resign ",
+      "link": "https://www.tbsnews.net/features/panorama/34-july-2024-one-point-one-demand-sheikh-hasina-must-resign-1504756",
+      "pubDate": "Mon, 03 Aug 2026 08:55:00 +0600",
+      "category": "Analysis",
+      "color": "#5d4037",
+      "bg": "#efebe9",
+      "icon": "🔍",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/20240803_rajibdhar_0160.jpg",
+      "snippet": "As the movement consolidated around the one-point demand for Sheikh Hasina’s resignation, protests expanded and pressure mounted across the country"
+    },
+    {
+      "title": "Policymakers must engage business leaders regularly to drive reforms: CCCI president",
+      "link": "https://www.tbsnews.net/interviews/policymakers-must-engage-business-leaders-regularly-drive-reforms-ccci-president-1504961",
+      "pubDate": "Mon, 03 Aug 2026 07:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/ccci_mohammed_amirul_haque.png",
+      "snippet": ""
+    },
+    {
       "title": "US holds PM Tarique in high regard: Adviser Humaiun",
       "link": "https://www.tbsnews.net/bangladesh/us-holds-pm-tarique-high-regard-adviser-humaiun-1504956",
       "pubDate": "Mon, 03 Aug 2026 01:25:00 +0600",
@@ -166,17 +210,6 @@
       "snippet": "Ledu faces 32 cases involving murder, arms, drugs and other offences at different police stations in the capital."
     },
     {
-      "title": "Lightning strike kills 2 in Thakurgaon; two injured",
-      "link": "https://www.tbsnews.net/bangladesh/lightning-strike-kills-2-thakurgaon-two-injured-1504791",
-      "pubDate": "Sun, 02 Aug 2026 20:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/lightning-strike-kills-2-in-thakurgaon-two-injured.jpg",
-      "snippet": "Worsened two were referred to Dinajpur Medical College Hospital for advanced treatment."
-    },
-    {
       "title": "New ACC commission likely to be constituted this month: Secretary",
       "link": "https://www.tbsnews.net/bangladesh/new-acc-commission-likely-be-constituted-month-secretary-1504786",
       "pubDate": "Sun, 02 Aug 2026 20:35:00 +0600",
@@ -188,6 +221,17 @@
       "snippet": "He says the search committee has finalised its recommendations and the government will now move to constitute the new commission."
     },
     {
+      "title": "Lightning strike kills 2 in Thakurgaon; two injured",
+      "link": "https://www.tbsnews.net/bangladesh/lightning-strike-kills-2-thakurgaon-two-injured-1504791",
+      "pubDate": "Sun, 02 Aug 2026 20:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/lightning-strike-kills-2-in-thakurgaon-two-injured.jpg",
+      "snippet": "Worsened two were referred to Dinajpur Medical College Hospital for advanced treatment."
+    },
+    {
       "title": "Bangladesh eyes gas imports from Myanmar through pipeline",
       "link": "https://www.tbsnews.net/bangladesh/energy/bangladesh-eyes-gas-imports-myanmar-through-pipeline-1504776",
       "pubDate": "Sun, 02 Aug 2026 20:30:00 +0600",
@@ -197,39 +241,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/bd-myanmar_meeting.jpg",
       "snippet": "The two sides discuss importing gas from Myanmar through a pipeline and exploring LNG supply options."
-    },
-    {
-      "title": "Chinmoy Krishna Das granted bail in 2 cases, remains behind bars",
-      "link": "https://www.tbsnews.net/bangladesh/court/chinmoy-krishna-das-granted-bail-2-cases-remains-behind-bars-1504766",
-      "pubDate": "Sun, 02 Aug 2026 20:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/11/28/chinmoy_iskcon.gif",
-      "snippet": "The Sanatani Jagaran Jote spokesperson is facing six criminal cases, including a murder case over lawyer Saiful Islam's death and a sedition case in which his bail remains stayed."
-    },
-    {
-      "title": "July Uprising belonged to all, not just two parties: Anee",
-      "link": "https://www.tbsnews.net/bangladesh/july-uprising-belonged-all-not-just-two-parties-anee-1504771",
-      "pubDate": "Sun, 02 Aug 2026 20:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/17/shahiduddin_chowdhury_anee.jpg",
-      "snippet": "He also criticised the previous interim government's decision to describe certain individuals as the \"masterminds\" of the July uprising."
-    },
-    {
-      "title": "34 July 2024: One point, one demand — Sheikh Hasina must resign ",
-      "link": "https://www.tbsnews.net/features/panorama/34-july-2024-one-point-one-demand-sheikh-hasina-must-resign-1504756",
-      "pubDate": "Sun, 02 Aug 2026 19:55:00 +0600",
-      "category": "Analysis",
-      "color": "#5d4037",
-      "bg": "#efebe9",
-      "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/20240803_rajibdhar_0160.jpg",
-      "snippet": "As the movement consolidated around the one-point demand for Sheikh Hasina’s resignation, protests expanded and pressure mounted across the country"
     },
     {
       "title": "Bangladesh must strengthen policy independence to sustain growth: Experts",
@@ -246,10 +257,10 @@
       "title": "Govt will no longer directly appoint MDs at six state-run banks",
       "link": "https://www.tbsnews.net/bangladesh/govt-will-no-longer-directly-appoint-mds-six-state-run-banks-1504761",
       "pubDate": "Sun, 02 Aug 2026 19:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/six_bank1.png",
       "snippet": "Govt will only nominate candidates for top executive positions."
     },
@@ -265,7 +276,7 @@
       "snippet": "Loan commitments fell to $5.243 billion in FY26, while the country made its highest-ever annual external debt repayment of $4.494 billion."
     },
     {
-      "title": "HSC examiner 'turns tea stall into marking centre'; 550 answer scripts seized, show-cause notice issued",
+      "title": "Examiner found checking HSC answer scripts at Sylhet tea stall!",
       "link": "https://www.tbsnews.net/bangladesh/education/hsc-examiner-turns-tea-stall-marking-centre-550-answer-scripts-seized-show",
       "pubDate": "Sun, 02 Aug 2026 18:50:00 +0600",
       "category": "Education",
@@ -824,18 +835,7 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/29/khulna_university.jpg",
       "snippet": "The decisions were taken at the university's 237th Syndicate meeting yesterday (30 July), Acting Registrar Professor Dr S M Mahbubur Rahman confirmed."
-    },
-    {
-      "title": "Post-Covid job competition surges by 66%: Study",
-      "link": "https://www.tbsnews.net/economy/post-covid-job-competition-surges-66-study-1502731",
-      "pubDate": "Fri, 31 Jul 2026 09:00:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/07/26/learning_covid.png",
-      "snippet": "The findings were presented at a seminar in Dhaka yesterday by BIDS Research Director Prof Atonu Rabbani."
     }
   ],
-  "updatedAt": "2026-08-03T00:05:34.933Z"
+  "updatedAt": "2026-08-03T04:06:22.377Z"
 }
