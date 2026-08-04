@@ -1,6 +1,105 @@
 {
   "news": [
     {
+      "title": "239 factories drive Bangladesh's rooftop solar capacity to 667MW: IEEFA",
+      "link": "https://www.tbsnews.net/bangladesh/energy/239-factories-drive-bangladeshs-rooftop-solar-capacity-667mw-ieefa-1506081",
+      "pubDate": "Tue, 04 Aug 2026 12:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/02/03/rooftop_janata_jute_mills_16.9.jpg",
+      "snippet": "While government data puts installed rooftop solar capacity at 418MW, the IEEFA estimates the actual figure has reached 667MW across 239 major industrial facilities. Including smaller installations, total capacity could be as high as 1,000MW."
+    },
+    {
+      "title": "Grounded container vessel refloated near Karnaphuli channel, Ctg Port operations remain normal",
+      "link": "https://www.tbsnews.net/bangladesh/grounded-container-vessel-refloated-near-karnaphuli-channel-ctg-port-operations-remain",
+      "pubDate": "Tue, 04 Aug 2026 12:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/ctg_vessel.jpg",
+      "snippet": "The 170-metre vessel developed a steering failure while entering the river channel yesterday."
+    },
+    {
+      "title": "BGMEA denies reports of DBL, other factory closures over energy crisis",
+      "link": "https://www.tbsnews.net/economy/bgmea-refutes-report-factory-closure-over-gas-power-crisis-1506066",
+      "pubDate": "Tue, 04 Aug 2026 11:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/01/bgmea_bss_img.jpg",
+      "snippet": "BGMEA said production remains operational despite energy shortages, warning that unverified reports could erode buyers' confidence and hurt the industry's global reputation."
+    },
+    {
+      "title": "Meghna Petroleum appoints M Tamim as chairman",
+      "link": "https://www.tbsnews.net/bangladesh/energy/meghna-petroleum-appoints-m-tamim-chairman-1506026",
+      "pubDate": "Tue, 04 Aug 2026 11:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/12/23/prof._m._tamim_media_1.jpg",
+      "snippet": "Tamim is one of Bangladesh's leading energy experts, with decades of experience in petroleum engineering, energy policy and public administration."
+    },
+    {
+      "title": "Why are banks cutting deposit interest rates despite high inflation?",
+      "link": "https://www.tbsnews.net/economy/banking/why-are-banks-cutting-deposit-interest-rates-despite-high-inflation-1506036",
+      "pubDate": "Tue, 04 Aug 2026 11:00:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/gemini_generated_image_1gj1kx1gj1kx1gj1.png",
+      "snippet": "Bankers say strong deposit growth, excess liquidity and weak demand for loans have reduced the need to attract new deposits with higher interest rates."
+    },
+    {
+      "title": "BMD forecasts rain across country",
+      "link": "https://www.tbsnews.net/bangladesh/bmd-forecasts-rain-across-country-1506016",
+      "pubDate": "Tue, 04 Aug 2026 10:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/4436048.jpg",
+      "snippet": "The Met Office also predicted a few places in Rajshahi and Dhaka divisions may also experience rain or thundershowers, with moderately heavy to heavy rainfall likely at some places across the country."
+    },
+    {
+      "title": "Land lease for 55 MW solar power plants at Jamuna Bridge site approved",
+      "link": "https://www.tbsnews.net/bangladesh/land-lease-55-mw-solar-power-plants-jamuna-bridge-site-approved-1506021",
+      "pubDate": "Tue, 04 Aug 2026 10:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/bdb59d8e-cb3d-4ae1-83d0-b1b1530366a2.jpg",
+      "snippet": "The proposed project is part of a broader push to expand renewable energy generation, with the Bridge Authority also approving a master plan for installing solar panels across its facilities."
+    },
+    {
+      "title": "Status of US-Iran talks uncertain as ship struck in Hormuz",
+      "link": "https://www.tbsnews.net/analysis/status-us-iran-talks-uncertain-ship-struck-hormuz-1506006",
+      "pubDate": "Tue, 04 Aug 2026 10:30:00 +0600",
+      "category": "Analysis",
+      "color": "#5d4037",
+      "bg": "#efebe9",
+      "icon": "🔍",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/screenshot_2026-08-04_at_10-42-22_status_of_us-iran_talks_uncertain_as_ship_struck_in_hormuz_reuters.png",
+      "snippet": "Donald Trump ⁠has threatened military action several times, only to later cite diplomatic contacts as a reason to step back. Iran, however, has publicly rejected negotiations with Washington since the collapse in early July of an MoU both signed the ..."
+    },
+    {
+      "title": "Dhaka finalises reform roadmap, to lobby UN members for LDC graduation delay",
+      "link": "https://www.tbsnews.net/economy/dhaka-finalises-reform-roadmap-lobby-un-members-ldc-graduation-delay-1505986",
+      "pubDate": "Tue, 04 Aug 2026 10:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/ldc_feature.jpg",
+      "snippet": "The roadmap was approved at the inaugural meeting of the National Graduation Monitoring and Coordination Committee, chaired by the finance minister on 29 July."
+    },
+    {
       "title": "Banks push deposit returns further below inflation",
       "link": "https://www.tbsnews.net/economy/banking/banks-push-deposit-returns-further-below-inflation-1505961",
       "pubDate": "Tue, 04 Aug 2026 07:25:00 +0600",
@@ -89,17 +188,6 @@
       "snippet": "Chinese envoy says cooperation between the two countries is expanding."
     },
     {
-      "title": "PM Tarique calls for green, investment-friendly economic zones",
-      "link": "https://www.tbsnews.net/bangladesh/pm-tarique-calls-green-investment-friendly-economic-zones-1505886",
-      "pubDate": "Mon, 03 Aug 2026 22:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/21/pm_tarique_rahman.jpg",
-      "snippet": "The governing board of Beza made several important decisions aimed at expanding the country’s economic zones, increasing investment, creating employment opportunities, and protecting the environment."
-    },
-    {
       "title": "PM to inaugurate July Mass Uprising Memorial Museum on 5 August ",
       "link": "https://www.tbsnews.net/bangladesh/pm-inaugurate-july-mass-uprising-memorial-museum-5-august-1505881",
       "pubDate": "Mon, 03 Aug 2026 22:00:00 +0600",
@@ -109,6 +197,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/july_memorial_museum.jpg",
       "snippet": "PM to honour July Uprising with museum inauguration."
+    },
+    {
+      "title": "PM Tarique calls for green, investment-friendly economic zones",
+      "link": "https://www.tbsnews.net/bangladesh/pm-tarique-calls-green-investment-friendly-economic-zones-1505886",
+      "pubDate": "Mon, 03 Aug 2026 22:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/21/pm_tarique_rahman.jpg",
+      "snippet": "The governing board of Beza made several important decisions aimed at expanding the country’s economic zones, increasing investment, creating employment opportunities, and protecting the environment."
     },
     {
       "title": "DSEX slips below 5,900 as gas shortages, Middle East tensions weigh on sentiment",
@@ -166,79 +265,13 @@
       "snippet": "The stock closed at Tk21.40 on the DSE today (3 August)."
     },
     {
-      "title": "FM seeks greater regular migration opportunities in Australia",
-      "link": "https://www.tbsnews.net/foreign-policy/fm-seeks-greater-regular-migration-opportunities-australia-1505876",
-      "pubDate": "Mon, 03 Aug 2026 21:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/bangladesh_australia_relations.jpg",
-      "snippet": "Foreign Minister Dr Khalilur Rahman and Australia's Assistant Minister Julian Hill witnessed the signing ceremony."
-    },
-    {
-      "title": "BSCL joins global climate observatory, named Bangladesh's national focal point ",
-      "link": "https://www.tbsnews.net/bangladesh/bscl-joins-global-climate-observatory-named-bangladeshs-national-focal-point-1505831",
-      "pubDate": "Mon, 03 Aug 2026 21:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/732871493_1567916331563716_5795220475464101929_n.jpg",
-      "snippet": "The SCO also funds and supports international research projects that apply satellite-based technologies to address climate-related challenges at the local level."
-    },
-    {
-      "title": "Gas crisis deepens in Ctg as supply drops 45%, over 6 lakh consumers hit",
-      "link": "https://www.tbsnews.net/economy/stocks/gas-crisis-deepens-ctg-supply-drops-45-over-6-lakh-consumers-hit-1505826",
-      "pubDate": "Mon, 03 Aug 2026 21:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/ctg_gas_crisis_photo_2.jpg",
-      "snippet": "The disruption, triggered by an outage at one of the country's two LNG import terminals, has hit households, factories, CNG stations and businesses, with industry leaders warning of mounting economic losses."
-    },
-    {
-      "title": "'Bangladesh now has the weakest opposition in its history': BIGD's Mirza M Hassan",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-now-has-weakest-opposition-its-history-bigds-mirza-m-hassan-1505836",
-      "pubDate": "Mon, 03 Aug 2026 21:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/mirza_m_hassan.jpg",
-      "snippet": "Bangladesh is now experiencing a \"lighter version\" of repression that could harden into a more severe form within a year, he says."
-    },
-    {
-      "title": "BFIU to freeze 14,000 more MFS accounts over online gambling, hundi links",
-      "link": "https://www.tbsnews.net/bangladesh/bfiu-freeze-14000-more-mfs-accounts-over-online-gambling-hundi-links-1505811",
-      "pubDate": "Mon, 03 Aug 2026 21:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/31/gambling_illustration.jpg",
-      "snippet": "The intelligence agency has frozen around 24,000 mobile financial service accounts in the past month over suspected involvement in illegal activities."
-    },
-    {
-      "title": "Cabinet clears life-term jail for enforced disappearances",
-      "link": "https://www.tbsnews.net/bangladesh/cabinet-clears-law-criminalise-enforced-disappearances-ensure-justice-victims-1505806",
-      "pubDate": "Mon, 03 Aug 2026 21:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/23/enforced_disappearances.jpg",
-      "snippet": "Life term can be extended to capital punishment in case of death."
-    },
-    {
       "title": "Cambridge, BdREN, UGC to work together to showcase Bangladeshi research on global scale",
       "link": "https://www.tbsnews.net/bangladesh/education/cambridge-bdren-ugc-work-together-showcase-bangladeshi-research-global-scale",
       "pubDate": "Mon, 03 Aug 2026 21:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/collage1.png",
       "snippet": "Sarwat Reza, country head of Cambridge Press & Assessment Bangladesh Limited, said wider access to world-class research and educational resources is essential for building a knowledge- and innovation-driven economy, enabling students, researchers, an..."
     },
@@ -802,40 +835,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/01/coronavirus_vaccine_1.jpg",
       "snippet": "How accredited laboratories protect our health, food safety and global trade"
-    },
-    {
-      "title": "Families sue Meta, TikTok, Snapchat and YouTube over deaths of four teens",
-      "link": "https://www.tbsnews.net/tech/families-sue-meta-tiktok-snapchat-and-youtube-over-deaths-four-teens-1503506",
-      "pubDate": "Sat, 01 Aug 2026 11:20:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/31/meta.png",
-      "snippet": "The four companies are already facing several lawsuits from states and individuals over claims that their platforms harm children's mental health."
-    },
-    {
-      "title": "When global sea routes become battlefields",
-      "link": "https://www.tbsnews.net/world/global-economy/when-global-sea-routes-become-battlefields-1503436",
-      "pubDate": "Sat, 01 Aug 2026 11:00:00 +0600",
-      "category": "Analysis",
-      "color": "#5d4037",
-      "bg": "#efebe9",
-      "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/18/strait_of_hormuz.jpg",
-      "snippet": "Repeated disruptions at the world’s maritime chokepoints are exposing the limits of international law and raising the cost of global trade"
-    },
-    {
-      "title": "Export freight costs double, lead time rises as shipping lines trim Bangladesh bookings",
-      "link": "https://www.tbsnews.net/economy/export-shipping-costs-lead-times-double-shipping-lines-trim-bangladesh-bookings-1503421",
-      "pubDate": "Sat, 01 Aug 2026 10:00:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/01/p_1_lead1.png",
-      "snippet": "Representatives of importers, buying houses, shipping agents, and exporters said even when bookings are accepted, lead times have increased by up to three weeks in some cases, while freight rates have more than doubled."
     }
   ],
-  "updatedAt": "2026-08-04T03:48:47.809Z"
+  "updatedAt": "2026-08-04T06:27:39.607Z"
 }
