@@ -1,6 +1,94 @@
 {
   "news": [
     {
+      "title": "The other CEO: How the 'Chief Excuse Officer' is quietly running your company",
+      "link": "https://www.tbsnews.net/thoughts/other-ceo-how-chief-excuse-officer-quietly-running-your-company-1506931",
+      "pubDate": "Wed, 05 Aug 2026 02:00:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/05/ceo_thoughts_copy.png",
+      "snippet": "Every company has someone who pushes ideas forward — and someone who explains why they will not work. One builds the future. The other protects the past. The question is: Which one is running your culture?"
+    },
+    {
+      "title": "467 tonnes of Indian green chillies imported through Bhomra",
+      "link": "https://www.tbsnews.net/bangladesh/467-tonnes-indian-green-chillies-imported-through-bhomra-1506911",
+      "pubDate": "Wed, 05 Aug 2026 00:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/05/green_chili.jpg",
+      "snippet": "The latest shipment follows the government's decision to allow imports from India to help stabilise the domestic market"
+    },
+    {
+      "title": "DMP issues traffic advisory for 5 August",
+      "link": "https://www.tbsnews.net/bangladesh/dmp-issues-traffic-advisory-5-august-1506916",
+      "pubDate": "Wed, 05 Aug 2026 00:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/08/13/dmp-logo-tbs.jpg",
+      "snippet": "The Ministry of Cultural Affairs will organise a programme at the Central Shaheed Minar to lay wreaths and pay tribute to the martyrs of the July Uprising."
+    },
+    {
+      "title": "A fate of Hasina’s own making",
+      "link": "https://www.tbsnews.net/bangladesh/fate-hasinas-own-making-1506901",
+      "pubDate": "Wed, 05 Aug 2026 00:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/16/hasina_ict.jpeg",
+      "snippet": "Hasina remains in Delhi as India has yet to respond to Bangladesh’s repeated extradition requests."
+    },
+    {
+      "title": "Bangladesh to observe 5 August with nationwide events",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-observe-5-august-nationwide-events-1506906",
+      "pubDate": "Wed, 05 Aug 2026 00:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/01/14/time.jpg",
+      "snippet": "At 9am, Prime Minister and BNP Chairperson Tarique Rahman will inaugurate the July Museum dedicated to the martyrs of the July Uprising."
+    },
+    {
+      "title": "BSTI finds high mercury levels in eight skin-whitening creams",
+      "link": "https://www.tbsnews.net/bangladesh/bsti-finds-high-mercury-levels-eight-skin-whitening-creams-1506891",
+      "pubDate": "Wed, 05 Aug 2026 00:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/12/23/bsti.jpg",
+      "snippet": "BSTI said the mercury content in the products exceeded the maximum permissible limit of 1.00 parts per million (ppm)."
+    },
+    {
+      "title": "Private sector credit growth plunges to record low at 4.47% in June",
+      "link": "https://www.tbsnews.net/economy/banking/private-sector-credit-growth-plunges-record-low-447-june-1506886",
+      "pubDate": "Wed, 05 Aug 2026 00:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/05/private_credit_growth.jpg",
+      "snippet": "Growth rate stays below 5% for four consecutive months"
+    },
+    {
+      "title": "BB lifts lending caps on five key Sonali Bank branches",
+      "link": "https://www.tbsnews.net/economy/banking/bb-lifts-lending-caps-five-key-sonali-bank-branches-1506881",
+      "pubDate": "Wed, 05 Aug 2026 00:10:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/03/11/bangladesh_bank.jpg",
+      "snippet": "Before the latest directive, the branches were subject to lending limits ranging from Tk5 crore to Tk20 crore."
+    },
+    {
       "title": "Jamaat condemns 'attacks' on Chhatra Shibir activists at educational institutions",
       "link": "https://www.tbsnews.net/bangladesh/politics/jamaat-condemns-attacks-chhatra-shibir-activists-educational-institutions",
       "pubDate": "Wed, 05 Aug 2026 00:05:00 +0600",
@@ -164,72 +252,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/db.png",
       "snippet": "DB says the syndicate had sent a letter to the expatriates' welfare minister recommending the reinstatement of a dismissed employee using forged signatures of PM, 4 ministers, and 2 joint secretaries."
-    },
-    {
-      "title": "Bangladesh to mark July Mass Uprising Day Wednesday ",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-mark-july-mass-uprising-day-wednesday-5-august-1506696",
-      "pubDate": "Tue, 04 Aug 2026 19:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/07/01/student_protest_5_august.jpg",
-      "snippet": "The Prime Minister urged all to make a pledge to honour that debt through sincere efforts to build a just, self-reliant, democratic and humane Bangladesh by ensuring the political and economic empowerment of people and by establishing equality, human..."
-    },
-    {
-      "title": "'It is our duty to preserve this unity at all costs,' says PM on July Uprising anniversary",
-      "link": "https://www.tbsnews.net/bangladesh/it-our-duty-preserve-unity-all-costs-says-pm-july-uprising-anniversary-1506706",
-      "pubDate": "Tue, 04 Aug 2026 19:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/pm_tarique_rahman.png",
-      "snippet": "'Never again' to autocracy, fascism, extremism, he says"
-    },
-    {
-      "title": "Five pvt hospitals, diagnostic centres shut in Faridpur over irregularities",
-      "link": "https://www.tbsnews.net/bangladesh/five-pvt-hospitals-diagnostic-centres-shut-faridpur-over-irregularities-1506711",
-      "pubDate": "Tue, 04 Aug 2026 19:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/five-pvt-hospitals-diagnostic-centres-shut-in-faridpur-over-irregularities.jpg",
-      "snippet": "Ensuring everyone's health quality, healthcare facilities operating in violation of government rules will be shut down, Mahmudul urged."
-    },
-    {
-      "title": "Why only men should face jail under amended 'false promise of marriage' provision, HC asks",
-      "link": "https://www.tbsnews.net/bangladesh/court/why-only-men-should-face-jail-under-amended-false-promise-marriage-provision-hc",
-      "pubDate": "Tue, 04 Aug 2026 19:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/07/22/image-294687-1753183245.jpg",
-      "snippet": "The court also sought an explanation as to why consensual sexual relationships between adults should be treated as a criminal offence on the grounds of a false promise of marriage."
-    },
-    {
-      "title": "Ganges water-sharing talks to take place under existing bilateral mechanism: India",
-      "link": "https://www.tbsnews.net/foreign-policy/ganges-water-sharing-talks-take-place-under-existing-bilateral-mechanism-india",
-      "pubDate": "Tue, 04 Aug 2026 19:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/04/28/farakka-barrage-1724754012.jpg",
-      "snippet": "India says Joint River Commission will handle treaty discussions"
-    },
-    {
-      "title": "At least 80 injured as Chatradal and Shibir clash at three places in Dhaka",
-      "link": "https://www.tbsnews.net/bangladesh/dozens-injured-chatradal-and-shibir-clash-three-places-dhaka-1506676",
-      "pubDate": "Tue, 04 Aug 2026 19:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/whatsapp_image_2026-08-04_at_5.01.06_pm.jpeg",
-      "snippet": "The clashes followed two more similar incidents at Begum Rokeya University, Rangpur and Dhaka University over the past two days."
     },
     {
       "title": "BB lifts credit ceilings on 5 key Sonali Bank branches",
@@ -813,29 +835,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/27/dengue_5.jpg",
       "snippet": "Doctors are also reporting a rise in cases of expanded dengue syndrome, alongside dengue shock syndrome and prolonged fever, highlighting the need for early diagnosis, close monitoring and stronger mosquito control"
-    },
-    {
-      "title": "Empty containers pile up at ICDs as import-export gap widens ",
-      "link": "https://www.tbsnews.net/economy/empty-containers-pile-icds-import-export-gap-widens-1504151",
-      "pubDate": "Sun, 02 Aug 2026 07:10:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/08/09/ctg_container_depot_photo1.jpg",
-      "snippet": "The CPA has asked the National Board of Revenue to allow shipping agents and main line operators (MLOs) to store empty containers at suitable non-bonded locations without requiring bonded warehouse licences, arguing that the current rules are worseni..."
-    },
-    {
-      "title": "Rabiul Hossain restored sight to millions: State minister",
-      "link": "https://www.tbsnews.net/bangladesh/health/rabiul-hossain-restored-sight-millions-state-minister-1504136",
-      "pubDate": "Sun, 02 Aug 2026 00:30:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/20/ma_muhit.jpeg",
-      "snippet": "Speakers at a memorial meeting in Chattogram paid tribute to the renowned ophthalmologist, saying his lifelong work transformed eye care and restored sight to millions across Bangladesh."
     }
   ],
-  "updatedAt": "2026-08-04T18:12:33.315Z"
+  "updatedAt": "2026-08-04T20:09:26.256Z"
 }
