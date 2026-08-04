@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Banks push deposit returns further below inflation",
+      "link": "https://www.tbsnews.net/economy/banking/banks-push-deposit-returns-further-below-inflation-1505961",
+      "pubDate": "Tue, 04 Aug 2026 07:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/deposite.png",
+      "snippet": "The rate adjustments follow broader policy shifts, including Bangladesh Bank’s recent decision to cut the policy rate from 10% to 9.50% after nearly two years and enforce interest rate spread caps"
+    },
+    {
       "title": "Triple burden of malnutrition cuts Bangladesh's economic growth by 8%: Experts",
       "link": "https://www.tbsnews.net/bangladesh/health/triple-burden-malnutrition-cuts-bangladeshs-economic-growth-8-experts-1505951",
       "pubDate": "Tue, 04 Aug 2026 00:40:00 +0600",
@@ -78,17 +89,6 @@
       "snippet": "Chinese envoy says cooperation between the two countries is expanding."
     },
     {
-      "title": "PM to inaugurate July Mass Uprising Memorial Museum on 5 August ",
-      "link": "https://www.tbsnews.net/bangladesh/pm-inaugurate-july-mass-uprising-memorial-museum-5-august-1505881",
-      "pubDate": "Mon, 03 Aug 2026 22:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/july_memorial_museum.jpg",
-      "snippet": "PM to honour July Uprising with museum inauguration."
-    },
-    {
       "title": "PM Tarique calls for green, investment-friendly economic zones",
       "link": "https://www.tbsnews.net/bangladesh/pm-tarique-calls-green-investment-friendly-economic-zones-1505886",
       "pubDate": "Mon, 03 Aug 2026 22:00:00 +0600",
@@ -98,6 +98,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/21/pm_tarique_rahman.jpg",
       "snippet": "The governing board of Beza made several important decisions aimed at expanding the country’s economic zones, increasing investment, creating employment opportunities, and protecting the environment."
+    },
+    {
+      "title": "PM to inaugurate July Mass Uprising Memorial Museum on 5 August ",
+      "link": "https://www.tbsnews.net/bangladesh/pm-inaugurate-july-mass-uprising-memorial-museum-5-august-1505881",
+      "pubDate": "Mon, 03 Aug 2026 22:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/july_memorial_museum.jpg",
+      "snippet": "PM to honour July Uprising with museum inauguration."
     },
     {
       "title": "DSEX slips below 5,900 as gas shortages, Middle East tensions weigh on sentiment",
@@ -133,6 +144,17 @@
       "snippet": "The remarks came days after Washington proposed a civil nuclear cooperation agreement, as another senior US military official prepares to visit Bangladesh."
     },
     {
+      "title": "Hasina will be taken straight from airport to gallows upon return: Nahid",
+      "link": "https://www.tbsnews.net/bangladesh/politics/hasina-will-be-taken-straight-airport-gallows-upon-return-nahid-1505851",
+      "pubDate": "Mon, 03 Aug 2026 21:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/nahid.png",
+      "snippet": "Nahid alleged widespread extortion and corruption, claiming the only change over the past two years is that Tarique Rahman returned from London to become prime minister."
+    },
+    {
       "title": "Aamra Technologies shares jump 65% in two months; company cites no undisclosed PSI",
       "link": "https://www.tbsnews.net/node/1505861",
       "pubDate": "Mon, 03 Aug 2026 21:40:00 +0600",
@@ -153,17 +175,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/bangladesh_australia_relations.jpg",
       "snippet": "Foreign Minister Dr Khalilur Rahman and Australia's Assistant Minister Julian Hill witnessed the signing ceremony."
-    },
-    {
-      "title": "Hasina will be taken straight from airport to gallows upon return: Nahid",
-      "link": "https://www.tbsnews.net/bangladesh/politics/hasina-will-be-taken-straight-airport-gallows-upon-return-nahid-1505851",
-      "pubDate": "Mon, 03 Aug 2026 21:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/nahid.png",
-      "snippet": "Nahid alleged widespread extortion and corruption, claiming the only change over the past two years is that Tarique Rahman returned from London to become prime minister."
     },
     {
       "title": "BSCL joins global climate observatory, named Bangladesh's national focal point ",
@@ -210,7 +221,7 @@
       "snippet": "The intelligence agency has frozen around 24,000 mobile financial service accounts in the past month over suspected involvement in illegal activities."
     },
     {
-      "title": "Cabinet clears life Imprisonment for enforced disappearances",
+      "title": "Cabinet clears life-term jail for enforced disappearances",
       "link": "https://www.tbsnews.net/bangladesh/cabinet-clears-law-criminalise-enforced-disappearances-ensure-justice-victims-1505806",
       "pubDate": "Mon, 03 Aug 2026 21:05:00 +0600",
       "category": "Bangladesh",
@@ -235,10 +246,10 @@
       "title": "Exports hit 12-month high in July, but slip nearly 1% Y-o-Y",
       "link": "https://www.tbsnews.net/economy/exports-dip-09-yoy-july-1505786",
       "pubDate": "Mon, 03 Aug 2026 20:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/05/16/ctg_port_2_1.png",
       "snippet": "However, Bangladesh earned $4.72 billion from exports in July, up more than 11% from June's $4.20 billion."
     },
@@ -824,18 +835,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/01/p_1_lead1.png",
       "snippet": "Representatives of importers, buying houses, shipping agents, and exporters said even when bookings are accepted, lead times have increased by up to three weeks in some cases, while freight rates have more than doubled."
-    },
-    {
-      "title": "Alphabet rolls back AI image generation in Google Earth over policy violations",
-      "link": "https://www.tbsnews.net/tech/alphabet-rolls-back-ai-image-generation-google-earth-over-policy-violations-1503411",
-      "pubDate": "Sat, 01 Aug 2026 09:35:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/01/google_1.jpg",
-      "snippet": "The feature, powered by Google's Nano Banana 2 AI model, had allowed users to generate photorealistic images grounded in Google Earth's satellite, aerial and 3D imagery by typing a text prompt for any location on the globe."
     }
   ],
-  "updatedAt": "2026-08-04T00:14:28.265Z"
+  "updatedAt": "2026-08-04T03:48:47.809Z"
 }
