@@ -1,15 +1,114 @@
 {
   "news": [
     {
-      "title": "Zia Orphanage Trust case: Ex-joint secy Jaglul Pasha held for false testimony",
-      "link": "https://www.tbsnews.net/bangladesh/crime/zia-orphanage-trust-case-ex-joint-secy-jaglul-pasha-held-false-testimony-1507451",
-      "pubDate": "Wed, 05 Aug 2026 17:35:00 +0600",
+      "title": "Acting president calls for unity on national interest, democratic values",
+      "link": "https://www.tbsnews.net/bangladesh/acting-president-calls-unity-national-interest-democratic-values-1507556",
+      "pubDate": "Wed, 05 Aug 2026 20:15:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/05/109ed437-6173-41c4-a2c2-660febb81129.png",
-      "snippet": "Police say he is also accused in multiple other cases, including murder cases linked to the July Uprising and alleged document forgery."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/05/hafiz_uddin_ahmed.jpg",
+      "snippet": "The nation must remain vigilant so that \"no division, hatred or narrow interests\" can hinder national progress, he says."
+    },
+    {
+      "title": "Jubo League leader Sobhan Kazi placed on 5-day remand in July Uprising murder case",
+      "link": "https://www.tbsnews.net/bangladesh/court/jubo-league-leader-sobhan-kazi-placed-5-day-remand-july-uprising-murder-case",
+      "pubDate": "Wed, 05 Aug 2026 20:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/05/jubo_league.jpg",
+      "snippet": "Dhaka Metropolitan Magistrate Kamal Uddin passed the order after a hearing, allowing part of a seven-day remand sought by the investigation officer Mrityunjoy Pandit Mithun, said court sources."
+    },
+    {
+      "title": "Political parties must show patience, tolerance to fulfil July aspirations: Amit",
+      "link": "https://www.tbsnews.net/bangladesh/political-parties-must-show-patience-tolerance-fulfil-july-aspirations-amit-1507536",
+      "pubDate": "Wed, 05 Aug 2026 19:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/17/untitled_design_6.jpg",
+      "snippet": "A discussion was later held where July fighters and family members of those killed were honoured."
+    },
+    {
+      "title": "Netherlands embassy launches 'Beyond the Margins' exhibition",
+      "link": "https://www.tbsnews.net/bangladesh/netherlands-embassy-launches-beyond-margins-exhibition-1507531",
+      "pubDate": "Wed, 05 Aug 2026 19:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/05/755941484_1826138445581933_3054389406880337814_n.jpg",
+      "snippet": "The exhibition will remain open to visitors for the next three weeks and can be visited by appointment."
+    },
+    {
+      "title": "DU to take action against teachers involved in anti-state activities",
+      "link": "https://www.tbsnews.net/bangladesh/education/du-take-action-against-teachers-involved-anti-state-activities-1507516",
+      "pubDate": "Wed, 05 Aug 2026 19:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/16/image.png",
+      "snippet": "Engaging in such activities directly conflict with the dignity, moral standing, and professional responsibilities of a university teacher."
+    },
+    {
+      "title": "Ex-bureaucrat Jaglul Pasha arrested, jailed in Khaleda Zia attempted murder case",
+      "link": "https://www.tbsnews.net/bangladesh/court/blocking-khaleda-zias-convoy-sand-laden-trucks-jaglul-pasha-jailed-attempted-murder",
+      "pubDate": "Wed, 05 Aug 2026 19:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/10/18/khaleda_sand_truck.jpg",
+      "snippet": "Police say the former joint secretary faces multiple cases, including allegations of false testimony in the Zia Orphanage Trust case, attempted murder of Khaleda Zia, July Uprising-related killings and document forgery."
+    },
+    {
+      "title": "Bangladesh must never again become a 'client state': FM",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-must-never-again-become-client-state-fm-1507486",
+      "pubDate": "Wed, 05 Aug 2026 18:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/05/f63ef008-bbb2-4340-a7dc-9e4249c7ed03.jpg",
+      "snippet": "The minister says Bangladesh's diplomacy will continue to prioritise national interests and sovereignty while navigating growing global and regional uncertainties."
+    },
+    {
+      "title": "Chhatra Dal-Shibir clashes spread to Barishal, N'ganj; at least 18 injured",
+      "link": "https://www.tbsnews.net/bangladesh/chhatra-dal-shibir-clashes-spread-barishal-narayanganj-least-18-injured-1507481",
+      "pubDate": "Wed, 05 Aug 2026 18:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/05/763560893_1226444189635470_7349914604526400079_n.jpg",
+      "snippet": "Fresh violence at Barishal University and Government Tolaram College comes a day after more than 80 people were injured in clashes across three campuses in Dhaka."
+    },
+    {
+      "title": "Student visa scam: Nabil Yusuf Rafi placed on three-day remand",
+      "link": "https://www.tbsnews.net/bangladesh/court/student-visa-scam-nabil-yusuf-rafi-placed-three-day-remand-1507471",
+      "pubDate": "Wed, 05 Aug 2026 18:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/05/760554581_2123057608288729_5172620300110799825_n.jpg",
+      "snippet": "Victims allegedly lost Tk3.10 crore collectively."
+    },
+    {
+      "title": "Four-day factory break triggers Eid-like highway rush in Gazipur",
+      "link": "https://www.tbsnews.net/bangladesh/four-day-factory-break-triggers-eid-highway-rush-gazipur-1507466",
+      "pubDate": "Wed, 05 Aug 2026 18:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/05/bus_traffic_in_gazipur.jpg",
+      "snippet": "Around 20% of factories declared extended holidays amid a prolonged gas shortage, prompting thousands of workers to head home."
     },
     {
       "title": "No institution, including Nesco, will leave Rajshahi: Land minister",
@@ -67,8 +166,8 @@
       "snippet": "Chhatra Shibir activists alleged that Chhatra Dal leaders and activists launched a sudden attack while the July mass uprising programme was underway at Tolaram College."
     },
     {
-      "title": "Jamaat ameer accuses govt of deliberately creating shortages of gas and electricity to justify hikes",
-      "link": "https://www.tbsnews.net/bangladesh/jamaat-ameer-accuses-govt-deliberately-creating-shortages-gas-and-electricity-justify",
+      "title": "Jamaat ameer alleges gas, power shortages being created to justify price hikes",
+      "link": "https://www.tbsnews.net/bangladesh/jamaat-ameer-alleges-gas-power-shortages-being-created-justify-price-hikes-1507366",
       "pubDate": "Wed, 05 Aug 2026 15:50:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
@@ -122,103 +221,15 @@
       "snippet": "A total of 1,15,224 patients with suspected measles have been hospitalised across the country, of whom 1,11,005 have recovered, according to DGHS data."
     },
     {
-      "title": "Saudi Arabia overtakes US as Bangladesh's top remittance source in FY26",
-      "link": "https://www.tbsnews.net/infograph/numbers/saudi-arabia-overtakes-us-top-remittance-source-fy26-1507351",
-      "pubDate": "Wed, 05 Aug 2026 15:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/05/remittance.png",
-      "snippet": ""
-    },
-    {
       "title": "Begum Rokeya univ forms panel to probe Chhatra Dal-Shibir clash",
       "link": "https://www.tbsnews.net/bangladesh/begum-rokeya-univ-forms-panel-probe-chhatra-dal-shibir-clash-1507331",
       "pubDate": "Wed, 05 Aug 2026 15:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/brur.jpg",
       "snippet": "The injured included former Brur unit Shibir president Sohel Rana, current Secretary Imran Khan Saurav, activist Mehedi Hasan, Baizid Shikdar, Mursalin and Chhatra Dal leader Ashik"
-    },
-    {
-      "title": "PM talks to injured July warrior Mitu at Memorial Museum opening",
-      "link": "https://www.tbsnews.net/bangladesh/pm-talks-injured-july-warrior-mitu-memorial-museum-opening-1507326",
-      "pubDate": "Wed, 05 Aug 2026 14:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/05/july_warrior_mitu_and_tarique_rahman.jpg",
-      "snippet": "Beyond the ceremony, PM acknowledges the sacrifice of July warrior Mitu."
-    },
-    {
-      "title": "Children paint spirit of July at Parliament Secretariat competition",
-      "link": "https://www.tbsnews.net/bangladesh/children-paint-spirit-july-parliament-secretariat-competition-1507321",
-      "pubDate": "Wed, 05 Aug 2026 14:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/05/childern_painting.jpg",
-      "snippet": "Young artists reimagine July through colours and memories."
-    },
-    {
-      "title": "Govt committed to institutionalising democracy achieved through July Uprising: Swapon ",
-      "link": "https://www.tbsnews.net/bangladesh/govt-committed-institutionalising-democracy-achieved-through-july-uprising-swapon-1507291",
-      "pubDate": "Wed, 05 Aug 2026 14:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/05/image-411901-1785913897.jpg",
-      "snippet": "A discussion meeting and a reception for the families of the July martyrs and injured July warriors were organised at the Barishal District Shilpakala Academy."
-    },
-    {
-      "title": "July Museum bridges past and future, inspires a better Bangladesh: Muhammad Yunus",
-      "link": "https://www.tbsnews.net/bangladesh/july-museum-bridges-past-and-future-inspires-better-bangladesh-prof-yunus-1507311",
-      "pubDate": "Wed, 05 Aug 2026 14:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/05/july_museum_bridges_past_and_future_inspires_a_better_bangladesh.png",
-      "snippet": "It tells us who we are, what we wanted and what kind of Bangladesh we dreamed of building, Yunus said."
-    },
-    {
-      "title": "Everyone has access to media; those who want to hear Hasina's speech will do so: Rumeen Farhana",
-      "link": "https://www.tbsnews.net/bangladesh/everyone-has-access-media-those-who-want-hear-hasinas-speech-will-do-so-rumeen-farhana",
-      "pubDate": "Wed, 05 Aug 2026 14:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/05/rumeen_farhana.jpg",
-      "snippet": "Commenting on the reported restrictions on broadcasting Sheikh Hasina's speeches, Farhana said traditional television was no longer the only medium through which people accessed information"
-    },
-    {
-      "title": "Fire at BAT warehouse in Ashulia extinguished after over 4 hours",
-      "link": "https://www.tbsnews.net/bangladesh/fire-bat-warehouse-ashulia-extinguished-after-over-4-hours-1507306",
-      "pubDate": "Wed, 05 Aug 2026 14:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/05/763645834_1451460596791587_3166405878655841895_n.jpg",
-      "snippet": "Locals noticed smoke coming from the warehouse at around 7am and informed warehouse staff and the fire service. Two units from the Zirabo Modern Fire Service and Civil Defence Station were initially dispatched to the scene."
-    },
-    {
-      "title": "Chhatra Dal, Shibir clash at Barishal University over presence of outsiders",
-      "link": "https://www.tbsnews.net/bangladesh/chhatra-dal-shibir-clash-barishal-university-over-presence-outsiders-1507301",
-      "pubDate": "Wed, 05 Aug 2026 14:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/05/763560893_1226444189635470_7349914604526400079_n.jpg",
-      "snippet": "The scuffle took place in the morning in the presence of the university’s vice-chancellor and proctor."
     },
     {
       "title": "AI-written stories preferred over human-written ones: Study",
@@ -736,73 +747,7 @@
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/al_arafah_bank_1.jpg",
       "snippet": "The consolidated net profit for the April-June period fell to Tk83.24 crore."
-    },
-    {
-      "title": "Bangladesh must strengthen policy independence to sustain growth: Experts",
-      "link": "https://www.tbsnews.net/economy/bangladesh-must-strengthen-policy-independence-sustain-growth-say-experts-1504741",
-      "pubDate": "Sun, 02 Aug 2026 19:35:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/02/growth_story_supplement.jpg",
-      "snippet": "Participants agreed that sustaining Bangladesh’s development momentum will require stronger institutions, policy consistency and broader engagement among policymakers, businesses, researchers and civil society."
-    },
-    {
-      "title": "Govt will no longer directly appoint MDs at six state-run banks",
-      "link": "https://www.tbsnews.net/bangladesh/govt-will-no-longer-directly-appoint-mds-six-state-run-banks-1504761",
-      "pubDate": "Sun, 02 Aug 2026 19:30:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/six_bank1.png",
-      "snippet": "Govt will only nominate candidates for top executive positions."
-    },
-    {
-      "title": "Foreign loan commitments fall to 14-year low, repayment reaches record $4.49b",
-      "link": "https://www.tbsnews.net/economy/foreign-loan-commitments-hit-14-year-low-bangladesh-repays-record-449b-1504661",
-      "pubDate": "Sun, 02 Aug 2026 19:00:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/09/27/1000029569_678x452.jpg",
-      "snippet": "Loan commitments fell to $5.243 billion in FY26, while the country made its highest-ever annual external debt repayment of $4.494 billion."
-    },
-    {
-      "title": "Examiner found checking HSC answer scripts at Sylhet tea stall!",
-      "link": "https://www.tbsnews.net/bangladesh/education/hsc-examiner-turns-tea-stall-marking-centre-550-answer-scripts-seized-show",
-      "pubDate": "Sun, 02 Aug 2026 18:50:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/760502067_2932215740473884_854881336557029941_n.jpg",
-      "snippet": "A general diary also has been filed over the incident."
-    },
-    {
-      "title": "No genetic evidence of vaccine-resistant measles strain in Bangladesh: icddr,b",
-      "link": "https://www.tbsnews.net/bangladesh/health/no-genetic-evidence-vaccine-resistant-measles-strain-bangladesh-icddrb-1504646",
-      "pubDate": "Sun, 02 Aug 2026 18:45:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/11/05/measles_mumps_and_rubella_mmr_vaccine.jpg",
-      "snippet": "According to the Directorate General of Health Services (DGHS), four more children died from measles and measles-like symptoms in the 24 hours until 8am today."
-    },
-    {
-      "title": "Dengue: 2 more die, 423 hospitalised in 24hrs",
-      "link": "https://www.tbsnews.net/bangladesh/health/dengue-2-more-die-423-hospitalised-24hrs-1504631",
-      "pubDate": "Sun, 02 Aug 2026 18:35:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/20/dengue_6.jpg",
-      "snippet": "The country's dengue caseload has risen to 16,104 this year, while the death toll stands at 56."
     }
   ],
-  "updatedAt": "2026-08-05T12:23:44.629Z"
+  "updatedAt": "2026-08-05T14:55:02.893Z"
 }
