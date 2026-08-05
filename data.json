@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "Dengue admissions top 500 daily, hospitals ready to open dedicated wards",
+      "link": "https://www.tbsnews.net/bangladesh/health/dengue-admissions-top-500-daily-hospitals-ready-open-dedicated-wards-1507031",
+      "pubDate": "Wed, 05 Aug 2026 10:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/07/25/2m9a8079_0.jpg",
+      "snippet": "Hospitals across the country, including in Dhaka, reported a sharp increase in dengue admissions over the past week"
+    },
+    {
+      "title": "July Mass Uprising Memorial Museum opens to public on 6 August with online ticketing system",
+      "link": "https://www.tbsnews.net/bangladesh/july-mass-uprising-memorial-museum-opens-public-6-august-online-ticketing-system-1507021",
+      "pubDate": "Wed, 05 Aug 2026 09:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/05/july_uprising_.jpg",
+      "snippet": "The museum will be inaugurated by Prime Minister Tarique Rahman on 5 August, with the opening day reserved exclusively for the families of those killed during the July Mass Uprising."
+    },
+    {
+      "title": "Gas crisis chokes plastic, ceramic industries",
+      "link": "https://www.tbsnews.net/bangladesh/energy/gas-crisis-chokes-plastic-ceramic-industries-1507001",
+      "pubDate": "Wed, 05 Aug 2026 07:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/uploads/2022/08/28/tajma_ceramic_industries_4_2.jpg",
+      "snippet": "Production has fallen sharply, many factories are operating at less than half of their installed capacity, while some have temporarily suspended operations"
+    },
+    {
       "title": "UGC plans workshop to improve madrasa education, employment prospects",
       "link": "https://www.tbsnews.net/bangladesh/ugc-plans-workshop-improve-madrasa-education-employment-prospects-1506946",
       "pubDate": "Wed, 05 Aug 2026 06:10:00 +0600",
@@ -45,7 +78,7 @@
       "snippet": "The Ministry of Cultural Affairs will organise a programme at the Central Shaheed Minar to lay wreaths and pay tribute to the martyrs of the July Uprising."
     },
     {
-      "title": "A fate of Hasina’s own making",
+      "title": "A fate of Hasina's own making",
       "link": "https://www.tbsnews.net/bangladesh/fate-hasinas-own-making-1506901",
       "pubDate": "Wed, 05 Aug 2026 00:25:00 +0600",
       "category": "Bangladesh",
@@ -213,23 +246,12 @@
       "title": "UGC to establish language centres at 30 universities, prioritising Chinese",
       "link": "https://www.tbsnews.net/bangladesh/education/ugc-establish-language-centres-30-universities-prioritising-chinese-1506751",
       "pubDate": "Tue, 04 Aug 2026 20:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/02/13/ugc_logo.jpeg",
       "snippet": "Language centres currently operate at 10 universities, with another 20 to be set up in phases, enabling students to learn a foreign language alongside Bangla and English, he said."
-    },
-    {
-      "title": "Rangpur region witnesses revival of ecosystem amid newly emerging greenery",
-      "link": "https://www.tbsnews.net/agriculture/rangpur-region-witnesses-revival-ecosystem-amid-newly-emerging-greenery-1506736",
-      "pubDate": "Tue, 04 Aug 2026 19:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/rangpur_plantsjpg.jpg",
-      "snippet": "Re-excavated waterways restore ecosystems, agriculture and rural livelihoods."
     },
     {
       "title": "BB eases import declaration rules for intercompany transactions",
@@ -241,17 +263,6 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/04/bangladesh_bank.jpg",
       "snippet": "The directive also instructs Authorised Dealers (ADs) – licensed foreign exchange banks – to obtain the new declaration from importers before initiating transactions."
-    },
-    {
-      "title": "Five arrested over forging PM, ministers' signatures",
-      "link": "https://www.tbsnews.net/bangladesh/crime/five-arrested-over-forging-pm-ministers-signatures-1506726",
-      "pubDate": "Tue, 04 Aug 2026 19:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/five-arrested.jpg",
-      "snippet": "DB says the syndicate had sent a letter to the expatriates' welfare minister recommending the reinstatement of a dismissed employee using forged signatures of PM, 4 ministers, and 2 joint secretaries."
     },
     {
       "title": "BB lifts credit ceilings on 5 key Sonali Bank branches",
@@ -562,7 +573,7 @@
       "snippet": "Despite free medical care, families face steep costs for transport, medicines, tests and food."
     },
     {
-      "title": "Bangladesh ranks 91st in mobile internet speed, 93rd for fixed broadband: WB report",
+      "title": "Bangladesh ranks 91st in mobile internet speed, 93rd for fixed broadband: Report",
       "link": "https://www.tbsnews.net/bangladesh/bangladesh-ranks-91st-mobile-internet-speed-93rd-fixed-broadband-wb-report-1505271",
       "pubDate": "Mon, 03 Aug 2026 14:10:00 +0600",
       "category": "Tech",
@@ -824,18 +835,7 @@
       "icon": "🏭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/02/lpp_sa.jpg",
       "snippet": "LPP freezes orders after local suppliers pursue legal action over unpaid Russian shipments."
-    },
-    {
-      "title": "DENV-3 dominates dengue infections this year as experts fear more severe complications",
-      "link": "https://www.tbsnews.net/bangladesh/health/denv-3-dominates-dengue-infections-year-experts-fear-more-severe-complications",
-      "pubDate": "Sun, 02 Aug 2026 10:05:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/27/dengue_5.jpg",
-      "snippet": "Doctors are also reporting a rise in cases of expanded dengue syndrome, alongside dengue shock syndrome and prolonged fever, highlighting the need for early diagnosis, close monitoring and stronger mosquito control"
     }
   ],
-  "updatedAt": "2026-08-05T00:55:09.343Z"
+  "updatedAt": "2026-08-05T04:09:08.236Z"
 }
