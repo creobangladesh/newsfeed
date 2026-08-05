@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "UGC plans workshop to improve madrasa education, employment prospects",
+      "link": "https://www.tbsnews.net/bangladesh/ugc-plans-workshop-improve-madrasa-education-employment-prospects-1506946",
+      "pubDate": "Wed, 05 Aug 2026 06:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/05/1000046461_16x9.png",
+      "snippet": ""
+    },
+    {
       "title": "The other CEO: How the 'Chief Excuse Officer' is quietly running your company",
       "link": "https://www.tbsnews.net/thoughts/other-ceo-how-chief-excuse-officer-quietly-running-your-company-1506931",
       "pubDate": "Wed, 05 Aug 2026 02:00:00 +0600",
@@ -240,17 +251,6 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/five-arrested.jpg",
-      "snippet": "DB says the syndicate had sent a letter to the expatriates' welfare minister recommending the reinstatement of a dismissed employee using forged signatures of PM, 4 ministers, and 2 joint secretaries."
-    },
-    {
-      "title": "Five arrested over forging PM, ministers' signatures",
-      "link": "https://www.tbsnews.net/bangladesh/crime/five-arrested-over-forging-pm-ministers-signatures-1506716",
-      "pubDate": "Tue, 04 Aug 2026 19:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/db.png",
       "snippet": "DB says the syndicate had sent a letter to the expatriates' welfare minister recommending the reinstatement of a dismissed employee using forged signatures of PM, 4 ministers, and 2 joint secretaries."
     },
     {
@@ -837,5 +837,5 @@
       "snippet": "Doctors are also reporting a rise in cases of expanded dengue syndrome, alongside dengue shock syndrome and prolonged fever, highlighting the need for early diagnosis, close monitoring and stronger mosquito control"
     }
   ],
-  "updatedAt": "2026-08-04T23:03:33.595Z"
+  "updatedAt": "2026-08-05T00:55:09.343Z"
 }
