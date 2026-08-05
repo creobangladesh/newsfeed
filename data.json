@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "Shama Obaed calls for unity beyond political divides to safeguard democracy",
+      "link": "https://www.tbsnews.net/bangladesh/shama-obaed-calls-unity-beyond-political-divides-safeguard-democracy-1507596",
+      "pubDate": "Wed, 05 Aug 2026 22:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/05/shama_obaed_islam.jpg",
+      "snippet": "The state minister urged people to remain united to protect democracy, voting rights and the rule of law while warning against conspiracies that could undermine the country's progress."
+    },
+    {
+      "title": "Over 20% of garment factories declare 3-day break, sparking workers' rush home",
+      "link": "https://www.tbsnews.net/economy/rmg/more-20-garment-factories-declare-three-day-break-sparking-workers-rush-home-1507581",
+      "pubDate": "Wed, 05 Aug 2026 21:35:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/03/16/rmg_tram_group_nidle_3_0.jpeg",
+      "snippet": "Gas shortages and low workloads, combined with ‘bridge holidays’, prompted extended factory closures"
+    },
+    {
+      "title": "Landslides block Cox's Bazar marine drive; Rohingya child killed in Rohingya camp",
+      "link": "https://www.tbsnews.net/bangladesh/landslides-block-coxs-bazar-marine-drive-rohingya-child-killed-rohingya-camp-1507566",
+      "pubDate": "Wed, 05 Aug 2026 20:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/08/10/landslide.jpg",
+      "snippet": "Heavy rain triggered landslides at several points along the marine drive and in Kolatoli, leaving one dead and three injured."
+    },
+    {
       "title": "Acting president calls for unity on national interest, democratic values",
       "link": "https://www.tbsnews.net/bangladesh/acting-president-calls-unity-national-interest-democratic-values-1507556",
       "pubDate": "Wed, 05 Aug 2026 20:15:00 +0600",
@@ -56,7 +89,7 @@
       "snippet": "Engaging in such activities directly conflict with the dignity, moral standing, and professional responsibilities of a university teacher."
     },
     {
-      "title": "Ex-bureaucrat Jaglul Pasha arrested, jailed in Khaleda Zia attempted murder case",
+      "title": "Ex-bureaucrat Jaglul Pasha jailed in Khaleda Zia attempted murder case",
       "link": "https://www.tbsnews.net/bangladesh/court/blocking-khaleda-zias-convoy-sand-laden-trucks-jaglul-pasha-jailed-attempted-murder",
       "pubDate": "Wed, 05 Aug 2026 19:00:00 +0600",
       "category": "Bangladesh",
@@ -155,7 +188,7 @@
       "snippet": "Khandakar Abdul Muktadir says Bangladesh needs time to stabilise energy supplies and attract investment despite short-term public hardship."
     },
     {
-      "title": "8 injured as Chhatra Dal-Shibir clash at Tolaram College in Narayanganj",
+      "title": "Chhatra Dal-Shibir clash at Tolaram College leaves 8 injured, dormitory 'vandalised, looted'",
       "link": "https://www.tbsnews.net/bangladesh/8-injured-chhatra-dal-shibir-clash-tolaram-college-narayanganj-1507411",
       "pubDate": "Wed, 05 Aug 2026 16:40:00 +0600",
       "category": "Bangladesh",
@@ -163,7 +196,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/05/shibir_chatradol_img_1.jpg",
-      "snippet": "Chhatra Shibir activists alleged that Chhatra Dal leaders and activists launched a sudden attack while the July mass uprising programme was underway at Tolaram College."
+      "snippet": "The two groups blamed each other for the clash, while Chhatra Dal faced allegations of attacking a college hostel and looting valuables after the incident."
     },
     {
       "title": "Jamaat ameer alleges gas, power shortages being created to justify price hikes",
@@ -199,24 +232,13 @@
       "snippet": "He paid tribute to those killed in the July Uprising and prayed for the injured."
     },
     {
-      "title": "‘Ami Bondi Karagare’ singer Mujib Pardeshi sent to jail in cheque dishonour case",
-      "link": "https://www.tbsnews.net/bangladesh/court/ami-bondi-karagare-singer-mujib-pardeshi-sent-jail-cheque-dishonour-case-1507361",
-      "pubDate": "Wed, 05 Aug 2026 15:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/05/mujib-pardeshi.jpg",
-      "snippet": "Mujib Pardeshi, whose real name is Mujibur Rahman Molla, is a popular Bangladeshi folk singer, composer and music director. He rose to prominence in the 1980s through Bangla folk songs"
-    },
-    {
       "title": "Measles: Death toll reaches 854 as 5 more children die in 24 hours",
       "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-854-5-more-children-die-24-hours-1507346",
       "pubDate": "Wed, 05 Aug 2026 15:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/11/measles_tbs.jpeg",
       "snippet": "A total of 1,15,224 patients with suspected measles have been hospitalised across the country, of whom 1,11,005 have recovered, according to DGHS data."
     },
@@ -736,18 +758,7 @@
       "icon": "🔍",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/20240803_rajibdhar_0160.jpg",
       "snippet": "As the movement consolidated around the one-point demand for Sheikh Hasina’s resignation, protests expanded and pressure mounted across the country"
-    },
-    {
-      "title": "Al-Arafah Bank's Q2 profit dips 9% on rising costs, lower investment income",
-      "link": "https://www.tbsnews.net/economy/banking/al-arafah-banks-q2-profit-dips-9-rising-costs-lower-investment-income-1504876",
-      "pubDate": "Sun, 02 Aug 2026 21:55:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/al_arafah_bank_1.jpg",
-      "snippet": "The consolidated net profit for the April-June period fell to Tk83.24 crore."
     }
   ],
-  "updatedAt": "2026-08-05T14:55:02.893Z"
+  "updatedAt": "2026-08-05T16:42:16.850Z"
 }
