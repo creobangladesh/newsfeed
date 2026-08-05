@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "The hidden grip: social media addiction at its peak",
+      "link": "https://www.tbsnews.net/thoughts/hidden-grip-social-media-addiction-its-peak-1507626",
+      "pubDate": "Thu, 06 Aug 2026 00:05:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/22/15_thoughts_social_media_0.png",
+      "snippet": "Social media platforms are designed to keep users hooked. Each notification, like, or comment releases a small amount of dopamine."
+    },
+    {
+      "title": "Bangladesh outraged as India allows Hasina's live media appearance in Delhi",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-outraged-india-allows-hasinas-live-media-appearance-delhi-1507616",
+      "pubDate": "Wed, 05 Aug 2026 23:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/govt_10.png",
+      "snippet": "The foreign ministry says Dhaka had warned New Delhi about the likely impact of the event on efforts to reset bilateral relations and renewed its call for Hasina's extradition."
+    },
+    {
       "title": "Shama Obaed calls for unity beyond political divides to safeguard democracy",
       "link": "https://www.tbsnews.net/bangladesh/shama-obaed-calls-unity-beyond-political-divides-safeguard-democracy-1507596",
       "pubDate": "Wed, 05 Aug 2026 22:00:00 +0600",
@@ -100,7 +122,7 @@
       "snippet": "Police say the former joint secretary faces multiple cases, including allegations of false testimony in the Zia Orphanage Trust case, attempted murder of Khaleda Zia, July Uprising-related killings and document forgery."
     },
     {
-      "title": "Bangladesh must never again become a 'client state': FM",
+      "title": "Bangladesh to never become a client state again: Khalilur",
       "link": "https://www.tbsnews.net/bangladesh/bangladesh-must-never-again-become-client-state-fm-1507486",
       "pubDate": "Wed, 05 Aug 2026 18:45:00 +0600",
       "category": "Bangladesh",
@@ -108,7 +130,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/05/f63ef008-bbb2-4340-a7dc-9e4249c7ed03.jpg",
-      "snippet": "The minister says Bangladesh's diplomacy will continue to prioritise national interests and sovereignty while navigating growing global and regional uncertainties."
+      "snippet": "Safeguarding Bangladesh’s sovereignty and national interests remained the foreign ministry’s foremost responsibility, he says."
     },
     {
       "title": "Chhatra Dal-Shibir clashes spread to Barishal, N'ganj; at least 18 injured",
@@ -219,17 +241,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/05/benapole.jpg",
       "snippet": "Trade operations through the port will resume tomorrow morning (6 August)."
-    },
-    {
-      "title": "July martyrs will be remembered forever: Ctg mayor",
-      "link": "https://www.tbsnews.net/bangladesh/july-martyrs-will-be-remembered-forever-ctg-mayor-1507356",
-      "pubDate": "Wed, 05 Aug 2026 15:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/05/ctg_mayor.jpg",
-      "snippet": "He paid tribute to those killed in the July Uprising and prayed for the injured."
     },
     {
       "title": "Measles: Death toll reaches 854 as 5 more children die in 24 hours",
@@ -760,5 +771,5 @@
       "snippet": "As the movement consolidated around the one-point demand for Sheikh Hasina’s resignation, protests expanded and pressure mounted across the country"
     }
   ],
-  "updatedAt": "2026-08-05T16:42:16.850Z"
+  "updatedAt": "2026-08-05T18:21:39.187Z"
 }
