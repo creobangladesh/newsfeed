@@ -1,6 +1,105 @@
 {
   "news": [
     {
+      "title": "8 killed as two buses collide head-on in Sylhet",
+      "link": "https://www.tbsnews.net/bangladesh/8-killed-two-buses-collide-head-sylhet-1508731",
+      "pubDate": "Fri, 07 Aug 2026 11:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/28/dead_2.png",
+      "snippet": "All the victims were passengers of a Unique bus, which plunged into a roadside ditch after the crash on the Sylhet–Dhaka highway."
+    },
+    {
+      "title": "Polish buyer LPP denies payment liability; Bangladeshi exporters say they have proof",
+      "link": "https://www.tbsnews.net/economy/rmg/polish-buyer-lpp-denies-payment-liability-bangladeshi-exporters-say-they-have-proof",
+      "pubDate": "Fri, 07 Aug 2026 11:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/02/lpp_sa.jpg",
+      "snippet": "According to Bangladeshi exporters, LPP sources more than $700 million worth of garments from Bangladesh each year."
+    },
+    {
+      "title": "2 army camps to be set up in Cox's Bazar hills to curb abductions: Home minister",
+      "link": "https://www.tbsnews.net/bangladesh/law-order/2-army-camps-be-set-coxs-bazar-hills-curb-abductions-home-minister-1508721",
+      "pubDate": "Fri, 07 Aug 2026 11:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/20260806_223428.jpg",
+      "snippet": "Authorities will prepare a list of key drug traffickers and syndicate leaders as part of a broader crackdown on narcotics, says Home Minister Salahuddin Ahmed."
+    },
+    {
+      "title": "CMSME loans shrink 5.15% in Q1 amid weak business demand ",
+      "link": "https://www.tbsnews.net/economy/banking/cmsme-loans-shrink-515-q1-amid-weak-business-demand-1508646",
+      "pubDate": "Fri, 07 Aug 2026 11:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/06/07/loans_0_0.jpg",
+      "snippet": "Bad loan ratio climbs to 26.04%"
+    },
+    {
+      "title": "Meta ordered to pay $567 million in New Mexico for teen mental health fund",
+      "link": "https://www.tbsnews.net/tech/meta-ordered-pay-567-million-new-mexico-teen-mental-health-fund-1508706",
+      "pubDate": "Fri, 07 Aug 2026 10:40:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/02/04/meta.jpg",
+      "snippet": "US state court finds social media giant responsible for harming young users and mandates platform changes under a five-year decree."
+    },
+    {
+      "title": "6 dead, 15 injured after bus rams into roadside workers in Bogura",
+      "link": "https://www.tbsnews.net/bangladesh/6-dead-15-injured-after-bus-rams-roadside-workers-bogura-1508681",
+      "pubDate": "Fri, 07 Aug 2026 10:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/img_8928_0.jpeg",
+      "snippet": "The bus lost control and struck a group of paddy harvest workers waiting for work, while residents blocked the highway demanding speed breakers."
+    },
+    {
+      "title": "Coast Guard provides free healthcare to 470 people in Patuakhali",
+      "link": "https://www.tbsnews.net/bangladesh/coast-guard-provides-free-healthcare-470-people-patuakhali-1508676",
+      "pubDate": "Fri, 07 Aug 2026 10:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/image_16x9.png",
+      "snippet": ""
+    },
+    {
+      "title": "US scrutinises more schools over admissions practices, diversity and pro-Palestinian protests",
+      "link": "https://www.tbsnews.net/worldbiz/usa/us-scrutinises-more-schools-over-admissions-practices-diversity-and-pro-palestinian",
+      "pubDate": "Fri, 07 Aug 2026 09:55:00 +0600",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/7lx5ixl5z5o27klmdq67bl36ii.jpg",
+      "snippet": "The DOJ alleges racial bias in Duke Law admissions while the Department of Education investigates California universities following antisemitism complaints."
+    },
+    {
+      "title": "Selling nostalgia: Bangali heritage finds new life in Chattogram cafés, shops ",
+      "link": "https://www.tbsnews.net/features/selling-nostalgia-bangali-heritage-finds-new-life-chattogram-cafes-shops-1508641",
+      "pubDate": "Fri, 07 Aug 2026 09:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/tbs_9.png",
+      "snippet": "Young crowds, student jobs and small entrepreneurs drive the trend"
+    },
+    {
       "title": "11 troubled banks to face asset quality test by int’l firms from January",
       "link": "https://www.tbsnews.net/economy/banking/11-troubled-banks-face-asset-quality-test-intl-firms-january-1508636",
       "pubDate": "Fri, 07 Aug 2026 07:55:00 +0600",
@@ -67,17 +166,6 @@
       "snippet": "The governor said nearly 20 million depositors had been affected by various irregularities during the tenure of the previous government."
     },
     {
-      "title": "Govt gives nod to direct purchase of 8 LNG cargoes, 200 electric buses",
-      "link": "https://www.tbsnews.net/bangladesh/govt-procure-200-electric-buses-brtc-bypassing-tender-process-1508561",
-      "pubDate": "Thu, 06 Aug 2026 22:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/28/lng.jpg",
-      "snippet": "Cabinet committee also clears emergency purchases of LNG and LPG through direct procurement."
-    },
-    {
       "title": "Hasina's Delhi remarks reflect India's 'disrespect' for Bangladesh's sovereignty: NCP",
       "link": "https://www.tbsnews.net/bangladesh/politics/hasinas-delhi-remarks-reflect-indias-disrespect-bangladeshs-sovereignty-ncp",
       "pubDate": "Thu, 06 Aug 2026 22:00:00 +0600",
@@ -87,6 +175,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/06/ncp_press_confer.jpg",
       "snippet": "The party says allowing Hasina to speak from India on the anniversary of the July Uprising disregards Bangladesh’s judicial process and people’s demand for justice."
+    },
+    {
+      "title": "Govt gives nod to direct purchase of 8 LNG cargoes, 200 electric buses",
+      "link": "https://www.tbsnews.net/bangladesh/govt-procure-200-electric-buses-brtc-bypassing-tender-process-1508561",
+      "pubDate": "Thu, 06 Aug 2026 22:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/28/lng.jpg",
+      "snippet": "Cabinet committee also clears emergency purchases of LNG and LPG through direct procurement."
     },
     {
       "title": "Fire at Pakistan envoy's residence in Dhaka; no casualties",
@@ -177,17 +276,6 @@
       "snippet": "55 lakh families to get rice at Tk15 per kg."
     },
     {
-      "title": "Govt requests India to increase diesel supply thru pipeline: Minister",
-      "link": "https://www.tbsnews.net/bangladesh/energy/govt-requests-india-increase-diesel-supply-thru-pipeline-minister-tuku-1508461",
-      "pubDate": "Thu, 06 Aug 2026 20:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/11/23/pipeline_oil_gas.jpg",
-      "snippet": "The minister says gas supply is expected to improve within two to three days"
-    },
-    {
       "title": "Beyond crime: How delayed justice weakens public trust",
       "link": "https://www.tbsnews.net/thoughts/beyond-crime-how-delayed-justice-weakens-public-trust-1508451",
       "pubDate": "Thu, 06 Aug 2026 20:30:00 +0600",
@@ -199,70 +287,15 @@
       "snippet": "When justice is delayed, the damage extends beyond crime itself. In Bangladesh’s crowded urban spaces, slow responses and weak enforcement can erode public trust, blur the line between formal authority and informal power, and leave many people feelin..."
     },
     {
-      "title": "BGB seizes Tk6 crore worth of 'Kush' in Satkhira, detains man",
-      "link": "https://www.tbsnews.net/bangladesh/bgb-seizes-tk6-crore-worth-kush-satkhira-detains-man-1508446",
-      "pubDate": "Thu, 06 Aug 2026 20:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/06/761354130_1732179394773269_3508367967591119108_n.jpg",
-      "snippet": "Border Guard Bangladesh (BGB) has seized 12kg of a newly emerging illicit drug “Kush”, worth an estimated Tk6 crore and detained a man during a raid in Satkhira's Madhabkati area."
-    },
-    {
       "title": "Bangladesh Bank withdraws administrator team from Social Islami Bank",
       "link": "https://www.tbsnews.net/economy/banking/bangladesh-bank-withdraws-administrator-social-islami-bank-1508431",
       "pubDate": "Thu, 06 Aug 2026 20:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/06/bb_sibl_1.jpg",
       "snippet": "The withdrawal follows Bangladesh Bank’s decision to hand over the management responsibilities of five Shariah-based banks to Sammilito Islami Bank."
-    },
-    {
-      "title": "12-foot king cobra to return to wild after more than three months of rehabilitation",
-      "link": "https://www.tbsnews.net/bangladesh/12-foot-king-cobra-return-wild-after-more-three-months-rehabilitation-1508426",
-      "pubDate": "Thu, 06 Aug 2026 19:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/06/dd6a1510-141b-47ab-a093-cb55f977d7df.jpg",
-      "snippet": "The adult male king cobra was rescued from Chattogram University after straying into a populated area and underwent treatment for parasite infestation before being declared fit for release."
-    },
-    {
-      "title": "HC clears over 50,000 old criminal miss cases in 11 working days",
-      "link": "https://www.tbsnews.net/bangladesh/court/hc-clears-over-50000-old-criminal-miss-cases-11-working-days-1508421",
-      "pubDate": "Thu, 06 Aug 2026 19:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/07/22/image-294687-1753183245.jpg",
-      "snippet": "A special initiative to reduce case backlog and ensure faster justice has resulted in the disposal of more than 57,000 long-pending criminal miss and writ cases."
-    },
-    {
-      "title": "Five-year tax roadmap aims to reassure investors on policy continuity: Bida chief",
-      "link": "https://www.tbsnews.net/bangladesh/5-year-tax-policy-reassure-investors-policy-continuity-bida-chief-1508411",
-      "pubDate": "Thu, 06 Aug 2026 19:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/06/bida.jpg",
-      "snippet": "The executive chairman says sustained policy signals can build investor confidence."
-    },
-    {
-      "title": "Tonu murder case: Ex-army man's bail stayed; asked to surrender within 24hrs",
-      "link": "https://www.tbsnews.net/bangladesh/court/tonu-murder-case-chamber-court-orders-ex-army-man-hafizur-surrender-within-24hrs",
-      "pubDate": "Thu, 06 Aug 2026 19:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/06/hafizur_tonu_murder.jpg",
-      "snippet": "He was released from Cumilla Central Jail on the evening of 4 August following the bail order."
     },
     {
       "title": "Govt restores lottery for Class 1 admissions from 2027; SSC results on 10 Aug",
@@ -406,17 +439,6 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/16/image.png",
       "snippet": "Engaging in such activities directly conflict with the dignity, moral standing, and professional responsibilities of a university teacher."
-    },
-    {
-      "title": "Running out of gas: Is Bangladesh ready to electrify?",
-      "link": "https://www.tbsnews.net/thoughts/running-out-gas-bangladesh-ready-electrify-1508341",
-      "pubDate": "Wed, 05 Aug 2026 18:35:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/06/gas.png",
-      "snippet": "With domestic gas reserves projected to run out by 2031, Bangladesh must reduce the power sector’s dependence on gas before electrification can become a credible alternative"
     },
     {
       "title": "Measles: Death toll reaches 854 as 5 more children die in 24 hours",
@@ -659,40 +681,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/01/bgmea_bss_img.jpg",
       "snippet": "BGMEA said production remains operational despite energy shortages, warning that unverified reports could erode buyers' confidence and hurt the industry's global reputation."
-    },
-    {
-      "title": "Why are banks cutting deposit interest rates despite high inflation?",
-      "link": "https://www.tbsnews.net/economy/banking/why-are-banks-cutting-deposit-interest-rates-despite-high-inflation-1506036",
-      "pubDate": "Tue, 04 Aug 2026 11:00:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/gemini_generated_image_1gj1kx1gj1kx1gj1.png",
-      "snippet": "Bankers say strong deposit growth, excess liquidity and weak demand for loans have reduced the need to attract new deposits with higher interest rates."
-    },
-    {
-      "title": "Status of US-Iran talks uncertain as ship struck in Hormuz",
-      "link": "https://www.tbsnews.net/analysis/status-us-iran-talks-uncertain-ship-struck-hormuz-1506006",
-      "pubDate": "Tue, 04 Aug 2026 10:30:00 +0600",
-      "category": "Analysis",
-      "color": "#5d4037",
-      "bg": "#efebe9",
-      "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/screenshot_2026-08-04_at_10-42-22_status_of_us-iran_talks_uncertain_as_ship_struck_in_hormuz_reuters.png",
-      "snippet": "Donald Trump ⁠has threatened military action several times, only to later cite diplomatic contacts as a reason to step back. Iran, however, has publicly rejected negotiations with Washington since the collapse in early July of an MoU both signed the ..."
-    },
-    {
-      "title": "Dhaka finalises reform roadmap, to lobby UN members for LDC graduation delay",
-      "link": "https://www.tbsnews.net/economy/dhaka-finalises-reform-roadmap-lobby-un-members-ldc-graduation-delay-1505986",
-      "pubDate": "Tue, 04 Aug 2026 10:00:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/ldc_feature.jpg",
-      "snippet": "The roadmap was approved at the inaugural meeting of the National Graduation Monitoring and Coordination Committee, chaired by the finance minister on 29 July."
     }
   ],
-  "updatedAt": "2026-08-07T03:28:17.497Z"
+  "updatedAt": "2026-08-07T05:16:46.491Z"
 }
