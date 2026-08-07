@@ -1,15 +1,92 @@
 {
   "news": [
     {
-      "title": "8 killed as two buses collide head-on in Sylhet",
+      "title": "Train derailment cuts Dhaka-Mymensingh rail link",
+      "link": "https://www.tbsnews.net/bangladesh/train-derailment-cuts-dhaka-mymensingh-rail-link-1508796",
+      "pubDate": "Fri, 07 Aug 2026 12:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/8829607.jpg",
+      "snippet": "Train services on the route were suspended following the derailment."
+    },
+    {
+      "title": "Man caught trying to buy 20 bhori of gold with counterfeit cash",
+      "link": "https://www.tbsnews.net/bangladesh/crime/man-caught-trying-buy-20-bhori-gold-counterfeit-cash-1508791",
+      "pubDate": "Fri, 07 Aug 2026 12:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/767160137_2258839991557685_8860678173709889287_n.jpg",
+      "snippet": "Police from Banani Police Station later took Rubel into custody and seized Tk57.05 lakh in counterfeit notes from him."
+    },
+    {
+      "title": "AI designs fully functional viruses for first time, raising safety concerns",
+      "link": "https://www.tbsnews.net/tech/ai-designs-fully-functional-viruses-first-time-raising-safety-concerns-1508776",
+      "pubDate": "Fri, 07 Aug 2026 12:05:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/81e84950-91b8-11f1-bab9-173de0e7d358.jpg.jpg",
+      "snippet": "Experts said AI's ability to design viral genomes now demands stronger safeguards, warning that viruses capable of causing disease should never be intentionally created."
+    },
+    {
+      "title": "Meta says AI model hacked another company, raising concerns over rogue AI behavior",
+      "link": "https://www.tbsnews.net/tech/meta-says-ai-model-hacked-another-company-raising-concerns-over-rogue-ai-behavior-1508771",
+      "pubDate": "Fri, 07 Aug 2026 11:40:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/img_8931.jpeg",
+      "snippet": "Meta said the incident happened during cybersecurity testing conducted by Irregular, an independent company hired by Meta."
+    },
+    {
+      "title": "Korean official see strong prospect of upgrading Bangladesh's RMG industry",
+      "link": "https://www.tbsnews.net/bangladesh/korean-official-see-strong-prospect-upgrading-bangladeshs-rmg-industry-1508766",
+      "pubDate": "Fri, 07 Aug 2026 11:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/30/rmg_2.jpg",
+      "snippet": "Korean companies possess extensive expertise in both yarn and fabric production, creating opportunities for joint ventures and technology partnerships"
+    },
+    {
+      "title": "Bangladesh scientist honored with Data User/Provider Award",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-scientist-honored-data-userprovider-award-1508756",
+      "pubDate": "Fri, 07 Aug 2026 11:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/image-412465-1786080423.jpg",
+      "snippet": "As a Research Fellow at UNU-INWEH, Kabir Uddin was recognised by the GFP Steering Committee for bridging state-of-the-art technological developments with direct interactions with local stakeholders."
+    },
+    {
+      "title": "9 killed as two buses collide head-on in Sylhet",
       "link": "https://www.tbsnews.net/bangladesh/8-killed-two-buses-collide-head-sylhet-1508731",
       "pubDate": "Fri, 07 Aug 2026 11:10:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/28/dead_2.png",
-      "snippet": "All the victims were passengers of a Unique bus, which plunged into a roadside ditch after the crash on the Sylhet–Dhaka highway."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/copy_of_10_top_performing_feature_items.jpeg",
+      "snippet": "The victims' identities could not be confirmed immediately."
+    },
+    {
+      "title": "CMSME loans shrink 5.15% in Q1 amid weak business demand ",
+      "link": "https://www.tbsnews.net/economy/banking/cmsme-loans-shrink-515-q1-amid-weak-business-demand-1508646",
+      "pubDate": "Fri, 07 Aug 2026 11:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/06/07/loans_0_0.jpg",
+      "snippet": "Bad loan ratio climbs to 26.04%"
     },
     {
       "title": "Polish buyer LPP denies payment liability; Bangladeshi exporters say they have proof",
@@ -34,17 +111,6 @@
       "snippet": "Authorities will prepare a list of key drug traffickers and syndicate leaders as part of a broader crackdown on narcotics, says Home Minister Salahuddin Ahmed."
     },
     {
-      "title": "CMSME loans shrink 5.15% in Q1 amid weak business demand ",
-      "link": "https://www.tbsnews.net/economy/banking/cmsme-loans-shrink-515-q1-amid-weak-business-demand-1508646",
-      "pubDate": "Fri, 07 Aug 2026 11:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/06/07/loans_0_0.jpg",
-      "snippet": "Bad loan ratio climbs to 26.04%"
-    },
-    {
       "title": "Meta ordered to pay $567 million in New Mexico for teen mental health fund",
       "link": "https://www.tbsnews.net/tech/meta-ordered-pay-567-million-new-mexico-teen-mental-health-fund-1508706",
       "pubDate": "Fri, 07 Aug 2026 10:40:00 +0600",
@@ -56,7 +122,7 @@
       "snippet": "US state court finds social media giant responsible for harming young users and mandates platform changes under a five-year decree."
     },
     {
-      "title": "6 dead, 15 injured after bus rams into roadside workers in Bogura",
+      "title": "7 dead, several injured as bus rams into workers in Bogura",
       "link": "https://www.tbsnews.net/bangladesh/6-dead-15-injured-after-bus-rams-roadside-workers-bogura-1508681",
       "pubDate": "Fri, 07 Aug 2026 10:30:00 +0600",
       "category": "Bangladesh",
@@ -188,17 +254,6 @@
       "snippet": "Cabinet committee also clears emergency purchases of LNG and LPG through direct procurement."
     },
     {
-      "title": "Fire at Pakistan envoy's residence in Dhaka; no casualties",
-      "link": "https://www.tbsnews.net/bangladesh/fire-breaks-out-pakistan-high-commissioners-residence-dhaka-1508546",
-      "pubDate": "Thu, 06 Aug 2026 21:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/06/18/imran_haider.jpg",
-      "snippet": "The envoy and his wife hospitalised after inhaling smoke; condition stable"
-    },
-    {
       "title": "Kazi Jesin appointed BTV director general on 1-year contract",
       "link": "https://www.tbsnews.net/bangladesh/kazi-jesin-appointed-btv-director-general-1-year-contract-1508551",
       "pubDate": "Thu, 06 Aug 2026 21:55:00 +0600",
@@ -210,26 +265,15 @@
       "snippet": "The appointment will take effect from the date of joining under the Bangladesh Television Authority Act, 2001."
     },
     {
-      "title": "Govt eyes nationwide health insurance for workers: Minister",
-      "link": "https://www.tbsnews.net/bangladesh/govt-eyes-nationwide-health-insurance-workers-minister-1508541",
-      "pubDate": "Thu, 06 Aug 2026 21:45:00 +0600",
+      "title": "Fire at Pakistan envoy's residence in Dhaka; no casualties",
+      "link": "https://www.tbsnews.net/bangladesh/fire-breaks-out-pakistan-high-commissioners-residence-dhaka-1508546",
+      "pubDate": "Thu, 06 Aug 2026 21:55:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/17/untitled_design_10.jpg",
-      "snippet": "The proposed expansion follows a new BKMEA–Guardian Life partnership that will provide life insurance, telemedicine services and healthcare benefits to knitwear workers, with the government now considering a similar model for workers nationwide."
-    },
-    {
-      "title": "Special parliament session to be held for presidential election: Chief whip",
-      "link": "https://www.tbsnews.net/bangladesh/special-parliament-session-be-held-presidential-election-chief-whip-1508526",
-      "pubDate": "Thu, 06 Aug 2026 21:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/15/screenshot_2026-03-15_112553.png",
-      "snippet": "The Election Commission has announced the schedule for the presidential election, with nomination papers to be submitted by 13 August."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/06/18/imran_haider.jpg",
+      "snippet": "The envoy and his wife hospitalised after inhaling smoke; condition stable"
     },
     {
       "title": "Late-hour sell-off drags DSE down, market cap sheds Tk2,534cr",
@@ -252,28 +296,6 @@
       "icon": "🏭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/28/s_alam_group.jpg",
       "snippet": "S Alam Cold Rolled Steels shares down 9.28% since shutdown"
-    },
-    {
-      "title": "ERD hosts high-level dialogue to boost climate finance for trillion-dollar Bangladesh",
-      "link": "https://www.tbsnews.net/bangladesh/environment/erd-hosts-high-level-dialogue-boost-climate-finance-trillion-dollar",
-      "pubDate": "Thu, 06 Aug 2026 21:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/06/04/climate_change_environment_pollution_deforestation.png",
-      "snippet": "The dialogue brings together policymakers, development partners and private-sector leaders to identify ways to strengthen Bangladesh's access to international climate funds and attract greater private investment for climate-resilient development."
-    },
-    {
-      "title": "Govt to expand fortified rice distribution to 300 upazilas, raise emergency reserve to 15 lakh tonnes",
-      "link": "https://www.tbsnews.net/bangladesh/govt-expand-fortified-rice-distribution-300-upazilas-raise-emergency-reserve-15-lakh",
-      "pubDate": "Thu, 06 Aug 2026 21:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/08/01/rice.jpg",
-      "snippet": "55 lakh families to get rice at Tk15 per kg."
     },
     {
       "title": "Beyond crime: How delayed justice weakens public trust",
@@ -485,6 +507,17 @@
       "snippet": "Bangladesh bets on STEAM to shape future innovators."
     },
     {
+      "title": "July 2024: When generations united on the streets",
+      "link": "https://www.tbsnews.net/thoughts/july-2024-when-generations-united-streets-1508786",
+      "pubDate": "Wed, 05 Aug 2026 12:20:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/08/05/july_uprising_day_.jpg",
+      "snippet": "The July uprising is remembered as a Gen Z revolt, yet its real force came from the generations standing behind them. From Baby Boomers lending moral authority to the children of Gen Alpha caught in the gunfire, this was a movement no single generati..."
+    },
+    {
       "title": "Dengue admissions top 500 daily, hospitals ready to open dedicated wards",
       "link": "https://www.tbsnews.net/bangladesh/health/dengue-admissions-top-500-daily-hospitals-ready-open-dedicated-wards-1507031",
       "pubDate": "Wed, 05 Aug 2026 10:00:00 +0600",
@@ -648,40 +681,7 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/06/whatsapp_image_2022-11-06_at_11.47.22_am.jpeg",
       "snippet": "Postponed tests will resume on 20 August with English second paper."
-    },
-    {
-      "title": "Invest in Bangladesh to access 300-crore regional market, Bobby Hajjaj tells Japanese investors",
-      "link": "https://www.tbsnews.net/worldbiz/asia/invest-bangladesh-access-300-crore-regional-market-bobby-hajjaj-tells-japanese",
-      "pubDate": "Tue, 04 Aug 2026 12:45:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/bobby_hajjaj.jpg",
-      "snippet": "Speaking at the Bangladesh Investment Promotion Seminar in Japan, he said Bangladesh's position at the crossroads of South Asia and ASEAN creates significant opportunities for Japanese investors"
-    },
-    {
-      "title": "US firms step up efforts to reduce China dependence on critical minerals",
-      "link": "https://www.tbsnews.net/tech/us-firms-step-efforts-reduce-china-dependence-critical-minerals-1506101",
-      "pubDate": "Tue, 04 Aug 2026 12:15:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/us_firms.jpg",
-      "snippet": "The company recently received a $500 million Pentagon loan to expand its operations."
-    },
-    {
-      "title": "BGMEA denies reports of DBL, other factory closures over energy crisis",
-      "link": "https://www.tbsnews.net/economy/bgmea-refutes-report-factory-closure-over-gas-power-crisis-1506066",
-      "pubDate": "Tue, 04 Aug 2026 11:55:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/01/bgmea_bss_img.jpg",
-      "snippet": "BGMEA said production remains operational despite energy shortages, warning that unverified reports could erode buyers' confidence and hurt the industry's global reputation."
     }
   ],
-  "updatedAt": "2026-08-07T05:16:46.491Z"
+  "updatedAt": "2026-08-07T06:46:11.073Z"
 }
