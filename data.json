@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "11 troubled banks to face asset quality test by int’l firms from January",
+      "link": "https://www.tbsnews.net/economy/banking/11-troubled-banks-face-asset-quality-test-intl-firms-january-1508636",
+      "pubDate": "Fri, 07 Aug 2026 07:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/09/09/collage-dollar.jpg",
+      "snippet": "Bangladesh Bank invites expressions of interest"
+    },
+    {
       "title": "US soybean looks beyond traditional markets as Bangladesh emerges as key importer",
       "link": "https://www.tbsnews.net/bangladesh/us-soybean-looks-beyond-traditional-markets-bangladesh-emerges-key-importer-1508626",
       "pubDate": "Fri, 07 Aug 2026 01:25:00 +0600",
@@ -56,17 +67,6 @@
       "snippet": "The governor said nearly 20 million depositors had been affected by various irregularities during the tenure of the previous government."
     },
     {
-      "title": "Hasina's Delhi remarks reflect India's 'disrespect' for Bangladesh's sovereignty: NCP",
-      "link": "https://www.tbsnews.net/bangladesh/politics/hasinas-delhi-remarks-reflect-indias-disrespect-bangladeshs-sovereignty-ncp",
-      "pubDate": "Thu, 06 Aug 2026 22:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/06/ncp_press_confer.jpg",
-      "snippet": "The party says allowing Hasina to speak from India on the anniversary of the July Uprising disregards Bangladesh’s judicial process and people’s demand for justice."
-    },
-    {
       "title": "Govt gives nod to direct purchase of 8 LNG cargoes, 200 electric buses",
       "link": "https://www.tbsnews.net/bangladesh/govt-procure-200-electric-buses-brtc-bypassing-tender-process-1508561",
       "pubDate": "Thu, 06 Aug 2026 22:00:00 +0600",
@@ -76,6 +76,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/28/lng.jpg",
       "snippet": "Cabinet committee also clears emergency purchases of LNG and LPG through direct procurement."
+    },
+    {
+      "title": "Hasina's Delhi remarks reflect India's 'disrespect' for Bangladesh's sovereignty: NCP",
+      "link": "https://www.tbsnews.net/bangladesh/politics/hasinas-delhi-remarks-reflect-indias-disrespect-bangladeshs-sovereignty-ncp",
+      "pubDate": "Thu, 06 Aug 2026 22:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/06/ncp_press_confer.jpg",
+      "snippet": "The party says allowing Hasina to speak from India on the anniversary of the July Uprising disregards Bangladesh’s judicial process and people’s demand for justice."
     },
     {
       "title": "Fire at Pakistan envoy's residence in Dhaka; no casualties",
@@ -252,17 +263,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/06/hafizur_tonu_murder.jpg",
       "snippet": "He was released from Cumilla Central Jail on the evening of 4 August following the bail order."
-    },
-    {
-      "title": "Awami League is not our enemy, but an ally: MP Nasir",
-      "link": "https://www.tbsnews.net/bangladesh/politics/awami-league-not-our-enemy-ally-mp-nasir-1508381",
-      "pubDate": "Thu, 06 Aug 2026 19:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/06/c1d3e510-7e8e-420a-8f00-44fef6713e4b.jpg",
-      "snippet": "The Sunamganj-2 lawmaker says the two parties fought together and may reunite soon."
     },
     {
       "title": "Govt restores lottery for Class 1 admissions from 2027; SSC results on 10 Aug",
@@ -692,18 +692,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/ldc_feature.jpg",
       "snippet": "The roadmap was approved at the inaugural meeting of the National Graduation Monitoring and Coordination Committee, chaired by the finance minister on 29 July."
-    },
-    {
-      "title": "Banks push deposit returns further below inflation",
-      "link": "https://www.tbsnews.net/economy/banking/banks-push-deposit-returns-further-below-inflation-1505961",
-      "pubDate": "Tue, 04 Aug 2026 07:25:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/deposite.png",
-      "snippet": "The rate adjustments follow broader policy shifts, including Bangladesh Bank’s recent decision to cut the policy rate from 10% to 9.50% after nearly two years and enforce interest rate spread caps"
     }
   ],
-  "updatedAt": "2026-08-07T00:24:18.274Z"
+  "updatedAt": "2026-08-07T03:28:17.497Z"
 }
