@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "S Alam says banking restrictions forced closure of 11 Ctg factories",
+      "link": "https://www.tbsnews.net/economy/banking/s-alam-says-banking-restrictions-forced-closure-11-ctg-factories-1508816",
+      "pubDate": "Fri, 07 Aug 2026 13:45:00 +0600",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/img_8944.jpeg",
+      "snippet": "The group said it had continued paying salaries and allowances to employees for several months despite production remaining suspended, hoping that the government and banks would resolve the crisis."
+    },
+    {
+      "title": "16 die, dozens injured in separate bus crashes in Sylhet, Bogura",
+      "link": "https://www.tbsnews.net/bangladesh/16-die-separate-bus-accidents-sylhet-bogura-1508806",
+      "pubDate": "Fri, 07 Aug 2026 13:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/untitled_design_1.png",
+      "snippet": "The identities of the deceased in both accidents could not be confirmed immediately."
+    },
+    {
+      "title": "Green chilli prices fall to Tk280-320, but no relief in essentials market",
+      "link": "https://www.tbsnews.net/economy/bazaar/green-chilli-prices-fall-tk280-320-no-relief-essentials-market-1508811",
+      "pubDate": "Fri, 07 Aug 2026 13:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/copy_of_10_top_performing_feature_items_0.jpeg",
+      "snippet": "The price has dropped by Tk80-120 per kg this week amid reports of imports."
+    },
+    {
       "title": "Train derailment cuts Dhaka-Mymensingh rail link",
       "link": "https://www.tbsnews.net/bangladesh/train-derailment-cuts-dhaka-mymensingh-rail-link-1508796",
       "pubDate": "Fri, 07 Aug 2026 12:25:00 +0600",
@@ -78,17 +111,6 @@
       "snippet": "The victims' identities could not be confirmed immediately."
     },
     {
-      "title": "CMSME loans shrink 5.15% in Q1 amid weak business demand ",
-      "link": "https://www.tbsnews.net/economy/banking/cmsme-loans-shrink-515-q1-amid-weak-business-demand-1508646",
-      "pubDate": "Fri, 07 Aug 2026 11:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/06/07/loans_0_0.jpg",
-      "snippet": "Bad loan ratio climbs to 26.04%"
-    },
-    {
       "title": "Polish buyer LPP denies payment liability; Bangladeshi exporters say they have proof",
       "link": "https://www.tbsnews.net/economy/rmg/polish-buyer-lpp-denies-payment-liability-bangladeshi-exporters-say-they-have-proof",
       "pubDate": "Fri, 07 Aug 2026 11:00:00 +0600",
@@ -109,6 +131,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/20260806_223428.jpg",
       "snippet": "Authorities will prepare a list of key drug traffickers and syndicate leaders as part of a broader crackdown on narcotics, says Home Minister Salahuddin Ahmed."
+    },
+    {
+      "title": "CMSME loans shrink 5.15% in Q1 amid weak business demand ",
+      "link": "https://www.tbsnews.net/economy/banking/cmsme-loans-shrink-515-q1-amid-weak-business-demand-1508646",
+      "pubDate": "Fri, 07 Aug 2026 11:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/06/07/loans_0_0.jpg",
+      "snippet": "Bad loan ratio climbs to 26.04%"
     },
     {
       "title": "Meta ordered to pay $567 million in New Mexico for teen mental health fund",
@@ -252,28 +285,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/28/lng.jpg",
       "snippet": "Cabinet committee also clears emergency purchases of LNG and LPG through direct procurement."
-    },
-    {
-      "title": "Kazi Jesin appointed BTV director general on 1-year contract",
-      "link": "https://www.tbsnews.net/bangladesh/kazi-jesin-appointed-btv-director-general-1-year-contract-1508551",
-      "pubDate": "Thu, 06 Aug 2026 21:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/06/kazi_jesin.jpg",
-      "snippet": "The appointment will take effect from the date of joining under the Bangladesh Television Authority Act, 2001."
-    },
-    {
-      "title": "Fire at Pakistan envoy's residence in Dhaka; no casualties",
-      "link": "https://www.tbsnews.net/bangladesh/fire-breaks-out-pakistan-high-commissioners-residence-dhaka-1508546",
-      "pubDate": "Thu, 06 Aug 2026 21:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/06/18/imran_haider.jpg",
-      "snippet": "The envoy and his wife hospitalised after inhaling smoke; condition stable"
     },
     {
       "title": "Late-hour sell-off drags DSE down, market cap sheds Tk2,534cr",
@@ -683,5 +694,5 @@
       "snippet": "Postponed tests will resume on 20 August with English second paper."
     }
   ],
-  "updatedAt": "2026-08-07T06:46:11.073Z"
+  "updatedAt": "2026-08-07T08:14:07.774Z"
 }
