@@ -1,6 +1,61 @@
 {
   "news": [
     {
+      "title": "Garment factory in Ashulia lays off 565 workers, cites business downturn",
+      "link": "https://www.tbsnews.net/bangladesh/garment-factory-ashulia-lays-565-workers-cites-business-downturn-1509001",
+      "pubDate": "Fri, 07 Aug 2026 18:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/11/07/rmg_tusuka_3435.jpg",
+      "snippet": "Factory cites a prolonged business downturn and shortage of work as reasons for the retrenchment; union demands immediate reinstatement of the workers."
+    },
+    {
+      "title": "RAB arrests prime accused in Cox's Bazar parasailing death case from Dhaka's Mirpur",
+      "link": "https://www.tbsnews.net/bangladesh/rab-arrests-prime-accused-coxs-bazar-parasailing-death-case-dhakas-mirpur-1508996",
+      "pubDate": "Fri, 07 Aug 2026 18:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/12/23/arrest-tbs.jpg",
+      "snippet": "The accused, Md Farid, 45, was arrested last night (6 August) from the capital’s Mirpur area during a joint raid by RAB-15 and RAB-4."
+    },
+    {
+      "title": "Biman's Toronto-Dhaka flight stranded in Italy for over 7 hours after technical fault",
+      "link": "https://www.tbsnews.net/economy/aviation/bimans-toronto-dhaka-flight-stranded-italy-over-7-hours-after-technical-fault",
+      "pubDate": "Fri, 07 Aug 2026 18:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/09/28/biman1.jpg",
+      "snippet": "Around 260 passengers remain onboard as aircraft undergoes repairs; travellers urge immediate intervention"
+    },
+    {
+      "title": "India does not endorse Hasina's remarks on Bangladesh govt: Jaiswal",
+      "link": "https://www.tbsnews.net/foreign-policy/india-does-not-endorse-hasinas-remarks-bd-govt-jaiswal-1508971",
+      "pubDate": "Fri, 07 Aug 2026 17:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/randhir_jaiswal.jpg",
+      "snippet": "Delhi says it had no role in organising Hasina’s virtual event"
+    },
+    {
+      "title": "AL should not be allowed back into politics just to boost political numbers: Shafiqur",
+      "link": "https://www.tbsnews.net/bangladesh/al-should-not-be-allowed-back-politics-just-boost-political-numbers-shafiqur-1508976",
+      "pubDate": "Fri, 07 Aug 2026 17:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/jamaat_ameer_1.jpg",
+      "snippet": "The Jamaat ameer alleged that the Awami League had shown no regret over killings, enforced disappearances and violence committed during its time in power."
+    },
+    {
       "title": "Misinformation biggest challenge facing journalism now: Swapon",
       "link": "https://www.tbsnews.net/bangladesh/misinformation-biggest-challenge-facing-journalism-now-swapon-1508931",
       "pubDate": "Fri, 07 Aug 2026 17:15:00 +0600",
@@ -254,48 +309,26 @@
       "snippet": "As a Research Fellow at UNU-INWEH, Kabir Uddin was recognised by the GFP Steering Committee for bridging state-of-the-art technological developments with direct interactions with local stakeholders."
     },
     {
-      "title": "9 killed as two buses collide head-on in Sylhet",
-      "link": "https://www.tbsnews.net/bangladesh/8-killed-two-buses-collide-head-sylhet-1508731",
-      "pubDate": "Fri, 07 Aug 2026 11:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/copy_of_10_top_performing_feature_items.jpeg",
-      "snippet": "The victims' identities could not be confirmed immediately."
+      "title": "Polish buyer LPP denies payment liability; Bangladeshi exporters say they have proof",
+      "link": "https://www.tbsnews.net/economy/rmg/polish-buyer-lpp-denies-payment-liability-bangladeshi-exporters-say-they-have-proof",
+      "pubDate": "Fri, 07 Aug 2026 11:00:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/02/lpp_sa.jpg",
+      "snippet": "According to Bangladeshi exporters, LPP sources more than $700 million worth of garments from Bangladesh each year."
     },
     {
       "title": "CMSME loans shrink 5.15% in Q1 amid weak business demand ",
       "link": "https://www.tbsnews.net/economy/banking/cmsme-loans-shrink-515-q1-amid-weak-business-demand-1508646",
       "pubDate": "Fri, 07 Aug 2026 11:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/06/07/loans_0_0.jpg",
       "snippet": "Bad loan ratio climbs to 26.04%"
-    },
-    {
-      "title": "Polish buyer LPP denies payment liability; Bangladeshi exporters say they have proof",
-      "link": "https://www.tbsnews.net/economy/rmg/polish-buyer-lpp-denies-payment-liability-bangladeshi-exporters-say-they-have-proof",
-      "pubDate": "Fri, 07 Aug 2026 11:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/02/lpp_sa.jpg",
-      "snippet": "According to Bangladeshi exporters, LPP sources more than $700 million worth of garments from Bangladesh each year."
-    },
-    {
-      "title": "2 army camps to be set up in Cox's Bazar hills to curb abductions: Home minister",
-      "link": "https://www.tbsnews.net/bangladesh/law-order/2-army-camps-be-set-coxs-bazar-hills-curb-abductions-home-minister-1508721",
-      "pubDate": "Fri, 07 Aug 2026 11:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/20260806_223428.jpg",
-      "snippet": "Authorities will prepare a list of key drug traffickers and syndicate leaders as part of a broader crackdown on narcotics, says Home Minister Salahuddin Ahmed."
     },
     {
       "title": "Meta ordered to pay $567 million in New Mexico for teen mental health fund",
@@ -307,17 +340,6 @@
       "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/02/04/meta.jpg",
       "snippet": "US state court finds social media giant responsible for harming young users and mandates platform changes under a five-year decree."
-    },
-    {
-      "title": "7 dead, several injured as bus rams into workers in Bogura",
-      "link": "https://www.tbsnews.net/bangladesh/6-dead-15-injured-after-bus-rams-roadside-workers-bogura-1508681",
-      "pubDate": "Fri, 07 Aug 2026 10:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/img_8928_0.jpeg",
-      "snippet": "The bus lost control and struck a group of paddy harvest workers waiting for work, while residents blocked the highway demanding speed breakers."
     },
     {
       "title": "US scrutinises more schools over admissions practices, diversity and pro-Palestinian protests",
@@ -703,51 +725,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/bb_sonali.png",
       "snippet": "According to sources, Sonali Bank had formally requested Bangladesh Bank to withdraw the restrictions to boost credit flow to the private sector and better cater to major corporate clients."
-    },
-    {
-      "title": "Preventable deaths, preventable failures: Learning from Ruma’s measles outbreak",
-      "link": "https://www.tbsnews.net/thoughts/preventable-deaths-preventable-failures-learning-rumas-measles-outbreak-1506586",
-      "pubDate": "Tue, 04 Aug 2026 18:15:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/khumi_children_1.jpg",
-      "snippet": "The measles outbreak in Bandarban’s remote Ruma upazila is more than a local health emergency. The deaths of at least seven Indigenous children have exposed how gaps in immunisation, surveillance, emergency referral systems, and culturally responsive..."
-    },
-    {
-      "title": "Defining care: An opportunity to strengthen Bangladesh’s childcare framework",
-      "link": "https://www.tbsnews.net/thoughts/defining-care-opportunity-strengthen-bangladeshs-childcare-framework-1506561",
-      "pubDate": "Tue, 04 Aug 2026 18:10:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/baby_0.png",
-      "snippet": "Bangladesh has childcare laws and policy roadmaps, but still lacks a clear legal definition of childcare itself—an omission that could be limiting women's employment, data-driven policymaking, and support for informal care provider"
-    },
-    {
-      "title": "Stock exchanges closed tomorrow for July Mass Uprising Day",
-      "link": "https://www.tbsnews.net/economy/stocks/july-mass-uprising-day-dse-cse-closed-tomorrow-1506556",
-      "pubDate": "Tue, 04 Aug 2026 18:05:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/26/dse_cse.jpg",
-      "snippet": "Regular trading and office hours are scheduled to resume at their usual timings on Thursday (6 August)."
-    },
-    {
-      "title": "Commercial banks yet to reach expected cybersecurity level: BB governor",
-      "link": "https://www.tbsnews.net/economy/banking/commercial-banks-yet-reach-expected-cybersecurity-level-bb-governor-1506546",
-      "pubDate": "Tue, 04 Aug 2026 18:00:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/25/mostaqur_rahman.png",
-      "snippet": "The central bank launches two new cybersecurity systems as its governor says commercial banks are still short of the expected level of cyber preparedness."
     }
   ],
-  "updatedAt": "2026-08-07T11:44:57.506Z"
+  "updatedAt": "2026-08-07T13:02:43.832Z"
 }
