@@ -1,15 +1,81 @@
 {
   "news": [
     {
-      "title": "Shakib says ready to return home and face trial if given security",
+      "title": "Govt working to curb syndicates exploiting students looking to study abroad: Shama Obaed",
+      "link": "https://www.tbsnews.net/bangladesh/education/govt-working-curb-syndicates-exploiting-students-looking-study-abroad-shama",
+      "pubDate": "Fri, 07 Aug 2026 21:40:00 +0600",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/19/shama_obaed.jpg",
+      "snippet": "This year, the fair brought together representatives from 30 countries to provide consultancy services for around 300 world-class educational institutions around the world."
+    },
+    {
+      "title": "Ctg's Jalil Mills workers demand dues before its handover to army",
+      "link": "https://www.tbsnews.net/economy/industry/ctgs-jalil-mills-workers-demand-dues-its-handover-army-1509091",
+      "pubDate": "Fri, 07 Aug 2026 21:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/jalil_mill_ctg_protest.jpg",
+      "snippet": "Tk20.57cr remains outstanding of 1, 073 workers."
+    },
+    {
+      "title": "Govt working relentlessly to materialize electoral pledges: Millat",
+      "link": "https://www.tbsnews.net/bangladesh/govt-working-relentlessly-materialize-electoral-pledges-millat-1509086",
+      "pubDate": "Fri, 07 Aug 2026 21:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/state-minister-for-civil-aviation-and-tourism-m-rashiduzzaman-millat-spoke-at-a-meeting-held-in-the-new-building-of-the-bakshiganj-upazila-parishad-auditorium-in-bakshiganj-jamalpur.jpg",
+      "snippet": "The state minister highlights social security and education initiatives"
+    },
+    {
+      "title": "Dhaka journo 'assaulted' by police after taking video of woman's alleged harassment",
+      "link": "https://www.tbsnews.net/bangladesh/dhaka-journo-assaulted-police-after-taking-video-womans-alleged-harassment-1509081",
+      "pubDate": "Fri, 07 Aug 2026 21:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/journalist_bulbul.jpg",
+      "snippet": "Bulbul Hosain, a mobile journalist with private television channel Global TV, submitted a written complaint to the Dhaka Metropolitan Police commissioner yesterday."
+    },
+    {
+      "title": "Bangladesh Bank governor urges revival of 200 shuttered Chattogram industries",
+      "link": "https://www.tbsnews.net/economy/industry/bb-governor-urges-revival-200-closed-struggling-industries-ctg-boost-jobs-1509076",
+      "pubDate": "Fri, 07 Aug 2026 21:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/bb_govnor_meeting.jpg",
+      "snippet": "A concept paper says reviving the industries could generate around 10 lakh jobs while helping address non-performing loans, but highlights key barriers as well."
+    },
+    {
+      "title": "As cities grow, local administrations struggle to manage mountains of waste",
+      "link": "https://www.tbsnews.net/features/panorama/cities-grow-local-administrations-struggle-manage-mountains-waste-1509071",
+      "pubDate": "Fri, 07 Aug 2026 20:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/waste.jpg",
+      "snippet": "From Sylhet to Cumilla, Bogura to Barishal, cities across Bangladesh are drowning in their own waste — and the people living beside the dumping grounds are paying the price"
+    },
+    {
+      "title": "Shakib says ready to return home; no way back now, responds Aminul",
       "link": "https://www.tbsnews.net/bangladesh/shakib-says-ready-return-home-and-face-trial-if-given-security-1509061",
       "pubDate": "Fri, 07 Aug 2026 20:05:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/21/shakib_arrest.gif",
-      "snippet": "The former captain says he is willing to face trial over murder charges and hopes to play a farewell series at home if assured of his security."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/aminul-shakib-photo-collage.jpg",
+      "snippet": "Cricketer seeks security guarantee, while government insists he face courts"
     },
     {
       "title": "7 held over attempted AL torch procession in Banani; 3 jailed, 4 to juvenile centre",
@@ -188,39 +254,6 @@
       "snippet": "With the latest update, the number of suspected measles deaths rose to 767, while the number of laboratory-confirmed measles deaths remained 96."
     },
     {
-      "title": "AL trying to create instability in Bangladesh, but people will never accept it: Home minister",
-      "link": "https://www.tbsnews.net/bangladesh/al-trying-create-instability-bangladesh-people-will-never-accept-it-home-minister-1508891",
-      "pubDate": "Fri, 07 Aug 2026 16:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/home_minister_coxs_bazar.jpeg",
-      "snippet": "Cox's Bazar possesses enormous untapped potential beyond tourism, including marine resources, the deep-sea port and other natural assets, which can generate substantial revenue if properly utilised, he says."
-    },
-    {
-      "title": "6 months of feasting, now you seem intent on eating up the party: BNP MP to local leaders, activists",
-      "link": "https://www.tbsnews.net/bangladesh/6-months-feasting-now-you-seem-intent-eating-party-bnp-mp-local-leaders-activists-1508866",
-      "pubDate": "Fri, 07 Aug 2026 15:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/rafiqul_islam_jamal.jpg",
-      "snippet": "The lawmaker claimed that local BNP units are compromising political integrity by admitting Awami League members into the party fold in exchange for cash."
-    },
-    {
-      "title": "Chattogram steps up preparations for PM Tarique's 9 Aug visit",
-      "link": "https://www.tbsnews.net/bangladesh/chattogram-steps-preparations-pm-tariques-9-aug-visit-1508876",
-      "pubDate": "Fri, 07 Aug 2026 15:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/1000283400.jpg",
-      "snippet": "The Chattogram City Corporation (CCC) evicted around 50 illegal shops and food carts occupying footpaths on both sides of SS Khaled Road between Kazir Dewri and Lalkhan Bazar."
-    },
-    {
       "title": "A guide to Dhaka’s best rainy day food spots",
       "link": "https://www.tbsnews.net/thoughts/guide-dhakas-best-rainy-day-food-spots-1508851",
       "pubDate": "Fri, 07 Aug 2026 14:40:00 +0600",
@@ -265,17 +298,6 @@
       "snippet": "How long something lasts is no longer enough. The harder questions are how well it adapts, how responsibly it uses resources, and what value it leaves behind for future generations"
     },
     {
-      "title": "Bangladesh seeks to unlock global climate finance through literacy, investment-ready projects",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-seeks-unlock-global-climate-finance-through-literacy-investment-ready-projects",
-      "pubDate": "Fri, 07 Aug 2026 14:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/9064745-ezgif.com-webp-to-jpg-converter.jpg",
-      "snippet": "Participants, including senior policymakers, international development partners, financial institutions, private sector representatives, academics, and civil society leaders, stressed that improving climate literacy across public institutions, financ..."
-    },
-    {
       "title": "Investment follows confidence, not incentives",
       "link": "https://www.tbsnews.net/thoughts/investment-follows-confidence-not-incentives-1508821",
       "pubDate": "Fri, 07 Aug 2026 14:00:00 +0600",
@@ -296,17 +318,6 @@
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/img_8944.jpeg",
       "snippet": "The group said it had continued paying salaries and allowances to employees for several months despite production remaining suspended, hoping that the government and banks would resolve the crisis."
-    },
-    {
-      "title": "16 die, dozens injured in separate bus crashes in Sylhet, Bogura",
-      "link": "https://www.tbsnews.net/bangladesh/16-die-separate-bus-accidents-sylhet-bogura-1508806",
-      "pubDate": "Fri, 07 Aug 2026 13:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/untitled_design_1.png",
-      "snippet": "In Sylhet, two passenger buses collided head-on in Osmaninagar, while in Bogura, a passenger bus lost control and crashed into an electric pole in the Bogura–Naogaon regional highway."
     },
     {
       "title": "AI designs fully functional viruses for first time, raising safety concerns",
@@ -716,5 +727,5 @@
       "snippet": "BGMEA requests Buyers Forum to allow shipment delay of 1-2 weeks if necessary."
     }
   ],
-  "updatedAt": "2026-08-07T14:32:02.541Z"
+  "updatedAt": "2026-08-07T15:55:38.276Z"
 }
