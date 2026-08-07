@@ -1,6 +1,50 @@
 {
   "news": [
     {
+      "title": "Misinformation biggest challenge facing journalism now: Swapon",
+      "link": "https://www.tbsnews.net/bangladesh/misinformation-biggest-challenge-facing-journalism-now-swapon-1508931",
+      "pubDate": "Fri, 07 Aug 2026 17:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/swapan.png",
+      "snippet": "Swapon said sustainable democracy and a free, responsible media are complementary to each other."
+    },
+    {
+      "title": "Crude bomb thrown at ex-education minister Nowfel's Ctg residence",
+      "link": "https://www.tbsnews.net/bangladesh/crude-bomb-thrown-ex-education-minister-nowfels-ctg-residence-1508926",
+      "pubDate": "Fri, 07 Aug 2026 17:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/15/crude_bomb.png",
+      "snippet": "The incident occurred around 2am, after which additional police personnel were deployed in the area."
+    },
+    {
+      "title": "Govt needs time to deliver, media should point out mistakes responsibly: Fakhrul",
+      "link": "https://www.tbsnews.net/bangladesh/politics/govt-needs-time-deliver-media-should-point-out-mistakes-responsibly-fakhrul",
+      "pubDate": "Fri, 07 Aug 2026 16:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/fakrul_0.png",
+      "snippet": "He also expressed concern over the growing influence of social media, saying it has become “even more dangerous.”"
+    },
+    {
+      "title": "Barguna AC Land sued over 'fake' DO letter issued in deputy speaker's name",
+      "link": "https://www.tbsnews.net/bangladesh/barguna-ac-land-sued-over-alleged-fake-do-letter-issued-deputy-speakers-name-1508916",
+      "pubDate": "Fri, 07 Aug 2026 16:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/case_filed.jpg",
+      "snippet": "The case statement alleges that the forged letter was used to attempt to influence the officer’s transfer and posting."
+    },
+    {
       "title": "Measles outbreak: Death toll reaches 863 as 3 more die in 24 hours",
       "link": "https://www.tbsnews.net/bangladesh/health/measles-outbreak-death-toll-reaches-863-3-more-die-24-hours-1508896",
       "pubDate": "Fri, 07 Aug 2026 16:30:00 +0600",
@@ -276,17 +320,6 @@
       "snippet": "The bus lost control and struck a group of paddy harvest workers waiting for work, while residents blocked the highway demanding speed breakers."
     },
     {
-      "title": "Coast Guard provides free healthcare to 470 people in Patuakhali",
-      "link": "https://www.tbsnews.net/bangladesh/coast-guard-provides-free-healthcare-470-people-patuakhali-1508676",
-      "pubDate": "Fri, 07 Aug 2026 10:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/image_16x9.png",
-      "snippet": ""
-    },
-    {
       "title": "US scrutinises more schools over admissions practices, diversity and pro-Palestinian protests",
       "link": "https://www.tbsnews.net/worldbiz/usa/us-scrutinises-more-schools-over-admissions-practices-diversity-and-pro-palestinian",
       "pubDate": "Fri, 07 Aug 2026 09:55:00 +0600",
@@ -298,37 +331,15 @@
       "snippet": "The DOJ alleges racial bias in Duke Law admissions while the Department of Education investigates California universities following antisemitism complaints."
     },
     {
-      "title": "Selling nostalgia: Bangali heritage finds new life in Chattogram cafés, shops ",
-      "link": "https://www.tbsnews.net/features/selling-nostalgia-bangali-heritage-finds-new-life-chattogram-cafes-shops-1508641",
-      "pubDate": "Fri, 07 Aug 2026 09:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/tbs_9.png",
-      "snippet": "Young crowds, student jobs and small entrepreneurs drive the trend"
-    },
-    {
       "title": "11 troubled banks to face asset quality test by int’l firms from January",
       "link": "https://www.tbsnews.net/economy/banking/11-troubled-banks-face-asset-quality-test-intl-firms-january-1508636",
       "pubDate": "Fri, 07 Aug 2026 07:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/09/09/collage-dollar.jpg",
       "snippet": "Bangladesh Bank invites expressions of interest"
-    },
-    {
-      "title": "US soybean looks beyond traditional markets as Bangladesh emerges as key importer",
-      "link": "https://www.tbsnews.net/bangladesh/us-soybean-looks-beyond-traditional-markets-bangladesh-emerges-key-importer-1508626",
-      "pubDate": "Fri, 07 Aug 2026 01:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/10/soybeans.jpg",
-      "snippet": "More than 850 participants, including about 400 international buyers from 67 countries, are expected to attend the two-day conference beginning on Thursday."
     },
     {
       "title": "Parliamentary body urges transparency in industries budget execution",
@@ -736,29 +747,7 @@
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/25/mostaqur_rahman.png",
       "snippet": "The central bank launches two new cybersecurity systems as its governor says commercial banks are still short of the expected level of cyber preparedness."
-    },
-    {
-      "title": "BGMEA, BTMA join hands to achieve $100b apparel export target",
-      "link": "https://www.tbsnews.net/economy/industry/bgmea-btma-join-hands-achieve-100bn-apparel-export-target-1506491",
-      "pubDate": "Tue, 04 Aug 2026 17:30:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/bgmea-and-btma_1.jpg",
-      "snippet": "The two trade bodies will jointly organise a textile and apparel machinery exhibition"
-    },
-    {
-      "title": "Ctg Board publishes revised schedule for postponed HSC exams",
-      "link": "https://www.tbsnews.net/bangladesh/education/ctg-board-publishes-revised-schedule-postponed-hsc-exams-1506466",
-      "pubDate": "Tue, 04 Aug 2026 17:25:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/06/whatsapp_image_2022-11-06_at_11.47.22_am.jpeg",
-      "snippet": "Postponed tests will resume on 20 August with English second paper."
     }
   ],
-  "updatedAt": "2026-08-07T10:52:09.839Z"
+  "updatedAt": "2026-08-07T11:44:57.506Z"
 }
