@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Jamaat to contest upcoming presidential election",
+      "link": "https://www.tbsnews.net/bangladesh/politics/jamaat-contest-upcoming-presidential-election-1509956",
+      "pubDate": "Sat, 08 Aug 2026 23:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/jamaat-e-islami_holds_meeting.jpg",
+      "snippet": "Eleven-party alliance to finalise opposition nominee on Sunday"
+    },
+    {
       "title": "July fighters risked lives to 'free Bangladesh again': Housing minister",
       "link": "https://www.tbsnews.net/bangladesh/july-fighters-risked-lives-free-bangladesh-again-housing-minister-1509941",
       "pubDate": "Sat, 08 Aug 2026 22:00:00 +0600",
@@ -210,17 +221,6 @@
       "snippet": "History has a way of stripping away masks. Few contradictions are as glaring as a state preaching human rights to the world while its own security apparatus inflicts brutal violence on populations under its control"
     },
     {
-      "title": "PM gifts vehicles to three July fighters for self-employment",
-      "link": "https://www.tbsnews.net/bangladesh/pm-gifts-vehicles-three-july-fighters-self-employment-1509666",
-      "pubDate": "Sat, 08 Aug 2026 18:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/pm_cng.jpg",
-      "snippet": "The vehicles are intended to help the three July uprising fighters earn a living and become self-employed."
-    },
-    {
       "title": "Vested quarter trying to create instability in country: Fakhrul",
       "link": "https://www.tbsnews.net/bangladesh/politics/vested-quarter-trying-create-instability-country-fakhrul-1509681",
       "pubDate": "Sat, 08 Aug 2026 18:05:00 +0600",
@@ -230,6 +230,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/4457942.jpg",
       "snippet": "Secretary General said they want to build a new Bangladesh based on growth, dignity and equality."
+    },
+    {
+      "title": "PM gifts vehicles to three July fighters for self-employment",
+      "link": "https://www.tbsnews.net/bangladesh/pm-gifts-vehicles-three-july-fighters-self-employment-1509666",
+      "pubDate": "Sat, 08 Aug 2026 18:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/pm_cng.jpg",
+      "snippet": "The vehicles are intended to help the three July uprising fighters earn a living and become self-employed."
     },
     {
       "title": "Transforming and restructuring the health sector to implement the BNP election manifesto",
@@ -263,17 +274,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/copy_of_10_top_performing_feature_items.jpeg",
       "snippet": "The committee has five working days to determine the cause of yesterday's head-on collision, with speeding and driver fatigue among the preliminary possibilities."
-    },
-    {
-      "title": "'BNP had to swim with hands and feet tied' over reform commission proposals: MP Selim",
-      "link": "https://www.tbsnews.net/bangladesh/politics/bnp-had-swim-hands-and-feet-tied-over-reform-commission-proposals-mp-selim",
-      "pubDate": "Sat, 08 Aug 2026 17:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/765175181_1725845498632951_8421974070466168809_n.jpg",
-      "snippet": "The Lakshmipur-1 lawmaker says unnecessary confusion was being created over the implementation of the July Charter and urged people to examine its contents before drawing conclusions."
     },
     {
       "title": "Govt plans 400-acre industrial park in Bogura: Commerce minister ",
@@ -727,5 +727,5 @@
       "snippet": "Social media platforms are designed to keep users hooked. Each notification, like, or comment releases a small amount of dopamine."
     }
   ],
-  "updatedAt": "2026-08-08T17:29:52.437Z"
+  "updatedAt": "2026-08-08T17:59:46.446Z"
 }
