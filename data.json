@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "CU Senate session held amid student protests; 24 AL-backed teacher representatives absent",
+      "link": "https://www.tbsnews.net/bangladesh/cu-senate-session-held-amid-student-protests-24-al-backed-teacher-representatives-absent",
+      "pubDate": "Sat, 08 Aug 2026 21:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/cu_senate.jpg",
+      "snippet": "Student organisations protested the Senate session, while 24 members of the Cucsu announced a boycott, demanding action against teachers accused of backing the Awami League during the July Mass Uprising."
+    },
+    {
+      "title": "PM to visit Matarbari deep-sea port in Cox’s Bazar, flood-hit areas in Ctg tomorrow",
+      "link": "https://www.tbsnews.net/bangladesh/pm-visit-matarbari-deep-sea-port-coxs-bazar-flood-hit-areas-ctg-tomorrow-1509881",
+      "pubDate": "Sat, 08 Aug 2026 20:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/12/pm_tarique_hajj_meeting.png",
+      "snippet": "Tarique Rahman will review development projects in Matarbari and oversee rehabilitation efforts for flood victims in Banshkhali and Fatikchhari."
+    },
+    {
       "title": "13-year-old pregnant after repeated 'rape' in Munshiganj; family demands justice",
       "link": "https://www.tbsnews.net/bangladesh/crime/13-year-old-pregnant-after-repeated-rape-munshiganj-family-demands-justice-1509866",
       "pubDate": "Sat, 08 Aug 2026 20:10:00 +0600",
@@ -34,7 +56,7 @@
       "snippet": "The country currently records around 1 crore digital transactions a month, but the central bank aims to raise this to 1 crore a day by the end of the current fiscal year - a nearly 30-fold increase in about 10 months."
     },
     {
-      "title": "'He never compromised on Bangladesh’s sovereignty': Fakhrul recalls Serajul Islam",
+      "title": "Serajul’s writings reflected his strong desire for democracy: Fakhrul",
       "link": "https://www.tbsnews.net/bangladesh/he-never-compromised-bangladeshs-sovereignty-fakhrul-recalls-serajul-islam-1509781",
       "pubDate": "Sat, 08 Aug 2026 19:10:00 +0600",
       "category": "Bangladesh",
@@ -42,7 +64,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/765228557_3597602830405447_1784574591888980066_n.jpg",
-      "snippet": "At the launch of a collection of the late diplomat’s writings, the local government minister described his former university friend as a fearless advocate for democracy who remained steadfast on Bangladesh’s sovereignty and national interests."
+      "snippet": "Recalling his personal relationship with the author, Fakhrul said they studied together at the Dhaka University and lived in the same hall, describing the late diplomat as a “very close friend”."
     },
     {
       "title": "Ctg Chamber seeks 90-day moratorium on gas, power bills, loan instalments",
@@ -155,17 +177,6 @@
       "snippet": "The time has come to implement the commitments made in the BNP election manifesto to establish a people-centred, accountable, decentralised and universally accessible health system"
     },
     {
-      "title": "30 injured in clash between rival groups in Brahmanbaria",
-      "link": "https://www.tbsnews.net/bangladesh/30-injured-clash-between-rival-groups-brahmanbaria-1509646",
-      "pubDate": "Sat, 08 Aug 2026 17:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/05/01/screenshot_2025-05-01_112000_0.png",
-      "snippet": "The clash, stemming from a longstanding dispute over local dominance and other issues, took place intermittently from around 10am to 2pm in Tiara village under Bitghar union."
-    },
-    {
       "title": "9 killed in Sylhet bus crash, 5-member probe committee formed",
       "link": "https://www.tbsnews.net/bangladesh/9-killed-sylhet-bus-crash-5-member-probe-committee-formed-1509656",
       "pubDate": "Sat, 08 Aug 2026 17:55:00 +0600",
@@ -175,6 +186,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/copy_of_10_top_performing_feature_items.jpeg",
       "snippet": "The committee has five working days to determine the cause of yesterday's head-on collision, with speeding and driver fatigue among the preliminary possibilities."
+    },
+    {
+      "title": "30 injured in clash between rival groups in Brahmanbaria",
+      "link": "https://www.tbsnews.net/bangladesh/30-injured-clash-between-rival-groups-brahmanbaria-1509646",
+      "pubDate": "Sat, 08 Aug 2026 17:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/05/01/screenshot_2025-05-01_112000_0.png",
+      "snippet": "The clash, stemming from a longstanding dispute over local dominance and other issues, took place intermittently from around 10am to 2pm in Tiara village under Bitghar union."
     },
     {
       "title": "'BNP had to swim with hands and feet tied' over reform commission proposals: MP Selim",
@@ -199,7 +221,7 @@
       "snippet": "Assuring that there would be no political discrimination in measures to prevent river erosion, Azad says the government stands beside people affected by erosion."
     },
     {
-      "title": "India can't seek friendship while allowing Hasina to make statements against Bangladesh: Salahuddin",
+      "title": "India can’t seek friendship while allowing Hasina to make statements against Bangladesh: Salahuddin",
       "link": "https://www.tbsnews.net/bangladesh/politics/india-cant-seek-friendship-while-allowing-hasina-make-statements-against",
       "pubDate": "Sat, 08 Aug 2026 16:45:00 +0600",
       "category": "Bangladesh",
@@ -207,7 +229,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/765817342_1597307482069057_1006635254241738180_n.jpg",
-      "snippet": "The home minister says Bangladesh will maintain ties with India based on mutual respect, sovereign equality and national interests."
+      "snippet": "Awami League’s fate to be decided by court, he says."
     },
     {
       "title": "Govt plans 400-acre industrial park in Bogura: Commerce minister ",
@@ -241,28 +263,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/haor_inspection.jpg",
       "snippet": "The government plans to construct deep reservoirs and large enclosures in haors and wetlands."
-    },
-    {
-      "title": "‘What we give the country matters most, not what we get,’ says PM",
-      "link": "https://www.tbsnews.net/bangladesh/what-we-give-country-matters-most-not-what-we-get-says-pm-1509556",
-      "pubDate": "Sat, 08 Aug 2026 15:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/pmo.jpg",
-      "snippet": "He recalled the sacrifices made by people from the 1971 Liberation War to the July 2024 uprising, saying their common aspiration was to build a better Bangladesh where people could live with greater dignity and security."
-    },
-    {
-      "title": "PM to open initiation of 3 SDG Villages on Monday",
-      "link": "https://www.tbsnews.net/bangladesh/pm-open-initiation-3-sdg-villages-monday-1509526",
-      "pubDate": "Sat, 08 Aug 2026 15:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/20/pm_tarique_rahman.png",
-      "snippet": "Pankhali Union Parishad Chairman Sheikh Sabbir Ahmed welcomed the government initiative, saying the declaration would help improve the socio-economic condition of the coastal village and create new employment opportunities."
     },
     {
       "title": "More men affected, but women make up two-thirds of dengue deaths",
@@ -705,5 +705,5 @@
       "snippet": "Gas shortages and low workloads, combined with ‘bridge holidays’, prompted extended factory closures."
     }
   ],
-  "updatedAt": "2026-08-08T14:31:50.521Z"
+  "updatedAt": "2026-08-08T15:29:10.954Z"
 }
