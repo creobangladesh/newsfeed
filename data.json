@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Ministry gives BPC 4 days to privatise fuel import – experts question haste",
+      "link": "https://www.tbsnews.net/bangladesh/energy/ministry-gives-bpc-4-days-privatise-fuel-import-experts-question-haste-1509216",
+      "pubDate": "Sat, 08 Aug 2026 09:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/08/27/fuel.jpg",
+      "snippet": "The directive has drawn criticism from energy experts, who argue that such a significant reform requires extensive consultation, technical studies and careful assessment of its implications for energy security and market regulation."
+    },
+    {
       "title": "Individual investment in T-bills, bonds declines despite surge in financial institution holdings",
       "link": "https://www.tbsnews.net/economy/individual-investment-t-bills-bonds-declines-despite-surge-financial-institution-holdings",
       "pubDate": "Sat, 08 Aug 2026 08:30:00 +0600",
@@ -219,17 +230,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/28/1a100ef7-3cb0-4195-bd40-300e0e8e87d2.jpg",
       "snippet": "Authorities say fabricated posts could undermine law and order"
-    },
-    {
-      "title": "Shipbreakers demand minimum wage gazette, safer workplaces",
-      "link": "https://www.tbsnews.net/bangladesh/shipbreakers-demand-minimum-wage-gazette-safer-workplaces-1509046",
-      "pubDate": "Fri, 07 Aug 2026 19:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/18/sitakunda_shipbreaking_accidents.jpg",
-      "snippet": "A similar demonstration was held in Sitakunda’s Baro Aulia area on 23 June over the same four-point demand."
     },
     {
       "title": "Outsourcing the mind: When convenience replaces cognitive effort ",
@@ -670,18 +670,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/08/05/july_uprising_day_.jpg",
       "snippet": "The July uprising is remembered as a Gen Z revolt, yet its real force came from the generations standing behind them. From Baby Boomers lending moral authority to the children of Gen Alpha caught in the gunfire, this was a movement no single generati..."
-    },
-    {
-      "title": "Dengue admissions top 500 daily, hospitals ready to open dedicated wards",
-      "link": "https://www.tbsnews.net/bangladesh/health/dengue-admissions-top-500-daily-hospitals-ready-open-dedicated-wards-1507031",
-      "pubDate": "Wed, 05 Aug 2026 10:00:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/07/25/2m9a8079_0.jpg",
-      "snippet": "Hospitals across the country, including in Dhaka, reported a sharp increase in dengue admissions over the past week"
     }
   ],
-  "updatedAt": "2026-08-08T03:25:10.750Z"
+  "updatedAt": "2026-08-08T04:35:13.642Z"
 }
