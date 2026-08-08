@@ -1,6 +1,50 @@
 {
   "news": [
     {
+      "title": "Bangladesh Bank sets Tk100cr fund to boost Bangla QR use",
+      "link": "https://www.tbsnews.net/economy/bangladesh-bank-sets-tk100cr-fund-boost-bangla-qr-use-1509826",
+      "pubDate": "Sat, 08 Aug 2026 19:35:00 +0600",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/bangladesh-bank-bangla-qr.jpg",
+      "snippet": "The country currently records around 1 crore digital transactions a month, but the central bank aims to raise this to 1 crore a day by the end of the current fiscal year - a nearly 30-fold increase in about 10 months."
+    },
+    {
+      "title": "'He never compromised on Bangladesh’s sovereignty': Fakhrul recalls Serajul Islam",
+      "link": "https://www.tbsnews.net/bangladesh/he-never-compromised-bangladeshs-sovereignty-fakhrul-recalls-serajul-islam-1509781",
+      "pubDate": "Sat, 08 Aug 2026 19:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/765228557_3597602830405447_1784574591888980066_n.jpg",
+      "snippet": "At the launch of a collection of the late diplomat’s writings, the local government minister described his former university friend as a fearless advocate for democracy who remained steadfast on Bangladesh’s sovereignty and national interests."
+    },
+    {
+      "title": "Ctg Chamber seeks 90-day moratorium on gas, power bills, loan instalments",
+      "link": "https://www.tbsnews.net/economy/ctg-chamber-seeks-90-day-moratorium-gas-power-bills-loan-instalments-1509786",
+      "pubDate": "Sat, 08 Aug 2026 19:05:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/ccci_logo_1.png",
+      "snippet": "The chamber said sustained disruptions in gas and electricity supply had severely hit production at export-oriented garment, textile and plastic factories, as well as small, medium and large manufacturing units nationwide."
+    },
+    {
+      "title": "'Don't fly so high': Ashulia BNP leader gets death threat with bullet, shroud cloth",
+      "link": "https://www.tbsnews.net/bangladesh/dont-fly-so-high-ashulia-bnp-leader-gets-death-threat-bullet-shroud-cloth-1509756",
+      "pubDate": "Sat, 08 Aug 2026 18:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/death_threat_ashulia.jpg",
+      "snippet": "A bag containing a threatening letter, bullet, shroud cloth and items used for burial rituals was left outside Mohammad Ismail Hossain Molla’s home."
+    },
+    {
       "title": "Seminar calls for review of 1997 CHT Accord to ensure lasting peace",
       "link": "https://www.tbsnews.net/bangladesh/seminar-calls-review-1997-cht-accord-ensure-lasting-peace-1509726",
       "pubDate": "Sat, 08 Aug 2026 18:35:00 +0600",
@@ -230,28 +274,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/761014939_1761707381739231_3101658037203158776_n.jpg",
       "snippet": "Expatriates’ Welfare and Overseas Employment Minister Ariful Haque Choudhury announces govt assistance and orders strict monitoring to curb।"
-    },
-    {
-      "title": "Cops deployed at Dhaka Alia Madrasah amid fears of Chhatra Dal-Shibir clash",
-      "link": "https://www.tbsnews.net/bangladesh/cops-deployed-dhaka-alia-madrasah-amid-fears-chhatra-dal-shibir-clash-1509496",
-      "pubDate": "Sat, 08 Aug 2026 14:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/received_2501072677003412.jpeg",
-      "snippet": "Around 12 noon, police also set a barricade at the Bakshibazar intersection to prevent anyone from going to Alia Madrasa, causing a temporary traffic congestion in the area."
-    },
-    {
-      "title": "Tarique Rahman was tortured in DGFI detention centre during 1/11: Tribunal chief prosecutor",
-      "link": "https://www.tbsnews.net/bangladesh/court/tarique-rahman-was-tortured-dgfi-detention-centre-during-111-tribunal-chief",
-      "pubDate": "Sat, 08 Aug 2026 14:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/chief_prosecutor.jpg",
-      "snippet": "He said initiatives have been taken to bring those involved in operating the torture cells to justice."
     },
     {
       "title": "More men affected, but women make up two-thirds of dengue deaths",
@@ -692,18 +714,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/03/16/rmg_tram_group_nidle_3_0.jpeg",
       "snippet": "Gas shortages and low workloads, combined with ‘bridge holidays’, prompted extended factory closures."
-    },
-    {
-      "title": "DU to take action against teachers involved in anti-state activities",
-      "link": "https://www.tbsnews.net/bangladesh/education/du-take-action-against-teachers-involved-anti-state-activities-1507516",
-      "pubDate": "Wed, 05 Aug 2026 19:10:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/16/image.png",
-      "snippet": "Engaging in such activities directly conflict with the dignity, moral standing, and professional responsibilities of a university teacher."
     }
   ],
-  "updatedAt": "2026-08-08T12:52:44.860Z"
+  "updatedAt": "2026-08-08T13:45:04.148Z"
 }
