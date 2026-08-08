@@ -1,14 +1,36 @@
 {
   "news": [
     {
+      "title": "13-year-old pregnant after repeated 'rape' in Munshiganj; family demands justice",
+      "link": "https://www.tbsnews.net/bangladesh/crime/13-year-old-pregnant-after-repeated-rape-munshiganj-family-demands-justice-1509866",
+      "pubDate": "Sat, 08 Aug 2026 20:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/1000066665.jpg",
+      "snippet": "The primary accused denies the allegations and has called for a DNA test to identify the perpetrator, while the victim’s family has demanded legal action against all those allegedly involved."
+    },
+    {
+      "title": "Govt calls reports on private fuel import policy 'speculative, false'",
+      "link": "https://www.tbsnews.net/bangladesh/energy/govt-calls-reports-private-fuel-import-policy-speculative-false-1509836",
+      "pubDate": "Sat, 08 Aug 2026 19:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/govt_10.png",
+      "snippet": "The power and energy ministry says the proposed framework aims to strengthen energy security and create a more transparent and competitive fuel market."
+    },
+    {
       "title": "Bangladesh Bank sets Tk100cr fund to boost Bangla QR use",
       "link": "https://www.tbsnews.net/economy/bangladesh-bank-sets-tk100cr-fund-boost-bangla-qr-use-1509826",
       "pubDate": "Sat, 08 Aug 2026 19:35:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/bangladesh-bank-bangla-qr.jpg",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/bangladesh-bank-with-logo2222.jpg",
       "snippet": "The country currently records around 1 crore digital transactions a month, but the central bank aims to raise this to 1 crore a day by the end of the current fiscal year - a nearly 30-fold increase in about 10 months."
     },
     {
@@ -241,39 +263,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/20/pm_tarique_rahman.png",
       "snippet": "Pankhali Union Parishad Chairman Sheikh Sabbir Ahmed welcomed the government initiative, saying the declaration would help improve the socio-economic condition of the coastal village and create new employment opportunities."
-    },
-    {
-      "title": "No-frill account deposits snapshot: Jan-Mar 2026",
-      "link": "https://www.tbsnews.net/infograph/numbers/no-frill-account-deposits-snapshot-jan-mar-2026-1509531",
-      "pubDate": "Sat, 08 Aug 2026 15:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/no-frill-account.png",
-      "snippet": ""
-    },
-    {
-      "title": "Youth leadership urged in politics, agriculture and education",
-      "link": "https://www.tbsnews.net/bangladesh/youth-leadership-urged-politics-agriculture-and-education-1509536",
-      "pubDate": "Sat, 08 Aug 2026 15:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/syed_zakir_hossain.jpg",
-      "snippet": "Tajnuva Jabeen, an organiser of the national organising committee of Alternatives, said one of the significant outcomes of the July Uprising was renewed interest in politics among young people."
-    },
-    {
-      "title": "Sylhet road crash: Families of deceased to get Tk5 lakh each, injured up to Tk3 lakh",
-      "link": "https://www.tbsnews.net/bangladesh/sylhet-road-crash-families-deceased-get-tk5-lakh-each-injured-tk3-lakh-1509516",
-      "pubDate": "Sat, 08 Aug 2026 15:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/761014939_1761707381739231_3101658037203158776_n.jpg",
-      "snippet": "Expatriates’ Welfare and Overseas Employment Minister Ariful Haque Choudhury announces govt assistance and orders strict monitoring to curb।"
     },
     {
       "title": "More men affected, but women make up two-thirds of dengue deaths",
@@ -716,5 +705,5 @@
       "snippet": "Gas shortages and low workloads, combined with ‘bridge holidays’, prompted extended factory closures."
     }
   ],
-  "updatedAt": "2026-08-08T13:45:04.148Z"
+  "updatedAt": "2026-08-08T14:31:50.521Z"
 }
