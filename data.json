@@ -1,6 +1,72 @@
 {
   "news": [
     {
+      "title": "Cops deployed at Dhaka Alia Madrasah amid fears of Chhatra Dal-Shibir clash",
+      "link": "https://www.tbsnews.net/bangladesh/cops-deployed-dhaka-alia-madrasah-amid-fears-chhatra-dal-shibir-clash-1509496",
+      "pubDate": "Sat, 08 Aug 2026 14:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/received_2501072677003412.jpeg",
+      "snippet": "Around 12 noon, police also set a barricade at the Bakshibazar intersection to prevent anyone from going to Alia Madrasa, causing a temporary traffic congestion in the area."
+    },
+    {
+      "title": "Tarique Rahman was tortured in DGFI detention centre during 1/11: Tribunal chief prosecutor",
+      "link": "https://www.tbsnews.net/bangladesh/court/tarique-rahman-was-tortured-dgfi-detention-centre-during-111-tribunal-chief",
+      "pubDate": "Sat, 08 Aug 2026 14:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/chief_prosecutor.jpg",
+      "snippet": "He said initiatives have been taken to bring those involved in operating the torture cells to justice."
+    },
+    {
+      "title": "Border killing segment removed from July Museum, Nahid alleges",
+      "link": "https://www.tbsnews.net/bangladesh/politics/border-killing-segment-removed-july-museum-nahid-alleges-1509471",
+      "pubDate": "Sat, 08 Aug 2026 14:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/17/nahid.png",
+      "snippet": "He said that during the rule of ousted prime minister Sheikh Hasina, all authoritarian decisions, including looting of people’s money, used to be taken from Ganabhaban."
+    },
+    {
+      "title": "3 cattle traders killed in Natore road crash",
+      "link": "https://www.tbsnews.net/bangladesh/3-cattle-traders-killed-natore-road-crash-1509451",
+      "pubDate": "Sat, 08 Aug 2026 13:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/01/4450730.jpg",
+      "snippet": "The injured were taken to Baraigram Upazila Health Complex, from where they were shifted to Rajshahi Medical College Hospital."
+    },
+    {
+      "title": "Fascism beneficiaries not sitting idle, actively working to destabilise energy sector: PM",
+      "link": "https://www.tbsnews.net/bangladesh/pm-urges-doctors-not-let-politics-affect-professional-duties-1509461",
+      "pubDate": "Sat, 08 Aug 2026 13:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/dab_pm_tarique.png",
+      "snippet": "“Political involvement should never become a reason for failing to perform professional duties. This is most important,” he said"
+    },
+    {
+      "title": "PM taking strict action against negligence in govt duties: Rizvi",
+      "link": "https://www.tbsnews.net/bangladesh/pm-taking-strict-action-against-negligence-govt-duties-rizvi-1509446",
+      "pubDate": "Sat, 08 Aug 2026 13:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/rizvi_.jpg",
+      "snippet": "Highlighting the government's activities over the past five months, Rizvi said various criticisms have been directed at the elected administration led by Tarique, but the book compiles statistics and events showcasing the government's achievements du..."
+    },
+    {
       "title": "Over 15,700 killed in accidents involving motorcycles since 2020: Report",
       "link": "https://www.tbsnews.net/bangladesh/over-15700-killed-accidents-involving-motorcycles-2020-report-1509436",
       "pubDate": "Sat, 08 Aug 2026 13:35:00 +0600",
@@ -155,70 +221,15 @@
       "snippet": "The BRTC has submitted two preliminary project proposals to the Planning Commission, targeting completion by June 2029."
     },
     {
-      "title": "Ministry gives BPC 4 days to privatise fuel import – experts question haste",
-      "link": "https://www.tbsnews.net/bangladesh/energy/ministry-gives-bpc-4-days-privatise-fuel-import-experts-question-haste-1509216",
-      "pubDate": "Sat, 08 Aug 2026 09:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/08/27/fuel.jpg",
-      "snippet": "The directive has drawn criticism from energy experts, who argue that such a significant reform requires extensive consultation, technical studies and careful assessment of its implications for energy security and market regulation."
-    },
-    {
       "title": "Individual investment in T-bills, bonds declines despite surge in financial institution holdings",
       "link": "https://www.tbsnews.net/economy/individual-investment-t-bills-bonds-declines-despite-surge-financial-institution-holdings",
       "pubDate": "Sat, 08 Aug 2026 08:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/01/27/bonds-coupon.png",
       "snippet": "Decline marks reversal from previous two fiscals"
-    },
-    {
-      "title": "Bangladesh-Myanmar gas pipeline plan hinges on Arakan Army: Analysts",
-      "link": "https://www.tbsnews.net/world/south-asia/bangladesh-myanmar-gas-pipeline-plan-hinges-arakan-army-analysts-1509186",
-      "pubDate": "Sat, 08 Aug 2026 07:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/09/26/img_20220921_123856.jpg",
-      "snippet": "Under the proposal, gas would be transported by pipeline to Chittagong in southeastern Bangladesh.But analysts say the Myanmar military junta may not have sufficient control over the territory through which such infrastructure would have to pass"
-    },
-    {
-      "title": "Nahid blames Hasina's Delhi briefing on  government's diplomatic 'weakness', marks it as failure",
-      "link": "https://www.tbsnews.net/bangladesh/nahid-blames-hasinas-delhi-briefing-governments-diplomatic-weakness-marks-it-failure",
-      "pubDate": "Sat, 08 Aug 2026 00:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/nahid_islam.jpg",
-      "snippet": "He made the comments after visiting a photo exhibition titled \"July Still Not Over,\" organised by Bangladesh Jamaat-e-Islami on the premises of the opposition leader's official residence."
-    },
-    {
-      "title": "Tourist drowns in Tanguar Haor",
-      "link": "https://www.tbsnews.net/bangladesh/tourist-drowns-tanguar-haor-1509151",
-      "pubDate": "Sat, 08 Aug 2026 00:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/tanguar_haor.jpg",
-      "snippet": "According to family members the victim had a heart condition"
-    },
-    {
-      "title": "Govt prioritises Cumilla-Dhaka rail corridor, energy projects: Salahuddin",
-      "link": "https://www.tbsnews.net/bangladesh/govt-prioritises-cumilla-dhaka-rail-corridor-energy-projects-salahuddin-1509161",
-      "pubDate": "Sat, 08 Aug 2026 00:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/22/salahuddin_ahmed.png",
-      "snippet": "Govt targets 5,000-10,000MW renewable power by 2030"
     },
     {
       "title": "Govt working to curb syndicates exploiting students looking to study abroad: Shama Obaed",
@@ -659,18 +670,7 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/brur.jpg",
       "snippet": "The injured included former Brur unit Shibir president Sohel Rana, current Secretary Imran Khan Saurav, activist Mehedi Hasan, Baizid Shikdar, Mursalin and Chhatra Dal leader Ashik"
-    },
-    {
-      "title": "AI-written stories preferred over human-written ones: Study",
-      "link": "https://www.tbsnews.net/tech/ai-written-stories-preferred-over-human-written-ones-study-1507276",
-      "pubDate": "Wed, 05 Aug 2026 14:00:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/05/cha.jpg",
-      "snippet": "The study, published by Cambridge University Press, examined whether people aged 18 to 81 could distinguish between short stories written by humans and those generated by AI."
     }
   ],
-  "updatedAt": "2026-08-08T07:49:52.886Z"
+  "updatedAt": "2026-08-08T08:40:44.717Z"
 }
