@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "Over 15,700 killed in accidents involving motorcycles since 2020: Report",
+      "link": "https://www.tbsnews.net/bangladesh/over-15700-killed-accidents-involving-motorcycles-2020-report-1509436",
+      "pubDate": "Sat, 08 Aug 2026 13:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/01/04/motorcycle-bike_accident-representational.jpg",
+      "snippet": "Of the crashes, 3,548 (22.08%) were head-on collisions, while 5,497 (34.21%) occurred after motorcyclists lost control of their vehicle."
+    },
+    {
+      "title": "Tonu murder: Retired army officer Hafizur Rahman re-arrested",
+      "link": "https://www.tbsnews.net/bangladesh/crime/tonu-murder-case-retired-army-officer-hafizur-rahman-re-arrested-1509421",
+      "pubDate": "Sat, 08 Aug 2026 13:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/06/hafizur_tonu_murder.jpg",
+      "snippet": "The Police Bureau of Investigation (PBI) arrested Hafizur from his home in Keraniganj, Dhaka, following an order of the Chamber Judge Court of the Appellate Division."
+    },
+    {
+      "title": "More men affected, but women make up two-thirds of dengue deaths",
+      "link": "https://www.tbsnews.net/bangladesh/health/more-men-affected-women-make-two-thirds-dengue-deaths-1509251",
+      "pubDate": "Sat, 08 Aug 2026 13:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/20/dengue_8.jpg",
+      "snippet": "Working-age people account for nearly two-thirds of reported cases"
+    },
+    {
       "title": "No syndication to hold farmers hostage: Law Minister",
       "link": "https://www.tbsnews.net/bangladesh/no-syndication-hold-farmers-hostage-law-minister-1509396",
       "pubDate": "Sat, 08 Aug 2026 12:45:00 +0600",
@@ -10,6 +43,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/law_minister.jpg",
       "snippet": "Law Minister Md Asaduzzaman warns that market syndication to exploit farmers will not be tolerated, pledging strict action against hoarding and unfair levies."
+    },
+    {
+      "title": "Schoolgirl kicked in viral video; authorities punish victim with transfer certificate",
+      "link": "https://www.tbsnews.net/bangladesh/schoolgirl-kicked-viral-video-authorities-punish-victim-transfer-certificate-1509401",
+      "pubDate": "Sat, 08 Aug 2026 12:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/narayanganj_schoolgirl.jpg",
+      "snippet": "After the incident, locals held an arbitration and made the boy apologise."
     },
     {
       "title": "Media cannot lawfully air speeches by leaders of banned AL: State minister",
@@ -175,50 +219,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/22/salahuddin_ahmed.png",
       "snippet": "Govt targets 5,000-10,000MW renewable power by 2030"
-    },
-    {
-      "title": "Fire breaks out at shop in Netrokona, 7 units battling",
-      "link": "https://www.tbsnews.net/bangladesh/fire-breaks-out-shop-netrokona-7-units-battling-1509136",
-      "pubDate": "Sat, 08 Aug 2026 00:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/arsen_fire.jpg",
-      "snippet": "Fire spreaded to nearby shops and houses."
-    },
-    {
-      "title": "Govt imports 2.03 tonnes of tear gas shells from India",
-      "link": "https://www.tbsnews.net/bangladesh/govt-imports-two-tonnes-tear-gas-shells-india-army-1509131",
-      "pubDate": "Sat, 08 Aug 2026 00:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/25/benapole.png",
-      "snippet": "Shipment cleared through Benapole Port under tight security"
-    },
-    {
-      "title": "Woman among 2 injured in Pallabi shooting",
-      "link": "https://www.tbsnews.net/bangladesh/crime/woman-among-2-pallabi-shooting-1509121",
-      "pubDate": "Fri, 07 Aug 2026 22:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/04/19/gunfight_tbs.png",
-      "snippet": "Police suspect dispute over drugs and territorial control"
-    },
-    {
-      "title": "Forest department rescues six venomous cobras in Gulistan, one arrested",
-      "link": "https://www.tbsnews.net/bangladesh/forest-department-rescues-six-venomous-cobras-gulistan-one-arrested-1509126",
-      "pubDate": "Fri, 07 Aug 2026 22:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/snake_rescued.jpg",
-      "snippet": "The snakes were rescued during a joint operation with the Bangladesh Animal Welfare Association in front of the Bangabazar Fire Service office this morning."
     },
     {
       "title": "Govt working to curb syndicates exploiting students looking to study abroad: Shama Obaed",
@@ -670,18 +670,7 @@
       "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/05/cha.jpg",
       "snippet": "The study, published by Cambridge University Press, examined whether people aged 18 to 81 could distinguish between short stories written by humans and those generated by AI."
-    },
-    {
-      "title": "Technology innovation key to Bangladesh's economic sovereignty: Bobby Hajjaj",
-      "link": "https://www.tbsnews.net/bangladesh/education/technology-innovation-key-bangladeshs-economic-sovereignty-bobby-hajjaj-1507211",
-      "pubDate": "Wed, 05 Aug 2026 13:10:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/05/state_minister_for_primary_and_mass_education_bobby_hajjaj.jpg",
-      "snippet": "Bangladesh bets on STEAM to shape future innovators."
     }
   ],
-  "updatedAt": "2026-08-08T06:53:08.806Z"
+  "updatedAt": "2026-08-08T07:49:52.886Z"
 }
