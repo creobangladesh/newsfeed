@@ -1,6 +1,50 @@
 {
   "news": [
     {
+      "title": "Bangladesh needs bankable climate projects, innovative financing: Experts",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-needs-bankable-climate-projects-innovative-financing-experts-1509926",
+      "pubDate": "Sat, 08 Aug 2026 21:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/1000300644_0.jpg",
+      "snippet": "Organised by the Asian University for Women, the session brought together researchers, academics, climate finance specialists and journalists to discuss climate finance, displacement, governance and accountability."
+    },
+    {
+      "title": "Unauthorised sleeper buses on Dhaka-Sylhet highway raise accident risks: BRTA ",
+      "link": "https://www.tbsnews.net/bangladesh/unauthorised-sleeper-buses-dhaka-sylhet-highway-raise-accident-risks-brta-1509931",
+      "pubDate": "Sat, 08 Aug 2026 21:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/brta-collage.jpg",
+      "snippet": "Most sleeper buses were originally built as ordinary buses"
+    },
+    {
+      "title": "Dhaka bourse seeks EOIs to update panel of brokerage auditors",
+      "link": "https://www.tbsnews.net/economy/stocks/dhaka-bourse-seeks-eois-update-panel-brokerage-auditors-1509916",
+      "pubDate": "Sat, 08 Aug 2026 21:40:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/07/dse.jpg",
+      "snippet": "Under the guidelines, brokerage firms must appoint statutory auditors from the DSE-approved panel."
+    },
+    {
+      "title": "Regulatory squeezes trigger foreign exit from BRAC Bank despite record profits",
+      "link": "https://www.tbsnews.net/economy/stocks/regulatory-squeezes-trigger-foreign-exit-brac-bank-despite-record-profits-1509911",
+      "pubDate": "Sat, 08 Aug 2026 21:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/23/brac_bank_logo_16x9.png",
+      "snippet": "Dhaka Stock Exchange data show foreign ownership falling steadily from 36.72% in February 2026, when the bank’s share price was rising strongly."
+    },
+    {
       "title": "CU Senate session held amid student protests; 24 AL-backed teacher representatives absent",
       "link": "https://www.tbsnews.net/bangladesh/cu-senate-session-held-amid-student-protests-24-al-backed-teacher-representatives-absent",
       "pubDate": "Sat, 08 Aug 2026 21:15:00 +0600",
@@ -89,7 +133,7 @@
       "snippet": "A bag containing a threatening letter, bullet, shroud cloth and items used for burial rituals was left outside Mohammad Ismail Hossain Molla’s home."
     },
     {
-      "title": "Seminar calls for review of 1997 CHT Accord to ensure lasting peace",
+      "title": "Call for review of 1997 CHT Accord to ensure lasting peace",
       "link": "https://www.tbsnews.net/bangladesh/seminar-calls-review-1997-cht-accord-ensure-lasting-peace-1509726",
       "pubDate": "Sat, 08 Aug 2026 18:35:00 +0600",
       "category": "Bangladesh",
@@ -98,17 +142,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/cht_cu_seminar.jpg",
       "snippet": "Speakers at a Chattogram seminar call for evidence-based research, equal constitutional rights and democratic dialogue to address longstanding issues in the hill region."
-    },
-    {
-      "title": "Bogura gets own RHD zone, ending Rangpur detour for five districts",
-      "link": "https://www.tbsnews.net/bangladesh/bogura-gets-own-rhd-zone-ending-rangpur-detour-five-districts-1509701",
-      "pubDate": "Sat, 08 Aug 2026 18:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/bogura.jpeg",
-      "snippet": "The new RHD zone will oversee road development and management across Bogura, Gaibandha, Joypurhat, Naogaon and Sirajganj, bringing key administrative decisions closer to the districts it serves."
     },
     {
       "title": "​​​​​​​Jamaat demands halt to open refined fuel imports to private sector",
@@ -120,6 +153,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/jamaat-e-islami-holds-a-press-briefing.jpg",
       "snippet": "The party rejected claims that BPC is inefficient or loss-making, saying it made Tk3,943 crore in profit in fiscal 2023-24 and Tk2,050 crore in 2024-25."
+    },
+    {
+      "title": "Bogura gets own RHD zone, ending Rangpur detour for five districts",
+      "link": "https://www.tbsnews.net/bangladesh/bogura-gets-own-rhd-zone-ending-rangpur-detour-five-districts-1509701",
+      "pubDate": "Sat, 08 Aug 2026 18:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/bogura.jpeg",
+      "snippet": "The new RHD zone will oversee road development and management across Bogura, Gaibandha, Joypurhat, Naogaon and Sirajganj, bringing key administrative decisions closer to the districts it serves."
     },
     {
       "title": "The AI-driven economic flywheel",
@@ -177,17 +221,6 @@
       "snippet": "The time has come to implement the commitments made in the BNP election manifesto to establish a people-centred, accountable, decentralised and universally accessible health system"
     },
     {
-      "title": "9 killed in Sylhet bus crash, 5-member probe committee formed",
-      "link": "https://www.tbsnews.net/bangladesh/9-killed-sylhet-bus-crash-5-member-probe-committee-formed-1509656",
-      "pubDate": "Sat, 08 Aug 2026 17:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/copy_of_10_top_performing_feature_items.jpeg",
-      "snippet": "The committee has five working days to determine the cause of yesterday's head-on collision, with speeding and driver fatigue among the preliminary possibilities."
-    },
-    {
       "title": "30 injured in clash between rival groups in Brahmanbaria",
       "link": "https://www.tbsnews.net/bangladesh/30-injured-clash-between-rival-groups-brahmanbaria-1509646",
       "pubDate": "Sat, 08 Aug 2026 17:55:00 +0600",
@@ -197,6 +230,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/05/01/screenshot_2025-05-01_112000_0.png",
       "snippet": "The clash, stemming from a longstanding dispute over local dominance and other issues, took place intermittently from around 10am to 2pm in Tiara village under Bitghar union."
+    },
+    {
+      "title": "9 killed in Sylhet bus crash, 5-member probe committee formed",
+      "link": "https://www.tbsnews.net/bangladesh/9-killed-sylhet-bus-crash-5-member-probe-committee-formed-1509656",
+      "pubDate": "Sat, 08 Aug 2026 17:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/copy_of_10_top_performing_feature_items.jpeg",
+      "snippet": "The committee has five working days to determine the cause of yesterday's head-on collision, with speeding and driver fatigue among the preliminary possibilities."
     },
     {
       "title": "'BNP had to swim with hands and feet tied' over reform commission proposals: MP Selim",
@@ -221,7 +265,7 @@
       "snippet": "Assuring that there would be no political discrimination in measures to prevent river erosion, Azad says the government stands beside people affected by erosion."
     },
     {
-      "title": "India can’t seek friendship while allowing Hasina to make statements against Bangladesh: Salahuddin",
+      "title": "India can't seek friendship while allowing Hasina to make statements against Bangladesh: Salahuddin",
       "link": "https://www.tbsnews.net/bangladesh/politics/india-cant-seek-friendship-while-allowing-hasina-make-statements-against",
       "pubDate": "Sat, 08 Aug 2026 16:45:00 +0600",
       "category": "Bangladesh",
@@ -235,10 +279,10 @@
       "title": "Govt plans 400-acre industrial park in Bogura: Commerce minister ",
       "link": "https://www.tbsnews.net/economy/industry/govt-plans-400-acre-industrial-park-bogura-commerce-minister-1509591",
       "pubDate": "Sat, 08 Aug 2026 16:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Industry",
+      "color": "#f57c00",
+      "bg": "#fff3e0",
+      "icon": "🏭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/20/khandakar_muktadir.jpg",
       "snippet": "The proposed park will cater to growing SME demand, with preliminary development work expected to begin this winter, the minister says."
     },
@@ -246,23 +290,12 @@
       "title": "Measles claims 4 more lives as death toll hits 867",
       "link": "https://www.tbsnews.net/bangladesh/health/measles-claims-4-more-lives-death-toll-hits-867-1509581",
       "pubDate": "Sat, 08 Aug 2026 16:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/measles_outbreak.jpg",
       "snippet": "DGHS reports 677 new suspected cases and 99 laboratory-confirmed infections in the latest 24-hour period, taking the cumulative suspected case count to more than 135,000."
-    },
-    {
-      "title": "Govt to expand haor fish sanctuaries, phase out traditional leasing system",
-      "link": "https://www.tbsnews.net/bangladesh/govt-expand-haor-fish-sanctuaries-phase-out-traditional-leasing-system-1509571",
-      "pubDate": "Sat, 08 Aug 2026 15:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/haor_inspection.jpg",
-      "snippet": "The government plans to construct deep reservoirs and large enclosures in haors and wetlands."
     },
     {
       "title": "More men affected, but women make up two-thirds of dengue deaths",
@@ -692,18 +725,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/22/15_thoughts_social_media_0.png",
       "snippet": "Social media platforms are designed to keep users hooked. Each notification, like, or comment releases a small amount of dopamine."
-    },
-    {
-      "title": "More than 20% of garment factories declare three-day break, sparking workers’ rush home",
-      "link": "https://www.tbsnews.net/economy/rmg/more-20-garment-factories-declare-three-day-break-sparking-workers-rush-home-1507581",
-      "pubDate": "Wed, 05 Aug 2026 21:35:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/03/16/rmg_tram_group_nidle_3_0.jpeg",
-      "snippet": "Gas shortages and low workloads, combined with ‘bridge holidays’, prompted extended factory closures."
     }
   ],
-  "updatedAt": "2026-08-08T15:29:10.954Z"
+  "updatedAt": "2026-08-08T15:58:12.428Z"
 }
