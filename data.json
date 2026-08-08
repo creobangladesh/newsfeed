@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "‘BNP had to swim with hands and feet tied’ over reform commission proposals: MP Selim",
+      "link": "https://www.tbsnews.net/bangladesh/politics/bnp-had-swim-hands-and-feet-tied-over-reform-commission-proposals-mp-selim",
+      "pubDate": "Sat, 08 Aug 2026 17:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/765175181_1725845498632951_8421974070466168809_n.jpg",
+      "snippet": "The Lakshmipur-1 lawmaker says unnecessary confusion was being created over the implementation of the July Charter and urged people to examine its contents before drawing conclusions."
+    },
+    {
       "title": "Pilot project for Teesta master plan to begin soon: State minister Azad ",
       "link": "https://www.tbsnews.net/bangladesh/pilot-project-teesta-master-plan-begin-soon-state-minister-azad-1509601",
       "pubDate": "Sat, 08 Aug 2026 16:50:00 +0600",
@@ -12,15 +23,15 @@
       "snippet": "Assuring that there would be no political discrimination in measures to prevent river erosion, Azad says the government stands beside people affected by erosion."
     },
     {
-      "title": "Bangladesh to maintain ties with India based on mutual respect: Salahuddin",
-      "link": "https://www.tbsnews.net/bangladesh/politics/bangladesh-maintain-ties-india-based-mutual-respect-salahuddin-1509596",
+      "title": "India can't seek friendship while allowing Hasina to make statements against Bangladesh’s democracy: Salahuddin",
+      "link": "https://www.tbsnews.net/bangladesh/politics/india-cant-seek-friendship-while-allowing-hasina-make-statements-against",
       "pubDate": "Sat, 08 Aug 2026 16:45:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/765817342_1597307482069057_1006635254241738180_n.jpg",
-      "snippet": "The home minister says India cannot seek friendly ties with Bangladesh while allowing ousted prime minister Sheikh Hasina to make statements against its democracy and people."
+      "snippet": "The home minister says Bangladesh will maintain ties with India based on mutual respect, sovereign equality and national interests."
     },
     {
       "title": "Govt plans 400-acre industrial park in Bogura: Commerce minister ",
@@ -144,17 +155,6 @@
       "snippet": "He said that during the rule of ousted prime minister Sheikh Hasina, all authoritarian decisions, including looting of people’s money, used to be taken from Ganabhaban."
     },
     {
-      "title": "3 cattle traders killed in Natore road crash",
-      "link": "https://www.tbsnews.net/bangladesh/3-cattle-traders-killed-natore-road-crash-1509451",
-      "pubDate": "Sat, 08 Aug 2026 13:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/01/4450730.jpg",
-      "snippet": "The injured were taken to Baraigram Upazila Health Complex, from where they were shifted to Rajshahi Medical College Hospital."
-    },
-    {
       "title": "Fascism beneficiaries not sitting idle, actively working to destabilise energy sector: PM",
       "link": "https://www.tbsnews.net/bangladesh/pm-urges-doctors-not-let-politics-affect-professional-duties-1509461",
       "pubDate": "Sat, 08 Aug 2026 13:50:00 +0600",
@@ -164,6 +164,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/pm_tarique_dab_speech.png",
       "snippet": "“Political involvement should never become a reason for failing to perform professional duties. This is most important,” he said"
+    },
+    {
+      "title": "3 cattle traders killed in Natore road crash",
+      "link": "https://www.tbsnews.net/bangladesh/3-cattle-traders-killed-natore-road-crash-1509451",
+      "pubDate": "Sat, 08 Aug 2026 13:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/01/4450730.jpg",
+      "snippet": "The injured were taken to Baraigram Upazila Health Complex, from where they were shifted to Rajshahi Medical College Hospital."
     },
     {
       "title": "PM taking strict action against negligence in govt duties: Rizvi",
@@ -208,17 +219,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/20/dengue_8.jpg",
       "snippet": "Working-age people account for nearly two-thirds of reported cases"
-    },
-    {
-      "title": "No syndication to hold farmers hostage: Law Minister",
-      "link": "https://www.tbsnews.net/bangladesh/no-syndication-hold-farmers-hostage-law-minister-1509396",
-      "pubDate": "Sat, 08 Aug 2026 12:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/law_minister.jpg",
-      "snippet": "Law Minister Md Asaduzzaman warns that market syndication to exploit farmers will not be tolerated, pledging strict action against hoarding and unfair levies."
     },
     {
       "title": "Gold price rises by Tk4,374 per bhori",
@@ -661,5 +661,5 @@
       "snippet": "Engaging in such activities directly conflict with the dignity, moral standing, and professional responsibilities of a university teacher."
     }
   ],
-  "updatedAt": "2026-08-08T11:27:58.599Z"
+  "updatedAt": "2026-08-08T11:56:15.543Z"
 }
