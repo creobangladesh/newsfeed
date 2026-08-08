@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Individual investment in T-bills, bonds declines despite surge in financial institution holdings",
+      "link": "https://www.tbsnews.net/economy/individual-investment-t-bills-bonds-declines-despite-surge-financial-institution-holdings",
+      "pubDate": "Sat, 08 Aug 2026 08:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/01/27/bonds-coupon.png",
+      "snippet": "Decline marks reversal from previous two fiscals"
+    },
+    {
+      "title": "Bangladesh-Myanmar gas pipeline plan hinges on Arakan Army: Analysts",
+      "link": "https://www.tbsnews.net/world/south-asia/bangladesh-myanmar-gas-pipeline-plan-hinges-arakan-army-analysts-1509186",
+      "pubDate": "Sat, 08 Aug 2026 07:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/09/26/img_20220921_123856.jpg",
+      "snippet": "Under the proposal, gas would be transported by pipeline to Chittagong in southeastern Bangladesh.But analysts say the Myanmar military junta may not have sufficient control over the territory through which such infrastructure would have to pass"
+    },
+    {
       "title": "Nahid blames Hasina's Delhi briefing on  government's diplomatic 'weakness', marks it as failure",
       "link": "https://www.tbsnews.net/bangladesh/nahid-blames-hasinas-delhi-briefing-governments-diplomatic-weakness-marks-it-failure",
       "pubDate": "Sat, 08 Aug 2026 00:45:00 +0600",
@@ -221,17 +243,6 @@
       "snippet": "A system, artificial or human, that stops learning from original, effortful, first-hand engagement with a problem will result in homogeneity, not creativity"
     },
     {
-      "title": "Teesta Master Plan implementation to begin soon: Anee",
-      "link": "https://www.tbsnews.net/bangladesh/teesta-master-plan-implementation-begin-soon-anee-1509036",
-      "pubDate": "Fri, 07 Aug 2026 19:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/anee_at_ju.jpg",
-      "snippet": "Work on the Padma Barrage project had already been launched officially, and its visible progress would be seen soon, he says."
-    },
-    {
       "title": "Why Bangladesh should power the AI economy ",
       "link": "https://www.tbsnews.net/thoughts/why-bangladesh-should-power-ai-economy-1509021",
       "pubDate": "Fri, 07 Aug 2026 19:05:00 +0600",
@@ -241,17 +252,6 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/r546kibkmvomnoph2pohkv3nwu.jpg",
       "snippet": "Bangladesh's underutilised power infrastructure, expanding fibre networks and existing energy assets could provide the foundations for a globally competitive data-centre industry"
-    },
-    {
-      "title": "Garment factory in Ashulia lays off 565 workers, cites business downturn",
-      "link": "https://www.tbsnews.net/bangladesh/garment-factory-ashulia-lays-565-workers-cites-business-downturn-1509001",
-      "pubDate": "Fri, 07 Aug 2026 18:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/11/07/rmg_tusuka_3435.jpg",
-      "snippet": "Factory cites a prolonged business downturn and shortage of work as reasons for the retrenchment; union demands immediate reinstatement of the workers."
     },
     {
       "title": "Measles outbreak: Death toll reaches 863 as 3 more die in 24 hours",
@@ -683,5 +683,5 @@
       "snippet": "Hospitals across the country, including in Dhaka, reported a sharp increase in dengue admissions over the past week"
     }
   ],
-  "updatedAt": "2026-08-08T01:38:15.008Z"
+  "updatedAt": "2026-08-08T03:25:10.750Z"
 }
