@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "Measles claims 4 more lives as death toll hits 867",
+      "link": "https://www.tbsnews.net/bangladesh/health/measles-claims-4-more-lives-death-toll-hits-867-1509581",
+      "pubDate": "Sat, 08 Aug 2026 16:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/measles_outbreak.jpg",
+      "snippet": "DGHS reports 677 new suspected cases and 99 laboratory-confirmed infections in the latest 24-hour period, taking the cumulative suspected case count to more than 135,000."
+    },
+    {
+      "title": "Govt to expand haor fish sanctuaries, phase out traditional leasing system",
+      "link": "https://www.tbsnews.net/bangladesh/govt-expand-haor-fish-sanctuaries-phase-out-traditional-leasing-system-1509571",
+      "pubDate": "Sat, 08 Aug 2026 15:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/haor_inspection.jpg",
+      "snippet": "The government plans to construct deep reservoirs and large enclosures in haors and wetlands."
+    },
+    {
+      "title": "‘What we give the country matters most, not what we get,’ says PM",
+      "link": "https://www.tbsnews.net/bangladesh/what-we-give-country-matters-most-not-what-we-get-says-pm-1509556",
+      "pubDate": "Sat, 08 Aug 2026 15:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/pmo.jpg",
+      "snippet": "He recalled the sacrifices made by people from the 1971 Liberation War to the July 2024 uprising, saying their common aspiration was to build a better Bangladesh where people could live with greater dignity and security."
+    },
+    {
       "title": "PM to open initiation of 3 SDG Villages on Monday",
       "link": "https://www.tbsnews.net/bangladesh/pm-open-initiation-3-sdg-villages-monday-1509526",
       "pubDate": "Sat, 08 Aug 2026 15:25:00 +0600",
@@ -96,7 +129,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/dab_pm_tarique.png",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/pm_tarique_dab_speech.png",
       "snippet": "“Political involvement should never become a reason for failing to perform professional duties. This is most important,” he said"
     },
     {
@@ -188,35 +221,13 @@
       "snippet": "Police say they are investigating the purpose and motive behind the meeting."
     },
     {
-      "title": "Rain likely in Dhaka, 7 other divisions",
-      "link": "https://www.tbsnews.net/bangladesh/rain-likely-dhaka-7-other-divisions-1509366",
-      "pubDate": "Sat, 08 Aug 2026 12:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/rain_dhaka_rajib_dhar_1.jpg",
-      "snippet": "Monsoon is fairly active over Bangladesh and moderate over the north Bay."
-    },
-    {
-      "title": "DU student expelled from Bijoy Ekattor Hall for 6 months over assault ",
-      "link": "https://www.tbsnews.net/bangladesh/du-student-expelled-bijoy-ekattor-hall-6-months-over-assault-1509371",
-      "pubDate": "Sat, 08 Aug 2026 12:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/11/27/du_logo.png",
-      "snippet": "The committee found evidence confirming Mahfuz’s involvement and considered the incident a violation of the disciplinary rules of the university and the hall."
-    },
-    {
       "title": "Gold price rises by Tk4,374 per bhori",
       "link": "https://www.tbsnews.net/economy/gold-price-rises-tk4374-bhori-1509356",
       "pubDate": "Sat, 08 Aug 2026 12:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/06/gold.png",
       "snippet": "21-carat gold will now cost Tk223,541 per bhori, 18-carat gold Tk191,931 per bhori, and traditional gold Tk156,822 per bhori, all inclusive of VAT."
     },
@@ -650,5 +661,5 @@
       "snippet": "Engaging in such activities directly conflict with the dignity, moral standing, and professional responsibilities of a university teacher."
     }
   ],
-  "updatedAt": "2026-08-08T09:37:32.935Z"
+  "updatedAt": "2026-08-08T10:32:45.361Z"
 }
