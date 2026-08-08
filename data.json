@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "Pilot project for Teesta master plan to begin soon: State minister Azad ",
+      "link": "https://www.tbsnews.net/bangladesh/pilot-project-teesta-master-plan-begin-soon-state-minister-azad-1509601",
+      "pubDate": "Sat, 08 Aug 2026 16:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/state_minister_azad.jpg",
+      "snippet": "Assuring that there would be no political discrimination in measures to prevent river erosion, Azad says the government stands beside people affected by erosion."
+    },
+    {
+      "title": "Bangladesh to maintain ties with India based on mutual respect: Salahuddin",
+      "link": "https://www.tbsnews.net/bangladesh/politics/bangladesh-maintain-ties-india-based-mutual-respect-salahuddin-1509596",
+      "pubDate": "Sat, 08 Aug 2026 16:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/765817342_1597307482069057_1006635254241738180_n.jpg",
+      "snippet": "The home minister says India cannot seek friendly ties with Bangladesh while allowing ousted prime minister Sheikh Hasina to make statements against its democracy and people."
+    },
+    {
+      "title": "Govt plans 400-acre industrial park in Bogura: Commerce minister ",
+      "link": "https://www.tbsnews.net/economy/industry/govt-plans-400-acre-industrial-park-bogura-commerce-minister-1509591",
+      "pubDate": "Sat, 08 Aug 2026 16:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/20/khandakar_muktadir.jpg",
+      "snippet": "The proposed park will cater to growing SME demand, with preliminary development work expected to begin this winter, the minister says."
+    },
+    {
       "title": "Measles claims 4 more lives as death toll hits 867",
       "link": "https://www.tbsnews.net/bangladesh/health/measles-claims-4-more-lives-death-toll-hits-867-1509581",
       "pubDate": "Sat, 08 Aug 2026 16:10:00 +0600",
@@ -155,7 +188,7 @@
       "snippet": "Of the crashes, 3,548 (22.08%) were head-on collisions, while 5,497 (34.21%) occurred after motorcyclists lost control of their vehicle."
     },
     {
-      "title": "Tonu murder: Retired army officer Hafizur Rahman re-arrested",
+      "title": "Tonu murder: Retired army officer Hafizur Rahman sent to jail again",
       "link": "https://www.tbsnews.net/bangladesh/crime/tonu-murder-case-retired-army-officer-hafizur-rahman-re-arrested-1509421",
       "pubDate": "Sat, 08 Aug 2026 13:15:00 +0600",
       "category": "Bangladesh",
@@ -186,39 +219,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/law_minister.jpg",
       "snippet": "Law Minister Md Asaduzzaman warns that market syndication to exploit farmers will not be tolerated, pledging strict action against hoarding and unfair levies."
-    },
-    {
-      "title": "Schoolgirl kicked in viral video; authorities punish victim with transfer certificate",
-      "link": "https://www.tbsnews.net/bangladesh/schoolgirl-kicked-viral-video-authorities-punish-victim-transfer-certificate-1509401",
-      "pubDate": "Sat, 08 Aug 2026 12:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/narayanganj_schoolgirl.jpg",
-      "snippet": "After the incident, locals held an arbitration and made the boy apologise."
-    },
-    {
-      "title": "Media cannot lawfully air speeches by leaders of banned AL: State minister",
-      "link": "https://www.tbsnews.net/bangladesh/politics/media-cannot-lawfully-air-speeches-leaders-banned-al-state-minister-1509386",
-      "pubDate": "Sat, 08 Aug 2026 12:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/yasser_khan.png",
-      "snippet": "Referring to ousted prime minister Sheikh Hasina, who is president of the banned Awami League, the state minister said she is a convicted person, adding that the positions taken by the foreign and home ministries regarding her are clear."
-    },
-    {
-      "title": "6 leaders, activists of banned Awami League arrested during secret meeting: Police",
-      "link": "https://www.tbsnews.net/bangladesh/6-leaders-activists-banned-awami-league-arrested-during-secret-meeting-police-1509376",
-      "pubDate": "Sat, 08 Aug 2026 12:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/al_activists.jpg",
-      "snippet": "Police say they are investigating the purpose and motive behind the meeting."
     },
     {
       "title": "Gold price rises by Tk4,374 per bhori",
@@ -661,5 +661,5 @@
       "snippet": "Engaging in such activities directly conflict with the dignity, moral standing, and professional responsibilities of a university teacher."
     }
   ],
-  "updatedAt": "2026-08-08T10:32:45.361Z"
+  "updatedAt": "2026-08-08T11:27:58.599Z"
 }
