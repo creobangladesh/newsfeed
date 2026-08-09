@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "7 Bangladeshi workers from Naogaon killed in Saudi factory fire",
+      "link": "https://www.tbsnews.net/bangladesh/7-bangladeshi-workers-naogaon-killed-saudi-factory-fire-1510836",
+      "pubDate": "Mon, 10 Aug 2026 00:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/saudi_factory_fire.jpg",
+      "snippet": "Expatriates’ welfare ministry confirms deaths and says efforts are underway to repatriate the bodies and provide government assistance to the victims’ families."
+    },
+    {
       "title": "Soy Connext 2026: Bangladesh's rising soy demand draws US exporters",
       "link": "https://www.tbsnews.net/bangladesh/soy-connext-2026-bangladeshs-rising-soy-demand-draws-us-exporters-1510821",
       "pubDate": "Mon, 10 Aug 2026 00:10:00 +0600",
@@ -263,17 +274,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/04/10/ssc_exam.jpeg",
       "snippet": "The results are available online through the official website of the education boards, all exam centres and institutions, and via SMS."
-    },
-    {
-      "title": "BNP set to nominate Mirza Fakhrul as presidential candidate on 12 Aug",
-      "link": "https://www.tbsnews.net/bangladesh/politics/bnp-set-nominate-fakhrul-presidential-candidate-12-aug-1510571",
-      "pubDate": "Sun, 09 Aug 2026 18:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/01/fakhrul_at_may_day_rally.jpg",
-      "snippet": "Opposition fields Oli Ahmad, raising the prospect of a contested race after 35 yrs."
     },
     {
       "title": "RACE Asset Management's rejoinder and our reply",
@@ -703,18 +703,7 @@
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/09/09/collage-dollar.jpg",
       "snippet": "Bangladesh Bank invites expressions of interest"
-    },
-    {
-      "title": "Parliamentary body urges transparency in industries budget execution",
-      "link": "https://www.tbsnews.net/economy/industry/parliamentary-body-urges-transparency-industries-budget-execution-1508611",
-      "pubDate": "Fri, 07 Aug 2026 00:55:00 +0600",
-      "category": "Industry",
-      "color": "#f57c00",
-      "bg": "#fff3e0",
-      "icon": "🏭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/industries-minister-khandakar-abdul-muktadir-spoke-at-a-meeting-held-at-the-jatiya-sangsad-bhaban.jpg",
-      "snippet": "The parliamentary standing committee on the industries ministry has stressed ensuring transparency, accountability, and efficiency in implementing its Tk1,691.90 crore proposed budget for FY27."
     }
   ],
-  "updatedAt": "2026-08-09T18:39:54.658Z"
+  "updatedAt": "2026-08-09T19:33:14.964Z"
 }
