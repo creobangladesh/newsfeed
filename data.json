@@ -1,6 +1,83 @@
 {
   "news": [
     {
+      "title": "Dhaka North launches online citizen reporting initiative to tackle waste dumping",
+      "link": "https://www.tbsnews.net/bangladesh/dhaka-north-launches-online-citizen-reporting-initiative-tackle-waste-dumping-1510721",
+      "pubDate": "Sun, 09 Aug 2026 20:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/11/25/dncc_logo.jpg",
+      "snippet": "The initiative allows residents to report littering and waste dumping by posting photos or videos online and notifying the city corporation."
+    },
+    {
+      "title": "2 killed in three-way collision on Dhaka-Sylhet highway days after 9 die",
+      "link": "https://www.tbsnews.net/bangladesh/2-killed-three-way-collision-dhaka-sylhet-highway-days-after-9-die-1510711",
+      "pubDate": "Sun, 09 Aug 2026 20:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/19/accident.jpg",
+      "snippet": "The accident brought traffic on the Dhaka-Sylhet highway to a halt for around two and a half hours."
+    },
+    {
+      "title": "Indian envoy meets FM Khalilur, set for tomorrow talks with PM Tarique",
+      "link": "https://www.tbsnews.net/bangladesh/indian-high-commissioner-meet-pm-tarique-tomorrow-1510716",
+      "pubDate": "Sun, 09 Aug 2026 20:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/07/29/bangladesh_india_flag.jpg",
+      "snippet": "Talks follow recent diplomatic exchanges between Dhaka and New Delhi"
+    },
+    {
+      "title": "PM urges Islamic scholars to stay united to maintain peace, stability",
+      "link": "https://www.tbsnews.net/bangladesh/politics/pm-urges-islamic-scholars-stay-united-maintain-peace-stability-1510686",
+      "pubDate": "Sun, 09 Aug 2026 20:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/tarique.png",
+      "snippet": "Referring to various demands raised by representatives of Qawmi madrashas, he said Home Minister Salahuddin Ahmed has already explained some of the issues and that the government would address them gradually."
+    },
+    {
+      "title": "Dhaka South to dredge Buriganga channel to restore navigability: Administrator",
+      "link": "https://www.tbsnews.net/bangladesh/dhaka-south-dredge-buriganga-channel-restore-navigability-administrator-1510666",
+      "pubDate": "Sun, 09 Aug 2026 20:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/dhaka_south_administrator_abdus_salam.jpg",
+      "snippet": "He urges citizens not to discard polythene or waste into drains and rivers, stressing the need to keep the city clean and protect its waterways."
+    },
+    {
+      "title": "Viral Mizan arrested for allegedly resisting disconnection of illegal power line",
+      "link": "https://www.tbsnews.net/bangladesh/viral-mizan-arrested-allegedly-resisting-disconnection-illegal-power-line-1510676",
+      "pubDate": "Sun, 09 Aug 2026 20:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/viral_mizan_1.png",
+      "snippet": "The Tk100 beef-and-rice seller allegedly confronted an electricity department team at his Agargaon street-side shop."
+    },
+    {
+      "title": "Nanak told ex-Ctg mayor to portray slain man as AL activist to 'make it an issue': Prosecution",
+      "link": "https://www.tbsnews.net/bangladesh/court/nanak-told-ex-ctg-mayor-portray-slain-man-al-activist-make-it-issue-prosecution",
+      "pubDate": "Sun, 09 Aug 2026 20:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/nanak-and-nasir-collage.jpg",
+      "snippet": "Call recording submitted to ICT allegedly captures Obaidul Quader speaking to AJM Nasir Uddin before Nanak’s conversation with the former mayor."
+    },
+    {
       "title": "July PMI jumps to 57.8 on manufacturing rebound, export surge",
       "link": "https://www.tbsnews.net/economy/july-pmi-jumps-578-manufacturing-rebound-export-surge-1510631",
       "pubDate": "Sun, 09 Aug 2026 19:45:00 +0600",
@@ -12,7 +89,7 @@
       "snippet": "Manufacturing led the recovery, with its PMI surging 16.6 points to 65.4, while agriculture and services also remained in expansion."
     },
     {
-      "title": "Businesses seek ‘Sick Industries Law’ to revive closed factories",
+      "title": "Businesses seek 'sick industries law' to revive closed factories",
       "link": "https://www.tbsnews.net/economy/businesses-seek-sick-industries-law-revive-closed-factories-1510636",
       "pubDate": "Sun, 09 Aug 2026 19:40:00 +0600",
       "category": "Bangladesh",
@@ -20,7 +97,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/organization/logo/the_chittagong_chamber_of_commerce_industry.png",
-      "snippet": "Tk60,000 crore package aims to create around 2.5 million jobs"
+      "snippet": "Tk60,000 crore package aims to create around 2.5 million jobs."
     },
     {
       "title": "Ex-CJ ABM Khairul can't be arrested, harassed unless named in specific case: SC",
@@ -100,7 +177,7 @@
       "snippet": "Prosecutor says 14 call recordings presented to the tribunal were forensically verified, showing alleged instructions to suppress the 2024 July Uprising."
     },
     {
-      "title": "Chattogram Port scraps 5-year tender for 'shifting empty containers' accused of favouring 2 operators",
+      "title": "Chattogram Port scraps 5-year tender for shifting empty containers accused of 'favouring 2 operators'",
       "link": "https://www.tbsnews.net/bangladesh/chattogram-port-scraps-5-year-tender-shifting-empty-containers-accused-favouring-2",
       "pubDate": "Sun, 09 Aug 2026 18:10:00 +0600",
       "category": "Bangladesh",
@@ -188,81 +265,26 @@
       "snippet": "Government hopes to move forward towards 10-year plan for the country’s energy and power sectors to ensure reliable electricity and gas supplies."
     },
     {
-      "title": "Bangladesh's total voter count rises to 12.86 crore",
-      "link": "https://www.tbsnews.net/bangladesh/bangladeshs-total-voter-count-rises-1286-crore-1510456",
-      "pubDate": "Sun, 09 Aug 2026 17:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/21/election_commission_0.jpg",
-      "snippet": "The number of voters has increased by 3,09,315 between 14 May and 31 July, says EC Senior Secretary Akhtar Ahmed."
-    },
-    {
-      "title": "Bangladesh seeks visa-on-arrival facility from Indonesia",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-seeks-visa-arrival-facility-indonesia-1510411",
-      "pubDate": "Sun, 09 Aug 2026 16:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/indonesia_visa.jpeg",
-      "snippet": "Indonesia is a popular destination among Bangladeshi travellers, says Civil Aviation and Tourism Minister Afroza Khanam."
-    },
-    {
       "title": "Cenbank allows tour operators to sell overseas packages in taka",
       "link": "https://www.tbsnews.net/economy/banking/cenbank-allows-tour-operators-sell-overseas-packages-taka-1510396",
       "pubDate": "Sun, 09 Aug 2026 16:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/tbs_16.png",
       "snippet": "Issuing a circular today (9 August), the central bank said the facility would allow eligible tour operators to collect payments in taka and settle payments with overseas service providers through authorised dealer (AD) banks"
-    },
-    {
-      "title": "BB reserve heist probe report deferred for 97th time",
-      "link": "https://www.tbsnews.net/bangladesh/court/bb-reserve-heist-probe-report-deferred-97th-time-1510381",
-      "pubDate": "Sun, 09 Aug 2026 15:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/03/02/reserve_heist.png",
-      "snippet": "CID was scheduled to submit the probe report today but failed to do so."
-    },
-    {
-      "title": "Salman Shah murder: Actor Don arrested at Dhaka airport",
-      "link": "https://www.tbsnews.net/bangladesh/salman-shah-murder-actor-don-arrested-dhaka-airport-1510386",
-      "pubDate": "Sun, 09 Aug 2026 15:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/blurred-frame_1.jpg",
-      "snippet": "Police arrested Don at Dhaka airport while he was preparing to travel to Saudi Arabia to perform Umrah."
     },
     {
       "title": "Science toys, math labs to be added to primary education: Bobby Hajjaj",
       "link": "https://www.tbsnews.net/bangladesh/education/science-toys-math-labs-be-added-primary-education-bobby-hajjaj-1510376",
       "pubDate": "Sun, 09 Aug 2026 15:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/20/bobby_hajjaj.jpg",
       "snippet": "Bobby said greater emphasis was being placed on science, mathematics, design and creativity in primary education."
-    },
-    {
-      "title": "3 more witnesses testify in Tk34cr graft case against S Alam, PK Halder, 11 others",
-      "link": "https://www.tbsnews.net/bangladesh/court/3-more-witnesses-testify-tk34cr-graft-case-against-s-alam-pk-halder-11-others",
-      "pubDate": "Sun, 09 Aug 2026 15:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/07/02/s-alam-pk-halder.jpg",
-      "snippet": "The witnesses testified before Judge Mohammad Abdullah Al Mamun of Dhaka Special Judge Court-5, after which defence lawyers cross-examined them."
     },
     {
       "title": "Measles death toll reaches 873 as 6 more children die in 24 hours",
@@ -681,18 +703,7 @@
       "icon": "🏭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/28/s_alam_group.jpg",
       "snippet": "S Alam Cold Rolled Steels shares down 9.28% since shutdown"
-    },
-    {
-      "title": "Beyond crime: How delayed justice weakens public trust",
-      "link": "https://www.tbsnews.net/thoughts/beyond-crime-how-delayed-justice-weakens-public-trust-1508451",
-      "pubDate": "Thu, 06 Aug 2026 20:30:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/06/1660100471-four-arrested-with-hoarded-diesel-stock-l.jpg",
-      "snippet": "When justice is delayed, the damage extends beyond crime itself. In Bangladesh’s crowded urban spaces, slow responses and weak enforcement can erode public trust, blur the line between formal authority and informal power, and leave many people feelin..."
     }
   ],
-  "updatedAt": "2026-08-09T14:06:40.635Z"
+  "updatedAt": "2026-08-09T15:01:16.647Z"
 }
