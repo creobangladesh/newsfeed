@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Dengue: Year's highest 672 hospitalised in a day, 2 more die",
+      "link": "https://www.tbsnews.net/bangladesh/health/2-die-dengue-672-hospitalised-single-day-record-1510486",
+      "pubDate": "Sun, 09 Aug 2026 17:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/25/05_news_copy.png",
+      "snippet": "The number of dengue-related deaths in the country this year has risen to 61."
+    },
+    {
+      "title": "Stay alert to attempts to create chaos, PM urges all",
+      "link": "https://www.tbsnews.net/bangladesh/stay-alert-attempts-create-chaos-pm-urges-all-1510481",
+      "pubDate": "Sun, 09 Aug 2026 17:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/stay_alert_to_attempts_to_create_chaos_pm_urges_all-converted-from-webp.jpeg",
+      "snippet": "Government hopes to move forward towards 10-year plan for the country’s energy and power sectors to ensure reliable electricity and gas supplies."
+    },
+    {
       "title": "Bangladesh's total voter count rises to 12.86 crore",
       "link": "https://www.tbsnews.net/bangladesh/bangladeshs-total-voter-count-rises-1286-crore-1510456",
       "pubDate": "Sun, 09 Aug 2026 17:05:00 +0600",
@@ -197,28 +219,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/767333536_28069835692702717_6729900908716924976_n.jpg",
       "snippet": "The ambassador arrived at the market around 9am, where Additional Deputy Commissioner Kawsar Hossain welcomed him with flowers."
-    },
-    {
-      "title": "Presidential election set to break 35-year run of unopposed contests as Jamaat enters race",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-set-first-presidential-vote-1991-jamaat-enters-race-1510236",
-      "pubDate": "Sun, 09 Aug 2026 13:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/25/bangabhaban.png",
-      "snippet": "If more than one valid candidate remains, MPs will vote in parliament from 2pm to 5pm on 20 August. There will be no voting if only one candidate remains."
-    },
-    {
-      "title": "TCB plans commercial sales of soap, tea, salt, flour, edible oil to reduce subsidies",
-      "link": "https://www.tbsnews.net/bangladesh/tcb-plans-commercial-sales-soap-tea-salt-flour-edible-oil-reduce-subsidies-1510086",
-      "pubDate": "Sun, 09 Aug 2026 13:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/oms_truck_tcb_goods_poor_4.jpg",
-      "snippet": "TCB aims to fully eliminate subsidy by 2030"
     },
     {
       "title": "Measles outbreak shows no signs of easing; actual vaccination coverage, effectiveness questioned ",
@@ -672,5 +672,5 @@
       "snippet": "The allocations for health, education and social protection have all received a meaningful boost after several years of neglect and low spending. But these allocations need to be protected in practice and the allocated amounts need to be spent well"
     }
   ],
-  "updatedAt": "2026-08-09T11:28:29.714Z"
+  "updatedAt": "2026-08-09T11:57:34.627Z"
 }
