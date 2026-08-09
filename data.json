@@ -1,6 +1,105 @@
 {
   "news": [
     {
+      "title": "BNP set to nominate Fakhrul as presidential candidate on 12 Aug",
+      "link": "https://www.tbsnews.net/bangladesh/politics/bnp-set-nominate-fakhrul-presidential-candidate-12-aug-1510571",
+      "pubDate": "Sun, 09 Aug 2026 18:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/01/fakhrul_at_may_day_rally.jpg",
+      "snippet": "The party is expected to make the announcement officially on 12 August."
+    },
+    {
+      "title": "RACE Asset Management's rejoinder and our reply",
+      "link": "https://www.tbsnews.net/economy/race-asset-managements-rejoinder-and-our-reply-1510566",
+      "pubDate": "Sun, 09 Aug 2026 18:40:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/race_logo_1.png",
+      "snippet": ""
+    },
+    {
+      "title": "Hasina did not trust party men or officials; monitored calls through NTMC: Prosecution",
+      "link": "https://www.tbsnews.net/bangladesh/court/hasina-did-not-trust-party-men-or-officials-monitored-calls-through-ntmc",
+      "pubDate": "Sun, 09 Aug 2026 18:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/ict.jpg",
+      "snippet": "Prosecutor says 14 call recordings presented to the tribunal were forensically verified, showing alleged instructions to suppress the 2024 July Uprising."
+    },
+    {
+      "title": "Chattogram Port scraps 5-year tender for 'shifting empty containers' accused of favouring 2 operators",
+      "link": "https://www.tbsnews.net/bangladesh/chattogram-port-scraps-5-year-tender-shifting-empty-containers-accused-favouring-2",
+      "pubDate": "Sun, 09 Aug 2026 18:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/02/13/ctg_port_container_photo_4_0.jpg",
+      "snippet": "The tender, floated on 14 June, was cancelled today."
+    },
+    {
+      "title": "Between happiness and governance: What Bangladesh can learn from Bhutan about democracy",
+      "link": "https://www.tbsnews.net/thoughts/between-happiness-and-governance-what-bangladesh-can-learn-bhutan-about-democracy-1510546",
+      "pubDate": "Sun, 09 Aug 2026 18:10:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/bhutan.jpg",
+      "snippet": "Bhutan's experiment with Gross National Happiness offers a provocative question for democracies: Can political legitimacy be strengthened when governments are judged not only by elections and institutions, but also by the wellbeing of citizens?"
+    },
+    {
+      "title": "Actor Don sent to jail hours after arrest in Salman Shah murder case",
+      "link": "https://www.tbsnews.net/bangladesh/court/actor-don-sent-jail-hours-after-arrest-salman-shah-murder-case-1510526",
+      "pubDate": "Sun, 09 Aug 2026 18:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/764906489_1410657767574461_3465651127139998590_n.jpg",
+      "snippet": "He was arrested while preparing to travel to Saudi Arabia for Umrah despite a travel ban in the case."
+    },
+    {
+      "title": "Ilias Ali disappearance: ICT issues arrest warrant against Air Force officer",
+      "link": "https://www.tbsnews.net/bangladesh/court/ilias-ali-disappearance-ict-issues-arrest-warrant-against-air-force-officer-1510541",
+      "pubDate": "Sun, 09 Aug 2026 18:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/ilias-ali-and-air-force-officer-collage.jpg",
+      "snippet": "Prosecution alleges Wing Commander Saif's involvement in disappearance"
+    },
+    {
+      "title": "Bangladesh, UK stress joint efforts to curb irregular migration, human trafficking",
+      "link": "https://www.tbsnews.net/foreign-policy/bangladesh-uk-stress-joint-efforts-curb-irregular-migration-human-trafficking-1510516",
+      "pubDate": "Sun, 09 Aug 2026 17:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/767265853_1389901763077982_4123623656388770515_n.jpg",
+      "snippet": "The two sides also discussed skills development, safe migration and cooperation in English, technical and vocational training."
+    },
+    {
+      "title": "Tarique to meet Chattogram grassroots BNP leaders for first time as PM",
+      "link": "https://www.tbsnews.net/bangladesh/politics/tarique-meet-chattogram-grassroots-bnp-leaders-first-time-pm-1510496",
+      "pubDate": "Sun, 09 Aug 2026 17:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/tarique_rahman.jpg",
+      "snippet": "He will hold a two-hour organisational meeting with leaders and activists of the party’s metropolitan, north and south district units, along with 11 affiliated and associate bodies."
+    },
+    {
       "title": "Dengue: Year's highest 672 hospitalised in a day, 2 more die",
       "link": "https://www.tbsnews.net/bangladesh/health/2-die-dengue-672-hospitalised-single-day-record-1510486",
       "pubDate": "Sun, 09 Aug 2026 17:35:00 +0600",
@@ -142,83 +241,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/untitled_design_1.png",
       "snippet": "He also spoke to the affected people and enquired after their families and their situation."
-    },
-    {
-      "title": "We expected president to be elected under July Charter, but govt rejected referendum verdict: Nahid",
-      "link": "https://www.tbsnews.net/bangladesh/politics/we-expected-president-be-elected-under-july-charter-govt-rejected-referendum",
-      "pubDate": "Sun, 09 Aug 2026 14:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/769905856_2117148005536026_1489164129368957486_n.jpg",
-      "snippet": "'Our expectation was that, following the election, the president would be elected according to the July Charter,' Nahid says"
-    },
-    {
-      "title": "Madrasah students block Dhaka-Mymensingh highway in Tongi after classmate killed in road accident",
-      "link": "https://www.tbsnews.net/bangladesh/madrasah-students-block-dhaka-mymensingh-highway-tongi-after-classmate-killed-road",
-      "pubDate": "Sun, 09 Aug 2026 14:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/student_protest.jpg",
-      "snippet": "The blockade resulted in long tailbacks on both sides of the highway."
-    },
-    {
-      "title": "PM Tarique people's person; India optimistic over solutions: Trivedi",
-      "link": "https://www.tbsnews.net/bangladesh/pm-tarique-peoples-person-india-optimistic-over-solutions-dinesh-trivedi-1510296",
-      "pubDate": "Sun, 09 Aug 2026 14:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/28fb34fe-2be9-470f-9e99-17d931d4365d.jpg",
-      "snippet": "The High Commissioner said there is huge demand for Indian visas and the capacity is gradually increasing."
-    },
-    {
-      "title": "Bangladesh among countries most vulnerable to climate change: Info minister",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-among-countries-most-vulnerable-climate-change-info-minister-1510291",
-      "pubDate": "Sun, 09 Aug 2026 14:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/06/image-392941-1780730776.jpg",
-      "snippet": "He said tackling the crisis would require global solutions alongside greater awareness over energy use."
-    },
-    {
-      "title": "DB arrests Boro Sazzad’s close aide during attempt to flee country",
-      "link": "https://www.tbsnews.net/bangladesh/db-arrests-boro-sazzads-close-aide-during-attempt-flee-country-1510276",
-      "pubDate": "Sun, 09 Aug 2026 13:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/761712086_3043295012532652_213390140157926891_n.jpg",
-      "snippet": "Police said Sarwar had obtained Danish travel documents by using forged documents and identifying himself as a Myanmar citizen"
-    },
-    {
-      "title": "Biman's stranded Rome flight arrives in Dhaka",
-      "link": "https://www.tbsnews.net/economy/aviation/bimans-stranded-rome-flight-arrives-dhaka-1510271",
-      "pubDate": "Sun, 09 Aug 2026 13:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/12/16/biman_bangladesh_airlines_1.jpg",
-      "snippet": "The Toronto-Rome-Dhaka flight was operated by a Boeing 787-9 Dreamliner."
-    },
-    {
-      "title": "US ambassador visits Jhalakathi's floating guava market ",
-      "link": "https://www.tbsnews.net/bangladesh/us-ambassador-visits-jhalakathis-floating-guava-market-1510246",
-      "pubDate": "Sun, 09 Aug 2026 13:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/767333536_28069835692702717_6729900908716924976_n.jpg",
-      "snippet": "The ambassador arrived at the market around 9am, where Additional Deputy Commissioner Kawsar Hossain welcomed him with flowers."
     },
     {
       "title": "Measles outbreak shows no signs of easing; actual vaccination coverage, effectiveness questioned ",
@@ -648,29 +670,7 @@
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/06/bb_sibl_1.jpg",
       "snippet": "The withdrawal follows Bangladesh Bank’s decision to hand over the management responsibilities of five Shariah-based banks to Sammilito Islami Bank."
-    },
-    {
-      "title": "Govt restores lottery for Class 1 admissions from 2027; SSC results on 10 Aug",
-      "link": "https://www.tbsnews.net/bangladesh/education/govt-restores-lottery-class-1-admissions-2027-ssc-results-10-aug-1508361",
-      "pubDate": "Thu, 06 Aug 2026 18:50:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/16/education_ministry.jpg",
-      "snippet": "The education ministry says admission tests will continue for Class 2 onwards."
-    },
-    {
-      "title": "Bangladesh needs to choose human development over fiscal convenience",
-      "link": "https://www.tbsnews.net/features/panorama/bangladesh-needs-choose-human-development-over-fiscal-convenience-1508291",
-      "pubDate": "Thu, 06 Aug 2026 18:00:00 +0600",
-      "category": "Analysis",
-      "color": "#5d4037",
-      "bg": "#efebe9",
-      "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/06/08_panorama_poverty_poor_1.jpg",
-      "snippet": "The allocations for health, education and social protection have all received a meaningful boost after several years of neglect and low spending. But these allocations need to be protected in practice and the allocated amounts need to be spent well"
     }
   ],
-  "updatedAt": "2026-08-09T11:57:34.627Z"
+  "updatedAt": "2026-08-09T13:03:02.168Z"
 }
