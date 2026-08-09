@@ -1,6 +1,72 @@
 {
   "news": [
     {
+      "title": "We expected president to be elected under July Charter, but govt rejected referendum verdict: Nahid",
+      "link": "https://www.tbsnews.net/bangladesh/politics/we-expected-president-be-elected-under-july-charter-govt-rejected-referendum",
+      "pubDate": "Sun, 09 Aug 2026 14:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/769905856_2117148005536026_1489164129368957486_n.jpg",
+      "snippet": "'Our expectation was that, following the election, the president would be elected according to the July Charter,' Nahid says"
+    },
+    {
+      "title": "Madrasah students block Dhaka-Mymensingh highway in Tongi after classmate killed in road accident",
+      "link": "https://www.tbsnews.net/bangladesh/madrasah-students-block-dhaka-mymensingh-highway-tongi-after-classmate-killed-road",
+      "pubDate": "Sun, 09 Aug 2026 14:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/student_protest.jpg",
+      "snippet": "The blockade resulted in long tailbacks on both sides of the highway."
+    },
+    {
+      "title": "PM Tarique people's person; India optimistic over solutions: Dinesh Trivedi",
+      "link": "https://www.tbsnews.net/bangladesh/pm-tarique-peoples-person-india-optimistic-over-solutions-dinesh-trivedi-1510296",
+      "pubDate": "Sun, 09 Aug 2026 14:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/28fb34fe-2be9-470f-9e99-17d931d4365d.jpg",
+      "snippet": "The High Commissioner said there is huge demand for Indian visas and the capacity is gradually increasing."
+    },
+    {
+      "title": "Bangladesh among countries most vulnerable to climate change: Info minister",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-among-countries-most-vulnerable-climate-change-info-minister-1510291",
+      "pubDate": "Sun, 09 Aug 2026 14:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/06/image-392941-1780730776.jpg",
+      "snippet": "He said tackling the crisis would require global solutions alongside greater awareness over energy use."
+    },
+    {
+      "title": "DB arrests Boro Sazzad’s close aide during attempt to flee country",
+      "link": "https://www.tbsnews.net/bangladesh/db-arrests-boro-sazzads-close-aide-during-attempt-flee-country-1510276",
+      "pubDate": "Sun, 09 Aug 2026 13:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/761712086_3043295012532652_213390140157926891_n.jpg",
+      "snippet": "Police said Sarwar had obtained Danish travel documents by using forged documents and identifying himself as a Myanmar citizen"
+    },
+    {
+      "title": "Biman's stranded Rome flight arrives in Dhaka",
+      "link": "https://www.tbsnews.net/economy/aviation/bimans-stranded-rome-flight-arrives-dhaka-1510271",
+      "pubDate": "Sun, 09 Aug 2026 13:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/12/16/biman_bangladesh_airlines_1.jpg",
+      "snippet": "The Toronto-Rome-Dhaka flight was operated by a Boeing 787-9 Dreamliner."
+    },
+    {
       "title": "US ambassador visits Jhalakathi's floating guava market ",
       "link": "https://www.tbsnews.net/bangladesh/us-ambassador-visits-jhalakathis-floating-guava-market-1510246",
       "pubDate": "Sun, 09 Aug 2026 13:05:00 +0600",
@@ -20,10 +86,10 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/bnp_logo.png",
-      "snippet": "Last Thursday, the EC announced the schedule, fixing 20 August for the presidential election. Nomination papers must be submitted by 13 August."
+      "snippet": "Last Thursday, the EC announced the schedule, fixing 20 August for the presidential election."
     },
     {
-      "title": "'Won't betray the nation,' Oli Ahmad pledges after Jamaat-led alliance picks him as presidential candidate",
+      "title": "'Won't betray the nation,' Oli pledges after Jamaat-led alliance picks him as presidential candidate",
       "link": "https://www.tbsnews.net/bangladesh/politics/jamaat-led-alliance-picks-oli-ahmad-presidential-candidate-1510226",
       "pubDate": "Sun, 09 Aug 2026 13:00:00 +0600",
       "category": "Bangladesh",
@@ -34,7 +100,7 @@
       "snippet": "'Because I have led my life with integrity, everyone unanimously proposed my name,' says LDP Chairman Colonel (retd) Oli Ahmad."
     },
     {
-      "title": "Bangladesh set for first presidential vote since 1991 as Jamaat enters race",
+      "title": "Presidential election set to break 35-year run of unopposed contests as Jamaat enters race",
       "link": "https://www.tbsnews.net/bangladesh/bangladesh-set-first-presidential-vote-1991-jamaat-enters-race-1510236",
       "pubDate": "Sun, 09 Aug 2026 13:00:00 +0600",
       "category": "Bangladesh",
@@ -153,72 +219,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/shibir_dal_clash_dhaka_college.png",
       "snippet": "Police at the concerned stations said they had not received complaints from university authorities or victims."
-    },
-    {
-      "title": "BGB foils BSF bid to push in 3 people through Chuadanga border",
-      "link": "https://www.tbsnews.net/bangladesh/bgb-foils-bsf-bid-push-3-people-through-chuadanga-border-1510106",
-      "pubDate": "Sun, 09 Aug 2026 11:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/1000124241.jpg",
-      "snippet": "A patrol team of the Madhabkhali Border Outpost (BOP) intercepted them at the zero line and prevented their entry into Bangladesh, he added."
-    },
-    {
-      "title": "Arbitration in Bangladesh: How it works and when courts intervene",
-      "link": "https://www.tbsnews.net/bangladesh/court/arbitration-bangladesh-how-it-works-and-when-courts-intervene-1510111",
-      "pubDate": "Sun, 09 Aug 2026 11:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/09/arbitration-1200x800-1.jpg",
-      "snippet": "In Bangladesh, courts can become involved at several stages, including the appointment of arbitrators, interim protection and enforcement of awards."
-    },
-    {
-      "title": "CAG audit reveals Tk5cr loss in BCIC software purchase, management denies claim",
-      "link": "https://www.tbsnews.net/bangladesh/cag-audit-reveals-tk5cr-loss-bcic-software-purchase-management-denies-claim-1510056",
-      "pubDate": "Sun, 09 Aug 2026 11:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/27/bcic_logo.png",
-      "snippet": "BCIC has rejected the finding, saying that the audit failed to take into account changes to the project’s scope and that no financial loss occurred."
-    },
-    {
-      "title": "12 injured as Chhatra Dal, Chhatra League clash in Satkhira",
-      "link": "https://www.tbsnews.net/bangladesh/politics/12-injured-chhatra-dal-chhatra-league-clash-satkhira-1510041",
-      "pubDate": "Sun, 09 Aug 2026 10:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/767597131_1009192625454126_5861868480233608486_n.jpg",
-      "snippet": "Clashes erupted after a Chhatra Dal leader was reportedly detained over an altercation, leaving 12 injured from both sides."
-    },
-    {
-      "title": "Arbitration meant to be swift, but slow pace puts foreign investment at risk",
-      "link": "https://www.tbsnews.net/bangladesh/court/arbitration-meant-be-swift-slow-pace-puts-foreign-investment-risk-1510021",
-      "pubDate": "Sun, 09 Aug 2026 10:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/p_1arbitration1_copy.png",
-      "snippet": "Experts say delays in resolving commercial disputes discourage investors, particularly foreign direct investment."
-    },
-    {
-      "title": "PM reaches Matarbari to inspect deep-sea port, development projects",
-      "link": "https://www.tbsnews.net/bangladesh/pm-leaves-dhaka-maheshkhali-inspect-deep-sea-port-meet-flood-victims-ctg-1510031",
-      "pubDate": "Sun, 09 Aug 2026 09:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/att.70zphap1ajxlhrofyb8udqkdbdib84sqqy5h1ugpnzq.jpeg",
-      "snippet": "The helicopter carrying the prime minister left Tejgaon Airport around 9:15am."
     },
     {
       "title": "Construction of Delta Pharma’s $100m plant begins in Mirsarai, production expected by 2029",
@@ -683,5 +683,5 @@
       "snippet": "According to Android Authority, the lineup will consist of the Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL and Pixel 11 Pro Fold"
     }
   ],
-  "updatedAt": "2026-08-09T07:32:16.597Z"
+  "updatedAt": "2026-08-09T08:41:54.417Z"
 }
