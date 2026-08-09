@@ -1,6 +1,94 @@
 {
   "news": [
     {
+      "title": "Measles outbreak shows no signs of easing; actual vaccination coverage, effectiveness questioned ",
+      "link": "https://www.tbsnews.net/bangladesh/health/measles-outbreak-shows-no-signs-easing-actual-vaccination-coverage-effectiveness",
+      "pubDate": "Sun, 09 Aug 2026 12:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/14/vaccine.jpg",
+      "snippet": "IEDCR to assess vaccine effectiveness"
+    },
+    {
+      "title": "Rain forecast in parts of country  ",
+      "link": "https://www.tbsnews.net/bangladesh/rain-forecast-parts-country-1510161",
+      "pubDate": "Sun, 09 Aug 2026 12:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/4436048.jpg",
+      "snippet": "Day and night temperature may remain nearly unchanged over the country."
+    },
+    {
+      "title": "Boat-building keeps century-old tradition alive in Pirojpur's Nesarabad",
+      "link": "https://www.tbsnews.net/bangladesh/boat-building-keeps-century-old-tradition-alive-pirojpurs-nesarabad-1510151",
+      "pubDate": "Sun, 09 Aug 2026 11:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/5109551.jpg",
+      "snippet": "At least 5,000 to 6,000 families in the Atghar area are directly or indirectly involved in building traditional wooden boats."
+    },
+    {
+      "title": "Dismembered body of woman recovered in Cumilla; tenant held",
+      "link": "https://www.tbsnews.net/bangladesh/dismembered-body-woman-recovered-cumilla-tenant-held-1510156",
+      "pubDate": "Sun, 09 Aug 2026 11:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/cumilla_murder_case.jpg",
+      "snippet": "Police and local sources said Laily allegedly admitted during preliminary questioning to involvement in the killing."
+    },
+    {
+      "title": "Bangladeshi shot dead by BSF along Moulvibazar border",
+      "link": "https://www.tbsnews.net/bangladesh/bangladeshi-shot-dead-bsf-along-moulvibazar-border-1510136",
+      "pubDate": "Sun, 09 Aug 2026 11:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/12/25/border-india_and_bangladesh.jpg",
+      "snippet": "Lt Col Sarkar Asif Mahmud, commanding officer of Border Guard Bangladesh (BGB) 46 Battalion in Sreemangal, said they are taking necessary steps to gather further information about the incident."
+    },
+    {
+      "title": "Campus violence exposes gaps in police action beyond immediate clash control",
+      "link": "https://www.tbsnews.net/bangladesh/campus-violence-exposes-gaps-police-action-beyond-immediate-clash-control-1510061",
+      "pubDate": "Sun, 09 Aug 2026 11:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/p5_police_rd_8915.jpeg",
+      "snippet": "Police at the concerned stations said they had not received complaints from university authorities or victims."
+    },
+    {
+      "title": "BGB foils BSF bid to push in 3 people through Chuadanga border",
+      "link": "https://www.tbsnews.net/bangladesh/bgb-foils-bsf-bid-push-3-people-through-chuadanga-border-1510106",
+      "pubDate": "Sun, 09 Aug 2026 11:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/1000124241.jpg",
+      "snippet": "A patrol team of the Madhabkhali Border Outpost (BOP) intercepted them at the zero line and prevented their entry into Bangladesh, he added."
+    },
+    {
+      "title": "Arbitration in Bangladesh: How it works and when courts intervene",
+      "link": "https://www.tbsnews.net/bangladesh/court/arbitration-bangladesh-how-it-works-and-when-courts-intervene-1510111",
+      "pubDate": "Sun, 09 Aug 2026 11:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/09/arbitration-1200x800-1.jpg",
+      "snippet": "In Bangladesh, courts can become involved at several stages, including the appointment of arbitrators, interim protection and enforcement of awards."
+    },
+    {
       "title": "CAG audit reveals Tk5cr loss in BCIC software purchase, management denies claim",
       "link": "https://www.tbsnews.net/bangladesh/cag-audit-reveals-tk5cr-loss-bcic-software-purchase-management-denies-claim-1510056",
       "pubDate": "Sun, 09 Aug 2026 11:00:00 +0600",
@@ -34,7 +122,7 @@
       "snippet": "Experts say delays in resolving commercial disputes discourage investors, particularly foreign direct investment."
     },
     {
-      "title": "PM leaves Dhaka for Maheshkhali to inspect deep-sea port, meet flood victims in Ctg",
+      "title": "PM reaches Matarbari to inspect deep-sea port, development projects",
       "link": "https://www.tbsnews.net/bangladesh/pm-leaves-dhaka-maheshkhali-inspect-deep-sea-port-meet-flood-victims-ctg-1510031",
       "pubDate": "Sun, 09 Aug 2026 09:55:00 +0600",
       "category": "Bangladesh",
@@ -133,28 +221,6 @@
       "snippet": "Mobile courts will impose fines if dengue larvae are found at residential buildings or establishments in the DNCC area, he says."
     },
     {
-      "title": "Bangladesh needs bankable climate projects, innovative financing: Experts",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-needs-bankable-climate-projects-innovative-financing-experts-1509926",
-      "pubDate": "Sat, 08 Aug 2026 21:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/1000300644_0.jpg",
-      "snippet": "Organised by the Asian University for Women, the session brought together researchers, academics, climate finance specialists and journalists to discuss climate finance, displacement, governance and accountability."
-    },
-    {
-      "title": "Unauthorised sleeper buses on Dhaka-Sylhet highway raise accident risks: BRTA ",
-      "link": "https://www.tbsnews.net/bangladesh/unauthorised-sleeper-buses-dhaka-sylhet-highway-raise-accident-risks-brta-1509931",
-      "pubDate": "Sat, 08 Aug 2026 21:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/brta-collage.jpg",
-      "snippet": "Most sleeper buses were originally built as ordinary buses"
-    },
-    {
       "title": "Dhaka bourse seeks EOIs to update panel of brokerage auditors",
       "link": "https://www.tbsnews.net/economy/stocks/dhaka-bourse-seeks-eois-update-panel-brokerage-auditors-1509916",
       "pubDate": "Sat, 08 Aug 2026 21:40:00 +0600",
@@ -166,68 +232,13 @@
       "snippet": "Under the guidelines, brokerage firms must appoint statutory auditors from the DSE-approved panel."
     },
     {
-      "title": "Regulatory squeezes trigger foreign exit from BRAC Bank despite record profits",
-      "link": "https://www.tbsnews.net/economy/stocks/regulatory-squeezes-trigger-foreign-exit-brac-bank-despite-record-profits-1509911",
-      "pubDate": "Sat, 08 Aug 2026 21:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/23/brac_bank_logo_16x9.png",
-      "snippet": "Dhaka Stock Exchange data show foreign ownership falling steadily from 36.72% in February 2026, when the bank’s share price was rising strongly."
-    },
-    {
-      "title": "CU Senate session held amid student protests; 24 AL-backed teacher representatives absent",
-      "link": "https://www.tbsnews.net/bangladesh/cu-senate-session-held-amid-student-protests-24-al-backed-teacher-representatives-absent",
-      "pubDate": "Sat, 08 Aug 2026 21:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/cu_senate.jpg",
-      "snippet": "Student organisations protested the Senate session, while 24 members of the Cucsu announced a boycott, demanding action against teachers accused of backing the Awami League during the July Mass Uprising."
-    },
-    {
-      "title": "PM to visit Matarbari deep-sea port in Cox’s Bazar, flood-hit areas in Ctg tomorrow",
-      "link": "https://www.tbsnews.net/bangladesh/pm-visit-matarbari-deep-sea-port-coxs-bazar-flood-hit-areas-ctg-tomorrow-1509881",
-      "pubDate": "Sat, 08 Aug 2026 20:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/12/pm_tarique_hajj_meeting.png",
-      "snippet": "Tarique Rahman will review development projects in Matarbari and oversee rehabilitation efforts for flood victims in Banshkhali and Fatikchhari."
-    },
-    {
-      "title": "13-year-old pregnant after repeated 'rape' in Munshiganj; family demands justice",
-      "link": "https://www.tbsnews.net/bangladesh/crime/13-year-old-pregnant-after-repeated-rape-munshiganj-family-demands-justice-1509866",
-      "pubDate": "Sat, 08 Aug 2026 20:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/1000066665.jpg",
-      "snippet": "The primary accused denies the allegations and has called for a DNA test to identify the perpetrator, while the victim’s family has demanded legal action against all those allegedly involved."
-    },
-    {
-      "title": "Govt dismisses fuel import policy reports as ‘speculative and false’",
-      "link": "https://www.tbsnews.net/bangladesh/energy/govt-calls-reports-private-fuel-import-policy-speculative-false-1509836",
-      "pubDate": "Sat, 08 Aug 2026 19:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/govt_10.png",
-      "snippet": "The power and energy ministry says the proposed framework aims to strengthen energy security and create a more transparent and competitive fuel market."
-    },
-    {
       "title": "Bangladesh Bank ready to raise fund to boost Bangla QR use: Governor",
       "link": "https://www.tbsnews.net/economy/bangladesh-bank-sets-tk100cr-fund-boost-bangla-qr-use-1509826",
       "pubDate": "Sat, 08 Aug 2026 19:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/bangladesh-bank-with-logo2222.jpg",
       "snippet": "The country currently records around 1 crore digital transactions a month, but the central bank aims to raise this to 1 crore a day by the end of the current fiscal year - a nearly 30-fold increase in about 10 months."
     },
@@ -243,17 +254,6 @@
       "snippet": "The chamber said sustained disruptions in gas and electricity supply had severely hit production at export-oriented garment, textile and plastic factories, as well as small, medium and large manufacturing units nationwide."
     },
     {
-      "title": "The echoes of 1971: Pakistan’s hypocrisy on human rights is a familiar wound",
-      "link": "https://www.tbsnews.net/thoughts/echoes-1971-pakistans-hypocrisy-human-rights-familiar-wound-1509721",
-      "pubDate": "Sat, 08 Aug 2026 18:20:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/01000000-0aff-0242-cb05-08dcafec0b7d_w1023_r1_s.jpg",
-      "snippet": "History has a way of stripping away masks. Few contradictions are as glaring as a state preaching human rights to the world while its own security apparatus inflicts brutal violence on populations under its control"
-    },
-    {
       "title": "The AI-driven economic flywheel",
       "link": "https://www.tbsnews.net/thoughts/ai-driven-economic-flywheel-1509691",
       "pubDate": "Sat, 08 Aug 2026 18:20:00 +0600",
@@ -263,6 +263,17 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/health_0.png",
       "snippet": "If deployed beyond automation and into education, agriculture, healthcare, business and public services, AI could multiply productivity, widen access to opportunity and strengthen institutional trust — creating a self-reinforcing cycle of investment,..."
+    },
+    {
+      "title": "The echoes of 1971: Pakistan’s hypocrisy on human rights is a familiar wound",
+      "link": "https://www.tbsnews.net/thoughts/echoes-1971-pakistans-hypocrisy-human-rights-familiar-wound-1509721",
+      "pubDate": "Sat, 08 Aug 2026 18:20:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/01000000-0aff-0242-cb05-08dcafec0b7d_w1023_r1_s.jpg",
+      "snippet": "History has a way of stripping away masks. Few contradictions are as glaring as a state preaching human rights to the world while its own security apparatus inflicts brutal violence on populations under its control"
     },
     {
       "title": "Transforming and restructuring the health sector to implement the BNP election manifesto",
@@ -648,29 +659,7 @@
       "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/06/google_pixel_11_android.jpg",
       "snippet": "According to Android Authority, the lineup will consist of the Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL and Pixel 11 Pro Fold"
-    },
-    {
-      "title": "Bangladesh writes to China to inspect 1,000-bed friendship hospital project site",
-      "link": "https://www.tbsnews.net/bangladesh/health/bangladesh-writes-china-inspect-1000-bed-friendship-hospital-project-site-1507811",
-      "pubDate": "Thu, 06 Aug 2026 11:40:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/06/hospital_representational_freepik.jpg",
-      "snippet": "The hospital, planned on about 25 acres beside Darwani Textile Mills in Charaikhola Union along the Syedpur-Nilphamari road, is expected to be built with Chinese grant assistance"
-    },
-    {
-      "title": "How freelancing changes rural economy – but exposing it to crypto risks",
-      "link": "https://www.tbsnews.net/bangladesh/how-freelancing-changes-rural-economy-exposing-it-crypto-risks-1507786",
-      "pubDate": "Thu, 06 Aug 2026 11:20:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/06/freelancing.png",
-      "snippet": "Housewives, farmers, fishermen and students also show surprisingly high levels of involvement, collectively accounting for nearly Tk800 crore in online gambling, betting and cryptocurrency-related transactions"
     }
   ],
-  "updatedAt": "2026-08-09T05:04:54.157Z"
+  "updatedAt": "2026-08-09T06:08:08.544Z"
 }
