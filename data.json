@@ -1,6 +1,72 @@
 {
   "news": [
     {
+      "title": "July PMI jumps to 57.8 on manufacturing rebound, export surge",
+      "link": "https://www.tbsnews.net/economy/july-pmi-jumps-578-manufacturing-rebound-export-surge-1510631",
+      "pubDate": "Sun, 09 Aug 2026 19:45:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/08/pmi.jpg",
+      "snippet": "Manufacturing led the recovery, with its PMI surging 16.6 points to 65.4, while agriculture and services also remained in expansion."
+    },
+    {
+      "title": "Businesses seek ‘Sick Industries Law’ to revive closed factories",
+      "link": "https://www.tbsnews.net/economy/businesses-seek-sick-industries-law-revive-closed-factories-1510636",
+      "pubDate": "Sun, 09 Aug 2026 19:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/organization/logo/the_chittagong_chamber_of_commerce_industry.png",
+      "snippet": "Tk60,000 crore package aims to create around 2.5 million jobs"
+    },
+    {
+      "title": "Ex-CJ ABM Khairul can't be arrested, harassed unless named in specific case: SC",
+      "link": "https://www.tbsnews.net/bangladesh/court/ex-cj-abm-khairul-cant-be-arrested-harassed-unless-named-specific-case-sc-1510606",
+      "pubDate": "Sun, 09 Aug 2026 19:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/10/541755528_631410593376329_976030844878107813_n.jpg",
+      "snippet": "The apex court also ordered the High Court to quickly dispose of the rule challenging the legality of his arrest and harassment."
+    },
+    {
+      "title": "AmCham urges policy reforms to accelerate Bangladesh's digital economy",
+      "link": "https://www.tbsnews.net/economy/amcham-urges-policy-reforms-accelerate-bangladeshs-digital-economy-1510611",
+      "pubDate": "Sun, 09 Aug 2026 19:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/amcham_programme_9_august.png",
+      "snippet": "Rehan Asif Asad, advisor to the Prime Minister on Post, Telecommunication, ICT, Science and Technology, attended the event as the chief guest."
+    },
+    {
+      "title": "Bangladesh must give its elephants a future",
+      "link": "https://www.tbsnews.net/features/panorama/bangladesh-must-give-its-elephants-future-1510596",
+      "pubDate": "Sun, 09 Aug 2026 19:25:00 +0600",
+      "category": "Analysis",
+      "color": "#5d4037",
+      "bg": "#efebe9",
+      "icon": "🔍",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/20260711_rajibdhar_9987_1.jpg",
+      "snippet": "Protecting the country’s remaining elephant population will require restoring degraded forests, securing elephant corridors, improving human-elephant conflict management and putting wildlife conservation at the centre of development planning"
+    },
+    {
+      "title": "SSC, equivalent exam 2026: Here's how you can check results online and via SMS",
+      "link": "https://www.tbsnews.net/bangladesh/ssc-equivalent-exam-results-2026-heres-how-you-can-check-online-and-sms-1510576",
+      "pubDate": "Sun, 09 Aug 2026 19:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/04/10/ssc_exam.jpeg",
+      "snippet": "The results are available online through the official website of the education boards, all exam centres and institutions, and via SMS."
+    },
+    {
       "title": "BNP set to nominate Fakhrul as presidential candidate on 12 Aug",
       "link": "https://www.tbsnews.net/bangladesh/politics/bnp-set-nominate-fakhrul-presidential-candidate-12-aug-1510571",
       "pubDate": "Sun, 09 Aug 2026 18:50:00 +0600",
@@ -9,7 +75,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/01/fakhrul_at_may_day_rally.jpg",
-      "snippet": "The party is expected to make the announcement officially on 12 August."
+      "snippet": "With the BNP holding a two-thirds majority in parliament, its nominee is widely expected to win the presidency."
     },
     {
       "title": "RACE Asset Management's rejoinder and our reply",
@@ -199,48 +265,15 @@
       "snippet": "The witnesses testified before Judge Mohammad Abdullah Al Mamun of Dhaka Special Judge Court-5, after which defence lawyers cross-examined them."
     },
     {
-      "title": "Import LC settlements edge up 0.09% in FY26",
-      "link": "https://www.tbsnews.net/infograph/numbers/import-lc-settlements-edge-009-fy26-1510371",
-      "pubDate": "Sun, 09 Aug 2026 15:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/lc-settlement.png",
-      "snippet": ""
-    },
-    {
       "title": "Measles death toll reaches 873 as 6 more children die in 24 hours",
       "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-873-6-more-children-die-24-hours-1510336",
       "pubDate": "Sun, 09 Aug 2026 15:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/11/measles_tbs.jpeg",
       "snippet": "With the latest update, the number of suspected measles deaths has risen to 775 while the number of laboratory-confirmed measles deaths has reached 98."
-    },
-    {
-      "title": "PM stresses efficient use of existing infrastructure for power, energy security",
-      "link": "https://www.tbsnews.net/bangladesh/pm-stresses-efficient-use-existing-infrastructure-power-energy-security-1510346",
-      "pubDate": "Sun, 09 Aug 2026 15:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/772137092_2649829258850772_6861463716153394357_n.png",
-      "snippet": "The Prime Minister made the remarks during a visit to the 1,200MW Matarbari Ultra-Supercritical Coal-Fired Power Plant in Maheshkhali upazila of Cox’s Bazar."
-    },
-    {
-      "title": "PM hands over new homes to flood-hit families in Banshkhali",
-      "link": "https://www.tbsnews.net/bangladesh/pm-hands-over-new-homes-flood-hit-families-banshkhali-1510316",
-      "pubDate": "Sun, 09 Aug 2026 14:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/untitled_design_1.png",
-      "snippet": "He also spoke to the affected people and enquired after their families and their situation."
     },
     {
       "title": "Measles outbreak shows no signs of easing; actual vaccination coverage, effectiveness questioned ",
@@ -659,18 +692,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/06/1660100471-four-arrested-with-hoarded-diesel-stock-l.jpg",
       "snippet": "When justice is delayed, the damage extends beyond crime itself. In Bangladesh’s crowded urban spaces, slow responses and weak enforcement can erode public trust, blur the line between formal authority and informal power, and leave many people feelin..."
-    },
-    {
-      "title": "Bangladesh Bank withdraws administrator team from Social Islami Bank",
-      "link": "https://www.tbsnews.net/economy/banking/bangladesh-bank-withdraws-administrator-social-islami-bank-1508431",
-      "pubDate": "Thu, 06 Aug 2026 20:05:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/06/bb_sibl_1.jpg",
-      "snippet": "The withdrawal follows Bangladesh Bank’s decision to hand over the management responsibilities of five Shariah-based banks to Sammilito Islami Bank."
     }
   ],
-  "updatedAt": "2026-08-09T13:03:02.168Z"
+  "updatedAt": "2026-08-09T14:06:40.635Z"
 }
