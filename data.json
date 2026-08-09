@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Bangladesh's total voter count rises to 12.86 crore",
+      "link": "https://www.tbsnews.net/bangladesh/bangladeshs-total-voter-count-rises-1286-crore-1510456",
+      "pubDate": "Sun, 09 Aug 2026 17:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/21/election_commission_0.jpg",
+      "snippet": "The number of voters has increased by 3,09,315 between 14 May and 31 July, says EC Senior Secretary Akhtar Ahmed."
+    },
+    {
+      "title": "Bangladesh seeks visa-on-arrival facility from Indonesia",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-seeks-visa-arrival-facility-indonesia-1510411",
+      "pubDate": "Sun, 09 Aug 2026 16:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/indonesia_visa.jpeg",
+      "snippet": "Indonesia is a popular destination among Bangladeshi travellers, says Civil Aviation and Tourism Minister Afroza Khanam."
+    },
+    {
       "title": "Cenbank allows tour operators to sell overseas packages in taka",
       "link": "https://www.tbsnews.net/economy/banking/cenbank-allows-tour-operators-sell-overseas-packages-taka-1510396",
       "pubDate": "Sun, 09 Aug 2026 16:00:00 +0600",
@@ -45,17 +67,6 @@
       "snippet": "Bobby said greater emphasis was being placed on science, mathematics, design and creativity in primary education."
     },
     {
-      "title": "Import LC settlements edge up 0.09% in FY26",
-      "link": "https://www.tbsnews.net/infograph/numbers/import-lc-settlements-edge-009-fy26-1510371",
-      "pubDate": "Sun, 09 Aug 2026 15:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/lc-settlement.png",
-      "snippet": ""
-    },
-    {
       "title": "3 more witnesses testify in Tk34cr graft case against S Alam, PK Halder, 11 others",
       "link": "https://www.tbsnews.net/bangladesh/court/3-more-witnesses-testify-tk34cr-graft-case-against-s-alam-pk-halder-11-others",
       "pubDate": "Sun, 09 Aug 2026 15:40:00 +0600",
@@ -65,6 +76,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/07/02/s-alam-pk-halder.jpg",
       "snippet": "The witnesses testified before Judge Mohammad Abdullah Al Mamun of Dhaka Special Judge Court-5, after which defence lawyers cross-examined them."
+    },
+    {
+      "title": "Import LC settlements edge up 0.09% in FY26",
+      "link": "https://www.tbsnews.net/infograph/numbers/import-lc-settlements-edge-009-fy26-1510371",
+      "pubDate": "Sun, 09 Aug 2026 15:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/lc-settlement.png",
+      "snippet": ""
     },
     {
       "title": "Measles death toll reaches 873 as 6 more children die in 24 hours",
@@ -175,28 +197,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/767333536_28069835692702717_6729900908716924976_n.jpg",
       "snippet": "The ambassador arrived at the market around 9am, where Additional Deputy Commissioner Kawsar Hossain welcomed him with flowers."
-    },
-    {
-      "title": "Presidential polls: BNP collects 2 nomination forms",
-      "link": "https://www.tbsnews.net/bangladesh/politics/presidential-polls-bnp-collects-2-nomination-papers-1510221",
-      "pubDate": "Sun, 09 Aug 2026 13:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/bnp_logo.png",
-      "snippet": "Last Thursday, the EC announced the schedule, fixing 20 August for the presidential election."
-    },
-    {
-      "title": "'Won't betray the nation,' Oli pledges after Jamaat-led alliance picks him as presidential candidate",
-      "link": "https://www.tbsnews.net/bangladesh/politics/jamaat-led-alliance-picks-oli-ahmad-presidential-candidate-1510226",
-      "pubDate": "Sun, 09 Aug 2026 13:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/766220353_1933057697370645_7760106862727036323_n.jpg",
-      "snippet": "'Because I have led my life with integrity, everyone unanimously proposed my name,' says LDP Chairman Colonel (retd) Oli Ahmad."
     },
     {
       "title": "Presidential election set to break 35-year run of unopposed contests as Jamaat enters race",
@@ -672,5 +672,5 @@
       "snippet": "The allocations for health, education and social protection have all received a meaningful boost after several years of neglect and low spending. But these allocations need to be protected in practice and the allocated amounts need to be spent well"
     }
   ],
-  "updatedAt": "2026-08-09T10:34:09.085Z"
+  "updatedAt": "2026-08-09T11:28:29.714Z"
 }
