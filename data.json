@@ -1,6 +1,83 @@
 {
   "news": [
     {
+      "title": "US ambassador visits Jhalakathi's floating guava market ",
+      "link": "https://www.tbsnews.net/bangladesh/us-ambassador-visits-jhalakathis-floating-guava-market-1510246",
+      "pubDate": "Sun, 09 Aug 2026 13:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/767333536_28069835692702717_6729900908716924976_n.jpg",
+      "snippet": "The ambassador arrived at the market around 9am, where Additional Deputy Commissioner Kawsar Hossain welcomed him with flowers."
+    },
+    {
+      "title": "Presidential polls: BNP collects 2 nomination forms",
+      "link": "https://www.tbsnews.net/bangladesh/politics/presidential-polls-bnp-collects-2-nomination-papers-1510221",
+      "pubDate": "Sun, 09 Aug 2026 13:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/bnp_logo.png",
+      "snippet": "Last Thursday, the EC announced the schedule, fixing 20 August for the presidential election. Nomination papers must be submitted by 13 August."
+    },
+    {
+      "title": "'Won't betray the nation,' Oli Ahmad pledges after Jamaat-led alliance picks him as presidential candidate",
+      "link": "https://www.tbsnews.net/bangladesh/politics/jamaat-led-alliance-picks-oli-ahmad-presidential-candidate-1510226",
+      "pubDate": "Sun, 09 Aug 2026 13:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/766220353_1933057697370645_7760106862727036323_n.jpg",
+      "snippet": "'Because I have led my life with integrity, everyone unanimously proposed my name,' says LDP Chairman Colonel (retd) Oli Ahmad."
+    },
+    {
+      "title": "Bangladesh set for first presidential vote since 1991 as Jamaat enters race",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-set-first-presidential-vote-1991-jamaat-enters-race-1510236",
+      "pubDate": "Sun, 09 Aug 2026 13:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/25/bangabhaban.png",
+      "snippet": "If more than one valid candidate remains, MPs will vote in parliament from 2pm to 5pm on 20 August. There will be no voting if only one candidate remains."
+    },
+    {
+      "title": "TCB plans commercial sales of soap, tea, salt, flour, edible oil to reduce subsidies",
+      "link": "https://www.tbsnews.net/bangladesh/tcb-plans-commercial-sales-soap-tea-salt-flour-edible-oil-reduce-subsidies-1510086",
+      "pubDate": "Sun, 09 Aug 2026 13:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/20/oms_truck_tcb_goods_poor_4.jpg",
+      "snippet": "TCB aims to fully eliminate subsidy by 2030"
+    },
+    {
+      "title": "SC maintains status quo on construction at historic Mahasthangarh",
+      "link": "https://www.tbsnews.net/bangladesh/court/sc-maintains-status-quo-construction-historic-mahasthangarh-1510231",
+      "pubDate": "Sun, 09 Aug 2026 12:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/12/04/bogura_mahasthangarh_3_.jpg",
+      "snippet": "Reports in 2010 revealed the shrine committee's plans to construct a mosque at Mahasthangarh."
+    },
+    {
+      "title": "Asian University for Women climate conference urges community-led climate action, direct finance",
+      "link": "https://www.tbsnews.net/bangladesh/asian-university-women-climate-conference-urges-community-led-climate-action-direct",
+      "pubDate": "Sun, 09 Aug 2026 12:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/1000300676.jpg",
+      "snippet": "The two-day conference, held on 7-8 August at Sonapahar Farmhouse Resort in Cox’s Bazar, brought together more than 150 researchers, policymakers and students from Bangladesh and other countries in the Global South."
+    },
+    {
       "title": "Measles outbreak shows no signs of easing; actual vaccination coverage, effectiveness questioned ",
       "link": "https://www.tbsnews.net/bangladesh/health/measles-outbreak-shows-no-signs-easing-actual-vaccination-coverage-effectiveness",
       "pubDate": "Sun, 09 Aug 2026 12:00:00 +0600",
@@ -8,7 +85,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/14/vaccine.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/measlessssssss.jpeg",
       "snippet": "IEDCR to assess vaccine effectiveness"
     },
     {
@@ -21,6 +98,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/4436048.jpg",
       "snippet": "Day and night temperature may remain nearly unchanged over the country."
+    },
+    {
+      "title": "7 venues prepared, 2,500 cops deployed for Tarique's Ctg visit; meeting with Hefazat chief on agenda",
+      "link": "https://www.tbsnews.net/bangladesh/politics/7-venues-prepared-2500-cops-deployed-tariques-ctg-visit-pm-meet-hefazat-chief",
+      "pubDate": "Sun, 09 Aug 2026 12:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/tbs_15.png",
+      "snippet": "Seven venues have been prepared for the prime minister’s programmes in Chattogram and surrounding areas, while around 2,500 police personnel have been prepared to ensure security during the visit."
     },
     {
       "title": "Boat-building keeps century-old tradition alive in Pirojpur's Nesarabad",
@@ -63,7 +151,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/p5_police_rd_8915.jpeg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/shibir_dal_clash_dhaka_college.png",
       "snippet": "Police at the concerned stations said they had not received complaints from university authorities or victims."
     },
     {
@@ -136,89 +224,23 @@
       "title": "Construction of Delta Pharma’s $100m plant begins in Mirsarai, production expected by 2029",
       "link": "https://www.tbsnews.net/economy/industry/construction-delta-pharmas-100m-plant-begins-mirsarai-production-expected-2029",
       "pubDate": "Sun, 09 Aug 2026 07:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/01/26/pharma.jpg",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/delta.png",
       "snippet": "The company’s two associate entities – Delta Life Sciences PLC and Delta API Ltd – plan to invest a total of $100 million in the long term. The first phase will involve an investment of approximately $43 million"
-    },
-    {
-      "title": "PM urges UNOs to work with responsibility, humanity for people's welfare",
-      "link": "https://www.tbsnews.net/bangladesh/pm-urges-unos-work-responsibility-humanity-peoples-welfare-1509986",
-      "pubDate": "Sun, 09 Aug 2026 01:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/pm_x_uno.jpeg",
-      "snippet": "Tarique Rahman also urged the UNOs to play a more active role in raising public awareness, saying every social problem cannot be solved simply by making or enforcing laws."
-    },
-    {
-      "title": "Army chief off to South Sudan, Abyei to visit peacekeeping mission areas",
-      "link": "https://www.tbsnews.net/bangladesh/army-chief-south-sudan-abyei-visit-peacekeeping-mission-areas-1509981",
-      "pubDate": "Sun, 09 Aug 2026 00:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/06/11/waker-uz-zaman.jpg",
-      "snippet": "He will also pay courtesy calls on and hold discussions with state and mission authorities concerned in both locations."
-    },
-    {
-      "title": "High taxes, weak returns holding back tourism investment, say industry experts",
-      "link": "https://www.tbsnews.net/bangladesh/high-taxes-weak-returns-holding-back-tourism-investment-say-industry-experts-1509976",
-      "pubDate": "Sun, 09 Aug 2026 00:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/06/13/bangladesh_tourism.jpg",
-      "snippet": "Bangladesh had never properly attempted to build a strong national brand despite having the resources, says Bida Chairman Ashik Chowdhury."
     },
     {
       "title": "Kaliakair Hi-Tech Park draws $1.64b investment proposals: Minister",
       "link": "https://www.tbsnews.net/bangladesh/kaliakair-hi-tech-park-draws-164b-investment-proposals-minister-1509966",
       "pubDate": "Sun, 09 Aug 2026 00:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/03/gazipur_kaliakoir_hi-tech_park_photo5.jpg",
       "snippet": "Park could generate one lakh direct and indirect jobs."
-    },
-    {
-      "title": "Jamaat to contest upcoming presidential election",
-      "link": "https://www.tbsnews.net/bangladesh/politics/jamaat-contest-upcoming-presidential-election-1509956",
-      "pubDate": "Sat, 08 Aug 2026 23:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/jamaat-e-islami_holds_meeting.jpg",
-      "snippet": "Eleven-party alliance to finalise opposition nominee on Sunday"
-    },
-    {
-      "title": "July fighters risked lives to 'free Bangladesh again': Housing minister",
-      "link": "https://www.tbsnews.net/bangladesh/july-fighters-risked-lives-free-bangladesh-again-housing-minister-1509941",
-      "pubDate": "Sat, 08 Aug 2026 22:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/housing_minister.jpg",
-      "snippet": "Housing Minister Zakaria Taher says families of those killed in Cumilla during the 2024 July Uprising will receive the same government support as other martyr families."
-    },
-    {
-      "title": "DNCC to fine buildings if dengue larvae found: Administrator Shafiqul",
-      "link": "https://www.tbsnews.net/bangladesh/dncc-fine-buildings-if-dengue-larvae-found-administrator-shafiqul-1509936",
-      "pubDate": "Sat, 08 Aug 2026 21:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/01/15/dncc.png",
-      "snippet": "Mobile courts will impose fines if dengue larvae are found at residential buildings or establishments in the DNCC area, he says."
     },
     {
       "title": "Dhaka bourse seeks EOIs to update panel of brokerage auditors",
@@ -661,5 +683,5 @@
       "snippet": "According to Android Authority, the lineup will consist of the Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL and Pixel 11 Pro Fold"
     }
   ],
-  "updatedAt": "2026-08-09T06:08:08.544Z"
+  "updatedAt": "2026-08-09T07:32:16.597Z"
 }
