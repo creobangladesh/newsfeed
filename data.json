@@ -1,6 +1,50 @@
 {
   "news": [
     {
+      "title": "Soy Connext 2026: Bangladesh's rising soy demand draws US exporters",
+      "link": "https://www.tbsnews.net/bangladesh/soy-connext-2026-bangladeshs-rising-soy-demand-draws-us-exporters-1510821",
+      "pubDate": "Mon, 10 Aug 2026 00:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/20260806_155616.jpg",
+      "snippet": "12-member Bangladeshi delegation explores sourcing, sustainability and market opportunities as US soybean exports eye wider global market."
+    },
+    {
+      "title": "Current account deficit hits $1.6b as import bills surge",
+      "link": "https://www.tbsnews.net/economy/current-account-deficit-hits-16b-import-bills-surge-1510811",
+      "pubDate": "Sun, 09 Aug 2026 23:55:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/09/09/collage-dollar.jpg",
+      "snippet": "Central bank data shows imports on a free-on-board (FOB) basis rose 10.5% to over $71.1 billion, up from $64.36 billion a year earlier."
+    },
+    {
+      "title": "BB declares four financial institutions non-viable, starts resolution process",
+      "link": "https://www.tbsnews.net/economy/banking/bb-declares-four-financial-institutions-non-viable-starts-resolution-process-1510806",
+      "pubDate": "Sun, 09 Aug 2026 23:50:00 +0600",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/07/30/bangladesh_bank.jpg",
+      "snippet": "The central bank dissolved the boards and cancelled the appointments of CEOs of Aviva Finance, Fareast Finance, FAS Finance and International Leasing."
+    },
+    {
+      "title": "Govt to launch red-yellow-green project monitoring dashboards  ",
+      "link": "https://www.tbsnews.net/bangladesh/govt-launch-red-yellow-green-project-monitoring-dashboards-1510801",
+      "pubDate": "Sun, 09 Aug 2026 23:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/govt_10.png",
+      "snippet": "Digital dashboards to put dev projects under constant watch."
+    },
+    {
       "title": "SUST forms probe body to identify teachers 'involved in anti-state activities'",
       "link": "https://www.tbsnews.net/bangladesh/education/sust-forms-probe-body-identify-teachers-involved-anti-state-activities-1510786",
       "pubDate": "Sun, 09 Aug 2026 21:55:00 +0600",
@@ -45,7 +89,7 @@
       "snippet": "The programme will provide entrepreneurs with hands-on training on Meta’s digital platforms and AI-powered tools."
     },
     {
-      "title": "8 foreign firms to trace overseas assets of 42 defaulting companies: BB",
+      "title": "Cenbank says 8 foreign firms to trace overseas assets of 42 defaulting firms",
       "link": "https://www.tbsnews.net/economy/banking/8-foreign-firms-trace-overseas-assets-42-defaulting-companies-bb-1510751",
       "pubDate": "Sun, 09 Aug 2026 21:35:00 +0600",
       "category": "Bangladesh",
@@ -177,17 +221,6 @@
       "snippet": "More than 6,000 factories were once listed as operating in Chattogram, but only around 2,700 remain active at present, they say"
     },
     {
-      "title": "AmCham urges policy reforms to accelerate Bangladesh's digital economy",
-      "link": "https://www.tbsnews.net/economy/amcham-urges-policy-reforms-accelerate-bangladeshs-digital-economy-1510611",
-      "pubDate": "Sun, 09 Aug 2026 19:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/amcham_programme_9_august.png",
-      "snippet": "Rehan Asif Asad, advisor to the Prime Minister on Post, Telecommunication, ICT, Science and Technology, attended the event as the chief guest."
-    },
-    {
       "title": "Ex-CJ ABM Khairul can't be arrested, harassed unless named in specific case: SC",
       "link": "https://www.tbsnews.net/bangladesh/court/ex-cj-abm-khairul-cant-be-arrested-harassed-unless-named-specific-case-sc-1510606",
       "pubDate": "Sun, 09 Aug 2026 19:30:00 +0600",
@@ -197,6 +230,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/10/541755528_631410593376329_976030844878107813_n.jpg",
       "snippet": "The apex court also ordered the High Court to quickly dispose of the rule challenging the legality of his arrest and harassment."
+    },
+    {
+      "title": "AmCham urges policy reforms to accelerate Bangladesh's digital economy",
+      "link": "https://www.tbsnews.net/economy/amcham-urges-policy-reforms-accelerate-bangladeshs-digital-economy-1510611",
+      "pubDate": "Sun, 09 Aug 2026 19:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/amcham_programme_9_august.png",
+      "snippet": "Rehan Asif Asad, advisor to the Prime Minister on Post, Telecommunication, ICT, Science and Technology, attended the event as the chief guest."
     },
     {
       "title": "Bangladesh must give its elephants a future",
@@ -221,7 +265,7 @@
       "snippet": "The results are available online through the official website of the education boards, all exam centres and institutions, and via SMS."
     },
     {
-      "title": "BNP set to nominate Fakhrul as presidential candidate on 12 Aug",
+      "title": "BNP set to nominate Mirza Fakhrul as presidential candidate on 12 Aug",
       "link": "https://www.tbsnews.net/bangladesh/politics/bnp-set-nominate-fakhrul-presidential-candidate-12-aug-1510571",
       "pubDate": "Sun, 09 Aug 2026 18:50:00 +0600",
       "category": "Bangladesh",
@@ -229,7 +273,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/01/fakhrul_at_may_day_rally.jpg",
-      "snippet": "With the BNP holding a two-thirds majority in parliament, its nominee is widely expected to win the presidency."
+      "snippet": "Opposition fields Oli Ahmad, raising the prospect of a contested race after 35 yrs."
     },
     {
       "title": "RACE Asset Management's rejoinder and our reply",
@@ -241,28 +285,6 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/race_logo_1.png",
       "snippet": ""
-    },
-    {
-      "title": "Hasina did not trust party men or officials; monitored calls through NTMC: Prosecution",
-      "link": "https://www.tbsnews.net/bangladesh/court/hasina-did-not-trust-party-men-or-officials-monitored-calls-through-ntmc",
-      "pubDate": "Sun, 09 Aug 2026 18:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/ict.jpg",
-      "snippet": "Prosecutor says 14 call recordings presented to the tribunal were forensically verified, showing alleged instructions to suppress the 2024 July Uprising."
-    },
-    {
-      "title": "Chattogram Port scraps 5-year tender for shifting empty containers accused of 'favouring 2 operators'",
-      "link": "https://www.tbsnews.net/bangladesh/chattogram-port-scraps-5-year-tender-shifting-empty-containers-accused-favouring-2",
-      "pubDate": "Sun, 09 Aug 2026 18:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/02/13/ctg_port_container_photo_4_0.jpg",
-      "snippet": "The tender, floated on 14 June, was cancelled today."
     },
     {
       "title": "Between happiness and governance: What Bangladesh can learn from Bhutan about democracy",
@@ -295,7 +317,7 @@
       "bg": "#e8f5e9",
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/tbs_16.png",
-      "snippet": "Issuing a circular today (9 August), the central bank said the facility would allow eligible tour operators to collect payments in taka and settle payments with overseas service providers through authorised dealer (AD) banks"
+      "snippet": "Issuing a circular today (9 August), the central bank said the facility would allow eligible tour operators to collect payments in taka and settle payments with overseas service providers through authorised dealer (AD) banks."
     },
     {
       "title": "Science toys, math labs to be added to primary education: Bobby Hajjaj",
@@ -694,5 +716,5 @@
       "snippet": "The parliamentary standing committee on the industries ministry has stressed ensuring transparency, accountability, and efficiency in implementing its Tk1,691.90 crore proposed budget for FY27."
     }
   ],
-  "updatedAt": "2026-08-09T17:31:11.647Z"
+  "updatedAt": "2026-08-09T18:39:54.658Z"
 }
