@@ -100,17 +100,6 @@
       "snippet": "July Uprising sought state reform and national unity, but political divisions remain, she says."
     },
     {
-      "title": "Cabinet clears drafts of human rights act, new visa policy",
-      "link": "https://www.tbsnews.net/bangladesh/cabinet-clears-drafts-human-rights-new-visa-policy-1511686",
-      "pubDate": "Mon, 10 Aug 2026 21:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/cabinet.jpg",
-      "snippet": "The draft laws received final approval at a Cabinet meeting chaired by Prime Minister Tarique Rahman at the Bangladesh Secretariat."
-    },
-    {
       "title": "Govt forms 22-member taskforce to cut red tape, ease doing business",
       "link": "https://www.tbsnews.net/bangladesh/govt-forms-22-member-taskforce-cut-red-tape-ease-doing-business-1511691",
       "pubDate": "Mon, 10 Aug 2026 21:30:00 +0600",
@@ -120,6 +109,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/govt_10.png",
       "snippet": "The taskforce will oversee reforms including single-window services, automatic approvals and online tracking to simplify licensing and other business-related government services."
+    },
+    {
+      "title": "Cabinet clears drafts of human rights act, new visa policy",
+      "link": "https://www.tbsnews.net/bangladesh/cabinet-clears-drafts-human-rights-new-visa-policy-1511686",
+      "pubDate": "Mon, 10 Aug 2026 21:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/cabinet.jpg",
+      "snippet": "The draft laws received final approval at a Cabinet meeting chaired by Prime Minister Tarique Rahman at the Bangladesh Secretariat."
     },
     {
       "title": "BU honours July uprising martyrs with discussion, documentary screening",
@@ -210,24 +210,13 @@
       "snippet": "The state minister said there was no alternative to sports in building a physically and mentally healthy future generation."
     },
     {
-      "title": "PM calls for building Bangladesh envisioned by July martyrs",
-      "link": "https://www.tbsnews.net/bangladesh/pm-calls-building-bangladesh-envisioned-july-martyrs-1511616",
+      "title": "Forex reserves stand at $32.15b",
+      "link": "https://www.tbsnews.net/economy/forex-reserves-stand-3215b-1511601",
       "pubDate": "Mon, 10 Aug 2026 20:35:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/prime_minister_tarique_rahman.jpg",
-      "snippet": "From sacrifice to service, PM calls for turning the July uprising’s aspirations into everyday action."
-    },
-    {
-      "title": "Forex reserves stand at $32.15b",
-      "link": "https://www.tbsnews.net/economy/forex-reserves-stand-3215b-1511601",
-      "pubDate": "Mon, 10 Aug 2026 20:35:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/16/forex.png",
       "snippet": "The latest reserve position comes a day after Bangladesh Bank reported that gross reserves had crossed the $32 billion mark."
     },
@@ -936,5 +925,5 @@
       "snippet": "Decline marks reversal from previous two fiscals"
     }
   ],
-  "updatedAt": "2026-08-10T19:30:51.117Z"
+  "updatedAt": "2026-08-10T20:41:50.428Z"
 }
