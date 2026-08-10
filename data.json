@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "BGB recovers 2.46 lakh yaba pills, foreign pistol, 5 bullets in Bandarban",
+      "link": "https://www.tbsnews.net/bangladesh/crime/bgb-recovers-246-lakh-yaba-pills-foreign-pistol-5-bullets-bandarban-1511751",
+      "pubDate": "Tue, 11 Aug 2026 00:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/coxs_bazar_bgb.jpg",
+      "snippet": "The seized drugs, firearm and ammunition were abandoned by suspected smugglers who fled during a midnight operation near the Myanmar border."
+    },
+    {
       "title": "Experts question Biman's Rome technical-stop planning after 40-hour passenger ordeal",
       "link": "https://www.tbsnews.net/economy/aviation/experts-question-bimans-rome-technical-stop-planning-after-40-hour-passenger-ordeal",
       "pubDate": "Mon, 10 Aug 2026 21:50:00 +0600",
@@ -78,15 +89,15 @@
       "snippet": "The party will decide how it will evaluate me, he says."
     },
     {
-      "title": "Foreign influence easier to establish in fragile states: Dilara",
-      "link": "https://www.tbsnews.net/bangladesh/foreign-influence-easier-establish-fragile-states-dilara-1511701",
+      "title": "Foreign influence easier to establish in fragile states: Prof Dilara",
+      "link": "https://www.tbsnews.net/bangladesh/foreign-influence-easier-establish-fragile-states-prof-dilara-1511701",
       "pubDate": "Mon, 10 Aug 2026 21:35:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/01/23/dilara_choudhury.png",
-      "snippet": "As geopolitical competition intensifies in the region, experts call for stronger institutions, national unity and greater transparency to prevent external powers from shaping Bangladesh’s decisions."
+      "snippet": "July Uprising sought state reform and national unity, but political divisions remain, she says."
     },
     {
       "title": "Cabinet clears drafts of human rights act, new visa policy",
@@ -213,15 +224,15 @@
       "title": "Forex reserves stand at $32.15b",
       "link": "https://www.tbsnews.net/economy/forex-reserves-stand-3215b-1511601",
       "pubDate": "Mon, 10 Aug 2026 20:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/16/forex.png",
       "snippet": "The latest reserve position comes a day after Bangladesh Bank reported that gross reserves had crossed the $32 billion mark."
     },
     {
-      "title": "Private hospitals, clinics to get 2-year licences from this fiscal year",
+      "title": "Hospital, clinic licence validity extended to two years",
       "link": "https://www.tbsnews.net/bangladesh/health/private-hospitals-clinics-get-2-year-licences-fiscal-year-1511611",
       "pubDate": "Mon, 10 Aug 2026 20:35:00 +0600",
       "category": "Health",
@@ -232,8 +243,8 @@
       "snippet": "The new validity period will apply to hospitals, clinics, diagnostic centres, dental clinics and medical check-up centres."
     },
     {
-      "title": "BB warns banks to deposit tax deducted from deposit interest on time",
-      "link": "https://www.tbsnews.net/economy/banking/bb-warns-banks-deposit-tax-deducted-deposit-interest-time-1511586",
+      "title": "BB warns banks over withholding tax deduction, delayed deposit",
+      "link": "https://www.tbsnews.net/economy/banking/bb-warns-banks-over-withholding-tax-deduction-delayed-deposit-1511586",
       "pubDate": "Mon, 10 Aug 2026 20:25:00 +0600",
       "category": "Banking",
       "color": "#00796b",
@@ -254,8 +265,8 @@
       "snippet": "Last year, students filled 58.7% of the total seats available for Class XI admission, leaving 41.3% vacant."
     },
     {
-      "title": "BB scraps Bangla QR fee, offers incentives to small merchants",
-      "link": "https://www.tbsnews.net/economy/banking/bb-scraps-bangla-qr-fee-offers-incentives-small-merchants-1511536",
+      "title": "BB waives Bangla QR charges to boost digital payments",
+      "link": "https://www.tbsnews.net/economy/banking/bb-waives-bangla-qr-charges-boost-digital-payments-1511536",
       "pubDate": "Mon, 10 Aug 2026 19:15:00 +0600",
       "category": "Banking",
       "color": "#00796b",
@@ -925,5 +936,5 @@
       "snippet": "Decline marks reversal from previous two fiscals"
     }
   ],
-  "updatedAt": "2026-08-10T18:13:30.033Z"
+  "updatedAt": "2026-08-10T19:30:51.117Z"
 }
