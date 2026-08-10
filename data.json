@@ -1,6 +1,105 @@
 {
   "news": [
     {
+      "title": "BB scraps Bangla QR fee, offers incentives to small merchants",
+      "link": "https://www.tbsnews.net/economy/banking/bb-scraps-bangla-qr-fee-offers-incentives-small-merchants-1511536",
+      "pubDate": "Mon, 10 Aug 2026 19:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/25/bangla_qr.png",
+      "snippet": "All banks, mobile financial services, and payment service providers and operators have been asked to comply with the new rule."
+    },
+    {
+      "title": "Ex-Jamaat MP Gazi Nazrul gets 8-week anticipatory bail in attempted murder case",
+      "link": "https://www.tbsnews.net/bangladesh/court/ex-jamaat-mp-gazi-nazrul-gets-8-week-anticipatory-bail-attempted-murder-case",
+      "pubDate": "Mon, 10 Aug 2026 19:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/ex-jamaat_mp_gazi_nazrul.png",
+      "snippet": "The Satkhira-4 lawmaker is accused in an attempted murder case filed with Pallabi Police Station over an alleged assault on his personal driver."
+    },
+    {
+      "title": "Behind the pass rates: Schools where no SSC candidate made it through",
+      "link": "https://www.tbsnews.net/bangladesh/education/behind-pass-rates-schools-where-no-ssc-candidate-made-it-through-1511531",
+      "pubDate": "Mon, 10 Aug 2026 19:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/37128c8b-52b6-4859-b657-d52ea2fe2ac8.jpg",
+      "snippet": "At least 10 schools under the Jashore and Rajshahi boards recorded zero passes this year, exposing stark disparities hidden by district-level results."
+    },
+    {
+      "title": "Fragile Bangladesh must now be rebuilt: PM",
+      "link": "https://www.tbsnews.net/bangladesh/fragile-bangladesh-must-now-be-rebuilt-pm-1511526",
+      "pubDate": "Mon, 10 Aug 2026 19:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/fragile_bangladesh_must_now_be_rebuilt.png",
+      "snippet": "The government had adopted a “Three-R” strategy- Recovery, Rehabilitation and Reconstruction- to consolidate the progress achieved in SDG implementation and the country’s graduation from the list of least developed countries (LDCs), Tarique says."
+    },
+    {
+      "title": "Dhaka South administrator pledges to make city greener through daily tree planting",
+      "link": "https://www.tbsnews.net/bangladesh/dhaka-south-administrator-pledges-make-city-greener-through-daily-tree-planting-1511516",
+      "pubDate": "Mon, 10 Aug 2026 18:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/770362848_27014934214846428_7650032053935270815_n.jpg",
+      "snippet": "The city corporation will undertake tree-planting programmes across its jurisdiction to reduce air pollution and restore environmental balance, says Administrator Abdus Salam."
+    },
+    {
+      "title": "AI could help lower-skill economies gain more, but adoption cost is key, says economist",
+      "link": "https://www.tbsnews.net/bangladesh/ai-could-help-lower-skill-economies-gain-more-adoption-cost-key-says-economist-1511511",
+      "pubDate": "Mon, 10 Aug 2026 18:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/22/artificial_intelligence.jpg",
+      "snippet": "As AI reduces the probability of failure, firms tend to deploy it where the potential returns are highest – typically at the weakest link in a production chain."
+    },
+    {
+      "title": "RU removes artwork after criticism over depiction of '2024 uprising outweighing 1971' on scales",
+      "link": "https://www.tbsnews.net/bangladesh/ru-removes-artwork-after-criticism-over-depiction-2024-uprising-outweighing-1971-scales",
+      "pubDate": "Mon, 10 Aug 2026 18:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/ru_artwork.jpg",
+      "snippet": "The artist says the work was meant to depict the ‘unequal comparison’ between the Liberation War and the July Uprising, while a Fine Arts faculty official admits the artworks were displayed without verification."
+    },
+    {
+      "title": "Salahuddin's disappearance case: Tribunal orders Ziaul Ahsan to appear on 27 Aug",
+      "link": "https://www.tbsnews.net/bangladesh/court/salahuddins-disappearance-case-tribunal-orders-ziaul-ahsan-appear-27-august-1511506",
+      "pubDate": "Mon, 10 Aug 2026 18:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/08/16/untitled_design_2.png",
+      "snippet": "The former RAB official is currently detained in several other cases involving allegations of crimes against humanity."
+    },
+    {
+      "title": "Egypt keen to invest in country's industrial sector",
+      "link": "https://www.tbsnews.net/economy/industry/egypt-keen-invest-countrys-industrial-sector-1511501",
+      "pubDate": "Mon, 10 Aug 2026 18:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/egypt_keen_to_invest_in_countrys_industrial_sector.png",
+      "snippet": "Muktadir calls for greater bilateral cooperation in industries, trade and investment with Egypt."
+    },
+    {
       "title": "Visa’s Regional President Karpin arrives in Bangladesh today on 3-day visit",
       "link": "https://www.tbsnews.net/bangladesh/visas-regional-president-karpin-arrives-bangladesh-today-3-day-visit-1511461",
       "pubDate": "Mon, 10 Aug 2026 17:45:00 +0600",
@@ -19,19 +118,19 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/10/police_bd.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/11/dmp_logo.jpg",
       "snippet": "The reshuffle also cancels Tania Sultana’s posting as ADC of the Traffic-Tejgaon Division."
     },
     {
-      "title": "Islami Bank accuses ex-president Shahabuddin, S Alam and 36 others of Tk500cr embezzlement",
+      "title": "Islami Bank accuses ex-president Shahabuddin, S Alam, 36 others of around Tk500cr embezzlement",
       "link": "https://www.tbsnews.net/bangladesh/corruption/islami-bank-accuses-ex-president-shahabuddin-s-alam-37-others-tk500cr",
       "pubDate": "Mon, 10 Aug 2026 17:40:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/shahabuddin-and-s-alam-collage.jpg",
-      "snippet": "Bank files complaint with ACC seeking investigation into alleged fraud"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/shahabuddin-and-s-alam-collage_0.jpg",
+      "snippet": "The bank recently submitted a written complaint to the Anti-Corruption Commission (ACC) over the alleged embezzlement of around Tk500 crore through loan fraud."
     },
     {
       "title": "Financial scams in Bangladesh: Why fraudsters continue to outsmart the system",
@@ -52,7 +151,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/dhaka_sylhet_road_accident.png",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/dhaka_sylhet_accident.png",
       "snippet": "Earlier, on 7 August, nine people were killed in a collision between two buses on the same highway."
     },
     {
@@ -122,17 +221,6 @@
       "snippet": "Dhaka says the BRICS invitation was extended to Tarique Rahman in his capacity as BIMSTEC chair, while a separate bilateral invitation from India for a visit remains under consideration."
     },
     {
-      "title": "86,709 religious institutions to come under state honorarium scheme: Ministry",
-      "link": "https://www.tbsnews.net/bangladesh/86709-religious-institutions-come-under-state-honorarium-scheme-ministry-1511356",
-      "pubDate": "Mon, 10 Aug 2026 16:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/08/image-393593-1780919745.jpg",
-      "snippet": "About one-fourth of the country's religious institutions will be covered this fiscal year, with the government planning to extend the scheme to all such institutions within three years."
-    },
-    {
       "title": "Ctg private healthcare workers demand Tk30,000 minimum wage",
       "link": "https://www.tbsnews.net/bangladesh/ctg-private-healthcare-workers-demand-tk30000-minimum-wage-1511371",
       "pubDate": "Mon, 10 Aug 2026 16:45:00 +0600",
@@ -144,15 +232,15 @@
       "snippet": "They also seek the abolition of contractor and outsourcing-based employment, the enforcement of labour laws and legal benefits."
     },
     {
-      "title": "Fabricated result culture of fascist era dismantled, impartial assessment ensured: Mahdi Amin",
-      "link": "https://www.tbsnews.net/bangladesh/education/fabricated-result-culture-fascist-era-dismantled-impartial-assessment-ensured",
-      "pubDate": "Mon, 10 Aug 2026 16:40:00 +0600",
+      "title": "86,709 religious institutions to come under state honorarium scheme: Ministry",
+      "link": "https://www.tbsnews.net/bangladesh/86709-religious-institutions-come-under-state-honorarium-scheme-ministry-1511356",
+      "pubDate": "Mon, 10 Aug 2026 16:45:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/image-413313-1786356163.jpg",
-      "snippet": "Mahdi Amin said the education sector was the most affected one during the previous fascist regime."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/08/image-393593-1780919745.jpg",
+      "snippet": "About one-fourth of the country's religious institutions will be covered this fiscal year, with the government planning to extend the scheme to all such institutions within three years."
     },
     {
       "title": "BB allows international cards for overseas education payments",
@@ -166,15 +254,15 @@
       "snippet": "The facility will allow students and their sponsors to use cards for tuition fees and other approved education-related expenses abroad without affecting existing travel quotas."
     },
     {
-      "title": "Dhaka hopes New Delhi won't undermine any pillar of state again: FM",
-      "link": "https://www.tbsnews.net/bangladesh/dhaka-hopes-new-delhi-wont-undermine-any-pillar-state-again-fm-1511336",
-      "pubDate": "Mon, 10 Aug 2026 16:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/26/653753993_940254128723922_6328848992295754260_n.jpg",
-      "snippet": "Dhaka says New Delhi has understood its concerns over Sheikh Hasina’s activities from India, while urging faster extradition of the convicted former prime minister and the suspected killers of Shaheed Osman Hadi."
+      "title": "Fabricated result culture of fascist era dismantled, impartial assessment ensured: Mahdi Amin",
+      "link": "https://www.tbsnews.net/bangladesh/education/fabricated-result-culture-fascist-era-dismantled-impartial-assessment-ensured",
+      "pubDate": "Mon, 10 Aug 2026 16:40:00 +0600",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/image-413313-1786356163.jpg",
+      "snippet": "Mahdi Amin said the education sector was the most affected one during the previous fascist regime."
     },
     {
       "title": "Measles: Death toll reaches 878 as 5 more die in 24 hours",
@@ -191,78 +279,23 @@
       "title": "58.05% students pass SSC exams in Dinajpur Board",
       "link": "https://www.tbsnews.net/bangladesh/education/5805-students-pass-ssc-exams-dinajpur-board-1511286",
       "pubDate": "Mon, 10 Aug 2026 15:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/image-413287-1786353187.jpg",
       "snippet": "A total of 13,639 student have secured GPA-5 from the board."
-    },
-    {
-      "title": "SSC 2026: English, maths emerge as major weak points ",
-      "link": "https://www.tbsnews.net/bangladesh/ssc-2026-english-maths-emerge-major-weak-points-1511251",
-      "pubDate": "Mon, 10 Aug 2026 15:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/07/12/screenshot_2025-07-12_at_00-58-26_senaabaahinii_pricaalit_shikssaa_prtisstthaansmuuhe_paaser_haar_98.85_the_business_standard.png",
-      "snippet": "Maths pass rates were also below 80% in Rajshahi, Barishal, Sylhet and Dinajpur."
     },
     {
       "title": "SSC 2026: Ctg Board records five-year low pass rate as Humanities results slump",
       "link": "https://www.tbsnews.net/bangladesh/education/ssc-2026-ctg-board-records-five-year-low-pass-rate-humanities-results-slump",
       "pubDate": "Mon, 10 Aug 2026 15:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/769838765_1346887494308459_5713235104749675688_n.jpg",
       "snippet": "A total of 130,682 students registered for the SSC examination under the Chattogram board, of whom 130,219 appeared and 77,453 passed."
-    },
-    {
-      "title": "'Hello DC' complaint leads to swift removal of garbage pile in Keraniganj",
-      "link": "https://www.tbsnews.net/bangladesh/hello-dc-complaint-leads-swift-removal-garbage-pile-keraniganj-1511241",
-      "pubDate": "Mon, 10 Aug 2026 15:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/767522777_1736627554299713_6589059492099044267_n.jpg",
-      "snippet": "Today (10 August), Dhaka District Commissioner Farida Khanom forwarded the complaint to the upazila nirbahi officer (UNO) and instructed him to take immediate action."
-    },
-    {
-      "title": "Presidential polls: Jamaat-led alliance collects nomination form for Oli Ahmad",
-      "link": "https://www.tbsnews.net/bangladesh/politics/presidential-election-11-party-alliance-collects-nomination-form-oli-ahmad",
-      "pubDate": "Mon, 10 Aug 2026 15:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/11-party_alliance.png",
-      "snippet": "Asked why the Jamaat-led alliance fielded a candidate even though the ruling party’s candidate is expected to win the election, Hamidur Rahman Azad said, “Winning or losing is not the issue here.\""
-    },
-    {
-      "title": "PM inaugurates 3 pilot SDG villages",
-      "link": "https://www.tbsnews.net/bangladesh/pm-inaugurates-3-pilot-sdg-villages-1511211",
-      "pubDate": "Mon, 10 Aug 2026 14:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/25/pm_tarique_rahman.jpg",
-      "snippet": "Govt is developing the 3 villages as models for localising the Sustainable Development Goals and implementing SDG-related initiatives at the grassroots level"
-    },
-    {
-      "title": "SSC 2026: Dhaka tops boards in pass rate, GPA-5s ",
-      "link": "https://www.tbsnews.net/bangladesh/ssc-2026-dhaka-tops-boards-pass-rate-gpa-5s-1511186",
-      "pubDate": "Mon, 10 Aug 2026 14:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/28/ssc.jpg",
-      "snippet": "The pass rate in the Dhaka board was 71.63%, according to results published today (10 August)."
     },
     {
       "title": "You can sing your heart out, but you can't just give away marks: Education minister",
@@ -483,17 +516,6 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/769838765_1346887494308459_5713235104749675688_n.jpg",
       "snippet": "The average pass rate in this year's SSC examinations under the nine general education boards fell to 64.05%, down from 68.04% last year, reflecting a decline of 3.99 percentage points."
-    },
-    {
-      "title": "How to check SSC, equivalent exam results",
-      "link": "https://www.tbsnews.net/bangladesh/education/how-check-ssc-equivalent-exam-results-1510886",
-      "pubDate": "Mon, 10 Aug 2026 09:45:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/28/ssc.jpg",
-      "snippet": "Students will be able to access their results online through the respective education board websites, from their educational institutions, and via SMS after the official publication."
     },
     {
       "title": "Current account deficit hits $1.6b as import bills surge",
@@ -824,29 +846,7 @@
       "icon": "🏭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/bb_govnor_meeting.jpg",
       "snippet": "A concept paper says reviving the industries could generate around 10 lakh jobs while helping address non-performing loans, but highlights key barriers as well."
-    },
-    {
-      "title": "Outsourcing the mind: When convenience replaces cognitive effort ",
-      "link": "https://www.tbsnews.net/thoughts/outsourcing-mind-when-convenience-replaces-cognitive-effort-1509031",
-      "pubDate": "Fri, 07 Aug 2026 19:10:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/sci_tech_copy_0.png",
-      "snippet": "A system, artificial or human, that stops learning from original, effortful, first-hand engagement with a problem will result in homogeneity, not creativity"
-    },
-    {
-      "title": "Why Bangladesh should power the AI economy ",
-      "link": "https://www.tbsnews.net/thoughts/why-bangladesh-should-power-ai-economy-1509021",
-      "pubDate": "Fri, 07 Aug 2026 19:05:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/r546kibkmvomnoph2pohkv3nwu.jpg",
-      "snippet": "Bangladesh's underutilised power infrastructure, expanding fibre networks and existing energy assets could provide the foundations for a globally competitive data-centre industry"
     }
   ],
-  "updatedAt": "2026-08-10T12:08:24.345Z"
+  "updatedAt": "2026-08-10T13:55:30.002Z"
 }
