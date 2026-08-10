@@ -1,6 +1,105 @@
 {
   "news": [
     {
+      "title": "58.05% students pass SSC exams in Dinajpur Board",
+      "link": "https://www.tbsnews.net/bangladesh/education/5805-students-pass-ssc-exams-dinajpur-board-1511286",
+      "pubDate": "Mon, 10 Aug 2026 15:45:00 +0600",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/image-413287-1786353187.jpg",
+      "snippet": "A total of 13,639 student have secured GPA-5 from the board."
+    },
+    {
+      "title": "SSC 2026: English, maths emerge as major weak points ",
+      "link": "https://www.tbsnews.net/bangladesh/ssc-2026-english-maths-emerge-major-weak-points-1511251",
+      "pubDate": "Mon, 10 Aug 2026 15:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/07/12/screenshot_2025-07-12_at_00-58-26_senaabaahinii_pricaalit_shikssaa_prtisstthaansmuuhe_paaser_haar_98.85_the_business_standard.png",
+      "snippet": "Maths pass rates were also below 80% in Rajshahi, Barishal, Sylhet and Dinajpur."
+    },
+    {
+      "title": "SSC 2026: Ctg Board records five-year low pass rate as Humanities results slump",
+      "link": "https://www.tbsnews.net/bangladesh/education/ssc-2026-ctg-board-records-five-year-low-pass-rate-humanities-results-slump",
+      "pubDate": "Mon, 10 Aug 2026 15:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/769838765_1346887494308459_5713235104749675688_n.jpg",
+      "snippet": "A total of 130,682 students registered for the SSC examination under the Chattogram board, of whom 130,219 appeared and 77,453 passed."
+    },
+    {
+      "title": "'Hello DC' complaint leads to swift removal of garbage pile in Keraniganj",
+      "link": "https://www.tbsnews.net/bangladesh/hello-dc-complaint-leads-swift-removal-garbage-pile-keraniganj-1511241",
+      "pubDate": "Mon, 10 Aug 2026 15:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/767522777_1736627554299713_6589059492099044267_n.jpg",
+      "snippet": "Today (10 August), Dhaka District Commissioner Farida Khanom forwarded the complaint to the upazila nirbahi officer (UNO) and instructed him to take immediate action."
+    },
+    {
+      "title": "Presidential polls: Jamaat-led alliance collects nomination form for Oli Ahmad",
+      "link": "https://www.tbsnews.net/bangladesh/politics/presidential-election-11-party-alliance-collects-nomination-form-oli-ahmad",
+      "pubDate": "Mon, 10 Aug 2026 15:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/11-party_alliance.png",
+      "snippet": "Asked why the Jamaat-led alliance fielded a candidate even though the ruling party’s candidate is expected to win the election, Hamidur Rahman Azad said, “Winning or losing is not the issue here.\""
+    },
+    {
+      "title": "PM inaugurates 3 pilot SDG villages",
+      "link": "https://www.tbsnews.net/bangladesh/pm-inaugurates-3-pilot-sdg-villages-1511211",
+      "pubDate": "Mon, 10 Aug 2026 14:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/25/pm_tarique_rahman.jpg",
+      "snippet": "Govt is developing the 3 villages as models for localising the Sustainable Development Goals and implementing SDG-related initiatives at the grassroots level"
+    },
+    {
+      "title": "SSC 2026: Dhaka tops boards in pass rate, GPA-5s ",
+      "link": "https://www.tbsnews.net/bangladesh/ssc-2026-dhaka-tops-boards-pass-rate-gpa-5s-1511186",
+      "pubDate": "Mon, 10 Aug 2026 14:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/28/ssc.jpg",
+      "snippet": "The pass rate in the Dhaka board was 71.63%, according to results published today (10 August)."
+    },
+    {
+      "title": "All Dhaka, Delhi issues resolvable through talks: Indian envoy",
+      "link": "https://www.tbsnews.net/foreign-policy/all-dhaka-delhi-issues-resolvable-through-talks-indian-envoy-1511171",
+      "pubDate": "Mon, 10 Aug 2026 14:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/28fb34fe-2be9-470f-9e99-17d931d4365d.jpg",
+      "snippet": "Dinesh Trivedi expresses optimism after meeting with Prime Minister Tarique Rahman and Home Minister Salahuddin Ahmed."
+    },
+    {
+      "title": "You can sing your heart out, but you can't just give away marks: Education minister",
+      "link": "https://www.tbsnews.net/bangladesh/education/you-can-sing-your-heart-out-you-cant-just-give-away-marks-education-minister",
+      "pubDate": "Mon, 10 Aug 2026 14:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/08/untitled_design_15.jpg",
+      "snippet": "Education Minister ANM Ehsanul Hoque Milon said the results were satisfactory this year."
+    },
+    {
       "title": "Obesity 'bigger cancer risk' than previously thought: Study",
       "link": "https://www.tbsnews.net/bangladesh/health/obesity-bigger-cancer-risk-previously-thought-study-1511161",
       "pubDate": "Mon, 10 Aug 2026 14:10:00 +0600",
@@ -41,7 +140,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/21/pm_tarique_rahman.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/768408623_1050927184312184_7138635796181282459_n.jpg",
       "snippet": "He described the mass layoffs as an act of 'oppression' and said, 'They are not only secretive and treacherous, they are also extremely oppressive.'"
     },
     {
@@ -111,15 +210,15 @@
       "snippet": "This year, students from a total of 30,402 educational institutions participated in the examinations."
     },
     {
-      "title": "Indian envoy Trivedi meets PM Tarique",
+      "title": "Dhaka asks Delhi to expedite Hasina's extradition, return Hadi's killers",
       "link": "https://www.tbsnews.net/foreign-policy/indian-high-commissioner-trivedi-meets-pm-tarique-1511071",
       "pubDate": "Mon, 10 Aug 2026 12:35:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/tarique_trivedi.jpg",
-      "snippet": "Before his meeting with the prime minister, the Indian high commissioner met Foreign Minister Khalilur Rahman yesterday afternoon, as both sides continue efforts to engage constructively."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/767009540_2147504159448651_5513835025553782468_n.jpg",
+      "snippet": "This was Trivedi’s first meeting with Prime Minister Tarique Rahman."
     },
     {
       "title": "SSC GPA-5 achievers fall for fourth straight year ",
@@ -166,7 +265,7 @@
       "snippet": "A total of 1,07,982 more female students passed the examinations than male students, while 11,401 more female students achieved GPA 5."
     },
     {
-      "title": "SSC 2026: Sylhet Board records 58.33% SSC pass rate, 3,836 secure GPA-5",
+      "title": "SSC 2026: Sylhet pass rate plunges to 5-year low of 58.33% ",
       "link": "https://www.tbsnews.net/bangladesh/education/ssc-2026-sylhet-board-records-5833-ssc-pass-rate-3836-secure-gpa-5-1510971",
       "pubDate": "Mon, 10 Aug 2026 11:25:00 +0600",
       "category": "Bangladesh",
@@ -188,37 +287,26 @@
       "snippet": "Irregular is a niche player in artificial intelligence, backed with $80 million from Sequoia and Redpoint Ventures and valued last year at $450 million"
     },
     {
-      "title": "SSC 2026: 312 institutions record zero passes",
-      "link": "https://www.tbsnews.net/bangladesh/ssc-2026-312-institutions-record-zero-passes-1510961",
-      "pubDate": "Mon, 10 Aug 2026 11:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/02/ssc_0.jpg",
-      "snippet": "Of the 312 institutions, 57 are under the nine general education boards while 226 are under the Madrasah Education Board."
+      "title": "SSC 2026: Cumilla records 65.42% pass rate, 9,814 students secure GPA-5",
+      "link": "https://www.tbsnews.net/bangladesh/education/ssc-2026-cumilla-records-6542-pass-rate-9814-students-secure-gpa-5-1510931",
+      "pubDate": "Mon, 10 Aug 2026 11:10:00 +0600",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/05/12/whatsapp_image_2024-05-12_at_1.11.54_pm.jpeg",
+      "snippet": "Professor Dr Shafiqul Islam, controller of Examinations at the Cumilla Board said the board’s performance had improved across all indicators compared to the previous year."
     },
     {
       "title": "SSC 2026: Technical board pass rate 58.20%, madrasah 55.49%",
       "link": "https://www.tbsnews.net/bangladesh/education/ssc-2026-technical-board-pass-rate-5820-madrasah-5549-1510941",
       "pubDate": "Mon, 10 Aug 2026 11:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/05/12/technical_madrasah.png",
       "snippet": "Under the nine general education boards, the average pass rate fell to 64.05% this year from 68.04% last year, a decline of 3.99 percentage points."
-    },
-    {
-      "title": "SSC 2026: Cumilla records 65.42% pass rate, 9,814 students secure GPA-5",
-      "link": "https://www.tbsnews.net/bangladesh/education/ssc-2026-cumilla-records-6542-pass-rate-9814-students-secure-gpa-5-1510931",
-      "pubDate": "Mon, 10 Aug 2026 11:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/05/12/whatsapp_image_2024-05-12_at_1.11.54_pm.jpeg",
-      "snippet": "Professor Dr Shafiqul Islam, controller of Examinations at the Cumilla Board said the board’s performance had improved across all indicators compared to the previous year."
     },
     {
       "title": "Non-Performing Loans: A crisis too long ignored ",
@@ -243,24 +331,13 @@
       "snippet": "Bangla QR has the potential to bring small merchants into the formal financial system, but its success depends on making digital payments cheaper, faster and more reliable than cash"
     },
     {
-      "title": "Bangladesh starts five-day programme to build climate finance proposal capacity",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-starts-five-day-programme-build-climate-finance-proposal-capacity-1510916",
-      "pubDate": "Mon, 10 Aug 2026 10:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/erd_akm_sohel.jpeg",
-      "snippet": "The Climate Finance Leadership Incubation Lab began on Sunday at BRAC CDM in Rajendrapur, Gazipur, and will run through 13 Aug"
-    },
-    {
       "title": "SSC 2026: Pass rate rises to 60.30% in Barishal, but fewer achieve GPA-5",
       "link": "https://www.tbsnews.net/bangladesh/education/ssc-pass-rate-rises-6030-barishal-fewer-achieve-gpa-5-1510911",
       "pubDate": "Mon, 10 Aug 2026 10:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/04/10/ssc_exam.jpeg",
       "snippet": "A total of 82,901 students registered for the examination this year, of whom 80,458 appeared, and 48,555 passed."
     },
@@ -268,34 +345,12 @@
       "title": "SSC, equivalent exam pass rate falls to 62.25%, GPA-5 holders drop to 1,16,676",
       "link": "https://www.tbsnews.net/bangladesh/education/ssc-exam-pass-rate-falls-6405-106009-students-secure-gpa-5-1510901",
       "pubDate": "Mon, 10 Aug 2026 10:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/769838765_1346887494308459_5713235104749675688_n.jpg",
       "snippet": "The average pass rate in this year's SSC examinations under the nine general education boards fell to 64.05%, down from 68.04% last year, reflecting a decline of 3.99 percentage points."
-    },
-    {
-      "title": "Bangladesh puts US LNG deal on hold over steep pricing",
-      "link": "https://www.tbsnews.net/bangladesh/energy/bangladesh-puts-us-lng-deal-hold-over-steep-pricing-1510891",
-      "pubDate": "Mon, 10 Aug 2026 10:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/12/lng_supply_1.jpg",
-      "snippet": "Petrobangla and Energy Division officials said Gunvor increased the JKM-linked price because of the tight LNG supply outlook for 2026-28, while agreeing to a lower Henry Hub-linked price for the period from 2029, when global LNG prices are expected t..."
-    },
-    {
-      "title": "If referendum was illegal, current government is also illegal: Mamunul Haque",
-      "link": "https://www.tbsnews.net/bangladesh/politics/if-referendum-was-illegal-current-government-also-illegal-mamunul-haque-1510896",
-      "pubDate": "Mon, 10 Aug 2026 10:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/08/maulana_mamunul_haque.jpg",
-      "snippet": "He said 33 political parties had jointly discussed and formulated the July Charter, following which a referendum was held to implement it."
     },
     {
       "title": "How to check SSC, equivalent exam results",
@@ -703,29 +758,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/11/measles_tbs.jpeg",
       "snippet": "With the latest update, the number of suspected measles deaths rose to 767, while the number of laboratory-confirmed measles deaths remained 96."
-    },
-    {
-      "title": "A guide to Dhaka’s best rainy day food spots",
-      "link": "https://www.tbsnews.net/thoughts/guide-dhakas-best-rainy-day-food-spots-1508851",
-      "pubDate": "Fri, 07 Aug 2026 14:40:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/new_project_0_1.jpg",
-      "snippet": "The best rainy-day meals are not always planned. They are found in a steaming plate of khichuri, a paper cup of tea, a hot shingara, or a round of fuchka eaten while waiting for the rain to pass"
-    },
-    {
-      "title": "What we publish is who we become: How 325 retracted research articles rewrite Bangladeshi universities’ branding",
-      "link": "https://www.tbsnews.net/thoughts/what-we-publish-who-we-become-how-325-retracted-research-articles-rewrite-bangladeshi",
-      "pubDate": "Fri, 07 Aug 2026 14:30:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/researcher_copy.png",
-      "snippet": "A researcher-integrity crisis is unfolding quietly in Bangladesh's universities — and it's costing more than we realise"
     }
   ],
-  "updatedAt": "2026-08-10T08:26:27.697Z"
+  "updatedAt": "2026-08-10T09:58:27.990Z"
 }
