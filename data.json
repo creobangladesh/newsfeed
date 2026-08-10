@@ -1,6 +1,105 @@
 {
   "news": [
     {
+      "title": "Visa’s Regional President Karpin arrives in Bangladesh today on 3-day visit",
+      "link": "https://www.tbsnews.net/bangladesh/visas-regional-president-karpin-arrives-bangladesh-today-3-day-visit-1511461",
+      "pubDate": "Mon, 10 Aug 2026 17:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/bibo.jpg",
+      "snippet": "Karpin is set to meet government, banking, fintech and business leaders to explore ways to expand digital commerce, payment security and financial innovation in Bangladesh."
+    },
+    {
+      "title": "DMP transfers 2 ADCs, 5 ACs in reshuffle",
+      "link": "https://www.tbsnews.net/bangladesh/dmp-transfers-2-adcs-5-acs-reshuffle-1511441",
+      "pubDate": "Mon, 10 Aug 2026 17:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/10/police_bd.jpg",
+      "snippet": "The reshuffle also cancels Tania Sultana’s posting as ADC of the Traffic-Tejgaon Division."
+    },
+    {
+      "title": "Islami Bank accuses ex-president Shahabuddin, S Alam and 36 others of Tk500cr embezzlement",
+      "link": "https://www.tbsnews.net/bangladesh/corruption/islami-bank-accuses-ex-president-shahabuddin-s-alam-37-others-tk500cr",
+      "pubDate": "Mon, 10 Aug 2026 17:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/shahabuddin-and-s-alam-collage.jpg",
+      "snippet": "Bank files complaint with ACC seeking investigation into alleged fraud"
+    },
+    {
+      "title": "Financial scams in Bangladesh: Why fraudsters continue to outsmart the system",
+      "link": "https://www.tbsnews.net/thoughts/financial-scams-bangladesh-why-fraudsters-continue-outsmart-system-1511431",
+      "pubDate": "Mon, 10 Aug 2026 17:30:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/online_financial_scam_tbs_illustration_1.png",
+      "snippet": "Law enforcement and regulatory systems have struggled to keep pace with the speed and complexity of cyber-enabled financial crimes, many of which are organised and operate across national borders"
+    },
+    {
+      "title": "Road crash on Dhaka-Sylhet highway claims 3 more lives; 14 killed in four days",
+      "link": "https://www.tbsnews.net/bangladesh/road-crash-dhaka-sylhet-highway-claims-3-more-lives-14-killed-four-days-1511436",
+      "pubDate": "Mon, 10 Aug 2026 17:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/dhaka_sylhet_road_accident.png",
+      "snippet": "Earlier, on 7 August, nine people were killed in a collision between two buses on the same highway."
+    },
+    {
+      "title": "Lifting the IPO debt-repayment cap is the second step, not the first",
+      "link": "https://www.tbsnews.net/thoughts/lifting-ipo-debt-repayment-cap-second-step-not-first-1511421",
+      "pubDate": "Mon, 10 Aug 2026 17:20:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/stocks_dse_1_1.jpeg",
+      "snippet": "Sponsors want to repay loans with more than 70% of IPO proceeds. The markets that permit this all share one feature Bangladesh's primary market still lacks: a mechanism that prices the risk."
+    },
+    {
+      "title": "SSC, equivalent exam candidates can seek re-evaluation of original scripts: Minister",
+      "link": "https://www.tbsnews.net/bangladesh/ssc-equivalent-exam-candidates-can-seek-re-evaluation-original-scripts-minister-1511386",
+      "pubDate": "Mon, 10 Aug 2026 17:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/09/edu-min-69d758d07f498.jpg",
+      "snippet": "Unlike previous reviews, students will be able to have their original answer scripts examined to ensure they receive the marks they deserve, he says."
+    },
+    {
+      "title": "1.8kg gold worth Tk3.73cr seized from vehicle near Dhaka airport",
+      "link": "https://www.tbsnews.net/bangladesh/18kg-gold-worth-tk373cr-seized-vehicle-near-dhaka-airport-1511396",
+      "pubDate": "Mon, 10 Aug 2026 17:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/gold_image_unb_1.jpg",
+      "snippet": "The driver fled after customs officials stopped the vehicle for inspection, with phones, cash, bank cards and identification documents also found inside."
+    },
+    {
+      "title": "BCPS trains communications professionals in practical AI skills",
+      "link": "https://www.tbsnews.net/bangladesh/bcps-trains-communications-professionals-practical-ai-skills-1511391",
+      "pubDate": "Mon, 10 Aug 2026 17:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/769363158_1550871592697071_2949355994056406867_n.jpg",
+      "snippet": "More than 35 communications professionals from development organisations, government, media and other sectors took part in the training."
+    },
+    {
       "title": "Natundhara Bangladesh chief Momin Mehedi, 5 others denied bail in anti-terrorism case",
       "link": "https://www.tbsnews.net/bangladesh/court/natundhara-bangladesh-chief-momin-mehedi-5-others-denied-bail-anti-terrorism-case",
       "pubDate": "Mon, 10 Aug 2026 16:55:00 +0600",
@@ -166,24 +265,13 @@
       "snippet": "The pass rate in the Dhaka board was 71.63%, according to results published today (10 August)."
     },
     {
-      "title": "All Dhaka, Delhi issues resolvable through talks: Indian envoy",
-      "link": "https://www.tbsnews.net/foreign-policy/all-dhaka-delhi-issues-resolvable-through-talks-indian-envoy-1511171",
-      "pubDate": "Mon, 10 Aug 2026 14:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/28fb34fe-2be9-470f-9e99-17d931d4365d.jpg",
-      "snippet": "Dinesh Trivedi expresses optimism after meeting with Prime Minister Tarique Rahman and Home Minister Salahuddin Ahmed."
-    },
-    {
       "title": "You can sing your heart out, but you can't just give away marks: Education minister",
       "link": "https://www.tbsnews.net/bangladesh/education/you-can-sing-your-heart-out-you-cant-just-give-away-marks-education-minister",
       "pubDate": "Mon, 10 Aug 2026 14:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/08/untitled_design_15.jpg",
       "snippet": "Education Minister ANM Ehsanul Hoque Milon said the results were satisfactory this year."
     },
@@ -202,10 +290,10 @@
       "title": "Jashore Board SSC pass rate falls 7.42%, GPA-5 numbers decline",
       "link": "https://www.tbsnews.net/bangladesh/education/jashore-board-ssc-pass-rate-falls-742-gpa-5-numbers-decline-1511156",
       "pubDate": "Mon, 10 Aug 2026 14:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/766106212_1606605977735424_3913680122014047034_n.jpg",
       "snippet": "Professor SM Hossain Ali, controller of examinations at the Jashore Education Board, announced the SSC results at around 10:30am today (10 August)."
     },
@@ -219,17 +307,6 @@
       "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/super_pet_computer_.png",
       "snippet": "Software engineer Josh Dersch is one of them. He spends hours in his garage trying to bring decades-old machines back to life and estimates that he has more than 200 vintage computers and related devices at his home in Seattle."
-    },
-    {
-      "title": "'How oppressive must you be to sack so many people?' PM questions mass layoffs at Islami Bank",
-      "link": "https://www.tbsnews.net/bangladesh/how-oppressive-must-you-be-sack-so-many-people-pm-questions-mass-layoffs-islami-bank",
-      "pubDate": "Mon, 10 Aug 2026 13:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/768408623_1050927184312184_7138635796181282459_n.jpg",
-      "snippet": "He described the mass layoffs as an act of 'oppression' and said, 'They are not only secretive and treacherous, they are also extremely oppressive.'"
     },
     {
       "title": "Why are SSC pass rates falling? Experts weigh in",
@@ -246,23 +323,12 @@
       "title": "From 93.58% to 62.25%: SSC pass rate continues to plunge since 2021",
       "link": "https://www.tbsnews.net/bangladesh/education/9358-6225-ssc-pass-rate-continues-plunge-1511116",
       "pubDate": "Mon, 10 Aug 2026 13:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/769838765_1346887494308459_5713235104749675688_n.jpg",
       "snippet": "The latest overall figure reflects a 4.08 percentage point drop from last year's 66.33%."
-    },
-    {
-      "title": "Mymensingh Education Board records 57.39% SSC pass rate",
-      "link": "https://www.tbsnews.net/bangladesh/education/mymensingh-education-board-records-5739-ssc-pass-rate-1511121",
-      "pubDate": "Mon, 10 Aug 2026 13:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/12/30/ctg_ssc_result_photo_03.jpg",
-      "snippet": "According to the results published this morning, a total of 60,274 students passed this year’s SSC examinations."
     },
     {
       "title": "RMG workers elect union leaders through direct ballot",
@@ -276,13 +342,24 @@
       "snippet": "The union is affiliated with the Bangladesh Apparel Workers Federation."
     },
     {
+      "title": "Mymensingh Education Board records 57.39% SSC pass rate",
+      "link": "https://www.tbsnews.net/bangladesh/education/mymensingh-education-board-records-5739-ssc-pass-rate-1511121",
+      "pubDate": "Mon, 10 Aug 2026 13:10:00 +0600",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/12/30/ctg_ssc_result_photo_03.jpg",
+      "snippet": "According to the results published this morning, a total of 60,274 students passed this year’s SSC examinations."
+    },
+    {
       "title": "Rajshahi Board records lowest SSC results in seven years, pass rate falls to 63.67%",
       "link": "https://www.tbsnews.net/bangladesh/education/rajshahi-board-records-lowest-ssc-results-seven-years-pass-rate-falls-6367",
       "pubDate": "Mon, 10 Aug 2026 12:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/11/26/img-20231126-wa0001.jpg",
       "snippet": "The pass rate stood at 77.63% in 2025, while it was 89.26% in 2024."
     },
@@ -439,17 +516,6 @@
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/07/30/bangladesh_bank.jpg",
       "snippet": "The central bank dissolved the boards and cancelled the appointments of CEOs of Aviva Finance, Fareast Finance, FAS Finance and International Leasing."
-    },
-    {
-      "title": "SUST forms probe body to identify teachers 'involved in anti-state activities'",
-      "link": "https://www.tbsnews.net/bangladesh/education/sust-forms-probe-body-identify-teachers-involved-anti-state-activities-1510786",
-      "pubDate": "Sun, 09 Aug 2026 21:55:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/23/sust-photo.png",
-      "snippet": "The six-member committee will also investigate whether teachers were directly or indirectly involved in threatening or suppressing students during the Anti-Discrimination Student Movement."
     },
     {
       "title": "Govt forms new judicial pay review committee as officials allege delay tactic",
@@ -782,5 +848,5 @@
       "snippet": "Bangladesh's underutilised power infrastructure, expanding fibre networks and existing energy assets could provide the foundations for a globally competitive data-centre industry"
     }
   ],
-  "updatedAt": "2026-08-10T11:15:03.589Z"
+  "updatedAt": "2026-08-10T12:08:24.345Z"
 }
