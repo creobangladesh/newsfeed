@@ -1,6 +1,116 @@
 {
   "news": [
     {
+      "title": "Obesity 'bigger cancer risk' than previously thought: Study",
+      "link": "https://www.tbsnews.net/bangladesh/health/obesity-bigger-cancer-risk-previously-thought-study-1511161",
+      "pubDate": "Mon, 10 Aug 2026 14:10:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/08/27/obesity.jpg",
+      "snippet": "Being overweight or obese significantly increases the risk of developing colon cancer, breast cancer or liver cancer, and is a major risk factor for 10 other types of cancer, a new study has found"
+    },
+    {
+      "title": "Jashore Board SSC pass rate falls 7.42%, GPA-5 numbers decline",
+      "link": "https://www.tbsnews.net/bangladesh/education/jashore-board-ssc-pass-rate-falls-742-gpa-5-numbers-decline-1511156",
+      "pubDate": "Mon, 10 Aug 2026 14:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/766106212_1606605977735424_3913680122014047034_n.jpg",
+      "snippet": "Professor SM Hossain Ali, controller of examinations at the Jashore Education Board, announced the SSC results at around 10:30am today (10 August)."
+    },
+    {
+      "title": "As AI takes over, vintage computer collecting gains popularity",
+      "link": "https://www.tbsnews.net/tech/ai-takes-over-vintage-computer-collecting-gains-popularity-1511146",
+      "pubDate": "Mon, 10 Aug 2026 13:45:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/super_pet_computer_.png",
+      "snippet": "Software engineer Josh Dersch is one of them. He spends hours in his garage trying to bring decades-old machines back to life and estimates that he has more than 200 vintage computers and related devices at his home in Seattle."
+    },
+    {
+      "title": "'How oppressive must you be to sack so many people?' PM questions mass layoffs at Islami Bank",
+      "link": "https://www.tbsnews.net/bangladesh/how-oppressive-must-you-be-sack-so-many-people-pm-questions-mass-layoffs-islami-bank",
+      "pubDate": "Mon, 10 Aug 2026 13:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/21/pm_tarique_rahman.jpg",
+      "snippet": "He described the mass layoffs as an act of 'oppression' and said, 'They are not only secretive and treacherous, they are also extremely oppressive.'"
+    },
+    {
+      "title": "Why are SSC pass rates falling? Experts weigh in",
+      "link": "https://www.tbsnews.net/bangladesh/education/why-are-ssc-pass-rates-falling-experts-weigh-1511151",
+      "pubDate": "Mon, 10 Aug 2026 13:35:00 +0600",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/12/30/ctg_ssc_result_photo_010.jpg",
+      "snippet": "This year's results are comparatively more realistic, says the Dhaka education board chairman"
+    },
+    {
+      "title": "From 93.58% to 62.25%: SSC pass rate continues to plunge since 2021",
+      "link": "https://www.tbsnews.net/bangladesh/education/9358-6225-ssc-pass-rate-continues-plunge-1511116",
+      "pubDate": "Mon, 10 Aug 2026 13:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/769838765_1346887494308459_5713235104749675688_n.jpg",
+      "snippet": "The latest overall figure reflects a 4.08 percentage point drop from last year's 66.33%."
+    },
+    {
+      "title": "Mymensingh Education Board records 57.39% SSC pass rate",
+      "link": "https://www.tbsnews.net/bangladesh/education/mymensingh-education-board-records-5739-ssc-pass-rate-1511121",
+      "pubDate": "Mon, 10 Aug 2026 13:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/12/30/ctg_ssc_result_photo_03.jpg",
+      "snippet": "According to the results published this morning, a total of 60,274 students passed this year’s SSC examinations."
+    },
+    {
+      "title": "RMG workers elect union leaders through direct ballot",
+      "link": "https://www.tbsnews.net/economy/rmg/rmg-workers-elect-union-leaders-through-direct-ballot-1511106",
+      "pubDate": "Mon, 10 Aug 2026 13:10:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/whatsapp_image_2026-08-08_at_1.34.16_pm.jpeg",
+      "snippet": "The union is affiliated with the Bangladesh Apparel Workers Federation."
+    },
+    {
+      "title": "Rajshahi Board records lowest SSC results in seven years, pass rate falls to 63.67%",
+      "link": "https://www.tbsnews.net/bangladesh/education/rajshahi-board-records-lowest-ssc-results-seven-years-pass-rate-falls-6367",
+      "pubDate": "Mon, 10 Aug 2026 12:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/11/26/img-20231126-wa0001.jpg",
+      "snippet": "The pass rate stood at 77.63% in 2025, while it was 89.26% in 2024."
+    },
+    {
+      "title": "SSC 2026: 100% pass institutions drop to 669",
+      "link": "https://www.tbsnews.net/bangladesh/education/ssc-2026-100-pass-institutions-drop-669-1511076",
+      "pubDate": "Mon, 10 Aug 2026 12:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/766106212_1606605977735424_3913680122014047034_n.jpg",
+      "snippet": "This year, students from a total of 30,402 educational institutions participated in the examinations."
+    },
+    {
       "title": "Indian envoy Trivedi meets PM Tarique",
       "link": "https://www.tbsnews.net/foreign-policy/indian-high-commissioner-trivedi-meets-pm-tarique-1511071",
       "pubDate": "Mon, 10 Aug 2026 12:35:00 +0600",
@@ -89,17 +199,6 @@
       "snippet": "Of the 312 institutions, 57 are under the nine general education boards while 226 are under the Madrasah Education Board."
     },
     {
-      "title": "SSC 2026: Cumilla records 65.42% pass rate, 9,814 students secure GPA-5",
-      "link": "https://www.tbsnews.net/bangladesh/education/ssc-2026-cumilla-records-6542-pass-rate-9814-students-secure-gpa-5-1510931",
-      "pubDate": "Mon, 10 Aug 2026 11:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/05/12/whatsapp_image_2024-05-12_at_1.11.54_pm.jpeg",
-      "snippet": "Professor Dr Shafiqul Islam, controller of Examinations at the Cumilla Board said the board’s performance had improved across all indicators compared to the previous year."
-    },
-    {
       "title": "SSC 2026: Technical board pass rate 58.20%, madrasah 55.49%",
       "link": "https://www.tbsnews.net/bangladesh/education/ssc-2026-technical-board-pass-rate-5820-madrasah-5549-1510941",
       "pubDate": "Mon, 10 Aug 2026 11:10:00 +0600",
@@ -109,6 +208,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/05/12/technical_madrasah.png",
       "snippet": "Under the nine general education boards, the average pass rate fell to 64.05% this year from 68.04% last year, a decline of 3.99 percentage points."
+    },
+    {
+      "title": "SSC 2026: Cumilla records 65.42% pass rate, 9,814 students secure GPA-5",
+      "link": "https://www.tbsnews.net/bangladesh/education/ssc-2026-cumilla-records-6542-pass-rate-9814-students-secure-gpa-5-1510931",
+      "pubDate": "Mon, 10 Aug 2026 11:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/05/12/whatsapp_image_2024-05-12_at_1.11.54_pm.jpeg",
+      "snippet": "Professor Dr Shafiqul Islam, controller of Examinations at the Cumilla Board said the board’s performance had improved across all indicators compared to the previous year."
     },
     {
       "title": "Non-Performing Loans: A crisis too long ignored ",
@@ -191,56 +301,12 @@
       "title": "How to check SSC, equivalent exam results",
       "link": "https://www.tbsnews.net/bangladesh/education/how-check-ssc-equivalent-exam-results-1510886",
       "pubDate": "Mon, 10 Aug 2026 09:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/28/ssc.jpg",
       "snippet": "Students will be able to access their results online through the respective education board websites, from their educational institutions, and via SMS after the official publication."
-    },
-    {
-      "title": "2 killed as lorry runs over vehicles in Moghbazar",
-      "link": "https://www.tbsnews.net/bangladesh/2-killed-lorry-runs-over-vehicles-moghbazar-1510881",
-      "pubDate": "Mon, 10 Aug 2026 09:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/dead_body.jpg",
-      "snippet": "The deceased were identified as Riyad Hossain, 22, and Zaman Ahmed, 42."
-    },
-    {
-      "title": "Govt moves to formulate National Spatial Plan for optimal use of land for development ",
-      "link": "https://www.tbsnews.net/bangladesh/govt-moves-formulate-national-spatial-plan-optimal-use-land-development-1510846",
-      "pubDate": "Mon, 10 Aug 2026 07:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/01/10/untitled_design_10.png",
-      "snippet": "The NSP will serve as an integrated and evidence-based development framework aimed at optimal and sustainable use of land, infrastructure, natural resources and environment"
-    },
-    {
-      "title": "16 Bangladeshis killed in Saudi factory fire: Ministry",
-      "link": "https://www.tbsnews.net/bangladesh/7-bangladeshi-workers-naogaon-killed-saudi-factory-fire-1510836",
-      "pubDate": "Mon, 10 Aug 2026 00:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/saudi_factory_fire.jpg",
-      "snippet": "Officials concerned have been instructed to bring back the bodies of the deceased expatriates as soon as possible and ensure all necessary government assistance and compensation for their families."
-    },
-    {
-      "title": "Soy Connext 2026: Bangladesh's rising soy demand draws US exporters",
-      "link": "https://www.tbsnews.net/bangladesh/soy-connext-2026-bangladeshs-rising-soy-demand-draws-us-exporters-1510821",
-      "pubDate": "Mon, 10 Aug 2026 00:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/20260806_155616.jpg",
-      "snippet": "12-member Bangladeshi delegation explores sourcing, sustainability and market opportunities as US soybean exports eye wider global market."
     },
     {
       "title": "Current account deficit hits $1.6b as import bills surge",
@@ -263,17 +329,6 @@
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/07/30/bangladesh_bank.jpg",
       "snippet": "The central bank dissolved the boards and cancelled the appointments of CEOs of Aviva Finance, Fareast Finance, FAS Finance and International Leasing."
-    },
-    {
-      "title": "Govt to launch red-yellow-green project monitoring dashboard",
-      "link": "https://www.tbsnews.net/bangladesh/govt-launch-red-yellow-green-project-monitoring-dashboards-1510801",
-      "pubDate": "Sun, 09 Aug 2026 23:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/govt_10.png",
-      "snippet": "Digital dashboards to put dev projects under constant watch."
     },
     {
       "title": "SUST forms probe body to identify teachers 'involved in anti-state activities'",
@@ -670,51 +725,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/researcher_copy.png",
       "snippet": "A researcher-integrity crisis is unfolding quietly in Bangladesh's universities — and it's costing more than we realise"
-    },
-    {
-      "title": "Budget FY27's deregulation push needs legal muscle",
-      "link": "https://www.tbsnews.net/thoughts/budget-fy27s-deregulation-push-needs-legal-muscle-1508836",
-      "pubDate": "Fri, 07 Aug 2026 14:10:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/15_thoughts_copy.png",
-      "snippet": "This budget promises 48-hour company registration, automated tax refunds, and a Unified Single Window — but without legal enforceability and independent oversight, these reform pillars risk becoming unmet commitments"
-    },
-    {
-      "title": "Is it time to rethink sustainability?",
-      "link": "https://www.tbsnews.net/thoughts/it-time-rethink-sustainability-1508831",
-      "pubDate": "Fri, 07 Aug 2026 14:05:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/illustration-for-thoughts.jpg",
-      "snippet": "How long something lasts is no longer enough. The harder questions are how well it adapts, how responsibly it uses resources, and what value it leaves behind for future generations"
-    },
-    {
-      "title": "Investment follows confidence, not incentives",
-      "link": "https://www.tbsnews.net/thoughts/investment-follows-confidence-not-incentives-1508821",
-      "pubDate": "Fri, 07 Aug 2026 14:00:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/inflow_1.jpg",
-      "snippet": "Bangladesh should no longer compete primarily on the basis of being one of the cheapest places to manufacture. It should compete because it is one of the most dependable places to invest"
-    },
-    {
-      "title": "S Alam says banking restrictions forced closure of 11 Ctg factories",
-      "link": "https://www.tbsnews.net/economy/banking/s-alam-says-banking-restrictions-forced-closure-11-ctg-factories-1508816",
-      "pubDate": "Fri, 07 Aug 2026 13:45:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/img_8944.jpeg",
-      "snippet": "The group said it had continued paying salaries and allowances to employees for several months despite production remaining suspended, hoping that the government and banks would resolve the crisis."
     }
   ],
-  "updatedAt": "2026-08-10T06:52:01.698Z"
+  "updatedAt": "2026-08-10T08:26:27.697Z"
 }
