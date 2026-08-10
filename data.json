@@ -1,7 +1,40 @@
 {
   "news": [
     {
-      "title": "7 Bangladeshi workers from Naogaon killed in Saudi factory fire",
+      "title": "How to check SSC, equivalent exam results",
+      "link": "https://www.tbsnews.net/bangladesh/education/how-check-ssc-equivalent-exam-results-1510886",
+      "pubDate": "Mon, 10 Aug 2026 09:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/02/ssc_0.jpg",
+      "snippet": "Students will be able to access their results online through the respective education board websites, from their educational institutions, and via SMS after the official publication."
+    },
+    {
+      "title": "2 killed as lorry runs over vehicles in Moghbazar",
+      "link": "https://www.tbsnews.net/bangladesh/2-killed-lorry-runs-over-vehicles-moghbazar-1510881",
+      "pubDate": "Mon, 10 Aug 2026 09:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/dead_body.jpg",
+      "snippet": "The deceased were identified as Riyad Hossain, 22, and Zaman Ahmed, 42."
+    },
+    {
+      "title": "Govt moves to formulate National Spatial Plan for optimal use of land for development ",
+      "link": "https://www.tbsnews.net/bangladesh/govt-moves-formulate-national-spatial-plan-optimal-use-land-development-1510846",
+      "pubDate": "Mon, 10 Aug 2026 07:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/01/10/untitled_design_10.png",
+      "snippet": "The NSP will serve as an integrated and evidence-based development framework aimed at optimal and sustainable use of land, infrastructure, natural resources and environment"
+    },
+    {
+      "title": "16 Bangladeshis killed in Saudi factory fire: Ministry",
       "link": "https://www.tbsnews.net/bangladesh/7-bangladeshi-workers-naogaon-killed-saudi-factory-fire-1510836",
       "pubDate": "Mon, 10 Aug 2026 00:50:00 +0600",
       "category": "Bangladesh",
@@ -9,7 +42,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/saudi_factory_fire.jpg",
-      "snippet": "Expatriates’ welfare ministry confirms deaths and says efforts are underway to repatriate the bodies and provide government assistance to the victims’ families."
+      "snippet": "Officials concerned have been instructed to bring back the bodies of the deceased expatriates as soon as possible and ensure all necessary government assistance and compensation for their families."
     },
     {
       "title": "Soy Connext 2026: Bangladesh's rising soy demand draws US exporters",
@@ -177,17 +210,6 @@
       "snippet": "Referring to various demands raised by representatives of Qawmi madrashas, he said Home Minister Salahuddin Ahmed has already explained some of the issues and that the government would address them gradually."
     },
     {
-      "title": "Viral Mizan arrested for allegedly resisting disconnection of illegal power line",
-      "link": "https://www.tbsnews.net/bangladesh/viral-mizan-arrested-allegedly-resisting-disconnection-illegal-power-line-1510676",
-      "pubDate": "Sun, 09 Aug 2026 20:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/viral_mizan_1.png",
-      "snippet": "The Tk100 beef-and-rice seller allegedly confronted an electricity department team at his Agargaon street-side shop."
-    },
-    {
       "title": "Dhaka South to dredge Buriganga channel to restore navigability: Administrator",
       "link": "https://www.tbsnews.net/bangladesh/dhaka-south-dredge-buriganga-channel-restore-navigability-administrator-1510666",
       "pubDate": "Sun, 09 Aug 2026 20:05:00 +0600",
@@ -197,6 +219,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/dhaka_south_administrator_abdus_salam.jpg",
       "snippet": "He urges citizens not to discard polythene or waste into drains and rivers, stressing the need to keep the city clean and protect its waterways."
+    },
+    {
+      "title": "Viral Mizan arrested for allegedly resisting disconnection of illegal power line",
+      "link": "https://www.tbsnews.net/bangladesh/viral-mizan-arrested-allegedly-resisting-disconnection-illegal-power-line-1510676",
+      "pubDate": "Sun, 09 Aug 2026 20:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/viral_mizan_1.png",
+      "snippet": "The Tk100 beef-and-rice seller allegedly confronted an electricity department team at his Agargaon street-side shop."
     },
     {
       "title": "Nanak told ex-Ctg mayor to portray slain man as AL activist to 'make it an issue': Prosecution",
@@ -232,24 +265,13 @@
       "snippet": "More than 6,000 factories were once listed as operating in Chattogram, but only around 2,700 remain active at present, they say"
     },
     {
-      "title": "Ex-CJ ABM Khairul can't be arrested, harassed unless named in specific case: SC",
-      "link": "https://www.tbsnews.net/bangladesh/court/ex-cj-abm-khairul-cant-be-arrested-harassed-unless-named-specific-case-sc-1510606",
-      "pubDate": "Sun, 09 Aug 2026 19:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/10/541755528_631410593376329_976030844878107813_n.jpg",
-      "snippet": "The apex court also ordered the High Court to quickly dispose of the rule challenging the legality of his arrest and harassment."
-    },
-    {
       "title": "AmCham urges policy reforms to accelerate Bangladesh's digital economy",
       "link": "https://www.tbsnews.net/economy/amcham-urges-policy-reforms-accelerate-bangladeshs-digital-economy-1510611",
       "pubDate": "Sun, 09 Aug 2026 19:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/amcham_programme_9_august.png",
       "snippet": "Rehan Asif Asad, advisor to the Prime Minister on Post, Telecommunication, ICT, Science and Technology, attended the event as the chief guest."
     },
@@ -263,17 +285,6 @@
       "icon": "🔍",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/20260711_rajibdhar_9987_1.jpg",
       "snippet": "Protecting the country’s remaining elephant population will require restoring degraded forests, securing elephant corridors, improving human-elephant conflict management and putting wildlife conservation at the centre of development planning"
-    },
-    {
-      "title": "SSC, equivalent exam 2026: Here's how you can check results online and via SMS",
-      "link": "https://www.tbsnews.net/bangladesh/ssc-equivalent-exam-results-2026-heres-how-you-can-check-online-and-sms-1510576",
-      "pubDate": "Sun, 09 Aug 2026 19:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/04/10/ssc_exam.jpeg",
-      "snippet": "The results are available online through the official website of the education boards, all exam centres and institutions, and via SMS."
     },
     {
       "title": "RACE Asset Management's rejoinder and our reply",
@@ -692,18 +703,7 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/7lx5ixl5z5o27klmdq67bl36ii.jpg",
       "snippet": "The DOJ alleges racial bias in Duke Law admissions while the Department of Education investigates California universities following antisemitism complaints."
-    },
-    {
-      "title": "11 troubled banks to face asset quality test by int’l firms from January",
-      "link": "https://www.tbsnews.net/economy/banking/11-troubled-banks-face-asset-quality-test-intl-firms-january-1508636",
-      "pubDate": "Fri, 07 Aug 2026 07:55:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/09/09/collage-dollar.jpg",
-      "snippet": "Bangladesh Bank invites expressions of interest"
     }
   ],
-  "updatedAt": "2026-08-10T01:46:51.279Z"
+  "updatedAt": "2026-08-10T03:54:42.881Z"
 }
