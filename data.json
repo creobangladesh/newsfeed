@@ -1,13 +1,101 @@
 {
   "news": [
     {
-      "title": "58.05% students pass SSC exams in Dinajpur Board",
-      "link": "https://www.tbsnews.net/bangladesh/education/5805-students-pass-ssc-exams-dinajpur-board-1511286",
-      "pubDate": "Mon, 10 Aug 2026 15:45:00 +0600",
+      "title": "Natundhara Bangladesh chief Momin Mehedi, 5 others denied bail in anti-terrorism case",
+      "link": "https://www.tbsnews.net/bangladesh/court/natundhara-bangladesh-chief-momin-mehedi-5-others-denied-bail-anti-terrorism-case",
+      "pubDate": "Mon, 10 Aug 2026 16:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/chairman-momin-mehedi-and-senior-vice-chairman-shanta-farzana-6a7301bc74d9e.jpg",
+      "snippet": "They were arrested on 5 August and sent to jail in the same case."
+    },
+    {
+      "title": "BRICS Summit: No decision yet on PM's India visit",
+      "link": "https://www.tbsnews.net/bangladesh/brics-summit-no-decision-yet-pms-india-visit-1511366",
+      "pubDate": "Mon, 10 Aug 2026 16:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/tarique_rahman.jpg",
+      "snippet": "Dhaka says the BRICS invitation was extended to Tarique Rahman in his capacity as BIMSTEC chair, while a separate bilateral invitation from India for a visit remains under consideration."
+    },
+    {
+      "title": "86,709 religious institutions to come under state honorarium scheme: Ministry",
+      "link": "https://www.tbsnews.net/bangladesh/86709-religious-institutions-come-under-state-honorarium-scheme-ministry-1511356",
+      "pubDate": "Mon, 10 Aug 2026 16:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/08/image-393593-1780919745.jpg",
+      "snippet": "About one-fourth of the country's religious institutions will be covered this fiscal year, with the government planning to extend the scheme to all such institutions within three years."
+    },
+    {
+      "title": "Ctg private healthcare workers demand Tk30,000 minimum wage",
+      "link": "https://www.tbsnews.net/bangladesh/ctg-private-healthcare-workers-demand-tk30000-minimum-wage-1511371",
+      "pubDate": "Mon, 10 Aug 2026 16:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/764363881_2272490526922696_3952399877989468140_n.jpg",
+      "snippet": "They also seek the abolition of contractor and outsourcing-based employment, the enforcement of labour laws and legal benefits."
+    },
+    {
+      "title": "Fabricated result culture of fascist era dismantled, impartial assessment ensured: Mahdi Amin",
+      "link": "https://www.tbsnews.net/bangladesh/education/fabricated-result-culture-fascist-era-dismantled-impartial-assessment-ensured",
+      "pubDate": "Mon, 10 Aug 2026 16:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/image-413313-1786356163.jpg",
+      "snippet": "Mahdi Amin said the education sector was the most affected one during the previous fascist regime."
+    },
+    {
+      "title": "BB allows international cards for overseas education payments",
+      "link": "https://www.tbsnews.net/economy/banking/bb-allows-international-cards-overseas-education-payments-1511351",
+      "pubDate": "Mon, 10 Aug 2026 16:40:00 +0600",
       "category": "Education",
       "color": "#e65100",
       "bg": "#fff3e0",
       "icon": "🎓",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/10/27/image-90440-1666873321.jpg",
+      "snippet": "The facility will allow students and their sponsors to use cards for tuition fees and other approved education-related expenses abroad without affecting existing travel quotas."
+    },
+    {
+      "title": "Dhaka hopes New Delhi won't undermine any pillar of state again: FM",
+      "link": "https://www.tbsnews.net/bangladesh/dhaka-hopes-new-delhi-wont-undermine-any-pillar-state-again-fm-1511336",
+      "pubDate": "Mon, 10 Aug 2026 16:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/26/653753993_940254128723922_6328848992295754260_n.jpg",
+      "snippet": "Dhaka says New Delhi has understood its concerns over Sheikh Hasina’s activities from India, while urging faster extradition of the convicted former prime minister and the suspected killers of Shaheed Osman Hadi."
+    },
+    {
+      "title": "Measles: Death toll reaches 878 as 5 more die in 24 hours",
+      "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-878-5-more-die-24-hours-1511306",
+      "pubDate": "Mon, 10 Aug 2026 16:10:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/measlessssssss.jpeg",
+      "snippet": "Of the total deaths, 780 are suspected measles deaths, while 98 have been confirmed through laboratory tests."
+    },
+    {
+      "title": "58.05% students pass SSC exams in Dinajpur Board",
+      "link": "https://www.tbsnews.net/bangladesh/education/5805-students-pass-ssc-exams-dinajpur-board-1511286",
+      "pubDate": "Mon, 10 Aug 2026 15:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/image-413287-1786353187.jpg",
       "snippet": "A total of 13,639 student have secured GPA-5 from the board."
     },
@@ -202,65 +290,32 @@
       "title": "SSC 2026: 100% pass institutions drop to 669",
       "link": "https://www.tbsnews.net/bangladesh/education/ssc-2026-100-pass-institutions-drop-669-1511076",
       "pubDate": "Mon, 10 Aug 2026 12:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/766106212_1606605977735424_3913680122014047034_n.jpg",
       "snippet": "This year, students from a total of 30,402 educational institutions participated in the examinations."
-    },
-    {
-      "title": "Dhaka asks Delhi to expedite Hasina's extradition, return Hadi's killers",
-      "link": "https://www.tbsnews.net/foreign-policy/indian-high-commissioner-trivedi-meets-pm-tarique-1511071",
-      "pubDate": "Mon, 10 Aug 2026 12:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/767009540_2147504159448651_5513835025553782468_n.jpg",
-      "snippet": "This was Trivedi’s first meeting with Prime Minister Tarique Rahman."
-    },
-    {
-      "title": "SSC GPA-5 achievers fall for fourth straight year ",
-      "link": "https://www.tbsnews.net/bangladesh/ssc-gpa-5-achievers-fall-fourth-straight-year-1511056",
-      "pubDate": "Mon, 10 Aug 2026 12:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/07/12/screenshot_2025-07-12_at_00-58-26_senaabaahinii_pricaalit_shikssaa_prtisstthaansmuuhe_paaser_haar_98.85_the_business_standard.png",
-      "snippet": "This year’s figure is 22,356 lower than last year’s 1,39,032 GPA-5 achievers."
     },
     {
       "title": "Nearly 7 lakh fail SSC, equivalent exams",
       "link": "https://www.tbsnews.net/bangladesh/education/nearly-7-lakh-fail-ssc-equivalent-exams-1511041",
       "pubDate": "Mon, 10 Aug 2026 12:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/fail_represntation.png",
       "snippet": "A total of 18,29,485 students registered to sit for the examinations this year. Of them, 11,38,877 passed while 6,90,608 failed."
-    },
-    {
-      "title": "Quader-Arafat call reveals threat to shut TV channels during July Uprising, tribunal receives recording ",
-      "link": "https://www.tbsnews.net/bangladesh/court/quader-arafat-call-reveals-threat-shut-tv-channels-during-july-uprising-recording",
-      "pubDate": "Mon, 10 Aug 2026 11:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/tbs_17.png",
-      "snippet": "The prosecution will present arguments for the fourth consecutive day today (10 August) in the case against seven accused, including Obaidul Quader, over crimes against humanity."
     },
     {
       "title": "SSC 2026: Girls outshine boys in both pass rate and GPA-5",
       "link": "https://www.tbsnews.net/bangladesh/education/ssc-2026-girls-outshine-boys-both-pass-rate-and-gpa-5-1510976",
       "pubDate": "Mon, 10 Aug 2026 11:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/12/30/ctg_ssc_result_photo_010.jpg",
       "snippet": "A total of 1,07,982 more female students passed the examinations than male students, while 11,401 more female students achieved GPA 5."
     },
@@ -268,10 +323,10 @@
       "title": "SSC 2026: Sylhet pass rate plunges to 5-year low of 58.33% ",
       "link": "https://www.tbsnews.net/bangladesh/education/ssc-2026-sylhet-board-records-5833-ssc-pass-rate-3836-secure-gpa-5-1510971",
       "pubDate": "Mon, 10 Aug 2026 11:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/07/12/screenshot_2025-07-12_at_00-58-26_senaabaahinii_pricaalit_shikssaa_prtisstthaansmuuhe_paaser_haar_98.85_the_business_standard.png",
       "snippet": "A total of 89,421 students from 973 educational institutions under the Sylhet Education Board appeared for the SSC examinations this year."
     },
@@ -518,17 +573,6 @@
       "snippet": "Issuing a circular today (9 August), the central bank said the facility would allow eligible tour operators to collect payments in taka and settle payments with overseas service providers through authorised dealer (AD) banks."
     },
     {
-      "title": "Science toys, math labs to be added to primary education: Bobby Hajjaj",
-      "link": "https://www.tbsnews.net/bangladesh/education/science-toys-math-labs-be-added-primary-education-bobby-hajjaj-1510376",
-      "pubDate": "Sun, 09 Aug 2026 15:45:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/20/bobby_hajjaj.jpg",
-      "snippet": "Bobby said greater emphasis was being placed on science, mathematics, design and creativity in primary education."
-    },
-    {
       "title": "Measles death toll reaches 873 as 6 more children die in 24 hours",
       "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-873-6-more-children-die-24-hours-1510336",
       "pubDate": "Sun, 09 Aug 2026 15:25:00 +0600",
@@ -694,17 +738,6 @@
       "snippet": "Decline marks reversal from previous two fiscals"
     },
     {
-      "title": "Govt working to curb syndicates exploiting students looking to study abroad: Shama Obaed",
-      "link": "https://www.tbsnews.net/bangladesh/education/govt-working-curb-syndicates-exploiting-students-looking-study-abroad-shama",
-      "pubDate": "Fri, 07 Aug 2026 21:40:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/19/shama_obaed.jpg",
-      "snippet": "This year, the fair brought together representatives from 30 countries to provide consultancy services for around 300 world-class educational institutions around the world."
-    },
-    {
       "title": "Ctg's Jalil Mills workers demand dues before its handover to army",
       "link": "https://www.tbsnews.net/economy/industry/ctgs-jalil-mills-workers-demand-dues-its-handover-army-1509091",
       "pubDate": "Fri, 07 Aug 2026 21:30:00 +0600",
@@ -747,18 +780,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/r546kibkmvomnoph2pohkv3nwu.jpg",
       "snippet": "Bangladesh's underutilised power infrastructure, expanding fibre networks and existing energy assets could provide the foundations for a globally competitive data-centre industry"
-    },
-    {
-      "title": "Measles outbreak: Death toll reaches 863 as 3 more die in 24 hours",
-      "link": "https://www.tbsnews.net/bangladesh/health/measles-outbreak-death-toll-reaches-863-3-more-die-24-hours-1508896",
-      "pubDate": "Fri, 07 Aug 2026 16:30:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/11/measles_tbs.jpeg",
-      "snippet": "With the latest update, the number of suspected measles deaths rose to 767, while the number of laboratory-confirmed measles deaths remained 96."
     }
   ],
-  "updatedAt": "2026-08-10T09:58:27.990Z"
+  "updatedAt": "2026-08-10T11:15:03.589Z"
 }
