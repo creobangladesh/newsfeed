@@ -1,6 +1,83 @@
 {
   "news": [
     {
+      "title": "Indian envoy Trivedi meets PM Tarique",
+      "link": "https://www.tbsnews.net/foreign-policy/indian-high-commissioner-trivedi-meets-pm-tarique-1511071",
+      "pubDate": "Mon, 10 Aug 2026 12:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/tarique_trivedi.jpg",
+      "snippet": "Before his meeting with the prime minister, the Indian high commissioner met Foreign Minister Khalilur Rahman yesterday afternoon, as both sides continue efforts to engage constructively."
+    },
+    {
+      "title": "SSC GPA-5 achievers fall for fourth straight year ",
+      "link": "https://www.tbsnews.net/bangladesh/ssc-gpa-5-achievers-fall-fourth-straight-year-1511056",
+      "pubDate": "Mon, 10 Aug 2026 12:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/07/12/screenshot_2025-07-12_at_00-58-26_senaabaahinii_pricaalit_shikssaa_prtisstthaansmuuhe_paaser_haar_98.85_the_business_standard.png",
+      "snippet": "This year’s figure is 22,356 lower than last year’s 1,39,032 GPA-5 achievers."
+    },
+    {
+      "title": "Nearly 7 lakh fail SSC, equivalent exams",
+      "link": "https://www.tbsnews.net/bangladesh/education/nearly-7-lakh-fail-ssc-equivalent-exams-1511041",
+      "pubDate": "Mon, 10 Aug 2026 12:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/fail_represntation.png",
+      "snippet": "A total of 18,29,485 students registered to sit for the examinations this year. Of them, 11,38,877 passed while 6,90,608 failed."
+    },
+    {
+      "title": "Quader-Arafat call reveals threat to shut TV channels during July Uprising, tribunal receives recording ",
+      "link": "https://www.tbsnews.net/bangladesh/court/quader-arafat-call-reveals-threat-shut-tv-channels-during-july-uprising-recording",
+      "pubDate": "Mon, 10 Aug 2026 11:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/tbs_17.png",
+      "snippet": "The prosecution will present arguments for the fourth consecutive day today (10 August) in the case against seven accused, including Obaidul Quader, over crimes against humanity."
+    },
+    {
+      "title": "SSC 2026: Girls outshine boys in both pass rate and GPA-5",
+      "link": "https://www.tbsnews.net/bangladesh/education/ssc-2026-girls-outshine-boys-both-pass-rate-and-gpa-5-1510976",
+      "pubDate": "Mon, 10 Aug 2026 11:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/12/30/ctg_ssc_result_photo_010.jpg",
+      "snippet": "A total of 1,07,982 more female students passed the examinations than male students, while 11,401 more female students achieved GPA 5."
+    },
+    {
+      "title": "SSC 2026: Sylhet Board records 58.33% SSC pass rate, 3,836 secure GPA-5",
+      "link": "https://www.tbsnews.net/bangladesh/education/ssc-2026-sylhet-board-records-5833-ssc-pass-rate-3836-secure-gpa-5-1510971",
+      "pubDate": "Mon, 10 Aug 2026 11:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/07/12/screenshot_2025-07-12_at_00-58-26_senaabaahinii_pricaalit_shikssaa_prtisstthaansmuuhe_paaser_haar_98.85_the_business_standard.png",
+      "snippet": "A total of 89,421 students from 973 educational institutions under the Sylhet Education Board appeared for the SSC examinations this year."
+    },
+    {
+      "title": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
+      "link": "https://www.tbsnews.net/tech/how-small-israeli-startup-was-linked-rogue-ai-hacks-openai-anthropic-and-meta-1510966",
+      "pubDate": "Mon, 10 Aug 2026 11:25:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/23/hacking_hacker.jpg",
+      "snippet": "Irregular is a niche player in artificial intelligence, backed with $80 million from Sequoia and Redpoint Ventures and valued last year at $450 million"
+    },
+    {
       "title": "SSC 2026: 312 institutions record zero passes",
       "link": "https://www.tbsnews.net/bangladesh/ssc-2026-312-institutions-record-zero-passes-1510961",
       "pubDate": "Mon, 10 Aug 2026 11:20:00 +0600",
@@ -8,7 +85,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/28/ssc.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/02/ssc_0.jpg",
       "snippet": "Of the 312 institutions, 57 are under the nine general education boards while 226 are under the Madrasah Education Board."
     },
     {
@@ -19,7 +96,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/07/12/screenshot_2025-07-12_at_00-58-26_senaabaahinii_pricaalit_shikssaa_prtisstthaansmuuhe_paaser_haar_98.85_the_business_standard.png",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/05/12/whatsapp_image_2024-05-12_at_1.11.54_pm.jpeg",
       "snippet": "Professor Dr Shafiqul Islam, controller of Examinations at the Cumilla Board said the board’s performance had improved across all indicators compared to the previous year."
     },
     {
@@ -78,14 +155,14 @@
       "snippet": "A total of 82,901 students registered for the examination this year, of whom 80,458 appeared, and 48,555 passed."
     },
     {
-      "title": "SSC 2026: Pass rate falls to 62.25%, GPA-5 holders drop to 1,16,676 ",
+      "title": "SSC, equivalent exam pass rate falls to 62.25%, GPA-5 holders drop to 1,16,676",
       "link": "https://www.tbsnews.net/bangladesh/education/ssc-exam-pass-rate-falls-6405-106009-students-secure-gpa-5-1510901",
       "pubDate": "Mon, 10 Aug 2026 10:05:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/12/20/ssc_0.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/769838765_1346887494308459_5713235104749675688_n.jpg",
       "snippet": "The average pass rate in this year's SSC examinations under the nine general education boards fell to 64.05%, down from 68.04% last year, reflecting a decline of 3.99 percentage points."
     },
     {
@@ -202,23 +279,12 @@
       "title": "SUST forms probe body to identify teachers 'involved in anti-state activities'",
       "link": "https://www.tbsnews.net/bangladesh/education/sust-forms-probe-body-identify-teachers-involved-anti-state-activities-1510786",
       "pubDate": "Sun, 09 Aug 2026 21:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/23/sust-photo.png",
       "snippet": "The six-member committee will also investigate whether teachers were directly or indirectly involved in threatening or suppressing students during the Anti-Discrimination Student Movement."
-    },
-    {
-      "title": "United Insurance, Saiham, Alltex deny hidden triggers behind recent price surges",
-      "link": "https://www.tbsnews.net/economy/stocks/united-insurance-saiham-alltex-deny-hidden-triggers-behind-recent-price-surges",
-      "pubDate": "Sun, 09 Aug 2026 21:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/3_companies.jpg",
-      "snippet": "United Insurance recorded the biggest rise of the three, with its share price soaring 60% to Tk67.10 between the end of June and the first week of August."
     },
     {
       "title": "Govt forms new judicial pay review committee as officials allege delay tactic",
@@ -235,10 +301,10 @@
       "title": "Meta partners with LightCastle to boost SME growth in Bangladesh",
       "link": "https://www.tbsnews.net/tech/meta-partners-lightcastle-boost-sme-growth-bangladesh-1510756",
       "pubDate": "Sun, 09 Aug 2026 21:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/meta.png",
       "snippet": "The programme will provide entrepreneurs with hands-on training on Meta’s digital platforms and AI-powered tools."
     },
@@ -246,34 +312,12 @@
       "title": "Cenbank says 8 foreign firms to trace overseas assets of 42 defaulting firms",
       "link": "https://www.tbsnews.net/economy/banking/8-foreign-firms-trace-overseas-assets-42-defaulting-companies-bb-1510751",
       "pubDate": "Sun, 09 Aug 2026 21:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/02/money_laundering-1.jpg",
       "snippet": "Recovery efforts target firms with over Tk200cr in defaults."
-    },
-    {
-      "title": "Court fixes 30 November for cross-examination in Pori Moni attempted rape case",
-      "link": "https://www.tbsnews.net/bangladesh/court/court-fixes-30-november-cross-examination-pori-moni-attempted-rape-case-1510746",
-      "pubDate": "Sun, 09 Aug 2026 21:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/01/26/pori.png",
-      "snippet": "Court fixes new date for Pori Moni's cross-examination after she failed to reach the court on time."
-    },
-    {
-      "title": "Mamunul calls for removing faces from all sculptures at July Museum",
-      "link": "https://www.tbsnews.net/bangladesh/politics/mamunul-calls-removing-faces-all-sculptures-july-museum-1510741",
-      "pubDate": "Sun, 09 Aug 2026 21:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/mamunul_haque.png",
-      "snippet": "Khelafat Majlis chief also criticised the museum for leaving out memories of the 2021 anti-Modi movement and several other major events."
     },
     {
       "title": "PMI hits 57.8 as manufacturing posts strongest gain in months on export rebound",
@@ -670,29 +714,7 @@
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/img_8944.jpeg",
       "snippet": "The group said it had continued paying salaries and allowances to employees for several months despite production remaining suspended, hoping that the government and banks would resolve the crisis."
-    },
-    {
-      "title": "AI designs fully functional viruses for first time, raising safety concerns",
-      "link": "https://www.tbsnews.net/tech/ai-designs-fully-functional-viruses-first-time-raising-safety-concerns-1508776",
-      "pubDate": "Fri, 07 Aug 2026 12:05:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/81e84950-91b8-11f1-bab9-173de0e7d358.jpg.jpg",
-      "snippet": "Experts said AI's ability to design viral genomes now demands stronger safeguards, warning that viruses capable of causing disease should never be intentionally created."
-    },
-    {
-      "title": "Meta says AI model hacked another company, raising concerns over rogue AI behavior",
-      "link": "https://www.tbsnews.net/tech/meta-says-ai-model-hacked-another-company-raising-concerns-over-rogue-ai-behavior-1508771",
-      "pubDate": "Fri, 07 Aug 2026 11:40:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/img_8931.jpeg",
-      "snippet": "Meta said the incident happened during cybersecurity testing conducted by Irregular, an independent company hired by Meta."
     }
   ],
-  "updatedAt": "2026-08-10T05:26:39.636Z"
+  "updatedAt": "2026-08-10T06:52:01.698Z"
 }
