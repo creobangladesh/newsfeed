@@ -1,6 +1,105 @@
 {
   "news": [
     {
+      "title": "Parliament to go into 3rd session on 27 August",
+      "link": "https://www.tbsnews.net/bangladesh/parliament-go-3rd-session-27-august-1512216",
+      "pubDate": "Tue, 11 Aug 2026 16:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/01/04/bangladesh_national_parliament-tbs.png",
+      "snippet": "The acting president Hafiz Uddin Ahmad has summoned the parliamentary session, exercising the powers vested in him under Article 72(1) of the Constitution."
+    },
+    {
+      "title": "Asiya rape-murder case: HC starts hearing on death reference, convict's appeal",
+      "link": "https://www.tbsnews.net/bangladesh/asiya-rape-murder-case-hc-starts-hearing-death-reference-convicts-appeal-1512201",
+      "pubDate": "Tue, 11 Aug 2026 16:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/01/31/rape.jpg",
+      "snippet": "Paper book presentation completed as High Court proceedings begin."
+    },
+    {
+      "title": "Port-customs joint committee formed to ease trade, speed up clearance: Finance minister",
+      "link": "https://www.tbsnews.net/economy/port-customs-joint-committee-formed-ease-trade-speed-clearance-finance-minister-1512176",
+      "pubDate": "Tue, 11 Aug 2026 16:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/24/amir_khosru.jpg",
+      "snippet": "The committee will address trade barriers and improve coordination between agencies, says the minister."
+    },
+    {
+      "title": "Measles: Death toll reaches 880 as 2 more children die in 24hrs",
+      "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-880-2-more-children-die-24hrs-1512186",
+      "pubDate": "Tue, 11 Aug 2026 16:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/25/measles_tbs.jpg",
+      "snippet": "DGHS reports 872 new suspected cases and 107 confirmed infections in 24 hours, taking the cumulative suspected caseload above 138,000."
+    },
+    {
+      "title": "The Gen-AI bubble and its bursting point",
+      "link": "https://www.tbsnews.net/thoughts/gen-ai-bubble-and-its-bursting-point-1512191",
+      "pubDate": "Tue, 11 Aug 2026 16:20:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/02/12/08_panorama-12_feb_copy.png",
+      "snippet": "Generative AI has rapidly transformed how people work, create and interact with technology. But its growing reliance on personal data, its impact on jobs and cognitive skills, and its environmental costs raise questions about whether the technology's..."
+    },
+    {
+      "title": "Bangladesh spends just 0.9% of GDP on safety nets, far below South Asia average",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-spends-just-09-gdp-safety-nets-far-below-south-asia-average-1512171",
+      "pubDate": "Tue, 11 Aug 2026 16:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/07/_social_safety_net.png",
+      "snippet": "A GED assessment finds 67.1% of poor people were excluded from safety net benefits in 2022, while 62.8% of beneficiaries were neither poor nor vulnerable."
+    },
+    {
+      "title": "Sustainable financing needed to curb rising hypertension among youth: Speakers",
+      "link": "https://www.tbsnews.net/bangladesh/health/sustainable-financing-needed-curb-rising-hypertension-among-youth-speakers-1512141",
+      "pubDate": "Tue, 11 Aug 2026 16:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/whatsapp_image_2026-08-11_at_2.47.29_pm.jpeg",
+      "snippet": "Around 12% of Bangladeshis aged 18-39 had hypertension in 2018, while NCDs account for 71% of all deaths nationwide."
+    },
+    {
+      "title": "The culture before the crime: How social norms enable sexual violence",
+      "link": "https://www.tbsnews.net/thoughts/culture-crime-how-social-norms-enable-sexual-violence-1512166",
+      "pubDate": "Tue, 11 Aug 2026 16:00:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/08/08/imgi_72_violence_tbs.jpg",
+      "snippet": "Rising reports of sexual violence in Bangladesh point to deeper problems of gender inequality, social silence and weak institutional accountability. Preventing such violence requires changing the norms that enable it, not simply punishing perpetrator..."
+    },
+    {
+      "title": "Turning waste into power in Bangladesh: Why ambition outpaces readiness",
+      "link": "https://www.tbsnews.net/thoughts/turning-waste-power-bangladesh-why-ambition-outpaces-readiness-1512136",
+      "pubDate": "Tue, 11 Aug 2026 15:55:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/aminbazar_landfill_11.jpg",
+      "snippet": "Bangladesh's growing urban waste problem presents an opportunity to generate electricity, but waste-to-energy projects cannot succeed without better waste management, segregation and institutional capacity"
+    },
+    {
       "title": "Govt plans common policy to allow private fuel oil imports, sales",
       "link": "https://www.tbsnews.net/bangladesh/energy/govt-plans-common-policy-allow-private-fuel-oil-imports-sales-1512111",
       "pubDate": "Tue, 11 Aug 2026 15:50:00 +0600",
@@ -21,6 +120,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/766598454_1838136720506883_187089125413660101_n.png",
       "snippet": "The highest bidder will not necessarily be awarded the dog. According to the notice, the authorities reserve the right to accept or reject any bid without assigning any reason."
+    },
+    {
+      "title": "Bangladesh, Sweden discuss security, curbing irregular migration and Rohingya crisis",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-sweden-discuss-security-curbing-irregular-migration-and-rohingya-crisis",
+      "pubDate": "Tue, 11 Aug 2026 15:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/home_minister_salahuddin_ahmed.jpg",
+      "snippet": "Talks also cover trade, technical education and cooperation."
     },
     {
       "title": "Delta Life Insurance ex-CFO sent to jail in Tk1.88cr embezzlement case",
@@ -133,7 +243,7 @@
       "snippet": "He said students were confused because part of a meeting resolution was omitted from media reports."
     },
     {
-      "title": "PM assures support as AmCham eyes more US investment",
+      "title": "AmCham seeks govt support to facilitate $5b investment in Bangladesh over five years",
       "link": "https://www.tbsnews.net/bangladesh/pm-assures-support-amcham-eyes-more-us-investment-1511986",
       "pubDate": "Tue, 11 Aug 2026 13:30:00 +0600",
       "category": "Bangladesh",
@@ -141,7 +251,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/amcham.jpg",
-      "snippet": "An eight-member AmCham delegation, led by its President and Mastercard Vice President Syed Mohammad Kamal, attended the meeting."
+      "snippet": "Chamber seeks stronger reforms and policy predictability to attract investment"
     },
     {
       "title": "BGMEA, LPP issue joint statement to clarify invoice dispute, reaffirm sourcing partnership",
@@ -155,79 +265,13 @@
       "snippet": "LPP also clarified that its recent review of certain sourcing activities in Bangladesh was primarily aimed at protecting its local employees, ensuring legal clarity and maintaining a stable, predictable and fair operating environment."
     },
     {
-      "title": "Hasina ordered arson attacks on July protesters' homes, businesses: Call record submitted in ICT",
-      "link": "https://www.tbsnews.net/bangladesh/court/hasina-ordered-arson-attacks-july-protesters-homes-businesses-call-record-1511991",
-      "pubDate": "Tue, 11 Aug 2026 13:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/08/22/sheikh_hasina_caricature_1.jpg",
-      "snippet": "'They [protesters] will burn things down, but they also have homes and vehicles. Now the public will burn those too… Come, if you burn things, we will do that too,' Hasina can be heard saying in the recorded phone conversation with Obaidul Quader and..."
-    },
-    {
-      "title": "Indian agencies won't be allowed to operate in Bangladesh as they did under Hasina: Zahed regarding RAW chief's visit",
-      "link": "https://www.tbsnews.net/bangladesh/indian-agencies-wont-be-allowed-operate-bangladesh-they-did-under-hasina-zahed-regarding",
-      "pubDate": "Tue, 11 Aug 2026 13:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/untitled_design_0.png",
-      "snippet": "The remarks came following the recent visit of the chief and several officials of India's intelligence agency Research and Analysis Wing (RAW) to Dhaka."
-    },
-    {
-      "title": "PM welcomes Visa’s investment in digital economy, stresses digital partnership",
-      "link": "https://www.tbsnews.net/bangladesh/pm-welcomes-visas-investment-digital-economy-stresses-digital-partnership-1511971",
-      "pubDate": "Tue, 11 Aug 2026 13:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/pm_tarique_rahman_img_0.jpg",
-      "snippet": "Karpin expressed Visa’s interest in investing and expanding its business in Bangladesh, saying there is significant potential to work in digital financial services, technology and innovation."
-    },
-    {
-      "title": "1 killed, 10 injured as rival groups clash over dominance in Shariatpur, crude bombs exploded",
-      "link": "https://www.tbsnews.net/bangladesh/1-killed-10-injured-rival-groups-clash-over-dominance-shariatpur-crude-bombs-exploded",
-      "pubDate": "Tue, 11 Aug 2026 13:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/1000294656.jpg",
-      "snippet": "At least 10 people from both sides were injured in the explosions."
-    },
-    {
-      "title": "Three killed in Chandpur bus-truck collision",
-      "link": "https://www.tbsnews.net/bangladesh/three-killed-chandpur-bus-truck-collision-1511956",
-      "pubDate": "Tue, 11 Aug 2026 12:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/untitled_design.png",
-      "snippet": "The accident occurred around 8am when the Al-Arafah Paribahan bus was trying to overtake another vehicle and collided with the truck coming from the opposite direction, said witnesses."
-    },
-    {
-      "title": "Preparatory meeting on presidential election today",
-      "link": "https://www.tbsnews.net/bangladesh/preparatory-meeting-presidential-election-today-1511941",
-      "pubDate": "Tue, 11 Aug 2026 12:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/15/untitled_design_15.jpg",
-      "snippet": "Earlier, on August 6, the Election Commission (EC) announced the schedule for the presidential election."
-    },
-    {
       "title": "Students lock teachers inside room after poor SSC results in Sherpur  ",
       "link": "https://www.tbsnews.net/bangladesh/education/students-lock-teachers-inside-room-after-poor-ssc-results-sherpur-1511931",
       "pubDate": "Tue, 11 Aug 2026 12:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/ramerchar_high_school.png",
       "snippet": "Teachers were released after they agreed to bear the costs of answer-script re-scrutiny and 2027 form-filling fees for failed students."
     },
@@ -945,29 +989,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/health.png",
       "snippet": "The time has come to implement the commitments made in the BNP election manifesto to establish a people-centred, accountable, decentralised and universally accessible health system"
-    },
-    {
-      "title": "Govt plans 400-acre industrial park in Bogura: Commerce minister ",
-      "link": "https://www.tbsnews.net/economy/industry/govt-plans-400-acre-industrial-park-bogura-commerce-minister-1509591",
-      "pubDate": "Sat, 08 Aug 2026 16:30:00 +0600",
-      "category": "Industry",
-      "color": "#f57c00",
-      "bg": "#fff3e0",
-      "icon": "🏭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/20/khandakar_muktadir.jpg",
-      "snippet": "The proposed park will cater to growing SME demand, with preliminary development work expected to begin this winter, the minister says."
-    },
-    {
-      "title": "Measles claims 4 more lives as death toll hits 867",
-      "link": "https://www.tbsnews.net/bangladesh/health/measles-claims-4-more-lives-death-toll-hits-867-1509581",
-      "pubDate": "Sat, 08 Aug 2026 16:10:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/measles_outbreak.jpg",
-      "snippet": "DGHS reports 677 new suspected cases and 99 laboratory-confirmed infections in the latest 24-hour period, taking the cumulative suspected case count to more than 135,000."
     }
   ],
-  "updatedAt": "2026-08-11T10:00:21.535Z"
+  "updatedAt": "2026-08-11T11:19:36.803Z"
 }
