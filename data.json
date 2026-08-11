@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Metro-5 budget cut by Tk2,217cr, largely by excluding interest cost",
+      "link": "https://www.tbsnews.net/bangladesh/transport/metro-5-budget-cut-tk2217cr-largely-excluding-interest-cost-1511771",
+      "pubDate": "Tue, 11 Aug 2026 07:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/01/26/bmrt-salahuddin-ahmed.jpg",
+      "snippet": "Revisions to land requirement and administrative costs have also helped bring the cost of the metro line, connecting Gabtoli and Daserkandi, down to Tk45,503.77 crore"
+    },
+    {
       "title": "BGB recovers 2.46 lakh yaba pills, foreign pistol, 5 bullets in Bandarban",
       "link": "https://www.tbsnews.net/bangladesh/crime/bgb-recovers-246-lakh-yaba-pills-foreign-pistol-5-bullets-bandarban-1511751",
       "pubDate": "Tue, 11 Aug 2026 00:40:00 +0600",
@@ -12,17 +23,6 @@
       "snippet": "The seized drugs, firearm and ammunition were abandoned by suspected smugglers who fled during a midnight operation near the Myanmar border."
     },
     {
-      "title": "Experts question Biman's Rome technical-stop planning after 40-hour passenger ordeal",
-      "link": "https://www.tbsnews.net/economy/aviation/experts-question-bimans-rome-technical-stop-planning-after-40-hour-passenger-ordeal",
-      "pubDate": "Mon, 10 Aug 2026 21:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/09/28/biman1.jpg",
-      "snippet": "The incident exposes gaps in Biman’s contingency planning, including limited access for its Rome-based staff, reliance on a single aircraft and the lack of a clear fallback arrangement for passengers during prolonged technical disruptions."
-    },
-    {
       "title": "National Steering Committee on Creative Economy formed",
       "link": "https://www.tbsnews.net/economy/national-steering-committee-creative-economy-formed-1511731",
       "pubDate": "Mon, 10 Aug 2026 21:50:00 +0600",
@@ -32,6 +32,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/govt_10.png",
       "snippet": "Govt forms a 27-member steering committee to shape policy, markets and growth across the creative economy."
+    },
+    {
+      "title": "Experts question Biman's Rome technical-stop planning after 40-hour passenger ordeal",
+      "link": "https://www.tbsnews.net/economy/aviation/experts-question-bimans-rome-technical-stop-planning-after-40-hour-passenger-ordeal",
+      "pubDate": "Mon, 10 Aug 2026 21:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/09/28/biman1.jpg",
+      "snippet": "The incident exposes gaps in Biman’s contingency planning, including limited access for its Rome-based staff, reliance on a single aircraft and the lack of a clear fallback arrangement for passengers during prolonged technical disruptions."
     },
     {
       "title": "Infrastructure, utility shortages erode investor confidence in economic zones",
@@ -122,17 +133,6 @@
       "snippet": "The taskforce will oversee reforms including single-window services, automatic approvals and online tracking to simplify licensing and other business-related government services."
     },
     {
-      "title": "Margin rule relaxation rumours spark late-hour rally at DSE",
-      "link": "https://www.tbsnews.net/economy/stocks/margin-rule-relaxation-rumours-spark-late-hour-rally-dse-1511671",
-      "pubDate": "Mon, 10 Aug 2026 21:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/dsex.png",
-      "snippet": "Hopes of relaxed margin rules fuel late-session buying, lifting Dhaka stocks after two days of losses."
-    },
-    {
       "title": "BU honours July uprising martyrs with discussion, documentary screening",
       "link": "https://www.tbsnews.net/bangladesh/bu-honours-july-uprising-martyrs-discussion-documentary-screening-1511661",
       "pubDate": "Mon, 10 Aug 2026 21:15:00 +0600",
@@ -142,6 +142,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/p-3_16x9.png",
       "snippet": ""
+    },
+    {
+      "title": "Margin rule relaxation rumours spark late-hour rally at DSE",
+      "link": "https://www.tbsnews.net/economy/stocks/margin-rule-relaxation-rumours-spark-late-hour-rally-dse-1511671",
+      "pubDate": "Mon, 10 Aug 2026 21:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/dsex.png",
+      "snippet": "Hopes of relaxed margin rules fuel late-session buying, lifting Dhaka stocks after two days of losses."
     },
     {
       "title": "DSE, CSE suspend trading in 3 NBFIs declared non-viable",
@@ -188,17 +199,6 @@
       "snippet": "Amidst the visit to Bangladesh Trivedi conveyed India’s will towards strengthening bilateral relations between India and Bangladesh."
     },
     {
-      "title": "Petrol pump staff robbed of Tk1.21cr at gunpoint in Uttara",
-      "link": "https://www.tbsnews.net/bangladesh/crime/petrol-pump-staff-robbed-tk121cr-gunpoint-uttara-1511621",
-      "pubDate": "Mon, 10 Aug 2026 20:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/cctv-footage-collage.jpg",
-      "snippet": "Six to seven robbers allegedly intercepted employees en route to bank"
-    },
-    {
       "title": "Govt plans to develop 4,599 new playgrounds across country",
       "link": "https://www.tbsnews.net/bangladesh/govt-plans-develop-4599-new-playgrounds-across-country-1511626",
       "pubDate": "Mon, 10 Aug 2026 20:40:00 +0600",
@@ -210,13 +210,24 @@
       "snippet": "The state minister said there was no alternative to sports in building a physically and mentally healthy future generation."
     },
     {
-      "title": "Forex reserves stand at $32.15b",
-      "link": "https://www.tbsnews.net/economy/forex-reserves-stand-3215b-1511601",
-      "pubDate": "Mon, 10 Aug 2026 20:35:00 +0600",
+      "title": "Petrol pump staff robbed of Tk1.21cr at gunpoint in Uttara",
+      "link": "https://www.tbsnews.net/bangladesh/crime/petrol-pump-staff-robbed-tk121cr-gunpoint-uttara-1511621",
+      "pubDate": "Mon, 10 Aug 2026 20:40:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/cctv-footage-collage.jpg",
+      "snippet": "Six to seven robbers allegedly intercepted employees en route to bank"
+    },
+    {
+      "title": "Forex reserves stand at $32.15b",
+      "link": "https://www.tbsnews.net/economy/forex-reserves-stand-3215b-1511601",
+      "pubDate": "Mon, 10 Aug 2026 20:35:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/16/forex.png",
       "snippet": "The latest reserve position comes a day after Bangladesh Bank reported that gross reserves had crossed the $32 billion mark."
     },
@@ -925,5 +936,5 @@
       "snippet": "Decline marks reversal from previous two fiscals"
     }
   ],
-  "updatedAt": "2026-08-10T23:34:29.908Z"
+  "updatedAt": "2026-08-11T01:43:20.390Z"
 }
