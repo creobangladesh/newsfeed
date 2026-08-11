@@ -1,6 +1,127 @@
 {
   "news": [
     {
+      "title": "DU students seek review of teacher ban, citing disruption to 5 ongoing courses",
+      "link": "https://www.tbsnews.net/bangladesh/education/du-students-seek-review-teacher-ban-citing-disruption-5-ongoing-courses-1512596",
+      "pubDate": "Tue, 11 Aug 2026 21:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/organization/logo/dhaka_university_logo_0.png",
+      "snippet": "Four batches say removing Prof Mohammad Bahauddin mid-semester could disrupt classes, examinations and assessment, while the department recommends keeping the decision on hold until October."
+    },
+    {
+      "title": "No indigenous groups in Bangladesh, we are all Bangladeshis: Home minister",
+      "link": "https://www.tbsnews.net/bangladesh/no-indigenous-groups-bangladesh-we-are-all-bangladeshis-home-minister-1512581",
+      "pubDate": "Tue, 11 Aug 2026 21:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/20/home_minister.jpg",
+      "snippet": "He says all citizens have the same constitutional identity as Bangladeshis and rejects recognition of any separate ‘indigenous’ identity."
+    },
+    {
+      "title": "Nvidia partners with Wall Street giants to raise $500bn for AI buildout",
+      "link": "https://www.tbsnews.net/world/nvidia-partners-wall-street-giants-raise-500bn-ai-buildout-1512571",
+      "pubDate": "Tue, 11 Aug 2026 21:35:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/nvidia.png",
+      "snippet": "Nvidia has teamed up with six major financial institutions to create financing platforms aimed at mobilising more than $500 billion in capital for AI computing infrastructure."
+    },
+    {
+      "title": "Midas Finance slips into insolvency as negative NAV deepens to Tk24.87",
+      "link": "https://www.tbsnews.net/economy/stocks/midas-finance-slips-insolvency-negative-nav-deepens-tk2487-1512546",
+      "pubDate": "Tue, 11 Aug 2026 21:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/midas_finance.jpg",
+      "snippet": "The latest loss came after Midas Finance posted a staggering consolidated net loss of Tk337 crore in 2025, resulting in a loss per share of Tk23.40."
+    },
+    {
+      "title": "Norwegian envoy meets state minister for Fisheries and Livestock",
+      "link": "https://www.tbsnews.net/bangladesh/norwegian-envoy-meets-state-minister-fisheries-and-livestock-1512551",
+      "pubDate": "Tue, 11 Aug 2026 21:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/norwegian_envoy_meets_state_minister_for_fisheries_and_livestock.png",
+      "snippet": "Gulbrandsen emphasized Norway’s collaboration towards strengthening Bangladesh–Norway relationship."
+    },
+    {
+      "title": "BSEC clears revised margin rules, sets P/E cap at 40",
+      "link": "https://www.tbsnews.net/economy/stocks/bsec-clears-revised-margin-rules-sets-pe-cap-40-1512521",
+      "pubDate": "Tue, 11 Aug 2026 21:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/bsec.jpg",
+      "snippet": "The revised framework replaces P/B with trailing P/E for banks, non-life insurers and other eligible companies, while easing margin-call and forced-sale conditions for investors."
+    },
+    {
+      "title": "DSEX reclaims 5,900 as margin rule relaxation hopes fuel rally",
+      "link": "https://www.tbsnews.net/economy/stocks/dsex-reclaims-5900-margin-rule-relaxation-hopes-fuel-rally-1512566",
+      "pubDate": "Tue, 11 Aug 2026 21:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/07/dse.jpg",
+      "snippet": "Market cap swells by Tk3,300cr on TBS report of regulatory shift."
+    },
+    {
+      "title": "Indian envoy brief PM Modi in Delhi after meetings with Bangladesh leadership",
+      "link": "https://www.tbsnews.net/foreign-policy/indian-envoy-brief-pm-modi-delhi-after-meetings-bangladesh-leadership-1512516",
+      "pubDate": "Tue, 11 Aug 2026 21:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/dinesh_trivedi_narendra_modi.jpeg",
+      "snippet": "The high commissioner reached New Delhi on Monday after holding three meetings in Dhaka."
+    },
+    {
+      "title": "DU's concrete-choked trees expose Bangladesh's defunct urban climate governance",
+      "link": "https://www.tbsnews.net/thoughts/dus-concrete-choked-trees-expose-bangladeshs-defunct-urban-climate-governance-1512556",
+      "pubDate": "Tue, 11 Aug 2026 21:10:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/du_fallen_tree.jpg",
+      "snippet": "It fell without even strong winds to push it over. According to media report, Professor Jashim Uddin, director of the university's Arboriculture Centre, diagnosed the structural failure."
+    },
+    {
+      "title": "Hasina’s energy policy caused power woes: Ishraque",
+      "link": "https://www.tbsnews.net/bangladesh/hasinas-energy-policy-caused-power-woes-ishraque-1512506",
+      "pubDate": "Tue, 11 Aug 2026 21:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/767299845_1114859494403603_4820834243095453843_n.jpg",
+      "snippet": "The state minister further alleged that some people who are now creating misinformation and confusion in the name of movements are also seeking to launch protests over energy-related issues."
+    },
+    {
+      "title": "Govt to provide policy support to local entrepreneurs to strengthen economy: PM",
+      "link": "https://www.tbsnews.net/bangladesh/govt-provide-policy-support-local-entrepreneurs-strengthen-economy-pm-1512491",
+      "pubDate": "Tue, 11 Aug 2026 21:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/att.70zphap1ajxlhrofyb8udqkdbdib84sqqy5h1ugpnzq.jpeg",
+      "snippet": "The agreements were signed between the Bangladesh Jute Mills Corporation (BJMC) and the two business groups."
+    },
+    {
       "title": "4 addl SPs, 5 ASPs transferred in latest police reshuffle",
       "link": "https://www.tbsnews.net/bangladesh/4-addl-sps-5-asps-transferred-latest-police-reshuffle-1512456",
       "pubDate": "Tue, 11 Aug 2026 20:50:00 +0600",
@@ -10,6 +131,28 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/10/police_bd.jpg",
       "snippet": "The latest orders include postings to district police, PBI, CID and Highway Police."
+    },
+    {
+      "title": "BLRI-developed bird flu, goat pox vaccines to be commercially produced for farmers: Minister",
+      "link": "https://www.tbsnews.net/bangladesh/blri-developed-bird-flu-goat-pox-vaccines-be-commercially-produced-farmers-minister",
+      "pubDate": "Tue, 11 Aug 2026 20:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/2978697.jpg",
+      "snippet": "He was speaking as the chief guest at a ceremony held at the ministry's conference room, where vaccines were formally handed over to the Department of Livestock Services (DLS), paving the way for their commercial production and field-level distributi..."
+    },
+    {
+      "title": "Gunze United commissions 424 kWp rooftop solar project at DEPZ",
+      "link": "https://www.tbsnews.net/bangladesh/energy/gunze-united-commissions-424-kwp-rooftop-solar-project-depz-1512476",
+      "pubDate": "Tue, 11 Aug 2026 20:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/gunze_solar.jpg",
+      "snippet": "The rooftop solar project, comprising 722 solar panels, is now fully operational and generating clean electricity for the facility."
     },
     {
       "title": "DMCH director confined in office for 2hrs as doctors, students demand resignation",
@@ -30,7 +173,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/unicef_who.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/breastfeeding.jpg",
       "snippet": "WHO and UNICEF call for strengthened action to protect, promote and support breastfeeding."
     },
     {
@@ -56,7 +199,7 @@
       "snippet": "Khalilur Rahman conveys condolences to bereaved families and wishes a speedy recovery for those injured, while expressing Bangladesh’s solidarity with the Colombian people"
     },
     {
-      "title": "Inflation falls to 8.32% in July, lowest in 8-month",
+      "title": "Inflation falls to 8.32% in July, lowest in 8 months",
       "link": "https://www.tbsnews.net/economy/inflation-falls-832-july-1512416",
       "pubDate": "Tue, 11 Aug 2026 20:10:00 +0600",
       "category": "Bangladesh",
@@ -133,129 +276,41 @@
       "snippet": "Anee said Bangladesh is one of the most vulnerable countries in the world due to climate change."
     },
     {
-      "title": "BB plans Tk1,000cr fund to create 5,000 entrepreneurs",
+      "title": "Banks discuss Tk1,000cr package for young entrepreneurs at 4-6% interest",
       "link": "https://www.tbsnews.net/economy/bb-plans-tk1000cr-fund-create-5000-new-entrepreneurs-1512361",
       "pubDate": "Tue, 11 Aug 2026 19:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/abb_chairman_and_city_bank_managing_director_mashrur_arefin.jpg",
-      "snippet": "The Association of Bankers, Bangladesh chairman says work is underway on the special refinancing and grant package for young entrepreneurs."
+      "snippet": "The package, which is still at the draft stage, aims to help young people who want to start or expand businesses but lack sufficient capital, says Association of Bankers, Bangladesh (ABB) Chairman Mashrur Arefin."
     },
     {
       "title": "Titumir College students now want exams under DU, not Dhaka Central University",
       "link": "https://www.tbsnews.net/bangladesh/titumir-college-students-now-demand-exams-under-du-not-dhaka-central-university-1512336",
       "pubDate": "Tue, 11 Aug 2026 19:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/07/14/government_titumir_college.jpg",
       "snippet": "The 2021-22 batch students say shifting their exams and certification to the newly formed university could prolong their academic life."
-    },
-    {
-      "title": "Crude bomb explodes during banned Awami League flash march in Dhaka, 4 arrested",
-      "link": "https://www.tbsnews.net/bangladesh/crime/crude-bomb-explodes-during-banned-awami-league-flash-march-dhaka-4-arrested-1512316",
-      "pubDate": "Tue, 11 Aug 2026 18:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/772035849_1491552712999685_7403781824141464713_n.jpg",
-      "snippet": "Police recovers fragments of the explosive from the scene and are preparing a case under the Explosives Act and on charges of sabotage."
-    },
-    {
-      "title": "PRAN-RFL Group secures 30-year lease for 2 state-owned jute mills",
-      "link": "https://www.tbsnews.net/bangladesh/infrastructure/pran-rfl-group-secures-30-year-lease-2-state-owned-jute-mills-1512321",
-      "pubDate": "Tue, 11 Aug 2026 18:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/768554996_925737910582971_8217416093693480288_n.png",
-      "snippet": "The group plans Tk750 crore investment to revive the closed facilities and create around 11,500 direct jobs."
-    },
-    {
-      "title": "India examining Hasina extradition request under established procedure",
-      "link": "https://www.tbsnews.net/bangladesh/india-examining-hasina-extradition-request-under-established-procedure-1512306",
-      "pubDate": "Tue, 11 Aug 2026 18:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/randhir_jaiswal_.jpg",
-      "snippet": "New Delhi says Bangladesh’s request is being reviewed under established procedures, while the probe into suspects in Sharif Osman Hadi’s killing remains a legal matter."
-    },
-    {
-      "title": "Article 70 to remain effective in presidential election: Chief whip",
-      "link": "https://www.tbsnews.net/bangladesh/article-70-remain-effective-presidential-election-chief-whip-1512296",
-      "pubDate": "Tue, 11 Aug 2026 17:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/article_70_to_remain_effective_in_presidential_election.png",
-      "snippet": "Nurul said the government would take all necessary measures to continue the democratic process and institutionalize democracy."
-    },
-    {
-      "title": "Ambulance catches fire at Bagerhat hospital, driver burnt; gas leak suspected",
-      "link": "https://www.tbsnews.net/bangladesh/ambulance-catches-fire-bagerhat-hospital-driver-burnt-gas-leak-suspected-1512301",
-      "pubDate": "Tue, 11 Aug 2026 17:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/766517526_2058755588106127_3952923378698428568_n.jpg",
-      "snippet": "Firefighters brought the blaze under control within 25 minutes, preventing it from spreading to the main hospital building."
     },
     {
       "title": "Health minister seeks cross-ministry action to achieve SDGs",
       "link": "https://www.tbsnews.net/bangladesh/health/health-minister-seeks-cross-ministry-action-achieve-sdgs-1512291",
       "pubDate": "Tue, 11 Aug 2026 17:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/shakhawat_husain.jpeg",
       "snippet": "Sardar Md Sakhawat Husain says achieving SDG 3 requires joint planning across health, water, education, social welfare and local government."
     },
     {
-      "title": "Fake uniforms, IDs, medical card: Man held over impersonating army, police, RAB officers",
-      "link": "https://www.tbsnews.net/bangladesh/crime/fake-uniforms-ids-medical-card-man-held-over-impersonating-army-police-rab-officers",
-      "pubDate": "Tue, 11 Aug 2026 17:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/db_arrested_fraud.jpg",
-      "snippet": "DB says suspect used fake IDs, uniforms, recruitment notices and even an army medical card to dupe jobseekers"
-    },
-    {
-      "title": "Preparations, logistical support ordered for 2026 presidential election",
-      "link": "https://www.tbsnews.net/bangladesh/preparations-logistical-support-ordered-2026-presidential-election-1512281",
-      "pubDate": "Tue, 11 Aug 2026 17:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/a-preparatory-meeting-for-the-2026-presidential-election-was-held-at-the-cabinet-room-of-parliament-today-11-august.jpg",
-      "snippet": "Speaking at the meeting, Acting Speaker Kayser Kamal said the state structure must be freed from fascism in all spheres."
-    },
-    {
-      "title": "Previous govt embezzled Tk7,000cr of teachers' retirement benefits: Milon",
-      "link": "https://www.tbsnews.net/bangladesh/previous-govt-embezzled-tk-7000cr-teachers-retirement-benefits-milon-1512271",
-      "pubDate": "Tue, 11 Aug 2026 17:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/a_n_m_ehsanul_hoque_milon.jpg",
-      "snippet": "Milon accuses previous government of misappropriating teachers’ retirement funds, calls for collective effort to rebuild economy."
-    },
-    {
-      "title": "Port-customs joint committee formed to ease trade, speed up clearance: Finance minister",
-      "link": "https://www.tbsnews.net/economy/port-customs-joint-committee-formed-ease-trade-speed-clearance-finance-minister-1512176",
+      "title": "New port-customs body to fast-track cargo clearance: Minister",
+      "link": "https://www.tbsnews.net/economy/new-port-customs-body-fast-track-cargo-clearance-minister-1512176",
       "pubDate": "Tue, 11 Aug 2026 16:20:00 +0600",
       "category": "Economy",
       "color": "#2e7d32",
@@ -760,17 +815,6 @@
       "snippet": "According to the results published this morning, a total of 60,274 students passed this year’s SSC examinations."
     },
     {
-      "title": "Rajshahi Board records lowest SSC results in seven years, pass rate falls to 63.67%",
-      "link": "https://www.tbsnews.net/bangladesh/education/rajshahi-board-records-lowest-ssc-results-seven-years-pass-rate-falls-6367",
-      "pubDate": "Mon, 10 Aug 2026 12:50:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/11/26/img-20231126-wa0001.jpg",
-      "snippet": "The pass rate stood at 77.63% in 2025, while it was 89.26% in 2024."
-    },
-    {
       "title": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
       "link": "https://www.tbsnews.net/tech/how-small-israeli-startup-was-linked-rogue-ai-hacks-openai-anthropic-and-meta-1510966",
       "pubDate": "Mon, 10 Aug 2026 11:25:00 +0600",
@@ -991,5 +1035,5 @@
       "snippet": "Park could generate one lakh direct and indirect jobs."
     }
   ],
-  "updatedAt": "2026-08-11T14:56:33.378Z"
+  "updatedAt": "2026-08-11T16:02:27.365Z"
 }
