@@ -1,6 +1,50 @@
 {
   "news": [
     {
+      "title": "July fighters to get 36% discount at BPC hotels, special Biman fares",
+      "link": "https://www.tbsnews.net/bangladesh/july-fighters-get-36-discount-bpc-hotels-special-biman-fares-1512656",
+      "pubDate": "Wed, 12 Aug 2026 00:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/11/shahbagh_quota_protest_3.jpeg",
+      "snippet": "To make 36 July memorable, a 36% discount will be provided to July fighters at the hotels of the Tourism Corporation, says Civil Aviation and Tourism Minister Afroza Khanam."
+    },
+    {
+      "title": "Bomb-making materials, crude bomb-like objects found in Savar building",
+      "link": "https://www.tbsnews.net/bangladesh/bomb-making-materials-crude-bomb-objects-found-savar-building-1512651",
+      "pubDate": "Wed, 12 Aug 2026 00:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/764986404_2145998699648818_3211847731425820911_n.jpg",
+      "snippet": "The operation followed the arrest of a man in Hemayetpur; police say JMB leaflets, cocktail-like objects and bomb-making materials were recovered from the building."
+    },
+    {
+      "title": "Islami Bank official suspended for filing complaint against S Alam, ex-president over loan fraud",
+      "link": "https://www.tbsnews.net/bangladesh/corruption/islami-bank-official-suspended-filing-complaint-against-s-alam-ex-president",
+      "pubDate": "Tue, 11 Aug 2026 23:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/11/islami_bank_logo.jpg",
+      "snippet": "Yasin Ali is suspended after filing an ACC complaint without approval from the bank’s head office, a senior HR official says."
+    },
+    {
+      "title": "Rangamati journalist arrested under Pornography Control Act",
+      "link": "https://www.tbsnews.net/bangladesh/rangamati-journalist-arrested-under-pornography-control-act-1512621",
+      "pubDate": "Tue, 11 Aug 2026 23:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/07/04/arrest-1579498383.jpg",
+      "snippet": "DB says the journalist circulated a manipulated image of an Indigenous woman; the journalist says he received the image from another source."
+    },
+    {
       "title": "New transmission from animals likely caused Congo-Uganda Ebola outbreak, study says",
       "link": "https://www.tbsnews.net/world/new-transmission-animals-likely-caused-congo-uganda-ebola-outbreak-study-says-1512611",
       "pubDate": "Tue, 11 Aug 2026 22:00:00 +0600",
@@ -89,7 +133,7 @@
       "snippet": "Market cap swells by Tk3,300cr on TBS report of regulatory shift."
     },
     {
-      "title": "Indian envoy briefs PM Modi in Delhi after meetings with Bangladesh leadership",
+      "title": "Indian envoy briefs PM Modi after meetings with Bangladesh leadership",
       "link": "https://www.tbsnews.net/foreign-policy/indian-envoy-brief-pm-modi-delhi-after-meetings-bangladesh-leadership-1512516",
       "pubDate": "Tue, 11 Aug 2026 21:15:00 +0600",
       "category": "Bangladesh",
@@ -97,7 +141,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/dinesh_trivedi_narendra_modi.jpeg",
-      "snippet": "The high commissioner reached New Delhi on Monday after holding three meetings in Dhaka."
+      "snippet": "Trivedi returned to New Delhi on Monday after holding three meetings in Dhaka as part of ongoing consultations aimed at advancing relations between the two neighbours."
     },
     {
       "title": "DU's concrete-choked trees expose Bangladesh's defunct urban climate governance",
@@ -221,17 +265,6 @@
       "snippet": "Food inflation dropped to a nine-month low of 7.16%, while non-food inflation fell to its lowest level in four months, BBS data shows."
     },
     {
-      "title": "From 13-point charter to 9: Hefazat seeks ban on Hezbut Tawheed",
-      "link": "https://www.tbsnews.net/bangladesh/13-point-charter-9-hefazat-seeks-ban-hezbut-tawheed-1512406",
-      "pubDate": "Tue, 11 Aug 2026 20:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/hefazat_ameer_pm.jpg",
-      "snippet": "Revised charter retains longstanding demands while dropping others."
-    },
-    {
       "title": "Education system loss could turn demographic dividend into burden: Milon",
       "link": "https://www.tbsnews.net/bangladesh/education/education-system-loss-could-turn-demographic-dividend-burden-milon-1512411",
       "pubDate": "Tue, 11 Aug 2026 20:05:00 +0600",
@@ -257,34 +290,12 @@
       "title": "New education curriculum to be introduced by 2028: Milon",
       "link": "https://www.tbsnews.net/bangladesh/education/new-education-curriculum-be-introduced-2028-milon-1512386",
       "pubDate": "Tue, 11 Aug 2026 19:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/15/anm_ehsanul_hoque_milon.jpg",
       "snippet": "Milon also addresses SSC results, teacher pensions and MPO committees"
-    },
-    {
-      "title": "Presidential polls: 349 MPs to cast ballots from 2-5pm on 20 Aug",
-      "link": "https://www.tbsnews.net/bangladesh/presidential-polls-349-mps-cast-ballots-2-5pm-20-aug-1512396",
-      "pubDate": "Tue, 11 Aug 2026 19:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/25/bangabhaban.png",
-      "snippet": "Voting set for 20 August with 349 MPs eligible."
-    },
-    {
-      "title": "Inclusive, sustainable, climate-resilient water management to be developed: Anee",
-      "link": "https://www.tbsnews.net/bangladesh/inclusive-sustainable-climate-resilient-water-management-be-developed-anee-1512371",
-      "pubDate": "Tue, 11 Aug 2026 19:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/inclusive_sustainable_climate-resilient_water_management_to_be_developed.png",
-      "snippet": "Anee said Bangladesh is one of the most vulnerable countries in the world due to climate change."
     },
     {
       "title": "Banks discuss Tk1,000cr package for young entrepreneurs at 4-6% interest",
@@ -353,7 +364,7 @@
       "snippet": "Generative AI has rapidly transformed how people work, create and interact with technology. But its growing reliance on personal data, its impact on jobs and cognitive skills, and its environmental costs raise questions about whether the technology's..."
     },
     {
-      "title": "Sustainable financing needed to curb rising hypertension among youth: Speakers",
+      "title": "Hypertension rising among youth; experts call for urgent action",
       "link": "https://www.tbsnews.net/bangladesh/health/sustainable-financing-needed-curb-rising-hypertension-among-youth-speakers-1512141",
       "pubDate": "Tue, 11 Aug 2026 16:05:00 +0600",
       "category": "Health",
@@ -361,7 +372,7 @@
       "bg": "#fce4ec",
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/whatsapp_image_2026-08-11_at_2.47.29_pm.jpeg",
-      "snippet": "Around 12% of Bangladeshis aged 18-39 had hypertension in 2018, while NCDs account for 71% of all deaths nationwide."
+      "snippet": "According to speakers, non-communicable diseases account for 71% of all deaths in Bangladesh, with 19% occurring prematurely."
     },
     {
       "title": "The culture before the crime: How social norms enable sexual violence",
@@ -1033,18 +1044,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/delta.png",
       "snippet": "The company’s two associate entities – Delta Life Sciences PLC and Delta API Ltd – plan to invest a total of $100 million in the long term. The first phase will involve an investment of approximately $43 million"
-    },
-    {
-      "title": "Kaliakair Hi-Tech Park draws $1.64b investment proposals: Minister",
-      "link": "https://www.tbsnews.net/bangladesh/kaliakair-hi-tech-park-draws-164b-investment-proposals-minister-1509966",
-      "pubDate": "Sun, 09 Aug 2026 00:05:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/03/gazipur_kaliakoir_hi-tech_park_photo5.jpg",
-      "snippet": "Park could generate one lakh direct and indirect jobs."
     }
   ],
-  "updatedAt": "2026-08-11T17:26:58.893Z"
+  "updatedAt": "2026-08-11T18:26:17.207Z"
 }
