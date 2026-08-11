@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Fakhrul presidency to reshape BNP, cabinet, parliament",
+      "link": "https://www.tbsnews.net/bangladesh/politics/fakhrul-presidency-reshape-bnp-cabinet-parliament-1512676",
+      "pubDate": "Wed, 12 Aug 2026 01:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/01/fakhrul_at_may_day_rally.jpg",
+      "snippet": "According to the announced election schedule, the presidential election will be held on 20 August, with 13 August set as the deadline for submitting nomination papers."
+    },
+    {
       "title": "11 injured as Dhaka College Chhatra Dal, Jubo Dal clash in New Market",
       "link": "https://www.tbsnews.net/bangladesh/11-injured-dhaka-college-chhatra-dal-jubo-dal-clash-new-market-1512671",
       "pubDate": "Wed, 12 Aug 2026 01:05:00 +0600",
@@ -122,17 +133,6 @@
       "snippet": "Gulbrandsen emphasized Norway’s collaboration towards strengthening Bangladesh–Norway relationship."
     },
     {
-      "title": "DSEX reclaims 5,900 as margin rule relaxation hopes fuel rally",
-      "link": "https://www.tbsnews.net/economy/stocks/dsex-reclaims-5900-margin-rule-relaxation-hopes-fuel-rally-1512566",
-      "pubDate": "Tue, 11 Aug 2026 21:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/07/dse.jpg",
-      "snippet": "Market cap swells by Tk3,300cr on TBS report of regulatory shift."
-    },
-    {
       "title": "BSEC clears revised margin rules, sets P/E cap at 40",
       "link": "https://www.tbsnews.net/economy/stocks/bsec-clears-revised-margin-rules-sets-pe-cap-40-1512521",
       "pubDate": "Tue, 11 Aug 2026 21:20:00 +0600",
@@ -142,6 +142,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/bsec.jpg",
       "snippet": "The revised framework replaces P/B with trailing P/E for banks, non-life insurers and other eligible companies, while easing margin-call and forced-sale conditions for investors."
+    },
+    {
+      "title": "DSEX reclaims 5,900 as margin rule relaxation hopes fuel rally",
+      "link": "https://www.tbsnews.net/economy/stocks/dsex-reclaims-5900-margin-rule-relaxation-hopes-fuel-rally-1512566",
+      "pubDate": "Tue, 11 Aug 2026 21:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/07/dse.jpg",
+      "snippet": "Market cap swells by Tk3,300cr on TBS report of regulatory shift."
     },
     {
       "title": "Indian envoy briefs PM Modi after meetings with Bangladesh leadership",
@@ -252,17 +263,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/22/irene_khan_world_economic_forum_2007_1.jpg",
       "snippet": ""
-    },
-    {
-      "title": "FM Khalilur mourns deaths in Colombia earthquake",
-      "link": "https://www.tbsnews.net/bangladesh/fm-khalilur-mourns-deaths-colombia-earthquake-1512401",
-      "pubDate": "Tue, 11 Aug 2026 20:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/25/khalilur_rahman_1.jpg",
-      "snippet": "Khalilur Rahman conveys condolences to bereaved families and wishes a speedy recovery for those injured, while expressing Bangladesh’s solidarity with the Colombian people"
     },
     {
       "title": "Inflation falls to 8.32% in July, lowest in 8 months",
@@ -1057,5 +1057,5 @@
       "snippet": "The company’s two associate entities – Delta Life Sciences PLC and Delta API Ltd – plan to invest a total of $100 million in the long term. The first phase will involve an investment of approximately $43 million"
     }
   ],
-  "updatedAt": "2026-08-11T19:34:51.249Z"
+  "updatedAt": "2026-08-11T20:42:35.714Z"
 }
