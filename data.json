@@ -1,6 +1,105 @@
 {
   "news": [
     {
+      "title": "4 addl SPs, 5 ASPs transferred in latest police reshuffle",
+      "link": "https://www.tbsnews.net/bangladesh/4-addl-sps-5-asps-transferred-latest-police-reshuffle-1512456",
+      "pubDate": "Tue, 11 Aug 2026 20:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/10/police_bd.jpg",
+      "snippet": "The latest orders include postings to district police, PBI, CID and Highway Police."
+    },
+    {
+      "title": "DMCH director confined in office for 2hrs as doctors, students demand resignation",
+      "link": "https://www.tbsnews.net/bangladesh/health/dmch-director-confined-office-2hrs-doctors-students-demand-resignation-1512461",
+      "pubDate": "Tue, 11 Aug 2026 20:50:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/09/17/dmch.jpg",
+      "snippet": "Hospital employees stage counter-protest over alleged assault on staff member; health officials intervene to ease tensions."
+    },
+    {
+      "title": "Exclusive breastfeeding in Bangladesh falls to 56.6% in 2025: Survey",
+      "link": "https://www.tbsnews.net/bangladesh/health/exclusive-breastfeeding-bangladesh-falls-566-2025-survey-1512436",
+      "pubDate": "Tue, 11 Aug 2026 20:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/unicef_who.jpg",
+      "snippet": "WHO and UNICEF call for strengthened action to protect, promote and support breastfeeding."
+    },
+    {
+      "title": "SDG implementation, LDC graduation must move together: Irene Khan",
+      "link": "https://www.tbsnews.net/bangladesh/sdg-implementation-ldc-graduation-must-move-together-irene-khan-1512441",
+      "pubDate": "Tue, 11 Aug 2026 20:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/22/irene_khan_world_economic_forum_2007_1.jpg",
+      "snippet": ""
+    },
+    {
+      "title": "FM Khalilur mourns deaths in Colombia earthquake",
+      "link": "https://www.tbsnews.net/bangladesh/fm-khalilur-mourns-deaths-colombia-earthquake-1512401",
+      "pubDate": "Tue, 11 Aug 2026 20:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/25/khalilur_rahman_1.jpg",
+      "snippet": "Khalilur Rahman conveys condolences to bereaved families and wishes a speedy recovery for those injured, while expressing Bangladesh’s solidarity with the Colombian people"
+    },
+    {
+      "title": "Inflation falls to 8.32% in July, lowest in 8-month",
+      "link": "https://www.tbsnews.net/economy/inflation-falls-832-july-1512416",
+      "pubDate": "Tue, 11 Aug 2026 20:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/22/inflation.png",
+      "snippet": "Food inflation dropped to a nine-month low of 7.16%, while non-food inflation fell to its lowest level in four months, BBS data shows."
+    },
+    {
+      "title": "From 13-point charter to 9: Hefazat seeks ban on Hezbut Tawheed",
+      "link": "https://www.tbsnews.net/bangladesh/13-point-charter-9-hefazat-seeks-ban-hezbut-tawheed-1512406",
+      "pubDate": "Tue, 11 Aug 2026 20:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/hefazat_ameer_pm.jpg",
+      "snippet": "Revised charter retains longstanding demands while dropping others."
+    },
+    {
+      "title": "Education system loss could turn demographic dividend into burden: Milon",
+      "link": "https://www.tbsnews.net/bangladesh/education/education-system-loss-could-turn-demographic-dividend-burden-milon-1512411",
+      "pubDate": "Tue, 11 Aug 2026 20:05:00 +0600",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/21/edu_minister.jpg",
+      "snippet": "Education must receive the highest priority, with a focus not only on infrastructure but also on quality, he says."
+    },
+    {
+      "title": "Banglalink gets BB licence to launch digital payment service Mukto Pay",
+      "link": "https://www.tbsnews.net/economy/banglalink-gets-bb-licence-launch-digital-payment-service-mukto-pay-1512391",
+      "pubDate": "Tue, 11 Aug 2026 19:50:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/10/bl_eng_1.jpg",
+      "snippet": "With the new addition, the number of licenced companies operating as payment service providers in the country has risen to 10."
+    },
+    {
       "title": "New education curriculum to be introduced by 2028: Milon",
       "link": "https://www.tbsnews.net/bangladesh/education/new-education-curriculum-be-introduced-2028-milon-1512386",
       "pubDate": "Tue, 11 Aug 2026 19:45:00 +0600",
@@ -10,6 +109,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/15/anm_ehsanul_hoque_milon.jpg",
       "snippet": "Milon also addresses SSC results, teacher pensions and MPO committees"
+    },
+    {
+      "title": "Presidential polls: 349 MPs to cast ballots from 2-5pm on 20 Aug",
+      "link": "https://www.tbsnews.net/bangladesh/presidential-polls-349-mps-cast-ballots-2-5pm-20-aug-1512396",
+      "pubDate": "Tue, 11 Aug 2026 19:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/25/bangabhaban.png",
+      "snippet": "Voting set for 20 August with 349 MPs eligible."
     },
     {
       "title": "Inclusive, sustainable, climate-resilient water management to be developed: Anee",
@@ -144,68 +254,13 @@
       "snippet": "Milon accuses previous government of misappropriating teachers’ retirement funds, calls for collective effort to rebuild economy."
     },
     {
-      "title": "Gunfire at Ctg residential building after Tk50 lakh extortion demand",
-      "link": "https://www.tbsnews.net/bangladesh/gunfire-ctg-residential-building-after-tk50-lakh-extortion-demand-1512261",
-      "pubDate": "Tue, 11 Aug 2026 17:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/gunfire.jpg",
-      "snippet": "Police are investigating whether the shooting at Runa Tower was linked to an alleged extortion demand made to the building owner’s expatriate son."
-    },
-    {
-      "title": "Lighter vessel workers threaten strike over fishing nets in channels",
-      "link": "https://www.tbsnews.net/bangladesh/lighter-vessel-workers-threaten-strike-over-fishing-nets-channels-1512256",
-      "pubDate": "Tue, 11 Aug 2026 17:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/04/25/lighterage_tbs.jpg",
-      "snippet": "Bangladesh Lighterage Sramik Union gives port authority until 17 August to remove nets from key navigation routes."
-    },
-    {
-      "title": "Kushtia July Memorial torched, pro-Hasina slogans caught on video",
-      "link": "https://www.tbsnews.net/bangladesh/crime/kushtia-july-memorial-torched-pro-hasina-slogans-caught-video-1512246",
-      "pubDate": "Tue, 11 Aug 2026 17:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/untitled-1.jpg",
-      "snippet": "A video showing a man chanting pro-Sheikh Hasina slogans at the site has sparked outrage as police investigate the late-night fire."
-    },
-    {
-      "title": "Parliament to go into 3rd session on 27 August",
-      "link": "https://www.tbsnews.net/bangladesh/parliament-go-3rd-session-27-august-1512216",
-      "pubDate": "Tue, 11 Aug 2026 16:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/01/04/bangladesh_national_parliament-tbs.png",
-      "snippet": "The acting president Hafiz Uddin Ahmad has summoned the parliamentary session, exercising the powers vested in him under Article 72(1) of the Constitution."
-    },
-    {
-      "title": "Asiya rape-murder case: HC starts hearing on death reference, convict's appeal",
-      "link": "https://www.tbsnews.net/bangladesh/asiya-rape-murder-case-hc-starts-hearing-death-reference-convicts-appeal-1512201",
-      "pubDate": "Tue, 11 Aug 2026 16:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/01/31/rape.jpg",
-      "snippet": "Paper book presentation completed as High Court proceedings begin."
-    },
-    {
       "title": "Port-customs joint committee formed to ease trade, speed up clearance: Finance minister",
       "link": "https://www.tbsnews.net/economy/port-customs-joint-committee-formed-ease-trade-speed-clearance-finance-minister-1512176",
       "pubDate": "Tue, 11 Aug 2026 16:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/24/amir_khosru.jpg",
       "snippet": "The committee will address trade barriers and improve coordination between agencies, says the minister."
     },
@@ -213,10 +268,10 @@
       "title": "Measles: Death toll reaches 880 as 2 more children die in 24hrs",
       "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-880-2-more-children-die-24hrs-1512186",
       "pubDate": "Tue, 11 Aug 2026 16:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/25/measles_tbs.jpg",
       "snippet": "DGHS reports 872 new suspected cases and 107 confirmed infections in 24 hours, taking the cumulative suspected caseload above 138,000."
     },
@@ -716,17 +771,6 @@
       "snippet": "The pass rate stood at 77.63% in 2025, while it was 89.26% in 2024."
     },
     {
-      "title": "SSC 2026: 100% pass institutions drop to 669",
-      "link": "https://www.tbsnews.net/bangladesh/education/ssc-2026-100-pass-institutions-drop-669-1511076",
-      "pubDate": "Mon, 10 Aug 2026 12:45:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/766106212_1606605977735424_3913680122014047034_n.jpg",
-      "snippet": "This year, students from a total of 30,402 educational institutions participated in the examinations."
-    },
-    {
       "title": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
       "link": "https://www.tbsnews.net/tech/how-small-israeli-startup-was-linked-rogue-ai-hacks-openai-anthropic-and-meta-1510966",
       "pubDate": "Mon, 10 Aug 2026 11:25:00 +0600",
@@ -945,18 +989,7 @@
       "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/03/gazipur_kaliakoir_hi-tech_park_photo5.jpg",
       "snippet": "Park could generate one lakh direct and indirect jobs."
-    },
-    {
-      "title": "Dhaka bourse seeks EOIs to update panel of brokerage auditors",
-      "link": "https://www.tbsnews.net/economy/stocks/dhaka-bourse-seeks-eois-update-panel-brokerage-auditors-1509916",
-      "pubDate": "Sat, 08 Aug 2026 21:40:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/07/dse.jpg",
-      "snippet": "Under the guidelines, brokerage firms must appoint statutory auditors from the DSE-approved panel."
     }
   ],
-  "updatedAt": "2026-08-11T13:53:56.741Z"
+  "updatedAt": "2026-08-11T14:56:33.378Z"
 }
