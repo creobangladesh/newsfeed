@@ -1,6 +1,50 @@
 {
   "news": [
     {
+      "title": "Crude bomb explosion on Barishal court premises sparks panic",
+      "link": "https://www.tbsnews.net/bangladesh/cocktail-explosion-barishal-court-premises-sparks-panic-1512836",
+      "pubDate": "Wed, 12 Aug 2026 12:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/ef5f440e-c76d-4250-9c09-37e3b9029910.jpg",
+      "snippet": "The explosion occurred around 10:15am in front of the Judicial Building near the main entrance to the court premises."
+    },
+    {
+      "title": "Why the SSC and HSC transition matters most for students",
+      "link": "https://www.tbsnews.net/thoughts/why-ssc-and-hsc-transition-matters-most-students-1512851",
+      "pubDate": "Wed, 12 Aug 2026 12:50:00 +0600",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/04/10/ssc_exam.jpeg",
+      "snippet": "The journey from SSC to HSC and then to university or career is not just a personal mission; it’s also related to your family’s expectations. Use this time wisely. Avoid distractions. Focus on your goals. Success doesn’t come overnight, but it starts..."
+    },
+    {
+      "title": "Controversial study on excess deaths during Covid retracted",
+      "link": "https://www.tbsnews.net/bangladesh/health/controversial-study-excess-deaths-during-covid-retracted-1512806",
+      "pubDate": "Wed, 12 Aug 2026 12:15:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/10/10/covid_bacteria.jpg",
+      "snippet": "The study, published in the journal BMJ Public Health in 2024, was retracted \"on the grounds of misinformation on causes of death and limited original work conducted by the authors\", the BMJ Group said in a statement."
+    },
+    {
+      "title": "Bangladesh showcases home and lifestyle products at Home Show Brazil",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-showcases-home-and-lifestyle-products-home-show-brazil-1512781",
+      "pubDate": "Wed, 12 Aug 2026 12:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/bangladesh_home_show_brazil_2026_02.jpeg",
+      "snippet": "The three-day exhibition, which began on 11 August and runs through 13 August at the Distrito Anhembi venue, is being organised by the Bangladesh Embassy in Brasilia with financial support from the Export Promotion Bureau (EPB)"
+    },
+    {
       "title": "Police arrest 5 over Pallabi shooting",
       "link": "https://www.tbsnews.net/bangladesh/crime/police-arrest-5-over-pallabi-shooting-1512736",
       "pubDate": "Wed, 12 Aug 2026 10:50:00 +0600",
@@ -241,28 +285,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/767299845_1114859494403603_4820834243095453843_n.jpg",
       "snippet": "The state minister further alleged that some people who are now creating misinformation and confusion in the name of movements are also seeking to launch protests over energy-related issues."
-    },
-    {
-      "title": "Govt to provide policy support to local entrepreneurs to strengthen economy: PM",
-      "link": "https://www.tbsnews.net/bangladesh/govt-provide-policy-support-local-entrepreneurs-strengthen-economy-pm-1512491",
-      "pubDate": "Tue, 11 Aug 2026 21:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/att.70zphap1ajxlhrofyb8udqkdbdib84sqqy5h1ugpnzq.jpeg",
-      "snippet": "The agreements were signed between the Bangladesh Jute Mills Corporation (BJMC) and the two business groups."
-    },
-    {
-      "title": "BLRI-developed bird flu, goat pox vaccines to be commercially produced for farmers: Minister",
-      "link": "https://www.tbsnews.net/bangladesh/blri-developed-bird-flu-goat-pox-vaccines-be-commercially-produced-farmers-minister",
-      "pubDate": "Tue, 11 Aug 2026 20:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/2978697.jpg",
-      "snippet": "He was speaking as the chief guest at a ceremony held at the ministry's conference room, where vaccines were formally handed over to the Department of Livestock Services (DLS), paving the way for their commercial production and field-level distributi..."
     },
     {
       "title": "DMCH director confined in office for 2hrs as doctors, students demand resignation",
@@ -848,17 +870,6 @@
       "snippet": "This year's results are comparatively more realistic, says the Dhaka education board chairman"
     },
     {
-      "title": "From 93.58% to 62.25%: SSC, equivalent pass rates continue to plunge since 2021",
-      "link": "https://www.tbsnews.net/bangladesh/education/9358-6225-ssc-pass-rate-continues-plunge-1511116",
-      "pubDate": "Mon, 10 Aug 2026 13:15:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/769838765_1346887494308459_5713235104749675688_n.jpg",
-      "snippet": "The latest overall figure reflects a 4.08 percentage point drop from last year's 66.33%."
-    },
-    {
       "title": "RMG workers elect union leaders through direct ballot",
       "link": "https://www.tbsnews.net/economy/rmg/rmg-workers-elect-union-leaders-through-direct-ballot-1511106",
       "pubDate": "Mon, 10 Aug 2026 13:10:00 +0600",
@@ -1057,16 +1068,16 @@
       "snippet": "With the latest update, the number of suspected measles deaths has risen to 775 while the number of laboratory-confirmed measles deaths has reached 98."
     },
     {
-      "title": "Measles outbreak shows no signs of easing; actual vaccination coverage, effectiveness questioned ",
-      "link": "https://www.tbsnews.net/bangladesh/health/measles-outbreak-shows-no-signs-easing-actual-vaccination-coverage-effectiveness",
-      "pubDate": "Sun, 09 Aug 2026 12:00:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/measlessssssss.jpeg",
-      "snippet": "IEDCR to assess vaccine effectiveness"
+      "title": "Why deregulation is the biggest incentive",
+      "link": "https://www.tbsnews.net/thoughts/why-deregulation-biggest-incentive-1512786",
+      "pubDate": "Sun, 09 Aug 2026 15:10:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/15_thoughts_copy.png",
+      "snippet": "The proposed national budget for FY2026–27 acknowledges this, identifying deregulation as a key priority and committing to building an enabling state. That commitment deserves serious attention. Bangladesh's biggest opportunity to stimulate investmen..."
     }
   ],
-  "updatedAt": "2026-08-12T05:55:22.407Z"
+  "updatedAt": "2026-08-12T07:24:20.785Z"
 }
