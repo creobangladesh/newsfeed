@@ -1,6 +1,61 @@
 {
   "news": [
     {
+      "title": "HSBC warns of global trade headwinds for Bangladesh ahead of LDC graduation",
+      "link": "https://www.tbsnews.net/economy/hsbc-warns-global-trade-headwinds-bangladesh-ahead-ldc-graduation-1513086",
+      "pubDate": "Wed, 12 Aug 2026 16:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/hsbc_event_-_navigating_global_trade_-_photo_from_left_aditya_gahlaut_md_mahbub_ur_rahman_shanella_l_rajanayagam_and_ahmad_rabiul_hasan.jpg",
+      "snippet": "HSBC says shipping disruptions, protectionism and shifting US trade policies could intensify pressure on Bangladeshi exporters, making preferential market access and stronger supply-chain resilience increasingly important as the country prepares for ..."
+    },
+    {
+      "title": "Power crisis may ease from this evening: State Minister Amit",
+      "link": "https://www.tbsnews.net/bangladesh/energy/power-crisis-may-ease-evening-state-minister-amit-1513061",
+      "pubDate": "Wed, 12 Aug 2026 16:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/17/untitled_design_6.jpg",
+      "snippet": "State minister says government is exploring all available options to ease the energy crisis."
+    },
+    {
+      "title": "Power crisis deepens as rural areas face hours-long load-shedding",
+      "link": "https://www.tbsnews.net/bangladesh/power-crisis-deepens-rural-areas-face-hours-long-load-shedding-1513056",
+      "pubDate": "Wed, 12 Aug 2026 16:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/06/03/load_shedding_0.jpg",
+      "snippet": "Power shortfall reaches 3,194MW as gas shortages constrain generation, with rural consumers in some areas facing up to 16 hours of load-shedding a day"
+    },
+    {
+      "title": "What the first 100 days survey says about public expectations and five actions the Prime Minister can take to turn cautious optimism into durable trust",
+      "link": "https://www.tbsnews.net/thoughts/what-first-100-days-survey-says-about-public-expectations-and-five-actions-prime-minister",
+      "pubDate": "Wed, 12 Aug 2026 16:10:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/bangladesh_first_100_days_16x9.png",
+      "snippet": "Public confidence in the future is still stronger than satisfaction with current delivery. That 'expectation premium' is a political asset, but a time-limited one"
+    },
+    {
+      "title": "July Uprising case: Prosecution seeks maximum punishment for Quader, 6 others",
+      "link": "https://www.tbsnews.net/bangladesh/july-uprising-case-prosecution-seeks-maximum-punishment-quader-6-others-1513036",
+      "pubDate": "Wed, 12 Aug 2026 16:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/01/28/quader.jpg",
+      "snippet": "All seven accused are currently absconding."
+    },
+    {
       "title": "Measles: Death toll reaches 885 as 5 more children die in 24hrs",
       "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-885-5-more-children-die-24hrs-1513021",
       "pubDate": "Wed, 12 Aug 2026 15:45:00 +0600",
@@ -221,28 +276,6 @@
       "snippet": "The three-day exhibition, which began on 11 August and runs through 13 August at the Distrito Anhembi venue, is being organised by the Bangladesh Embassy in Brasilia with financial support from the Export Promotion Bureau (EPB)"
     },
     {
-      "title": "Police arrest 5 over Pallabi shooting",
-      "link": "https://www.tbsnews.net/bangladesh/crime/police-arrest-5-over-pallabi-shooting-1512736",
-      "pubDate": "Wed, 12 Aug 2026 10:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/07/04/arrest-1579498383.jpg",
-      "snippet": "Additional Deputy Commissioner Niaz Mehedi of the DMP Media Wing confirmed the arrests today"
-    },
-    {
-      "title": "Trivedi seeks Modi’s guidance on strengthening ‘enduring’ Bangladesh ties  ",
-      "link": "https://www.tbsnews.net/bangladesh/trivedi-seeks-modis-guidance-strengthening-enduring-bangladesh-ties-1512726",
-      "pubDate": "Wed, 12 Aug 2026 10:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/dinesh_trivedi_narendra_modi.jpeg",
-      "snippet": "Trivedi’s meeting with Modi came a day after he called on Bangladesh Prime Minister Tarique Rahman and other leaders in Dhaka."
-    },
-    {
       "title": "Banks turn to retail as corporate lending piles up bad loans",
       "link": "https://www.tbsnews.net/economy/banking/banks-turn-retail-corporate-lending-piles-bad-loans-1512706",
       "pubDate": "Wed, 12 Aug 2026 10:00:00 +0600",
@@ -254,24 +287,13 @@
       "snippet": "Lenders expand consumer portfolios, digital services, manpower as BB eases lending rules"
     },
     {
-      "title": "Gopalganj faces 8-10 hours of load-shedding, power office seeks police security",
-      "link": "https://www.tbsnews.net/bangladesh/gopalganj-faces-8-10-hours-load-shedding-power-office-seeks-police-security-1512711",
-      "pubDate": "Wed, 12 Aug 2026 09:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/organization/logo/west_power_distribution_co_logo_wzpdcl_logo.png",
-      "snippet": "According to the letter, electricity is supplied to the municipal area through the WZPDCL powerhouse campus in Gopalganj and two 33/11kV substations in Charpathalia."
-    },
-    {
       "title": "Curriculum changes, Covid learning loss among factors behind SSC pass rate fall",
       "link": "https://www.tbsnews.net/bangladesh/education/curriculum-changes-covid-learning-loss-among-factors-behind-ssc-pass-rate-fall",
       "pubDate": "Wed, 12 Aug 2026 07:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/04/10/ssc_exam.jpg",
       "snippet": "The average pass rate across the 11 education boards in this year’s SSC and equivalent examinations was 62.25%, the lowest in 19 years since the 57.37% recorded in 2007. The pass rate stood at 88.29% in 2016, meaning it has fallen by 26.04 percentage..."
     },
@@ -320,15 +342,15 @@
       "snippet": "It fell without even strong winds to push it over. According to media report, Professor Jashim Uddin, director of the university's Arboriculture Centre, diagnosed the structural failure."
     },
     {
-      "title": "DMCH director confined in office for 2hrs as doctors, students demand resignation",
-      "link": "https://www.tbsnews.net/bangladesh/health/dmch-director-confined-office-2hrs-doctors-students-demand-resignation-1512461",
+      "title": "Doctors, students occupy Dhaka Medical director's office demanding resignation",
+      "link": "https://www.tbsnews.net/bangladesh/health/doctors-students-occupy-dhaka-medical-directors-office-demanding-resignation",
       "pubDate": "Tue, 11 Aug 2026 20:50:00 +0600",
       "category": "Health",
       "color": "#c2185b",
       "bg": "#fce4ec",
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/09/17/dmch.jpg",
-      "snippet": "Hospital employees stage counter-protest over alleged assault on staff member; health officials intervene to ease tensions."
+      "snippet": "Employees stage counter-protest as health officials intervene."
     },
     {
       "title": "SDG implementation, LDC graduation must move together: Irene Khan",
@@ -793,17 +815,6 @@
       "snippet": "They also seek the abolition of contractor and outsourcing-based employment, the enforcement of labour laws and legal benefits."
     },
     {
-      "title": "BB allows international cards for overseas education payments",
-      "link": "https://www.tbsnews.net/economy/banking/bb-allows-international-cards-overseas-education-payments-1511351",
-      "pubDate": "Mon, 10 Aug 2026 16:40:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/10/27/image-90440-1666873321.jpg",
-      "snippet": "The facility will allow students and their sponsors to use cards for tuition fees and other approved education-related expenses abroad without affecting existing travel quotas."
-    },
-    {
       "title": "Fabricated result culture of fascist era dismantled, impartial assessment ensured: Mahdi Amin",
       "link": "https://www.tbsnews.net/bangladesh/education/fabricated-result-culture-fascist-era-dismantled-impartial-assessment-ensured",
       "pubDate": "Mon, 10 Aug 2026 16:40:00 +0600",
@@ -813,6 +824,17 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/image-413313-1786356163.jpg",
       "snippet": "Mahdi Amin said the education sector was the most affected one during the previous fascist regime."
+    },
+    {
+      "title": "BB allows international cards for overseas education payments",
+      "link": "https://www.tbsnews.net/economy/banking/bb-allows-international-cards-overseas-education-payments-1511351",
+      "pubDate": "Mon, 10 Aug 2026 16:40:00 +0600",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/10/27/image-90440-1666873321.jpg",
+      "snippet": "The facility will allow students and their sponsors to use cards for tuition fees and other approved education-related expenses abroad without affecting existing travel quotas."
     },
     {
       "title": "Measles: Death toll reaches 878 as 5 more die in 24 hours",
@@ -1046,17 +1068,6 @@
       "snippet": "Protecting the country’s remaining elephant population will require restoring degraded forests, securing elephant corridors, improving human-elephant conflict management and putting wildlife conservation at the centre of development planning"
     },
     {
-      "title": "RACE Asset Management's rejoinder and our reply",
-      "link": "https://www.tbsnews.net/economy/race-asset-managements-rejoinder-and-our-reply-1510566",
-      "pubDate": "Sun, 09 Aug 2026 18:40:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/race_logo_1.png",
-      "snippet": ""
-    },
-    {
       "title": "Between happiness and governance: What Bangladesh can learn from Bhutan about democracy",
       "link": "https://www.tbsnews.net/thoughts/between-happiness-and-governance-what-bangladesh-can-learn-bhutan-about-democracy-1510546",
       "pubDate": "Sun, 09 Aug 2026 18:10:00 +0600",
@@ -1079,5 +1090,5 @@
       "snippet": "The number of dengue-related deaths in the country this year has risen to 61."
     }
   ],
-  "updatedAt": "2026-08-12T10:04:10.504Z"
+  "updatedAt": "2026-08-12T11:22:13.626Z"
 }
