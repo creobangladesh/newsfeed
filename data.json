@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "Police arrest 5 over Pallabi shooting",
+      "link": "https://www.tbsnews.net/bangladesh/crime/police-arrest-5-over-pallabi-shooting-1512736",
+      "pubDate": "Wed, 12 Aug 2026 10:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/07/04/arrest-1579498383.jpg",
+      "snippet": "Additional Deputy Commissioner Niaz Mehedi of the DMP Media Wing confirmed the arrests today"
+    },
+    {
+      "title": "Trivedi seeks Modi’s guidance on strengthening ‘enduring’ Bangladesh ties  ",
+      "link": "https://www.tbsnews.net/bangladesh/trivedi-seeks-modis-guidance-strengthening-enduring-bangladesh-ties-1512726",
+      "pubDate": "Wed, 12 Aug 2026 10:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/dinesh_trivedi_narendra_modi.jpeg",
+      "snippet": "Trivedi’s meeting with Modi came a day after he called on Bangladesh Prime Minister Tarique Rahman and other leaders in Dhaka."
+    },
+    {
+      "title": "Banks turn to retail as corporate lending piles up bad loans",
+      "link": "https://www.tbsnews.net/economy/banking/banks-turn-retail-corporate-lending-piles-bad-loans-1512706",
+      "pubDate": "Wed, 12 Aug 2026 10:00:00 +0600",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/banking.png",
+      "snippet": "Lenders expand consumer portfolios, digital services, manpower as BB eases lending rules"
+    },
+    {
       "title": "Gopalganj faces 8-10 hours of load-shedding, power office seeks police security",
       "link": "https://www.tbsnews.net/bangladesh/gopalganj-faces-8-10-hours-load-shedding-power-office-seeks-police-security-1512711",
       "pubDate": "Wed, 12 Aug 2026 09:35:00 +0600",
@@ -221,17 +254,6 @@
       "snippet": "The agreements were signed between the Bangladesh Jute Mills Corporation (BJMC) and the two business groups."
     },
     {
-      "title": "4 addl SPs, 5 ASPs transferred in latest police reshuffle",
-      "link": "https://www.tbsnews.net/bangladesh/4-addl-sps-5-asps-transferred-latest-police-reshuffle-1512456",
-      "pubDate": "Tue, 11 Aug 2026 20:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/10/police_bd.jpg",
-      "snippet": "The latest orders include postings to district police, PBI, CID and Highway Police."
-    },
-    {
       "title": "BLRI-developed bird flu, goat pox vaccines to be commercially produced for farmers: Minister",
       "link": "https://www.tbsnews.net/bangladesh/blri-developed-bird-flu-goat-pox-vaccines-be-commercially-produced-farmers-minister",
       "pubDate": "Tue, 11 Aug 2026 20:50:00 +0600",
@@ -241,17 +263,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/2978697.jpg",
       "snippet": "He was speaking as the chief guest at a ceremony held at the ministry's conference room, where vaccines were formally handed over to the Department of Livestock Services (DLS), paving the way for their commercial production and field-level distributi..."
-    },
-    {
-      "title": "Gunze United commissions 424 kWp rooftop solar project at DEPZ",
-      "link": "https://www.tbsnews.net/bangladesh/energy/gunze-united-commissions-424-kwp-rooftop-solar-project-depz-1512476",
-      "pubDate": "Tue, 11 Aug 2026 20:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/gunze_solar.jpg",
-      "snippet": "The rooftop solar project, comprising 722 solar panels, is now fully operational and generating clean electricity for the facility."
     },
     {
       "title": "DMCH director confined in office for 2hrs as doctors, students demand resignation",
@@ -1057,5 +1068,5 @@
       "snippet": "IEDCR to assess vaccine effectiveness"
     }
   ],
-  "updatedAt": "2026-08-12T04:08:08.798Z"
+  "updatedAt": "2026-08-12T05:55:22.407Z"
 }
