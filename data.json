@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Gopalganj faces 8-10 hours of load-shedding, power office seeks police security",
+      "link": "https://www.tbsnews.net/bangladesh/gopalganj-faces-8-10-hours-load-shedding-power-office-seeks-police-security-1512711",
+      "pubDate": "Wed, 12 Aug 2026 09:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/organization/logo/west_power_distribution_co_logo_wzpdcl_logo.png",
+      "snippet": "According to the letter, electricity is supplied to the municipal area through the WZPDCL powerhouse campus in Gopalganj and two 33/11kV substations in Charpathalia."
+    },
+    {
       "title": "Curriculum changes, Covid learning loss among factors behind SSC pass rate fall",
       "link": "https://www.tbsnews.net/bangladesh/education/curriculum-changes-covid-learning-loss-among-factors-behind-ssc-pass-rate-fall",
       "pubDate": "Wed, 12 Aug 2026 07:25:00 +0600",
@@ -254,17 +265,6 @@
       "snippet": "Hospital employees stage counter-protest over alleged assault on staff member; health officials intervene to ease tensions."
     },
     {
-      "title": "Exclusive breastfeeding in Bangladesh falls to 56.6% in 2025: Survey",
-      "link": "https://www.tbsnews.net/bangladesh/health/exclusive-breastfeeding-bangladesh-falls-566-2025-survey-1512436",
-      "pubDate": "Tue, 11 Aug 2026 20:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/breastfeeding.jpg",
-      "snippet": "WHO and UNICEF call for strengthened action to protect, promote and support breastfeeding."
-    },
-    {
       "title": "SDG implementation, LDC graduation must move together: Irene Khan",
       "link": "https://www.tbsnews.net/bangladesh/sdg-implementation-ldc-graduation-must-move-together-irene-khan-1512441",
       "pubDate": "Tue, 11 Aug 2026 20:40:00 +0600",
@@ -276,6 +276,17 @@
       "snippet": ""
     },
     {
+      "title": "Exclusive breastfeeding in Bangladesh falls to 56.6% in 2025: Survey",
+      "link": "https://www.tbsnews.net/bangladesh/health/exclusive-breastfeeding-bangladesh-falls-566-2025-survey-1512436",
+      "pubDate": "Tue, 11 Aug 2026 20:40:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/breastfeeding.jpg",
+      "snippet": "WHO and UNICEF call for strengthened action to protect, promote and support breastfeeding."
+    },
+    {
       "title": "Inflation falls to 8.32% in July, lowest in 8 months",
       "link": "https://www.tbsnews.net/economy/inflation-falls-832-july-1512416",
       "pubDate": "Tue, 11 Aug 2026 20:10:00 +0600",
@@ -284,7 +295,7 @@
       "bg": "#e8f5e9",
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/22/inflation.png",
-      "snippet": "Food inflation dropped to a nine-month low of 7.16%, while non-food inflation fell to its lowest level in four months, BBS data shows."
+      "snippet": "Food inflation dropped sharply to 7.16% in July from 8.60% in June and 7.56% a year earlier"
     },
     {
       "title": "Education system loss could turn demographic dividend into burden: Milon",
@@ -1046,5 +1057,5 @@
       "snippet": "IEDCR to assess vaccine effectiveness"
     }
   ],
-  "updatedAt": "2026-08-12T01:55:00.878Z"
+  "updatedAt": "2026-08-12T04:08:08.798Z"
 }
