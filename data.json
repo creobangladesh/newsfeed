@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Gas supply collapse triggers widespread power outages, CNG queues",
+      "link": "https://www.tbsnews.net/bangladesh/energy/gas-supply-collapse-triggers-widespread-power-outages-cng-queues-1513506",
+      "pubDate": "Wed, 12 Aug 2026 23:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/gas_crisis.jpg.jpeg",
+      "snippet": "Rural electricity officials in many areas seek police protection amid public anger."
+    },
+    {
       "title": "Tokyo reaffirms support for Dhaka through EPA, BIG-B, security cooperation",
       "link": "https://www.tbsnews.net/foreign-policy/tokyo-reaffirms-support-dhaka-through-epa-big-b-security-cooperation-1513486",
       "pubDate": "Wed, 12 Aug 2026 22:05:00 +0600",
@@ -111,7 +122,7 @@
       "snippet": "Salam said teachers need to focus on internationally recognised research to enhance the quality and reputation of universities."
     },
     {
-      "title": "Keeping journalists out of court undermines open justice: Nurul Kabir",
+      "title": "Lift restrictions on journalists' access to Appellate Division: Nurul Kabir",
       "link": "https://www.tbsnews.net/bangladesh/keeping-journalists-out-court-undermines-open-justice-nurul-kabir-1513381",
       "pubDate": "Wed, 12 Aug 2026 20:55:00 +0600",
       "category": "Bangladesh",
@@ -119,7 +130,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/lrf.jpg",
-      "snippet": "The Editors Guild president says prolonged restrictions on court access are depriving the public of information about judicial proceedings, as more than 200 journalists join a protest demanding restored access."
+      "snippet": "He says barring journalists from entering the courtroom amounts to a direct violation of the Constitution and urged the Chief Justice to immediately allow journalists access to the court."
     },
     {
       "title": "Huawei launches Bangladesh's first grid-forming inverter, battery storage system",
@@ -133,7 +144,7 @@
       "snippet": "Huawei unveiled the SUN2000-506KTL-H3, which it described as the industry's first grid-forming smart string inverter, alongside the LUTERRA-6261-25 battery energy storage system."
     },
     {
-      "title": "Govt to roll out 'e-Bail Bond' in 12 more districts tomorrow",
+      "title": "12 more districts to get e-Bail Bond service tomorrow",
       "link": "https://www.tbsnews.net/bangladesh/govt-roll-out-e-bail-bond-12-more-districts-tomorrow-1513361",
       "pubDate": "Wed, 12 Aug 2026 20:40:00 +0600",
       "category": "Bangladesh",
@@ -141,7 +152,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/bail_bond_img.jpg",
-      "snippet": "The digital system will expand to 12 more districts, aiming to streamline bail procedures and reduce delays and harassment."
+      "snippet": "The expansion is expected to further reduce delays and procedural bottlenecks while easing the burden on courts, lawyers and litigants."
     },
     {
       "title": "TIB flags accountability gaps in approved human rights, enforced disappearance laws",
@@ -208,17 +219,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/10/29/rizvi.jpeg",
       "snippet": "The BNP leader accuses Sheikh Hasina of targeting the Zia family and says the people will no longer give opportunity to forces opposed to the Liberation War."
-    },
-    {
-      "title": "Govt approves import of 1.10 lakh tonnes of fertiliser",
-      "link": "https://www.tbsnews.net/bangladesh/ccgp-approves-import-110-lakh-tonnes-fertilizer-1513326",
-      "pubDate": "Wed, 12 Aug 2026 20:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/ccgp_approves_import_of_1.10_lakh_tonnes_of_fertiliser-converted-from-webp.jpeg",
-      "snippet": "To maintain adequate stocks for agricultural production government approved the proposals for ensuring agricultural development."
     },
     {
       "title": "Bangladesh seeks alternative financing to address $421b SDG funding gap: FinMin",
@@ -1044,29 +1044,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/p3_bangla_qr_rajibdhar.jpg",
       "snippet": "Bangla QR has the potential to bring small merchants into the formal financial system, but its success depends on making digital payments cheaper, faster and more reliable than cash"
-    },
-    {
-      "title": "Current account deficit hits $1.6b as import bills surge",
-      "link": "https://www.tbsnews.net/economy/current-account-deficit-hits-16b-import-bills-surge-1510811",
-      "pubDate": "Sun, 09 Aug 2026 23:55:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/09/09/collage-dollar.jpg",
-      "snippet": "Central bank data shows imports on a free-on-board (FOB) basis rose 10.5% to over $71.1 billion, up from $64.36 billion a year earlier."
-    },
-    {
-      "title": "BB declares four financial institutions non-viable, starts resolution process",
-      "link": "https://www.tbsnews.net/economy/banking/bb-declares-four-financial-institutions-non-viable-starts-resolution-process-1510806",
-      "pubDate": "Sun, 09 Aug 2026 23:50:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/07/30/bangladesh_bank.jpg",
-      "snippet": "The central bank dissolved the boards and cancelled the appointments of CEOs of Aviva Finance, Fareast Finance, FAS Finance and International Leasing."
     }
   ],
-  "updatedAt": "2026-08-12T17:28:56.748Z"
+  "updatedAt": "2026-08-12T18:28:51.400Z"
 }
