@@ -1,6 +1,83 @@
 {
   "news": [
     {
+      "title": "Measles: Death toll reaches 885 as 5 more children die in 24hrs",
+      "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-885-5-more-children-die-24hrs-1513021",
+      "pubDate": "Wed, 12 Aug 2026 15:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/03/whatsapp_image_2026-05-03_at_14.50.36.jpeg",
+      "snippet": "The number of suspected measles deaths has risen to 786, while laboratory-confirmed measles deaths stand at 99."
+    },
+    {
+      "title": "Bangladesh’s highest remittance-earning districts in FY26 ",
+      "link": "https://www.tbsnews.net/infograph/numbers/bangladeshs-highest-remittance-earning-districts-fy26-1513026",
+      "pubDate": "Wed, 12 Aug 2026 15:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/remittance-earning_0.png",
+      "snippet": ""
+    },
+    {
+      "title": "Ctg faces 40% gas deficit as LNG supply from Moheshkhali hit by technical, weather issues",
+      "link": "https://www.tbsnews.net/bangladesh/energy/ctg-faces-40-gas-deficit-lng-supply-moheshkhali-hit-technical-weather-issues",
+      "pubDate": "Wed, 12 Aug 2026 15:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/ctg_gas_crisis_photo_2.jpg",
+      "snippet": "Output from the two LNG terminals has fallen to 410mmcfd against their combined regasification capacity of 1,100mmcfd."
+    },
+    {
+      "title": "14 Rajshahi substations seek extra security as load-shedding worsens",
+      "link": "https://www.tbsnews.net/bangladesh/14-rajshahi-substations-seek-extra-security-load-shedding-worsens-1512976",
+      "pubDate": "Wed, 12 Aug 2026 15:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/loadshedding.jpg",
+      "snippet": "Amid growing public frustration, the Rajshahi Palli Bidyut Samity has sought additional security at 14 power substations across the district to prevent any untoward incidents."
+    },
+    {
+      "title": "BNP leader Miftah made Sylhet Wasa chairman",
+      "link": "https://www.tbsnews.net/bangladesh/bnp-leader-miftah-siddique-appointed-sylhet-wasa-chairman-1512966",
+      "pubDate": "Wed, 12 Aug 2026 14:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/miftah_siddique.jpg",
+      "snippet": "According to the notification, Miftah Siddique has been appointed chairman of the Sylhet WASA board for a three-year term under Section 7(1) of the Water Supply and Sewerage Authority (Amendment) Act, 2026."
+    },
+    {
+      "title": "Asean experience can help Bangladesh emerge as global halal hub: Commerce Minister",
+      "link": "https://www.tbsnews.net/economy/asean-experience-can-help-bangladesh-emerge-global-halal-hub-commerce-minister-1512971",
+      "pubDate": "Wed, 12 Aug 2026 14:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/12-08-26-commerce_minister-2_-_edited.jpg",
+      "snippet": "Entering this market requires an integrated production, quality control, and certification system, speakers say at a seminar."
+    },
+    {
+      "title": "Strengthening nuclear energy diplomacy for Bangladesh’s long-term energy security",
+      "link": "https://www.tbsnews.net/thoughts/strengthening-nuclear-energy-diplomacy-bangladeshs-long-term-energy-security-1512961",
+      "pubDate": "Wed, 12 Aug 2026 14:25:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/23/nuclear.png",
+      "snippet": "Energy diplomacy is a matter of absolute national survival for resource-constrained nations, acting as the bridge between domestic scarcity and external resources. Today’s energy diplomacy is characterised by the challenge of managing the traditional..."
+    },
+    {
       "title": " Salman Shah murder: Court rejects actor Don’s bail plea",
       "link": "https://www.tbsnews.net/bangladesh/court/salman-shah-murder-court-rejects-actor-dons-bail-plea-1512931",
       "pubDate": "Wed, 12 Aug 2026 14:10:00 +0600",
@@ -34,7 +111,7 @@
       "snippet": "Prosecution presents the recording of an intercepted phone call at International Crimes Tribunal-2."
     },
     {
-      "title": "Korea's KOTRA eyes wider role in Bangladesh's new town development",
+      "title": "Korea's Korta eyes wider role in Bangladesh's new town development",
       "link": "https://www.tbsnews.net/economy/koreas-kotra-eyes-wider-role-bangladeshs-new-town-development-1512926",
       "pubDate": "Wed, 12 Aug 2026 14:00:00 +0600",
       "category": "Economy",
@@ -197,72 +274,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/04/10/ssc_exam.jpg",
       "snippet": "The average pass rate across the 11 education boards in this year’s SSC and equivalent examinations was 62.25%, the lowest in 19 years since the 57.37% recorded in 2007. The pass rate stood at 88.29% in 2016, meaning it has fallen by 26.04 percentage..."
-    },
-    {
-      "title": "Fakhrul presidency to reshape BNP, cabinet, parliament",
-      "link": "https://www.tbsnews.net/bangladesh/politics/fakhrul-presidency-reshape-bnp-cabinet-parliament-1512676",
-      "pubDate": "Wed, 12 Aug 2026 01:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/01/fakhrul_at_may_day_rally.jpg",
-      "snippet": "According to the announced election schedule, the presidential election will be held on 20 August, with 13 August set as the deadline for submitting nomination papers."
-    },
-    {
-      "title": "11 injured as Dhaka College Chhatra Dal, Jubo Dal clash in New Market",
-      "link": "https://www.tbsnews.net/bangladesh/11-injured-dhaka-college-chhatra-dal-jubo-dal-clash-new-market-1512671",
-      "pubDate": "Wed, 12 Aug 2026 01:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/dhaka_clg_jubo_dal_clash.jpg",
-      "snippet": "Clashes reportedly stem from dispute over footpath extortion and control."
-    },
-    {
-      "title": "July fighters to get 36% discount at BPC hotels, special Biman fares",
-      "link": "https://www.tbsnews.net/bangladesh/july-fighters-get-36-discount-bpc-hotels-special-biman-fares-1512656",
-      "pubDate": "Wed, 12 Aug 2026 00:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/11/shahbagh_quota_protest_3.jpeg",
-      "snippet": "To make 36 July memorable, a 36% discount will be provided to July fighters at the hotels of the Tourism Corporation, says Civil Aviation and Tourism Minister Afroza Khanam."
-    },
-    {
-      "title": "Bomb-making materials, crude bomb-like objects found in Savar building",
-      "link": "https://www.tbsnews.net/bangladesh/bomb-making-materials-crude-bomb-objects-found-savar-building-1512651",
-      "pubDate": "Wed, 12 Aug 2026 00:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/764986404_2145998699648818_3211847731425820911_n.jpg",
-      "snippet": "The operation followed the arrest of a man in Hemayetpur; police say JMB leaflets, cocktail-like objects and bomb-making materials were recovered from the building."
-    },
-    {
-      "title": "Islami Bank official suspended for filing complaint against S Alam, ex-president over loan fraud",
-      "link": "https://www.tbsnews.net/bangladesh/corruption/islami-bank-official-suspended-filing-complaint-against-s-alam-ex-president",
-      "pubDate": "Tue, 11 Aug 2026 23:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/11/islami_bank_logo.jpg",
-      "snippet": "Yasin Ali is suspended after filing an ACC complaint without approval from the bank’s head office, a senior HR official says."
-    },
-    {
-      "title": "Rangamati journalist arrested under Pornography Control Act",
-      "link": "https://www.tbsnews.net/bangladesh/rangamati-journalist-arrested-under-pornography-control-act-1512621",
-      "pubDate": "Tue, 11 Aug 2026 23:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/rangamati_journo.jpg",
-      "snippet": "DB says the journalist circulated a manipulated image of an Indigenous woman; the journalist says he received the image from another source."
     },
     {
       "title": "New transmission from animals likely caused Congo-Uganda Ebola outbreak, study says",
@@ -1066,40 +1077,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/25/05_news_copy.png",
       "snippet": "The number of dengue-related deaths in the country this year has risen to 61."
-    },
-    {
-      "title": "Cenbank allows tour operators to sell overseas packages in taka",
-      "link": "https://www.tbsnews.net/economy/banking/cenbank-allows-tour-operators-sell-overseas-packages-taka-1510396",
-      "pubDate": "Sun, 09 Aug 2026 16:00:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/tbs_16.png",
-      "snippet": "Issuing a circular today (9 August), the central bank said the facility would allow eligible tour operators to collect payments in taka and settle payments with overseas service providers through authorised dealer (AD) banks."
-    },
-    {
-      "title": "Measles death toll reaches 873 as 6 more children die in 24 hours",
-      "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-873-6-more-children-die-24-hours-1510336",
-      "pubDate": "Sun, 09 Aug 2026 15:25:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/11/measles_tbs.jpeg",
-      "snippet": "With the latest update, the number of suspected measles deaths has risen to 775 while the number of laboratory-confirmed measles deaths has reached 98."
-    },
-    {
-      "title": "Why deregulation is the biggest incentive",
-      "link": "https://www.tbsnews.net/thoughts/why-deregulation-biggest-incentive-1512786",
-      "pubDate": "Sun, 09 Aug 2026 15:10:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/15_thoughts_copy.png",
-      "snippet": "The proposed national budget for FY2026–27 acknowledges this, identifying deregulation as a key priority and committing to building an enabling state. That commitment deserves serious attention. Bangladesh's biggest opportunity to stimulate investmen..."
     }
   ],
-  "updatedAt": "2026-08-12T08:47:45.809Z"
+  "updatedAt": "2026-08-12T10:04:10.504Z"
 }
