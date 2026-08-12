@@ -1,6 +1,105 @@
 {
   "news": [
     {
+      "title": "'Spent Tk50 lakh to become secretary': BNP leader's audio recording goes viral",
+      "link": "https://www.tbsnews.net/bangladesh/spent-tk50-lakh-become-secretary-bnp-leaders-audio-recording-goes-viral-1513256",
+      "pubDate": "Wed, 12 Aug 2026 19:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/ramganj_bnp.jpg",
+      "snippet": "Ramganj municipal BNP secretary Gias Uddin Palash allegedly threatened a fellow party leader after he was not made chief guest at a school event."
+    },
+    {
+      "title": "Bangladesh to formally begin FTA talks with EU next month: Commerce minister",
+      "link": "https://www.tbsnews.net/foreign-policy/bangladesh-formally-begin-fta-talks-eu-next-month-commerce-minister-1513236",
+      "pubDate": "Wed, 12 Aug 2026 19:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/07/05/eu_bd_.jpg",
+      "snippet": "The minister says Dhaka is also preparing to sign bilateral FTAs with Malaysia and Indonesia before LDC graduation."
+    },
+    {
+      "title": "23 senior police officials transferred in major reshuffle",
+      "link": "https://www.tbsnews.net/bangladesh/23-senior-police-officials-transferred-major-reshuffle-1513221",
+      "pubDate": "Wed, 12 Aug 2026 19:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/25/police_logo_new_bss.jpg",
+      "snippet": "The transfers cover four ranks across key units and districts, including two metropolitan police commissioners, several superintendents of police and officials from the highway police."
+    },
+    {
+      "title": "Bangladesh to import 117 LNG cargoes from US firm until 2038",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-import-117-lng-cargoes-us-firm-until-2038-1513206",
+      "pubDate": "Wed, 12 Aug 2026 18:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/06/reuters_lng.jpg",
+      "snippet": "Gunvor USA LLC will supply the LNG between 2026 and 2038, with the first 14 cargoes priced against the Japan-Korea Marker after PetroBangla negotiated a lower premium."
+    },
+    {
+      "title": "Indian scientists develop AI framework to identify hidden cancer stem cells",
+      "link": "https://www.tbsnews.net/science/indian-scientists-develop-ai-framework-identify-hidden-cancer-stem-cells-1513211",
+      "pubDate": "Wed, 12 Aug 2026 18:45:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/10/29/cancer_1.png",
+      "snippet": "ACSCeND can identify three developmental states of cancer stem-like cells and may help researchers better understand tumour recurrence, treatment resistance and patient outcomes."
+    },
+    {
+      "title": "Two cars collide on Dhaka Elevated Expressway, causing severe congestion",
+      "link": "https://www.tbsnews.net/bangladesh/two-cars-collide-dhaka-elevated-expressway-causing-severe-congestion-1513186",
+      "pubDate": "Wed, 12 Aug 2026 18:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/expressway_accident_1.png",
+      "snippet": "The crash occurred in the Nakhalpara section around 2pm, leaving both cars damaged but causing no injuries."
+    },
+    {
+      "title": "Up to 9 hours without power: Load-shedding grips Khulna",
+      "link": "https://www.tbsnews.net/bangladesh/energy/9-hours-without-power-load-shedding-grips-khulna-1513191",
+      "pubDate": "Wed, 12 Aug 2026 18:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/load_shedding_0.jpg",
+      "snippet": "Electricity demand in the West Zone Power Distribution Company’s coverage area reached 807MW against a supply of 578MW at 3pm today, leaving a 229MW shortfall."
+    },
+    {
+      "title": "Families of 35 fishermen 'missing, killed' at sea since 2014 seek govt aid",
+      "link": "https://www.tbsnews.net/bangladesh/families-35-fishermen-missing-killed-sea-2014-seek-govt-aid-1513181",
+      "pubDate": "Wed, 12 Aug 2026 18:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/missing_fishermen_families.jpg",
+      "snippet": "Families from six villages in Kachua say they have received little or no government assistance because they could not obtain death certificates."
+    },
+    {
+      "title": "2 Cuet students drown on campus pond, taking death toll to 3 in 15 days",
+      "link": "https://www.tbsnews.net/bangladesh/2-cuet-students-drown-campus-pond-taking-death-toll-3-15-days-1513171",
+      "pubDate": "Wed, 12 Aug 2026 18:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/55c118af-e52b-42e0-8ceb-7f92e1859ddb.png",
+      "snippet": "The repeated drownings have also raised questions over the university’s arrangements for students using the pond for bathing and other activities."
+    },
+    {
       "title": "Bangladesh's logistics policy must become a competitiveness strategy",
       "link": "https://www.tbsnews.net/thoughts/bangladeshs-logistics-policy-must-become-competitiveness-strategy-1513161",
       "pubDate": "Wed, 12 Aug 2026 18:00:00 +0600",
@@ -34,7 +133,7 @@
       "snippet": "With over 40 million borrowers already served, Bangladesh's microfinance sector doesn't need to grow bigger. It needs to go digital — and become a model the rest of the developing world can follow"
     },
     {
-      "title": "'Unauthorised absence, desertion': Six police officers dismissed",
+      "title": "Unauthorised absence, desertion: Six police officers dismissed",
       "link": "https://www.tbsnews.net/bangladesh/unauthorised-absence-desertion-six-police-officers-dismissed-1513136",
       "pubDate": "Wed, 12 Aug 2026 17:50:00 +0600",
       "category": "Bangladesh",
@@ -45,8 +144,8 @@
       "snippet": "According to home ministry gazettes, the officers were absent from duty for over 60 days and ignored two separate show-cause notices."
     },
     {
-      "title": "23 fishermen detained as Chattogram Port workers threaten vessel shutdown",
-      "link": "https://www.tbsnews.net/bangladesh/23-fishermen-detained-chattogram-port-workers-threaten-vessel-shutdown-1513126",
+      "title": "23 fishermen detained as CPA cracks down on nets blocking Chattogram Port routes",
+      "link": "https://www.tbsnews.net/bangladesh/23-fishermen-detained-cpa-cracks-down-nets-blocking-chattogram-port-routes-1513126",
       "pubDate": "Wed, 12 Aug 2026 17:40:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
@@ -180,10 +279,10 @@
       "title": "Asean experience can help Bangladesh emerge as global halal hub: Commerce Minister",
       "link": "https://www.tbsnews.net/economy/asean-experience-can-help-bangladesh-emerge-global-halal-hub-commerce-minister-1512971",
       "pubDate": "Wed, 12 Aug 2026 14:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/12-08-26-commerce_minister-2_-_edited.jpg",
       "snippet": "Entering this market requires an integrated production, quality control, and certification system, speakers say at a seminar."
     },
@@ -199,39 +298,6 @@
       "snippet": "Energy diplomacy is a matter of absolute national survival for resource-constrained nations, acting as the bridge between domestic scarcity and external resources. Today’s energy diplomacy is characterised by the challenge of managing the traditional..."
     },
     {
-      "title": " Salman Shah murder: Court rejects actor Don’s bail plea",
-      "link": "https://www.tbsnews.net/bangladesh/court/salman-shah-murder-court-rejects-actor-dons-bail-plea-1512931",
-      "pubDate": "Wed, 12 Aug 2026 14:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/blurred-frame_1.jpg",
-      "snippet": "Salman Shah died at his Eskaton residence in the capital on 6 September 1996."
-    },
-    {
-      "title": "Bomb-like object found again in Savar, area cordoned off",
-      "link": "https://www.tbsnews.net/bangladesh/crime/bomb-object-found-again-savar-area-cordoned-1512936",
-      "pubDate": "Wed, 12 Aug 2026 14:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/765619726_4505468076402959_6127105897432297864_n.jpg",
-      "snippet": "The pressure cooker, wrapped in black electrical tape, was found inside a blue plastic drum at the Sadapur Goper Bari Laltek Ghora Mosque field around 1:30am, police said."
-    },
-    {
-      "title": "‘Why did you release this?’ Call record unveils Quader rapped Harun for publishing photo of detained SAD coordinators",
-      "link": "https://www.tbsnews.net/bangladesh/court/why-did-you-release-call-record-unveils-quader-rapped-harun-publishing-photo",
-      "pubDate": "Wed, 12 Aug 2026 14:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/harun_food.jpg",
-      "snippet": "Prosecution presents the recording of an intercepted phone call at International Crimes Tribunal-2."
-    },
-    {
       "title": "Korea's Kotra eyes wider role in Bangladesh's new town development",
       "link": "https://www.tbsnews.net/economy/koreas-kotra-eyes-wider-role-bangladeshs-new-town-development-1512926",
       "pubDate": "Wed, 12 Aug 2026 14:00:00 +0600",
@@ -241,50 +307,6 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/c1c32228-ad7e-4dfb-a0ae-879e2cb1bc6a.jpg",
       "snippet": "As part of the initiative, Kotra in March launched an official development assistance (ODA) project worth approximately $3.5 million to conduct feasibility studies for six infrastructure projects supporting new town development in Bangladesh over the..."
-    },
-    {
-      "title": "School bell to ring again in deep hilly area following PMO’s initiative",
-      "link": "https://www.tbsnews.net/bangladesh/school-bell-ring-again-deep-hilly-area-following-pmos-initiative-1512911",
-      "pubDate": "Wed, 12 Aug 2026 13:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/school_nayapara.jpeg",
-      "snippet": "A local student leader raised the issue with the Prime Minister's Office (PMO). Prompt action was taken later on, and a new building is currently under construction at a cost of Tk10 lakh."
-    },
-    {
-      "title": "Low pressure formed over North Bay, rains likely across country",
-      "link": "https://www.tbsnews.net/bangladesh/low-pressure-formed-over-north-bay-rains-likely-across-country-1512916",
-      "pubDate": "Wed, 12 Aug 2026 13:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/04/17/rain_kids.jpg",
-      "snippet": "Moderately heavy to heavy rainfall is also likely at places across the country, said a BMD bulletin."
-    },
-    {
-      "title": "Maritime ports asked to hoist cautionary signal No 3",
-      "link": "https://www.tbsnews.net/bangladesh/maritime-ports-asked-hoist-cautionary-signal-no-3-1512901",
-      "pubDate": "Wed, 12 Aug 2026 13:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/maritime_ports_cautionary_signal-converted-from-webp.jpeg",
-      "snippet": "All fishing boats and trawlers operating in the North Bay have been advised to remain close to the coast and proceed with caution until further notice."
-    },
-    {
-      "title": "Elderly couple, domestic worker found dead at home in Sylhet",
-      "link": "https://www.tbsnews.net/bangladesh/crime/elderly-couple-domestic-worker-found-dead-home-sylhet-1512886",
-      "pubDate": "Wed, 12 Aug 2026 13:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/592069360_1700966004519801_8420746436402384778_n.jpg",
-      "snippet": "The bodies of Abdus Sattar Mia, 90, his wife Suraiya Begum, 75, and their 25-year-old domestic worker were recovered from Mitali 111 in Raynagar this morning."
     },
     {
       "title": "Why the SSC and HSC transition matters most for students",
@@ -1055,73 +1077,7 @@
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/02/money_laundering-1.jpg",
       "snippet": "Recovery efforts target firms with over Tk200cr in defaults."
-    },
-    {
-      "title": "PMI hits 57.8 as manufacturing posts strongest gain in months on export rebound",
-      "link": "https://www.tbsnews.net/economy/july-pmi-jumps-578-manufacturing-rebound-export-surge-1510631",
-      "pubDate": "Sun, 09 Aug 2026 19:45:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/08/pmi.jpg",
-      "snippet": "Manufacturing led the recovery, with its PMI surging 16.6 points to 65.4, while agriculture and services also remained in expansion."
-    },
-    {
-      "title": "Businesses seek ‘Sick Industries Law’ to revive closed factories  ",
-      "link": "https://www.tbsnews.net/economy/businesses-seek-sick-industries-law-revive-closed-factories-1510636",
-      "pubDate": "Sun, 09 Aug 2026 19:40:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/organization/logo/the_chittagong_chamber_of_commerce_industry.png",
-      "snippet": "More than 6,000 factories were once listed as operating in Chattogram, but only around 2,700 remain active at present, they say"
-    },
-    {
-      "title": "AmCham urges policy reforms to accelerate Bangladesh's digital economy",
-      "link": "https://www.tbsnews.net/economy/amcham-urges-policy-reforms-accelerate-bangladeshs-digital-economy-1510611",
-      "pubDate": "Sun, 09 Aug 2026 19:30:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/amcham_programme_9_august.png",
-      "snippet": "Rehan Asif Asad, advisor to the Prime Minister on Post, Telecommunication, ICT, Science and Technology, attended the event as the chief guest."
-    },
-    {
-      "title": "Bangladesh must give its elephants a future",
-      "link": "https://www.tbsnews.net/features/panorama/bangladesh-must-give-its-elephants-future-1510596",
-      "pubDate": "Sun, 09 Aug 2026 19:25:00 +0600",
-      "category": "Analysis",
-      "color": "#5d4037",
-      "bg": "#efebe9",
-      "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/20260711_rajibdhar_9987_1.jpg",
-      "snippet": "Protecting the country’s remaining elephant population will require restoring degraded forests, securing elephant corridors, improving human-elephant conflict management and putting wildlife conservation at the centre of development planning"
-    },
-    {
-      "title": "RACE Asset Management's rejoinder and our reply",
-      "link": "https://www.tbsnews.net/economy/race-asset-managements-rejoinder-and-our-reply-1510566",
-      "pubDate": "Sun, 09 Aug 2026 18:40:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/race_logo_1.png",
-      "snippet": ""
-    },
-    {
-      "title": "Between happiness and governance: What Bangladesh can learn from Bhutan about democracy",
-      "link": "https://www.tbsnews.net/thoughts/between-happiness-and-governance-what-bangladesh-can-learn-bhutan-about-democracy-1510546",
-      "pubDate": "Sun, 09 Aug 2026 18:10:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/bhutan.jpg",
-      "snippet": "Bhutan's experiment with Gross National Happiness offers a provocative question for democracies: Can political legitimacy be strengthened when governments are judged not only by elections and institutions, but also by the wellbeing of citizens?"
     }
   ],
-  "updatedAt": "2026-08-12T12:09:54.353Z"
+  "updatedAt": "2026-08-12T13:57:02.803Z"
 }
