@@ -1,15 +1,81 @@
 {
   "news": [
     {
-      "title": "HSBC warns of global trade headwinds for Bangladesh ahead of LDC graduation",
-      "link": "https://www.tbsnews.net/economy/hsbc-warns-global-trade-headwinds-bangladesh-ahead-ldc-graduation-1513086",
-      "pubDate": "Wed, 12 Aug 2026 16:40:00 +0600",
+      "title": "Bangladesh's logistics policy must become a competitiveness strategy",
+      "link": "https://www.tbsnews.net/thoughts/bangladeshs-logistics-policy-must-become-competitiveness-strategy-1513161",
+      "pubDate": "Wed, 12 Aug 2026 18:00:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/09/12/xe2ui5m6szmwlalin4ozghioyy.jpg",
+      "snippet": "Bangladesh’s new logistics policy shifts the focus from transport to competitiveness, with Matarbari offering a crucial boost to maritime connectivity. The real challenge is delivering faster, cheaper and more reliable trade and transport services"
+    },
+    {
+      "title": "Beyond the report card: Bangladesh must stop failing its failing students",
+      "link": "https://www.tbsnews.net/thoughts/beyond-report-card-bangladesh-must-stop-failing-its-failing-students-1513151",
+      "pubDate": "Wed, 12 Aug 2026 17:55:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/769838765_1346887494308459_5713235104749675688_n_1.jpg",
+      "snippet": "As Bangladesh debates why SSC pass rates have fallen sharply, the real crisis may be the nearly 700,000 students who failed—and a system that offers them little academic, financial, or psychological support"
+    },
+    {
+      "title": "The next chapter of microfinance: A digital financial platform for Bangladesh's poor",
+      "link": "https://www.tbsnews.net/thoughts/next-chapter-microfinance-digital-financial-platform-bangladeshs-poor-1513156",
+      "pubDate": "Wed, 12 Aug 2026 17:55:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/06/12/taka_supplement_2_copy.png",
+      "snippet": "With over 40 million borrowers already served, Bangladesh's microfinance sector doesn't need to grow bigger. It needs to go digital — and become a model the rest of the developing world can follow"
+    },
+    {
+      "title": "'Unauthorised absence, desertion': Six police officers dismissed",
+      "link": "https://www.tbsnews.net/bangladesh/unauthorised-absence-desertion-six-police-officers-dismissed-1513136",
+      "pubDate": "Wed, 12 Aug 2026 17:50:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/hsbc_event_-_navigating_global_trade_-_photo_from_left_aditya_gahlaut_md_mahbub_ur_rahman_shanella_l_rajanayagam_and_ahmad_rabiul_hasan.jpg",
-      "snippet": "HSBC says shipping disruptions, protectionism and shifting US trade policies could intensify pressure on Bangladeshi exporters, making preferential market access and stronger supply-chain resilience increasingly important as the country prepares for ..."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/six_dissmissed_police.jpg",
+      "snippet": "According to home ministry gazettes, the officers were absent from duty for over 60 days and ignored two separate show-cause notices."
+    },
+    {
+      "title": "23 fishermen detained as Chattogram Port workers threaten vessel shutdown",
+      "link": "https://www.tbsnews.net/bangladesh/23-fishermen-detained-chattogram-port-workers-threaten-vessel-shutdown-1513126",
+      "pubDate": "Wed, 12 Aug 2026 17:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/vessel_shutdown.jpg",
+      "snippet": "The crackdown comes after lighterage workers warned they would halt vessel movement from 17 August unless illegal fishing nets are cleared from key navigation routes, citing risks of accidents and attacks on crews."
+    },
+    {
+      "title": "David Emon granted fresh 5-day remand over Hathazari attack",
+      "link": "https://www.tbsnews.net/bangladesh/court/david-emon-granted-fresh-5-day-remand-over-hathazari-attack-1513131",
+      "pubDate": "Wed, 12 Aug 2026 17:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/753522109_1050708527419018_1060570425526930899_n.jpg",
+      "snippet": "Police say Tk50 lakh was demanded from businessman Jasim Uddin before his under-construction building in Hathazari was attacked and crude bombs were exploded."
+    },
+    {
+      "title": "Ex-minister Farhad Hossain’s wife shown arrested in new case",
+      "link": "https://www.tbsnews.net/bangladesh/court/ex-minister-farhad-hossains-wife-shown-arrested-new-case-1513116",
+      "pubDate": "Wed, 12 Aug 2026 17:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/02/17/farhad-wife.jpg",
+      "snippet": "Syed Monalisa Islam was set to be released after securing bail in nine other cases, but a Dhaka court ordered her shown arrested in a murder case linked to the July Uprising."
     },
     {
       "title": "Power crisis may ease from this evening: State Minister Amit",
@@ -166,7 +232,7 @@
       "snippet": "Prosecution presents the recording of an intercepted phone call at International Crimes Tribunal-2."
     },
     {
-      "title": "Korea's Korta eyes wider role in Bangladesh's new town development",
+      "title": "Korea's Kotra eyes wider role in Bangladesh's new town development",
       "link": "https://www.tbsnews.net/economy/koreas-kotra-eyes-wider-role-bangladeshs-new-town-development-1512926",
       "pubDate": "Wed, 12 Aug 2026 14:00:00 +0600",
       "category": "Economy",
@@ -174,7 +240,7 @@
       "bg": "#e8f5e9",
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/c1c32228-ad7e-4dfb-a0ae-879e2cb1bc6a.jpg",
-      "snippet": "He said KOTRA also operates a branch-office service to manage the Bangladeshi market on behalf of Korean small and medium-sized enterprises that do not yet have a physical presence in the country."
+      "snippet": "As part of the initiative, Kotra in March launched an official development assistance (ODA) project worth approximately $3.5 million to conduct feasibility studies for six infrastructure projects supporting new town development in Bangladesh over the..."
     },
     {
       "title": "School bell to ring again in deep hilly area following PMO’s initiative",
@@ -221,28 +287,6 @@
       "snippet": "The bodies of Abdus Sattar Mia, 90, his wife Suraiya Begum, 75, and their 25-year-old domestic worker were recovered from Mitali 111 in Raynagar this morning."
     },
     {
-      "title": "From Savar to Motijheel: Decoding the network behind Dhaka's pipeline of terror",
-      "link": "https://www.tbsnews.net/bangladesh/crime/savar-motijheel-decoding-network-behind-dhakas-pipeline-terror-1512871",
-      "pubDate": "Wed, 12 Aug 2026 13:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/shaon_mahi_collage.jpg",
-      "snippet": "Investigators suspect the Hemayetpur house was part of a wider network involved in making bombs used in several recent incidents."
-    },
-    {
-      "title": "Crude bomb explosion on Barishal court premises sparks panic",
-      "link": "https://www.tbsnews.net/bangladesh/cocktail-explosion-barishal-court-premises-sparks-panic-1512836",
-      "pubDate": "Wed, 12 Aug 2026 12:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/ef5f440e-c76d-4250-9c09-37e3b9029910.jpg",
-      "snippet": "The explosion occurred around 10:15am in front of the Judicial Building near the main entrance to the court premises."
-    },
-    {
       "title": "Why the SSC and HSC transition matters most for students",
       "link": "https://www.tbsnews.net/thoughts/why-ssc-and-hsc-transition-matters-most-students-1512851",
       "pubDate": "Wed, 12 Aug 2026 12:50:00 +0600",
@@ -263,17 +307,6 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/10/10/covid_bacteria.jpg",
       "snippet": "The study, published in the journal BMJ Public Health in 2024, was retracted \"on the grounds of misinformation on causes of death and limited original work conducted by the authors\", the BMJ Group said in a statement."
-    },
-    {
-      "title": "Bangladesh showcases home and lifestyle products at Home Show Brazil",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-showcases-home-and-lifestyle-products-home-show-brazil-1512781",
-      "pubDate": "Wed, 12 Aug 2026 12:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/bangladesh_home_show_brazil_2026_02.jpeg",
-      "snippet": "The three-day exhibition, which began on 11 August and runs through 13 August at the Distrito Anhembi venue, is being organised by the Bangladesh Embassy in Brasilia with financial support from the Export Promotion Bureau (EPB)"
     },
     {
       "title": "Banks turn to retail as corporate lending piles up bad loans",
@@ -815,17 +848,6 @@
       "snippet": "They also seek the abolition of contractor and outsourcing-based employment, the enforcement of labour laws and legal benefits."
     },
     {
-      "title": "Fabricated result culture of fascist era dismantled, impartial assessment ensured: Mahdi Amin",
-      "link": "https://www.tbsnews.net/bangladesh/education/fabricated-result-culture-fascist-era-dismantled-impartial-assessment-ensured",
-      "pubDate": "Mon, 10 Aug 2026 16:40:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/image-413313-1786356163.jpg",
-      "snippet": "Mahdi Amin said the education sector was the most affected one during the previous fascist regime."
-    },
-    {
       "title": "BB allows international cards for overseas education payments",
       "link": "https://www.tbsnews.net/economy/banking/bb-allows-international-cards-overseas-education-payments-1511351",
       "pubDate": "Mon, 10 Aug 2026 16:40:00 +0600",
@@ -835,6 +857,17 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/10/27/image-90440-1666873321.jpg",
       "snippet": "The facility will allow students and their sponsors to use cards for tuition fees and other approved education-related expenses abroad without affecting existing travel quotas."
+    },
+    {
+      "title": "Fabricated result culture of fascist era dismantled, impartial assessment ensured: Mahdi Amin",
+      "link": "https://www.tbsnews.net/bangladesh/education/fabricated-result-culture-fascist-era-dismantled-impartial-assessment-ensured",
+      "pubDate": "Mon, 10 Aug 2026 16:40:00 +0600",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/image-413313-1786356163.jpg",
+      "snippet": "Mahdi Amin said the education sector was the most affected one during the previous fascist regime."
     },
     {
       "title": "Measles: Death toll reaches 878 as 5 more die in 24 hours",
@@ -1068,6 +1101,17 @@
       "snippet": "Protecting the country’s remaining elephant population will require restoring degraded forests, securing elephant corridors, improving human-elephant conflict management and putting wildlife conservation at the centre of development planning"
     },
     {
+      "title": "RACE Asset Management's rejoinder and our reply",
+      "link": "https://www.tbsnews.net/economy/race-asset-managements-rejoinder-and-our-reply-1510566",
+      "pubDate": "Sun, 09 Aug 2026 18:40:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/race_logo_1.png",
+      "snippet": ""
+    },
+    {
       "title": "Between happiness and governance: What Bangladesh can learn from Bhutan about democracy",
       "link": "https://www.tbsnews.net/thoughts/between-happiness-and-governance-what-bangladesh-can-learn-bhutan-about-democracy-1510546",
       "pubDate": "Sun, 09 Aug 2026 18:10:00 +0600",
@@ -1077,18 +1121,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/bhutan.jpg",
       "snippet": "Bhutan's experiment with Gross National Happiness offers a provocative question for democracies: Can political legitimacy be strengthened when governments are judged not only by elections and institutions, but also by the wellbeing of citizens?"
-    },
-    {
-      "title": "Dengue: Year's highest 672 hospitalised in a day, 2 more die",
-      "link": "https://www.tbsnews.net/bangladesh/health/2-die-dengue-672-hospitalised-single-day-record-1510486",
-      "pubDate": "Sun, 09 Aug 2026 17:35:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/25/05_news_copy.png",
-      "snippet": "The number of dengue-related deaths in the country this year has risen to 61."
     }
   ],
-  "updatedAt": "2026-08-12T11:22:13.626Z"
+  "updatedAt": "2026-08-12T12:09:54.353Z"
 }
