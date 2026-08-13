@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "53 activists of AL, affiliated organisations arrested in Bashundhara",
+      "link": "https://www.tbsnews.net/bangladesh/53-activists-al-affiliated-organisations-arrested-bashundhara-1514676",
+      "pubDate": "Fri, 14 Aug 2026 00:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/12/23/arrest-tbs.jpg",
+      "snippet": "According to police, the 53 arrestees were meeting to plan August 15 observance programmes and flash processions across Dhaka."
+    },
+    {
       "title": "Jhalkathi, Rajshahi get new police superintendents",
       "link": "https://www.tbsnews.net/bangladesh/jhalkathi-rajshahi-get-new-police-superintendents-1514616",
       "pubDate": "Thu, 13 Aug 2026 21:50:00 +0600",
@@ -111,17 +122,6 @@
       "snippet": "Hitu's lawyer gave NOC during the hearing of his death reference and appeal, prompting the High Court to appoint Hafizur Rahman Khan"
     },
     {
-      "title": "CTTC, DB to remain on streets round the clock to curb muggings: DMP chief",
-      "link": "https://www.tbsnews.net/bangladesh/cttc-db-remain-streets-round-clock-curb-muggings-dmp-chief-1514546",
-      "pubDate": "Thu, 13 Aug 2026 20:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/dmp_cheif.jpg",
-      "snippet": "Mosleh Uddin Ahmed calls for stronger intelligence surveillance and patrols in mugging-prone areas, while ordering officers to inspect crime scenes in every case."
-    },
-    {
       "title": "Govt to introduce a unified regulatory policy for battery-run rickshaws",
       "link": "https://www.tbsnews.net/bangladesh/govt-introduce-unified-regulatory-policy-battery-run-rickshaws-1514541",
       "pubDate": "Thu, 13 Aug 2026 20:40:00 +0600",
@@ -133,15 +133,15 @@
       "snippet": "Initiatives will be taken to update existing regulations and designate a unified licensing authority for city corporations, municipalities, upazilas and union parishads, says Mir Shahe Alam."
     },
     {
-      "title": "DU forms committee to investigate 'secret activities' of some teachers",
-      "link": "https://www.tbsnews.net/bangladesh/du-forms-committee-investigate-secret-activities-some-teachers-1514526",
-      "pubDate": "Thu, 13 Aug 2026 20:30:00 +0600",
+      "title": "CTTC, DB to remain on streets round the clock to curb muggings: DMP chief",
+      "link": "https://www.tbsnews.net/bangladesh/cttc-db-remain-streets-round-clock-curb-muggings-dmp-chief-1514546",
+      "pubDate": "Thu, 13 Aug 2026 20:40:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/16/image.png",
-      "snippet": "Professor Dr Abdus Salam, Pro-Vice-Chancellor (Education), has been appointed convener of the committee."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/dmp_cheif.jpg",
+      "snippet": "Mosleh Uddin Ahmed calls for stronger intelligence surveillance and patrols in mugging-prone areas, while ordering officers to inspect crime scenes in every case."
     },
     {
       "title": "RAB strengthens nationwide security ahead of 15 Aug",
@@ -153,6 +153,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/rab_logo.jpg",
       "snippet": "The RAB will conduct operations under its own command while maintaining coordination, where required, with the local administration, other law-enforcement agencies and intelligence organizations, the release added."
+    },
+    {
+      "title": "DU forms committee to investigate 'secret activities' of some teachers",
+      "link": "https://www.tbsnews.net/bangladesh/du-forms-committee-investigate-secret-activities-some-teachers-1514526",
+      "pubDate": "Thu, 13 Aug 2026 20:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/16/image.png",
+      "snippet": "Professor Dr Abdus Salam, Pro-Vice-Chancellor (Education), has been appointed convener of the committee."
     },
     {
       "title": "'Neo-JMB member' Arif placed on 6-day remand over sabotage attempt in Savar",
@@ -208,17 +219,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/salahuddin.jpg",
       "snippet": "Salahuddin says enforcement alone will not be enough, calling for greater public awareness and coordination among agencies to tackle the two problems."
-    },
-    {
-      "title": "5 more LNG cargoes to be brought in August",
-      "link": "https://www.tbsnews.net/bangladesh/energy/5-more-lng-cargoes-be-brought-august-1514376",
-      "pubDate": "Thu, 13 Aug 2026 19:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/06/reuters_lng.jpg",
-      "snippet": "The additional supplies are aimed at maintaining stability in the national gas network amid rising energy demand."
     },
     {
       "title": "Rising debt, fiscal gaps weigh on Bangladesh economy despite easing inflation: BB",
@@ -936,5 +936,5 @@
       "snippet": "Exporters say they are now seeking a share of the refunds or, at the very least, some form of compensation through their continued business relationships with US buyers"
     }
   ],
-  "updatedAt": "2026-08-13T17:04:18.193Z"
+  "updatedAt": "2026-08-13T18:26:48.704Z"
 }
