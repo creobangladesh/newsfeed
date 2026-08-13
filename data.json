@@ -1,6 +1,105 @@
 {
   "news": [
     {
+      "title": "Experts urge long-term solution to energy crisis",
+      "link": "https://www.tbsnews.net/bangladesh/energy/experts-urge-long-term-solution-energy-crisis-1514606",
+      "pubDate": "Thu, 13 Aug 2026 21:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/cpd_event_1.jpg",
+      "snippet": "Industries report 35-40% output decline."
+    },
+    {
+      "title": "BSEC eases mutual fund custodian rules for foreign banks",
+      "link": "https://www.tbsnews.net/economy/stocks/bsec-eases-mutual-fund-custodian-rules-foreign-banks-1514581",
+      "pubDate": "Thu, 13 Aug 2026 21:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/bsec.jpg",
+      "snippet": "The move allows foreign-owned banks without local boards to authorise mutual fund account signatories through their management committees."
+    },
+    {
+      "title": "Bangladesh climate finance lab turns 35 ideas into GCF project concepts",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-climate-finance-lab-turns-35-ideas-gcf-project-concepts-1514586",
+      "pubDate": "Thu, 13 Aug 2026 21:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/climate.png",
+      "snippet": "Ten concept notes received recognition, with three receiving Diamond, three Gold and four Silver status."
+    },
+    {
+      "title": "Enforced three-minute toilet breaks, electric shocks: Enforced disappearance victim recounts torture at TFI cell",
+      "link": "https://www.tbsnews.net/bangladesh/crime/enforced-three-minute-toilet-breaks-electric-shocks-enforced-disappearance-victim",
+      "pubDate": "Thu, 13 Aug 2026 21:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/01/20/secret_detention.jpg",
+      "snippet": "Ashik testified as a prosecution witness in the crimes-against-humanity case over enforced disappearances at the TFI cell against former prime minister Sheikh Hasina and 16 others, including current and former military officers."
+    },
+    {
+      "title": "Govt plans bigger community role in primary schools: Bobby Hajjaj",
+      "link": "https://www.tbsnews.net/bangladesh/education/govt-plans-bigger-community-role-primary-schools-bobby-hajjaj-1514561",
+      "pubDate": "Thu, 13 Aug 2026 20:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/13/bobby_hajjaj.jpg",
+      "snippet": "The state minister says the plan will connect local residents, parents and organisations more closely with schools."
+    },
+    {
+      "title": "NID birth date correction applications can now be processed at field level: EC",
+      "link": "https://www.tbsnews.net/bangladesh/nid-birth-date-correction-applications-can-now-be-processed-field-level-ec-1514566",
+      "pubDate": "Thu, 13 Aug 2026 20:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/uploads/2023/12/24/election_commission_5.jpg",
+      "snippet": "The commission also made it mandatory for officials to record notes in the Case Management System (CMS) when electronically approving or rejecting an application."
+    },
+    {
+      "title": "Asiya rape-murder case: HC appoints state-funded lawyer for death-row convict Hitu Sheikh",
+      "link": "https://www.tbsnews.net/bangladesh/court/asiya-rape-murder-case-hc-appoints-state-funded-lawyer-death-row-convict-hitu",
+      "pubDate": "Thu, 13 Aug 2026 20:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/04/23/img-20250423-wa0000_0.jpg",
+      "snippet": "Hitu's lawyer gave NOC during the hearing of his death reference and appeal, prompting the High Court to appoint Hafizur Rahman Khan"
+    },
+    {
+      "title": "Govt to introduce a unified regulatory policy for battery-run rickshaws",
+      "link": "https://www.tbsnews.net/bangladesh/govt-introduce-unified-regulatory-policy-battery-run-rickshaws-1514541",
+      "pubDate": "Thu, 13 Aug 2026 20:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/06/27/1687016889834_0.jpg",
+      "snippet": "Initiatives will be taken to update existing regulations and designate a unified licensing authority for city corporations, municipalities, upazilas and union parishads, says Mir Shahe Alam."
+    },
+    {
+      "title": "CTTC, DB to remain on streets round the clock to curb muggings: DMP chief",
+      "link": "https://www.tbsnews.net/bangladesh/cttc-db-remain-streets-round-clock-curb-muggings-dmp-chief-1514546",
+      "pubDate": "Thu, 13 Aug 2026 20:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/dmp_cheif.jpg",
+      "snippet": "Mosleh Uddin Ahmed calls for stronger intelligence surveillance and patrols in mugging-prone areas, while ordering officers to inspect crime scenes in every case."
+    },
+    {
       "title": "DU forms committee to investigate 'secret activities' of some teachers",
       "link": "https://www.tbsnews.net/bangladesh/du-forms-committee-investigate-secret-activities-some-teachers-1514526",
       "pubDate": "Thu, 13 Aug 2026 20:30:00 +0600",
@@ -12,6 +111,17 @@
       "snippet": "Professor Dr Abdus Salam, Pro-Vice-Chancellor (Education), has been appointed convener of the committee."
     },
     {
+      "title": "RAB strengthens nationwide security ahead of 15 Aug",
+      "link": "https://www.tbsnews.net/bangladesh/rab-strengthens-nationwide-security-ahead-15-aug-1514531",
+      "pubDate": "Thu, 13 Aug 2026 20:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/rab_logo.jpg",
+      "snippet": "The RAB will conduct operations under its own command while maintaining coordination, where required, with the local administration, other law-enforcement agencies and intelligence organizations, the release added."
+    },
+    {
       "title": "'Neo-JMB member' Arif placed on 6-day remand over sabotage attempt in Savar",
       "link": "https://www.tbsnews.net/bangladesh/court/neo-jmb-member-arif-placed-6-day-remand-over-sabotage-attempt-savar-1514501",
       "pubDate": "Thu, 13 Aug 2026 20:20:00 +0600",
@@ -19,7 +129,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/arif_remanded.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/arif_remanded2.jpg",
       "snippet": "Police says the 26-year-old was planning acts of sabotage, and explosives and bomb-making materials were recovered during raids in Savar."
     },
     {
@@ -114,34 +224,12 @@
       "title": "Dengue claims 2 more lives as 693 hospitalised in 24 hrs",
       "link": "https://www.tbsnews.net/bangladesh/health/dengue-claims-2-more-lives-693-hospitalised-24-hrs-1514351",
       "pubDate": "Thu, 13 Aug 2026 19:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/25/05_news_copy.png",
       "snippet": "The latest deaths take this year’s dengue toll to 65, with total cases crossing 22,000."
-    },
-    {
-      "title": "DMP reshuffles ADC, 3 ACs",
-      "link": "https://www.tbsnews.net/bangladesh/dmp-reshuffles-adc-3-acs-1514296",
-      "pubDate": "Thu, 13 Aug 2026 19:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/08/13/dmp-logo-tbs.jpg",
-      "snippet": "The changes affect the force's cybercrime, administration, finance and operations units, with one officer assigned to the Cyber Terrorism Investigation unit."
-    },
-    {
-      "title": "Govt's failures in power sector worsen energy crisis, says Jamaat",
-      "link": "https://www.tbsnews.net/bangladesh/politics/govts-failures-power-sector-worsened-energy-crisis-says-jamaat-1514311",
-      "pubDate": "Thu, 13 Aug 2026 19:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/23/tbs_0.jpg",
-      "snippet": "Jamaat Secretary General Mia Golam Porwar alleges government mismanagement has worsened the power and gas crisis."
     },
     {
       "title": "Bangladesh's shadow economy is too big to ignore",
@@ -155,50 +243,6 @@
       "snippet": "This is Bangladesh's informal economy, and it is not a marginal phenomenon."
     },
     {
-      "title": "PM extends financial support to Rajshahi University student for higher studies in Sweden",
-      "link": "https://www.tbsnews.net/bangladesh/pm-extends-financial-support-rajshahi-university-student-higher-studies-sweden-1514291",
-      "pubDate": "Thu, 13 Aug 2026 19:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/pm_extends_financial_support_to_rajshahi_university_student_for_higher_studies_in_sweden.png",
-      "snippet": "He is also a student leader of the Rajshahi University unit of Bangladesh Jatiyatabadi Chhatra Dal."
-    },
-    {
-      "title": "Bangladesh-Saudi direct flights to jump 71% under new deal",
-      "link": "https://www.tbsnews.net/economy/aviation/bangladesh-saudi-direct-flights-jump-71-under-new-deal-1514276",
-      "pubDate": "Thu, 13 Aug 2026 19:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/0d8dab84-e248-4873-a40d-e9542b8ce746.jpg",
-      "snippet": "Weekly flights will rise to 84 from 49, easing Hajj and passenger travel pressure."
-    },
-    {
-      "title": "Former Gazipur-5 MP Akhtaruzzaman sent to jail after remand",
-      "link": "https://www.tbsnews.net/bangladesh/court/former-gazipur-5-mp-akhtaruzzaman-sent-jail-after-remand-1514261",
-      "pubDate": "Thu, 13 Aug 2026 18:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/06/ex-gazipur-5_mp_akhtaruzzaman.jpeg",
-      "snippet": "The court denied a hearing on his bail petition as the original case records were unavailable."
-    },
-    {
-      "title": "Info minister seeks coordinated efforts to effectively counter misinformation, disinformation",
-      "link": "https://www.tbsnews.net/bangladesh/info-minister-seeks-coordinated-efforts-effectively-counter-misinformation-disinformation",
-      "pubDate": "Thu, 13 Aug 2026 18:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/5372987.jpg",
-      "snippet": "The information minister assured her of the ministry’s necessary cooperation in this regard."
-    },
-    {
       "title": "After the Iran war: A new middle east takes shape",
       "link": "https://www.tbsnews.net/thoughts/after-iran-war-new-middle-east-takes-shape-1514246",
       "pubDate": "Thu, 13 Aug 2026 18:35:00 +0600",
@@ -208,39 +252,6 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/iran_0.jpg",
       "snippet": "Whatever the eventual terms of a settlement, the Middle East is unlikely to return to the status quo ante. The war has exposed vulnerabilities in the region's security architecture, inflicted enormous damage on Iran, intensified Israel's security con..."
-    },
-    {
-      "title": "Strong assurances received on renewal of Ganges Water Sharing Treaty, JS body told",
-      "link": "https://www.tbsnews.net/foreign-policy/strong-assurances-received-renewal-ganges-water-sharing-treaty-js-body-told-1514231",
-      "pubDate": "Thu, 13 Aug 2026 18:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/04/28/farakka-barrage-1724754012.jpg",
-      "snippet": "The committee was also informed that the main implementation work of the Teesta Master Plan is expected to begin next year."
-    },
-    {
-      "title": "If everything fits together, PM to visit India, Japan: Shama Obaed",
-      "link": "https://www.tbsnews.net/bangladesh/if-everything-fits-together-pm-visit-india-japan-shama-obaed-1514221",
-      "pubDate": "Thu, 13 Aug 2026 18:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/31/shama.png",
-      "snippet": "Proposed visits to India and Japan will depend on the prime minister's schedule and the progress of bilateral talks, she says."
-    },
-    {
-      "title": "Singapore interested in Bangladesh's Bay Terminal project",
-      "link": "https://www.tbsnews.net/bangladesh/singapore-interested-bangladeshs-bay-terminal-project-1514216",
-      "pubDate": "Thu, 13 Aug 2026 18:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/09/03/p3_story_ctg_bay_terminal_photo5.jpg",
-      "snippet": "Shama Obaed said they also visited one of the projects where they have a waste-to-energy and they have shown how they produce energy by managing waste."
     },
     {
       "title": "Microsoft retreats in China, but AI boom helps it keep a window open",
@@ -912,51 +923,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/tariff.png",
       "snippet": "Exporters say they are now seeking a share of the refunds or, at the very least, some form of compensation through their continued business relationships with US buyers"
-    },
-    {
-      "title": "National Steering Committee on Creative Economy formed",
-      "link": "https://www.tbsnews.net/economy/national-steering-committee-creative-economy-formed-1511731",
-      "pubDate": "Mon, 10 Aug 2026 21:50:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/govt_10.png",
-      "snippet": "Govt forms a 27-member steering committee to shape policy, markets and growth across the creative economy."
-    },
-    {
-      "title": "Infrastructure, utility shortages erode investor confidence in economic zones",
-      "link": "https://www.tbsnews.net/economy/infrastructure-utility-shortages-erode-investor-confidence-economic-zones-1511721",
-      "pubDate": "Mon, 10 Aug 2026 21:45:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/08/05/ctg_national_special_economic_zone_nsezphoto18.jpg",
-      "snippet": "only 27 companies are currently in production across the five government economic zones, covering 39,000 acres."
-    },
-    {
-      "title": "Govt discusses legal framework of Invest Bangladesh; next meeting to finalise structure",
-      "link": "https://www.tbsnews.net/economy/govt-discusses-legal-framework-invest-bangladesh-next-meeting-finalise-structure-1511711",
-      "pubDate": "Mon, 10 Aug 2026 21:40:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/09/30/infographic_beximco-sukuk.jpg",
-      "snippet": "Under the new law, investment- and industrial-zone-related activities will come under a unified institutional framework."
-    },
-    {
-      "title": "Cabinet okays bank resolution amendment, repeals former owners' comeback clause",
-      "link": "https://www.tbsnews.net/economy/banking/cabinet-okays-repeal-section-18a-bank-resolution-act-blocking-former-owners-return",
-      "pubDate": "Mon, 10 Aug 2026 21:40:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/12/distressed_banks.png",
-      "snippet": "The approval came at a cabinet meeting chaired by Prime Minister Tarique Rahman at the Bangladesh Secretariat."
     }
   ],
-  "updatedAt": "2026-08-13T14:37:13.464Z"
+  "updatedAt": "2026-08-13T15:58:24.767Z"
 }
