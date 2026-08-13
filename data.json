@@ -1,14 +1,69 @@
 {
   "news": [
     {
-      "title": "2 arrested after 'Tk4.38cr goes missing from Agrani Bank vault' in Ctg",
+      "title": "4 killed, 5 injured as bus collides head-on with jeep in Ctg",
+      "link": "https://www.tbsnews.net/bangladesh/4-killed-5-injured-bus-collides-head-jeep-ctg-1514091",
+      "pubDate": "Thu, 13 Aug 2026 17:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/accident.jpg",
+      "snippet": "The bus driver and his assistant fled the scene after the crash, while police seized both vehicles and began legal proceedings."
+    },
+    {
+      "title": "PM Tarique to open month-long 'Hridoye Dhaka 416' celebration",
+      "link": "https://www.tbsnews.net/bangladesh/pm-tarique-open-month-long-hridoye-dhaka-416-celebration-1514056",
+      "pubDate": "Thu, 13 Aug 2026 17:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/tarique_rahman.jpg",
+      "snippet": "The programme will feature heritage rallies, cultural events, exhibitions and civic initiatives, with DSCC urging residents to take greater responsibility for keeping the capital clean and green."
+    },
+    {
+      "title": "Govt moves to cut aromatic rice exports after abnormal price surge",
+      "link": "https://www.tbsnews.net/bangladesh/govt-moves-cut-aromatic-rice-exports-after-abnormal-price-surge-1514051",
+      "pubDate": "Thu, 13 Aug 2026 17:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/08/01/rice.jpg",
+      "snippet": "Over the past two months, prices of different varieties of aromatic rice, including Chinigura, have risen from around Tk130 per kg to Tk230 per kg."
+    },
+    {
+      "title": "ADB delegation discusses banking sector reforms, financial stability with BB governor",
+      "link": "https://www.tbsnews.net/economy/banking/adb-delegation-discusses-banking-sector-reforms-financial-stability-bb-chief-1514041",
+      "pubDate": "Thu, 13 Aug 2026 16:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/bb_governor.png",
+      "snippet": "The two sides held positive and constructive discussions on reforms, restructuring and recapitalisation of Bangladesh's banking sector, strengthening financial sector stability and capacity, and potential ADB support in these areas."
+    },
+    {
+      "title": "City Group plans to raise up to Tk1,500cr from capital market",
+      "link": "https://www.tbsnews.net/economy/banking/city-group-plans-raise-tk1500cr-capital-market-1514111",
+      "pubDate": "Thu, 13 Aug 2026 16:40:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/city_group.png",
+      "snippet": "The industrial conglomerate plans to explore IPO, bonds, Sukuk and other capital market instruments as it seeks fresh financing for future growth."
+    },
+    {
+      "title": "'Tk4.38cr goes missing from Agrani Bank vault' in Ctg; 2 held",
       "link": "https://www.tbsnews.net/bangladesh/2-arrested-after-tk438cr-goes-missing-agrani-bank-vault-ctg-1513996",
       "pubDate": "Thu, 13 Aug 2026 16:25:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/04/01/handcuff_unb.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/received_1987229821930469.jpeg",
       "snippet": "A case was filed on 10 August after a cash reconciliation found a Tk4.38 crore shortage following the close of banking operations on 9 August."
     },
     {
@@ -208,50 +263,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/cox_bazar_rain.jpg",
       "snippet": "Light to moderate rain and thunderstorms are likely across several divisions, with moderately heavy to heavy rainfall possible in parts of the country over the next 24 hours."
-    },
-    {
-      "title": "Govt plans three more FSRUs by 2029 to ease energy crisis: Minister",
-      "link": "https://www.tbsnews.net/bangladesh/energy/govt-plans-three-more-fsrus-2029-ease-energy-crisis-minister-1513736",
-      "pubDate": "Thu, 13 Aug 2026 12:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/10/30/summit_lng.jpg",
-      "snippet": "The government is studying potential locations at Payra, Mongla, and Hiron Point in the country's southern region for the FSRUs, says Iqbal Hassan Mahmood."
-    },
-    {
-      "title": "PM urges US businesses to 'invest with confidence', build long-term partnership",
-      "link": "https://www.tbsnews.net/bangladesh/us-bangladesh-business-council-delegation-meets-pm-tarique-trade-investment-agenda",
-      "pubDate": "Thu, 13 Aug 2026 12:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/fb_img_1786602202500.jpg",
-      "snippet": "Tarique Rahman invited US companies to invest and expand their businesses in Bangladesh, offering opportunities in energy, infrastructure, technology, digital services, finance, agriculture, healthcare, manufacturing and logistics."
-    },
-    {
-      "title": "DMP unveils road safety plan with GPS tracking, vehicle scrapping",
-      "link": "https://www.tbsnews.net/bangladesh/dmp-unveils-road-safety-plan-gps-tracking-vehicle-scrapping-1513706",
-      "pubDate": "Thu, 13 Aug 2026 11:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/05/21/whatsapp_image_2025-05-21_at_1.14.40_pm.jpeg",
-      "snippet": "The DMP is working to introduce GPS technology to make action against reckless driving, wrong-way driving and signal violations more effective."
-    },
-    {
-      "title": "July Mass Uprising Memorial Museum Act: 10 years' imprisonment for damaging artefacts",
-      "link": "https://www.tbsnews.net/bangladesh/july-mass-uprising-memorial-museum-act-10-years-imprisonment-damaging-artefacts-1513681",
-      "pubDate": "Thu, 13 Aug 2026 11:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/image-414212-1786597895.jpg",
-      "snippet": "Under the law, any person causing damage to any immovable artefact of the July Mass Uprising Memorial Museum will be punishable with up to 10 years' imprisonment, a fine of up to Tk10 lakh, or both."
     },
     {
       "title": "Meta says it has taken down 756,000 Australian teen accounts as ban enforcement looms",
@@ -870,17 +881,6 @@
       "snippet": "The affected companies are Fareast Finance and Investment, FAS Finance and Investment, and International Leasing and Financial Services."
     },
     {
-      "title": "Forex reserves stand at $32.15b",
-      "link": "https://www.tbsnews.net/economy/forex-reserves-stand-3215b-1511601",
-      "pubDate": "Mon, 10 Aug 2026 20:35:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/16/forex.png",
-      "snippet": "The latest reserve position comes a day after Bangladesh Bank reported that gross reserves had crossed the $32 billion mark."
-    },
-    {
       "title": "Hospital, clinic licence validity extended to two years",
       "link": "https://www.tbsnews.net/bangladesh/health/private-hospitals-clinics-get-2-year-licences-fiscal-year-1511611",
       "pubDate": "Mon, 10 Aug 2026 20:35:00 +0600",
@@ -956,84 +956,7 @@
       "icon": "🏭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/egypt_keen_to_invest_in_countrys_industrial_sector.png",
       "snippet": "Muktadir calls for greater bilateral cooperation in industries, trade and investment with Egypt."
-    },
-    {
-      "title": "Financial scams in Bangladesh: Why fraudsters continue to outsmart the system",
-      "link": "https://www.tbsnews.net/thoughts/financial-scams-bangladesh-why-fraudsters-continue-outsmart-system-1511431",
-      "pubDate": "Mon, 10 Aug 2026 17:30:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/online_financial_scam_tbs_illustration_1.png",
-      "snippet": "Law enforcement and regulatory systems have struggled to keep pace with the speed and complexity of cyber-enabled financial crimes, many of which are organised and operate across national borders"
-    },
-    {
-      "title": "Lifting the IPO debt-repayment cap is the second step, not the first",
-      "link": "https://www.tbsnews.net/thoughts/lifting-ipo-debt-repayment-cap-second-step-not-first-1511421",
-      "pubDate": "Mon, 10 Aug 2026 17:20:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/stocks_dse_1_1.jpeg",
-      "snippet": "Sponsors want to repay loans with more than 70% of IPO proceeds. The markets that permit this all share one feature Bangladesh's primary market still lacks: a mechanism that prices the risk."
-    },
-    {
-      "title": "SSC, equivalent exam candidates can seek re-evaluation of original scripts: Minister",
-      "link": "https://www.tbsnews.net/bangladesh/ssc-equivalent-exam-candidates-can-seek-re-evaluation-original-scripts-minister-1511386",
-      "pubDate": "Mon, 10 Aug 2026 17:05:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/09/edu-min-69d758d07f498.jpg",
-      "snippet": "Unlike previous reviews, students will be able to have their original answer scripts examined to ensure they receive the marks they deserve, he says."
-    },
-    {
-      "title": "BCPS trains communications professionals in practical AI skills",
-      "link": "https://www.tbsnews.net/bangladesh/bcps-trains-communications-professionals-practical-ai-skills-1511391",
-      "pubDate": "Mon, 10 Aug 2026 17:00:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/769363158_1550871592697071_2949355994056406867_n.jpg",
-      "snippet": "More than 35 communications professionals from development organisations, government, media and other sectors took part in the training."
-    },
-    {
-      "title": "Ctg private healthcare workers demand Tk30,000 minimum wage",
-      "link": "https://www.tbsnews.net/bangladesh/ctg-private-healthcare-workers-demand-tk30000-minimum-wage-1511371",
-      "pubDate": "Mon, 10 Aug 2026 16:45:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/764363881_2272490526922696_3952399877989468140_n.jpg",
-      "snippet": "They also seek the abolition of contractor and outsourcing-based employment, the enforcement of labour laws and legal benefits."
-    },
-    {
-      "title": "BB allows international cards for overseas education payments",
-      "link": "https://www.tbsnews.net/economy/banking/bb-allows-international-cards-overseas-education-payments-1511351",
-      "pubDate": "Mon, 10 Aug 2026 16:40:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/10/27/image-90440-1666873321.jpg",
-      "snippet": "The facility will allow students and their sponsors to use cards for tuition fees and other approved education-related expenses abroad without affecting existing travel quotas."
-    },
-    {
-      "title": "Fabricated result culture of fascist era dismantled, impartial assessment ensured: Mahdi Amin",
-      "link": "https://www.tbsnews.net/bangladesh/education/fabricated-result-culture-fascist-era-dismantled-impartial-assessment-ensured",
-      "pubDate": "Mon, 10 Aug 2026 16:40:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/image-413313-1786356163.jpg",
-      "snippet": "Mahdi Amin said the education sector was the most affected one during the previous fascist regime."
     }
   ],
-  "updatedAt": "2026-08-13T10:35:55.770Z"
+  "updatedAt": "2026-08-13T11:46:08.973Z"
 }
