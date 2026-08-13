@@ -1,6 +1,83 @@
 {
   "news": [
     {
+      "title": "DMP unveils road safety plan with GPS tracking, vehicle scrapping",
+      "link": "https://www.tbsnews.net/bangladesh/dmp-unveils-road-safety-plan-gps-tracking-vehicle-scrapping-1513706",
+      "pubDate": "Thu, 13 Aug 2026 11:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/05/21/whatsapp_image_2025-05-21_at_1.14.40_pm.jpeg",
+      "snippet": "The DMP is working to introduce GPS technology to make action against reckless driving, wrong-way driving and signal violations more effective."
+    },
+    {
+      "title": "July Mass Uprising Memorial Museum Act: 10 years' imprisonment for damaging artefacts",
+      "link": "https://www.tbsnews.net/bangladesh/july-mass-uprising-memorial-museum-act-10-years-imprisonment-damaging-artefacts-1513681",
+      "pubDate": "Thu, 13 Aug 2026 11:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/image-414212-1786597895.jpg",
+      "snippet": "Under the law, any person causing damage to any immovable artefact of the July Mass Uprising Memorial Museum will be punishable with up to 10 years' imprisonment, a fine of up to Tk10 lakh, or both."
+    },
+    {
+      "title": "Meta says it has taken down 756,000 Australian teen accounts as ban enforcement looms",
+      "link": "https://www.tbsnews.net/tech/meta-says-it-has-taken-down-756000-australian-teen-accounts-ban-enforcement-looms-1513666",
+      "pubDate": "Thu, 13 Aug 2026 11:10:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/fyganikdibkyticpzg6snqys2i.png",
+      "snippet": "Australian government figures and multiple independent studies have shown that more than eight in 10 under-16s were still on social media in the ban's first three months."
+    },
+    {
+      "title": "BNP to announce presidential pick after meeting with Tarique",
+      "link": "https://www.tbsnews.net/bangladesh/politics/bnp-announce-presidential-pick-today-after-meeting-tarique-1513636",
+      "pubDate": "Thu, 13 Aug 2026 10:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/11/bnp_meeting.jpg",
+      "snippet": "The BNP will formally announce its presidential candidate after the meeting, following which a party delegation will submit the nomination papers in line with the Election Commission’s schedule."
+    },
+    {
+      "title": "Moon-sighting committee meeting today ahead of Eid-e-Miladunnabi",
+      "link": "https://www.tbsnews.net/bangladesh/moon-sighting-committee-meeting-today-ahead-eid-e-miladunnabi-1513611",
+      "pubDate": "Thu, 13 Aug 2026 10:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/03/10/moon.png",
+      "snippet": "The meeting will be held at 7pm, after Maghrib prayers, at the Baitul Mukarram meeting room of the Islamic Foundation"
+    },
+    {
+      "title": " New policy planned to boost SME participation in exports",
+      "link": "https://www.tbsnews.net/bangladesh/new-policy-planned-boost-sme-participation-exports-1513571",
+      "pubDate": "Thu, 13 Aug 2026 10:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/07/31/in-praise-of-small-supplement-2023-copy.jpg",
+      "snippet": "According to the SME Foundation, only 9% of CMSME entrepreneurs currently receive direct bank loans, while another 14% access financing through microfinance institutions."
+    },
+    {
+      "title": "Conjoined twins from Kushtia die at DMCH",
+      "link": "https://www.tbsnews.net/bangladesh/conjoined-twins-kushtia-die-dmch-1513591",
+      "pubDate": "Thu, 13 Aug 2026 10:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/59228.jpg",
+      "snippet": "Following a funeral prayer at 9am today, the twins were buried at a local graveyard."
+    },
+    {
       "title": "High bids, weak competition drive Metro Line-1 cost surge by 130%",
       "link": "https://www.tbsnews.net/bangladesh/high-bids-weak-competition-drive-metro-line-1-cost-surge-130-1513561",
       "pubDate": "Thu, 13 Aug 2026 10:00:00 +0600",
@@ -30,8 +107,19 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/08/25/finance_ministry_1.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/fea_0.png",
       "snippet": "The Budget Wing of the finance ministry is now reviewing what changes would be needed to laws related to the fiscal year, the budget-making process, the tax system, government accounting, and the implementation of development projects."
+    },
+    {
+      "title": "Preparing for 4th Mutual Evaluation: APG team in Dhaka to assess money laundering, terror financing efforts",
+      "link": "https://www.tbsnews.net/bangladesh/preparing-4th-mutual-evaluation-apg-team-dhaka-assess-money-laundering-terror-financing",
+      "pubDate": "Thu, 13 Aug 2026 01:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/01/13/apg_logo.jpg",
+      "snippet": "The delegation held a meeting with Finance Minister Amir Khosru Mahmud Chowdhury today, attended by officials of the Bangladesh Financial Intelligence Unit (BFIU)."
     },
     {
       "title": "Woman dies nine days after being burned in Barishal bomb blast",
@@ -144,57 +232,24 @@
       "snippet": "Canadian High Commissioner to Bangladesh Ajit Singh met Foreign Minister Dr Khalilur Rahman and discussed ways to strengthen the longstanding partnership."
     },
     {
-      "title": "Finance minister vows deregulation, urges US businesses to invest",
-      "link": "https://www.tbsnews.net/bangladesh/finance-minister-vows-deregulation-urges-us-businesses-invest-1513421",
-      "pubDate": "Wed, 12 Aug 2026 21:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/04/khasru_sketch.jpg",
-      "snippet": "Khosru Mahmud Chowdhury urges US businesses to invest in Bangladesh, while delegation says policy support could encourage more investment."
-    },
-    {
-      "title": "Presidential election: Nomination papers to be submitted tomorrow",
-      "link": "https://www.tbsnews.net/bangladesh/presidential-election-nomination-papers-be-submitted-tomorrow-1513411",
-      "pubDate": "Wed, 12 Aug 2026 21:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/8706766.jpg",
-      "snippet": "This will be the first presidential election in 35 years, which is going to involve more than one candidate. So, the voting is set to be held in the Presidential election after 1991."
-    },
-    {
       "title": "UGC plans higher research grants to make young teachers research-oriented",
       "link": "https://www.tbsnews.net/bangladesh/education/ugc-plans-higher-research-grants-make-young-teachers-research-oriented-1513401",
       "pubDate": "Wed, 12 Aug 2026 21:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/ugc.jpg",
       "snippet": "Salam said teachers need to focus on internationally recognised research to enhance the quality and reputation of universities."
-    },
-    {
-      "title": "Lift restrictions on journalists' access to Appellate Division: Nurul Kabir",
-      "link": "https://www.tbsnews.net/bangladesh/keeping-journalists-out-court-undermines-open-justice-nurul-kabir-1513381",
-      "pubDate": "Wed, 12 Aug 2026 20:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/lrf.jpg",
-      "snippet": "He says barring journalists from entering the courtroom amounts to a direct violation of the Constitution and urged the Chief Justice to immediately allow journalists access to the court."
     },
     {
       "title": "Huawei launches Bangladesh's first grid-forming inverter, battery storage system",
       "link": "https://www.tbsnews.net/tech/huawei-launches-bangladeshs-first-grid-forming-inverter-battery-storage-system-1513356",
       "pubDate": "Wed, 12 Aug 2026 20:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/huawei_launches.jpg",
       "snippet": "Huawei unveiled the SUN2000-506KTL-H3, which it described as the industry's first grid-forming smart string inverter, alongside the LUTERRA-6261-25 battery energy storage system."
     },
@@ -202,23 +257,12 @@
       "title": "12 more districts to get e-Bail Bond service tomorrow",
       "link": "https://www.tbsnews.net/bangladesh/govt-roll-out-e-bail-bond-12-more-districts-tomorrow-1513361",
       "pubDate": "Wed, 12 Aug 2026 20:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/bail_bond_img.jpg",
       "snippet": "The expansion is expected to further reduce delays and procedural bottlenecks while easing the burden on courts, lawyers and litigants."
-    },
-    {
-      "title": "TIB flags accountability gaps in approved human rights, enforced disappearance laws",
-      "link": "https://www.tbsnews.net/bangladesh/tib-flags-accountability-gaps-approved-human-rights-enforced-disappearance-laws-1513351",
-      "pubDate": "Wed, 12 Aug 2026 20:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/08/13/tib_logo.jpeg",
-      "snippet": "TIB says the drafts still leave room for government influence, weak oversight and impunity, urging revisions before the laws are placed before parliament."
     },
     {
       "title": "Bangladesh seeks alternative financing to address $421b SDG funding gap: FinMin",
@@ -1000,40 +1044,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/whatsapp_image_2026-08-08_at_1.34.16_pm.jpeg",
       "snippet": "The union is affiliated with the Bangladesh Apparel Workers Federation."
-    },
-    {
-      "title": "How a small Israeli startup was linked to rogue AI hacks at OpenAI, Anthropic and Meta",
-      "link": "https://www.tbsnews.net/tech/how-small-israeli-startup-was-linked-rogue-ai-hacks-openai-anthropic-and-meta-1510966",
-      "pubDate": "Mon, 10 Aug 2026 11:25:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/23/hacking_hacker.jpg",
-      "snippet": "Irregular is a niche player in artificial intelligence, backed with $80 million from Sequoia and Redpoint Ventures and valued last year at $450 million"
-    },
-    {
-      "title": "Non-Performing Loans: A crisis too long ignored ",
-      "link": "https://www.tbsnews.net/thoughts/non-performing-loans-crisis-too-long-ignored-1510926",
-      "pubDate": "Mon, 10 Aug 2026 11:05:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/thoughts_2.png",
-      "snippet": "Bangladesh Bank has, for once, produced a plan that treats the disease rather than the symptoms. Whether the political system lets it work is the harder question"
-    },
-    {
-      "title": "Making Bangla QR work for Bangladesh’s small businesses ",
-      "link": "https://www.tbsnews.net/thoughts/making-bangla-qr-work-bangladeshs-small-businesses-1510921",
-      "pubDate": "Mon, 10 Aug 2026 11:00:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/p3_bangla_qr_rajibdhar.jpg",
-      "snippet": "Bangla QR has the potential to bring small merchants into the formal financial system, but its success depends on making digital payments cheaper, faster and more reliable than cash"
     }
   ],
-  "updatedAt": "2026-08-13T04:16:00.612Z"
+  "updatedAt": "2026-08-13T05:57:22.950Z"
 }
