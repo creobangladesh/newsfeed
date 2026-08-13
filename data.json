@@ -1,6 +1,160 @@
 {
   "news": [
     {
+      "title": "Bangladesh-Saudi direct flights to jump 71% under new deal",
+      "link": "https://www.tbsnews.net/economy/aviation/bangladesh-saudi-direct-flights-jump-71-under-new-deal-1514276",
+      "pubDate": "Thu, 13 Aug 2026 19:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/0d8dab84-e248-4873-a40d-e9542b8ce746.jpg",
+      "snippet": "Weekly flights will rise to 84 from 49, easing Hajj and passenger travel pressure."
+    },
+    {
+      "title": "Former Gazipur-5 MP Akhtaruzzaman sent to jail after remand",
+      "link": "https://www.tbsnews.net/bangladesh/court/former-gazipur-5-mp-akhtaruzzaman-sent-jail-after-remand-1514261",
+      "pubDate": "Thu, 13 Aug 2026 18:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/06/ex-gazipur-5_mp_akhtaruzzaman.jpeg",
+      "snippet": "The court denied a hearing on his bail petition as the original case records were unavailable."
+    },
+    {
+      "title": "Info minister seeks coordinated efforts to effectively counter misinformation, disinformation",
+      "link": "https://www.tbsnews.net/bangladesh/info-minister-seeks-coordinated-efforts-effectively-counter-misinformation-disinformation",
+      "pubDate": "Thu, 13 Aug 2026 18:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/5372987.jpg",
+      "snippet": "The information minister assured her of the ministry’s necessary cooperation in this regard."
+    },
+    {
+      "title": "Strong assurances received on renewal of Ganges Water Sharing Treaty, JS body told",
+      "link": "https://www.tbsnews.net/foreign-policy/strong-assurances-received-renewal-ganges-water-sharing-treaty-js-body-told-1514231",
+      "pubDate": "Thu, 13 Aug 2026 18:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/04/28/farakka-barrage-1724754012.jpg",
+      "snippet": "The committee was also informed that the main implementation work of the Teesta Master Plan is expected to begin next year."
+    },
+    {
+      "title": "If everything fits together, PM to visit India, Japan: Shama Obaed",
+      "link": "https://www.tbsnews.net/bangladesh/if-everything-fits-together-pm-visit-india-japan-shama-obaed-1514221",
+      "pubDate": "Thu, 13 Aug 2026 18:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/31/shama.png",
+      "snippet": "Proposed visits to India and Japan will depend on the prime minister's schedule and the progress of bilateral talks, she says."
+    },
+    {
+      "title": "Singapore interested in Bangladesh's Bay Terminal project",
+      "link": "https://www.tbsnews.net/bangladesh/singapore-interested-bangladeshs-bay-terminal-project-1514216",
+      "pubDate": "Thu, 13 Aug 2026 18:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/09/03/p3_story_ctg_bay_terminal_photo5.jpg",
+      "snippet": "Shama Obaed said they also visited one of the projects where they have a waste-to-energy and they have shown how they produce energy by managing waste."
+    },
+    {
+      "title": "PM, US business delegation discuss investment, job creation",
+      "link": "https://www.tbsnews.net/bangladesh/pm-us-business-delegation-discuss-investment-job-creation-1514206",
+      "pubDate": "Thu, 13 Aug 2026 18:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/pmo.png",
+      "snippet": "Referring to the government's vision of transforming Bangladesh into a $1 trillion economy by 2034, the US-Bangladesh Business Council president said the private sector could play a powerful catalytic role by bringing technology, global experience an..."
+    },
+    {
+      "title": "Gas crisis, bureaucratic hurdles holding back foreign investment: BKMEA chief",
+      "link": "https://www.tbsnews.net/bangladesh/gas-crisis-bureaucratic-hurdles-holding-back-foreign-investment-bkmea-chief-1514201",
+      "pubDate": "Thu, 13 Aug 2026 18:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/18/untitled_design_99_1.jpg",
+      "snippet": "13th Bangladesh Yarn, Fabrics & Accessories Show begins in Dhaka"
+    },
+    {
+      "title": "Emirates offers 96-hour Dubai visa to Bangladeshi travellers",
+      "link": "https://www.tbsnews.net/economy/aviation/emirates-offers-96-hour-dubai-visa-bangladeshi-travellers-1514181",
+      "pubDate": "Thu, 13 Aug 2026 18:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/image-414321-1786620599.jpg",
+      "snippet": "Under the arrangement, eligible Bangladeshi travellers can purchase a qualifying Emirates Holidays package that includes a four-day stay in Dubai and apply for the 96-hour visa."
+    },
+    {
+      "title": "ASK expresses concern, demands probe into Trishal UNO’s assault on sand quarry employee",
+      "link": "https://www.tbsnews.net/bangladesh/ask-expresses-concern-demands-probe-trishal-unos-assault-sand-quarry-employee-1514196",
+      "pubDate": "Thu, 13 Aug 2026 18:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/untitled_design.jpg",
+      "snippet": "Trishal UNO Arafat Siddiqui has faced calls for an impartial probe after CCTV footage appeared to show him assaulting a sand quarry employee during an operation."
+    },
+    {
+      "title": "Dhaka South launches automated traffic signals at Shahbagh, targets 50 more intersections",
+      "link": "https://www.tbsnews.net/bangladesh/dhaka-south-launches-automated-traffic-signals-shahbagh-targets-50-more-intersections",
+      "pubDate": "Thu, 13 Aug 2026 18:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/02/p1_20251020_rajibdhar_0990.jpg",
+      "snippet": "DSCC administrator says the system will reduce reliance on manual signal control, but warns that public compliance with traffic laws remains essential."
+    },
+    {
+      "title": "Laldia Container Terminal construction to begin 30 August: Rabiul",
+      "link": "https://www.tbsnews.net/bangladesh/transport/laldia-container-terminal-construction-begin-30-august-rabiul-1514151",
+      "pubDate": "Thu, 13 Aug 2026 17:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/03/rabiul.jpg",
+      "snippet": "Denmark-backed green terminal aims to boost Chattogram Port capacity."
+    },
+    {
+      "title": "Microsoft retreats in China, but AI boom helps it keep a window open",
+      "link": "https://www.tbsnews.net/tech/microsoft-retreats-china-ai-boom-helps-it-keep-window-open-1514156",
+      "pubDate": "Thu, 13 Aug 2026 17:55:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/microsoft.jpg",
+      "snippet": "The year was 2010 and Google was about to exit due to concerns over censorship and cyberattacks."
+    },
+    {
+      "title": "Youth hacked to death in broad daylight in Mymensingh",
+      "link": "https://www.tbsnews.net/bangladesh/crime/youth-hacked-death-broad-daylight-mymensingh-1514126",
+      "pubDate": "Thu, 13 Aug 2026 17:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/dead_body.jpg",
+      "snippet": "A 25-year-old man was hacked to death in broad daylight in front of Mymensingh's regional passport office, with police suspecting a dispute over the supply of construction materials behind the killing."
+    },
+    {
       "title": "4 killed, 5 injured as bus collides head-on with jeep in Ctg",
       "link": "https://www.tbsnews.net/bangladesh/4-killed-5-injured-bus-collides-head-jeep-ctg-1514091",
       "pubDate": "Thu, 13 Aug 2026 17:10:00 +0600",
@@ -21,6 +175,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/tarique_rahman.jpg",
       "snippet": "The programme will feature heritage rallies, cultural events, exhibitions and civic initiatives, with DSCC urging residents to take greater responsibility for keeping the capital clean and green."
+    },
+    {
+      "title": "Depositors of 5 merged banks stage protest outside BB office in Ctg, demand withdrawal of 'haircut'",
+      "link": "https://www.tbsnews.net/economy/banking/depositors-5-merged-banks-stage-protest-outside-bb-office-ctg-demand-withdrawal",
+      "pubDate": "Thu, 13 Aug 2026 17:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/depositors_protest_ctg.jpg",
+      "snippet": "They warned of tougher protests if their demands were not addressed promptly."
     },
     {
       "title": "Govt moves to cut aromatic rice exports after abnormal price surge",
@@ -78,48 +243,15 @@
       "snippet": "More than 121,000 suspected measles patients have been hospitalised nationwide since 15 March, with 117,690 recovering so far."
     },
     {
-      "title": "Jamaat questions BNP meeting at Secretariat to pick presidential candidate",
-      "link": "https://www.tbsnews.net/bangladesh/politics/jamaat-questions-bnp-meeting-secretariat-pick-presidential-candidate-1513981",
-      "pubDate": "Thu, 13 Aug 2026 15:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/screenshot_2026-08-13_at_16-05-04_jamaat_criticizes_bnp_meeting_at_secretariat_over_presidential_candidate_selection.png",
-      "snippet": "'The Secretariat is an executive place. A top-level political meeting has been held there! We are not aware of any such precedent. Yet they are doing it. So how do they view democracy?' says AHM Hamidur Rahman Azad."
-    },
-    {
-      "title": "'Bomaru Mamun': How a college student from Barishal became Neo-JMB's bomb maker via Facebook 'da'wah'",
-      "link": "https://www.tbsnews.net/bangladesh/crime/bomaru-mamun-how-college-student-barishal-became-neo-jmbs-bomb-maker-facebook-dawah",
-      "pubDate": "Thu, 13 Aug 2026 15:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/bomaru_mamun_jmb.jpg",
-      "snippet": "Back in 2016, his life took a radical turn when he was targeted on Facebook by an account named \"Abu Muslimah\"."
-    },
-    {
       "title": "Bajus raises 22-carat gold price by Tk 1,633 per bhori",
       "link": "https://www.tbsnews.net/economy/bajus-raises-22-carat-gold-price-tk-1633-bhori-1513941",
       "pubDate": "Thu, 13 Aug 2026 15:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/06/gold.png",
       "snippet": "Since VAT is already included in the sale price of gold and silver ornaments, it cannot be collected separately from customers."
-    },
-    {
-      "title": "Presidential election: BNP submits nomination paper for Fakhrul",
-      "link": "https://www.tbsnews.net/bangladesh/politics/presidential-election-bnp-submits-nomination-paper-fakhrul-1513906",
-      "pubDate": "Thu, 13 Aug 2026 15:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/nomination.jpg",
-      "snippet": "A BNP delegation submitted the nomination paper to Chief Election Commissioner AMM Nasir Uddin, who is serving as the returning officer in the presidential election, at Nirbachan Bhaban in the city's Agargaon area at 2:24pm."
     },
     {
       "title": "Meta, 29 states head to court in biggest test yet of youth social media litigation",
@@ -144,48 +276,15 @@
       "snippet": "The exhibition will bring together major sourcing markets, including Bangladesh, Pakistan, China, India, Turkiye, Myanmar, South Korea, Japan and Italy."
     },
     {
-      "title": "From academia to Bangabhaban: The life and political journey of Mirza Fakhrul Islam Alamgir",
-      "link": "https://www.tbsnews.net/bangladesh/politics/academia-bangabhaban-life-and-political-journey-mirza-fakhrul-islam-alamgir",
-      "pubDate": "Thu, 13 Aug 2026 14:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/01/fakhrul_at_may_day_rally.jpg",
-      "snippet": "Even though the Jamaat-led opposition bloc has nominated LDP Chairman Oli Ahmad as its presidential candidate, Mirza Fakhrul Islam Alamgir is all set to be elected the country's 23rd president as the ruling BNP holds a majority in parliament."
-    },
-    {
       "title": "AP Moller-Maersk Q2 revenue jumps 20% to $15.8b, raises full-year guidance",
       "link": "https://www.tbsnews.net/economy/ap-moller-maersk-q2-revenue-jumps-20-158b-raises-full-year-guidance-1513836",
       "pubDate": "Thu, 13 Aug 2026 13:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/08/31/maersk.jpg",
       "snippet": "The strong quarterly performance prompted the company to raise its full-year 2026 financial guidance."
-    },
-    {
-      "title": "Court issues arrest warrant against ex-UCB chairman in Tk25cr embezzlement case",
-      "link": "https://www.tbsnews.net/bangladesh/court-issues-arrest-warrant-against-ex-ucb-chairman-tk25cr-embezzlement-case-1513831",
-      "pubDate": "Thu, 13 Aug 2026 13:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/former_ucb_chairman_ma_sabur.jpg",
-      "snippet": "On 11 March, the court framed charges against the 36 accused."
-    },
-    {
-      "title": "Truck driver murder case: Charge hearing against Sheikh Hasina, 33 others set for 1 Sep",
-      "link": "https://www.tbsnews.net/bangladesh/court/truck-driver-murder-case-charge-hearing-against-sheikh-hasina-33-others-set-1-sep",
-      "pubDate": "Thu, 13 Aug 2026 13:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/769182385_1356408386104154_618624956904878114_n.jpg",
-      "snippet": "Judge Robiul Alam of Dhaka Special Judge Court-4 fixed the new date after a hearing this morning, said State lawyer Omar Faruk Faruki."
     },
     {
       "title": "Person-to-person payments coming to Bangla QR; BB orders all apps to be ready by 31 Oct",
@@ -197,72 +296,6 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/bangladesh-bank-bangla-qr.jpg",
       "snippet": "The institutions have been asked to remain ready to launch the service from 1 November 2026."
-    },
-    {
-      "title": "Favourable weather, prices drive jute cultivation higher in Chuadanga",
-      "link": "https://www.tbsnews.net/agriculture/favourable-weather-prices-drive-jute-cultivation-higher-chuadanga-1513816",
-      "pubDate": "Thu, 13 Aug 2026 13:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/jute_cultivation_chuadanga.png",
-      "snippet": "Jute cultivation expands by 435 hectares in Chuadanga this season, with total production projected at 25,578 tonnes and sales estimated at around Tk220 crore."
-    },
-    {
-      "title": "E-bail bond system expands to 12 more districts",
-      "link": "https://www.tbsnews.net/bangladesh/e-bail-bond-system-expands-12-more-districts-1513801",
-      "pubDate": "Thu, 13 Aug 2026 13:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/bail_bond_img.jpg",
-      "snippet": "Law Minister Asaduzzaman said the system would ease the burden on bail recipients and their families."
-    },
-    {
-      "title": "Fakhrul set to become new president of Bangladesh on BNP nomination",
-      "link": "https://www.tbsnews.net/bangladesh/politics/bnp-picks-fakhrul-presidential-candidate-1513781",
-      "pubDate": "Thu, 13 Aug 2026 13:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/tarique-fakhrul-president-bnp.jpg",
-      "snippet": "The veteran politician's election as the country's 23rd president on 20 August is cemented as the ruling BNP and its allies hold the two-thirds majority of seats - 250 - in parliament."
-    },
-    {
-      "title": "Fraud Case: Actress Tanjin Tisha surrenders in court, secures bail",
-      "link": "https://www.tbsnews.net/bangladesh/court/fraud-case-actress-tanjin-tisha-surrenders-court-secures-bail-1513766",
-      "pubDate": "Thu, 13 Aug 2026 12:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/actress_tanjin_tisha.jpg",
-      "snippet": "A fashion promotion deal takes an unexpected turn as Tanjin Tisha faces fraud allegations."
-    },
-    {
-      "title": "Jamaat-led alliance submits Oli Ahmad's nomination papers for presidential polls",
-      "link": "https://www.tbsnews.net/bangladesh/politics/jamaat-led-alliance-submits-oli-ahmads-nomination-papers-presidential-election",
-      "pubDate": "Thu, 13 Aug 2026 12:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/772868788_1050506307726526_6696543522494210287_n.jpg",
-      "snippet": "Dr Shafiqur Rahman, Jamaat chief and leader of the opposition, signed as the proposer for Oli’s nomination, while NCP MP Abdullah Al Amin signed as the seconder."
-    },
-    {
-      "title": "Highest rainfall records in Cox's Bazar",
-      "link": "https://www.tbsnews.net/bangladesh/highest-rainfall-records-coxs-bazar-1513751",
-      "pubDate": "Thu, 13 Aug 2026 12:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/cox_bazar_rain.jpg",
-      "snippet": "Light to moderate rain and thunderstorms are likely across several divisions, with moderately heavy to heavy rainfall possible in parts of the country over the next 24 hours."
     },
     {
       "title": "Meta says it has taken down 756,000 Australian teen accounts as ban enforcement looms",
@@ -934,29 +967,7 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/37128c8b-52b6-4859-b657-d52ea2fe2ac8.jpg",
       "snippet": "More than 10 schools under the Jashore and Rajshahi boards recorded zero passes this year, exposing stark disparities hidden by district-level results."
-    },
-    {
-      "title": "AI could help lower-skill economies gain more, but adoption cost is key, says economist",
-      "link": "https://www.tbsnews.net/bangladesh/ai-could-help-lower-skill-economies-gain-more-adoption-cost-key-says-economist-1511511",
-      "pubDate": "Mon, 10 Aug 2026 18:35:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/22/artificial_intelligence.jpg",
-      "snippet": "As AI reduces the probability of failure, firms tend to deploy it where the potential returns are highest – typically at the weakest link in a production chain."
-    },
-    {
-      "title": "Egypt keen to invest in country's industrial sector",
-      "link": "https://www.tbsnews.net/economy/industry/egypt-keen-invest-countrys-industrial-sector-1511501",
-      "pubDate": "Mon, 10 Aug 2026 18:25:00 +0600",
-      "category": "Industry",
-      "color": "#f57c00",
-      "bg": "#fff3e0",
-      "icon": "🏭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/egypt_keen_to_invest_in_countrys_industrial_sector.png",
-      "snippet": "Muktadir calls for greater bilateral cooperation in industries, trade and investment with Egypt."
     }
   ],
-  "updatedAt": "2026-08-13T11:46:08.973Z"
+  "updatedAt": "2026-08-13T13:09:33.249Z"
 }
