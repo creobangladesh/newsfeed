@@ -1,6 +1,105 @@
 {
   "news": [
     {
+      "title": "Presidential election: BNP submits nomination paper for Mirza Fakhrul Islam ",
+      "link": "https://www.tbsnews.net/bangladesh/politics/presidential-election-bnp-submits-nomination-paper-mirza-fakhrul-islam-1513906",
+      "pubDate": "Thu, 13 Aug 2026 15:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/nomination.jpg",
+      "snippet": "A BNP delegation submitted the nomination paper to Chief Election Commissioner AMM Nasir Uddin, who is serving as the returning officer in the presidential election, at Nirbachan Bhaban in the city's Agargaon area at 2:24pm."
+    },
+    {
+      "title": "Meta, 29 states head to court in biggest test yet of youth social media litigation",
+      "link": "https://www.tbsnews.net/world/meta-29-states-head-court-biggest-test-yet-youth-social-media-litigation-1513891",
+      "pubDate": "Thu, 13 Aug 2026 14:30:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/31/meta.png",
+      "snippet": "29 states accuse Meta of designing Facebook and Instagram to keep children hooked and misusing their data in a case that could bring sweeping platform changes and massive damages."
+    },
+    {
+      "title": "Bangladesh to showcase 17 companies at Texworld Paris 2026",
+      "link": "https://www.tbsnews.net/economy/rmg/bangladesh-showcase-17-companies-texworld-paris-2026-1513861",
+      "pubDate": "Thu, 13 Aug 2026 14:20:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/apparel_industry.jpg",
+      "snippet": "The exhibition will bring together major sourcing markets, including Bangladesh, Pakistan, China, India, Turkiye, Myanmar, South Korea, Japan and Italy."
+    },
+    {
+      "title": "From academia to Bangabhaban: The life and political journey of Mirza Fakhrul Islam Alamgir",
+      "link": "https://www.tbsnews.net/bangladesh/politics/academia-bangabhaban-life-and-political-journey-mirza-fakhrul-islam-alamgir",
+      "pubDate": "Thu, 13 Aug 2026 14:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/01/fakhrul_at_may_day_rally.jpg",
+      "snippet": "Even though the Jamaat-led opposition bloc has nominated LDP Chairman Oli Ahmad as its presidential candidate, Mirza Fakhrul Islam Alamgir is all set to be elected the country's 23rd president as the ruling BNP holds a majority in parliament."
+    },
+    {
+      "title": "AP Moller-Maersk Q2 revenue jumps 20% to $15.8b, raises full-year guidance",
+      "link": "https://www.tbsnews.net/economy/ap-moller-maersk-q2-revenue-jumps-20-158b-raises-full-year-guidance-1513836",
+      "pubDate": "Thu, 13 Aug 2026 13:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/08/31/maersk.jpg",
+      "snippet": "The strong quarterly performance prompted the company to raise its full-year 2026 financial guidance."
+    },
+    {
+      "title": "Court issues arrest warrant against ex-UCB chairman in Tk25cr embezzlement case",
+      "link": "https://www.tbsnews.net/bangladesh/court-issues-arrest-warrant-against-ex-ucb-chairman-tk25cr-embezzlement-case-1513831",
+      "pubDate": "Thu, 13 Aug 2026 13:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/former_ucb_chairman_ma_sabur.jpg",
+      "snippet": "On 11 March, the court framed charges against the 36 accused."
+    },
+    {
+      "title": "Truck driver murder case: Charge hearing against Sheikh Hasina, 33 others set for 1 Sep",
+      "link": "https://www.tbsnews.net/bangladesh/court/truck-driver-murder-case-charge-hearing-against-sheikh-hasina-33-others-set-1-sep",
+      "pubDate": "Thu, 13 Aug 2026 13:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/769182385_1356408386104154_618624956904878114_n.jpg",
+      "snippet": "Judge Robiul Alam of Dhaka Special Judge Court-4 fixed the new date after a hearing this morning, said State lawyer Omar Faruk Faruki."
+    },
+    {
+      "title": "Person-to-person payments coming to Bangla QR; BB orders all apps to be ready by 31 Oct",
+      "link": "https://www.tbsnews.net/economy/banking/person-person-payments-coming-bangla-qr-bb-orders-all-apps-be-ready-31-oct-1513811",
+      "pubDate": "Thu, 13 Aug 2026 13:40:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/bangladesh-bank-bangla-qr.jpg",
+      "snippet": "The institutions have been asked to remain ready to launch the service from 1 November 2026."
+    },
+    {
+      "title": "Favourable weather, prices drive jute cultivation higher in Chuadanga",
+      "link": "https://www.tbsnews.net/agriculture/favourable-weather-prices-drive-jute-cultivation-higher-chuadanga-1513816",
+      "pubDate": "Thu, 13 Aug 2026 13:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/jute_cultivation_chuadanga.png",
+      "snippet": "Jute cultivation expands by 435 hectares in Chuadanga this season, with total production projected at 25,578 tonnes and sales estimated at around Tk220 crore."
+    },
+    {
       "title": "E-bail bond system expands to 12 more districts",
       "link": "https://www.tbsnews.net/bangladesh/e-bail-bond-system-expands-12-more-districts-1513801",
       "pubDate": "Thu, 13 Aug 2026 13:25:00 +0600",
@@ -12,15 +111,15 @@
       "snippet": "Law Minister Asaduzzaman said the system would ease the burden on bail recipients and their families."
     },
     {
-      "title": "BNP picks Fakhrul as presidential candidate ",
+      "title": "Fakhrul set to become new president of Bangladesh on BNP nomination",
       "link": "https://www.tbsnews.net/bangladesh/politics/bnp-picks-fakhrul-presidential-candidate-1513781",
       "pubDate": "Thu, 13 Aug 2026 13:00:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/01/fakhrul_at_may_day_rally.jpg",
-      "snippet": "The BNP has also announced Mirza Fakhrul Islam Alamgir's resignation from all party posts. His nomination has triggered discussions over who will succeed him as BNP secretary general and who will take charge of his ministry."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/tarique-fakhrul-president-bnp.jpg",
+      "snippet": "The veteran politician's election as the country's 23rd president on 20 August is cemented as the ruling BNP and its allies hold the two-thirds majority of seats - 250 - in parliament."
     },
     {
       "title": "Fraud Case: Actress Tanjin Tisha surrenders in court, secures bail",
@@ -166,70 +265,26 @@
       "snippet": "The DMTCL and the Planning Commission attributed the proposed increase mainly to higher-than-estimated bids received during the tendering process."
     },
     {
-      "title": "Dhaka's air quality remains moderate today",
-      "link": "https://www.tbsnews.net/bangladesh/dhakas-air-quality-remains-moderate-today-1513581",
-      "pubDate": "Thu, 13 Aug 2026 09:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/12/10/air_pollution_dhaka.jpg",
-      "snippet": "Uganda's Kampala topped the global pollution list with an AQI score of 196, followed by Kuching in the Malaysia with 187 and Lahore in Pakistan with 179"
-    },
-    {
       "title": "Govt plans to shift fiscal year from July-June to April-March",
       "link": "https://www.tbsnews.net/bangladesh/govt-plans-shift-fiscal-year-july-june-april-march-1513576",
       "pubDate": "Thu, 13 Aug 2026 09:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/fea_0.png",
       "snippet": "The Budget Wing of the finance ministry is now reviewing what changes would be needed to laws related to the fiscal year, the budget-making process, the tax system, government accounting, and the implementation of development projects."
-    },
-    {
-      "title": "Preparing for 4th Mutual Evaluation: APG team in Dhaka to assess money laundering, terror financing efforts",
-      "link": "https://www.tbsnews.net/bangladesh/preparing-4th-mutual-evaluation-apg-team-dhaka-assess-money-laundering-terror-financing",
-      "pubDate": "Thu, 13 Aug 2026 01:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/01/13/apg_logo.jpg",
-      "snippet": "The delegation held a meeting with Finance Minister Amir Khosru Mahmud Chowdhury today, attended by officials of the Bangladesh Financial Intelligence Unit (BFIU)."
-    },
-    {
-      "title": "Woman dies nine days after being burned in Barishal bomb blast",
-      "link": "https://www.tbsnews.net/bangladesh/woman-dies-nine-days-after-being-burned-barishal-bomb-blast-1513526",
-      "pubDate": "Thu, 13 Aug 2026 00:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/dead_body.jpg",
-      "snippet": "Hanufa Begum, who sustained 40% burn injuries in the explosion at a house in Bakerganj on 3 August."
     },
     {
       "title": "Chinese language learning gains importance at CIU amid rising investment, demand for skilled workforce",
       "link": "https://www.tbsnews.net/bangladesh/education/chinese-language-learning-gains-importance-ciu-amid-rising-investment-demand",
       "pubDate": "Thu, 13 Aug 2026 00:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/chittagong_independent_university.jpeg",
       "snippet": "Chittagong Independent University (CIU) has, for the first time, awarded certificates to students who completed Chinese language courses at its Confucius Institute Chinese Language Teaching Site."
-    },
-    {
-      "title": "Gas supply collapse triggers widespread power outages, CNG queues",
-      "link": "https://www.tbsnews.net/bangladesh/energy/gas-supply-collapse-triggers-widespread-power-outages-cng-queues-1513506",
-      "pubDate": "Wed, 12 Aug 2026 23:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/gas_crisis.jpg.jpeg",
-      "snippet": "Rural electricity officials in many areas seek police protection amid public anger."
     },
     {
       "title": "BB terminates Chief Economist Akhtar’s contract early",
@@ -1011,40 +1066,7 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/769838765_1346887494308459_5713235104749675688_n.jpg",
       "snippet": "A total of 130,682 students registered for the SSC examination under the Chattogram board, of whom 130,219 appeared and 77,453 passed."
-    },
-    {
-      "title": "You can sing your heart out, but you can't just give away marks: Education minister",
-      "link": "https://www.tbsnews.net/bangladesh/education/you-can-sing-your-heart-out-you-cant-just-give-away-marks-education-minister",
-      "pubDate": "Mon, 10 Aug 2026 14:40:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/08/untitled_design_15.jpg",
-      "snippet": "Education Minister ANM Ehsanul Hoque Milon said the results were satisfactory this year."
-    },
-    {
-      "title": "Obesity 'bigger cancer risk' than previously thought: Study",
-      "link": "https://www.tbsnews.net/bangladesh/health/obesity-bigger-cancer-risk-previously-thought-study-1511161",
-      "pubDate": "Mon, 10 Aug 2026 14:10:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/08/27/obesity.jpg",
-      "snippet": "Being overweight or obese significantly increases the risk of developing colon cancer, breast cancer or liver cancer, and is a major risk factor for 10 other types of cancer, a new study has found"
-    },
-    {
-      "title": "As AI takes over, vintage computer collecting gains popularity",
-      "link": "https://www.tbsnews.net/tech/ai-takes-over-vintage-computer-collecting-gains-popularity-1511146",
-      "pubDate": "Mon, 10 Aug 2026 13:45:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/super_pet_computer_.png",
-      "snippet": "Software engineer Josh Dersch is one of them. He spends hours in his garage trying to bring decades-old machines back to life and estimates that he has more than 200 vintage computers and related devices at his home in Seattle."
     }
   ],
-  "updatedAt": "2026-08-13T07:41:48.552Z"
+  "updatedAt": "2026-08-13T09:11:55.773Z"
 }
