@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Law enforcers step up surveillance after UN warns of Al-Qaeda cell attempts in Bangladesh",
+      "link": "https://www.tbsnews.net/bangladesh/law-enforcers-step-surveillance-after-un-warns-al-qaeda-cell-attempts-bangladesh-1514686",
+      "pubDate": "Fri, 14 Aug 2026 01:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/07/police.jpeg",
+      "snippet": "Police are reviewing possible links between concerns raised in a recent UN report and individuals or networks already under surveillance."
+    },
+    {
+      "title": "Eid-e-Miladunnabi on 26 August",
+      "link": "https://www.tbsnews.net/bangladesh/eid-e-miladunnabi-26-august-1514681",
+      "pubDate": "Fri, 14 Aug 2026 00:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/12/eid_e_milad1.jpg",
+      "snippet": "The day is a public holiday in Bangladesh."
+    },
+    {
       "title": "53 activists of AL, affiliated organisations arrested in Bashundhara",
       "link": "https://www.tbsnews.net/bangladesh/53-activists-al-affiliated-organisations-arrested-bashundhara-1514676",
       "pubDate": "Fri, 14 Aug 2026 00:10:00 +0600",
@@ -144,17 +166,6 @@
       "snippet": "Mosleh Uddin Ahmed calls for stronger intelligence surveillance and patrols in mugging-prone areas, while ordering officers to inspect crime scenes in every case."
     },
     {
-      "title": "RAB strengthens nationwide security ahead of 15 Aug",
-      "link": "https://www.tbsnews.net/bangladesh/rab-strengthens-nationwide-security-ahead-15-aug-1514531",
-      "pubDate": "Thu, 13 Aug 2026 20:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/rab_logo.jpg",
-      "snippet": "The RAB will conduct operations under its own command while maintaining coordination, where required, with the local administration, other law-enforcement agencies and intelligence organizations, the release added."
-    },
-    {
       "title": "DU forms committee to investigate 'secret activities' of some teachers",
       "link": "https://www.tbsnews.net/bangladesh/du-forms-committee-investigate-secret-activities-some-teachers-1514526",
       "pubDate": "Thu, 13 Aug 2026 20:30:00 +0600",
@@ -164,6 +175,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/16/image.png",
       "snippet": "Professor Dr Abdus Salam, Pro-Vice-Chancellor (Education), has been appointed convener of the committee."
+    },
+    {
+      "title": "RAB strengthens nationwide security ahead of 15 Aug",
+      "link": "https://www.tbsnews.net/bangladesh/rab-strengthens-nationwide-security-ahead-15-aug-1514531",
+      "pubDate": "Thu, 13 Aug 2026 20:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/rab_logo.jpg",
+      "snippet": "The RAB will conduct operations under its own command while maintaining coordination, where required, with the local administration, other law-enforcement agencies and intelligence organizations, the release added."
     },
     {
       "title": "'Neo-JMB member' Arif placed on 6-day remand over sabotage attempt in Savar",
@@ -197,28 +219,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/bnp_meeting_with_rajshahi_leaders.jpeg",
       "snippet": "The meeting was held at the BNP chairman’s office in Gulshan"
-    },
-    {
-      "title": "ADB Vice-President Yingming Yang concludes Bangladesh visit",
-      "link": "https://www.tbsnews.net/bangladesh/adb-vice-president-yingming-yang-concludes-bangladesh-visit-1514451",
-      "pubDate": "Thu, 13 Aug 2026 19:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/adb_vice-president_yingming_yang.png",
-      "snippet": "Amidst Bangladesh visit, Yang talks centered on the next Country Partnership Strategy, economic reforms, private investment, and the government-led Integrated Growth Network Development initiative."
-    },
-    {
-      "title": "Home minister calls for zero tolerance against drugs, gambling",
-      "link": "https://www.tbsnews.net/bangladesh/home-minister-calls-zero-tolerance-against-drugs-gambling-1514426",
-      "pubDate": "Thu, 13 Aug 2026 19:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/salahuddin.jpg",
-      "snippet": "Salahuddin says enforcement alone will not be enough, calling for greater public awareness and coordination among agencies to tackle the two problems."
     },
     {
       "title": "Rising debt, fiscal gaps weigh on Bangladesh economy despite easing inflation: BB",
@@ -364,7 +364,7 @@
       "snippet": "The strong quarterly performance prompted the company to raise its full-year 2026 financial guidance."
     },
     {
-      "title": "Person-to-person payments coming to Bangla QR; BB orders all apps to be ready by 31 Oct",
+      "title": "P2P payments coming to Bangla QR, BB asks all to ready apps by 31 Oct",
       "link": "https://www.tbsnews.net/economy/banking/person-person-payments-coming-bangla-qr-bb-orders-all-apps-be-ready-31-oct-1513811",
       "pubDate": "Thu, 13 Aug 2026 13:40:00 +0600",
       "category": "Economy",
@@ -372,7 +372,7 @@
       "bg": "#e8f5e9",
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/bangladesh-bank-bangla-qr.jpg",
-      "snippet": "The institutions have been asked to remain ready to launch the service from 1 November 2026."
+      "snippet": "Banks and payment service providers must integrate the feature into their mobile apps ahead of its 1 November rollout."
     },
     {
       "title": "Meta says it has taken down 756,000 Australian teen accounts as ban enforcement looms",
@@ -936,5 +936,5 @@
       "snippet": "Exporters say they are now seeking a share of the refunds or, at the very least, some form of compensation through their continued business relationships with US buyers"
     }
   ],
-  "updatedAt": "2026-08-13T18:26:48.704Z"
+  "updatedAt": "2026-08-13T19:35:02.407Z"
 }
