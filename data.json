@@ -1,6 +1,72 @@
 {
   "news": [
     {
+      "title": "Measles outbreak: Death toll reaches 894 as 4 more die",
+      "link": "https://www.tbsnews.net/bangladesh/health/measles-outbreak-death-toll-reaches-894-4-more-die-1514886",
+      "pubDate": "Fri, 14 Aug 2026 15:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/measlessssssss.jpeg",
+      "snippet": "The number of suspected measles deaths rose to 795, while the number of laboratory-confirmed measles deaths reached 99."
+    },
+    {
+      "title": "BNP announces nationwide prayer programmes for Khaleda Zia's 81st birth anniversary ",
+      "link": "https://www.tbsnews.net/bangladesh/politics/bnp-hold-doa-milad-saturday-mark-khaleda-zias-81st-birth-anniversary-1514891",
+      "pubDate": "Fri, 14 Aug 2026 15:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/01/02/khaleda_zia.jpg",
+      "snippet": "The party urged its leaders and activists and those of its affiliated organisations to observe the programme with due respect."
+    },
+    {
+      "title": "New JCD committee coming soon; outgoing president, secretary bid farewell",
+      "link": "https://www.tbsnews.net/bangladesh/politics/new-jcd-committee-coming-soon-outgoing-president-secretary-bid-farewell-1514881",
+      "pubDate": "Fri, 14 Aug 2026 15:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/09/23/jatiyatabadi_chhatra_dal-jcd-logo.jpg",
+      "snippet": "In his post, Rakib expressed gratitude to Almighty Allah, saying the best chapter of his life is coming to an end in a highly respectful and cordial environment."
+    },
+    {
+      "title": "7 ASPs, 49 inspectors sent into mandatory retirement",
+      "link": "https://www.tbsnews.net/bangladesh/7-asps-49-inspectors-sent-mandatory-retirement-1514871",
+      "pubDate": "Fri, 14 Aug 2026 15:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/28/1a100ef7-3cb0-4195-bd40-300e0e8e87d2.jpg",
+      "snippet": "The decision was announced in two separate notifications issued by the Police-1 and Police-2 branches of the Ministry of Home Affairs yesterday (13 August)."
+    },
+    {
+      "title": "Satkhira DC faces allegations of misbehaviour, harassment of journalists ",
+      "link": "https://www.tbsnews.net/bangladesh/satkhira-dc-faces-allegations-misbehaviour-harassment-journalists-1514876",
+      "pubDate": "Fri, 14 Aug 2026 15:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/satkhira_dc.jpg",
+      "snippet": "Satkhira Press Club holds an emergency meeting, condemning DC Kawsar Aziz over alleged non-cooperation and abusive behaviour towards journalists."
+    },
+    {
+      "title": "500 more beds for Neurosciences Hospital, PM likely to open building",
+      "link": "https://www.tbsnews.net/bangladesh/health/500-more-beds-neurosciences-hospital-pm-likely-open-building-1514866",
+      "pubDate": "Fri, 14 Aug 2026 14:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/07/img_7174.jpeg",
+      "snippet": "Prime Minister Tarique Rahman is expected to inaugurate the new building at 10am tomorrow"
+    },
+    {
       "title": "Summit LNG terminal shuts amid rough seas, deepening gas crisis",
       "link": "https://www.tbsnews.net/bangladesh/energy/summit-lng-terminal-shuts-amid-rough-seas-deepening-gas-crisis-1514861",
       "pubDate": "Fri, 14 Aug 2026 14:20:00 +0600",
@@ -78,7 +144,7 @@
       "snippet": "\"Cooperation from industrial owners is crucial to free the rivers around Dhaka from pollution. Effluent Treatment Plants (ETPs) must be installed to prevent polluted factory water from entering canals or rivers,\" he said."
     },
     {
-      "title": "Death toll rises to 9 after gas leak at Sitakunda shipbreaking yard",
+      "title": "Death toll rises to 9 after gas leak at Ctg shipbreaking yard",
       "link": "https://www.tbsnews.net/bangladesh/toxic-gas-leak-sitakunda-shipbreaking-yard-kills-least-3-workers-1514801",
       "pubDate": "Fri, 14 Aug 2026 11:50:00 +0600",
       "category": "Bangladesh",
@@ -86,7 +152,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/770738158_1652816179600244_633702941068917811_n_1.jpg",
-      "snippet": "Fire service officials said the accident may have been caused by a leakage of carbon monoxide gas."
+      "snippet": "Army troops were deployed in the afternoon to bring the situation under control as locals had grown agitated following the deaths of the nine workers."
     },
     {
       "title": "Construction material emissions need focus in low-carbon buildings: Experts",
@@ -197,72 +263,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/12/eid_e_milad1.jpg",
       "snippet": "The day is a public holiday in Bangladesh."
-    },
-    {
-      "title": "53 activists of AL, affiliated organisations arrested in Bashundhara",
-      "link": "https://www.tbsnews.net/bangladesh/53-activists-al-affiliated-organisations-arrested-bashundhara-1514676",
-      "pubDate": "Fri, 14 Aug 2026 00:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/12/23/arrest-tbs.jpg",
-      "snippet": "According to police, the 53 arrestees were meeting to plan August 15 observance programmes and flash processions across Dhaka."
-    },
-    {
-      "title": "Jhalkathi, Rajshahi get new police superintendents",
-      "link": "https://www.tbsnews.net/bangladesh/jhalkathi-rajshahi-get-new-police-superintendents-1514616",
-      "pubDate": "Thu, 13 Aug 2026 21:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/25/police_logo_new_bss.jpg",
-      "snippet": "Merin Sultan and Md Mamun-ur-Rashid have been appointed as SPs of Jhalkathi and Rajshahi, respectively."
-    },
-    {
-      "title": "Morgan Stanley ends 3-year pause on Bangladesh index reviews, to resume in Nov",
-      "link": "https://www.tbsnews.net/economy/stocks/morgan-stanley-ends-3-year-pause-bangladesh-index-reviews-resume-nov-1514621",
-      "pubDate": "Thu, 13 Aug 2026 21:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/morgan_stanley.jpg",
-      "snippet": "The global index provider says regular reviews of the MSCI Bangladesh Index and corporate event implementation will resume from November 2026 after more than three years."
-    },
-    {
-      "title": "UN warns of Al-Qaeda attempts to establish cells in Bangladesh",
-      "link": "https://www.tbsnews.net/bangladesh/un-warns-al-qaeda-attempts-establish-cells-bangladesh-1514631",
-      "pubDate": "Thu, 13 Aug 2026 21:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/08/15/flag_of_the_united_nations.svg_.png",
-      "snippet": "The concern was highlighted in the 38th report of the UN Security Council’s Analytical Support and Sanctions Monitoring Team."
-    },
-    {
-      "title": "Experts urge long-term solution to energy crisis",
-      "link": "https://www.tbsnews.net/bangladesh/energy/experts-urge-long-term-solution-energy-crisis-1514606",
-      "pubDate": "Thu, 13 Aug 2026 21:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/cpd_event_1.jpg",
-      "snippet": "Industries report 35-40% output decline."
-    },
-    {
-      "title": "BSEC eases mutual fund custodian rules for foreign banks",
-      "link": "https://www.tbsnews.net/economy/stocks/bsec-eases-mutual-fund-custodian-rules-foreign-banks-1514581",
-      "pubDate": "Thu, 13 Aug 2026 21:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/bsec.jpg",
-      "snippet": "The move allows foreign-owned banks without local boards to authorise mutual fund account signatories through their management committees."
     },
     {
       "title": "Govt plans bigger community role in primary schools: Bobby Hajjaj",
@@ -868,51 +868,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/whatsapp_image_2026-08-11_at_2.47.29_pm.jpeg",
       "snippet": "According to speakers, non-communicable diseases account for 71% of all deaths in Bangladesh, with 19% occurring prematurely."
-    },
-    {
-      "title": "The culture before the crime: How social norms enable sexual violence",
-      "link": "https://www.tbsnews.net/thoughts/culture-crime-how-social-norms-enable-sexual-violence-1512166",
-      "pubDate": "Tue, 11 Aug 2026 16:00:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/08/08/imgi_72_violence_tbs.jpg",
-      "snippet": "Rising reports of sexual violence in Bangladesh point to deeper problems of gender inequality, social silence and weak institutional accountability. Preventing such violence requires changing the norms that enable it, not simply punishing perpetrator..."
-    },
-    {
-      "title": "Turning waste into power in Bangladesh: Why ambition outpaces readiness",
-      "link": "https://www.tbsnews.net/thoughts/turning-waste-power-bangladesh-why-ambition-outpaces-readiness-1512136",
-      "pubDate": "Tue, 11 Aug 2026 15:55:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/aminbazar_landfill_11.jpg",
-      "snippet": "Bangladesh's growing urban waste problem presents an opportunity to generate electricity, but waste-to-energy projects cannot succeed without better waste management, segregation and institutional capacity"
-    },
-    {
-      "title": "The decline of the US dollar and the rise of cryptocurrency: A strategic roadmap for Bangladesh",
-      "link": "https://www.tbsnews.net/thoughts/decline-us-dollar-and-rise-cryptocurrency-strategic-roadmap-bangladesh-1512056",
-      "pubDate": "Tue, 11 Aug 2026 15:00:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/08/11/cryptocurrency_crypto.jpg",
-      "snippet": "As the global financial system shifts away from dollar dominance and digital assets gain institutional acceptance, Bangladesh faces a choice: maintain its blanket crypto ban or cautiously embrace regulated digital assets, CBDCs and blockchain-based f..."
-    },
-    {
-      "title": "Cadet colleges record 100% pass rate, 98.22% GPA-5 rate in SSC 2026",
-      "link": "https://www.tbsnews.net/bangladesh/cadet-colleges-record-100-pass-rate-9822-gpa-5-rate-ssc-2026-1512061",
-      "pubDate": "Tue, 11 Aug 2026 14:45:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/untitled_design_4.png",
-      "snippet": "The source attributed the cadets’ consistent success to the institutions’ disciplined environment, continuous care and supervision by experienced faculty members, as well as the cadets’ perseverance, regular studies and sincere efforts."
     }
   ],
-  "updatedAt": "2026-08-14T08:45:07.917Z"
+  "updatedAt": "2026-08-14T10:01:31.361Z"
 }
