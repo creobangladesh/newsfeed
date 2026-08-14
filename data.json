@@ -1,6 +1,61 @@
 {
   "news": [
     {
+      "title": "Construction material emissions need focus in low-carbon buildings: Experts",
+      "link": "https://www.tbsnews.net/bangladesh/construction-material-emissions-need-focus-low-carbon-buildings-experts-1514796",
+      "pubDate": "Fri, 14 Aug 2026 11:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/construction_material_emissions_need_focus_in_low-carbon.jpeg",
+      "snippet": "Cutting buildings’ electricity use alone is not enough; embodied carbon from construction materials must also be addressed, say experts at IEB seminar."
+    },
+    {
+      "title": "Apple trains its own AI model for China market with Alibaba's support, sources say",
+      "link": "https://www.tbsnews.net/tech/apple-trains-its-own-ai-model-china-market-alibabas-support-sources-say-1514791",
+      "pubDate": "Fri, 14 Aug 2026 11:20:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/7jdbtn54rvoxxjljute5wqjmfe.jpg",
+      "snippet": "Apple has a special two-step plan for AI in China."
+    },
+    {
+      "title": "53 AL men arrested in Dhaka: DMP",
+      "link": "https://www.tbsnews.net/bangladesh/53-al-men-arrested-dhaka-dmp-1514786",
+      "pubDate": "Fri, 14 Aug 2026 11:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/img_9075.jpeg",
+      "snippet": "They were arrested from a flat in Bashundhara Residential Area around 9:05pm yesterday (13 August), said Additional Deputy Commissioner (Media) Niaz Mehedi of the Dhaka Metropolitan Police (DMP)."
+    },
+    {
+      "title": "New study sheds light on breast cancer treatment resistance",
+      "link": "https://www.tbsnews.net/bangladesh/health/new-study-sheds-light-breast-cancer-treatment-resistance-1514781",
+      "pubDate": "Fri, 14 Aug 2026 11:15:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/breast_cancer.jpg",
+      "snippet": "The study, published in Nature, found that the retinoblastoma (Rb) protein, long viewed as a natural brake on cancer growth, can unexpectedly activate genes that respond to the hormone estrogen."
+    },
+    {
+      "title": "Trishal UNO withdrawn after alleged assault on sand quarry employee",
+      "link": "https://www.tbsnews.net/bangladesh/trishal-uno-withdrawn-after-alleged-assault-sand-quarry-employee-1514766",
+      "pubDate": "Fri, 14 Aug 2026 10:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/3b9856901a9068e9e9cd0b5ada9090d4.jpg",
+      "snippet": "A short video shows the UNO slapping a man twice and hitting him with a stick."
+    },
+    {
       "title": "Youth shot in DB firing during alleged robbery preparation in Badda",
       "link": "https://www.tbsnews.net/bangladesh/crime/youth-shot-db-firing-during-alleged-robbery-preparation-badda-1514741",
       "pubDate": "Fri, 14 Aug 2026 10:05:00 +0600",
@@ -111,17 +166,6 @@
       "snippet": "Industries report 35-40% output decline."
     },
     {
-      "title": "Enforced three-minute toilet breaks, electric shocks: Enforced disappearance victim recounts torture at TFI cell",
-      "link": "https://www.tbsnews.net/bangladesh/crime/enforced-three-minute-toilet-breaks-electric-shocks-enforced-disappearance-victim",
-      "pubDate": "Thu, 13 Aug 2026 21:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/01/20/secret_detention.jpg",
-      "snippet": "Ashik testified as a prosecution witness in the crimes-against-humanity case over enforced disappearances at the TFI cell against former prime minister Sheikh Hasina and 16 others, including current and former military officers."
-    },
-    {
       "title": "BSEC eases mutual fund custodian rules for foreign banks",
       "link": "https://www.tbsnews.net/economy/stocks/bsec-eases-mutual-fund-custodian-rules-foreign-banks-1514581",
       "pubDate": "Thu, 13 Aug 2026 21:35:00 +0600",
@@ -142,6 +186,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/climate.png",
       "snippet": "Ten concept notes received recognition, with three receiving Diamond, three Gold and four Silver status."
+    },
+    {
+      "title": "Enforced three-minute toilet breaks, electric shocks: Enforced disappearance victim recounts torture at TFI cell",
+      "link": "https://www.tbsnews.net/bangladesh/crime/enforced-three-minute-toilet-breaks-electric-shocks-enforced-disappearance-victim",
+      "pubDate": "Thu, 13 Aug 2026 21:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/01/20/secret_detention.jpg",
+      "snippet": "Ashik testified as a prosecution witness in the crimes-against-humanity case over enforced disappearances at the TFI cell against former prime minister Sheikh Hasina and 16 others, including current and former military officers."
     },
     {
       "title": "Govt plans bigger community role in primary schools: Bobby Hajjaj",
@@ -208,39 +263,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/16/image.png",
       "snippet": "Professor Dr Abdus Salam, Pro-Vice-Chancellor (Education), has been appointed convener of the committee."
-    },
-    {
-      "title": "RAB strengthens nationwide security ahead of 15 Aug",
-      "link": "https://www.tbsnews.net/bangladesh/rab-strengthens-nationwide-security-ahead-15-aug-1514531",
-      "pubDate": "Thu, 13 Aug 2026 20:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/rab_logo.jpg",
-      "snippet": "The RAB will conduct operations under its own command while maintaining coordination, where required, with the local administration, other law-enforcement agencies and intelligence organizations, the release added."
-    },
-    {
-      "title": "'Neo-JMB member' Arif placed on 6-day remand over sabotage attempt in Savar",
-      "link": "https://www.tbsnews.net/bangladesh/court/neo-jmb-member-arif-placed-6-day-remand-over-sabotage-attempt-savar-1514501",
-      "pubDate": "Thu, 13 Aug 2026 20:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/arif_remanded2.jpg",
-      "snippet": "Police says the 26-year-old was planning acts of sabotage, and explosives and bomb-making materials were recovered during raids in Savar."
-    },
-    {
-      "title": "Writ challenges Article 70 of Constitution, seeks stay on presidential election",
-      "link": "https://www.tbsnews.net/bangladesh/court/writ-challenges-article-70-constitution-seeks-stay-presidential-election-1514496",
-      "pubDate": "Thu, 13 Aug 2026 20:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/10/18/hc.jpg",
-      "snippet": "The writ challenges the legality of the schedule announced by the Election Commission for the presidential election."
     },
     {
       "title": "Rising debt, fiscal gaps weigh on Bangladesh economy despite easing inflation: BB",
@@ -923,29 +945,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/24/freedom-of-speech.png",
       "snippet": "Freedom of expression rarely disappears with a loud knock on the door. More often, it leaves quietly: one sentence softened, one slide removed, one film cut, one meeting moved, one face redrawn until it belongs to no one."
-    },
-    {
-      "title": "Govt to bear costs as treatment of conjoined twins begins at DMCH",
-      "link": "https://www.tbsnews.net/bangladesh/health/govt-bear-treatment-costs-conjoined-twins-treatment-begins-1511841",
-      "pubDate": "Tue, 11 Aug 2026 11:05:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/59228.jpg",
-      "snippet": "Earlier, following Prime Minister Tarique Rahman’s instructions, Health Minister Sakhawat Hossain advised that the babies be admitted to Dhaka Medical College Hospital."
-    },
-    {
-      "title": "Saudi Arabia looks for post-US security with Pakistan, Türkiye ",
-      "link": "https://www.tbsnews.net/features/panorama/saudi-arabia-looks-post-us-security-pakistan-turkiye-1511816",
-      "pubDate": "Tue, 11 Aug 2026 10:20:00 +0600",
-      "category": "Analysis",
-      "color": "#5d4037",
-      "bg": "#efebe9",
-      "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/photo_reuters.png",
-      "snippet": "The combination of financial and military muscle and strategic depth offered by the geography of the three nations will not amount to much unless the alliance is solidified by clear political goals and military commitment"
     }
   ],
-  "updatedAt": "2026-08-14T04:09:24.016Z"
+  "updatedAt": "2026-08-14T05:55:46.468Z"
 }
