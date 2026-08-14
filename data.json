@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Man freed after serving 52 days in prison for another's death sentence",
+      "link": "https://www.tbsnews.net/bangladesh/man-freed-after-serving-52-days-prison-anothers-death-sentence-1515191",
+      "pubDate": "Sat, 15 Aug 2026 01:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/p5_man_freed.jpeg",
+      "snippet": "The case dates back to 2 March 2020, when Cox’s Bazar DB police arrested five people with 190,000 yaba tablets."
+    },
+    {
       "title": "Sheikh Mujib's 51st death anniversary today",
       "link": "https://www.tbsnews.net/bangladesh/sheikh-mujibs-51st-death-anniversary-today-1515186",
       "pubDate": "Sat, 15 Aug 2026 00:30:00 +0600",
@@ -173,7 +184,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/08/13/dmp-logo-tbs.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/p2_15_aug_jump_rd_9992.jpeg",
       "snippet": "Police have already reported the arrest of 53 people in Dhaka’s Vatara area over alleged preparations for a gathering involving members of the banned organisation."
     },
     {
@@ -230,17 +241,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/aminul_pid_img.jpg",
       "snippet": "Aminul said the government is taking steps to ensure that young people can secure livelihoods after completing their studies by promoting technical education, practical skills and self-employment."
-    },
-    {
-      "title": "Gas shortage forces closure of all Brahmanbaria filling stations, autorickshaw fares surge",
-      "link": "https://www.tbsnews.net/bangladesh/gas-shortage-forces-closure-all-brahmanbaria-filling-stations-autorickshaw-fares-surge",
-      "pubDate": "Fri, 14 Aug 2026 16:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/cng_1.jpg",
-      "snippet": "Bakhrabad Gas reduced its supply on Wednesday. On Thursday night, it cut off the gas completely. This forced the gas stations to close."
     },
     {
       "title": "Measles outbreak: Death toll reaches 894 as 4 more die",
@@ -738,5 +738,5 @@
       "snippet": "The average pass rate across the 11 education boards in this year’s SSC and equivalent examinations was 62.25%, the lowest in 19 years since the 57.37% recorded in 2007. The pass rate stood at 88.29% in 2016, meaning it has fallen by 26.04 percentage..."
     }
   ],
-  "updatedAt": "2026-08-14T18:53:36.861Z"
+  "updatedAt": "2026-08-14T19:48:07.684Z"
 }
