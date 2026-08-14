@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Garment workers demand reconstitution of minimum wage board",
+      "link": "https://www.tbsnews.net/bangladesh/garment-workers-demand-reconstitution-minimum-wage-board-1515131",
+      "pubDate": "Fri, 14 Aug 2026 21:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/img_0894.jpeg",
+      "snippet": "The leaders said the current wages of garment workers were wholly inadequate to meet their basic living costs."
+    },
+    {
+      "title": "India again invites Tarique Rahman for bilateral visit, BRICS Outreach session",
+      "link": "https://www.tbsnews.net/foreign-policy/india-again-invites-tarique-rahman-bilateral-visit-brics-outreach-session-1515116",
+      "pubDate": "Fri, 14 Aug 2026 20:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/randhir_jaiswal_.jpg",
+      "snippet": "The 18th BRICS Summit is scheduled for 12-13 September, with an Outreach session involving invited non-BRICS countries and organisations."
+    },
+    {
       "title": "How sustainable is sustainability? ",
       "link": "https://www.tbsnews.net/thoughts/how-sustainable-sustainability-1515111",
       "pubDate": "Fri, 14 Aug 2026 20:45:00 +0600",
@@ -188,17 +210,6 @@
       "snippet": "Prime Minister Tarique Rahman is expected to inaugurate the new building at 10am tomorrow"
     },
     {
-      "title": "Summit LNG terminal shuts amid rough seas, deepening gas crisis",
-      "link": "https://www.tbsnews.net/bangladesh/energy/summit-lng-terminal-shuts-amid-rough-seas-deepening-gas-crisis-1514861",
-      "pubDate": "Fri, 14 Aug 2026 14:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/06/reuters_lng.jpg",
-      "snippet": "As a result, gas supply to the national grid has fallen to around 190 crore cubic feet a day against demand of around 380 crore cubic feet."
-    },
-    {
       "title": "Ctg gas crisis triggers road blockade, Sholashahar traffic halted for 5 hours",
       "link": "https://www.tbsnews.net/bangladesh/ctg-gas-crisis-triggers-road-blockade-sholashahar-traffic-halted-5-hours-1514856",
       "pubDate": "Fri, 14 Aug 2026 13:10:00 +0600",
@@ -235,10 +246,10 @@
       "title": "2 more children die in Sylhet with measles symptoms, death toll rises to 133",
       "link": "https://www.tbsnews.net/bangladesh/health/2-more-children-die-sylhet-measles-symptoms-death-toll-rises-133-1514831",
       "pubDate": "Fri, 14 Aug 2026 12:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/11/measles_tbs.jpeg",
       "snippet": "The Directorate General of Health Services also reported 28 new confirmed measles cases in the past 24 hours"
     },
@@ -714,29 +725,7 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/organization/logo/dhaka_university_logo_0.png",
       "snippet": "Four batches say removing Prof Mohammad Bahauddin mid-semester could disrupt classes, examinations and assessment, while the department recommends keeping the decision on hold until October."
-    },
-    {
-      "title": "Nvidia partners with Wall Street giants to raise $500bn for AI buildout",
-      "link": "https://www.tbsnews.net/world/nvidia-partners-wall-street-giants-raise-500bn-ai-buildout-1512571",
-      "pubDate": "Tue, 11 Aug 2026 21:35:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/nvidia.png",
-      "snippet": "Nvidia has teamed up with six major financial institutions to create financing platforms aimed at mobilising more than $500 billion in capital for AI computing infrastructure."
-    },
-    {
-      "title": "DU's concrete-choked trees expose Bangladesh's defunct urban climate governance",
-      "link": "https://www.tbsnews.net/thoughts/dus-concrete-choked-trees-expose-bangladeshs-defunct-urban-climate-governance-1512556",
-      "pubDate": "Tue, 11 Aug 2026 21:10:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/du_fallen_tree.jpg",
-      "snippet": "It fell without even strong winds to push it over. According to media report, Professor Jashim Uddin, director of the university's Arboriculture Centre, diagnosed the structural failure."
     }
   ],
-  "updatedAt": "2026-08-14T14:51:27.116Z"
+  "updatedAt": "2026-08-14T15:51:38.542Z"
 }
