@@ -1,6 +1,72 @@
 {
   "news": [
     {
+      "title": "How sustainable is sustainability? ",
+      "link": "https://www.tbsnews.net/thoughts/how-sustainable-sustainability-1515111",
+      "pubDate": "Fri, 14 Aug 2026 20:45:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/illustration-for-thoughts.jpg",
+      "snippet": "The question may sound simple, but it opens up a much deeper debate about the relationship between the economy, the environment, development, human wellbeing and future generations. Ultimately, what exactly are we trying to sustain?"
+    },
+    {
+      "title": "Sandhya Ain: The debate over Dhaka University's female hall curfew",
+      "link": "https://www.tbsnews.net/features/panorama/sandhya-ain-debate-over-dhaka-universitys-female-hall-curfew-1515096",
+      "pubDate": "Fri, 14 Aug 2026 20:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/selcted_760261566_122101112234338901_3001010762300721440_n_0.jpg",
+      "snippet": "Dhaka University’s hall curfews have come to the fore as more than just a question of access. They reflect a deeper debate over bureaucratic discrimination against women that restricts their movement while leaving safety unaddressed"
+    },
+    {
+      "title": "India's space sector: A launchpad for global partnerships",
+      "link": "https://www.tbsnews.net/thoughts/indias-space-sector-launchpad-global-partnerships-1515106",
+      "pubDate": "Fri, 14 Aug 2026 20:40:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/aazhwtjclnlefixgzxctfnm32m.jpg",
+      "snippet": "Recognised as a trustworthy and cost-effective spacefaring nation, India is now well placed to transform its technological advances into enduring international partnerships"
+    },
+    {
+      "title": "Biker groups: Friendship, travel and Bangladesh's shifting motorcycle culture ",
+      "link": "https://www.tbsnews.net/features/panorama/biker-groups-friendship-travel-and-bangladeshs-shifting-motorcycle-culture-1515091",
+      "pubDate": "Fri, 14 Aug 2026 20:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/vespa_mumitm-5961_1.jpg",
+      "snippet": "Riding groups across Bangladesh are using motorcycles as a way to reconnect with old passions, organise charity and heritage events, support women riders and promote safer behaviour on increasingly dangerous roads"
+    },
+    {
+      "title": "DMP steps up security, intelligence surveillance ahead of 15 August",
+      "link": "https://www.tbsnews.net/bangladesh/dmp-steps-security-intelligence-surveillance-ahead-15-august-1515076",
+      "pubDate": "Fri, 14 Aug 2026 19:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/08/13/dmp-logo-tbs.jpg",
+      "snippet": "Police have already reported the arrest of 53 people in Dhaka’s Vatara area over alleged preparations for a gathering involving members of the banned organisation."
+    },
+    {
+      "title": "Ship breakers association launches probe into Sitakunda's Ferdous Steel accident",
+      "link": "https://www.tbsnews.net/bangladesh/ship-breakers-association-launches-probe-sitakundas-ferdous-steel-accident-1515071",
+      "pubDate": "Fri, 14 Aug 2026 19:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/ferdous_steel_.png",
+      "snippet": "Captain Anam Chowdhury, technical adviser to the BSBRA, has been appointed convener of the investigation committee."
+    },
+    {
       "title": "Oil tanker carrying 33,000 tonnes of diesel collides with anchored bulk carrier at Ctg Port",
       "link": "https://www.tbsnews.net/bangladesh/oil-tanker-carrying-33000-tonnes-diesel-collides-anchored-bulk-carrier-ctg-port-1515051",
       "pubDate": "Fri, 14 Aug 2026 18:40:00 +0600",
@@ -175,50 +241,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/11/measles_tbs.jpeg",
       "snippet": "The Directorate General of Health Services also reported 28 new confirmed measles cases in the past 24 hours"
-    },
-    {
-      "title": "Dutch-Bangladesh cooperation can boost safe water access: Envoy",
-      "link": "https://www.tbsnews.net/foreign-policy/dutch-bangladesh-cooperation-can-boost-safe-water-access-envoy-1514821",
-      "pubDate": "Fri, 14 Aug 2026 12:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/8346250.jpg",
-      "snippet": "Joris Van Bommel said the two countries have much in common when it comes to water management, as both are shaped by deltas, rivers, and the sea."
-    },
-    {
-      "title": "Mintoo seeks active cooperation of industries to curb Buriganga-Turag pollution ",
-      "link": "https://www.tbsnews.net/bangladesh/mintoo-seeks-active-cooperation-industries-curb-buriganga-turag-pollution-1514806",
-      "pubDate": "Fri, 14 Aug 2026 12:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/mintoo_pid.png",
-      "snippet": "\"Cooperation from industrial owners is crucial to free the rivers around Dhaka from pollution. Effluent Treatment Plants (ETPs) must be installed to prevent polluted factory water from entering canals or rivers,\" he said."
-    },
-    {
-      "title": "Death toll rises to 9 after gas leak at Ctg shipbreaking yard",
-      "link": "https://www.tbsnews.net/bangladesh/toxic-gas-leak-sitakunda-shipbreaking-yard-kills-least-3-workers-1514801",
-      "pubDate": "Fri, 14 Aug 2026 11:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/770738158_1652816179600244_633702941068917811_n_1.jpg",
-      "snippet": "Army troops were deployed in the afternoon to bring the situation under control as locals had grown agitated following the deaths of the nine workers."
-    },
-    {
-      "title": "Construction material emissions need focus in low-carbon buildings: Experts",
-      "link": "https://www.tbsnews.net/bangladesh/construction-material-emissions-need-focus-low-carbon-buildings-experts-1514796",
-      "pubDate": "Fri, 14 Aug 2026 11:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/construction_material_emissions_need_focus_in_low-carbon.jpeg",
-      "snippet": "Cutting buildings’ electricity use alone is not enough; embodied carbon from construction materials must also be addressed, say experts at IEB seminar."
     },
     {
       "title": "Apple trains its own AI model for China market with Alibaba's support, sources say",
@@ -485,17 +507,6 @@
       "snippet": "Salam said teachers need to focus on internationally recognised research to enhance the quality and reputation of universities."
     },
     {
-      "title": "12 more districts to get e-Bail Bond service tomorrow",
-      "link": "https://www.tbsnews.net/bangladesh/govt-roll-out-e-bail-bond-12-more-districts-tomorrow-1513361",
-      "pubDate": "Wed, 12 Aug 2026 20:40:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/bail_bond_img.jpg",
-      "snippet": "The expansion is expected to further reduce delays and procedural bottlenecks while easing the burden on courts, lawyers and litigants."
-    },
-    {
       "title": "Huawei launches Bangladesh's first grid-forming inverter, battery storage system",
       "link": "https://www.tbsnews.net/tech/huawei-launches-bangladeshs-first-grid-forming-inverter-battery-storage-system-1513356",
       "pubDate": "Wed, 12 Aug 2026 20:40:00 +0600",
@@ -505,6 +516,17 @@
       "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/huawei_launches.jpg",
       "snippet": "Huawei unveiled the SUN2000-506KTL-H3, which it described as the industry's first grid-forming smart string inverter, alongside the LUTERRA-6261-25 battery energy storage system."
+    },
+    {
+      "title": "12 more districts to get e-Bail Bond service tomorrow",
+      "link": "https://www.tbsnews.net/bangladesh/govt-roll-out-e-bail-bond-12-more-districts-tomorrow-1513361",
+      "pubDate": "Wed, 12 Aug 2026 20:40:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/bail_bond_img.jpg",
+      "snippet": "The expansion is expected to further reduce delays and procedural bottlenecks while easing the burden on courts, lawyers and litigants."
     },
     {
       "title": "Bangladesh seeks alternative financing to address $421b SDG funding gap: FinMin",
@@ -714,62 +736,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/du_fallen_tree.jpg",
       "snippet": "It fell without even strong winds to push it over. According to media report, Professor Jashim Uddin, director of the university's Arboriculture Centre, diagnosed the structural failure."
-    },
-    {
-      "title": "Doctors, students occupy Dhaka Medical director's office demanding resignation",
-      "link": "https://www.tbsnews.net/bangladesh/health/doctors-students-occupy-dhaka-medical-directors-office-demanding-resignation",
-      "pubDate": "Tue, 11 Aug 2026 20:50:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/09/17/dmch.jpg",
-      "snippet": "Employees stage counter-protest as health officials intervene."
-    },
-    {
-      "title": "SDG implementation, LDC graduation must move together: Irene Khan",
-      "link": "https://www.tbsnews.net/bangladesh/sdg-implementation-ldc-graduation-must-move-together-irene-khan-1512441",
-      "pubDate": "Tue, 11 Aug 2026 20:40:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/22/irene_khan_world_economic_forum_2007_1.jpg",
-      "snippet": ""
-    },
-    {
-      "title": "Exclusive breastfeeding in Bangladesh falls to 56.6% in 2025: Survey",
-      "link": "https://www.tbsnews.net/bangladesh/health/exclusive-breastfeeding-bangladesh-falls-566-2025-survey-1512436",
-      "pubDate": "Tue, 11 Aug 2026 20:40:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/breastfeeding.jpg",
-      "snippet": "WHO and UNICEF call for strengthened action to protect, promote and support breastfeeding."
-    },
-    {
-      "title": "Inflation falls to 8.32% in July, lowest in 8 months",
-      "link": "https://www.tbsnews.net/economy/inflation-falls-832-july-1512416",
-      "pubDate": "Tue, 11 Aug 2026 20:10:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/22/inflation.png",
-      "snippet": "Food inflation dropped sharply to 7.16% in July from 8.60% in June and 7.56% a year earlier"
-    },
-    {
-      "title": "Education system loss could turn demographic dividend into burden: Milon",
-      "link": "https://www.tbsnews.net/bangladesh/education/education-system-loss-could-turn-demographic-dividend-burden-milon-1512411",
-      "pubDate": "Tue, 11 Aug 2026 20:05:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/21/edu_minister.jpg",
-      "snippet": "Education must receive the highest priority, with a focus not only on infrastructure but also on quality, he says."
     }
   ],
-  "updatedAt": "2026-08-14T13:53:23.705Z"
+  "updatedAt": "2026-08-14T14:51:27.116Z"
 }
