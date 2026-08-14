@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Youth shot in DB firing during alleged robbery preparation in Badda",
+      "link": "https://www.tbsnews.net/bangladesh/crime/youth-shot-db-firing-during-alleged-robbery-preparation-badda-1514741",
+      "pubDate": "Fri, 14 Aug 2026 10:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/11/05/gunfight.jpg",
+      "snippet": "The incident took place around 8:45pm last night (13 August) in the Stand Housing area of Block M, Sector 5, Aftabnagar under Badda Police Station."
+    },
+    {
+      "title": "Remittance dollar rate falls by Tk1 in a week",
+      "link": "https://www.tbsnews.net/economy/banking/remittance-dollar-rate-falls-tk1-week-1514706",
+      "pubDate": "Fri, 14 Aug 2026 09:55:00 +0600",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/12/23/kd3zeva7sfj4pfuxw27ztbh4sq.jpg",
+      "snippet": "Senior officials at Bangladesh Bank and several commercial banks confirmed the development. Bankers also said the rate for settling letters of credit (LCs) has declined, and could fall further next week."
+    },
+    {
       "title": " BB moves to liquidate five NBFIs with Tk2,000cr from govt fund",
       "link": "https://www.tbsnews.net/economy/banking/bb-moves-liquidate-five-nbfis-tk2000cr-govt-fund-1514701",
       "pubDate": "Fri, 14 Aug 2026 07:40:00 +0600",
@@ -8,7 +30,7 @@
       "color": "#00796b",
       "bg": "#e0f2f1",
       "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/p1_infograph_5-nbfis-liquidation.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/09/01/non-bank-financial-institutions-2103222011.png",
       "snippet": "The central bank recently brought four NBFIs under the Bank Resolution framework, declaring them non-viable. They are Aviva Finance, Fareast Finance and Investment, FAS Finance and Investment, and International Leasing and Financial Services."
     },
     {
@@ -219,17 +241,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/10/18/hc.jpg",
       "snippet": "The writ challenges the legality of the schedule announced by the Election Commission for the presidential election."
-    },
-    {
-      "title": "PM Tarique meets BNP leaders from Rajshahi division",
-      "link": "https://www.tbsnews.net/bangladesh/politics/pm-tarique-meets-bnp-leaders-rajshahi-division-1514446",
-      "pubDate": "Thu, 13 Aug 2026 19:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/bnp_meeting_with_rajshahi_leaders.jpeg",
-      "snippet": "The meeting was held at the BNP chairman’s office in Gulshan"
     },
     {
       "title": "Rising debt, fiscal gaps weigh on Bangladesh economy despite easing inflation: BB",
@@ -507,17 +518,6 @@
       "snippet": "Bangladesh’s new logistics policy shifts the focus from transport to competitiveness, with Matarbari offering a crucial boost to maritime connectivity. The real challenge is delivering faster, cheaper and more reliable trade and transport services"
     },
     {
-      "title": "The next chapter of microfinance: A digital financial platform for Bangladesh's poor",
-      "link": "https://www.tbsnews.net/thoughts/next-chapter-microfinance-digital-financial-platform-bangladeshs-poor-1513156",
-      "pubDate": "Wed, 12 Aug 2026 17:55:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/06/12/taka_supplement_2_copy.png",
-      "snippet": "With over 40 million borrowers already served, Bangladesh's microfinance sector doesn't need to grow bigger. It needs to go digital — and become a model the rest of the developing world can follow"
-    },
-    {
       "title": "Beyond the report card: Bangladesh must stop failing its failing students",
       "link": "https://www.tbsnews.net/thoughts/beyond-report-card-bangladesh-must-stop-failing-its-failing-students-1513151",
       "pubDate": "Wed, 12 Aug 2026 17:55:00 +0600",
@@ -527,6 +527,17 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/769838765_1346887494308459_5713235104749675688_n_1.jpg",
       "snippet": "As Bangladesh debates why SSC pass rates have fallen sharply, the real crisis may be the nearly 700,000 students who failed—and a system that offers them little academic, financial, or psychological support"
+    },
+    {
+      "title": "The next chapter of microfinance: A digital financial platform for Bangladesh's poor",
+      "link": "https://www.tbsnews.net/thoughts/next-chapter-microfinance-digital-financial-platform-bangladeshs-poor-1513156",
+      "pubDate": "Wed, 12 Aug 2026 17:55:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/06/12/taka_supplement_2_copy.png",
+      "snippet": "With over 40 million borrowers already served, Bangladesh's microfinance sector doesn't need to grow bigger. It needs to go digital — and become a model the rest of the developing world can follow"
     },
     {
       "title": "What the first 100 days survey says about public expectations and five actions the Prime Minister can take to turn cautious optimism into durable trust",
@@ -934,18 +945,7 @@
       "icon": "🔍",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/photo_reuters.png",
       "snippet": "The combination of financial and military muscle and strategic depth offered by the geography of the three nations will not amount to much unless the alliance is solidified by clear political goals and military commitment"
-    },
-    {
-      "title": "Exporters seek share of $100b US tariff refunds ",
-      "link": "https://www.tbsnews.net/economy/exporters-seek-share-100b-us-tariff-refunds-1511796",
-      "pubDate": "Tue, 11 Aug 2026 10:00:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/tariff.png",
-      "snippet": "Exporters say they are now seeking a share of the refunds or, at the very least, some form of compensation through their continued business relationships with US buyers"
     }
   ],
-  "updatedAt": "2026-08-14T01:54:36.503Z"
+  "updatedAt": "2026-08-14T04:09:24.016Z"
 }
