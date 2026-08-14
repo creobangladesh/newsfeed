@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Oil tanker carrying 33,000 tonnes of diesel collides with anchored bulk carrier at Ctg Port",
+      "link": "https://www.tbsnews.net/bangladesh/oil-tanker-carrying-33000-tonnes-diesel-collides-anchored-bulk-carrier-ctg-port-1515051",
+      "pubDate": "Fri, 14 Aug 2026 18:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/vessel_at_chattogram_port_0.jpg",
+      "snippet": "MT C Spike's cargo tanks remained intact, but water entering a one-square-metre crack in the engine room caused a temporary blackout, the port authority says."
+    },
+    {
+      "title": "Urmi Group to supply RMG jhut to SME cluster entrepreneurs at affordable prices",
+      "link": "https://www.tbsnews.net/bangladesh/urmi-group-supply-rmg-jhut-sme-cluster-entrepreneurs-affordable-prices-1515011",
+      "pubDate": "Fri, 14 Aug 2026 18:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/urmi_group_img.jpg",
+      "snippet": "The two organisations will also facilitate opportunities for selected entrepreneurs to participate in the National SME Product Fair and other business platforms."
+    },
+    {
       "title": "Probe body to assess whether safety failures caused Sitakunda shipbreaking deaths: Khosru",
       "link": "https://www.tbsnews.net/bangladesh/probe-body-assess-whether-safety-failures-caused-sitakunda-shipbreaking-deaths-khosru",
       "pubDate": "Fri, 14 Aug 2026 17:50:00 +0600",
@@ -210,17 +232,6 @@
       "snippet": "Apple has a special two-step plan for AI in China."
     },
     {
-      "title": "53 AL men arrested in Dhaka: DMP",
-      "link": "https://www.tbsnews.net/bangladesh/53-al-men-arrested-dhaka-dmp-1514786",
-      "pubDate": "Fri, 14 Aug 2026 11:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/img_9075.jpeg",
-      "snippet": "They were arrested from a flat in Bashundhara Residential Area around 9:05pm yesterday (13 August), said Additional Deputy Commissioner (Media) Niaz Mehedi of the Dhaka Metropolitan Police (DMP)."
-    },
-    {
       "title": "New study sheds light on breast cancer treatment resistance",
       "link": "https://www.tbsnews.net/bangladesh/health/new-study-sheds-light-breast-cancer-treatment-resistance-1514781",
       "pubDate": "Fri, 14 Aug 2026 11:15:00 +0600",
@@ -230,17 +241,6 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/breast_cancer.jpg",
       "snippet": "The study, published in Nature, found that the retinoblastoma (Rb) protein, long viewed as a natural brake on cancer growth, can unexpectedly activate genes that respond to the hormone estrogen."
-    },
-    {
-      "title": "Trishal UNO withdrawn after alleged assault on sand quarry employee",
-      "link": "https://www.tbsnews.net/bangladesh/trishal-uno-withdrawn-after-alleged-assault-sand-quarry-employee-1514766",
-      "pubDate": "Fri, 14 Aug 2026 10:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/3b9856901a9068e9e9cd0b5ada9090d4.jpg",
-      "snippet": "A short video shows the UNO slapping a man twice and hitting him with a stick."
     },
     {
       "title": "Remittance dollar rate falls by Tk1 in a week",
@@ -485,17 +485,6 @@
       "snippet": "Salam said teachers need to focus on internationally recognised research to enhance the quality and reputation of universities."
     },
     {
-      "title": "Huawei launches Bangladesh's first grid-forming inverter, battery storage system",
-      "link": "https://www.tbsnews.net/tech/huawei-launches-bangladeshs-first-grid-forming-inverter-battery-storage-system-1513356",
-      "pubDate": "Wed, 12 Aug 2026 20:40:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/huawei_launches.jpg",
-      "snippet": "Huawei unveiled the SUN2000-506KTL-H3, which it described as the industry's first grid-forming smart string inverter, alongside the LUTERRA-6261-25 battery energy storage system."
-    },
-    {
       "title": "12 more districts to get e-Bail Bond service tomorrow",
       "link": "https://www.tbsnews.net/bangladesh/govt-roll-out-e-bail-bond-12-more-districts-tomorrow-1513361",
       "pubDate": "Wed, 12 Aug 2026 20:40:00 +0600",
@@ -505,6 +494,17 @@
       "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/bail_bond_img.jpg",
       "snippet": "The expansion is expected to further reduce delays and procedural bottlenecks while easing the burden on courts, lawyers and litigants."
+    },
+    {
+      "title": "Huawei launches Bangladesh's first grid-forming inverter, battery storage system",
+      "link": "https://www.tbsnews.net/tech/huawei-launches-bangladeshs-first-grid-forming-inverter-battery-storage-system-1513356",
+      "pubDate": "Wed, 12 Aug 2026 20:40:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/huawei_launches.jpg",
+      "snippet": "Huawei unveiled the SUN2000-506KTL-H3, which it described as the industry's first grid-forming smart string inverter, alongside the LUTERRA-6261-25 battery energy storage system."
     },
     {
       "title": "Bangladesh seeks alternative financing to address $421b SDG funding gap: FinMin",
@@ -769,51 +769,7 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/21/edu_minister.jpg",
       "snippet": "Education must receive the highest priority, with a focus not only on infrastructure but also on quality, he says."
-    },
-    {
-      "title": "Banglalink gets BB licence to launch digital payment service Mukto Pay",
-      "link": "https://www.tbsnews.net/economy/banglalink-gets-bb-licence-launch-digital-payment-service-mukto-pay-1512391",
-      "pubDate": "Tue, 11 Aug 2026 19:50:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/10/bl_eng_1.jpg",
-      "snippet": "With the new addition, the number of licenced companies operating as payment service providers in the country has risen to 10."
-    },
-    {
-      "title": "New education curriculum to be introduced by 2028: Milon",
-      "link": "https://www.tbsnews.net/bangladesh/education/new-education-curriculum-be-introduced-2028-milon-1512386",
-      "pubDate": "Tue, 11 Aug 2026 19:45:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/15/anm_ehsanul_hoque_milon.jpg",
-      "snippet": "Milon also addresses SSC results, teacher pensions and MPO committees"
-    },
-    {
-      "title": "Banks discuss Tk1,000cr package for young entrepreneurs at 4-6% interest",
-      "link": "https://www.tbsnews.net/economy/bb-plans-tk1000cr-fund-create-5000-new-entrepreneurs-1512361",
-      "pubDate": "Tue, 11 Aug 2026 19:15:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/abb_chairman_and_city_bank_managing_director_mashrur_arefin.jpg",
-      "snippet": "The package, which is still at the draft stage, aims to help young people who want to start or expand businesses but lack sufficient capital, says Association of Bankers, Bangladesh (ABB) Chairman Mashrur Arefin."
-    },
-    {
-      "title": "Titumir College students now want exams under DU, not Dhaka Central University",
-      "link": "https://www.tbsnews.net/bangladesh/titumir-college-students-now-demand-exams-under-du-not-dhaka-central-university-1512336",
-      "pubDate": "Tue, 11 Aug 2026 19:00:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/07/14/government_titumir_college.jpg",
-      "snippet": "The 2021-22 batch students say shifting their exams and certification to the newly formed university could prolong their academic life."
     }
   ],
-  "updatedAt": "2026-08-14T12:07:55.803Z"
+  "updatedAt": "2026-08-14T13:53:23.705Z"
 }
