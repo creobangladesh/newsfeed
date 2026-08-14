@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Youth employment can reduce social crimes: Aminul",
+      "link": "https://www.tbsnews.net/bangladesh/youth-employment-can-reduce-social-crimes-aminul-1514946",
+      "pubDate": "Fri, 14 Aug 2026 16:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/aminul_pid_img.jpg",
+      "snippet": "Aminul said the government is taking steps to ensure that young people can secure livelihoods after completing their studies by promoting technical education, practical skills and self-employment."
+    },
+    {
+      "title": "Gas shortage forces closure of all Brahmanbaria filling stations, autorickshaw fares surge",
+      "link": "https://www.tbsnews.net/bangladesh/gas-shortage-forces-closure-all-brahmanbaria-filling-stations-autorickshaw-fares-surge",
+      "pubDate": "Fri, 14 Aug 2026 16:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/cng_1.jpg",
+      "snippet": "Bakhrabad Gas reduced its supply on Wednesday. On Thursday night, it cut off the gas completely. This forced the gas stations to close."
+    },
+    {
       "title": "Measles outbreak: Death toll reaches 894 as 4 more die",
       "link": "https://www.tbsnews.net/bangladesh/health/measles-outbreak-death-toll-reaches-894-4-more-die-1514886",
       "pubDate": "Fri, 14 Aug 2026 15:30:00 +0600",
@@ -241,28 +263,6 @@
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/09/01/non-bank-financial-institutions-2103222011.png",
       "snippet": "The central bank recently brought four NBFIs under the Bank Resolution framework, declaring them non-viable. They are Aviva Finance, Fareast Finance and Investment, FAS Finance and Investment, and International Leasing and Financial Services."
-    },
-    {
-      "title": "Law enforcers step up surveillance after UN warns of Al-Qaeda cell attempts in Bangladesh",
-      "link": "https://www.tbsnews.net/bangladesh/law-enforcers-step-surveillance-after-un-warns-al-qaeda-cell-attempts-bangladesh-1514686",
-      "pubDate": "Fri, 14 Aug 2026 01:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/07/police.jpeg",
-      "snippet": "Police are reviewing possible links between concerns raised in a recent UN report and individuals or networks already under surveillance."
-    },
-    {
-      "title": "Eid-e-Miladunnabi on 26 August",
-      "link": "https://www.tbsnews.net/bangladesh/eid-e-miladunnabi-26-august-1514681",
-      "pubDate": "Fri, 14 Aug 2026 00:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/12/eid_e_milad1.jpg",
-      "snippet": "The day is a public holiday in Bangladesh."
     },
     {
       "title": "Govt plans bigger community role in primary schools: Bobby Hajjaj",
@@ -824,51 +824,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/shakhawat_husain.jpeg",
       "snippet": "Sardar Md Sakhawat Husain says achieving SDG 3 requires joint planning across health, water, education, social welfare and local government."
-    },
-    {
-      "title": "New port-customs body to fast-track cargo clearance: Minister",
-      "link": "https://www.tbsnews.net/economy/new-port-customs-body-fast-track-cargo-clearance-minister-1512176",
-      "pubDate": "Tue, 11 Aug 2026 16:20:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/24/amir_khosru.jpg",
-      "snippet": "The committee will address trade barriers and improve coordination between agencies, says the minister."
-    },
-    {
-      "title": "Measles: Death toll reaches 880 as 2 more children die in 24hrs",
-      "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-880-2-more-children-die-24hrs-1512186",
-      "pubDate": "Tue, 11 Aug 2026 16:20:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/25/measles_tbs.jpg",
-      "snippet": "DGHS reports 872 new suspected cases and 107 confirmed infections in 24 hours, taking the cumulative suspected caseload above 138,000."
-    },
-    {
-      "title": "The Gen-AI bubble and its bursting point",
-      "link": "https://www.tbsnews.net/thoughts/gen-ai-bubble-and-its-bursting-point-1512191",
-      "pubDate": "Tue, 11 Aug 2026 16:20:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/02/12/08_panorama-12_feb_copy.png",
-      "snippet": "Generative AI has rapidly transformed how people work, create and interact with technology. But its growing reliance on personal data, its impact on jobs and cognitive skills, and its environmental costs raise questions about whether the technology's..."
-    },
-    {
-      "title": "Hypertension rising among youth; experts call for urgent action",
-      "link": "https://www.tbsnews.net/bangladesh/health/sustainable-financing-needed-curb-rising-hypertension-among-youth-speakers-1512141",
-      "pubDate": "Tue, 11 Aug 2026 16:05:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/whatsapp_image_2026-08-11_at_2.47.29_pm.jpeg",
-      "snippet": "According to speakers, non-communicable diseases account for 71% of all deaths in Bangladesh, with 19% occurring prematurely."
     }
   ],
-  "updatedAt": "2026-08-14T10:01:31.361Z"
+  "updatedAt": "2026-08-14T11:14:05.943Z"
 }
