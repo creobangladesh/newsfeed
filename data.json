@@ -1,6 +1,83 @@
 {
   "news": [
     {
+      "title": "Ctg gas crisis triggers road blockade, Sholashahar traffic halted for 5 hours",
+      "link": "https://www.tbsnews.net/bangladesh/ctg-gas-crisis-triggers-road-blockade-sholashahar-traffic-halted-5-hours-1514856",
+      "pubDate": "Fri, 14 Aug 2026 13:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/768762899_1099233799439572_4337517666726574994_n.jpg",
+      "snippet": "Many drivers had waited all night at local filling stations without getting fuel due to low gas pressure."
+    },
+    {
+      "title": "PM Tarique likely to visit Delhi next week, meet Modi: NDTV",
+      "link": "https://www.tbsnews.net/foreign-policy/pm-tarique-likely-visit-delhi-next-week-meet-modi-ndtv-1514851",
+      "pubDate": "Fri, 14 Aug 2026 12:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/17/tarique_modi.jpg",
+      "snippet": "If confirmed, it would be Tarique’s first visit to India since becoming prime minister and could mark an important step towards repairing ties between the two neighbours."
+    },
+    {
+      "title": "Banned Awami League leaders, activists allegedly hold torch procession in Banshkhali, Ctg",
+      "link": "https://www.tbsnews.net/bangladesh/politics/banned-awami-league-leaders-activists-allegedly-hold-torch-procession-banshkhali",
+      "pubDate": "Fri, 14 Aug 2026 12:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/16dbf86bd583015661b8f94c8cbe88ee.jpeg",
+      "snippet": "A 3-minute-and-53-second video of the procession has gone viral on social media, showing around 50 to 60 people marching with torches"
+    },
+    {
+      "title": "2 more children die in Sylhet with measles symptoms, death toll rises to 133",
+      "link": "https://www.tbsnews.net/bangladesh/health/2-more-children-die-sylhet-measles-symptoms-death-toll-rises-133-1514831",
+      "pubDate": "Fri, 14 Aug 2026 12:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/11/measles_tbs.jpeg",
+      "snippet": "The Directorate General of Health Services also reported 28 new confirmed measles cases in the past 24 hours"
+    },
+    {
+      "title": "Dutch-Bangladesh cooperation can boost safe water access: Envoy",
+      "link": "https://www.tbsnews.net/foreign-policy/dutch-bangladesh-cooperation-can-boost-safe-water-access-envoy-1514821",
+      "pubDate": "Fri, 14 Aug 2026 12:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/8346250.jpg",
+      "snippet": "Joris Van Bommel said the two countries have much in common when it comes to water management, as both are shaped by deltas, rivers, and the sea."
+    },
+    {
+      "title": "Mintoo seeks active cooperation of industries to curb Buriganga-Turag pollution ",
+      "link": "https://www.tbsnews.net/bangladesh/mintoo-seeks-active-cooperation-industries-curb-buriganga-turag-pollution-1514806",
+      "pubDate": "Fri, 14 Aug 2026 12:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/mintoo_pid.png",
+      "snippet": "\"Cooperation from industrial owners is crucial to free the rivers around Dhaka from pollution. Effluent Treatment Plants (ETPs) must be installed to prevent polluted factory water from entering canals or rivers,\" he said."
+    },
+    {
+      "title": "Toxic gas leak at Sitakunda shipbreaking yard kills at least 3 workers",
+      "link": "https://www.tbsnews.net/bangladesh/toxic-gas-leak-sitakunda-shipbreaking-yard-kills-least-3-workers-1514801",
+      "pubDate": "Fri, 14 Aug 2026 11:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/0629a6592a8194374c8e63e86d32724f.jpeg",
+      "snippet": "Ferdous Wahid, managing director of Ferdous Steel, told The Business Standard that the incident occurred while workers were carrying out housekeeping work aboard a vessel at the yard."
+    },
+    {
       "title": "Construction material emissions need focus in low-carbon buildings: Experts",
       "link": "https://www.tbsnews.net/bangladesh/construction-material-emissions-need-focus-low-carbon-buildings-experts-1514796",
       "pubDate": "Fri, 14 Aug 2026 11:40:00 +0600",
@@ -122,6 +199,17 @@
       "snippet": "According to police, the 53 arrestees were meeting to plan August 15 observance programmes and flash processions across Dhaka."
     },
     {
+      "title": "UN warns of Al-Qaeda attempts to establish cells in Bangladesh",
+      "link": "https://www.tbsnews.net/bangladesh/un-warns-al-qaeda-attempts-establish-cells-bangladesh-1514631",
+      "pubDate": "Thu, 13 Aug 2026 21:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/08/15/flag_of_the_united_nations.svg_.png",
+      "snippet": "The concern was highlighted in the 38th report of the UN Security Council’s Analytical Support and Sanctions Monitoring Team."
+    },
+    {
       "title": "Jhalkathi, Rajshahi get new police superintendents",
       "link": "https://www.tbsnews.net/bangladesh/jhalkathi-rajshahi-get-new-police-superintendents-1514616",
       "pubDate": "Thu, 13 Aug 2026 21:50:00 +0600",
@@ -142,17 +230,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/morgan_stanley.jpg",
       "snippet": "The global index provider says regular reviews of the MSCI Bangladesh Index and corporate event implementation will resume from November 2026 after more than three years."
-    },
-    {
-      "title": "UN warns of Al-Qaeda attempts to establish cells in Bangladesh",
-      "link": "https://www.tbsnews.net/bangladesh/un-warns-al-qaeda-attempts-establish-cells-bangladesh-1514631",
-      "pubDate": "Thu, 13 Aug 2026 21:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/08/15/flag_of_the_united_nations.svg_.png",
-      "snippet": "The concern was highlighted in the 38th report of the UN Security Council’s Analytical Support and Sanctions Monitoring Team."
     },
     {
       "title": "Experts urge long-term solution to energy crisis",
@@ -188,81 +265,15 @@
       "snippet": "Ten concept notes received recognition, with three receiving Diamond, three Gold and four Silver status."
     },
     {
-      "title": "Enforced three-minute toilet breaks, electric shocks: Enforced disappearance victim recounts torture at TFI cell",
-      "link": "https://www.tbsnews.net/bangladesh/crime/enforced-three-minute-toilet-breaks-electric-shocks-enforced-disappearance-victim",
-      "pubDate": "Thu, 13 Aug 2026 21:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/01/20/secret_detention.jpg",
-      "snippet": "Ashik testified as a prosecution witness in the crimes-against-humanity case over enforced disappearances at the TFI cell against former prime minister Sheikh Hasina and 16 others, including current and former military officers."
-    },
-    {
       "title": "Govt plans bigger community role in primary schools: Bobby Hajjaj",
       "link": "https://www.tbsnews.net/bangladesh/education/govt-plans-bigger-community-role-primary-schools-bobby-hajjaj-1514561",
       "pubDate": "Thu, 13 Aug 2026 20:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/13/bobby_hajjaj.jpg",
       "snippet": "The state minister says the plan will connect local residents, parents and organisations more closely with schools."
-    },
-    {
-      "title": "NID birth date correction applications can now be processed at field level: EC",
-      "link": "https://www.tbsnews.net/bangladesh/nid-birth-date-correction-applications-can-now-be-processed-field-level-ec-1514566",
-      "pubDate": "Thu, 13 Aug 2026 20:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/uploads/2023/12/24/election_commission_5.jpg",
-      "snippet": "The commission also made it mandatory for officials to record notes in the Case Management System (CMS) when electronically approving or rejecting an application."
-    },
-    {
-      "title": "Asiya rape-murder case: HC appoints state-funded lawyer for death-row convict Hitu Sheikh",
-      "link": "https://www.tbsnews.net/bangladesh/court/asiya-rape-murder-case-hc-appoints-state-funded-lawyer-death-row-convict-hitu",
-      "pubDate": "Thu, 13 Aug 2026 20:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/04/23/img-20250423-wa0000_0.jpg",
-      "snippet": "Hitu's lawyer gave NOC during the hearing of his death reference and appeal, prompting the High Court to appoint Hafizur Rahman Khan"
-    },
-    {
-      "title": "Govt to introduce a unified regulatory policy for battery-run rickshaws",
-      "link": "https://www.tbsnews.net/bangladesh/govt-introduce-unified-regulatory-policy-battery-run-rickshaws-1514541",
-      "pubDate": "Thu, 13 Aug 2026 20:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/06/27/1687016889834_0.jpg",
-      "snippet": "Initiatives will be taken to update existing regulations and designate a unified licensing authority for city corporations, municipalities, upazilas and union parishads, says Mir Shahe Alam."
-    },
-    {
-      "title": "CTTC, DB to remain on streets round the clock to curb muggings: DMP chief",
-      "link": "https://www.tbsnews.net/bangladesh/cttc-db-remain-streets-round-clock-curb-muggings-dmp-chief-1514546",
-      "pubDate": "Thu, 13 Aug 2026 20:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/dmp_cheif.jpg",
-      "snippet": "Mosleh Uddin Ahmed calls for stronger intelligence surveillance and patrols in mugging-prone areas, while ordering officers to inspect crime scenes in every case."
-    },
-    {
-      "title": "DU forms committee to investigate 'secret activities' of some teachers",
-      "link": "https://www.tbsnews.net/bangladesh/du-forms-committee-investigate-secret-activities-some-teachers-1514526",
-      "pubDate": "Thu, 13 Aug 2026 20:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/16/image.png",
-      "snippet": "Professor Dr Abdus Salam, Pro-Vice-Chancellor (Education), has been appointed convener of the committee."
     },
     {
       "title": "Rising debt, fiscal gaps weigh on Bangladesh economy despite easing inflation: BB",
@@ -923,29 +934,7 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/15/anm_ehsanul_hoque_milon.jpg",
       "snippet": "He said students were confused because part of a meeting resolution was omitted from media reports."
-    },
-    {
-      "title": "Students lock teachers inside room after poor SSC results in Sherpur  ",
-      "link": "https://www.tbsnews.net/bangladesh/education/students-lock-teachers-inside-room-after-poor-ssc-results-sherpur-1511931",
-      "pubDate": "Tue, 11 Aug 2026 12:35:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/ramerchar_high_school.png",
-      "snippet": "Teachers were released after they agreed to bear the costs of answer-script re-scrutiny and 2027 form-filling fees for failed students."
-    },
-    {
-      "title": "The silence that never makes headlines",
-      "link": "https://www.tbsnews.net/thoughts/silence-never-makes-headlines-1511896",
-      "pubDate": "Tue, 11 Aug 2026 12:05:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/24/freedom-of-speech.png",
-      "snippet": "Freedom of expression rarely disappears with a loud knock on the door. More often, it leaves quietly: one sentence softened, one slide removed, one film cut, one meeting moved, one face redrawn until it belongs to no one."
     }
   ],
-  "updatedAt": "2026-08-14T05:55:46.468Z"
+  "updatedAt": "2026-08-14T07:25:41.436Z"
 }
