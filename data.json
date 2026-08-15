@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "Suspended NCP leader assaulted in Brahmanbaria, BNP denies involvement ",
+      "link": "https://www.tbsnews.net/bangladesh/crime/suspended-ncp-leader-assaulted-brahmanbaria-bnp-denies-involvement-1515246",
+      "pubDate": "Sat, 15 Aug 2026 10:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/blurred-frame_8.jpg",
+      "snippet": "The victim, Asad Khokon, was allegedly assaulted around 2pm at Haripur Rajbari in Haripur union of the Upazila."
+    },
+    {
+      "title": "Police constable found dead in Cox’s Bazar hotel room",
+      "link": "https://www.tbsnews.net/bangladesh/police-constable-found-dead-coxs-bazar-hotel-room-1515251",
+      "pubDate": "Sat, 15 Aug 2026 10:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/c3c18e05-c25c-4bef-a250-b7929140e3fe.jpg",
+      "snippet": "The deceased was identified as Ataul Karim, 50, a constable at the Hoikyang Highway Police Outpost in Teknaf."
+    },
+    {
+      "title": "3 injured, child held at gunpoint in armed robbery at Malaysia-based expat’s Patuakhali home",
+      "link": "https://www.tbsnews.net/bangladesh/3-injured-child-held-gunpoint-armed-robbery-malaysia-based-expats-patuakhali-home-1515261",
+      "pubDate": "Sat, 15 Aug 2026 10:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/patuakhali.jpg",
+      "snippet": "A gang of armed robbers loots cash and valuables, shoots the homeowner's son, and holds a child hostage during a late-night raid in Kalapara."
+    },
+    {
       "title": "Switching to electricity from gas is the only way out of current crisis",
       "link": "https://www.tbsnews.net/bangladesh/energy/switching-electricity-gas-only-way-out-current-crisis-1515231",
       "pubDate": "Sat, 15 Aug 2026 10:00:00 +0600",
@@ -208,39 +241,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/p2_15_aug_jump_rd_9992.jpeg",
       "snippet": "Police have already reported the arrest of 53 people in Dhaka’s Vatara area over alleged preparations for a gathering involving members of the banned organisation."
-    },
-    {
-      "title": "Ship breakers association launches probe into Sitakunda's Ferdous Steel accident",
-      "link": "https://www.tbsnews.net/bangladesh/ship-breakers-association-launches-probe-sitakundas-ferdous-steel-accident-1515071",
-      "pubDate": "Fri, 14 Aug 2026 19:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/ferdous_steel_.png",
-      "snippet": "Captain Anam Chowdhury, technical adviser to the BSBRA, has been appointed convener of the investigation committee."
-    },
-    {
-      "title": "Oil tanker carrying 33,000 tonnes of diesel collides with anchored bulk carrier at Ctg Port",
-      "link": "https://www.tbsnews.net/bangladesh/oil-tanker-carrying-33000-tonnes-diesel-collides-anchored-bulk-carrier-ctg-port-1515051",
-      "pubDate": "Fri, 14 Aug 2026 18:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/vessel_at_chattogram_port_0.jpg",
-      "snippet": "MT C Spike's cargo tanks remained intact, but water entering a one-square-metre crack in the engine room caused a temporary blackout, the port authority says."
-    },
-    {
-      "title": "Urmi Group to supply RMG jhut to SME cluster entrepreneurs at affordable prices",
-      "link": "https://www.tbsnews.net/bangladesh/urmi-group-supply-rmg-jhut-sme-cluster-entrepreneurs-affordable-prices-1515011",
-      "pubDate": "Fri, 14 Aug 2026 18:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/urmi_group_img.jpg",
-      "snippet": "The two organisations will also facilitate opportunities for selected entrepreneurs to participate in the National SME Product Fair and other business platforms."
     },
     {
       "title": "Measles outbreak: Death toll reaches 894 as 4 more die",
@@ -716,5 +716,5 @@
       "snippet": "The study, published in the journal BMJ Public Health in 2024, was retracted \"on the grounds of misinformation on causes of death and limited original work conducted by the authors\", the BMJ Group said in a statement."
     }
   ],
-  "updatedAt": "2026-08-15T04:30:22.070Z"
+  "updatedAt": "2026-08-15T04:59:41.680Z"
 }
