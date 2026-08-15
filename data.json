@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Govt eying for Tk71,850cr Dhaka-Chattogram Highway improvement project",
+      "link": "https://www.tbsnews.net/bangladesh/govt-eying-tk-71850cr-dhaka-chattogram-highway-improvement-project-1515806",
+      "pubDate": "Sat, 15 Aug 2026 19:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/govt_of_peoples_republic_img.jpg",
+      "snippet": "The proposed project aims to ease congestion, improve road safety and strengthen the country’s key trade corridor."
+    },
+    {
       "title": "Dhaka North administrator vows to make Dhaka a clean, modern city",
       "link": "https://www.tbsnews.net/bangladesh/dhaka-north-administrator-vows-make-dhaka-clean-modern-city-1515801",
       "pubDate": "Sat, 15 Aug 2026 19:05:00 +0600",
@@ -268,10 +279,10 @@
       "title": "Gold price rises again by Tk2,158 per bhori",
       "link": "https://www.tbsnews.net/economy/gold-price-rises-again-tk2158-bhori-1515556",
       "pubDate": "Sat, 15 Aug 2026 15:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/06/16/gold_jewellery.jpg",
       "snippet": "Despite the rise in gold prices, silver prices remain unchanged."
     },
@@ -681,18 +692,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/08/01/sdg_16x9.png",
       "snippet": "The government is exploring alternative financing, including deeper capital-market participation and foreign investment, as traditional public funding falls short of the resources needed to meet the country’s development targets."
-    },
-    {
-      "title": "Dengue claims 2 more lives in 24hrs",
-      "link": "https://www.tbsnews.net/bangladesh/health/dengue-claims-2-more-lives-24hrs-1513266",
-      "pubDate": "Wed, 12 Aug 2026 19:45:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/07/dengue.jpg",
-      "snippet": "Another 727 dengue patients were hospitalised in the past 24 hours, taking this year's total cases to 21,550."
     }
   ],
-  "updatedAt": "2026-08-15T13:29:51.079Z"
+  "updatedAt": "2026-08-15T13:54:39.971Z"
 }
