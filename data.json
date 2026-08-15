@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Switching to electricity from gas is the only way out of current crisis",
+      "link": "https://www.tbsnews.net/bangladesh/energy/switching-electricity-gas-only-way-out-current-crisis-1515231",
+      "pubDate": "Sat, 15 Aug 2026 10:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/34c464be-dda3-4901-9a19-cde0bb1ed9dd.jpg",
+      "snippet": "LNG imports cost Bangladesh $3.8 billion in 2025, compared with $3 billion the previous year. These imports cover one-fourth of the country’s total gas supply."
+    },
+    {
       "title": "NBR seeks contractor data to plug revenue leakage in govt projects",
       "link": "https://www.tbsnews.net/bangladesh/corruption/nbr-seeks-contractor-data-plug-revenue-leakage-govt-projects-1515211",
       "pubDate": "Sat, 15 Aug 2026 07:20:00 +0600",
@@ -230,17 +241,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/urmi_group_img.jpg",
       "snippet": "The two organisations will also facilitate opportunities for selected entrepreneurs to participate in the National SME Product Fair and other business platforms."
-    },
-    {
-      "title": "Probe body to assess whether safety failures caused Sitakunda shipbreaking deaths: Khosru",
-      "link": "https://www.tbsnews.net/bangladesh/probe-body-assess-whether-safety-failures-caused-sitakunda-shipbreaking-deaths-khosru",
-      "pubDate": "Fri, 14 Aug 2026 17:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/finance_and_planning_minister_amir_khosru_mahmud_chowdhury.jpg",
-      "snippet": "The finance minister says action will be taken based on the findings of the investigation."
     },
     {
       "title": "Measles outbreak: Death toll reaches 894 as 4 more die",
@@ -714,18 +714,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/10/10/covid_bacteria.jpg",
       "snippet": "The study, published in the journal BMJ Public Health in 2024, was retracted \"on the grounds of misinformation on causes of death and limited original work conducted by the authors\", the BMJ Group said in a statement."
-    },
-    {
-      "title": "Banks turn to retail as corporate lending piles up bad loans",
-      "link": "https://www.tbsnews.net/economy/banking/banks-turn-retail-corporate-lending-piles-bad-loans-1512706",
-      "pubDate": "Wed, 12 Aug 2026 10:00:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/banking.png",
-      "snippet": "Lenders expand consumer portfolios, digital services, manpower as BB eases lending rules"
     }
   ],
-  "updatedAt": "2026-08-15T03:38:33.677Z"
+  "updatedAt": "2026-08-15T04:30:22.070Z"
 }
