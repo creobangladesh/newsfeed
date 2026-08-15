@@ -1,6 +1,105 @@
 {
   "news": [
     {
+      "title": "Money, markets, and military: The economic pivot of the Mecca Agreement",
+      "link": "https://www.tbsnews.net/thoughts/money-markets-and-military-economic-pivot-mecca-agreement-1515756",
+      "pubDate": "Sat, 15 Aug 2026 18:25:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/mecca_agreement.jpg",
+      "snippet": "The trilateral defence pact between Saudi Arabia, Turkey and Pakistan could evolve beyond military cooperation, creating a strategic bloc that combines capital, technology, energy and military power to reshape regional economics and security."
+    },
+    {
+      "title": "Garment exporters seek facility to pay July–August gas, electricity bills in installments",
+      "link": "https://www.tbsnews.net/economy/rmg/garment-exporters-seek-facility-pay-july-august-gas-electricity-bills-installments",
+      "pubDate": "Sat, 15 Aug 2026 18:20:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/garment_exporters_seek_facility_to_pay_july-august_gas_electricity_bills_in_installments.png",
+      "snippet": "The extension of time and installment facility would enable them to sustain production and export operations while safeguarding workers' employment."
+    },
+    {
+      "title": "LNG supply rises to 810 mmcfd, taking nat'l gas supply to 2,425 mmcfd",
+      "link": "https://www.tbsnews.net/bangladesh/energy/lng-supply-rises-810-mmcfd-taking-natl-gas-supply-2425-mmcfd-1515731",
+      "pubDate": "Sat, 15 Aug 2026 18:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/06/reuters_lng.jpg",
+      "snippet": "The highest level since the Excelerate Energy FSRU incident on 21 July."
+    },
+    {
+      "title": "Ex-Kushtia resident medical officer faces departmental case over recruitment exam question leak",
+      "link": "https://www.tbsnews.net/bangladesh/health/ex-kushtia-resident-medical-officer-faces-departmental-case-over-recruitment-exam",
+      "pubDate": "Sat, 15 Aug 2026 18:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/dr_hossain_imam.jpg",
+      "snippet": "Probe finds preliminary evidence supporting allegations that candidates took the written recruitment test at his residence using allegedly leaked question papers."
+    },
+    {
+      "title": "Bangladesh stands on Begum Zia's uncompromising leadership: Amir Khosru",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-stands-begum-zias-uncompromising-leadership-amir-khosru-1515736",
+      "pubDate": "Sat, 15 Aug 2026 18:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/24/amir_khosru.jpg",
+      "snippet": "Amir Khosru Mahmud Chowdhury says Begum Khaleda Zia’s uncompromising stance helped sustain the BNP’s democratic movement, urging the party to uphold the values of her long political struggle and sacrifice"
+    },
+    {
+      "title": "Rehan Asif urges operators not to be tense over spectrum renewal",
+      "link": "https://www.tbsnews.net/bangladesh/rehan-asif-urges-operators-not-be-tense-over-spectrum-renewal-1515721",
+      "pubDate": "Sat, 15 Aug 2026 17:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/rehan_asif_asad_img.jpg",
+      "snippet": "The telecom adviser says spectrum is a national resource, urging operators and regulators to prioritise affordable connectivity, network quality and long-term digital growth."
+    },
+    {
+      "title": "730 new dengue cases, two deaths reported in 24hrs ",
+      "link": "https://www.tbsnews.net/bangladesh/730-new-dengue-cases-two-deaths-reported-24hrs-1515701",
+      "pubDate": "Sat, 15 Aug 2026 17:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/13/dengue.jpg",
+      "snippet": "Since the start of the dengue onslaughts, Bangladesh this year has witnessed so far 67 deaths, while the disease inflicted 23,173."
+    },
+    {
+      "title": "Barapukuria Thermal Power Plant Unit 1 resumes power generation",
+      "link": "https://www.tbsnews.net/bangladesh/barapukuria-thermal-power-plant-unit-1-resumes-power-generation-1515696",
+      "pubDate": "Sat, 15 Aug 2026 17:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/barakpukuria_power_plant_img.jpg",
+      "snippet": "Barapukuria Thermal Power Plant’s Unit 1 resumed generation after a day-long shutdown caused by a mechanical fault, adding 55MW to the national grid."
+    },
+    {
+      "title": "Ramisa murder: HC to hear death reference, jail appeals of Sohel, Swapna tomorrow",
+      "link": "https://www.tbsnews.net/bangladesh/court/ramisa-murder-hc-hear-death-reference-jail-appeals-sohel-swapna-tomorrow-1515706",
+      "pubDate": "Sat, 15 Aug 2026 17:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/20/photo-output.jpeg",
+      "snippet": "The death reference and appeals have been placed before a High Court bench following the tribunal’s verdict sentencing the couple to death."
+    },
+    {
       "title": "Fisheries key to food security, employment, economic growth: PM",
       "link": "https://www.tbsnews.net/bangladesh/fisheries-key-food-security-employment-economic-growth-pm-1515691",
       "pubDate": "Sat, 15 Aug 2026 17:35:00 +0600",
@@ -8,7 +107,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/pm_tarique_zia_img_2.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/09/03/01cc2b5e-2a8f-11ed-b699-b608dd3b520f_1662104674135.jpg",
       "snippet": "Considering the sector's immense potential and importance, he said, the government has been taking various timely initiatives for its development, while its achievements through concerted efforts are now recognised globally."
     },
     {
@@ -188,79 +287,13 @@
       "snippet": "The total number of suspected measles deaths has reached 803, while confirmed deaths from measles have remained at 99."
     },
     {
-      "title": "PM opens Tk 2,035cr benefit payment for private institution teachers, employees",
-      "link": "https://www.tbsnews.net/bangladesh/pm-opens-tk-2035cr-benefit-payment-private-institution-teachers-employees-1515516",
-      "pubDate": "Sat, 15 Aug 2026 14:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/6b8a0530-5bd3-4bda-a951-5daa99fc6fc7.jpg",
-      "snippet": "The government has allocated Tk2,035.86 crore as a one-time payment to settle the retirement and welfare benefits of the teachers and employees."
-    },
-    {
-      "title": "Rajshahi Stars leave for Malaysia",
-      "link": "https://www.tbsnews.net/bangladesh/rajshahi-stars-leave-malaysia-1515496",
-      "pubDate": "Sat, 15 Aug 2026 14:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/image-414761-1786780418.jpg",
-      "snippet": "Drawn in Group A, Rajshahi Stars will face India's East Bengal, hosts Sabah FA and Guam's Rovers FC."
-    },
-    {
-      "title": "Khaleda Zia’s fate was intertwined with Bangladesh’s: Fakhrul",
-      "link": "https://www.tbsnews.net/bangladesh/khaleda-zias-fate-was-intertwined-bangladeshs-fakhrul-1515456",
-      "pubDate": "Sat, 15 Aug 2026 13:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/06/mirza_fakhrul.jpg",
-      "snippet": "He said Khaleda Zia had been the main architect behind transforming the BNP into a genuine political party."
-    },
-    {
-      "title": "Khaleda Zia remained uncompromising despite persecution: Rizvi",
-      "link": "https://www.tbsnews.net/bangladesh/khaleda-zia-remained-uncompromising-despite-persecution-rizvi-1515441",
-      "pubDate": "Sat, 15 Aug 2026 13:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/ruhul_kabir_rizvi_.jpg",
-      "snippet": "Describing Khaleda Zia as a historic figure who represented ordinary people, Rizvi said she was a symbol of the country’s independence and sovereignty and an embodiment of democracy."
-    },
-    {
-      "title": "Trade through Benapole land port suspended due to holiday in India",
-      "link": "https://www.tbsnews.net/bangladesh/trade-through-benapole-land-port-suspended-due-holiday-india-1515411",
-      "pubDate": "Sat, 15 Aug 2026 12:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/17/benapole_truck_yard.png",
-      "snippet": "However, passenger movement between the two countries through the Benapole-Petrapole immigration checkpoint remained normal."
-    },
-    {
-      "title": "Man arrested, sent to jail for paying tribute to Sheikh Mujib at Dhanmondi 32",
-      "link": "https://www.tbsnews.net/bangladesh/man-arrested-sent-jail-paying-tribute-sheikh-mujib-dhanmondi-32-1515431",
-      "pubDate": "Sat, 15 Aug 2026 12:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/1786774914092.jpeg",
-      "snippet": "A Dhaka court denied Arnab Das’s bail after police arrested him under the Anti-Terrorism Act, alleging links to the banned Jubo League."
-    },
-    {
       "title": "PM stresses humane approach, equal access to quality healthcare",
       "link": "https://www.tbsnews.net/bangladesh/health/pm-stresses-humane-approach-equal-access-quality-healthcare-1515401",
       "pubDate": "Sat, 15 Aug 2026 12:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/8994423.jpg",
       "snippet": "The Prime Minister was speaking after inaugurating the new 500-bed building of the National Institute of Neurosciences and Hospital in Agargaon."
     },
@@ -670,40 +703,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/10/29/cancer_1.png",
       "snippet": "ACSCeND can identify three developmental states of cancer stem-like cells and may help researchers better understand tumour recurrence, treatment resistance and patient outcomes."
-    },
-    {
-      "title": "Bangladesh's logistics policy must become a competitiveness strategy",
-      "link": "https://www.tbsnews.net/thoughts/bangladeshs-logistics-policy-must-become-competitiveness-strategy-1513161",
-      "pubDate": "Wed, 12 Aug 2026 18:00:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/09/12/xe2ui5m6szmwlalin4ozghioyy.jpg",
-      "snippet": "Bangladesh’s new logistics policy shifts the focus from transport to competitiveness, with Matarbari offering a crucial boost to maritime connectivity. The real challenge is delivering faster, cheaper and more reliable trade and transport services"
-    },
-    {
-      "title": "Beyond the report card: Bangladesh must stop failing its failing students",
-      "link": "https://www.tbsnews.net/thoughts/beyond-report-card-bangladesh-must-stop-failing-its-failing-students-1513151",
-      "pubDate": "Wed, 12 Aug 2026 17:55:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/769838765_1346887494308459_5713235104749675688_n_1.jpg",
-      "snippet": "As Bangladesh debates why SSC pass rates have fallen sharply, the real crisis may be the nearly 700,000 students who failed—and a system that offers them little academic, financial, or psychological support"
-    },
-    {
-      "title": "The next chapter of microfinance: A digital financial platform for Bangladesh's poor",
-      "link": "https://www.tbsnews.net/thoughts/next-chapter-microfinance-digital-financial-platform-bangladeshs-poor-1513156",
-      "pubDate": "Wed, 12 Aug 2026 17:55:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/06/12/taka_supplement_2_copy.png",
-      "snippet": "With over 40 million borrowers already served, Bangladesh's microfinance sector doesn't need to grow bigger. It needs to go digital — and become a model the rest of the developing world can follow"
     }
   ],
-  "updatedAt": "2026-08-15T11:45:22.306Z"
+  "updatedAt": "2026-08-15T12:36:18.561Z"
 }
