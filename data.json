@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "Dhaka North administrator vows to make Dhaka a clean, modern city",
+      "link": "https://www.tbsnews.net/bangladesh/dhaka-north-administrator-vows-make-dhaka-clean-modern-city-1515801",
+      "pubDate": "Sat, 15 Aug 2026 19:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/untitled-1_0.png",
+      "snippet": "He made the remarks while inaugurating a special cleanliness drive and rally in Mirpur-2 in the capital."
+    },
+    {
+      "title": "Body of actress-model Ridhika Ridhi found hanging in Dhaka; police suspect suicide",
+      "link": "https://www.tbsnews.net/bangladesh/body-actress-model-ridhika-ridhi-found-hanging-dhaka-police-suspect-suicide-1515776",
+      "pubDate": "Sat, 15 Aug 2026 18:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/radhika_ridhi.jpg",
+      "snippet": "Police say her phone contained evidence that she was on a video call when the incident occurred."
+    },
+    {
+      "title": "Hilsa returns to Bhola rivers, fishermen see hope after crisis",
+      "link": "https://www.tbsnews.net/bangladesh/hilsa-returns-bhola-rivers-fishermen-see-hope-after-crisis-1515771",
+      "pubDate": "Sat, 15 Aug 2026 18:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/hilsa_returns_to_bhola_rivers_fishermen_see_hope_after_crisis.png",
+      "snippet": "Fishermen said the improved catch would help them repay debts and recover from losses incurred during the prolonged period of poor fishing."
+    },
+    {
       "title": "Money, markets, and military: The economic pivot of the Mecca Agreement",
       "link": "https://www.tbsnews.net/thoughts/money-markets-and-military-economic-pivot-mecca-agreement-1515756",
       "pubDate": "Sat, 15 Aug 2026 18:25:00 +0600",
@@ -241,39 +274,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/06/16/gold_jewellery.jpg",
       "snippet": "Despite the rise in gold prices, silver prices remain unchanged."
-    },
-    {
-      "title": "PM vows hassle-free retirement benefits for teachers",
-      "link": "https://www.tbsnews.net/bangladesh/pm-vows-hassle-free-retirement-benefits-teachers-1515546",
-      "pubDate": "Sat, 15 Aug 2026 15:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/pm_tarique_zia_img_2.jpg",
-      "snippet": "The prime minister said the government has decided after taking office to pay the outstanding retirement benefits but found that the funds did not have sufficient resources to meet the liabilities."
-    },
-    {
-      "title": "DB arrests 5 over Tk1.21cr robbery at Uttara petrol pump",
-      "link": "https://www.tbsnews.net/bangladesh/crime/db-arrests-5-over-tk121cr-robbery-uttara-petrol-pump-1515536",
-      "pubDate": "Sat, 15 Aug 2026 14:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/db_brief_.jpg",
-      "snippet": "DB Chief Additional Commissioner Md Shafiqul Islam disclosed the details during a briefing at Minto Road in Dhaka today (15 August)."
-    },
-    {
-      "title": "'Mini Switzerland', a char of Padma River in Rahshahi",
-      "link": "https://www.tbsnews.net/bangladesh/mini-switzerland-char-padma-river-rahshahi-1515531",
-      "pubDate": "Sat, 15 Aug 2026 14:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/image-414775-1786783235.jpg",
-      "snippet": "According to locals, for the last few days, about 1,000 to 1,200 people have been visiting the char every day. Yet, until a short time ago, there was hardly any presence of outsiders."
     },
     {
       "title": "Measles outbreak: Death toll tops 900 as 8 more die",
@@ -692,18 +692,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/07/dengue.jpg",
       "snippet": "Another 727 dengue patients were hospitalised in the past 24 hours, taking this year's total cases to 21,550."
-    },
-    {
-      "title": "Indian scientists develop AI framework to identify hidden cancer stem cells",
-      "link": "https://www.tbsnews.net/science/indian-scientists-develop-ai-framework-identify-hidden-cancer-stem-cells-1513211",
-      "pubDate": "Wed, 12 Aug 2026 18:45:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/10/29/cancer_1.png",
-      "snippet": "ACSCeND can identify three developmental states of cancer stem-like cells and may help researchers better understand tumour recurrence, treatment resistance and patient outcomes."
     }
   ],
-  "updatedAt": "2026-08-15T12:36:18.561Z"
+  "updatedAt": "2026-08-15T13:29:51.079Z"
 }
