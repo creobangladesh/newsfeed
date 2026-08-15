@@ -1,6 +1,61 @@
 {
   "news": [
     {
+      "title": "LNG supply rises to 750 mmcf as Excelerate resumes operations ",
+      "link": "https://www.tbsnews.net/bangladesh/energy/lng-supply-rises-750-mmcf-excelerate-resumes-operations-1515306",
+      "pubDate": "Sat, 15 Aug 2026 11:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/12/lng_supply_1.jpg",
+      "snippet": "A Petrobangla report showed local gas production at 1,613 mmcfd, bringing total national gas supply to 2,364 mmcfd."
+    },
+    {
+      "title": "10.8 ppm of hydrogen sulfide detected inside Ferdous Steel ship after accident that killed 9 workers",
+      "link": "https://www.tbsnews.net/bangladesh/108-ppm-hydrogen-sulfide-detected-inside-ferdous-steel-ship-after-accident-killed-9",
+      "pubDate": "Sat, 15 Aug 2026 11:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/sitakunda_shibyard_toxic_gas.png",
+      "snippet": "The Department of Explosives detected 10.8 parts per million (ppm) of hydrogen sulfide inside the ship around four hours after the accident, officials said during an inspection of the yard today (15 August)."
+    },
+    {
+      "title": "PM inaugurates 500-bed new building at National Institute of Neurosciences",
+      "link": "https://www.tbsnews.net/bangladesh/pm-inaugurates-500-bed-new-building-national-institute-neurosciences-1515296",
+      "pubDate": "Sat, 15 Aug 2026 11:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/9507333.jpg",
+      "snippet": "The new building will raise the hospital’s total bed capacity to 1,000, making it one of the country’s largest specialised centres for neurological treatment."
+    },
+    {
+      "title": "Maritime ports asked to keep hoisted cautionary signal No 3",
+      "link": "https://www.tbsnews.net/bangladesh/maritime-ports-asked-keep-hoisted-cautionary-signal-no-3-1515281",
+      "pubDate": "Sat, 15 Aug 2026 11:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/06/30/red-flag-waving.jpg",
+      "snippet": "All fishing boats and trawlers over North Bay have been advised to remain close to the coast and proceed with caution till further notice."
+    },
+    {
+      "title": "Bangladesh spends record $10.63b on fuel imports in FY26",
+      "link": "https://www.tbsnews.net/bangladesh/energy/bangladesh-spends-record-1063b-fuel-imports-fy26-1515256",
+      "pubDate": "Sat, 15 Aug 2026 11:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/27/fuel.png",
+      "snippet": "Fuel imports more than doubled from $5.14 billion a year earlier, rising 107% in a single year"
+    },
+    {
       "title": "Suspended NCP leader assaulted in Brahmanbaria, BNP denies involvement ",
       "link": "https://www.tbsnews.net/bangladesh/crime/suspended-ncp-leader-assaulted-brahmanbaria-bnp-denies-involvement-1515246",
       "pubDate": "Sat, 15 Aug 2026 10:35:00 +0600",
@@ -166,28 +221,6 @@
       "snippet": "Separate meetings reviewed regulatory gaps, worker safety, environmental compliance, technology and financing needs to make Bangladesh’s ship-related industries more sustainable and globally competitive."
     },
     {
-      "title": "Garment workers demand reconstitution of minimum wage board",
-      "link": "https://www.tbsnews.net/bangladesh/garment-workers-demand-reconstitution-minimum-wage-board-1515131",
-      "pubDate": "Fri, 14 Aug 2026 21:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/img_0894.jpeg",
-      "snippet": "The leaders said the current wages of garment workers were wholly inadequate to meet their basic living costs."
-    },
-    {
-      "title": "India again invites Tarique Rahman for bilateral visit, BRICS Outreach session",
-      "link": "https://www.tbsnews.net/foreign-policy/india-again-invites-tarique-rahman-bilateral-visit-brics-outreach-session-1515116",
-      "pubDate": "Fri, 14 Aug 2026 20:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/randhir_jaiswal_.jpg",
-      "snippet": "The 18th BRICS Summit is scheduled for 12-13 September, with an Outreach session involving invited non-BRICS countries and organisations."
-    },
-    {
       "title": "How sustainable is sustainability? ",
       "link": "https://www.tbsnews.net/thoughts/how-sustainable-sustainability-1515111",
       "pubDate": "Fri, 14 Aug 2026 20:45:00 +0600",
@@ -197,17 +230,6 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/illustration-for-thoughts.jpg",
       "snippet": "The question may sound simple, but it opens up a much deeper debate about the relationship between the economy, the environment, development, human wellbeing and future generations. Ultimately, what exactly are we trying to sustain?"
-    },
-    {
-      "title": "Sandhya Ain: The debate over Dhaka University's female hall curfew",
-      "link": "https://www.tbsnews.net/features/panorama/sandhya-ain-debate-over-dhaka-universitys-female-hall-curfew-1515096",
-      "pubDate": "Fri, 14 Aug 2026 20:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/selcted_760261566_122101112234338901_3001010762300721440_n_0.jpg",
-      "snippet": "Dhaka University’s hall curfews have come to the fore as more than just a question of access. They reflect a deeper debate over bureaucratic discrimination against women that restricts their movement while leaving safety unaddressed"
     },
     {
       "title": "India's space sector: A launchpad for global partnerships",
@@ -221,26 +243,15 @@
       "snippet": "Recognised as a trustworthy and cost-effective spacefaring nation, India is now well placed to transform its technological advances into enduring international partnerships"
     },
     {
-      "title": "Biker groups: Friendship, travel and Bangladesh's shifting motorcycle culture ",
-      "link": "https://www.tbsnews.net/features/panorama/biker-groups-friendship-travel-and-bangladeshs-shifting-motorcycle-culture-1515091",
-      "pubDate": "Fri, 14 Aug 2026 20:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/vespa_mumitm-5961_1.jpg",
-      "snippet": "Riding groups across Bangladesh are using motorcycles as a way to reconnect with old passions, organise charity and heritage events, support women riders and promote safer behaviour on increasingly dangerous roads"
-    },
-    {
-      "title": "DMP steps up security, intelligence surveillance ahead of 15 August",
-      "link": "https://www.tbsnews.net/bangladesh/dmp-steps-security-intelligence-surveillance-ahead-15-august-1515076",
-      "pubDate": "Fri, 14 Aug 2026 19:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/p2_15_aug_jump_rd_9992.jpeg",
-      "snippet": "Police have already reported the arrest of 53 people in Dhaka’s Vatara area over alleged preparations for a gathering involving members of the banned organisation."
+      "title": "Sandhya Ain: The debate over Dhaka University's female hall curfew",
+      "link": "https://www.tbsnews.net/features/panorama/sandhya-ain-debate-over-dhaka-universitys-female-hall-curfew-1515096",
+      "pubDate": "Fri, 14 Aug 2026 20:40:00 +0600",
+      "category": "Analysis",
+      "color": "#5d4037",
+      "bg": "#efebe9",
+      "icon": "🔍",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/selcted_760261566_122101112234338901_3001010762300721440_n_0.jpg",
+      "snippet": "Dhaka University’s hall curfews have come to the fore as more than just a question of access. They reflect a deeper debate over bureaucratic discrimination against women that restricts their movement while leaving safety unaddressed"
     },
     {
       "title": "Measles outbreak: Death toll reaches 894 as 4 more die",
@@ -716,5 +727,5 @@
       "snippet": "The study, published in the journal BMJ Public Health in 2024, was retracted \"on the grounds of misinformation on causes of death and limited original work conducted by the authors\", the BMJ Group said in a statement."
     }
   ],
-  "updatedAt": "2026-08-15T04:59:41.680Z"
+  "updatedAt": "2026-08-15T05:33:28.539Z"
 }
