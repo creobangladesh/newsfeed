@@ -243,17 +243,6 @@
       "snippet": "The BKMEA says paying the July and August utility bills in full under existing rules would be difficult for many factory owners given the financial losses they had suffered."
     },
     {
-      "title": "Ex-Kushtia resident medical officer faces departmental case over recruitment exam question leak",
-      "link": "https://www.tbsnews.net/bangladesh/health/ex-kushtia-resident-medical-officer-faces-departmental-case-over-recruitment-exam",
-      "pubDate": "Sat, 15 Aug 2026 18:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/dr_hossain_imam.jpg",
-      "snippet": "Probe finds preliminary evidence supporting allegations that candidates took the written recruitment test at his residence using allegedly leaked question papers."
-    },
-    {
       "title": "LNG supply rises to 828 mmcfd, taking nat'l gas supply to 2,438 mmcfd",
       "link": "https://www.tbsnews.net/bangladesh/energy/lng-supply-rises-810-mmcfd-taking-natl-gas-supply-2425-mmcfd-1515731",
       "pubDate": "Sat, 15 Aug 2026 18:10:00 +0600",
@@ -263,6 +252,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/06/reuters_lng.jpg",
       "snippet": "The highest level since the Excelerate Energy FSRU incident on 21 July."
+    },
+    {
+      "title": "Ex-Kushtia resident medical officer faces departmental case over recruitment exam question leak",
+      "link": "https://www.tbsnews.net/bangladesh/health/ex-kushtia-resident-medical-officer-faces-departmental-case-over-recruitment-exam",
+      "pubDate": "Sat, 15 Aug 2026 18:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/dr_hossain_imam.jpg",
+      "snippet": "Probe finds preliminary evidence supporting allegations that candidates took the written recruitment test at his residence using allegedly leaked question papers."
     },
     {
       "title": "Bangladesh’s untapped energy source: Efficiency ",
@@ -661,5 +661,5 @@
       "snippet": "The Budget Wing of the finance ministry is now reviewing what changes would be needed to laws related to the fiscal year, the budget-making process, the tax system, government accounting, and the implementation of development projects."
     }
   ],
-  "updatedAt": "2026-08-15T21:45:47.585Z"
+  "updatedAt": "2026-08-15T22:20:18.595Z"
 }
