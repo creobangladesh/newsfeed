@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "DSEX gains last week as margin rule optimism offsets energy crisis jitters",
+      "link": "https://www.tbsnews.net/economy/stocks/dsex-gains-last-week-margin-rule-optimism-offsets-energy-crisis-jitters-1515901",
+      "pubDate": "Sat, 15 Aug 2026 21:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/07/dse.jpg",
+      "snippet": "The benchmark DSEX index of the Dhaka Stock Exchange (DSE) climbed 23 points to settle at 5,884 by the week’s close."
+    },
+    {
+      "title": "PM to visit Kishoreganj Sunday to inaugurate National Fisheries Week",
+      "link": "https://www.tbsnews.net/bangladesh/pm-visit-kishoreganj-sunday-inaugurate-national-fisheries-week-1515891",
+      "pubDate": "Sat, 15 Aug 2026 21:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/pm_treque_rahman.png",
+      "snippet": "The National Fisheries Week-2026 will be inaugurated at 1pm at the George Institute Mini Stadium in Achmita union under Katiadi upazila of Kishoreganj."
+    },
+    {
+      "title": "Ship Recycling Board orders Ferdous Steel to suspend operations after nine workers deaths",
+      "link": "https://www.tbsnews.net/bangladesh/ship-recycling-board-orders-ferdous-steel-suspend-operations-after-nine-workers-deaths",
+      "pubDate": "Sat, 15 Aug 2026 21:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/p1_sitakunda_coc02603.jpg.jpeg",
+      "snippet": "Three separate committees have been formed to investigate the accident, while no case has yet been filed over the deaths."
+    },
+    {
       "title": "BGB foils another BSF push–in attempt along Jhenaidah border",
       "link": "https://www.tbsnews.net/bangladesh/bgb-foils-another-bsf-push-attempt-along-jhenaidah-border-1515866",
       "pubDate": "Sat, 15 Aug 2026 20:35:00 +0600",
@@ -210,17 +243,6 @@
       "snippet": "Since the start of the dengue onslaughts, Bangladesh this year has witnessed so far 67 deaths, while the disease inflicted 23,173."
     },
     {
-      "title": "Ramisa murder: HC to hear death reference, jail appeals of Sohel, Swapna tomorrow",
-      "link": "https://www.tbsnews.net/bangladesh/court/ramisa-murder-hc-hear-death-reference-jail-appeals-sohel-swapna-tomorrow-1515706",
-      "pubDate": "Sat, 15 Aug 2026 17:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/20/photo-output.jpeg",
-      "snippet": "The death reference and appeals have been placed before a High Court bench following the tribunal’s verdict sentencing the couple to death."
-    },
-    {
       "title": "Barapukuria Thermal Power Plant Unit 1 resumes power generation",
       "link": "https://www.tbsnews.net/bangladesh/barapukuria-thermal-power-plant-unit-1-resumes-power-generation-1515696",
       "pubDate": "Sat, 15 Aug 2026 17:40:00 +0600",
@@ -230,28 +252,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/barakpukuria_power_plant_img.jpg",
       "snippet": "Barapukuria Thermal Power Plant’s Unit 1 resumed generation after a day-long shutdown caused by a mechanical fault, adding 55MW to the national grid."
-    },
-    {
-      "title": "Fisheries key to food security, employment, economic growth: PM",
-      "link": "https://www.tbsnews.net/bangladesh/fisheries-key-food-security-employment-economic-growth-pm-1515691",
-      "pubDate": "Sat, 15 Aug 2026 17:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/09/03/01cc2b5e-2a8f-11ed-b699-b608dd3b520f_1662104674135.jpg",
-      "snippet": "Considering the sector's immense potential and importance, he said, the government has been taking various timely initiatives for its development, while its achievements through concerted efforts are now recognised globally."
-    },
-    {
-      "title": "'Clear signs of corruption': Muhit orders quick opening of Savar Health Management Institute",
-      "link": "https://www.tbsnews.net/bangladesh/clear-signs-corruption-muhit-orders-quick-opening-savar-health-management-institute",
-      "pubDate": "Sat, 15 Aug 2026 17:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/769702448_1545743856481192_3084919335825147200_n.jpg",
-      "snippet": "The government plans to use the facility to train health officials from all 64 districts and improve management of public hospitals, says the state minister."
     },
     {
       "title": "Bangladesh’s untapped energy source: Efficiency ",
@@ -659,18 +659,7 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/chittagong_independent_university.jpeg",
       "snippet": "Chittagong Independent University (CIU) has, for the first time, awarded certificates to students who completed Chinese language courses at its Confucius Institute Chinese Language Teaching Site."
-    },
-    {
-      "title": "BB terminates Chief Economist Akhtar’s contract early",
-      "link": "https://www.tbsnews.net/economy/bb-terminates-chief-economist-akhtars-contract-early-1513466",
-      "pubDate": "Wed, 12 Aug 2026 21:45:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/akhtar_hossain.jpg",
-      "snippet": "The central bank has cancelled the economist’s contract nearly a year before its scheduled end."
     }
   ],
-  "updatedAt": "2026-08-15T15:19:32.990Z"
+  "updatedAt": "2026-08-15T15:45:41.442Z"
 }
