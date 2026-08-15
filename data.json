@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Measles outbreak: Death toll tops 900 as 8 more die",
+      "link": "https://www.tbsnews.net/bangladesh/health/measles-outbreak-death-toll-tops-900-8-more-die-1515526",
+      "pubDate": "Sat, 15 Aug 2026 14:50:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/measlessssssss.jpeg",
+      "snippet": "Since March 15 this year, a total of 123,494 patients with suspected measles have been hospitalised across the country, of whom 119,089 have recovered, according to DGHS data."
+    },
+    {
+      "title": "PM opens Tk 2,035cr benefit payment for private institution teachers, employees",
+      "link": "https://www.tbsnews.net/bangladesh/pm-opens-tk-2035cr-benefit-payment-private-institution-teachers-employees-1515516",
+      "pubDate": "Sat, 15 Aug 2026 14:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/6b8a0530-5bd3-4bda-a951-5daa99fc6fc7.jpg",
+      "snippet": "The government has allocated Tk2,035.86 crore as a one-time payment to settle the retirement and welfare benefits of the teachers and employees."
+    },
+    {
       "title": "Rajshahi Stars leave for Malaysia",
       "link": "https://www.tbsnews.net/bangladesh/rajshahi-stars-leave-malaysia-1515496",
       "pubDate": "Sat, 15 Aug 2026 14:20:00 +0600",
@@ -177,6 +199,17 @@
       "snippet": "Fuel imports more than doubled from $5.14 billion a year earlier, rising 107% in a single year"
     },
     {
+      "title": "Suspended NCP leader assaulted in Brahmanbaria, BNP denies involvement ",
+      "link": "https://www.tbsnews.net/bangladesh/crime/suspended-ncp-leader-assaulted-brahmanbaria-bnp-denies-involvement-1515246",
+      "pubDate": "Sat, 15 Aug 2026 10:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/blurred-frame_8.jpg",
+      "snippet": "The victim, Asad Khokon, was allegedly assaulted around 2pm at Haripur Rajbari in Haripur union of the Upazila."
+    },
+    {
       "title": "Police constable found dead in Cox’s Bazar hotel room",
       "link": "https://www.tbsnews.net/bangladesh/police-constable-found-dead-coxs-bazar-hotel-room-1515251",
       "pubDate": "Sat, 15 Aug 2026 10:35:00 +0600",
@@ -199,24 +232,13 @@
       "snippet": "A gang of armed robbers loots cash and valuables, shoots the homeowner's son, and holds a child hostage during a late-night raid in Kalapara."
     },
     {
-      "title": "Suspended NCP leader assaulted in Brahmanbaria, BNP denies involvement ",
-      "link": "https://www.tbsnews.net/bangladesh/crime/suspended-ncp-leader-assaulted-brahmanbaria-bnp-denies-involvement-1515246",
-      "pubDate": "Sat, 15 Aug 2026 10:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/blurred-frame_8.jpg",
-      "snippet": "The victim, Asad Khokon, was allegedly assaulted around 2pm at Haripur Rajbari in Haripur union of the Upazila."
-    },
-    {
       "title": "Switching to electricity only way out of gas crisis",
       "link": "https://www.tbsnews.net/bangladesh/energy/switching-electricity-gas-only-way-out-current-crisis-1515231",
       "pubDate": "Sat, 15 Aug 2026 10:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Analysis",
+      "color": "#5d4037",
+      "bg": "#efebe9",
+      "icon": "🔍",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/34c464be-dda3-4901-9a19-cde0bb1ed9dd.jpg",
       "snippet": "LNG imports cost Bangladesh $3.8 billion in 2025, compared with $3 billion the previous year. These imports cover one-fourth of the country’s total gas supply."
     },
@@ -562,17 +584,6 @@
       "snippet": "Salam said teachers need to focus on internationally recognised research to enhance the quality and reputation of universities."
     },
     {
-      "title": "Huawei launches Bangladesh's first grid-forming inverter, battery storage system",
-      "link": "https://www.tbsnews.net/tech/huawei-launches-bangladeshs-first-grid-forming-inverter-battery-storage-system-1513356",
-      "pubDate": "Wed, 12 Aug 2026 20:40:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/huawei_launches.jpg",
-      "snippet": "Huawei unveiled the SUN2000-506KTL-H3, which it described as the industry's first grid-forming smart string inverter, alongside the LUTERRA-6261-25 battery energy storage system."
-    },
-    {
       "title": "12 more districts to get e-Bail Bond service tomorrow",
       "link": "https://www.tbsnews.net/bangladesh/govt-roll-out-e-bail-bond-12-more-districts-tomorrow-1513361",
       "pubDate": "Wed, 12 Aug 2026 20:40:00 +0600",
@@ -582,6 +593,17 @@
       "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/bail_bond_img.jpg",
       "snippet": "The expansion is expected to further reduce delays and procedural bottlenecks while easing the burden on courts, lawyers and litigants."
+    },
+    {
+      "title": "Huawei launches Bangladesh's first grid-forming inverter, battery storage system",
+      "link": "https://www.tbsnews.net/tech/huawei-launches-bangladeshs-first-grid-forming-inverter-battery-storage-system-1513356",
+      "pubDate": "Wed, 12 Aug 2026 20:40:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/huawei_launches.jpg",
+      "snippet": "Huawei unveiled the SUN2000-506KTL-H3, which it described as the industry's first grid-forming smart string inverter, alongside the LUTERRA-6261-25 battery energy storage system."
     },
     {
       "title": "Bangladesh seeks alternative financing to address $421b SDG funding gap: FinMin",
@@ -670,18 +692,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/03/whatsapp_image_2026-05-03_at_14.50.36.jpeg",
       "snippet": "The number of suspected measles deaths has risen to 786, while laboratory-confirmed measles deaths stand at 99."
-    },
-    {
-      "title": "Asean experience can help Bangladesh emerge as global halal hub: Commerce Minister",
-      "link": "https://www.tbsnews.net/economy/asean-experience-can-help-bangladesh-emerge-global-halal-hub-commerce-minister-1512971",
-      "pubDate": "Wed, 12 Aug 2026 14:45:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/12-08-26-commerce_minister-2_-_edited.jpg",
-      "snippet": "Entering this market requires an integrated production, quality control, and certification system, speakers say at a seminar."
     }
   ],
-  "updatedAt": "2026-08-15T08:28:12.829Z"
+  "updatedAt": "2026-08-15T08:56:52.134Z"
 }
