@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "NBR seeks contractor data to plug revenue leakage in govt projects",
+      "link": "https://www.tbsnews.net/bangladesh/corruption/nbr-seeks-contractor-data-plug-revenue-leakage-govt-projects-1515211",
+      "pubDate": "Sat, 15 Aug 2026 07:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/08/corruption.png",
+      "snippet": "As part of the investigation, the NBR’s Central Intelligence Cell (CIC) is collecting detailed information on ongoing development projects and the contractors implementing them from ministries, divisions, departments, and directorates involved in maj..."
+    },
+    {
       "title": "Man freed after serving 52 days in prison for another's death sentence",
       "link": "https://www.tbsnews.net/bangladesh/man-freed-after-serving-52-days-prison-anothers-death-sentence-1515191",
       "pubDate": "Sat, 15 Aug 2026 01:00:00 +0600",
@@ -230,17 +241,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/finance_and_planning_minister_amir_khosru_mahmud_chowdhury.jpg",
       "snippet": "The finance minister says action will be taken based on the findings of the investigation."
-    },
-    {
-      "title": "Youth employment can reduce social crimes: Aminul",
-      "link": "https://www.tbsnews.net/bangladesh/youth-employment-can-reduce-social-crimes-aminul-1514946",
-      "pubDate": "Fri, 14 Aug 2026 16:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/aminul_pid_img.jpg",
-      "snippet": "Aminul said the government is taking steps to ensure that young people can secure livelihoods after completing their studies by promoting technical education, practical skills and self-employment."
     },
     {
       "title": "Measles outbreak: Death toll reaches 894 as 4 more die",
@@ -725,18 +725,7 @@
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/banking.png",
       "snippet": "Lenders expand consumer portfolios, digital services, manpower as BB eases lending rules"
-    },
-    {
-      "title": "Curriculum changes, Covid learning loss among factors behind SSC pass rate fall",
-      "link": "https://www.tbsnews.net/bangladesh/education/curriculum-changes-covid-learning-loss-among-factors-behind-ssc-pass-rate-fall",
-      "pubDate": "Wed, 12 Aug 2026 07:25:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/04/10/ssc_exam.jpg",
-      "snippet": "The average pass rate across the 11 education boards in this year’s SSC and equivalent examinations was 62.25%, the lowest in 19 years since the 57.37% recorded in 2007. The pass rate stood at 88.29% in 2016, meaning it has fallen by 26.04 percentage..."
     }
   ],
-  "updatedAt": "2026-08-15T01:12:22.415Z"
+  "updatedAt": "2026-08-15T02:33:00.951Z"
 }
