@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Excess liquidity in banks pushes treasury bill yields below 9%",
+      "link": "https://www.tbsnews.net/economy/banking/excess-liquidity-banks-pushes-treasury-bill-yields-below-9-1516916",
+      "pubDate": "Mon, 17 Aug 2026 00:40:00 +0600",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/02/bank_representational_image_1.jpg",
+      "snippet": "The yield on 91-day treasury bills fell below 9% to 8.93% yesterday, down from 9.19% a week earlier."
+    },
+    {
+      "title": "How scrap ship's seawater ballast tank turn lethal, killing nine workers at Ferdous Steel",
+      "link": "https://www.tbsnews.net/bangladesh/how-scrap-ships-seawater-ballast-tank-turn-lethal-killing-nine-workers-ferdous-steel",
+      "pubDate": "Mon, 17 Aug 2026 00:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/ferdous_steel_.png",
+      "snippet": "No previous fatal gas leak from ballast tanks in Bangladesh’s ship recycling industry: Department of Environment"
+    },
+    {
       "title": "Businesses seek simpler trade licence process, lower fees",
       "link": "https://www.tbsnews.net/economy/businesses-seek-simpler-trade-licence-process-lower-fees-1516906",
       "pubDate": "Mon, 17 Aug 2026 00:10:00 +0600",
@@ -199,17 +221,6 @@
       "snippet": "The government plans to promote concrete blocks over traditional bricks in public projects to protect farmland and reduce pollution and carbon emissions."
     },
     {
-      "title": "Shama Obaed stresses equal education opportunities for all",
-      "link": "https://www.tbsnews.net/bangladesh/shama-obaed-stresses-equal-education-opportunities-all-1516746",
-      "pubDate": "Sun, 16 Aug 2026 20:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/shama_obaed2.png",
-      "snippet": "he said the government was giving serious attention to removing barriers to education for children from economically disadvantaged families."
-    },
-    {
       "title": "Govt forms high-level committee on tea sector loans, financing",
       "link": "https://www.tbsnews.net/bangladesh/govt-forms-high-level-committee-tea-sector-loans-financing-1516741",
       "pubDate": "Sun, 16 Aug 2026 20:35:00 +0600",
@@ -219,6 +230,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/05/22/tea_garden__0.jpg",
       "snippet": "The committee will also provide recommendations on declaring tea an agricultural product and commercially installing solar panels on unused land in tea gardens."
+    },
+    {
+      "title": "Shama Obaed stresses equal education opportunities for all",
+      "link": "https://www.tbsnews.net/bangladesh/shama-obaed-stresses-equal-education-opportunities-all-1516746",
+      "pubDate": "Sun, 16 Aug 2026 20:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/shama_obaed2.png",
+      "snippet": "he said the government was giving serious attention to removing barriers to education for children from economically disadvantaged families."
     },
     {
       "title": "Noab to oversee newspaper distribution, bill collection in Dhaka",
@@ -241,17 +263,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/774041877_1724314088787472_6729503776325496057_n.jpg",
       "snippet": "Locals say the muddy road makes it extremely difficult to take sick people to hospital."
-    },
-    {
-      "title": "Dhaka robbery gang busted; 'ringleader' with 45 cases arrested",
-      "link": "https://www.tbsnews.net/bangladesh/crime/dhaka-robbery-gang-busted-ringleader-45-cases-arrested-1516721",
-      "pubDate": "Sun, 16 Aug 2026 20:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/774969725_1061209806557649_3066088691831406956_n.jpg",
-      "snippet": "Police recovered fake RAB and DB vests, a police-logo handcuff, weapons and a private car allegedly used in robberies."
     },
     {
       "title": "All upazila health complexes to become nine-storey facilities: Sakhawat",
@@ -639,5 +650,5 @@
       "snippet": "The central bank recently brought four NBFIs under the Bank Resolution framework, declaring them non-viable. They are Aviva Finance, Fareast Finance and Investment, FAS Finance and Investment, and International Leasing and Financial Services."
     }
   ],
-  "updatedAt": "2026-08-16T18:28:24.960Z"
+  "updatedAt": "2026-08-16T18:57:24.401Z"
 }
