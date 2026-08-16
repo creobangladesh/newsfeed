@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Toxic hydrogen sulphide persists at Ferdous Steel vessel in Sitakunda after 9 deaths",
+      "link": "https://www.tbsnews.net/bangladesh/toxic-hydrogen-sulphide-persists-ferdous-steel-vessel-sitakunda-after-9-deaths-1516511",
+      "pubDate": "Sun, 16 Aug 2026 17:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/p1_sitakunda_coc02603.jpg.jpeg",
+      "snippet": "Specialist team from Dhaka to inspect site."
+    },
+    {
       "title": "'Digital Bangladesh' to become 'Smart Bangladesh' before govt tenure ends: Swapan",
       "link": "https://www.tbsnews.net/bangladesh/digital-bangladesh-become-smart-bangladesh-govt-tenure-ends-swapan-1516461",
       "pubDate": "Sun, 16 Aug 2026 16:45:00 +0600",
@@ -219,17 +230,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/dengue_prevention_strategy_.jpg",
       "snippet": "For the first time, Dhaka South City Corporation (DSCC) has conducted a 'Pre-Monsoon Aedes Mosquito Larva Survey' under its own management."
-    },
-    {
-      "title": "Dhaka urges Delhi to expedite Hasina's extradition; seeks 'propitious environment' for PM Tarique's visit",
-      "link": "https://www.tbsnews.net/foreign-policy/bangladesh-urges-india-expedite-extradition-sheikh-hasina-other-fugitives-1516191",
-      "pubDate": "Sun, 16 Aug 2026 13:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/10/14/btr.png",
-      "snippet": "Spokesperson of the Ministry of Foreign Affairs AKM Shahidul Karim said officials of Bangladesh and India have been in touch with each other for several weeks on the possibility of a bilateral visit by Prime Minister Tarique Rahman to India."
     },
     {
       "title": "VAT refunds pile up as NBR's online system stalls",
@@ -584,5 +584,5 @@
       "snippet": "The year was 2010 and Google was about to exit due to concerns over censorship and cyberattacks."
     }
   ],
-  "updatedAt": "2026-08-16T11:19:19.888Z"
+  "updatedAt": "2026-08-16T11:45:14.449Z"
 }
