@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Three new jails proposed in Chattogram as inmates hold up to three times capacity",
+      "link": "https://www.tbsnews.net/bangladesh/three-new-jails-proposed-chattogram-inmates-hold-three-times-capacity-1516051",
+      "pubDate": "Sun, 16 Aug 2026 11:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/02/10/jail_prison_prisoner_inmate.jpg",
+      "snippet": "Cox’s Bazar District Jail is also struggling with severe overcrowding. Although its capacity is nearly 850, the jail currently houses about 2,600 inmates, or more than three times its capacity, according to prison authorities."
+    },
+    {
+      "title": "Model Ridhika Ridhi's boyfriend arrested in suicide abetment case",
+      "link": "https://www.tbsnews.net/bangladesh/crime/model-ridhika-ridhis-boyfriend-arrested-suicide-abetment-case-1516091",
+      "pubDate": "Sun, 16 Aug 2026 10:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/radhika_ridhi.jpg",
+      "snippet": "Police earlier said Ridhika had died by suicide while on a video call with her boyfriend on Saturday morning. She was found hanging from a ceiling fan at around 6am at her home in Bashundhara Residential Area."
+    },
+    {
       "title": " After MRT-1, MRT-5 Northern cost proposed to rise 126%",
       "link": "https://www.tbsnews.net/bangladesh/infrastructure/after-mrt-1-mrt-5-northern-cost-proposed-rise-126-1516061",
       "pubDate": "Sun, 16 Aug 2026 10:30:00 +0600",
@@ -10,6 +32,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/12/27/mrt_mumitm-7090.jpg",
       "snippet": "High bids, global inflation and currency shifts drive revision"
+    },
+    {
+      "title": "Dhaka records moderate air quality, ranks 27th globally",
+      "link": "https://www.tbsnews.net/bangladesh/environment/dhaka-records-moderate-air-quality-ranks-27th-globally-1516076",
+      "pubDate": "Sun, 16 Aug 2026 10:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/3720397.jpg",
+      "snippet": "According to AQI standards, a reading between 101 and 150 is considered ‘unhealthy for sensitive groups."
     },
     {
       "title": "PM Tarique leaves Dhaka for Kishoreganj on daylong tour",
@@ -43,17 +76,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/_jannat_begum_and_kabita_roy_.jpg",
       "snippet": "According to the report, both athletes had testosterone levels significantly above the range set for female competitors."
-    },
-    {
-      "title": "Revuelto SV: Lamborghini's most powerful production car yet",
-      "link": "https://www.tbsnews.net/tech/new-revuelto-sv-lamborghinis-most-powerful-production-car-yet-1516031",
-      "pubDate": "Sun, 16 Aug 2026 08:50:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/att.2he53n42oyda4cjd2vw9befgumfi8dp7dqvt8z5ajrm.jpeg",
-      "snippet": "The colour scheme on this particular SV may be divisive, with more than a hint of Tron about it, but it is one of four exclusive launch liveries."
     },
     {
       "title": "Adamjee EPZ exports surpass $1b, moving towards higher-value products",
@@ -224,34 +246,12 @@
       "title": "AI cameras to detect traffic violations on Dhaka–Ctg highway",
       "link": "https://www.tbsnews.net/tech/ai-cameras-detect-traffic-violations-dhaka-ctg-highway-1515851",
       "pubDate": "Sat, 15 Aug 2026 20:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/24/p5_my_city_f3a9682.jpg",
       "snippet": "This initiative would address all kinds of traffic rules’ violations with more transparency, efficiency and accuracy, DMP said."
-    },
-    {
-      "title": "PM apologises for power crisis, assures swift steps to restore energy supply",
-      "link": "https://www.tbsnews.net/bangladesh/pm-apologises-power-crisis-assures-swift-steps-restore-energy-supply-1515841",
-      "pubDate": "Sat, 15 Aug 2026 20:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/untitled-2.png",
-      "snippet": "Opposition political parties should come forward with concrete and workable plans to address the ongoing power crises, rather than creating confusion among the people through criticism, Tarique Rahman says."
-    },
-    {
-      "title": "Acting president stresses collective efforts to develop fisheries sector",
-      "link": "https://www.tbsnews.net/bangladesh/acting-president-stresses-collective-efforts-develop-fisheries-sector-1515836",
-      "pubDate": "Sat, 15 Aug 2026 19:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/speaker_hafiz.jpg",
-      "snippet": "The acting president said the current democratic government is committed to the sustainable development of the fisheries sector."
     },
     {
       "title": "Money, markets, and military: The economic pivot of the Mecca Agreement",
@@ -648,29 +648,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/bangladesh-bank-bangla-qr.jpg",
       "snippet": "Banks and payment service providers must integrate the feature into their mobile apps ahead of its 1 November rollout."
-    },
-    {
-      "title": "Meta says it has taken down 756,000 Australian teen accounts as ban enforcement looms",
-      "link": "https://www.tbsnews.net/tech/meta-says-it-has-taken-down-756000-australian-teen-accounts-ban-enforcement-looms-1513666",
-      "pubDate": "Thu, 13 Aug 2026 11:10:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/fyganikdibkyticpzg6snqys2i.png",
-      "snippet": "Australian government figures and multiple independent studies have shown that more than eight in 10 under-16s were still on social media in the ban's first three months."
-    },
-    {
-      "title": "The \"Blue Gold\" paradox: Can Tk200 crore save Bangladesh's idle coastal economy?",
-      "link": "https://www.tbsnews.net/thoughts/blue-gold-paradox-can-tk200-crore-save-bangladeshs-idle-coastal-economy-1515166",
-      "pubDate": "Thu, 13 Aug 2026 10:35:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/08/shrimp_tbs.jpg",
-      "snippet": "Shrimp is to Bangladesh what oil is to the Gulf. But with processing plants running at 10% capacity and exports halving in seven years, the sector requires more than budget allocations - it requires a total supply chain overhaul."
     }
   ],
-  "updatedAt": "2026-08-16T04:35:02.693Z"
+  "updatedAt": "2026-08-16T05:27:23.829Z"
 }
