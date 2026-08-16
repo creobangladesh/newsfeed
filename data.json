@@ -1,6 +1,94 @@
 {
   "news": [
     {
+      "title": "Dengue death toll hits 70 as 3 more die in 24hrs",
+      "link": "https://www.tbsnews.net/bangladesh/health/dengue-death-toll-hits-70-3-more-die-24hrs-1516671",
+      "pubDate": "Sun, 16 Aug 2026 19:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/dengue_prevention_strategy_.jpg",
+      "snippet": "With the latest fatalities, the dengue death toll has risen to 70 in the country this year, according to the Directorate General of Health Services (DGHS)."
+    },
+    {
+      "title": "Senior journalist Nurul Hasan Khan passes away at 72",
+      "link": "https://www.tbsnews.net/bangladesh/obituary/senior-journalist-nurul-hasan-khan-passes-away-72-1516656",
+      "pubDate": "Sun, 16 Aug 2026 19:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/773290707_1682932906585568_8009558679505265622_n.png",
+      "snippet": "The former ERF general secretary and National Press Club joint secretary died while undergoing treatment at a Dhaka hospital"
+    },
+    {
+      "title": "Primary students may get speaking tests alongside written English exams: Bobby Hajjaj",
+      "link": "https://www.tbsnews.net/bangladesh/primary-students-may-get-speaking-tests-alongside-written-english-exams-bobby-hajjaj",
+      "pubDate": "Sun, 16 Aug 2026 19:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/01/23/primary_students.jpg",
+      "snippet": "The planned assessment aims to improve students’ English communication skills under the next primary education curriculum"
+    },
+    {
+      "title": "Protect water bodies, ensure sustainable fisheries: PM",
+      "link": "https://www.tbsnews.net/bangladesh/protect-water-bodies-ensure-sustainable-fisheries-pm-1516646",
+      "pubDate": "Sun, 16 Aug 2026 19:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/pm_tarique_katiadi_kishoreganj.jpg",
+      "snippet": "Fisheries play a vital role in meeting the country’s nutritional needs while creating employment through fish farming, catching, transportation, processing and marketing, PM says."
+    },
+    {
+      "title": "Apple issues new spyware warning to iPhone users in 110 countries",
+      "link": "https://www.tbsnews.net/tech/apple-issues-new-spyware-warning-iphone-users-110-countries-1516661",
+      "pubDate": "Sun, 16 Aug 2026 19:05:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/iphone.png",
+      "snippet": "Apple’s own data shows no known compromise of a device running Lockdown Mode, which shows Apple’s notification and the response are working, Boynton says."
+    },
+    {
+      "title": "3 more testify in Tk25cr UCB money laundering case against ex-land minister Saifuzzaman",
+      "link": "https://www.tbsnews.net/bangladesh/court/3-more-testify-tk25cr-ucb-money-laundering-case-against-ex-land-minister",
+      "pubDate": "Sun, 16 Aug 2026 18:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/10/22/land_minister.png",
+      "snippet": "The court has now examined 40 of the 92 witnesses listed in the charge sheet, with the next hearing set for 27 August."
+    },
+    {
+      "title": "Sylhet triple murder: Prime suspect Babul placed on 4-day remand",
+      "link": "https://www.tbsnews.net/bangladesh/court/sylhet-triple-murder-prime-suspect-babul-placed-4-day-remand-1516621",
+      "pubDate": "Sun, 16 Aug 2026 18:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/sylhet_triple_murder_suspect_babul.jpg",
+      "snippet": "Sylhet Additional Chief Metropolitan Magistrate Farhana Sultana passed the order."
+    },
+    {
+      "title": "New pay scale for govt employees at final stage, announcement anytime: PM's principal secy",
+      "link": "https://www.tbsnews.net/bangladesh/new-pay-scale-govt-employees-final-stage-announcement-anytime-pms-principal-secy-1516606",
+      "pubDate": "Sun, 16 Aug 2026 18:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/12/inkrimentt1_0.jpg",
+      "snippet": "There are some problems in the market, and we are trying to resolve them, he says."
+    },
+    {
       "title": "Court rejects police plea to show ex-major Sadiq arrested in car arson case",
       "link": "https://www.tbsnews.net/bangladesh/court/court-rejects-police-plea-show-ex-major-sadiq-arrested-car-arson-case-1516581",
       "pubDate": "Sun, 16 Aug 2026 18:20:00 +0600",
@@ -97,7 +185,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/04/khasru_sketch.jpg",
-      "snippet": "The government is finalising LNG terminals, gas storage and an integrated energy mix to address the crisis, Khosru says."
+      "snippet": "NBR’s Policy-making body will be an expert group, not bureaucrats, Khosru says."
     },
     {
       "title": "Ferdous Steel deaths: Shipbreaking workers' forum blames safety lapses, negligence",
@@ -144,81 +232,15 @@
       "snippet": "Point-to-Point changes in Consumer Price Index"
     },
     {
-      "title": "PM's people-centric, reform agenda driving rapid change in Bangladesh: Mahdi Amin",
-      "link": "https://www.tbsnews.net/bangladesh/pms-people-centric-reform-agenda-driving-rapid-change-bangladesh-mahdi-amin-1516346",
-      "pubDate": "Sun, 16 Aug 2026 15:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/image-415095-1786872108_1.jpg",
-      "snippet": "The government is now updating the database and strengthening the \"Proxy Means Test\" system to ensure that assistance reaches only genuine beneficiaries, Mahdi said."
-    },
-    {
-      "title": "PM inaugurates National Fisheries Week-2026 in Kishoreganj",
-      "link": "https://www.tbsnews.net/bangladesh/pm-inaugurates-national-fisheries-week-2026-kishoreganj-1516331",
-      "pubDate": "Sun, 16 Aug 2026 15:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/39f80729-0008-4c96-ad24-e5f690aa372e.jpg",
-      "snippet": "He also distributed fish fry among local people and exchanged greetings with residents."
-    },
-    {
-      "title": "15 Awami League leaders, including 5 women, arrested in Chattogram",
-      "link": "https://www.tbsnews.net/bangladesh/15-awami-league-leaders-including-5-women-arrested-chattogram-1516321",
-      "pubDate": "Sun, 16 Aug 2026 15:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/07/04/arrest-1579498383.jpg",
-      "snippet": "Police said a case was filed against the arrested individuals at Double Mooring Police Station as Case No 12, and they were sent to court after initial interrogation."
-    },
-    {
-      "title": "Trade licence renewal to be allowed for five years instead of one: Dhaka South administrator ",
-      "link": "https://www.tbsnews.net/bangladesh/trade-licence-renewal-be-allowed-five-years-instead-one-dhaka-south-administrator-1516301",
-      "pubDate": "Sun, 16 Aug 2026 15:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/09/18/trade_licence.jpg",
-      "snippet": "Salam said the Tk3,000 paid to the National Board of Revenue (NBR) during trade licence renewal does not go to the city corporation’s revenue. He advised businesses to demand that the government reduce the fee."
-    },
-    {
-      "title": "Muktadir urges Lithuania to invest in Bangladesh's ICT, fintech sectors",
-      "link": "https://www.tbsnews.net/bangladesh/muktadir-urges-lithuania-invest-bangladeshs-ict-fintech-sectors-1516286",
-      "pubDate": "Sun, 16 Aug 2026 15:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/image-415075-1786868547.jpg",
-      "snippet": "Muktadir said Bangladesh and Lithuania have significant scope to expand bilateral trade and investment, although the existing volume of trade between the two countries remains limited."
-    },
-    {
       "title": "Measles claims 6 more young lives, raising total fatalities to 908",
       "link": "https://www.tbsnews.net/bangladesh/measles-claims-6-more-young-lives-raising-total-fatalities-908-1516276",
       "pubDate": "Sun, 16 Aug 2026 14:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/11/measles_tbs.jpeg",
       "snippet": "Since 15 March, a total of 1,24,457 patients with suspected measles have been hospitalised across the country, of whom 1,19,939 have recovered, according to DGHS data."
-    },
-    {
-      "title": "Maritime ports asked to keep hoisted cautionary signal No 3",
-      "link": "https://www.tbsnews.net/bangladesh/maritime-ports-asked-keep-hoisted-cautionary-signal-no-3-1516296",
-      "pubDate": "Sun, 16 Aug 2026 14:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/5075138-picsart-aiimageenhancer.jpg",
-      "snippet": "Under its influence, squally weather may affect the Maritime Ports, North Bay and adjoining Coastal areas of Bangladesh, said a Met office bulletin."
     },
     {
       "title": "IUB launches award to turn academic innovations into real-world solutions",
@@ -538,40 +560,7 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/13/bobby_hajjaj.jpg",
       "snippet": "The state minister says the plan will connect local residents, parents and organisations more closely with schools."
-    },
-    {
-      "title": "Rising debt, fiscal gaps weigh on Bangladesh economy despite easing inflation: BB",
-      "link": "https://www.tbsnews.net/economy/rising-debt-fiscal-gaps-weigh-bangladesh-economy-despite-easing-inflation-bb-1514421",
-      "pubDate": "Thu, 13 Aug 2026 19:30:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/03/30/bangladesh_bank_0.jpg",
-      "snippet": "The government's debt-to-revenue ratio climbed further as debt expansion outpaced tax and non-tax revenue collection, according to the central bank."
-    },
-    {
-      "title": "Dengue claims 2 more lives as 693 hospitalised in 24 hrs",
-      "link": "https://www.tbsnews.net/bangladesh/health/dengue-claims-2-more-lives-693-hospitalised-24-hrs-1514351",
-      "pubDate": "Thu, 13 Aug 2026 19:20:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/25/05_news_copy.png",
-      "snippet": "The latest deaths take this year’s dengue toll to 65, with total cases crossing 22,000."
-    },
-    {
-      "title": "Bangladesh's shadow economy is too big to ignore",
-      "link": "https://www.tbsnews.net/thoughts/bangladeshs-shadow-economy-too-big-ignore-1514331",
-      "pubDate": "Thu, 13 Aug 2026 19:10:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/shadow_economy.jpg",
-      "snippet": "This is Bangladesh's informal economy, and it is not a marginal phenomenon."
     }
   ],
-  "updatedAt": "2026-08-16T12:37:53.781Z"
+  "updatedAt": "2026-08-16T13:30:53.859Z"
 }
