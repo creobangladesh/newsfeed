@@ -1,6 +1,50 @@
 {
   "news": [
     {
+      "title": "Rokeya University students go on hunger strike with 5-point demand",
+      "link": "https://www.tbsnews.net/bangladesh/rokeya-university-students-go-hunger-strike-5-point-demand-1516786",
+      "pubDate": "Sun, 16 Aug 2026 21:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/hunger_strike_rokeya_university.jpeg",
+      "snippet": "The students began the strike in front of the main gate of Academic Building-2 around 11am."
+    },
+    {
+      "title": "Whether courts or govt approve Hasina extradition is India's matter: ICT chief prosecutor",
+      "link": "https://www.tbsnews.net/bangladesh/whether-courts-or-govt-approve-hasina-extradition-indias-matter-ict-chief-prosecutor",
+      "pubDate": "Sun, 16 Aug 2026 20:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/29/chief_prosecutor_aminul_islam.jpg",
+      "snippet": "Aminul Islam says the Indian government has yet to clearly explain Sheikh Hasina’s current status in the country, noting that Bangladesh has already conveyed the matter to New Delhi but has received no clear response."
+    },
+    {
+      "title": "Govt eyes vetiver grass to check river erosion, save embankments: Water resources minister",
+      "link": "https://www.tbsnews.net/bangladesh/govt-eyes-vetiver-grass-check-river-erosion-save-embankments-water-resources-minister",
+      "pubDate": "Sun, 16 Aug 2026 20:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/shahid_uddin_chowdhury_annie.png",
+      "snippet": "The minister said the roots of Binna grass penetrate deep into the soil and hold it firmly in place, helping reduce erosion caused by rainwater, waves and currents."
+    },
+    {
+      "title": "Govt to prioritise concrete blocks over bricks in public construction: Minister",
+      "link": "https://www.tbsnews.net/bangladesh/govt-prioritise-concrete-blocks-over-bricks-public-construction-minister-1516771",
+      "pubDate": "Sun, 16 Aug 2026 20:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/untitled-1.png",
+      "snippet": "The government plans to promote concrete blocks over traditional bricks in public projects to protect farmland and reduce pollution and carbon emissions."
+    },
+    {
       "title": "Govt forms high-level committee on tea sector loans, financing",
       "link": "https://www.tbsnews.net/bangladesh/govt-forms-high-level-committee-tea-sector-loans-financing-1516741",
       "pubDate": "Sun, 16 Aug 2026 20:35:00 +0600",
@@ -10,6 +54,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/05/22/tea_garden__0.jpg",
       "snippet": "The committee will also provide recommendations on declaring tea an agricultural product and commercially installing solar panels on unused land in tea gardens."
+    },
+    {
+      "title": "Shama Obaed stresses equal education opportunities for all",
+      "link": "https://www.tbsnews.net/bangladesh/shama-obaed-stresses-equal-education-opportunities-all-1516746",
+      "pubDate": "Sun, 16 Aug 2026 20:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/shama_obaed2.png",
+      "snippet": "he said the government was giving serious attention to removing barriers to education for children from economically disadvantaged families."
     },
     {
       "title": "Noab to oversee newspaper distribution, bill collection in Dhaka",
@@ -63,7 +118,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/05/19/fire.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/bangshal_fire_1.jpg",
       "snippet": "No casualties reported yet."
     },
     {
@@ -144,17 +199,6 @@
       "snippet": "Fisheries play a vital role in meeting the country’s nutritional needs while creating employment through fish farming, catching, transportation, processing and marketing, PM says."
     },
     {
-      "title": "Apple issues new spyware warning to iPhone users in 110 countries",
-      "link": "https://www.tbsnews.net/tech/apple-issues-new-spyware-warning-iphone-users-110-countries-1516661",
-      "pubDate": "Sun, 16 Aug 2026 19:05:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/iphone.png",
-      "snippet": "Apple’s own data shows no known compromise of a device running Lockdown Mode, which shows Apple’s notification and the response are working, Boynton says."
-    },
-    {
       "title": "3 more testify in Tk25cr UCB money laundering case against ex-land minister Saifuzzaman",
       "link": "https://www.tbsnews.net/bangladesh/court/3-more-testify-tk25cr-ucb-money-laundering-case-against-ex-land-minister",
       "pubDate": "Sun, 16 Aug 2026 18:55:00 +0600",
@@ -175,414 +219,7 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/sylhet_triple_murder_suspect_babul.jpg",
       "snippet": "Sylhet Additional Chief Metropolitan Magistrate Farhana Sultana passed the order."
-    },
-    {
-      "title": "New pay scale for govt employees at final stage, announcement anytime: PM's principal secy",
-      "link": "https://www.tbsnews.net/bangladesh/new-pay-scale-govt-employees-final-stage-announcement-anytime-pms-principal-secy-1516606",
-      "pubDate": "Sun, 16 Aug 2026 18:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/12/inkrimentt1_0.jpg",
-      "snippet": "There are some problems in the market, and we are trying to resolve them, he says."
-    },
-    {
-      "title": "Court rejects police plea to show ex-major Sadiq arrested in car arson case",
-      "link": "https://www.tbsnews.net/bangladesh/court/court-rejects-police-plea-show-ex-major-sadiq-arrested-car-arson-case-1516581",
-      "pubDate": "Sun, 16 Aug 2026 18:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/774025611_1046232307776431_6347861745132350643_n.jpg",
-      "snippet": "Police allege Sadiq directed and financed the arson through trained operatives before his imprisonment."
-    },
-    {
-      "title": "Fascism will be tried in appropriate court: Law minister",
-      "link": "https://www.tbsnews.net/bangladesh/fascism-will-be-tried-appropriate-court-law-minister-1516586",
-      "pubDate": "Sun, 16 Aug 2026 18:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/law_minister_img.jpg",
-      "snippet": "Asaduzzaman says the trial will be held transparently and in accordance with due process"
-    },
-    {
-      "title": "People of Bangladesh have indomitable spirit to resist misrule: Rizvi",
-      "link": "https://www.tbsnews.net/bangladesh/people-bangladesh-have-indomitable-spirit-resist-misrule-rizvi-1516566",
-      "pubDate": "Sun, 16 Aug 2026 18:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/ruhul_kabir_rizvi_2.jpg",
-      "snippet": "Sheikh Hasina has no parallel among fascists around the world, he says."
-    },
-    {
-      "title": "Bangladeshi stevedore goes missing after falling from cargo vessel at Ctg Port",
-      "link": "https://www.tbsnews.net/bangladesh/bangladeshi-stevedore-goes-missing-after-falling-cargo-vessel-ctg-port-1516571",
-      "pubDate": "Sun, 16 Aug 2026 18:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/08/21/ctg_port1.jpg",
-      "snippet": "Navy, Coast Guard and port authorities are searching for the missing worker."
-    },
-    {
-      "title": "RU admission tests from 8 Jan, applications from 12 Nov",
-      "link": "https://www.tbsnews.net/bangladesh/education/ru-admission-tests-8-jan-applications-12-nov-1516576",
-      "pubDate": "Sun, 16 Aug 2026 18:00:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/07/11/rajshahi_university-unb.jpeg",
-      "snippet": "RU Vice-Chancellor Professor Md. Faridul Islam presided over the meeting."
-    },
-    {
-      "title": "'Digital Bangladesh' to become 'Smart Bangladesh' before govt tenure ends: Swapan",
-      "link": "https://www.tbsnews.net/bangladesh/digital-bangladesh-become-smart-bangladesh-govt-tenure-ends-swapan-1516461",
-      "pubDate": "Sun, 16 Aug 2026 16:45:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/zahir_swapan_img.jpg",
-      "snippet": "Swapan calls on journalists to become the facility’s first users."
-    },
-    {
-      "title": "Measles claims 6 more young lives, raising total fatalities to 908",
-      "link": "https://www.tbsnews.net/bangladesh/measles-claims-6-more-young-lives-raising-total-fatalities-908-1516276",
-      "pubDate": "Sun, 16 Aug 2026 14:55:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/11/measles_tbs.jpeg",
-      "snippet": "Since 15 March, a total of 1,24,457 patients with suspected measles have been hospitalised across the country, of whom 1,19,939 have recovered, according to DGHS data."
-    },
-    {
-      "title": "IUB launches award to turn academic innovations into real-world solutions",
-      "link": "https://www.tbsnews.net/bangladesh/education/iub-launches-award-turn-academic-innovations-real-world-solutions-1516221",
-      "pubDate": "Sun, 16 Aug 2026 14:05:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/i2i_iub_media_16x9.png",
-      "snippet": ""
-    },
-    {
-      "title": "Govt's preventive steps help keep dengue situation under control",
-      "link": "https://www.tbsnews.net/bangladesh/health/govts-preventive-steps-help-keep-dengue-situation-under-control-1516201",
-      "pubDate": "Sun, 16 Aug 2026 13:25:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/dengue_prevention_strategy_.jpg",
-      "snippet": "For the first time, Dhaka South City Corporation (DSCC) has conducted a 'Pre-Monsoon Aedes Mosquito Larva Survey' under its own management."
-    },
-    {
-      "title": "VAT refunds pile up as NBR's online system stalls",
-      "link": "https://www.tbsnews.net/economy/vat-refunds-pile-nbrs-online-system-stalls-1516041",
-      "pubDate": "Sun, 16 Aug 2026 10:00:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/vat.png",
-      "snippet": "NBR officials said businesses that are already entitled to refunds, as well as those seeking to submit new claims, are being affected because the online software module is taking time to update."
-    },
-    {
-      "title": "Adamjee EPZ exports surpass $1b, moving towards higher-value products",
-      "link": "https://www.tbsnews.net/economy/adamjee-epz-exports-surpass-1b-moving-towards-higher-value-products-1515996",
-      "pubDate": "Sun, 16 Aug 2026 07:30:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/adamjee_export_processing_zone_rajibdhar.jpg",
-      "snippet": "Built on the abandoned land of Adamjee Jute Mills, the EPZ has completed two decades of operation and currently hosts 47 production units that make garments, bridal wear, safety footwear, automotive components, and other specialised products for glob..."
-    },
-    {
-      "title": "Will taxpayers have to pay for the banking crisis too?",
-      "link": "https://www.tbsnews.net/thoughts/will-taxpayers-have-pay-banking-crisis-too-1515926",
-      "pubDate": "Sat, 15 Aug 2026 21:25:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/01/04/bank-1.png",
-      "snippet": "Consider a taxpayer who invests Tk1 crore and earns a profit of Tk12 lakh at maturity, from which Tk1.20 lakh is deducted as tax at source."
-    },
-    {
-      "title": "Bangladesh apparel exports to EU fall 16.4% in H1 2026",
-      "link": "https://www.tbsnews.net/economy/rmg/bangladeshs-apparel-exports-eu-fall-1643-y-o-y-h1-1515876",
-      "pubDate": "Sat, 15 Aug 2026 20:35:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/10/24/rmg_tram_group_nidle_3.jpg",
-      "snippet": "Bangladesh’s apparel exports fell in both volume and value as overall EU imports declined 9.7% in the first half of 2026."
-    },
-    {
-      "title": "AI cameras to detect traffic violations on Dhaka–Ctg highway",
-      "link": "https://www.tbsnews.net/tech/ai-cameras-detect-traffic-violations-dhaka-ctg-highway-1515851",
-      "pubDate": "Sat, 15 Aug 2026 20:10:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/24/p5_my_city_f3a9682.jpg",
-      "snippet": "This initiative would address all kinds of traffic rules’ violations with more transparency, efficiency and accuracy, DMP said."
-    },
-    {
-      "title": "Money, markets, and military: The economic pivot of the Mecca Agreement",
-      "link": "https://www.tbsnews.net/thoughts/money-markets-and-military-economic-pivot-mecca-agreement-1515756",
-      "pubDate": "Sat, 15 Aug 2026 18:25:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/mecca_agreement.jpg",
-      "snippet": "The trilateral defence pact between Saudi Arabia, Turkey and Pakistan could evolve beyond military cooperation, creating a strategic bloc that combines capital, technology, energy and military power to reshape regional economics and security."
-    },
-    {
-      "title": "RMG exporters seek 12-month instalments for Jul-Aug utility bills",
-      "link": "https://www.tbsnews.net/economy/rmg/garment-exporters-seek-facility-pay-july-august-gas-electricity-bills-installments",
-      "pubDate": "Sat, 15 Aug 2026 18:20:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/garment_exporters_seek_facility_to_pay_july-august_gas_electricity_bills_in_installments.png",
-      "snippet": "The BKMEA says paying the July and August utility bills in full under existing rules would be difficult for many factory owners given the financial losses they had suffered."
-    },
-    {
-      "title": "Ex-Kushtia resident medical officer faces departmental case over recruitment exam question leak",
-      "link": "https://www.tbsnews.net/bangladesh/health/ex-kushtia-resident-medical-officer-faces-departmental-case-over-recruitment-exam",
-      "pubDate": "Sat, 15 Aug 2026 18:10:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/dr_hossain_imam.jpg",
-      "snippet": "Probe finds preliminary evidence supporting allegations that candidates took the written recruitment test at his residence using allegedly leaked question papers."
-    },
-    {
-      "title": "Bangladesh’s untapped energy source: Efficiency ",
-      "link": "https://www.tbsnews.net/thoughts/bangladeshs-untapped-energy-source-efficiency-1515611",
-      "pubDate": "Sat, 15 Aug 2026 16:15:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/worlds-2.4-trillion-energy-transition-spending-in-2024-fea.png",
-      "snippet": "Bangladesh’s forgotten fuel lies not beneath the ground or across international markets, but in the vast amount of energy wasted every day"
-    },
-    {
-      "title": "A cautious step towards Rohingya repatriation, a larger test for Bangladesh ",
-      "link": "https://www.tbsnews.net/thoughts/cautious-step-towards-rohingya-repatriation-larger-test-bangladesh-1515616",
-      "pubDate": "Sat, 15 Aug 2026 16:15:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/rohingya-1_0.jpg",
-      "snippet": "Malaysia's initiative breaks a prolonged diplomatic stalemate, offering Bangladesh a tangible reference point for structured repatriation talks"
-    },
-    {
-      "title": "Cox’s Bazar: A multidimensional tourism potential driven by blue resources",
-      "link": "https://www.tbsnews.net/thoughts/coxs-bazar-multidimensional-tourism-potential-driven-blue-resources-1515606",
-      "pubDate": "Sat, 15 Aug 2026 16:05:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/coxs_bazar_0.jpeg",
-      "snippet": ""
-    },
-    {
-      "title": "How 'green' are Bangladesh's shipbreaking yards if workers keep dying? ",
-      "link": "https://www.tbsnews.net/analysis/how-green-are-bangladeshs-shipbreaking-yards-if-workers-keep-dying-1515571",
-      "pubDate": "Sat, 15 Aug 2026 15:30:00 +0600",
-      "category": "Industry",
-      "color": "#f57c00",
-      "bg": "#fff3e0",
-      "icon": "🏭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/p1_sitakunda_coc01595.jpg.jpeg",
-      "snippet": "Bangladesh recorded 12 shipbreaking worker deaths in 2026, despite a growing number of yards receiving green certification."
-    },
-    {
-      "title": "Gold price rises again by Tk2,158 per bhori",
-      "link": "https://www.tbsnews.net/economy/gold-price-rises-again-tk2158-bhori-1515556",
-      "pubDate": "Sat, 15 Aug 2026 15:15:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/06/16/gold_jewellery.jpg",
-      "snippet": "Despite the rise in gold prices, silver prices remain unchanged."
-    },
-    {
-      "title": "Measles outbreak: Death toll tops 900 as 8 more die",
-      "link": "https://www.tbsnews.net/bangladesh/health/measles-outbreak-death-toll-tops-900-8-more-die-1515526",
-      "pubDate": "Sat, 15 Aug 2026 14:50:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/measlessssssss.jpeg",
-      "snippet": "The total number of suspected measles deaths has reached 803, while confirmed deaths from measles have remained at 99."
-    },
-    {
-      "title": "PM stresses humane approach, equal access to quality healthcare",
-      "link": "https://www.tbsnews.net/bangladesh/health/pm-stresses-humane-approach-equal-access-quality-healthcare-1515401",
-      "pubDate": "Sat, 15 Aug 2026 12:45:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/8994423.jpg",
-      "snippet": "The Prime Minister was speaking after inaugurating the new 500-bed building of the National Institute of Neurosciences and Hospital in Agargaon."
-    },
-    {
-      "title": "Switching to electricity only way out of gas crisis",
-      "link": "https://www.tbsnews.net/bangladesh/energy/switching-electricity-gas-only-way-out-current-crisis-1515231",
-      "pubDate": "Sat, 15 Aug 2026 10:00:00 +0600",
-      "category": "Analysis",
-      "color": "#5d4037",
-      "bg": "#efebe9",
-      "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/34c464be-dda3-4901-9a19-cde0bb1ed9dd.jpg",
-      "snippet": "LNG imports cost Bangladesh $3.8 billion in 2025, compared with $3 billion the previous year. These imports cover one-fourth of the country’s total gas supply."
-    },
-    {
-      "title": "How sustainable is sustainability? ",
-      "link": "https://www.tbsnews.net/thoughts/how-sustainable-sustainability-1515111",
-      "pubDate": "Fri, 14 Aug 2026 20:45:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/illustration-for-thoughts.jpg",
-      "snippet": "The question may sound simple, but it opens up a much deeper debate about the relationship between the economy, the environment, development, human wellbeing and future generations. Ultimately, what exactly are we trying to sustain?"
-    },
-    {
-      "title": "India's space sector: A launchpad for global partnerships",
-      "link": "https://www.tbsnews.net/thoughts/indias-space-sector-launchpad-global-partnerships-1515106",
-      "pubDate": "Fri, 14 Aug 2026 20:40:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/aazhwtjclnlefixgzxctfnm32m.jpg",
-      "snippet": "Recognised as a trustworthy and cost-effective spacefaring nation, India is now well placed to transform its technological advances into enduring international partnerships"
-    },
-    {
-      "title": "Sandhya Ain: The debate over Dhaka University's female hall curfew",
-      "link": "https://www.tbsnews.net/features/panorama/sandhya-ain-debate-over-dhaka-universitys-female-hall-curfew-1515096",
-      "pubDate": "Fri, 14 Aug 2026 20:40:00 +0600",
-      "category": "Analysis",
-      "color": "#5d4037",
-      "bg": "#efebe9",
-      "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/selcted_760261566_122101112234338901_3001010762300721440_n_0.jpg",
-      "snippet": "Dhaka University’s hall curfews have come to the fore as more than just a question of access. They reflect a deeper debate over bureaucratic discrimination against women that restricts their movement while leaving safety unaddressed"
-    },
-    {
-      "title": "Measles outbreak: Death toll reaches 894 as 4 more die",
-      "link": "https://www.tbsnews.net/bangladesh/health/measles-outbreak-death-toll-reaches-894-4-more-die-1514886",
-      "pubDate": "Fri, 14 Aug 2026 15:30:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/measlessssssss.jpeg",
-      "snippet": "The number of suspected measles deaths rose to 795, while the number of laboratory-confirmed measles deaths reached 99."
-    },
-    {
-      "title": "500 more beds for Neurosciences Hospital, PM likely to open building",
-      "link": "https://www.tbsnews.net/bangladesh/health/500-more-beds-neurosciences-hospital-pm-likely-open-building-1514866",
-      "pubDate": "Fri, 14 Aug 2026 14:55:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/07/img_7174.jpeg",
-      "snippet": "Prime Minister Tarique Rahman is expected to inaugurate the new building at 10am tomorrow"
-    },
-    {
-      "title": "2 more children die in Sylhet with measles symptoms, death toll rises to 133",
-      "link": "https://www.tbsnews.net/bangladesh/health/2-more-children-die-sylhet-measles-symptoms-death-toll-rises-133-1514831",
-      "pubDate": "Fri, 14 Aug 2026 12:35:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/11/measles_tbs.jpeg",
-      "snippet": "The Directorate General of Health Services also reported 28 new confirmed measles cases in the past 24 hours"
-    },
-    {
-      "title": "Apple trains its own AI model for China market with Alibaba's support, sources say",
-      "link": "https://www.tbsnews.net/tech/apple-trains-its-own-ai-model-china-market-alibabas-support-sources-say-1514791",
-      "pubDate": "Fri, 14 Aug 2026 11:20:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/7jdbtn54rvoxxjljute5wqjmfe.jpg",
-      "snippet": "Apple has a special two-step plan for AI in China."
-    },
-    {
-      "title": "New study sheds light on breast cancer treatment resistance",
-      "link": "https://www.tbsnews.net/bangladesh/health/new-study-sheds-light-breast-cancer-treatment-resistance-1514781",
-      "pubDate": "Fri, 14 Aug 2026 11:15:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/breast_cancer.jpg",
-      "snippet": "The study, published in Nature, found that the retinoblastoma (Rb) protein, long viewed as a natural brake on cancer growth, can unexpectedly activate genes that respond to the hormone estrogen."
-    },
-    {
-      "title": "Remittance dollar rate falls by Tk1 in a week",
-      "link": "https://www.tbsnews.net/economy/banking/remittance-dollar-rate-falls-tk1-week-1514706",
-      "pubDate": "Fri, 14 Aug 2026 09:55:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/12/23/kd3zeva7sfj4pfuxw27ztbh4sq.jpg",
-      "snippet": "Senior officials at Bangladesh Bank and several commercial banks confirmed the development. Bankers also said the rate for settling letters of credit (LCs) has declined, and could fall further next week."
-    },
-    {
-      "title": " BB moves to liquidate five NBFIs with Tk2,000cr from govt fund",
-      "link": "https://www.tbsnews.net/economy/banking/bb-moves-liquidate-five-nbfis-tk2000cr-govt-fund-1514701",
-      "pubDate": "Fri, 14 Aug 2026 07:40:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/09/01/non-bank-financial-institutions-2103222011.png",
-      "snippet": "The central bank recently brought four NBFIs under the Bank Resolution framework, declaring them non-viable. They are Aviva Finance, Fareast Finance and Investment, FAS Finance and Investment, and International Leasing and Financial Services."
-    },
-    {
-      "title": "Govt plans bigger community role in primary schools: Bobby Hajjaj",
-      "link": "https://www.tbsnews.net/bangladesh/education/govt-plans-bigger-community-role-primary-schools-bobby-hajjaj-1514561",
-      "pubDate": "Thu, 13 Aug 2026 20:55:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/13/bobby_hajjaj.jpg",
-      "snippet": "The state minister says the plan will connect local residents, parents and organisations more closely with schools."
     }
   ],
-  "updatedAt": "2026-08-16T14:48:52.444Z"
+  "updatedAt": "2026-08-16T15:20:34.215Z"
 }
