@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "Crude bomb attack on BNP office in Satkhira",
+      "link": "https://www.tbsnews.net/bangladesh/crude-bomb-attack-bnp-office-satkhira-1516146",
+      "pubDate": "Sun, 16 Aug 2026 12:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/774184051_3002044020149573_8104034201808853273_n.jpg",
+      "snippet": "Police recovered two unexploded crude bombs from the scene following a midnight attack in Kaliganj."
+    },
+    {
+      "title": "Factories, farmers bear brunt of load shedding in Naogaon",
+      "link": "https://www.tbsnews.net/bangladesh/factories-farmers-bear-brunt-load-shedding-naogaon-1516141",
+      "pubDate": "Sun, 16 Aug 2026 11:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/naogaon_.jpg",
+      "snippet": "Areas outside the district town are facing power outages of up to seven to eight hours a day while industries are increasingly relying on diesel-run generators to keep their operations going."
+    },
+    {
+      "title": "4 killed as pickup overturns in Rangamati",
+      "link": "https://www.tbsnews.net/bangladesh/4-killed-pickup-overturns-rangamati-1516126",
+      "pubDate": "Sun, 16 Aug 2026 11:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/rangamati_accident_0.jpg",
+      "snippet": "The accident occurred around 5:15am in front of Manikchhari Army Camp in Sapchhari union on the Rangamati-Kutukchhari road."
+    },
+    {
       "title": "Three new jails proposed in Chattogram as inmates hold up to three times capacity",
       "link": "https://www.tbsnews.net/bangladesh/three-new-jails-proposed-chattogram-inmates-hold-three-times-capacity-1516051",
       "pubDate": "Sun, 16 Aug 2026 11:00:00 +0600",
@@ -23,17 +56,6 @@
       "snippet": "Police earlier said Ridhika had died by suicide while on a video call with her boyfriend on Saturday morning. She was found hanging from a ceiling fan at around 6am at her home in Bashundhara Residential Area."
     },
     {
-      "title": "Dhaka records moderate air quality, ranks 27th globally",
-      "link": "https://www.tbsnews.net/bangladesh/environment/dhaka-records-moderate-air-quality-ranks-27th-globally-1516076",
-      "pubDate": "Sun, 16 Aug 2026 10:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/3720397.jpg",
-      "snippet": "According to AQI standards, a reading between 101 and 150 is considered ‘unhealthy for sensitive groups."
-    },
-    {
       "title": " After MRT-1, MRT-5 Northern cost proposed to rise 126%",
       "link": "https://www.tbsnews.net/bangladesh/infrastructure/after-mrt-1-mrt-5-northern-cost-proposed-rise-126-1516061",
       "pubDate": "Sun, 16 Aug 2026 10:30:00 +0600",
@@ -43,6 +65,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/12/27/mrt_mumitm-7090.jpg",
       "snippet": "High bids, global inflation and currency shifts drive revision"
+    },
+    {
+      "title": "Dhaka records moderate air quality, ranks 27th globally",
+      "link": "https://www.tbsnews.net/bangladesh/environment/dhaka-records-moderate-air-quality-ranks-27th-globally-1516076",
+      "pubDate": "Sun, 16 Aug 2026 10:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/3720397.jpg",
+      "snippet": "According to AQI standards, a reading between 101 and 150 is considered ‘unhealthy for sensitive groups."
     },
     {
       "title": "PM Tarique leaves Dhaka for Kishoreganj on daylong tour",
@@ -199,7 +232,7 @@
       "snippet": "DB Chief said to gain the victim’s confidence, he reportedly arranged him to work at the office and paid him a monthly ‘salary’ for three months."
     },
     {
-      "title": "Bangladesh apparel exports to EU fall 16.4% in H1 2026",
+      "title": "Bangladesh's apparel exports to EU fall 16.43% Y-o-Y in H1",
       "link": "https://www.tbsnews.net/economy/rmg/bangladeshs-apparel-exports-eu-fall-1643-y-o-y-h1-1515876",
       "pubDate": "Sat, 15 Aug 2026 20:35:00 +0600",
       "category": "Economy",
@@ -208,39 +241,6 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/10/24/rmg_tram_group_nidle_3.jpg",
       "snippet": "Bangladesh’s apparel exports fell in both volume and value as overall EU imports declined 9.7% in the first half of 2026."
-    },
-    {
-      "title": "Shahjalal shrine donation boxes yield nearly Tk71 lakh, currencies from 19 countries",
-      "link": "https://www.tbsnews.net/bangladesh/shahjalal-shrine-donation-boxes-yield-nearly-tk71-lakh-currencies-19-countries-1515861",
-      "pubDate": "Sat, 15 Aug 2026 20:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/untitled-3.png",
-      "snippet": "The count also found gold, silver, foreign currencies and livestock, while authorities work on a policy for managing the shrine’s finances."
-    },
-    {
-      "title": "Truck crashes into showroom in Lalmonirhat, killing 2",
-      "link": "https://www.tbsnews.net/bangladesh/truck-crashes-showroom-lalmonirhat-killing-2-1515856",
-      "pubDate": "Sat, 15 Aug 2026 20:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/untitled-2_0.png",
-      "snippet": "The accident occurred around noon on the Lalmonirhat-Burimari highway near the Sonali Bank area in Hatibandha upazila."
-    },
-    {
-      "title": "Shramik Shakti protests Sitakunda shipbreaking yard deaths in Shahbagh",
-      "link": "https://www.tbsnews.net/bangladesh/shramik-shakti-protests-sitakunda-shipbreaking-yard-deaths-shahbagh-1515846",
-      "pubDate": "Sat, 15 Aug 2026 20:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/773995280_1366822588912114_8442402078749613761_n.jpg",
-      "snippet": "The organisation demanded compensation for the victims, an impartial investigation into the deaths and prosecution of those responsible."
     },
     {
       "title": "AI cameras to detect traffic violations on Dhaka–Ctg highway",
@@ -265,7 +265,7 @@
       "snippet": "The trilateral defence pact between Saudi Arabia, Turkey and Pakistan could evolve beyond military cooperation, creating a strategic bloc that combines capital, technology, energy and military power to reshape regional economics and security."
     },
     {
-      "title": "RMG exporters seek 12-month instalments for Jul-Aug utility bills",
+      "title": "Garment exporters seek facility to pay July–August gas, electricity bills in installments",
       "link": "https://www.tbsnews.net/economy/rmg/garment-exporters-seek-facility-pay-july-august-gas-electricity-bills-installments",
       "pubDate": "Sat, 15 Aug 2026 18:20:00 +0600",
       "category": "Economy",
@@ -273,7 +273,7 @@
       "bg": "#e8f5e9",
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/garment_exporters_seek_facility_to_pay_july-august_gas_electricity_bills_in_installments.png",
-      "snippet": "The BKMEA says paying the July and August utility bills in full under existing rules would be difficult for many factory owners given the financial losses they had suffered."
+      "snippet": "The extension of time and installment facility would enable them to sustain production and export operations while safeguarding workers' employment."
     },
     {
       "title": "Ex-Kushtia resident medical officer faces departmental case over recruitment exam question leak",
@@ -650,5 +650,5 @@
       "snippet": "Banks and payment service providers must integrate the feature into their mobile apps ahead of its 1 November rollout."
     }
   ],
-  "updatedAt": "2026-08-16T05:55:22.981Z"
+  "updatedAt": "2026-08-16T06:38:50.160Z"
 }
