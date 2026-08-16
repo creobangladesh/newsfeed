@@ -1,7 +1,40 @@
 {
   "news": [
     {
-      "title": "Bangladesh urges India to expedite extradition of Sheikh Hasina, other fugitives ",
+      "title": "IUB launches award to turn academic innovations into real-world solutions",
+      "link": "https://www.tbsnews.net/bangladesh/education/iub-launches-award-turn-academic-innovations-real-world-solutions-1516221",
+      "pubDate": "Sun, 16 Aug 2026 14:05:00 +0600",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/i2i_iub_media_16x9.png",
+      "snippet": ""
+    },
+    {
+      "title": "Keep faith in BNP government, development initiatives: PM Tarique",
+      "link": "https://www.tbsnews.net/bangladesh/keep-faith-bnp-government-development-initiatives-pm-tarique-1516211",
+      "pubDate": "Sun, 16 Aug 2026 13:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/b9889a91-a10e-4651-9f87-8584c42d8bab.png",
+      "snippet": "Thousands of BNP leaders and activists greeted the Prime Minister with applause when he reached the stage after releasing fish fry."
+    },
+    {
+      "title": "Govt's preventive steps help keep dengue situation under control",
+      "link": "https://www.tbsnews.net/bangladesh/health/govts-preventive-steps-help-keep-dengue-situation-under-control-1516201",
+      "pubDate": "Sun, 16 Aug 2026 13:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/dengue_prevention_strategy_.jpg",
+      "snippet": "For the first time, Dhaka South City Corporation (DSCC) has conducted a 'Pre-Monsoon Aedes Mosquito Larva Survey' under its own management."
+    },
+    {
+      "title": "Dhaka urges Delhi to expedite Hasina's extradition; seeks 'propitious environment' for PM Tarique's visit",
       "link": "https://www.tbsnews.net/foreign-policy/bangladesh-urges-india-expedite-extradition-sheikh-hasina-other-fugitives-1516191",
       "pubDate": "Sun, 16 Aug 2026 13:05:00 +0600",
       "category": "Bangladesh",
@@ -9,7 +42,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/1425118.jpg",
-      "snippet": "He said officials of Bangladesh and India have been in touch with each other for several weeks on the possibility of a bilateral visit by Prime Minister Tarique Rahman to India."
+      "snippet": "Spokesperson of the Ministry of Foreign Affairs AKM Shahidul Karim said officials of Bangladesh and India have been in touch with each other for several weeks on the possibility of a bilateral visit by Prime Minister Tarique Rahman to India."
     },
     {
       "title": "Rain likely in parts of country",
@@ -122,7 +155,7 @@
       "snippet": "According to AQI standards, a reading between 101 and 150 is considered ‘unhealthy for sensitive groups."
     },
     {
-      "title": "PM arrives in Pakundia on Kishoreganj visit, releases fish hatchlings into Brahmaputra",
+      "title": "PM arrives in Pakundia on Kishoreganj visit, releases fish fries into Brahmaputra",
       "link": "https://www.tbsnews.net/bangladesh/pm-arrives-pakundia-kishoreganj-visit-releases-fish-hatchlings-brahmaputra-1516066",
       "pubDate": "Sun, 16 Aug 2026 10:15:00 +0600",
       "category": "Bangladesh",
@@ -197,28 +230,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/12/fakhrul_sketch.png",
       "snippet": "Party sources said candidates from Mirza Fakhrul Islam Alamgir’s family or close circle are under consideration, but no formal decision has been made."
-    },
-    {
-      "title": "12 injured in Jamaat-Gono Odhikar clash in Kushtia; MP Amir Hamza's car vandalised",
-      "link": "https://www.tbsnews.net/bangladesh/jamaat-gono-odhikar-parishad-clashes-leave-12-injured-kushtia-1515916",
-      "pubDate": "Sat, 15 Aug 2026 21:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/kushtia_clash.jpg",
-      "snippet": "The clashes erupted near Kushtia-3 lawmaker Amir Hamza’s residence during a Gono Odhikar Parishad protest over his recent remarks about the party."
-    },
-    {
-      "title": "DSEX gains last week as margin rule optimism offsets energy crisis jitters",
-      "link": "https://www.tbsnews.net/economy/stocks/dsex-gains-last-week-margin-rule-optimism-offsets-energy-crisis-jitters-1515901",
-      "pubDate": "Sat, 15 Aug 2026 21:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/07/dse.jpg",
-      "snippet": "The benchmark DSEX index of the Dhaka Stock Exchange (DSE) climbed 23 points to settle at 5,884 by the week’s close."
     },
     {
       "title": "Will taxpayers have to pay for the banking crisis too?",
@@ -615,40 +626,7 @@
       "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/31/meta.png",
       "snippet": "29 states accuse Meta of designing Facebook and Instagram to keep children hooked and misusing their data in a case that could bring sweeping platform changes and massive damages."
-    },
-    {
-      "title": "Bangladesh to showcase 17 companies at Texworld Paris 2026",
-      "link": "https://www.tbsnews.net/economy/rmg/bangladesh-showcase-17-companies-texworld-paris-2026-1513861",
-      "pubDate": "Thu, 13 Aug 2026 14:20:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/apparel_industry.jpg",
-      "snippet": "The exhibition will bring together major sourcing markets, including Bangladesh, Pakistan, China, India, Turkiye, Myanmar, South Korea, Japan and Italy."
-    },
-    {
-      "title": "AP Moller-Maersk Q2 revenue jumps 20% to $15.8b, raises full-year guidance",
-      "link": "https://www.tbsnews.net/economy/ap-moller-maersk-q2-revenue-jumps-20-158b-raises-full-year-guidance-1513836",
-      "pubDate": "Thu, 13 Aug 2026 13:55:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/08/31/maersk.jpg",
-      "snippet": "The strong quarterly performance prompted the company to raise its full-year 2026 financial guidance."
-    },
-    {
-      "title": "P2P payments coming to Bangla QR, BB asks all to ready apps by 31 Oct",
-      "link": "https://www.tbsnews.net/economy/banking/person-person-payments-coming-bangla-qr-bb-orders-all-apps-be-ready-31-oct-1513811",
-      "pubDate": "Thu, 13 Aug 2026 13:40:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/bangladesh-bank-bangla-qr.jpg",
-      "snippet": "Banks and payment service providers must integrate the feature into their mobile apps ahead of its 1 November rollout."
     }
   ],
-  "updatedAt": "2026-08-16T07:30:35.977Z"
+  "updatedAt": "2026-08-16T08:28:32.614Z"
 }
