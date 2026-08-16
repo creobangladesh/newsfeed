@@ -23,17 +23,6 @@
       "snippet": "Police earlier said Ridhika had died by suicide while on a video call with her boyfriend on Saturday morning. She was found hanging from a ceiling fan at around 6am at her home in Bashundhara Residential Area."
     },
     {
-      "title": " After MRT-1, MRT-5 Northern cost proposed to rise 126%",
-      "link": "https://www.tbsnews.net/bangladesh/infrastructure/after-mrt-1-mrt-5-northern-cost-proposed-rise-126-1516061",
-      "pubDate": "Sun, 16 Aug 2026 10:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/12/27/mrt_mumitm-7090.jpg",
-      "snippet": "High bids, global inflation and currency shifts drive revision"
-    },
-    {
       "title": "Dhaka records moderate air quality, ranks 27th globally",
       "link": "https://www.tbsnews.net/bangladesh/environment/dhaka-records-moderate-air-quality-ranks-27th-globally-1516076",
       "pubDate": "Sun, 16 Aug 2026 10:30:00 +0600",
@@ -43,6 +32,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/3720397.jpg",
       "snippet": "According to AQI standards, a reading between 101 and 150 is considered ‘unhealthy for sensitive groups."
+    },
+    {
+      "title": " After MRT-1, MRT-5 Northern cost proposed to rise 126%",
+      "link": "https://www.tbsnews.net/bangladesh/infrastructure/after-mrt-1-mrt-5-northern-cost-proposed-rise-126-1516061",
+      "pubDate": "Sun, 16 Aug 2026 10:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/12/27/mrt_mumitm-7090.jpg",
+      "snippet": "High bids, global inflation and currency shifts drive revision"
     },
     {
       "title": "PM Tarique leaves Dhaka for Kishoreganj on daylong tour",
@@ -650,5 +650,5 @@
       "snippet": "Banks and payment service providers must integrate the feature into their mobile apps ahead of its 1 November rollout."
     }
   ],
-  "updatedAt": "2026-08-16T05:27:23.829Z"
+  "updatedAt": "2026-08-16T05:55:22.981Z"
 }
