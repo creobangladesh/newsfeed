@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "Businesses seek simpler trade licence process, lower fees",
+      "link": "https://www.tbsnews.net/economy/businesses-seek-simpler-trade-licence-process-lower-fees-1516906",
+      "pubDate": "Mon, 17 Aug 2026 00:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/10/28/small-businesses.jpg",
+      "snippet": "They also urges the authorities to regulate different types of vehicles, including battery-run autorickshaws, and enforce traffic laws effectively to ease traffic congestion in the capital."
+    },
+    {
+      "title": "Uttara Finance chairman, MD among four directors resign",
+      "link": "https://www.tbsnews.net/economy/banking/uttara-finance-chairman-md-among-four-directors-resign-1516901",
+      "pubDate": "Mon, 17 Aug 2026 00:00:00 +0600",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/06/uttara_finance.jpg",
+      "snippet": "In February this year, Bangladesh Bank reconstituted Uttara Finance’s board with five members, comprising four independent directors and the CFO of Uttara Group."
+    },
+    {
+      "title": "Bangladesh PM's visit to India should take place much sooner: Dinesh Trivedi",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-pms-visit-india-should-take-place-much-sooner-dinesh-trivedi-1516896",
+      "pubDate": "Sun, 16 Aug 2026 23:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/11/dinesh_trivedi.jpg",
+      "snippet": "\"My objective is to have a golden period between Bangladesh and India, \" he says."
+    },
+    {
       "title": "Fruit imports get easier as Bangladesh Bank lifts 100% cash margin rule",
       "link": "https://www.tbsnews.net/economy/fruit-imports-get-easier-cenbank-lifts-100-cash-margin-rule-1516871",
       "pubDate": "Sun, 16 Aug 2026 21:55:00 +0600",
@@ -144,17 +177,6 @@
       "snippet": "Aminul Islam says the Indian government has yet to clearly explain Sheikh Hasina’s current status in the country, noting that Bangladesh has already conveyed the matter to New Delhi but has received no clear response."
     },
     {
-      "title": "Govt to prioritise concrete blocks over bricks in public construction: Minister",
-      "link": "https://www.tbsnews.net/bangladesh/govt-prioritise-concrete-blocks-over-bricks-public-construction-minister-1516771",
-      "pubDate": "Sun, 16 Aug 2026 20:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/untitled-1.png",
-      "snippet": "The government plans to promote concrete blocks over traditional bricks in public projects to protect farmland and reduce pollution and carbon emissions."
-    },
-    {
       "title": "Govt eyes vetiver grass to check river erosion, save embankments: Water resources minister",
       "link": "https://www.tbsnews.net/bangladesh/govt-eyes-vetiver-grass-check-river-erosion-save-embankments-water-resources-minister",
       "pubDate": "Sun, 16 Aug 2026 20:45:00 +0600",
@@ -166,15 +188,15 @@
       "snippet": "The minister said the roots of Binna grass penetrate deep into the soil and hold it firmly in place, helping reduce erosion caused by rainwater, waves and currents."
     },
     {
-      "title": "Govt forms high-level committee on tea sector loans, financing",
-      "link": "https://www.tbsnews.net/bangladesh/govt-forms-high-level-committee-tea-sector-loans-financing-1516741",
-      "pubDate": "Sun, 16 Aug 2026 20:35:00 +0600",
+      "title": "Govt to prioritise concrete blocks over bricks in public construction: Minister",
+      "link": "https://www.tbsnews.net/bangladesh/govt-prioritise-concrete-blocks-over-bricks-public-construction-minister-1516771",
+      "pubDate": "Sun, 16 Aug 2026 20:45:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/05/22/tea_garden__0.jpg",
-      "snippet": "The committee will also provide recommendations on declaring tea an agricultural product and commercially installing solar panels on unused land in tea gardens."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/untitled-1.png",
+      "snippet": "The government plans to promote concrete blocks over traditional bricks in public projects to protect farmland and reduce pollution and carbon emissions."
     },
     {
       "title": "Shama Obaed stresses equal education opportunities for all",
@@ -186,6 +208,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/shama_obaed2.png",
       "snippet": "he said the government was giving serious attention to removing barriers to education for children from economically disadvantaged families."
+    },
+    {
+      "title": "Govt forms high-level committee on tea sector loans, financing",
+      "link": "https://www.tbsnews.net/bangladesh/govt-forms-high-level-committee-tea-sector-loans-financing-1516741",
+      "pubDate": "Sun, 16 Aug 2026 20:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/05/22/tea_garden__0.jpg",
+      "snippet": "The committee will also provide recommendations on declaring tea an agricultural product and commercially installing solar panels on unused land in tea gardens."
     },
     {
       "title": "Noab to oversee newspaper distribution, bill collection in Dhaka",
@@ -219,28 +252,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/774969725_1061209806557649_3066088691831406956_n.jpg",
       "snippet": "Police recovered fake RAB and DB vests, a police-logo handcuff, weapons and a private car allegedly used in robberies."
-    },
-    {
-      "title": "Ctg Port removes 15,000 metres of illegal fishing nets from shipping channel",
-      "link": "https://www.tbsnews.net/bangladesh/ctg-port-removes-15000-metres-illegal-fishing-nets-shipping-channel-1516711",
-      "pubDate": "Sun, 16 Aug 2026 20:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/cpa_fishing_net.jpeg",
-      "snippet": "The seized nets and other fishing equipment had been obstructing vessel movement along the navigation route and posed a serious risk to ships using the port, the authority said."
-    },
-    {
-      "title": "Fire guts Bangshal helmet warehouse, flames brought under control after 2hrs",
-      "link": "https://www.tbsnews.net/bangladesh/fire-breaks-out-helmet-warehouse-bangshal-7-units-battle-blaze-1516696",
-      "pubDate": "Sun, 16 Aug 2026 20:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/bangshal_fire_1.jpg",
-      "snippet": "No casualties reported yet."
     },
     {
       "title": "All upazila health complexes to become nine-storey facilities: Sakhawat",
@@ -628,5 +639,5 @@
       "snippet": "The central bank recently brought four NBFIs under the Bank Resolution framework, declaring them non-viable. They are Aviva Finance, Fareast Finance and Investment, FAS Finance and Investment, and International Leasing and Financial Services."
     }
   ],
-  "updatedAt": "2026-08-16T17:45:14.816Z"
+  "updatedAt": "2026-08-16T18:28:24.960Z"
 }
