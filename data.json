@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": " After MRT-1, MRT-5 Northern cost proposed to rise 126%",
+      "link": "https://www.tbsnews.net/bangladesh/infrastructure/after-mrt-1-mrt-5-northern-cost-proposed-rise-126-1516061",
+      "pubDate": "Sun, 16 Aug 2026 10:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/12/27/mrt_mumitm-7090.jpg",
+      "snippet": "High bids, global inflation and currency shifts drive revision"
+    },
+    {
+      "title": "PM Tarique leaves Dhaka for Kishoreganj on daylong tour",
+      "link": "https://www.tbsnews.net/bangladesh/pm-tarique-leaves-dhaka-kishoreganj-daylong-tour-1516066",
+      "pubDate": "Sun, 16 Aug 2026 10:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/9171287.jpg",
+      "snippet": "The Prime Minister will attend the inauguration of National Fisheries Week and the National Fisheries Award ceremony at the George Institution Mini Stadium around 1pm."
+    },
+    {
+      "title": "VAT refunds pile up as NBR's online system stalls",
+      "link": "https://www.tbsnews.net/economy/vat-refunds-pile-nbrs-online-system-stalls-1516041",
+      "pubDate": "Sun, 16 Aug 2026 10:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/vat.png",
+      "snippet": "NBR officials said businesses that are already entitled to refunds, as well as those seeking to submit new claims, are being affected because the online software module is taking time to update."
+    },
+    {
       "title": "2 athletes lose medals, receive lifetime bans after gender tests",
       "link": "https://www.tbsnews.net/sports/2-athletes-lose-medals-receive-lifetime-bans-after-gender-tests-1516036",
       "pubDate": "Sun, 16 Aug 2026 09:30:00 +0600",
@@ -10,6 +43,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/_jannat_begum_and_kabita_roy_.jpg",
       "snippet": "According to the report, both athletes had testosterone levels significantly above the range set for female competitors."
+    },
+    {
+      "title": "Revuelto SV: Lamborghini's most powerful production car yet",
+      "link": "https://www.tbsnews.net/tech/new-revuelto-sv-lamborghinis-most-powerful-production-car-yet-1516031",
+      "pubDate": "Sun, 16 Aug 2026 08:50:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/att.2he53n42oyda4cjd2vw9befgumfi8dp7dqvt8z5ajrm.jpeg",
+      "snippet": "The colour scheme on this particular SV may be divisive, with more than a hint of Tron about it, but it is one of four exclusive launch liveries."
     },
     {
       "title": "Adamjee EPZ exports surpass $1b, moving towards higher-value products",
@@ -133,7 +177,7 @@
       "snippet": "DB Chief said to gain the victim’s confidence, he reportedly arranged him to work at the office and paid him a monthly ‘salary’ for three months."
     },
     {
-      "title": "Bangladesh's apparel exports to EU fall 16.43% Y-o-Y in H1",
+      "title": "Bangladesh apparel exports to EU fall 16.4% in H1 2026",
       "link": "https://www.tbsnews.net/economy/rmg/bangladeshs-apparel-exports-eu-fall-1643-y-o-y-h1-1515876",
       "pubDate": "Sat, 15 Aug 2026 20:35:00 +0600",
       "category": "Economy",
@@ -210,39 +254,6 @@
       "snippet": "The acting president said the current democratic government is committed to the sustainable development of the fisheries sector."
     },
     {
-      "title": "Dhaka North administrator vows to make Dhaka a clean, modern city",
-      "link": "https://www.tbsnews.net/bangladesh/dhaka-north-administrator-vows-make-dhaka-clean-modern-city-1515801",
-      "pubDate": "Sat, 15 Aug 2026 19:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/untitled-1_0.png",
-      "snippet": "He made the remarks while inaugurating a special cleanliness drive and rally in Mirpur-2 in the capital."
-    },
-    {
-      "title": "Body of actress-model Ridhika Ridhi found hanging in Dhaka; police suspect suicide",
-      "link": "https://www.tbsnews.net/bangladesh/body-actress-model-ridhika-ridhi-found-hanging-dhaka-police-suspect-suicide-1515776",
-      "pubDate": "Sat, 15 Aug 2026 18:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/radhika_ridhi.jpg",
-      "snippet": "Police say her phone contained evidence that she was on a video call when the incident occurred."
-    },
-    {
-      "title": "Hilsa returns to Bhola rivers, fishermen see hope after crisis",
-      "link": "https://www.tbsnews.net/bangladesh/hilsa-returns-bhola-rivers-fishermen-see-hope-after-crisis-1515771",
-      "pubDate": "Sat, 15 Aug 2026 18:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/hilsa_returns_to_bhola_rivers_fishermen_see_hope_after_crisis.png",
-      "snippet": "Fishermen said the improved catch would help them repay debts and recover from losses incurred during the prolonged period of poor fishing."
-    },
-    {
       "title": "Money, markets, and military: The economic pivot of the Mecca Agreement",
       "link": "https://www.tbsnews.net/thoughts/money-markets-and-military-economic-pivot-mecca-agreement-1515756",
       "pubDate": "Sat, 15 Aug 2026 18:25:00 +0600",
@@ -254,7 +265,7 @@
       "snippet": "The trilateral defence pact between Saudi Arabia, Turkey and Pakistan could evolve beyond military cooperation, creating a strategic bloc that combines capital, technology, energy and military power to reshape regional economics and security."
     },
     {
-      "title": "Garment exporters seek facility to pay July–August gas, electricity bills in installments",
+      "title": "RMG exporters seek 12-month instalments for Jul-Aug utility bills",
       "link": "https://www.tbsnews.net/economy/rmg/garment-exporters-seek-facility-pay-july-august-gas-electricity-bills-installments",
       "pubDate": "Sat, 15 Aug 2026 18:20:00 +0600",
       "category": "Economy",
@@ -262,7 +273,7 @@
       "bg": "#e8f5e9",
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/garment_exporters_seek_facility_to_pay_july-august_gas_electricity_bills_in_installments.png",
-      "snippet": "The extension of time and installment facility would enable them to sustain production and export operations while safeguarding workers' employment."
+      "snippet": "The BKMEA says paying the July and August utility bills in full under existing rules would be difficult for many factory owners given the financial losses they had suffered."
     },
     {
       "title": "Ex-Kushtia resident medical officer faces departmental case over recruitment exam question leak",
@@ -661,5 +672,5 @@
       "snippet": "Shrimp is to Bangladesh what oil is to the Gulf. But with processing plants running at 10% capacity and exports halving in seven years, the sector requires more than budget allocations - it requires a total supply chain overhaul."
     }
   ],
-  "updatedAt": "2026-08-16T03:48:16.283Z"
+  "updatedAt": "2026-08-16T04:35:02.693Z"
 }
