@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Pesticide poisoning kills over 100 birds in Chuadanga",
+      "link": "https://www.tbsnews.net/bangladesh/pesticide-poisoning-kills-over-100-birds-chuadanga-1517036",
+      "pubDate": "Mon, 17 Aug 2026 11:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/birds_death.jpg",
+      "snippet": "The incident occurred in Dakshinpara of Parkrishnapur-Madna union, where the landowner allegedly used poison to control insects in his grassland"
+    },
+    {
+      "title": " From Narayanganj to 37 countries, Bangladesh stitches its way into global bridal market",
+      "link": "https://www.tbsnews.net/economy/rmg/narayanganj-37-countries-bangladesh-stitches-its-way-global-bridal-market-1516986",
+      "pubDate": "Mon, 17 Aug 2026 11:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/bridal_gown.png",
+      "snippet": "According to Bangladesh Export Processing Zones Authority data, the EPZ currently employs 76,027 people and has attracted $847.03 million in investment."
+    },
+    {
       "title": "Mild earthquake shakes Narsingdi",
       "link": "https://www.tbsnews.net/bangladesh/mild-earthquake-shakes-narsingdi-1516996",
       "pubDate": "Mon, 17 Aug 2026 10:20:00 +0600",
@@ -85,7 +107,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/photo-output.jpeg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/ferdous_ship.jpg",
       "snippet": "No previous fatal gas leak from ballast tanks in Bangladesh’s ship recycling industry: Department of Environment"
     },
     {
@@ -241,28 +263,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/hunger_strike_rokeya_university.jpeg",
       "snippet": "The students began the strike in front of the main gate of Academic Building-2 around 11am."
-    },
-    {
-      "title": "'Dhaka Theatre Festival’ opens with hopes for cultural revival of Old Dhaka",
-      "link": "https://www.tbsnews.net/bangladesh/dhaka-theatre-festival-opens-hopes-cultural-revival-old-dhaka-1516811",
-      "pubDate": "Sun, 16 Aug 2026 21:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/abdus_salam.png",
-      "snippet": "He said patriotism and moral values could be nurtured among people through theatre, music, literature and sports."
-    },
-    {
-      "title": "Whether courts or govt approve Hasina extradition is India's matter: ICT chief prosecutor",
-      "link": "https://www.tbsnews.net/bangladesh/whether-courts-or-govt-approve-hasina-extradition-indias-matter-ict-chief-prosecutor",
-      "pubDate": "Sun, 16 Aug 2026 20:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/hasina_ict_chief_.jpg",
-      "snippet": "Aminul Islam says the Indian government has yet to clearly explain Sheikh Hasina’s current status in the country, noting that Bangladesh has already conveyed the matter to New Delhi but has received no clear response."
     },
     {
       "title": "All upazila health complexes to become nine-storey facilities: Sakhawat",
@@ -604,29 +604,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/11/measles_tbs.jpeg",
       "snippet": "The Directorate General of Health Services also reported 28 new confirmed measles cases in the past 24 hours"
-    },
-    {
-      "title": "Apple trains its own AI model for China market with Alibaba's support, sources say",
-      "link": "https://www.tbsnews.net/tech/apple-trains-its-own-ai-model-china-market-alibabas-support-sources-say-1514791",
-      "pubDate": "Fri, 14 Aug 2026 11:20:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/7jdbtn54rvoxxjljute5wqjmfe.jpg",
-      "snippet": "Apple has a special two-step plan for AI in China."
-    },
-    {
-      "title": "New study sheds light on breast cancer treatment resistance",
-      "link": "https://www.tbsnews.net/bangladesh/health/new-study-sheds-light-breast-cancer-treatment-resistance-1514781",
-      "pubDate": "Fri, 14 Aug 2026 11:15:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/breast_cancer.jpg",
-      "snippet": "The study, published in Nature, found that the retinoblastoma (Rb) protein, long viewed as a natural brake on cancer growth, can unexpectedly activate genes that respond to the hormone estrogen."
     }
   ],
-  "updatedAt": "2026-08-17T04:41:13.799Z"
+  "updatedAt": "2026-08-17T05:34:24.342Z"
 }
