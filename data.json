@@ -1,6 +1,50 @@
 {
   "news": [
     {
+      "title": "Court sets 31 August for hearing on Abul Kalam Azad’s appeal in 1971 war crimes case",
+      "link": "https://www.tbsnews.net/bangladesh/court-sets-31-august-hearing-abul-kalam-azads-appeal-1971-war-crimes-case-1517106",
+      "pubDate": "Mon, 17 Aug 2026 12:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/war_crimes_convict_abul_kalam_azad.png",
+      "snippet": "The verdict was the first in a crimes against humanity case in Bangladesh, 41 years after the country's independence."
+    },
+    {
+      "title": "ADB to help Bangladesh become a trillion-dollar economy by 2034: Yingming Yang",
+      "link": "https://www.tbsnews.net/foreign-policy/adb-help-bangladesh-become-trillion-dollar-economy-2034-yingming-yang-1517091",
+      "pubDate": "Mon, 17 Aug 2026 12:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/image-415320-1786946004.jpg",
+      "snippet": "Yingming Yang visited Bangladesh on 9-13 August and held senior-level consultations on ADB's next Country Partnership Strategy (CPS), sustaining policy dialogue on key reform and investment priorities, and supporting the operationalization of the Int..."
+    },
+    {
+      "title": "167mm rainfall leaves parts of Ctg waterlogged again",
+      "link": "https://www.tbsnews.net/bangladesh/167mm-rainfall-leaves-parts-ctg-waterlogged-again-1517086",
+      "pubDate": "Mon, 17 Aug 2026 12:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/ctg_waterlogging.jpg",
+      "snippet": "Local cautionary signal No. 3 remained in force for Chattogram port."
+    },
+    {
+      "title": "Police arrest 4 over forged clearance certificates in Ctg",
+      "link": "https://www.tbsnews.net/bangladesh/police-arrest-4-over-forged-clearance-certificates-ctg-1517056",
+      "pubDate": "Mon, 17 Aug 2026 11:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/received_1701545444466303.jpeg",
+      "snippet": "As a result, the forged certificate could initially appear genuine, police added."
+    },
+    {
       "title": "Pesticide poisoning kills over 100 birds in Chuadanga",
       "link": "https://www.tbsnews.net/bangladesh/pesticide-poisoning-kills-over-100-birds-chuadanga-1517036",
       "pubDate": "Mon, 17 Aug 2026 11:20:00 +0600",
@@ -45,17 +89,6 @@
       "snippet": "The notice, issued yesterday (16 August), also called for the cancellation of all licences, clearances and no-objection certificates issued to the shipbreaking yard."
     },
     {
-      "title": "Tarique Rahman: A PM in a different mould",
-      "link": "https://www.tbsnews.net/bangladesh/politics/tarique-rahman-pm-different-mould-1516981",
-      "pubDate": "Mon, 17 Aug 2026 10:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/08/tarique_feature_image_1.jpg",
-      "snippet": "Under the new administrative framework, Tarique uses a personal vehicle rather than official state transport and personally bears the costs of the driver, fuel and residential staff, while donating 10% of his official salary to the national exchequer..."
-    },
-    {
       "title": "Tk12,000cr stuck in interbank legal battles over LC guarantees",
       "link": "https://www.tbsnews.net/economy/banking/tk12000cr-stuck-interbank-legal-battles-over-lc-guarantees-1516971",
       "pubDate": "Mon, 17 Aug 2026 10:00:00 +0600",
@@ -65,6 +98,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/bank.png",
       "snippet": "One such case is a 23-year-old dispute between Uttara Bank and Sonali Bank that began in 2002 over 57 post-dated cheques issued by Chattogram Tobacco Company."
+    },
+    {
+      "title": "Tarique Rahman: A PM in a different mould",
+      "link": "https://www.tbsnews.net/bangladesh/politics/tarique-rahman-pm-different-mould-1516981",
+      "pubDate": "Mon, 17 Aug 2026 10:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/08/tarique_feature_image_1.jpg",
+      "snippet": "Under the new administrative framework, Tarique uses a personal vehicle rather than official state transport and personally bears the costs of the driver, fuel and residential staff, while donating 10% of his official salary to the national exchequer..."
     },
     {
       "title": "PM to meet NBR officials to discuss strategy for huge revenue target",
@@ -188,15 +232,15 @@
       "snippet": "More than half of the NBFI’s loan portfolio is classified, while negative shareholders’ equity and a Tk350 crore capital shortfall deepen concerns over its financial health."
     },
     {
-      "title": "BB approves LC opening for SS Power through Rupali Bank",
+      "title": "BB approves LC opening for S Alam-owned SS Power through Rupali Bank",
       "link": "https://www.tbsnews.net/economy/banking/bb-approves-lc-opening-ss-power-through-rupali-bank-1516836",
       "pubDate": "Sun, 16 Aug 2026 21:35:00 +0600",
       "category": "Economy",
       "color": "#2e7d32",
       "bg": "#e8f5e9",
       "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/lc-settlement.png",
-      "snippet": "70% of SS Power One Limited (Banshkhali coal-fired power plant) is owned by Bangladesh’s S Alam Group, while the remaining 30% is owned by a Chinese company."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/06/07/vykn4frhioslx2xtssxqb2ljmopm35ozggeaog2v.jpg",
+      "snippet": "Thirty percent of SS Power (Banshkhali coal-fired power plant) is owned by a Chinese company."
     },
     {
       "title": "PM opens development works at Sholakia Eidgah",
@@ -210,28 +254,6 @@
       "snippet": "He said lakhs of people gather at the venue to offer Eid prayers and so, the government has taken the initiative to develop the field and make it more suitable for devotees."
     },
     {
-      "title": "Jamaat accepts PM's challenge, puts forward 10-point energy crisis plan",
-      "link": "https://www.tbsnews.net/bangladesh/politics/jamaat-accepts-pms-challenge-puts-forward-10-point-energy-crisis-plan-1516816",
-      "pubDate": "Sun, 16 Aug 2026 21:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/jamaat.jpg",
-      "snippet": "The party calls for a 90-day review involving the government, opposition, energy agencies, businesses and independent experts."
-    },
-    {
-      "title": "Two bomb-like objects recovered in Demra, one suspect connected to 'Bomaru Mamun' detained",
-      "link": "https://www.tbsnews.net/bangladesh/crime/two-bomb-objects-found-demra-one-suspect-detained-1516801",
-      "pubDate": "Sun, 16 Aug 2026 21:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/15/crude_bomb.png",
-      "snippet": "The devices were recovered during a police operation to apprehend suspects allegedly involved in the Jatrabari attack."
-    },
-    {
       "title": "Call for an ecosystem to boost biosimilar and vaccine production capacity",
       "link": "https://www.tbsnews.net/bangladesh/health/call-ecosystem-boost-biosimilar-and-vaccine-production-capacity-1516806",
       "pubDate": "Sun, 16 Aug 2026 21:10:00 +0600",
@@ -241,28 +263,6 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/10/3710798.jpg",
       "snippet": "They called for an integrated Life Science and Biopharmaceutical Strategy by 2035, focusing on technology transfer, clinical research, regulatory accreditation, shared infrastructure and skilled workforce development."
-    },
-    {
-      "title": "Nepal envoy outlines foreign policy, Bangladesh ties",
-      "link": "https://www.tbsnews.net/bangladesh/nepal-envoy-outlines-foreign-policy-bangladesh-ties-1516791",
-      "pubDate": "Sun, 16 Aug 2026 21:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/untitled-2.png",
-      "snippet": "Bhandari expressed Nepal’s intend to strengthen its current diplomatic engagements."
-    },
-    {
-      "title": "Rokeya University students go on hunger strike with 5-point demand",
-      "link": "https://www.tbsnews.net/bangladesh/rokeya-university-students-go-hunger-strike-5-point-demand-1516786",
-      "pubDate": "Sun, 16 Aug 2026 21:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/hunger_strike_rokeya_university.jpeg",
-      "snippet": "The students began the strike in front of the main gate of Academic Building-2 around 11am."
     },
     {
       "title": "All upazila health complexes to become nine-storey facilities: Sakhawat",
@@ -593,18 +593,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/07/img_7174.jpeg",
       "snippet": "Prime Minister Tarique Rahman is expected to inaugurate the new building at 10am tomorrow"
-    },
-    {
-      "title": "2 more children die in Sylhet with measles symptoms, death toll rises to 133",
-      "link": "https://www.tbsnews.net/bangladesh/health/2-more-children-die-sylhet-measles-symptoms-death-toll-rises-133-1514831",
-      "pubDate": "Fri, 14 Aug 2026 12:35:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/11/measles_tbs.jpeg",
-      "snippet": "The Directorate General of Health Services also reported 28 new confirmed measles cases in the past 24 hours"
     }
   ],
-  "updatedAt": "2026-08-17T05:34:24.342Z"
+  "updatedAt": "2026-08-17T06:54:12.102Z"
 }
