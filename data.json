@@ -1,6 +1,50 @@
 {
   "news": [
     {
+      "title": "Govt targets 95% reduction in children’s blood lead levels by 2035",
+      "link": "https://www.tbsnews.net/bangladesh/govt-targets-95-reduction-childrens-blood-lead-levels-2035-1517906",
+      "pubDate": "Mon, 17 Aug 2026 22:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/24/08_panorama.jpg",
+      "snippet": "Govt approves 10-year strategy to tackle lead pollution"
+    },
+    {
+      "title": " Govt to buy 2 more LNG cargoes from Singapore for Tk1,851cr",
+      "link": "https://www.tbsnews.net/bangladesh/energy/govt-approves-2-lng-cargo-purchases-singapore-tk-1851cr-1517896",
+      "pubDate": "Mon, 17 Aug 2026 21:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/06/reuters_lng.jpg",
+      "snippet": "The cargoes are scheduled to arrive between 23-24 August and 4-5 September amid an ongoing gas shortage."
+    },
+    {
+      "title": "Margin rule fog deepens sell-off, stocks slide for 4th day",
+      "link": "https://www.tbsnews.net/economy/stocks/margin-rule-fog-deepens-sell-stocks-slide-4th-day-1517886",
+      "pubDate": "Mon, 17 Aug 2026 21:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/11/05/dsex.png",
+      "snippet": "Uncertainty over the final margin lending framework, coupled with profit-taking and weak earnings concerns, pushed the DSEX down 46 points as 318 of 391 traded issues declined."
+    },
+    {
+      "title": "Why ICB Asset funds skip dividends despite earnings rebound in FY26",
+      "link": "https://www.tbsnews.net/economy/stocks/why-icb-asset-funds-skip-dividends-despite-earnings-rebound-fy26-1517891",
+      "pubDate": "Mon, 17 Aug 2026 21:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/11/09/featured-image-tbs-icb-asset.jpg",
+      "snippet": "Most funds rebounded sharply in FY26 after seven posted losses last year, while one recorded a profit"
+    },
+    {
       "title": "CAPM BDBL Mutual Fund-01 unitholders to vote on open-end conversion or redemption",
       "link": "https://www.tbsnews.net/economy/stocks/capm-bdbl-mutual-fund-01-unitholders-vote-open-end-conversion-or-redemption-1517876",
       "pubDate": "Mon, 17 Aug 2026 21:40:00 +0600",
@@ -12,7 +56,7 @@
       "snippet": "Unitholders will decide in October whether the closed-end fund should convert to an open-end scheme or proceed with redemption under BSEC rules."
     },
     {
-      "title": "Govt slashes tax on chilli, tomato imports",
+      "title": "Govt slashes import duty on chillies, tomatoes to 20.5%",
       "link": "https://www.tbsnews.net/bangladesh/govt-slashes-tax-chilli-tomato-imports-1517861",
       "pubDate": "Mon, 17 Aug 2026 21:35:00 +0600",
       "category": "Bangladesh",
@@ -20,7 +64,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/08/09/jonas-ducker-4ijhsbxly0c-unsplash.jpg",
-      "snippet": "Import duty and taxes will fall from 61% to 20.5% for the first month after the notification, then rise to 31% in the following month to ease price pressure."
+      "snippet": "Import tax will drop to 20.5% initially before rising to 31%"
     },
     {
       "title": "Bangladesh shifts fiscal year from July-June to April-March",
@@ -188,48 +232,15 @@
       "snippet": "Simanto, who was stabbed on 12 December 2024, died while undergoing treatment two days later."
     },
     {
-      "title": "CII business delegation's Dhaka visit to strengthen economic ties: Indian High Commission",
-      "link": "https://www.tbsnews.net/foreign-policy/cii-business-delegations-dhaka-visit-strengthen-economic-ties-indian-high-commission",
-      "pubDate": "Mon, 17 Aug 2026 20:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/10/29/india_bangladesh.jpg",
-      "snippet": "The delegation will meet senior government officials and Bangladeshi business leaders during the visit."
-    },
-    {
-      "title": "Govt plans FSRU in Mongla to strengthen fuel security: Rabiul Alam",
-      "link": "https://www.tbsnews.net/bangladesh/govt-plans-fsru-mongla-strengthen-fuel-security-rabiul-alam-1517751",
-      "pubDate": "Mon, 17 Aug 2026 20:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/road_transport_and_bridges_railways_and_shipping_minister_shaikh_rabiul_alam.jpg",
-      "snippet": "The minister says short-, medium- and long-term measures are being taken to address the ongoing fuel crisis."
-    },
-    {
       "title": "UAE-based Bangladeshis eye Tk1,000cr investment at home",
       "link": "https://www.tbsnews.net/economy/uae-based-bangladeshis-eye-tk1000cr-investment-home-1517731",
       "pubDate": "Mon, 17 Aug 2026 20:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/fdi-bangladesh.png",
       "snippet": "Business group also seeks action on longstanding UAE visa problems"
-    },
-    {
-      "title": "277 govt officials promoted to deputy secretary",
-      "link": "https://www.tbsnews.net/bangladesh/277-govt-officials-promoted-deputy-secretary-1517701",
-      "pubDate": "Mon, 17 Aug 2026 19:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/govt_10.png",
-      "snippet": "The administration cadre accounts for most of the promotions."
     },
     {
       "title": "Dengue claims another life, 870 hospitalised in 24 hrs",
@@ -595,17 +606,6 @@
       "snippet": "Probe finds preliminary evidence supporting allegations that candidates took the written recruitment test at his residence using allegedly leaked question papers."
     },
     {
-      "title": "Bangladesh’s untapped energy source: Efficiency ",
-      "link": "https://www.tbsnews.net/thoughts/bangladeshs-untapped-energy-source-efficiency-1515611",
-      "pubDate": "Sat, 15 Aug 2026 16:15:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/worlds-2.4-trillion-energy-transition-spending-in-2024-fea.png",
-      "snippet": "Bangladesh’s forgotten fuel lies not beneath the ground or across international markets, but in the vast amount of energy wasted every day"
-    },
-    {
       "title": "A cautious step towards Rohingya repatriation, a larger test for Bangladesh ",
       "link": "https://www.tbsnews.net/thoughts/cautious-step-towards-rohingya-repatriation-larger-test-bangladesh-1515616",
       "pubDate": "Sat, 15 Aug 2026 16:15:00 +0600",
@@ -615,6 +615,17 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/rohingya-1_0.jpg",
       "snippet": "Malaysia's initiative breaks a prolonged diplomatic stalemate, offering Bangladesh a tangible reference point for structured repatriation talks"
+    },
+    {
+      "title": "Bangladesh’s untapped energy source: Efficiency ",
+      "link": "https://www.tbsnews.net/thoughts/bangladeshs-untapped-energy-source-efficiency-1515611",
+      "pubDate": "Sat, 15 Aug 2026 16:15:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/worlds-2.4-trillion-energy-transition-spending-in-2024-fea.png",
+      "snippet": "Bangladesh’s forgotten fuel lies not beneath the ground or across international markets, but in the vast amount of energy wasted every day"
     },
     {
       "title": "Cox’s Bazar: A multidimensional tourism potential driven by blue resources",
@@ -683,5 +694,5 @@
       "snippet": "LNG imports cost Bangladesh $3.8 billion in 2025, compared with $3 billion the previous year. These imports cover one-fourth of the country’s total gas supply."
     }
   ],
-  "updatedAt": "2026-08-17T15:49:57.937Z"
+  "updatedAt": "2026-08-17T16:26:44.981Z"
 }
