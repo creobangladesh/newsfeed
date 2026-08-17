@@ -1,6 +1,94 @@
 {
   "news": [
     {
+      "title": "Govt approves law abolishing RAB, forming Special Response Battalion",
+      "link": "https://www.tbsnews.net/bangladesh/govt-approves-law-abolishing-rab-forming-special-response-battalion-1517816",
+      "pubDate": "Mon, 17 Aug 2026 21:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/12/15/reuters.png",
+      "snippet": "New police unit will absorb RAB personnel, assets and powers."
+    },
+    {
+      "title": "Dhaka South City Corporation to rehabilitate hawkers as per policy, ban roadside vending: Administrator",
+      "link": "https://www.tbsnews.net/bangladesh/dhaka-south-city-corporation-rehabilitate-hawkers-policy-ban-roadside-vending",
+      "pubDate": "Mon, 17 Aug 2026 21:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/dhaka_south_city_corporation_dscc_administrator_md_abdus_salam.jpg",
+      "snippet": "DSCC says registered hawkers will be allowed only at designated locations, while holiday and night markets will be introduced under the new hawker management policy."
+    },
+    {
+      "title": "'Thana arson' remark figure Mahdi among 3 detained in Habiganj",
+      "link": "https://www.tbsnews.net/bangladesh/thana-arson-remark-figure-mahdi-among-3-detained-habiganj-1517806",
+      "pubDate": "Mon, 17 Aug 2026 21:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/mahdi_habiganj.png",
+      "snippet": "Police detained Mahdi in front of the Court Mosque around 5:30pm as he prepared for the march against load-shedding."
+    },
+    {
+      "title": "Cenbank orders finance firms to withhold policy support, incentives from litigant borrowers ",
+      "link": "https://www.tbsnews.net/economy/banking/cenbank-orders-finance-firms-withhold-policy-support-incentives-litigant-borrowers",
+      "pubDate": "Mon, 17 Aug 2026 21:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/07/30/bangladesh_bank.jpg",
+      "snippet": "Sukuk allocation rates for investors get revised."
+    },
+    {
+      "title": "NBR clarifies 1% duty on solar equipment imports",
+      "link": "https://www.tbsnews.net/nbr/nbr-clarifies-1-duty-solar-equipment-imports-1517791",
+      "pubDate": "Mon, 17 Aug 2026 21:00:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/18/9282825.jpg",
+      "snippet": "Field-level misinterpretation led customs to impose 17% duty"
+    },
+    {
+      "title": "BB Governor meets NDB delegation",
+      "link": "https://www.tbsnews.net/economy/banking/bb-governor-meets-ndb-delegation-1517781",
+      "pubDate": "Mon, 17 Aug 2026 20:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/03/30/bangladesh_bank_front_unb.gif",
+      "snippet": "During the meeting, the two sides discussed various issues of mutual interest between Bangladesh and the NDB, as well as ways to further strengthen cooperation between the two sides in the future."
+    },
+    {
+      "title": "Two marine firms assess toxic gas mitigation at Ferdous Steel yard",
+      "link": "https://www.tbsnews.net/bangladesh/two-marine-firms-assess-toxic-gas-mitigation-ferdous-steel-yard-1517796",
+      "pubDate": "Mon, 17 Aug 2026 20:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/ferdous_steel_ship_recycling_yard_in_sitakunda.jpg",
+      "snippet": "8-member expert committee to oversee operation"
+    },
+    {
+      "title": "Dhaka reiterates commitment to revitalising Saarc",
+      "link": "https://www.tbsnews.net/foreign-policy/dhaka-reiterates-commitment-revitalising-saarc-1517776",
+      "pubDate": "Mon, 17 Aug 2026 20:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/state_minister_for_foreign_affairs_shama_obaed_islam.jpg",
+      "snippet": "State Minister for Foreign Affairs Shama Obaed Islam says Bangladesh will push for stronger political engagement, cultural initiatives and wider participation to reinvigorate Saarc and regional cooperation."
+    },
+    {
       "title": "Chamber court upholds ex-CJ Khairul Haque’s bail",
       "link": "https://www.tbsnews.net/bangladesh/court/chamber-court-upholds-ex-cj-khairul-haques-bail-1517756",
       "pubDate": "Mon, 17 Aug 2026 20:40:00 +0600",
@@ -142,83 +230,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/15/anm_ehsanul_hoque_milon.jpg",
       "snippet": "The education ministry says reviewing such a huge volume of answer scripts is impractical and could delay college admissions"
-    },
-    {
-      "title": "Govt employees may get up to 100% basic pay hike under proposed 9th pay scale",
-      "link": "https://www.tbsnews.net/bangladesh/govt-employees-may-get-100-basic-pay-hike-under-proposed-9th-pay-scale-1517571",
-      "pubDate": "Mon, 17 Aug 2026 18:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/01/new-payscale.png",
-      "snippet": "Revised salaries could take effect before allowances under new structure"
-    },
-    {
-      "title": "Court defers witness testimony in blogger Niloy murder case to 12 Oct",
-      "link": "https://www.tbsnews.net/bangladesh/court/court-defers-witness-testimony-blogger-niloy-murder-case-12-oct-1517531",
-      "pubDate": "Mon, 17 Aug 2026 18:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/blogger_niloy.jpg",
-      "snippet": "Five of 15 witnesses have testified so far"
-    },
-    {
-      "title": "Govt working relentlessly to establish democratic values, good governance: Mahdi Amin ",
-      "link": "https://www.tbsnews.net/bangladesh/govt-working-relentlessly-establish-democratic-values-good-governance-mahdi-amin-1517511",
-      "pubDate": "Mon, 17 Aug 2026 17:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/mahdi_amin_2.jpg",
-      "snippet": "PMO spokesperson Mahdi Amin highlights the government’s six-month record, citing welfare measures, institutional reforms and initiatives across education, transport, energy and law enforcement."
-    },
-    {
-      "title": "Bangladesh's first electric rail project to be launched on N'ganj-Dhaka-Joydebpur route",
-      "link": "https://www.tbsnews.net/bangladesh/bangladeshs-first-electric-rail-project-be-launched-nganj-dhaka-joydebpur-route-1517586",
-      "pubDate": "Mon, 17 Aug 2026 17:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/untitled-9.png",
-      "snippet": "50km corridor to get electric trains and expanded services"
-    },
-    {
-      "title": "Man gets life term over possession of 225 packets of heroin",
-      "link": "https://www.tbsnews.net/bangladesh/court/man-gets-life-term-over-possession-225-packets-heroin-1517501",
-      "pubDate": "Mon, 17 Aug 2026 17:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/court.png",
-      "snippet": "The court also fined the convict Tk10,000 and issued an arrest warrant as he remained absconding during the delivery of the verdict."
-    },
-    {
-      "title": "Mahasnan Yatra festival concludes peacefully in Dinajpur",
-      "link": "https://www.tbsnews.net/bangladesh/mahasnan-yatra-festival-concludes-peacefully-dinajpur-1517461",
-      "pubDate": "Mon, 17 Aug 2026 17:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/a925af44-602c-4f67-9d8b-17966c67725d.jpg",
-      "snippet": "The devotees had travelled there by buses and trucks on Saturday night. They participated in all-night kirtans, prayers and religious rituals before collecting holy water from the river after sunrise on Sunday."
-    },
-    {
-      "title": "Saudi crown prince invites PM Tarique Rahman for visit",
-      "link": "https://www.tbsnews.net/foreign-policy/saudi-crown-prince-invites-pm-tarique-rahman-visit-saudi-arabia-1517486",
-      "pubDate": "Mon, 17 Aug 2026 17:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/prime_minister.jpg",
-      "snippet": "Riyadh looks to expand cooperation with Dhaka across sectors"
     },
     {
       "title": "DR Congo says Ebola outbreak now its deadliest ever",
@@ -650,5 +661,5 @@
       "snippet": "LNG imports cost Bangladesh $3.8 billion in 2025, compared with $3 billion the previous year. These imports cover one-fourth of the country’s total gas supply."
     }
   ],
-  "updatedAt": "2026-08-17T14:54:55.155Z"
+  "updatedAt": "2026-08-17T15:24:09.443Z"
 }
