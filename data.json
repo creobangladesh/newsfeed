@@ -1,6 +1,83 @@
 {
   "news": [
     {
+      "title": "CAPM BDBL Mutual Fund-01 unitholders to vote on open-end conversion or redemption",
+      "link": "https://www.tbsnews.net/economy/stocks/capm-bdbl-mutual-fund-01-unitholders-vote-open-end-conversion-or-redemption-1517876",
+      "pubDate": "Mon, 17 Aug 2026 21:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/15/bsec_stock.jpg",
+      "snippet": "Unitholders will decide in October whether the closed-end fund should convert to an open-end scheme or proceed with redemption under BSEC rules."
+    },
+    {
+      "title": "Govt slashes tax on chilli, tomato imports",
+      "link": "https://www.tbsnews.net/bangladesh/govt-slashes-tax-chilli-tomato-imports-1517861",
+      "pubDate": "Mon, 17 Aug 2026 21:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/08/09/jonas-ducker-4ijhsbxly0c-unsplash.jpg",
+      "snippet": "Import duty and taxes will fall from 61% to 20.5% for the first month after the notification, then rise to 31% in the following month to ease price pressure."
+    },
+    {
+      "title": "Bangladesh shifts fiscal year from July-June to April-March",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-shifts-fiscal-year-july-june-april-march-1517836",
+      "pubDate": "Mon, 17 Aug 2026 21:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/fiscal_year.jpg",
+      "snippet": "Nine-month transition period will precede the new fiscal cycle."
+    },
+    {
+      "title": "4 'Kaiyum gang members' held with firearms, ammo in Mohammadpur",
+      "link": "https://www.tbsnews.net/bangladesh/crime/4-kaiyum-gang-members-held-firearms-ammunition-mohammadpur-1517851",
+      "pubDate": "Mon, 17 Aug 2026 21:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/mohammadpur_rab_arrest.jpg",
+      "snippet": "RAB says suspects were involved in arms trading and extortion."
+    },
+    {
+      "title": "FBCCI seeks Chinese investment to narrow Bangladesh's trade gap",
+      "link": "https://www.tbsnews.net/economy/fbcci-seeks-chinese-investment-narrow-bangladeshs-trade-gap-1517826",
+      "pubDate": "Mon, 17 Aug 2026 21:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/06/fbcci_0.png",
+      "snippet": "Bilateral trade is now close to $20 billion, but Bangladesh remains heavily in deficit as its annual exports to China are below $1 billion."
+    },
+    {
+      "title": "Jica, Bangladesh sign grant agreement for 33 officials to study in Japan",
+      "link": "https://www.tbsnews.net/foreign-policy/jica-bangladesh-sign-grant-agreement-33-officials-study-japan-1517831",
+      "pubDate": "Mon, 17 Aug 2026 21:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/jica_bangladesh_sign_grant_agreement_for_33_officials_to_study_in_japan.jpg",
+      "snippet": "A new scholarship partnership opens another pathway for Bangladesh’s public-sector talent to gain advanced expertise from Japanese universities."
+    },
+    {
+      "title": "Cabinet, public admin secretaries get one-year contract extensions",
+      "link": "https://www.tbsnews.net/bangladesh/cabinet-public-administration-secretaries-get-one-year-contract-extensions-1517841",
+      "pubDate": "Mon, 17 Aug 2026 21:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/d1a42701-8cfe-440e-83bb-1e2b0a79d317.jpg",
+      "snippet": "New terms take effect tomorrow under Public Service Act."
+    },
+    {
       "title": "Govt approves law abolishing RAB, forming Special Response Battalion",
       "link": "https://www.tbsnews.net/bangladesh/govt-approves-law-abolishing-rab-forming-special-response-battalion-1517816",
       "pubDate": "Mon, 17 Aug 2026 21:15:00 +0600",
@@ -9,7 +86,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/12/15/reuters.png",
-      "snippet": "New police unit will absorb RAB personnel, assets and powers."
+      "snippet": "New police unit to inherit RAB’s personnel, powers and assets"
     },
     {
       "title": "Dhaka South City Corporation to rehabilitate hawkers as per policy, ban roadside vending: Administrator",
@@ -34,7 +111,7 @@
       "snippet": "Police detained Mahdi in front of the Court Mosque around 5:30pm as he prepared for the march against load-shedding."
     },
     {
-      "title": "Cenbank orders finance firms to withhold policy support, incentives from litigant borrowers ",
+      "title": "BB orders finance firms to withhold policy support, incentives from litigant borrowers ",
       "link": "https://www.tbsnews.net/economy/banking/cenbank-orders-finance-firms-withhold-policy-support-incentives-litigant-borrowers",
       "pubDate": "Mon, 17 Aug 2026 21:00:00 +0600",
       "category": "Bangladesh",
@@ -155,68 +232,13 @@
       "snippet": "The administration cadre accounts for most of the promotions."
     },
     {
-      "title": "2 'Dawlatul Islam' members placed on remand in anti-terrorism case",
-      "link": "https://www.tbsnews.net/bangladesh/court/2-dawlatul-islam-members-placed-remand-anti-terrorism-case-1517676",
-      "pubDate": "Mon, 17 Aug 2026 19:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/court.png",
-      "snippet": "No lawyer appeared on behalf of the accused during the hearing."
-    },
-    {
-      "title": "PSC official sent to jail after surrendering in BCS question leak case",
-      "link": "https://www.tbsnews.net/bangladesh/court/psc-official-sent-jail-after-surrendering-bcs-question-leak-case-1517616",
-      "pubDate": "Mon, 17 Aug 2026 18:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/10/20/metropolitan_court.jpg",
-      "snippet": "The accused, Kaushik Debnath, surrendered before the High Court and sought bail on 7 July."
-    },
-    {
-      "title": "Jamaat calls for success of 5 Sept Dhaka-Chattogram long march",
-      "link": "https://www.tbsnews.net/bangladesh/jamaat-calls-success-5-sept-dhaka-chattogram-long-march-1517606",
-      "pubDate": "Mon, 17 Aug 2026 18:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/jamaat_calls_for_success_of_sept_5_dhaka-chattogram_long_march.png",
-      "snippet": "According to the previously announced programme of the 11-party alliance on 6 August, four long marches will be held across the country."
-    },
-    {
-      "title": "Petrobangla rejects Saudi Aramco LNG cargo over compliance issue, replacement cargo to arrive",
-      "link": "https://www.tbsnews.net/bangladesh/petrobangla-rejects-saudi-aramco-lng-cargo-over-compliance-issue-replacement-cargo-arrive",
-      "pubDate": "Mon, 17 Aug 2026 18:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/01/23/gas_lng_tanker_ship_cargo.jpg",
-      "snippet": "The cargo, carried by the 29-year-old Alhamra, was not accepted for unloading at Summit’s floating LNG terminal in Maheshkhali."
-    },
-    {
-      "title": "No one should be allowed to claim sole ownership of July Uprising: Bobby Hajjaj",
-      "link": "https://www.tbsnews.net/bangladesh/no-one-should-be-allowed-claim-sole-ownership-july-uprising-bobby-hajjaj-1517596",
-      "pubDate": "Mon, 17 Aug 2026 18:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/state_minister_for_primary_and_mass_education_bobby_hajjaj.jpg",
-      "snippet": "People took to the streets with different demands, including jobs, democracy, rights and an end to injustice, the state minister says."
-    },
-    {
       "title": "Dengue claims another life, 870 hospitalised in 24 hrs",
       "link": "https://www.tbsnews.net/bangladesh/health/dengue-claims-another-life-870-hospitalised-24-hrs-1517561",
       "pubDate": "Mon, 17 Aug 2026 18:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/25/05_news_copy.png",
       "snippet": "Dengue deaths reach 71 as annual cases climb to 24,848"
     },
@@ -224,10 +246,10 @@
       "title": "Govt plans new policy after SSC answer script review applications exceed 12 lakh",
       "link": "https://www.tbsnews.net/bangladesh/education/govt-plans-new-policy-after-ssc-answer-script-review-applications-exceed-12",
       "pubDate": "Mon, 17 Aug 2026 18:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/15/anm_ehsanul_hoque_milon.jpg",
       "snippet": "The education ministry says reviewing such a huge volume of answer scripts is impractical and could delay college admissions"
     },
@@ -661,5 +683,5 @@
       "snippet": "LNG imports cost Bangladesh $3.8 billion in 2025, compared with $3 billion the previous year. These imports cover one-fourth of the country’s total gas supply."
     }
   ],
-  "updatedAt": "2026-08-17T15:24:09.443Z"
+  "updatedAt": "2026-08-17T15:49:57.937Z"
 }
