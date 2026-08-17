@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "PSC official sent to jail after surrendering in BCS question leak case",
+      "link": "https://www.tbsnews.net/bangladesh/court/psc-official-sent-jail-after-surrendering-bcs-question-leak-case-1517616",
+      "pubDate": "Mon, 17 Aug 2026 18:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/10/20/metropolitan_court.jpg",
+      "snippet": "The accused, Kaushik Debnath, surrendered before the High Court and sought bail on 7 July."
+    },
+    {
+      "title": "Jamaat calls for success of 5 Sept Dhaka-Chattogram long march",
+      "link": "https://www.tbsnews.net/bangladesh/jamaat-calls-success-5-sept-dhaka-chattogram-long-march-1517606",
+      "pubDate": "Mon, 17 Aug 2026 18:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/jamaat_calls_for_success_of_sept_5_dhaka-chattogram_long_march.png",
+      "snippet": "According to the previously announced programme of the 11-party alliance on 6 August, four long marches will be held across the country."
+    },
+    {
       "title": "Petrobangla rejects Saudi Aramco LNG cargo over compliance issue, replacement cargo to arrive",
       "link": "https://www.tbsnews.net/bangladesh/petrobangla-rejects-saudi-aramco-lng-cargo-over-compliance-issue-replacement-cargo-arrive",
       "pubDate": "Mon, 17 Aug 2026 18:30:00 +0600",
@@ -133,17 +155,6 @@
       "snippet": "During the meeting, they exchanged pleasantries and recalled the longstanding cordial and excellent bilateral relations between Bangladesh and Canada, said a release issued by the Inter-Services Public Relations (ISPR) Directorate this afternoon."
     },
     {
-      "title": "Dholeshwar Hanafia Mosque: A 150-year-old witness to history",
-      "link": "https://www.tbsnews.net/bangladesh/dholeshwar-hanafia-mosque-150-year-old-witness-history-1517401",
-      "pubDate": "Mon, 17 Aug 2026 16:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/image-415373-1786960594.jpg",
-      "snippet": "Its most prominent feature is a single large, elevated dome surrounded by smaller minaret-like structures. The entrance features arched doors decorated with intricate designs, while carved ornamental patterns can also be seen on the front wall and ar..."
-    },
-    {
       "title": "Indian business delegation to meet ministers, top officials tomorrow",
       "link": "https://www.tbsnews.net/foreign-policy/indian-business-delegation-meet-ministers-top-officials-tomorrow-1517381",
       "pubDate": "Mon, 17 Aug 2026 16:45:00 +0600",
@@ -153,6 +164,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/10/29/india_bangladesh.jpg",
       "snippet": "First such visit since Hasina’s ouster comes amid strained trade ties"
+    },
+    {
+      "title": "Dholeshwar Hanafia Mosque: A 150-year-old witness to history",
+      "link": "https://www.tbsnews.net/bangladesh/dholeshwar-hanafia-mosque-150-year-old-witness-history-1517401",
+      "pubDate": "Mon, 17 Aug 2026 16:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/image-415373-1786960594.jpg",
+      "snippet": "Its most prominent feature is a single large, elevated dome surrounded by smaller minaret-like structures. The entrance features arched doors decorated with intricate designs, while carved ornamental patterns can also be seen on the front wall and ar..."
     },
     {
       "title": "Salman arrested in case over assault of BIFFL CEO for refusing Tk1,400cr Teesta Solar loan",
@@ -210,24 +232,13 @@
       "snippet": "With the latest update, the number of suspected measles deaths has risen to 816, while laboratory-confirmed measles deaths have reached 99."
     },
     {
-      "title": "Commerce minister urges rapid warehouse construction to ease airport cargo handling problems",
-      "link": "https://www.tbsnews.net/bangladesh/commerce-minister-urges-rapid-warehouse-construction-ease-airport-cargo-handling-problems",
-      "pubDate": "Mon, 17 Aug 2026 16:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/30/commerce_minister_khandakar_abdul_muktadir.jpg",
-      "snippet": "Muktadir proposed an inter-ministerial coordination mechanism, with a Commerce Ministry representative if necessary, to improve coordination among the agencies concerned and speed up implementation."
-    },
-    {
       "title": "Robi rebrands Airtel as Cirkle",
       "link": "https://www.tbsnews.net/bangladesh/telecom/airtel-brand-ends-16-year-run-bangladesh-cirkle-takes-over-1517321",
       "pubDate": "Mon, 17 Aug 2026 16:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/pr_pic-2.jpeg",
       "snippet": "Robi says customers will retain numbers, services and balances"
     },
@@ -672,5 +683,5 @@
       "snippet": "Dhaka University’s hall curfews have come to the fore as more than just a question of access. They reflect a deeper debate over bureaucratic discrimination against women that restricts their movement while leaving safety unaddressed"
     }
   ],
-  "updatedAt": "2026-08-17T12:42:13.333Z"
+  "updatedAt": "2026-08-17T13:38:22.194Z"
 }
