@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "UAE-based Bangladeshis eye Tk1,000cr investment at home",
+      "link": "https://www.tbsnews.net/economy/uae-based-bangladeshis-eye-tk1000cr-investment-home-1517731",
+      "pubDate": "Mon, 17 Aug 2026 20:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/fdi-bangladesh.png",
+      "snippet": "Business group also seeks action on longstanding UAE visa problems"
+    },
+    {
+      "title": "277 govt officials promoted to deputy secretary",
+      "link": "https://www.tbsnews.net/bangladesh/277-govt-officials-promoted-deputy-secretary-1517701",
+      "pubDate": "Mon, 17 Aug 2026 19:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/govt_10.png",
+      "snippet": "The administration cadre accounts for most of the promotions."
+    },
+    {
+      "title": "2 'Dawlatul Islam' members placed on remand in anti-terrorism case",
+      "link": "https://www.tbsnews.net/bangladesh/court/2-dawlatul-islam-members-placed-remand-anti-terrorism-case-1517676",
+      "pubDate": "Mon, 17 Aug 2026 19:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/court.png",
+      "snippet": "No lawyer appeared on behalf of the accused during the hearing."
+    },
+    {
       "title": "PSC official sent to jail after surrendering in BCS question leak case",
       "link": "https://www.tbsnews.net/bangladesh/court/psc-official-sent-jail-after-surrendering-bcs-question-leak-case-1517616",
       "pubDate": "Mon, 17 Aug 2026 18:45:00 +0600",
@@ -197,39 +230,6 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/image-415378-1786961075.jpg",
       "snippet": "The deadliest Ebola outbreak ever hit west Africa in 2013-2016, killing more than 11,300 people, mainly in Liberia, Sierra Leone and Guinea."
-    },
-    {
-      "title": "Home minister says govt not taking UN's 'assumption-based' Al-Qaeda report into account",
-      "link": "https://www.tbsnews.net/bangladesh/i-havent-read-it-home-minister-dismisses-un-al-qaeda-report-assumption-based-1517371",
-      "pubDate": "Mon, 17 Aug 2026 16:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/22/salahuddin_ahmed.png",
-      "snippet": "\"I have not read the report yet. Besides, as far as I have heard, it says they have assumed that such a thing could happen,\" says Salahuddin Ahmed."
-    },
-    {
-      "title": "Bangladesh-Canada defence cooperation to be further strengthened: Defence Adviser",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-canada-defence-cooperation-be-further-strengthened-defence-adviser-1517361",
-      "pubDate": "Mon, 17 Aug 2026 16:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/ajit_singh.jpg",
-      "snippet": "The meeting discussed possible areas of Canadian cooperation in the overall modernisation and capacity-building of the Bangladesh Armed Forces, the release said."
-    },
-    {
-      "title": "Measles claims 7 more lives, death toll rises to 915",
-      "link": "https://www.tbsnews.net/bangladesh/measles-claims-7-more-lives-death-toll-rises-915-1517336",
-      "pubDate": "Mon, 17 Aug 2026 16:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/11/measles_tbs.jpeg",
-      "snippet": "With the latest update, the number of suspected measles deaths has risen to 816, while laboratory-confirmed measles deaths have reached 99."
     },
     {
       "title": "Robi rebrands Airtel as Cirkle",
@@ -683,5 +683,5 @@
       "snippet": "Dhaka University’s hall curfews have come to the fore as more than just a question of access. They reflect a deeper debate over bureaucratic discrimination against women that restricts their movement while leaving safety unaddressed"
     }
   ],
-  "updatedAt": "2026-08-17T13:38:22.194Z"
+  "updatedAt": "2026-08-17T14:27:06.777Z"
 }
