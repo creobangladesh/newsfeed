@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Economic zones planned on land of 3 closed state-owned mills",
+      "link": "https://www.tbsnews.net/economy/economic-zones-planned-land-3-closed-state-owned-mills-1517956",
+      "pubDate": "Tue, 18 Aug 2026 07:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/03/05/bangladesh_jute_mills_3.jpg",
+      "snippet": "The move aims to put long-unused industrial assets back into productive use, attract domestic and foreign investment, establish new industries and create jobs, according to officials of the Bangladesh Economic Zones Authority (Beza)"
+    },
+    {
       "title": "Govt forms new ACC with Justice AKM Asaduzzaman as chairman",
       "link": "https://www.tbsnews.net/bangladesh/govt-forms-new-acc-justice-akm-asaduzzaman-chairman-1517936",
       "pubDate": "Tue, 18 Aug 2026 00:10:00 +0600",
@@ -199,17 +210,6 @@
       "snippet": "Field-level misinterpretation led customs to impose 17% duty"
     },
     {
-      "title": "BB Governor meets NDB delegation",
-      "link": "https://www.tbsnews.net/economy/banking/bb-governor-meets-ndb-delegation-1517781",
-      "pubDate": "Mon, 17 Aug 2026 20:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/03/30/bangladesh_bank_front_unb.gif",
-      "snippet": "During the meeting, the two sides discussed various issues of mutual interest between Bangladesh and the NDB, as well as ways to further strengthen cooperation between the two sides in the future."
-    },
-    {
       "title": "Two marine firms assess toxic gas mitigation at Ferdous Steel yard",
       "link": "https://www.tbsnews.net/bangladesh/two-marine-firms-assess-toxic-gas-mitigation-ferdous-steel-yard-1517796",
       "pubDate": "Mon, 17 Aug 2026 20:55:00 +0600",
@@ -221,15 +221,15 @@
       "snippet": "8-member expert committee to oversee operation"
     },
     {
-      "title": "Dhaka reiterates commitment to revitalising Saarc",
-      "link": "https://www.tbsnews.net/foreign-policy/dhaka-reiterates-commitment-revitalising-saarc-1517776",
-      "pubDate": "Mon, 17 Aug 2026 20:50:00 +0600",
+      "title": "BB Governor meets NDB delegation",
+      "link": "https://www.tbsnews.net/economy/banking/bb-governor-meets-ndb-delegation-1517781",
+      "pubDate": "Mon, 17 Aug 2026 20:55:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/state_minister_for_foreign_affairs_shama_obaed_islam.jpg",
-      "snippet": "State Minister for Foreign Affairs Shama Obaed Islam says Bangladesh will push for stronger political engagement, cultural initiatives and wider participation to reinvigorate Saarc and regional cooperation."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/03/30/bangladesh_bank_front_unb.gif",
+      "snippet": "During the meeting, the two sides discussed various issues of mutual interest between Bangladesh and the NDB, as well as ways to further strengthen cooperation between the two sides in the future."
     },
     {
       "title": "UAE-based Bangladeshis eye Tk1,000cr investment at home",
@@ -694,5 +694,5 @@
       "snippet": "LNG imports cost Bangladesh $3.8 billion in 2025, compared with $3 billion the previous year. These imports cover one-fourth of the country’s total gas supply."
     }
   ],
-  "updatedAt": "2026-08-18T01:11:41.007Z"
+  "updatedAt": "2026-08-18T02:35:50.137Z"
 }
