@@ -1,7 +1,29 @@
 {
   "news": [
     {
-      "title": "Suits worth $98m exported to int'l markets from Universal Menswear yearly",
+      "title": "Man fires several rounds into air after dispute over car parking in Faridpur",
+      "link": "https://www.tbsnews.net/bangladesh/man-fires-several-rounds-air-after-dispute-over-car-parking-faridpur-1518071",
+      "pubDate": "Tue, 18 Aug 2026 11:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/received_1747620219865591.jpeg",
+      "snippet": "The sound of gunfire caused panic in the area."
+    },
+    {
+      "title": "Suspected militants freed after August 2024 changeover raise fresh security fears",
+      "link": "https://www.tbsnews.net/bangladesh/suspected-militants-freed-after-august-2024-changeover-raise-fresh-security-fears-1518006",
+      "pubDate": "Tue, 18 Aug 2026 11:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/bomb_like_object.jpg",
+      "snippet": "As suspected militants and extremists released on bail are now allegedly seeking to revive old networks, the challenge for law enforcement is to locate and monitor them and prevent them from regrouping and carrying out militant activities in the coun..."
+    },
+    {
+      "title": "Universal Menswear at Adamjee EPZ exports suits worth $98m to int'l markets yearly",
       "link": "https://www.tbsnews.net/economy/suits-worth-98m-exported-intl-markets-adamjee-epz-yearly-1517996",
       "pubDate": "Tue, 18 Aug 2026 11:00:00 +0600",
       "category": "Bangladesh",
@@ -12,7 +34,7 @@
       "snippet": "The factory can produce around 500,000 pieces of trousers, blazers and other men’s garments a month, or about five million pieces a year."
     },
     {
-      "title": "ACC appointment violates Constitution, judicial independence: Ridwanul Hoque",
+      "title": "Appointing ex-SC judge as ACC chief violates Constitution, breaches judicial independence: Ridwanul Hoque",
       "link": "https://www.tbsnews.net/bangladesh/politics/acc-appointment-violates-constitution-judicial-independence-ridwanul-hoque",
       "pubDate": "Tue, 18 Aug 2026 10:50:00 +0600",
       "category": "Bangladesh",
@@ -52,7 +74,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/09/economy.png",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/774664946_1614136036749689_3494070557978374429_n.jpg",
       "snippet": "BNP govt inherited an economy that had stopped deteriorating rapidly but remained deeply fragile, and six months later some external indicators have improved while the real economy continues to struggle"
     },
     {
@@ -197,28 +219,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/08/09/jonas-ducker-4ijhsbxly0c-unsplash.jpg",
       "snippet": "Import tax will drop to 20.5% initially before rising to 31%"
-    },
-    {
-      "title": "Bangladesh shifts fiscal year from July-June to April-March",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-shifts-fiscal-year-july-june-april-march-1517836",
-      "pubDate": "Mon, 17 Aug 2026 21:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/13/fiscal_year.jpg",
-      "snippet": "Nine-month transition period will precede the new fiscal cycle."
-    },
-    {
-      "title": "4 'Kaiyum gang members' held with firearms, ammo in Mohammadpur",
-      "link": "https://www.tbsnews.net/bangladesh/crime/4-kaiyum-gang-members-held-firearms-ammunition-mohammadpur-1517851",
-      "pubDate": "Mon, 17 Aug 2026 21:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/mohammadpur_rab_arrest.jpg",
-      "snippet": "RAB says suspects were involved in arms trading and extortion."
     },
     {
       "title": "FBCCI seeks Chinese investment to narrow Bangladesh's trade gap",
@@ -716,5 +716,5 @@
       "snippet": "The Prime Minister was speaking after inaugurating the new 500-bed building of the National Institute of Neurosciences and Hospital in Agargaon."
     }
   ],
-  "updatedAt": "2026-08-18T05:29:02.651Z"
+  "updatedAt": "2026-08-18T05:57:07.391Z"
 }
