@@ -1,15 +1,81 @@
 {
   "news": [
     {
-      "title": "Bangladesh, Bhutan eye expanded product coverage under PTA; explore FTA possibility",
-      "link": "https://www.tbsnews.net/foreign-policy/bangladesh-bhutan-eye-expanded-product-coverage-under-pta-explore-fta-possibility",
-      "pubDate": "Tue, 18 Aug 2026 18:25:00 +0600",
+      "title": "Strong winds devastate Nazirartek dry fish hub as Cox's Bazar records 114mm rain in 24 hours",
+      "link": "https://www.tbsnews.net/bangladesh/strong-winds-devastate-nazirartek-dry-fish-hub-coxs-bazar-records-114mm-rain-24-hours",
+      "pubDate": "Tue, 18 Aug 2026 19:00:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/06/11/image-82593-1663169019_1_0.jpg",
-      "snippet": "Bangladesh reiterated to expedite the operationalisation of the Bhutanese Special Economic Zone in Kurigram."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/whatsapp_image_2026-08-18_at_5.50.35_pm_1.jpeg",
+      "snippet": "Storm damages 15-20 production sheds and shops at Nazirartek dry fish hub, while large quantities of fish are blown away or spoiled by rain."
+    },
+    {
+      "title": "Govt takes various schemes to ensure joyful learning: Milon",
+      "link": "https://www.tbsnews.net/bangladesh/education/govt-takes-various-schemes-ensure-joyful-learning-milon-1518621",
+      "pubDate": "Tue, 18 Aug 2026 18:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/milon.png",
+      "snippet": ""
+    },
+    {
+      "title": "Bangladesh moving towards self-financed development: Khosru",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-moving-towards-self-financed-development-khosru-1518606",
+      "pubDate": "Tue, 18 Aug 2026 18:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/khosru.jpg",
+      "snippet": "The minister said a modern, cashless, and contactless revenue system will be a key pillar of a prosperous Bangladesh."
+    },
+    {
+      "title": "Grameenphone deposits Tk24.6cr into Labour Welfare Foundation Fund",
+      "link": "https://www.tbsnews.net/bangladesh/grameenphone-deposits-tk246cr-labour-welfare-foundation-fund-1518616",
+      "pubDate": "Tue, 18 Aug 2026 18:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/774794686_1062417392852408_8866462575925257916_n.jpg",
+      "snippet": "The telecom operator said the latest contribution takes its total deposits into the fund to Tk354.49 crore since its inception."
+    },
+    {
+      "title": "Inspired by bus-driver husband, Mumtaz takes the wheel of Ctg's new women-only bus service",
+      "link": "https://www.tbsnews.net/bangladesh/inspired-bus-driver-husband-mumtaz-takes-wheel-ctgs-new-women-only-bus-service-1518591",
+      "pubDate": "Tue, 18 Aug 2026 18:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/mumtaz_driver_ctg.jpg",
+      "snippet": "The new service, launched with two buses, aims to provide safer public transport for women."
+    },
+    {
+      "title": "Bangladesh, Bhutan eye expanded product coverage under PTA; explore FTA possibility",
+      "link": "https://www.tbsnews.net/foreign-policy/bangladesh-bhutan-eye-expanded-product-coverage-under-pta-explore-fta-possibility",
+      "pubDate": "Tue, 18 Aug 2026 18:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/06/11/image-82593-1663169019_1.jpg",
+      "snippet": "The two sides also exchange views on cooperation at regional and multilateral level on matters of mutual interest."
+    },
+    {
+      "title": "3-minute workout may outperform 90 minutes of exercise, scientists say",
+      "link": "https://www.tbsnews.net/offbeat/3-minute-workout-may-outperform-90-minutes-exercise-scientists-say-1518611",
+      "pubDate": "Tue, 18 Aug 2026 18:40:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/workout.jpg",
+      "snippet": "The study found that intense exercise rapidly affected proteins linked to tissue repair, blood vessel formation and hormone activity, with some changes persisting after eight weeks of training."
     },
     {
       "title": "Chattogram to host first-ever Build Expo on sustained urban development",
@@ -34,17 +100,6 @@
       "snippet": "Dhaka also urges Myanmar to speed up verification, include new arrivals and children born in Bangladesh, and recognise the Rohingyas’ ethnic identity."
     },
     {
-      "title": "Mobasser Monem steps down as PSC chairman",
-      "link": "https://www.tbsnews.net/bangladesh/mobasser-monem-steps-down-psc-chairman-1518566",
-      "pubDate": "Tue, 18 Aug 2026 17:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/mobasser_monem.jpg",
-      "snippet": "Monem, who was appointed PSC chairman by the interim government in October 2024, resigned today."
-    },
-    {
       "title": "Govt jobs offer important opportunity to serve people: Law minister",
       "link": "https://www.tbsnews.net/bangladesh/govt-jobs-offer-important-opportunity-serve-people-law-minister-1518551",
       "pubDate": "Tue, 18 Aug 2026 17:50:00 +0600",
@@ -54,6 +109,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/law_justice_and_parliamentary_affairs_minister_md_asaduzzaman_final.jpg",
       "snippet": "Law Minister Md Asaduzzaman says honesty, competence and dedication among officials are essential to strengthening institutions and delivering better services to citizens."
+    },
+    {
+      "title": "Mobasser Monem steps down as PSC chairman",
+      "link": "https://www.tbsnews.net/bangladesh/mobasser-monem-steps-down-psc-chairman-1518566",
+      "pubDate": "Tue, 18 Aug 2026 17:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/mobasser_monem.jpg",
+      "snippet": "Monem, who was appointed PSC chairman by the interim government in October 2024, resigned today."
     },
     {
       "title": "Dengue claims 3 more lives as 753 patients hospitalised in 24hrs",
@@ -166,17 +232,6 @@
       "snippet": "Commerce ministry and Confederation of Indian Industry stress efficient land ports, Indian investment in infrastructure, and digital cooperation"
     },
     {
-      "title": "July Uprising killings: Arrest warrants issued against ex-Rajshahi mayor Liton, 33 others",
-      "link": "https://www.tbsnews.net/bangladesh/court/july-uprising-killings-arrest-warrants-issued-against-ex-rajshahi-mayor-liton-33",
-      "pubDate": "Tue, 18 Aug 2026 16:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/09/26/ict.jpg",
-      "snippet": "Tribunal takes cognisance of charges against 38 over killings."
-    },
-    {
       "title": "Transforming Bangladesh's Wildlife Commission into a lasting national legacy",
       "link": "https://www.tbsnews.net/thoughts/transforming-bangladeshs-wildlife-commission-lasting-national-legacy-1518381",
       "pubDate": "Tue, 18 Aug 2026 16:10:00 +0600",
@@ -199,39 +254,6 @@
       "snippet": "HSBC chief calls for emerging sectors to expand globally"
     },
     {
-      "title": "Test cricket: Nations Bangladesh have defeated most",
-      "link": "https://www.tbsnews.net/infograph/numbers/test-cricket-nations-bangladesh-have-defeated-most-1518351",
-      "pubDate": "Tue, 18 Aug 2026 15:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/-test-cricket.png",
-      "snippet": ""
-    },
-    {
-      "title": "Dedicated eye-care facilities will be provided in upazila level: MA Muhit",
-      "link": "https://www.tbsnews.net/bangladesh/dedicated-eye-care-facilities-will-be-provided-upazila-level-ma-muhit-1518336",
-      "pubDate": "Tue, 18 Aug 2026 15:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/received_942493324777252.jpeg",
-      "snippet": "Muhit said that over the past six months the health ministry had been regularly coordinating with international and local organisations to improve and expand eye-care services."
-    },
-    {
-      "title": "Youth gets death sentence over 2017 Manarat University student murder",
-      "link": "https://www.tbsnews.net/bangladesh/court/youth-gets-death-sentence-over-2017-manarat-university-student-murder-1518346",
-      "pubDate": "Tue, 18 Aug 2026 15:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/02/29/death_sentence_0.jpg",
-      "snippet": "During the trial, 14 of the 20 prosecution witnesses testified before the court."
-    },
-    {
       "title": "India must choose: Sheikh Hasina or a sustainable relationship with Bangladesh?",
       "link": "https://www.tbsnews.net/thoughts/india-must-choose-sheikh-hasina-or-sustainable-relationship-bangladesh-1518341",
       "pubDate": "Tue, 18 Aug 2026 15:30:00 +0600",
@@ -241,17 +263,6 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/28/india_bangladesh_0.jpg",
       "snippet": "Sheikh Hasina's continued political presence in India risks deepening public distrust in Bangladesh and complicating bilateral ties. New Delhi should separate its relationship with the Bangladeshi state from the political fate of one former leader"
-    },
-    {
-      "title": "Measles death toll reaches 918 as 3 more children die in 24 hours",
-      "link": "https://www.tbsnews.net/bangladesh/measles-death-toll-reaches-918-3-more-children-die-24-hours-1518316",
-      "pubDate": "Tue, 18 Aug 2026 15:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/measlessssssss.jpeg",
-      "snippet": "A total of 1002 new suspected measles cases were reported during the 24-hour period, bringing the cumulative number of suspected cases nationwide to 144780."
     },
     {
       "title": "Economy stabilises, but business woes persist",
@@ -705,5 +716,5 @@
       "snippet": "This initiative would address all kinds of traffic rules’ violations with more transparency, efficiency and accuracy, DMP said."
     }
   ],
-  "updatedAt": "2026-08-18T12:43:49.805Z"
+  "updatedAt": "2026-08-18T13:41:37.295Z"
 }
