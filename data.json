@@ -1,14 +1,80 @@
 {
   "news": [
     {
-      "title": "‘Hatkata Kashem’ sent to jail in case over 2015 attack on Khaleda Zia’s motorcade",
+      "title": "'We want to take legal profession to a new height': Law minister",
+      "link": "https://www.tbsnews.net/bangladesh/we-want-take-legal-profession-new-height-law-minister-1518781",
+      "pubDate": "Tue, 18 Aug 2026 22:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/30/md_asaduzzaman.jpg",
+      "snippet": "The government has initiated a Tk50 crore allocation for lawyers’ training this year and plans to strengthen financial transparency at the Bar Council."
+    },
+    {
+      "title": "NCC Bank moves to empower board to remove chairman by vote",
+      "link": "https://www.tbsnews.net/economy/ncc-bank-moves-empower-board-remove-chairman-vote-1518776",
+      "pubDate": "Tue, 18 Aug 2026 22:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/05/15/ncc_bank.jpg",
+      "snippet": "The proposed changes would introduce a seniority-based rotation for the chairmanship and allow the board to remove a sitting chairman with a two-thirds majority vote, subject to Bangladesh Bank approval."
+    },
+    {
+      "title": "TIB questions legality of retired judge's appointment as ACC chairman",
+      "link": "https://www.tbsnews.net/bangladesh/tib-questions-legality-retired-judges-appointment-acc-chairman-1518766",
+      "pubDate": "Tue, 18 Aug 2026 21:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/26/iftekharuzzaman.jpg",
+      "snippet": "Iftekharuzzaman says the appointment of Justice AKM Asaduzzaman creates constitutional and conflict-of-interest concerns."
+    },
+    {
+      "title": "Sena Insurance shares soar 161% despite no undisclosed PSI",
+      "link": "https://www.tbsnews.net/economy/stocks/sena-insurance-shares-soar-161-despite-no-undisclosed-psi-1518746",
+      "pubDate": "Tue, 18 Aug 2026 21:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/02/06/sena_insurance_plc.png",
+      "snippet": "Sena Insurance shares jumped nearly 161% in four and a half months despite the company telling the DSE it has no undisclosed price-sensitive information behind the surge."
+    },
+    {
+      "title": "DSEX erases 100-point gain as margin gazette triggers ‘sell-on-news’ reaction",
+      "link": "https://www.tbsnews.net/economy/stocks/dsex-erases-100-point-gain-margin-gazette-triggers-sell-news-reaction-1518751",
+      "pubDate": "Tue, 18 Aug 2026 21:45:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/11/05/dsex.png",
+      "snippet": "Profit-taking wipes out early gains as turnover nears Tk1,000 crore."
+    },
+    {
+      "title": "Hydrogen sulphide found in 3 more ballast tanks after 9 workers' death at Sitakunda shipbreaking yard",
+      "link": "https://www.tbsnews.net/bangladesh/hydrogen-sulphide-found-3-more-ballast-tanks-after-9-workers-death-sitakunda-shipbreaking",
+      "pubDate": "Tue, 18 Aug 2026 21:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/ferdous_ship_yard.jpg",
+      "snippet": "Four separate committees have been formed to investigate the 14 August toxic gas incident that killed nine workers at the shipbreaking yard."
+    },
+    {
+      "title": "'Hatkata Kashem' sent to jail in case over 2015 attack on Khaleda Zia's motorcade",
       "link": "https://www.tbsnews.net/bangladesh/court/hatkata-kashem-sent-jail-case-over-2015-attack-khaleda-zias-motorcade-1518731",
       "pubDate": "Tue, 18 Aug 2026 21:25:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/cmm_court.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/12/chief_magistrate_court_cmm_court.jpg",
       "snippet": "Tejgaon Sramik League president was arrested from Karwan Bazar a day earlier in the case over the alleged 2015 attack on the BNP leader’s motorcade."
     },
     {
@@ -20,7 +86,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/17/tarique_modi.jpg",
-      "snippet": "Indian envoy says PM Modi wants to meet his Bangladeshi counterpart, urges businesses to help bridge gaps between the two countries."
+      "snippet": "Trivedi urges Bangladesh and India to address past differences and move forward, saying, “Don’t get stagnant.”"
     },
     {
       "title": "Cracks appear again in BPC's Tk60cr headquarters in Chattogram",
@@ -180,54 +246,21 @@
       "title": "Chattogram to host first-ever Build Expo on sustained urban development",
       "link": "https://www.tbsnews.net/economy/industry/chattogram-host-first-ever-build-expo-sustained-urban-development-1518586",
       "pubDate": "Tue, 18 Aug 2026 18:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Industry",
+      "color": "#f57c00",
+      "bg": "#fff3e0",
+      "icon": "🏭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/cef79ace-7275-4e89-8e49-b3f0ebcd2608.jpg",
       "snippet": "Three-day expo will showcase construction technologies and ideas"
-    },
-    {
-      "title": "'They have their own identity': Dhaka rejects Myanmar's 'Bengali' label for Rohingyas",
-      "link": "https://www.tbsnews.net/foreign-policy/dhaka-rejects-myanmars-erroneous-statistics-rohingyas-1518561",
-      "pubDate": "Tue, 18 Aug 2026 18:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/bangladesh_rohingya_refugee.gif",
-      "snippet": "Bangladesh also calls for international pressure on Myanmar and the Arakan Army to facilitate the safe, dignified and voluntary repatriation of Rohingyas."
-    },
-    {
-      "title": "Govt jobs offer important opportunity to serve people: Law minister",
-      "link": "https://www.tbsnews.net/bangladesh/govt-jobs-offer-important-opportunity-serve-people-law-minister-1518551",
-      "pubDate": "Tue, 18 Aug 2026 17:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/law_justice_and_parliamentary_affairs_minister_md_asaduzzaman_final.jpg",
-      "snippet": "Law Minister Md Asaduzzaman says honesty, competence and dedication among officials are essential to strengthening institutions and delivering better services to citizens."
-    },
-    {
-      "title": "Mobasser Monem steps down as PSC chairman",
-      "link": "https://www.tbsnews.net/bangladesh/mobasser-monem-steps-down-psc-chairman-1518566",
-      "pubDate": "Tue, 18 Aug 2026 17:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/mobasser_monem.jpg",
-      "snippet": "Monem, who was appointed PSC chairman by the interim government in October 2024, resigned today."
     },
     {
       "title": "Dengue claims 3 more lives as 753 patients hospitalised in 24hrs",
       "link": "https://www.tbsnews.net/bangladesh/health/dengue-claims-3-more-lives-753-patients-hospitalised-24hrs-1518541",
       "pubDate": "Tue, 18 Aug 2026 17:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/dengue_prevention_strategy_.jpg",
       "snippet": "The latest figures take the year’s dengue death toll to 74, while total cases have crossed 25,600"
     },
@@ -587,10 +620,10 @@
       "title": "BB approves LC opening for S Alam-owned SS Power through Rupali Bank",
       "link": "https://www.tbsnews.net/economy/banking/bb-approves-lc-opening-ss-power-through-rupali-bank-1516836",
       "pubDate": "Sun, 16 Aug 2026 21:35:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/06/07/vykn4frhioslx2xtssxqb2ljmopm35ozggeaog2v.jpg",
       "snippet": "Thirty percent of SS Power (Banshkhali coal-fired power plant) is owned by a Chinese company."
     },
@@ -703,18 +736,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/dengue_prevention_strategy_.jpg",
       "snippet": "For the first time, Dhaka South City Corporation (DSCC) has conducted a 'Pre-Monsoon Aedes Mosquito Larva Survey' under its own management."
-    },
-    {
-      "title": "VAT refunds pile up as NBR's online system stalls",
-      "link": "https://www.tbsnews.net/economy/vat-refunds-pile-nbrs-online-system-stalls-1516041",
-      "pubDate": "Sun, 16 Aug 2026 10:00:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/vat.png",
-      "snippet": "NBR officials said businesses that are already entitled to refunds, as well as those seeking to submit new claims, are being affected because the online software module is taking time to update."
     }
   ],
-  "updatedAt": "2026-08-18T15:31:18.500Z"
+  "updatedAt": "2026-08-18T16:30:19.216Z"
 }
