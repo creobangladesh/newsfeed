@@ -1,6 +1,61 @@
 {
   "news": [
     {
+      "title": "China builds diversified AI landscape by leveraging regional strengths",
+      "link": "https://www.tbsnews.net/tech/china-builds-diversified-ai-landscape-leveraging-regional-strengths-1518121",
+      "pubDate": "Tue, 18 Aug 2026 12:30:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/tech_china.jpg",
+      "snippet": "China’s intelligent computing capacity reached 2,185 EFLOPS by the end of June, up 177 percent year on year, reflecting the rapid expansion of the country’s AI infrastructure."
+    },
+    {
+      "title": "Biman invites bids to dry lease 3 Boeing 787-9 Dreamliners",
+      "link": "https://www.tbsnews.net/bangladesh/biman-invites-bids-dry-lease-3-boeing-787-9-dreamliners-1518106",
+      "pubDate": "Tue, 18 Aug 2026 12:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/8109534.jpg",
+      "snippet": "A dry lease means the lessor provides the aircraft while the airline assumes responsibility for its operation, including pilots, cabin crew, maintenance and insurance."
+    },
+    {
+      "title": "Some success in trade deals, but key indicators unchanged",
+      "link": "https://www.tbsnews.net/economy/some-success-trade-deals-key-indicators-unchanged-1518016",
+      "pubDate": "Tue, 18 Aug 2026 12:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/zahid_hussain.jpg",
+      "snippet": "The government has presented a large budget with commitments to structural reforms, but implementation remains limited."
+    },
+    {
+      "title": "PM joins Revenue Conference 2026 at BCFCC",
+      "link": "https://www.tbsnews.net/bangladesh/pm-joins-revenue-conference-2026-bcfcc-1518086",
+      "pubDate": "Tue, 18 Aug 2026 12:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/bangladesh-china_friendship_conference_centre.jpg",
+      "snippet": "Officials shared their experiences and the challenges they face in revenue collection."
+    },
+    {
+      "title": "Met office predicts rain in parts of country  ",
+      "link": "https://www.tbsnews.net/bangladesh/met-office-predicts-rain-parts-country-1518076",
+      "pubDate": "Tue, 18 Aug 2026 11:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/05/20/rain_dhaka.jpg",
+      "snippet": "Day and night temperatures may remain nearly unchanged over the country."
+    },
+    {
       "title": "Man fires several rounds into air after dispute over car parking in Faridpur",
       "link": "https://www.tbsnews.net/bangladesh/man-fires-several-rounds-air-after-dispute-over-car-parking-faridpur-1518071",
       "pubDate": "Tue, 18 Aug 2026 11:35:00 +0600",
@@ -74,7 +129,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/774664946_1614136036749689_3494070557978374429_n.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/macro_economy_opinions.jpg",
       "snippet": "BNP govt inherited an economy that had stopped deteriorating rapidly but remained deeply fragile, and six months later some external indicators have improved while the real economy continues to struggle"
     },
     {
@@ -89,17 +144,6 @@
       "snippet": "During the meeting with the Foreign Secretary, Secretary General Sarwar discussed the importance of sustained engagement and dialogue among Member States for advancing the SAARC process."
     },
     {
-      "title": "38 banks seek Tk28,000cr in stimulus funds for struggling businesses",
-      "link": "https://www.tbsnews.net/economy/banking/38-banks-seek-tk28000cr-stimulus-funds-struggling-businesses-1517961",
-      "pubDate": "Tue, 18 Aug 2026 10:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/bb.png",
-      "snippet": "Under the agreed terms, Bangladesh Bank will pay fund-providing banks a rate tied to its policy rate plus 50 basis points, up from the 9% originally proposed"
-    },
-    {
       "title": "3 sentenced to death for killing driver in Ctg",
       "link": "https://www.tbsnews.net/bangladesh/court/3-sentenced-death-killing-driver-ctg-1518011",
       "pubDate": "Tue, 18 Aug 2026 10:00:00 +0600",
@@ -109,6 +153,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/09/02/gavel-3577255_960_720.jpg",
       "snippet": "The court also fined each of the convicts Tk50,000."
+    },
+    {
+      "title": "38 banks seek Tk28,000cr in stimulus funds for struggling businesses",
+      "link": "https://www.tbsnews.net/economy/banking/38-banks-seek-tk28000cr-stimulus-funds-struggling-businesses-1517961",
+      "pubDate": "Tue, 18 Aug 2026 10:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/bb.png",
+      "snippet": "Under the agreed terms, Bangladesh Bank will pay fund-providing banks a rate tied to its policy rate plus 50 basis points, up from the 9% originally proposed"
     },
     {
       "title": "Capital machinery imports yet to recover",
@@ -175,50 +230,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/06/reuters_lng.jpg",
       "snippet": "The cargoes are scheduled to arrive between 23-24 August and 4-5 September amid an ongoing gas shortage."
-    },
-    {
-      "title": "Margin rule fog deepens sell-off, stocks slide for 4th day",
-      "link": "https://www.tbsnews.net/economy/stocks/margin-rule-fog-deepens-sell-stocks-slide-4th-day-1517886",
-      "pubDate": "Mon, 17 Aug 2026 21:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/11/05/dsex.png",
-      "snippet": "Uncertainty over the final margin lending framework, coupled with profit-taking and weak earnings concerns, pushed the DSEX down 46 points as 318 of 391 traded issues declined."
-    },
-    {
-      "title": "Why ICB Asset funds skip dividends despite earnings rebound in FY26",
-      "link": "https://www.tbsnews.net/economy/stocks/why-icb-asset-funds-skip-dividends-despite-earnings-rebound-fy26-1517891",
-      "pubDate": "Mon, 17 Aug 2026 21:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/11/09/featured-image-tbs-icb-asset.jpg",
-      "snippet": "Most funds rebounded sharply in FY26 after seven posted losses last year, while one recorded a profit"
-    },
-    {
-      "title": "CAPM BDBL Mutual Fund-01 unitholders to vote on open-end conversion or redemption",
-      "link": "https://www.tbsnews.net/economy/stocks/capm-bdbl-mutual-fund-01-unitholders-vote-open-end-conversion-or-redemption-1517876",
-      "pubDate": "Mon, 17 Aug 2026 21:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/15/bsec_stock.jpg",
-      "snippet": "Unitholders will decide in October whether the closed-end fund should convert to an open-end scheme or proceed with redemption under BSEC rules."
-    },
-    {
-      "title": "Govt slashes import duty on chillies, tomatoes to 20.5%",
-      "link": "https://www.tbsnews.net/bangladesh/govt-slashes-tax-chilli-tomato-imports-1517861",
-      "pubDate": "Mon, 17 Aug 2026 21:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/08/09/jonas-ducker-4ijhsbxly0c-unsplash.jpg",
-      "snippet": "Import tax will drop to 20.5% initially before rising to 31%"
     },
     {
       "title": "FBCCI seeks Chinese investment to narrow Bangladesh's trade gap",
@@ -703,18 +714,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/measlessssssss.jpeg",
       "snippet": "The total number of suspected measles deaths has reached 803, while confirmed deaths from measles have remained at 99."
-    },
-    {
-      "title": "PM stresses humane approach, equal access to quality healthcare",
-      "link": "https://www.tbsnews.net/bangladesh/health/pm-stresses-humane-approach-equal-access-quality-healthcare-1515401",
-      "pubDate": "Sat, 15 Aug 2026 12:45:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/8994423.jpg",
-      "snippet": "The Prime Minister was speaking after inaugurating the new 500-bed building of the National Institute of Neurosciences and Hospital in Agargaon."
     }
   ],
-  "updatedAt": "2026-08-18T05:57:07.391Z"
+  "updatedAt": "2026-08-18T06:51:28.463Z"
 }
