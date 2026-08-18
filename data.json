@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "92% of measles deaths among unvaccinated children, 16 lakh more children up for shots",
+      "link": "https://www.tbsnews.net/bangladesh/health/92-measles-deaths-among-unvaccinated-children-16-lakh-more-children-shots-1518856",
+      "pubDate": "Wed, 19 Aug 2026 01:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/21/whatsapp_image_2026-04-21_at_2.57.32_pm.jpeg",
+      "snippet": "Death toll now 918."
+    },
+    {
+      "title": "Indian businesses express investment interests in consumer goods",
+      "link": "https://www.tbsnews.net/bangladesh/indian-businesses-express-investment-interests-consumer-goods-1518851",
+      "pubDate": "Wed, 19 Aug 2026 01:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/ministry_program_.jpg",
+      "snippet": "Business communities of the two countries agree to form task forces to boost trade, investment"
+    },
+    {
+      "title": "DMCH ENT department head attacked in Shantinagar, 1 arrested",
+      "link": "https://www.tbsnews.net/bangladesh/crime/dmch-ent-department-head-attacked-shantinagar-1-arrested-1518841",
+      "pubDate": "Wed, 19 Aug 2026 00:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/06/1660100471-four-arrested-with-hoarded-diesel-stock-l.jpg",
+      "snippet": "The doctor was attacked by 4-5 men while returning home after seeing patients at his private chamber, police say."
+    },
+    {
       "title": "Two women killed after being hit by Suborno Express train in Cumilla",
       "link": "https://www.tbsnews.net/bangladesh/districts/two-women-killed-after-being-hit-subarna-express-train-cumilla-1518826",
       "pubDate": "Wed, 19 Aug 2026 00:15:00 +0600",
@@ -155,17 +188,6 @@
       "snippet": "Akhtar said that at the start of voting in the presidential election, the Chief Election Commissioner (CEC) AMM Nasir Uddin will brief the voters about the voting procedure. \"After that, we will begin the voting there,” he added."
     },
     {
-      "title": "Bangladesh, India business communities to form task forces to boost trade, investment",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-india-business-communities-form-task-forces-boost-trade-investment-1518681",
-      "pubDate": "Tue, 18 Aug 2026 20:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/fbcci.png",
-      "snippet": "FBCCI Administrator Fazlul Hoque said Bangladesh could draw lessons from India's experience in attracting private and foreign investment in infrastructure."
-    },
-    {
       "title": "Mirza Fakhrul vows to serve people even after becoming President",
       "link": "https://www.tbsnews.net/bangladesh/mirza-fakhrul-vows-serve-people-even-after-becoming-president-1518691",
       "pubDate": "Tue, 18 Aug 2026 20:20:00 +0600",
@@ -175,6 +197,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/bnp_presidential_candidate_mirza_fakhrul_islam_alamgir_final.png",
       "snippet": "BNP presidential candidate Mirza Fakhrul Islam Alamgir says he wants to continue serving people and working for the development of his home district if elected president."
+    },
+    {
+      "title": "Bangladesh, India business communities to form task forces to boost trade, investment",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-india-business-communities-form-task-forces-boost-trade-investment-1518681",
+      "pubDate": "Tue, 18 Aug 2026 20:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/fbcci.png",
+      "snippet": "FBCCI Administrator Fazlul Hoque said Bangladesh could draw lessons from India's experience in attracting private and foreign investment in infrastructure."
     },
     {
       "title": "Central Medical Stores Depot to get 14,000sqft pharma-grade warehouse",
@@ -224,34 +257,12 @@
       "title": "Govt takes various schemes to ensure joyful learning: Milon",
       "link": "https://www.tbsnews.net/bangladesh/education/govt-takes-various-schemes-ensure-joyful-learning-milon-1518621",
       "pubDate": "Tue, 18 Aug 2026 18:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/milon.png",
       "snippet": ""
-    },
-    {
-      "title": "Bangladesh moving towards self-financed development: Khosru",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-moving-towards-self-financed-development-khosru-1518606",
-      "pubDate": "Tue, 18 Aug 2026 18:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/khosru.jpg",
-      "snippet": "The minister said a modern, cashless, and contactless revenue system will be a key pillar of a prosperous Bangladesh."
-    },
-    {
-      "title": "Grameenphone deposits Tk24.6cr into Labour Welfare Foundation Fund",
-      "link": "https://www.tbsnews.net/bangladesh/grameenphone-deposits-tk246cr-labour-welfare-foundation-fund-1518616",
-      "pubDate": "Tue, 18 Aug 2026 18:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/774794686_1062417392852408_8866462575925257916_n.jpg",
-      "snippet": "The telecom operator said the latest contribution takes its total deposits into the fund to Tk354.49 crore since its inception."
     },
     {
       "title": "3-minute workout may outperform 90 minutes of exercise, scientists say",
@@ -265,7 +276,7 @@
       "snippet": "The study found that intense exercise rapidly affected proteins linked to tissue repair, blood vessel formation and hormone activity, with some changes persisting after eight weeks of training."
     },
     {
-      "title": "Chattogram to host first-ever Build Expo on sustained urban development",
+      "title": "Ctg to host first-ever Build Expo on sustainable urban development",
       "link": "https://www.tbsnews.net/economy/industry/chattogram-host-first-ever-build-expo-sustained-urban-development-1518586",
       "pubDate": "Tue, 18 Aug 2026 18:05:00 +0600",
       "category": "Industry",
@@ -273,7 +284,7 @@
       "bg": "#fff3e0",
       "icon": "🏭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/cef79ace-7275-4e89-8e49-b3f0ebcd2608.jpg",
-      "snippet": "Three-day expo will showcase construction technologies and ideas"
+      "snippet": "Three-day expo will showcase construction products and technologies"
     },
     {
       "title": "Dengue claims 3 more lives as 753 patients hospitalised in 24hrs",
@@ -749,5 +760,5 @@
       "snippet": "For the first time, Dhaka South City Corporation (DSCC) has conducted a 'Pre-Monsoon Aedes Mosquito Larva Survey' under its own management."
     }
   ],
-  "updatedAt": "2026-08-18T18:37:52.826Z"
+  "updatedAt": "2026-08-18T19:27:14.525Z"
 }
