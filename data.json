@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Singer Mujib Pardeshi shown arrested in Tk4.40 lakh cheque dishonour case",
+      "link": "https://www.tbsnews.net/bangladesh/court/singer-mujib-pardeshi-shown-arrested-tk440-lakh-cheque-dishonour-case-1518301",
+      "pubDate": "Tue, 18 Aug 2026 15:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/muijb_pardeshi.jpg",
+      "snippet": "According to the case documents, Mujib was sentenced to one year of simple imprisonment and fined Tk8.80 lakh on 21 November 2007."
+    },
+    {
+      "title": "8 Rohingyas, 4 suspected traffickers held in Sylhet",
+      "link": "https://www.tbsnews.net/bangladesh/8-rohingyas-4-suspected-traffickers-held-sylhet-1518271",
+      "pubDate": "Tue, 18 Aug 2026 14:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/03/02/rohingya_camp.jpg",
+      "snippet": "The group allegedly planned to take them to India through the Dona border. A boat had also been kept ready at the Kuorer Mati Batar Bazar area on the Surma River for the operation, according to the sources."
+    },
+    {
       "title": "FM leaves Dhaka for Qatar",
       "link": "https://www.tbsnews.net/bangladesh/fm-leaves-dhaka-qatar-1518256",
       "pubDate": "Tue, 18 Aug 2026 14:20:00 +0600",
@@ -45,18 +67,18 @@
       "snippet": "Tarique Rahman said the government wants to transform the National Board of Revenue (NBR) and the country’s overall revenue structure into a people-friendly system where taxpayers will not fear the institution but trust it."
     },
     {
-      "title": "Committee for 2028 curriculum to be formed by next week: Edu minister",
+      "title": "Committee for 2028 curriculum by next week: Education minister",
       "link": "https://www.tbsnews.net/bangladesh/committee-2028-curriculum-be-formed-next-week-edu-minister-1518241",
       "pubDate": "Tue, 18 Aug 2026 14:05:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/edu_minister.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/01/23/primary_students.jpg",
       "snippet": "Education Minister ANM Ehsanul Hoque Milon said the new curriculum will introduce ‘Learning with Happiness’, technical education and sports from Class One"
     },
     {
-      "title": "AI camera-based 'auto fine system' launched on Dhaka-Chattogram highway",
+      "title": "AI camera-based 'auto fine system' launched on Dhaka-Chattogram Highway",
       "link": "https://www.tbsnews.net/bangladesh/ai-camera-based-auto-fine-system-launched-dhaka-chattogram-highway-1518211",
       "pubDate": "Tue, 18 Aug 2026 13:50:00 +0600",
       "category": "Bangladesh",
@@ -74,30 +96,19 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/03/30/dshe-1591367133389.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/social_media_icon_monitoring_.jpg",
       "snippet": "The report must include the official’s name, designation, workplace, social media platform, account or profile link, publication date and time, screenshots and other relevant evidence."
     },
     {
-      "title": "BRTC launches 'Pink Bus' service for women",
+      "title": "BRTC launches 'Pink Bus' service by women, for women",
       "link": "https://www.tbsnews.net/bangladesh/brtc-launches-pink-bus-service-women-today-1518171",
       "pubDate": "Tue, 18 Aug 2026 13:15:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/pink_bus_1.jpg",
-      "snippet": "The pink buses will be operated by female drivers and conductors."
-    },
-    {
-      "title": "Ex-Army major Sadiqul Haque shown arrested in anti-terrorism case ",
-      "link": "https://www.tbsnews.net/bangladesh/ex-army-major-sadiqul-haque-shown-arrested-anti-terrorism-case-1518151",
-      "pubDate": "Tue, 18 Aug 2026 13:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/received_1086561577654436.jpeg",
-      "snippet": "Sadiq, dismissed from the army, was sentenced to three months in jail by a military court on 29 October 2024."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/pink_bus_2.jpg",
+      "snippet": "E-ticketing through POS machines has been introduced for the service, which will cover 134 stops, while one bus has been equipped with Starlink Wi-Fi on a trial basis and three buses have been fitted with CCTV cameras."
     },
     {
       "title": "Economy stabilises, but business woes persist",
@@ -111,15 +122,26 @@
       "snippet": "According to the IMF’s methodology, forex reserves have remained stable at around $20-22 billion."
     },
     {
-      "title": "690 escaped inmates still at large, no info on 166: IG prisons",
+      "title": "Ex-Army major Sadiqul Haque shown arrested in anti-terrorism case ",
+      "link": "https://www.tbsnews.net/bangladesh/ex-army-major-sadiqul-haque-shown-arrested-anti-terrorism-case-1518151",
+      "pubDate": "Tue, 18 Aug 2026 13:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/received_1086561577654436.jpeg",
+      "snippet": "Sadiq, dismissed from the army, was sentenced to three months in jail by a military court on 29 October 2024."
+    },
+    {
+      "title": "690 inmates escaped after July Uprising still at large, no info on 166: IG Prisons",
       "link": "https://www.tbsnews.net/bangladesh/690-escaped-inmates-still-large-no-info-166-ig-prisons-1518136",
       "pubDate": "Tue, 18 Aug 2026 12:50:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/ig_prisons_18_aug.jpg",
-      "snippet": "The IG Prisons disclosed the information during a press conference at the Department of Prisons headquarters"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/prisoner_escape_inmate.jpg",
+      "snippet": "Responding to queries about whether the fugitive militants have any connection to recent discoveries of bombs and bomb-like objects in and around the capital, Motaher admitted that prison authorities are \"somewhat concerned about potential links to t..."
     },
     {
       "title": "Bangladesh to convey position to Myanmar over Rohingya statement",
@@ -155,17 +177,6 @@
       "snippet": "A dry lease means the lessor provides the aircraft while the airline assumes responsibility for its operation, including pilots, cabin crew, maintenance and insurance."
     },
     {
-      "title": "PM joins Revenue Conference 2026 at BCFCC",
-      "link": "https://www.tbsnews.net/bangladesh/pm-joins-revenue-conference-2026-bcfcc-1518086",
-      "pubDate": "Tue, 18 Aug 2026 12:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/bangladesh-china_friendship_conference_centre.jpg",
-      "snippet": "Officials shared their experiences and the challenges they face in revenue collection."
-    },
-    {
       "title": "Some success in trade deals, but key indicators unchanged",
       "link": "https://www.tbsnews.net/economy/some-success-trade-deals-key-indicators-unchanged-1518016",
       "pubDate": "Tue, 18 Aug 2026 12:00:00 +0600",
@@ -175,6 +186,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/zahid_hussain.jpg",
       "snippet": "The government has presented a large budget with commitments to structural reforms, but implementation remains limited."
+    },
+    {
+      "title": "PM joins Revenue Conference 2026 at BCFCC",
+      "link": "https://www.tbsnews.net/bangladesh/pm-joins-revenue-conference-2026-bcfcc-1518086",
+      "pubDate": "Tue, 18 Aug 2026 12:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/bangladesh-china_friendship_conference_centre.jpg",
+      "snippet": "Officials shared their experiences and the challenges they face in revenue collection."
     },
     {
       "title": "Met office predicts rain in parts of country  ",
@@ -213,23 +235,12 @@
       "title": "Universal Menswear at Adamjee EPZ exports suits worth $98m to int'l markets yearly",
       "link": "https://www.tbsnews.net/economy/suits-worth-98m-exported-intl-markets-adamjee-epz-yearly-1517996",
       "pubDate": "Tue, 18 Aug 2026 11:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/p3_suit_story.jpg",
       "snippet": "The factory can produce around 500,000 pieces of trousers, blazers and other men’s garments a month, or about five million pieces a year."
-    },
-    {
-      "title": "Fire at Boalkhali paper mill, estimated damage Tk2cr",
-      "link": "https://www.tbsnews.net/bangladesh/fire-boalkhali-paper-mill-estimated-damage-tk2cr-1518051",
-      "pubDate": "Tue, 18 Aug 2026 10:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/hakkani_paper_and_board_mills_in_boalkhali.jpg",
-      "snippet": "The fire damaged valuable machinery, electrical cables and waste paper stored in a section of the warehouse."
     },
     {
       "title": "Macroeconomic stability returns, recovery yet to gain pace",
@@ -725,29 +736,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/coxs_bazar_0.jpeg",
       "snippet": ""
-    },
-    {
-      "title": "How 'green' are Bangladesh's shipbreaking yards if workers keep dying? ",
-      "link": "https://www.tbsnews.net/analysis/how-green-are-bangladeshs-shipbreaking-yards-if-workers-keep-dying-1515571",
-      "pubDate": "Sat, 15 Aug 2026 15:30:00 +0600",
-      "category": "Industry",
-      "color": "#f57c00",
-      "bg": "#fff3e0",
-      "icon": "🏭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/p1_sitakunda_coc01595.jpg.jpeg",
-      "snippet": "Bangladesh recorded 12 shipbreaking worker deaths in 2026, despite a growing number of yards receiving green certification."
-    },
-    {
-      "title": "Measles outbreak: Death toll tops 900 as 8 more die",
-      "link": "https://www.tbsnews.net/bangladesh/health/measles-outbreak-death-toll-tops-900-8-more-die-1515526",
-      "pubDate": "Sat, 15 Aug 2026 14:50:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/measlessssssss.jpeg",
-      "snippet": "The total number of suspected measles deaths has reached 803, while confirmed deaths from measles have remained at 99."
     }
   ],
-  "updatedAt": "2026-08-18T08:35:53.252Z"
+  "updatedAt": "2026-08-18T09:32:48.261Z"
 }
