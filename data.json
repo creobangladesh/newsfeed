@@ -1,6 +1,94 @@
 {
   "news": [
     {
+      "title": "Transforming Bangladesh's Wildlife Commission into a lasting national legacy",
+      "link": "https://www.tbsnews.net/thoughts/transforming-bangladeshs-wildlife-commission-lasting-national-legacy-1518381",
+      "pubDate": "Tue, 18 Aug 2026 16:10:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/elephant_02_1_1.jpg",
+      "snippet": "The newly formed Wildlife Commission is a welcome step towards protecting Bangladesh’s biodiversity, but its narrow mandate risks missing a rare opportunity to reshape wildlife governance. With a broader strategic vision, it could lay the foundation ..."
+    },
+    {
+      "title": "HSBC launches 10th Export Excellence Awards, urges export diversification",
+      "link": "https://www.tbsnews.net/economy/banking/hsbc-launches-10th-export-excellence-awards-urges-export-diversification-1518361",
+      "pubDate": "Tue, 18 Aug 2026 15:55:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/hsbc.jpg",
+      "snippet": "HSBC chief calls for emerging sectors to expand globally"
+    },
+    {
+      "title": "Test cricket: Nations Bangladesh have defeated most",
+      "link": "https://www.tbsnews.net/infograph/numbers/test-cricket-nations-bangladesh-have-defeated-most-1518351",
+      "pubDate": "Tue, 18 Aug 2026 15:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/-test-cricket.png",
+      "snippet": ""
+    },
+    {
+      "title": "Dedicated eye-care facilities will be provided in upazila level: MA Muhit",
+      "link": "https://www.tbsnews.net/bangladesh/dedicated-eye-care-facilities-will-be-provided-upazila-level-ma-muhit-1518336",
+      "pubDate": "Tue, 18 Aug 2026 15:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/received_942493324777252.jpeg",
+      "snippet": "Muhit said that over the past six months the health ministry had been regularly coordinating with international and local organisations to improve and expand eye-care services."
+    },
+    {
+      "title": "Youth gets death sentence over 2017 Manarat University student murder",
+      "link": "https://www.tbsnews.net/bangladesh/court/youth-gets-death-sentence-over-2017-manarat-university-student-murder-1518346",
+      "pubDate": "Tue, 18 Aug 2026 15:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/02/29/death_sentence_0.jpg",
+      "snippet": "During the trial, 14 of the 20 prosecution witnesses testified before the court."
+    },
+    {
+      "title": "India must choose: Sheikh Hasina or a sustainable relationship with Bangladesh?",
+      "link": "https://www.tbsnews.net/thoughts/india-must-choose-sheikh-hasina-or-sustainable-relationship-bangladesh-1518341",
+      "pubDate": "Tue, 18 Aug 2026 15:30:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/28/india_bangladesh_0.jpg",
+      "snippet": "Sheikh Hasina's continued political presence in India risks deepening public distrust in Bangladesh and complicating bilateral ties. New Delhi should separate its relationship with the Bangladeshi state from the political fate of one former leader"
+    },
+    {
+      "title": "Measles death toll reaches 918 as 3 more children die in 24 hours",
+      "link": "https://www.tbsnews.net/bangladesh/measles-death-toll-reaches-918-3-more-children-die-24-hours-1518316",
+      "pubDate": "Tue, 18 Aug 2026 15:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/measlessssssss.jpeg",
+      "snippet": "A total of 1002 new suspected measles cases were reported during the 24-hour period, bringing the cumulative number of suspected cases nationwide to 144780."
+    },
+    {
+      "title": "Govt moves to modernise Rajshahi silk industry: State minister",
+      "link": "https://www.tbsnews.net/bangladesh/govt-moves-modernise-rajshahi-silk-industry-state-minister-1518326",
+      "pubDate": "Tue, 18 Aug 2026 15:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/rajshahi_silk_img_1.jpg",
+      "snippet": "The government plans to revive Rajshahi’s traditional silk sector through modern technology, research, training and greater access to international markets."
+    },
+    {
       "title": "Singer Mujib Pardeshi shown arrested in Tk4.40 lakh cheque dishonour case",
       "link": "https://www.tbsnews.net/bangladesh/court/singer-mujib-pardeshi-shown-arrested-tk440-lakh-cheque-dishonour-case-1518301",
       "pubDate": "Tue, 18 Aug 2026 15:15:00 +0600",
@@ -111,17 +199,6 @@
       "snippet": "E-ticketing through POS machines has been introduced for the service, which will cover 134 stops, while one bus has been equipped with Starlink Wi-Fi on a trial basis and three buses have been fitted with CCTV cameras."
     },
     {
-      "title": "Economy stabilises, but business woes persist",
-      "link": "https://www.tbsnews.net/economy/economy-stabilises-business-woes-persist-1518001",
-      "pubDate": "Tue, 18 Aug 2026 13:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/01/20/bangladesh_business_economy.jpg",
-      "snippet": "According to the IMF’s methodology, forex reserves have remained stable at around $20-22 billion."
-    },
-    {
       "title": "Ex-Army major Sadiqul Haque shown arrested in anti-terrorism case ",
       "link": "https://www.tbsnews.net/bangladesh/ex-army-major-sadiqul-haque-shown-arrested-anti-terrorism-case-1518151",
       "pubDate": "Tue, 18 Aug 2026 13:00:00 +0600",
@@ -131,6 +208,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/received_1086561577654436.jpeg",
       "snippet": "Sadiq, dismissed from the army, was sentenced to three months in jail by a military court on 29 October 2024."
+    },
+    {
+      "title": "Economy stabilises, but business woes persist",
+      "link": "https://www.tbsnews.net/economy/economy-stabilises-business-woes-persist-1518001",
+      "pubDate": "Tue, 18 Aug 2026 13:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/01/20/bangladesh_business_economy.jpg",
+      "snippet": "According to the IMF’s methodology, forex reserves have remained stable at around $20-22 billion."
     },
     {
       "title": "690 inmates escaped after July Uprising still at large, no info on 166: IG Prisons",
@@ -180,56 +268,12 @@
       "title": "Some success in trade deals, but key indicators unchanged",
       "link": "https://www.tbsnews.net/economy/some-success-trade-deals-key-indicators-unchanged-1518016",
       "pubDate": "Tue, 18 Aug 2026 12:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/zahid_hussain.jpg",
       "snippet": "The government has presented a large budget with commitments to structural reforms, but implementation remains limited."
-    },
-    {
-      "title": "PM joins Revenue Conference 2026 at BCFCC",
-      "link": "https://www.tbsnews.net/bangladesh/pm-joins-revenue-conference-2026-bcfcc-1518086",
-      "pubDate": "Tue, 18 Aug 2026 12:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/bangladesh-china_friendship_conference_centre.jpg",
-      "snippet": "Officials shared their experiences and the challenges they face in revenue collection."
-    },
-    {
-      "title": "Met office predicts rain in parts of country  ",
-      "link": "https://www.tbsnews.net/bangladesh/met-office-predicts-rain-parts-country-1518076",
-      "pubDate": "Tue, 18 Aug 2026 11:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/05/20/rain_dhaka.jpg",
-      "snippet": "Day and night temperatures may remain nearly unchanged over the country."
-    },
-    {
-      "title": "Man fires several rounds into air after dispute over car parking in Faridpur",
-      "link": "https://www.tbsnews.net/bangladesh/man-fires-several-rounds-air-after-dispute-over-car-parking-faridpur-1518071",
-      "pubDate": "Tue, 18 Aug 2026 11:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/received_1747620219865591.jpeg",
-      "snippet": "The sound of gunfire caused panic in the area."
-    },
-    {
-      "title": "Suspected militants freed after August 2024 changeover raise fresh security fears",
-      "link": "https://www.tbsnews.net/bangladesh/suspected-militants-freed-after-august-2024-changeover-raise-fresh-security-fears-1518006",
-      "pubDate": "Tue, 18 Aug 2026 11:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/24/bomb_like_object.jpg",
-      "snippet": "As suspected militants and extremists released on bail are now allegedly seeking to revive old networks, the challenge for law enforcement is to locate and monitor them and prevent them from regrouping and carrying out militant activities in the coun..."
     },
     {
       "title": "Universal Menswear at Adamjee EPZ exports suits worth $98m to int'l markets yearly",
@@ -683,17 +727,6 @@
       "snippet": "The trilateral defence pact between Saudi Arabia, Turkey and Pakistan could evolve beyond military cooperation, creating a strategic bloc that combines capital, technology, energy and military power to reshape regional economics and security."
     },
     {
-      "title": "RMG exporters seek 12-month instalments for Jul-Aug utility bills",
-      "link": "https://www.tbsnews.net/economy/rmg/garment-exporters-seek-facility-pay-july-august-gas-electricity-bills-installments",
-      "pubDate": "Sat, 15 Aug 2026 18:20:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/garment_exporters_seek_facility_to_pay_july-august_gas_electricity_bills_in_installments.png",
-      "snippet": "The BKMEA says paying the July and August utility bills in full under existing rules would be difficult for many factory owners given the financial losses they had suffered."
-    },
-    {
       "title": "Ex-Kushtia resident medical officer faces departmental case over recruitment exam question leak",
       "link": "https://www.tbsnews.net/bangladesh/health/ex-kushtia-resident-medical-officer-faces-departmental-case-over-recruitment-exam",
       "pubDate": "Sat, 15 Aug 2026 18:10:00 +0600",
@@ -703,40 +736,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/dr_hossain_imam.jpg",
       "snippet": "Probe finds preliminary evidence supporting allegations that candidates took the written recruitment test at his residence using allegedly leaked question papers."
-    },
-    {
-      "title": "Bangladesh’s untapped energy source: Efficiency ",
-      "link": "https://www.tbsnews.net/thoughts/bangladeshs-untapped-energy-source-efficiency-1515611",
-      "pubDate": "Sat, 15 Aug 2026 16:15:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/worlds-2.4-trillion-energy-transition-spending-in-2024-fea.png",
-      "snippet": "Bangladesh’s forgotten fuel lies not beneath the ground or across international markets, but in the vast amount of energy wasted every day"
-    },
-    {
-      "title": "A cautious step towards Rohingya repatriation, a larger test for Bangladesh ",
-      "link": "https://www.tbsnews.net/thoughts/cautious-step-towards-rohingya-repatriation-larger-test-bangladesh-1515616",
-      "pubDate": "Sat, 15 Aug 2026 16:15:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/rohingya-1_0.jpg",
-      "snippet": "Malaysia's initiative breaks a prolonged diplomatic stalemate, offering Bangladesh a tangible reference point for structured repatriation talks"
-    },
-    {
-      "title": "Cox’s Bazar: A multidimensional tourism potential driven by blue resources",
-      "link": "https://www.tbsnews.net/thoughts/coxs-bazar-multidimensional-tourism-potential-driven-blue-resources-1515606",
-      "pubDate": "Sat, 15 Aug 2026 16:05:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/coxs_bazar_0.jpeg",
-      "snippet": ""
     }
   ],
-  "updatedAt": "2026-08-18T09:32:48.261Z"
+  "updatedAt": "2026-08-18T10:27:42.846Z"
 }
