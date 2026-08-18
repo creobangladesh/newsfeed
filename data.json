@@ -1,6 +1,61 @@
 {
   "news": [
     {
+      "title": "BRTC launches 'Pink Bus' service for women",
+      "link": "https://www.tbsnews.net/bangladesh/brtc-launches-pink-bus-service-women-today-1518171",
+      "pubDate": "Tue, 18 Aug 2026 13:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/pink_bus_1.jpg",
+      "snippet": "The pink buses will be operated by female drivers and conductors."
+    },
+    {
+      "title": "Ex-Army major Sadiqul Haque shown arrested in anti-terrorism case ",
+      "link": "https://www.tbsnews.net/bangladesh/ex-army-major-sadiqul-haque-shown-arrested-anti-terrorism-case-1518151",
+      "pubDate": "Tue, 18 Aug 2026 13:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/received_1086561577654436.jpeg",
+      "snippet": "Sadiq, dismissed from the army, was sentenced to three months in jail by a military court on 29 October 2024."
+    },
+    {
+      "title": "Economy stabilises, but business woes persist",
+      "link": "https://www.tbsnews.net/economy/economy-stabilises-business-woes-persist-1518001",
+      "pubDate": "Tue, 18 Aug 2026 13:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/01/20/bangladesh_business_economy.jpg",
+      "snippet": "According to the IMF’s methodology, forex reserves have remained stable at around $20-22 billion."
+    },
+    {
+      "title": "690 escaped inmates still at large, no info on 166: IG prisons",
+      "link": "https://www.tbsnews.net/bangladesh/690-escaped-inmates-still-large-no-info-166-ig-prisons-1518136",
+      "pubDate": "Tue, 18 Aug 2026 12:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/ig_prisons_18_aug.jpg",
+      "snippet": "The IG Prisons disclosed the information during a press conference at the Department of Prisons headquarters"
+    },
+    {
+      "title": "Bangladesh to convey position to Myanmar over Rohingya statement",
+      "link": "https://www.tbsnews.net/rohingya-crisis/bangladesh-convey-position-myanmar-over-rohingya-statement-1518126",
+      "pubDate": "Tue, 18 Aug 2026 12:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/rohingya-1_0.jpg",
+      "snippet": "This statement is a calculated attempt to rewrite history, whitewash state-sponsored crimes, and evade the international community's calls for accountability, said the UCR in a statement."
+    },
+    {
       "title": "China builds diversified AI landscape by leveraging regional strengths",
       "link": "https://www.tbsnews.net/tech/china-builds-diversified-ai-landscape-leveraging-regional-strengths-1518121",
       "pubDate": "Tue, 18 Aug 2026 12:30:00 +0600",
@@ -129,8 +184,8 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/macro_economy_opinions.jpg",
-      "snippet": "BNP govt inherited an economy that had stopped deteriorating rapidly but remained deeply fragile, and six months later some external indicators have improved while the real economy continues to struggle"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/collage_zahid_fahmida_azam_razzaque_0.jpg",
+      "snippet": "BNP govt inherited an economy that had stopped deteriorating rapidly but remained deeply fragile, and six months later some external indicators have improved while the real economy continues to struggle."
     },
     {
       "title": "Foreign Minister highlights SAARC's significance in promoting stability, shared development in South Asia",
@@ -144,17 +199,6 @@
       "snippet": "During the meeting with the Foreign Secretary, Secretary General Sarwar discussed the importance of sustained engagement and dialogue among Member States for advancing the SAARC process."
     },
     {
-      "title": "3 sentenced to death for killing driver in Ctg",
-      "link": "https://www.tbsnews.net/bangladesh/court/3-sentenced-death-killing-driver-ctg-1518011",
-      "pubDate": "Tue, 18 Aug 2026 10:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/09/02/gavel-3577255_960_720.jpg",
-      "snippet": "The court also fined each of the convicts Tk50,000."
-    },
-    {
       "title": "38 banks seek Tk28,000cr in stimulus funds for struggling businesses",
       "link": "https://www.tbsnews.net/economy/banking/38-banks-seek-tk28000cr-stimulus-funds-struggling-businesses-1517961",
       "pubDate": "Tue, 18 Aug 2026 10:00:00 +0600",
@@ -164,6 +208,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/bb.png",
       "snippet": "Under the agreed terms, Bangladesh Bank will pay fund-providing banks a rate tied to its policy rate plus 50 basis points, up from the 9% originally proposed"
+    },
+    {
+      "title": "3 sentenced to death for killing driver in Ctg",
+      "link": "https://www.tbsnews.net/bangladesh/court/3-sentenced-death-killing-driver-ctg-1518011",
+      "pubDate": "Tue, 18 Aug 2026 10:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/09/02/gavel-3577255_960_720.jpg",
+      "snippet": "The court also fined each of the convicts Tk50,000."
     },
     {
       "title": "Capital machinery imports yet to recover",
@@ -180,56 +235,12 @@
       "title": "Economic zones planned on land of 3 closed state-owned mills",
       "link": "https://www.tbsnews.net/economy/economic-zones-planned-land-3-closed-state-owned-mills-1517956",
       "pubDate": "Tue, 18 Aug 2026 07:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/03/05/bangladesh_jute_mills_3.jpg",
       "snippet": "The move aims to put long-unused industrial assets back into productive use, attract domestic and foreign investment, establish new industries and create jobs, according to officials of the Bangladesh Economic Zones Authority (Beza)"
-    },
-    {
-      "title": "Govt forms new ACC with Justice AKM Asaduzzaman as chairman",
-      "link": "https://www.tbsnews.net/bangladesh/govt-forms-new-acc-justice-akm-asaduzzaman-chairman-1517936",
-      "pubDate": "Tue, 18 Aug 2026 00:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/08/17/acc-tbs.jpg",
-      "snippet": "The Cabinet Division issued a gazette notification announcing the appointments."
-    },
-    {
-      "title": "Bomb-like objects recovered from shopping bag in Elephant Road",
-      "link": "https://www.tbsnews.net/bangladesh/bomb-objects-recovered-shopping-bag-elephant-road-1517931",
-      "pubDate": "Mon, 17 Aug 2026 23:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/bomb_elephant_road.jpg",
-      "snippet": "Members of the Bomb Disposal Unit are currently examining the objects."
-    },
-    {
-      "title": "Govt targets 95% reduction in children’s blood lead levels by 2035",
-      "link": "https://www.tbsnews.net/bangladesh/govt-targets-95-reduction-childrens-blood-lead-levels-2035-1517906",
-      "pubDate": "Mon, 17 Aug 2026 22:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/24/08_panorama.jpg",
-      "snippet": "Govt approves 10-year strategy to tackle lead pollution"
-    },
-    {
-      "title": " Govt to buy 2 more LNG cargoes from Singapore for Tk1,851cr",
-      "link": "https://www.tbsnews.net/bangladesh/energy/govt-approves-2-lng-cargo-purchases-singapore-tk-1851cr-1517896",
-      "pubDate": "Mon, 17 Aug 2026 21:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/06/reuters_lng.jpg",
-      "snippet": "The cargoes are scheduled to arrive between 23-24 August and 4-5 September amid an ongoing gas shortage."
     },
     {
       "title": "FBCCI seeks Chinese investment to narrow Bangladesh's trade gap",
@@ -694,17 +705,6 @@
       "snippet": "Bangladesh recorded 12 shipbreaking worker deaths in 2026, despite a growing number of yards receiving green certification."
     },
     {
-      "title": "Gold price rises again by Tk2,158 per bhori",
-      "link": "https://www.tbsnews.net/economy/gold-price-rises-again-tk2158-bhori-1515556",
-      "pubDate": "Sat, 15 Aug 2026 15:15:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/06/16/gold_jewellery.jpg",
-      "snippet": "Despite the rise in gold prices, silver prices remain unchanged."
-    },
-    {
       "title": "Measles outbreak: Death toll tops 900 as 8 more die",
       "link": "https://www.tbsnews.net/bangladesh/health/measles-outbreak-death-toll-tops-900-8-more-die-1515526",
       "pubDate": "Sat, 15 Aug 2026 14:50:00 +0600",
@@ -716,5 +716,5 @@
       "snippet": "The total number of suspected measles deaths has reached 803, while confirmed deaths from measles have remained at 99."
     }
   ],
-  "updatedAt": "2026-08-18T06:51:28.463Z"
+  "updatedAt": "2026-08-18T07:37:16.641Z"
 }
