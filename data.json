@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Bangladesh's gross reserves hit $37.24 billion",
+      "link": "https://www.tbsnews.net/economy/bangladeshs-gross-reserves-hit-3724-billion-1518801",
+      "pubDate": "Tue, 18 Aug 2026 23:45:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/09/27/1000029569_678x452.jpg",
+      "snippet": "The country received $4.74 billion in remittances between 1 July and 17 August, 2026, compared with $3.90 billion during the corresponding period of the previous fiscal year."
+    },
+    {
       "title": "We want to take legal profession to a new height: Law minister",
       "link": "https://www.tbsnews.net/bangladesh/we-want-take-legal-profession-new-height-law-minister-1518781",
       "pubDate": "Tue, 18 Aug 2026 22:05:00 +0600",
@@ -111,17 +122,6 @@
       "snippet": "Akhtar said that at the start of voting in the presidential election, the Chief Election Commissioner (CEC) AMM Nasir Uddin will brief the voters about the voting procedure. \"After that, we will begin the voting there,” he added."
     },
     {
-      "title": "Bangladesh, India business communities to form task forces to boost trade, investment",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-india-business-communities-form-task-forces-boost-trade-investment-1518681",
-      "pubDate": "Tue, 18 Aug 2026 20:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/fbcci.png",
-      "snippet": "FBCCI Administrator Fazlul Hoque said Bangladesh could draw lessons from India's experience in attracting private and foreign investment in infrastructure."
-    },
-    {
       "title": "Mirza Fakhrul vows to serve people even after becoming President",
       "link": "https://www.tbsnews.net/bangladesh/mirza-fakhrul-vows-serve-people-even-after-becoming-president-1518691",
       "pubDate": "Tue, 18 Aug 2026 20:20:00 +0600",
@@ -131,6 +131,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/bnp_presidential_candidate_mirza_fakhrul_islam_alamgir_final.png",
       "snippet": "BNP presidential candidate Mirza Fakhrul Islam Alamgir says he wants to continue serving people and working for the development of his home district if elected president."
+    },
+    {
+      "title": "Bangladesh, India business communities to form task forces to boost trade, investment",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-india-business-communities-form-task-forces-boost-trade-investment-1518681",
+      "pubDate": "Tue, 18 Aug 2026 20:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/fbcci.png",
+      "snippet": "FBCCI Administrator Fazlul Hoque said Bangladesh could draw lessons from India's experience in attracting private and foreign investment in infrastructure."
     },
     {
       "title": "Central Medical Stores Depot to get 14,000sqft pharma-grade warehouse",
@@ -606,17 +617,6 @@
       "snippet": "The move comes as foreign exchange conditions stabilise, with the central bank expecting improved supply and more affordable prices for consumers."
     },
     {
-      "title": "Midas Financing needs liquidity support to restore client confidence, says auditor",
-      "link": "https://www.tbsnews.net/economy/midas-financing-needs-liquidity-support-restore-client-confidence-says-auditor-1516846",
-      "pubDate": "Sun, 16 Aug 2026 21:40:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/midas_finance.jpg",
-      "snippet": "More than half of the NBFI’s loan portfolio is classified, while negative shareholders’ equity and a Tk350 crore capital shortfall deepen concerns over its financial health."
-    },
-    {
       "title": "BB approves LC opening for S Alam-owned SS Power through Rupali Bank",
       "link": "https://www.tbsnews.net/economy/banking/bb-approves-lc-opening-ss-power-through-rupali-bank-1516836",
       "pubDate": "Sun, 16 Aug 2026 21:35:00 +0600",
@@ -738,5 +738,5 @@
       "snippet": "For the first time, Dhaka South City Corporation (DSCC) has conducted a 'Pre-Monsoon Aedes Mosquito Larva Survey' under its own management."
     }
   ],
-  "updatedAt": "2026-08-18T17:26:33.792Z"
+  "updatedAt": "2026-08-18T17:55:18.361Z"
 }
