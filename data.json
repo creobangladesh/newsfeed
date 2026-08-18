@@ -1,6 +1,50 @@
 {
   "news": [
     {
+      "title": "Suits worth $98m exported to int'l markets from Universal Menswear yearly",
+      "link": "https://www.tbsnews.net/economy/suits-worth-98m-exported-intl-markets-adamjee-epz-yearly-1517996",
+      "pubDate": "Tue, 18 Aug 2026 11:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/p3_suit_story.jpg",
+      "snippet": "The factory can produce around 500,000 pieces of trousers, blazers and other men’s garments a month, or about five million pieces a year."
+    },
+    {
+      "title": "ACC appointment violates Constitution, judicial independence: Ridwanul Hoque",
+      "link": "https://www.tbsnews.net/bangladesh/politics/acc-appointment-violates-constitution-judicial-independence-ridwanul-hoque",
+      "pubDate": "Tue, 18 Aug 2026 10:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/17/ridwanul_hoque.jpg",
+      "snippet": "Hoque also criticised the appointment in the context of democracy, saying the government was \"clearly in the path opposite to democracy\""
+    },
+    {
+      "title": "Fire at Boalkhali paper mill, estimated damage Tk2cr",
+      "link": "https://www.tbsnews.net/bangladesh/fire-boalkhali-paper-mill-estimated-damage-tk2cr-1518051",
+      "pubDate": "Tue, 18 Aug 2026 10:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/hakkani_paper_and_board_mills_in_boalkhali.jpg",
+      "snippet": "The fire damaged valuable machinery, electrical cables and waste paper stored in a section of the warehouse."
+    },
+    {
+      "title": "BGB drives seize smuggled goods, drugs worth Tk1.77cr",
+      "link": "https://www.tbsnews.net/bangladesh/bgb-drives-seize-smuggled-goods-drugs-worth-tk177cr-1518031",
+      "pubDate": "Tue, 18 Aug 2026 10:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/09/bgb_logo.jpg",
+      "snippet": "The estimated value of the seized goods is Tk17.28 lakh."
+    },
+    {
       "title": "Macroeconomic stability returns, recovery yet to gain pace",
       "link": "https://www.tbsnews.net/economy/macroeconomic-stability-returns-recovery-yet-gain-pace-1517971",
       "pubDate": "Tue, 18 Aug 2026 10:30:00 +0600",
@@ -23,17 +67,6 @@
       "snippet": "During the meeting with the Foreign Secretary, Secretary General Sarwar discussed the importance of sustained engagement and dialogue among Member States for advancing the SAARC process."
     },
     {
-      "title": "3 sentenced to death for killing driver in Ctg",
-      "link": "https://www.tbsnews.net/bangladesh/court/3-sentenced-death-killing-driver-ctg-1518011",
-      "pubDate": "Tue, 18 Aug 2026 10:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/09/02/gavel-3577255_960_720.jpg",
-      "snippet": "The court also fined each of the convicts Tk50,000."
-    },
-    {
       "title": "38 banks seek Tk28,000cr in stimulus funds for struggling businesses",
       "link": "https://www.tbsnews.net/economy/banking/38-banks-seek-tk28000cr-stimulus-funds-struggling-businesses-1517961",
       "pubDate": "Tue, 18 Aug 2026 10:00:00 +0600",
@@ -43,6 +76,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/bb.png",
       "snippet": "Under the agreed terms, Bangladesh Bank will pay fund-providing banks a rate tied to its policy rate plus 50 basis points, up from the 9% originally proposed"
+    },
+    {
+      "title": "3 sentenced to death for killing driver in Ctg",
+      "link": "https://www.tbsnews.net/bangladesh/court/3-sentenced-death-killing-driver-ctg-1518011",
+      "pubDate": "Tue, 18 Aug 2026 10:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/09/02/gavel-3577255_960_720.jpg",
+      "snippet": "The court also fined each of the convicts Tk50,000."
     },
     {
       "title": "Capital machinery imports yet to recover",
@@ -180,45 +224,12 @@
       "title": "FBCCI seeks Chinese investment to narrow Bangladesh's trade gap",
       "link": "https://www.tbsnews.net/economy/fbcci-seeks-chinese-investment-narrow-bangladeshs-trade-gap-1517826",
       "pubDate": "Mon, 17 Aug 2026 21:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/06/fbcci_0.png",
       "snippet": "Bilateral trade is now close to $20 billion, but Bangladesh remains heavily in deficit as its annual exports to China are below $1 billion."
-    },
-    {
-      "title": "Jica, Bangladesh sign grant agreement for 33 officials to study in Japan",
-      "link": "https://www.tbsnews.net/foreign-policy/jica-bangladesh-sign-grant-agreement-33-officials-study-japan-1517831",
-      "pubDate": "Mon, 17 Aug 2026 21:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/jica_bangladesh_sign_grant_agreement_for_33_officials_to_study_in_japan.jpg",
-      "snippet": "A new scholarship partnership opens another pathway for Bangladesh’s public-sector talent to gain advanced expertise from Japanese universities."
-    },
-    {
-      "title": "Cabinet, public admin secretaries get one-year contract extensions",
-      "link": "https://www.tbsnews.net/bangladesh/cabinet-public-administration-secretaries-get-one-year-contract-extensions-1517841",
-      "pubDate": "Mon, 17 Aug 2026 21:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/d1a42701-8cfe-440e-83bb-1e2b0a79d317.jpg",
-      "snippet": "New terms take effect tomorrow under Public Service Act."
-    },
-    {
-      "title": "Govt approves law abolishing RAB, forming Special Response Battalion",
-      "link": "https://www.tbsnews.net/bangladesh/govt-approves-law-abolishing-rab-forming-special-response-battalion-1517816",
-      "pubDate": "Mon, 17 Aug 2026 21:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/12/15/reuters.png",
-      "snippet": "New police unit to inherit RAB’s personnel, powers and assets"
     },
     {
       "title": "NBR clarifies 1% duty on solar equipment imports",
@@ -705,5 +716,5 @@
       "snippet": "The Prime Minister was speaking after inaugurating the new 500-bed building of the National Institute of Neurosciences and Hospital in Agargaon."
     }
   ],
-  "updatedAt": "2026-08-18T04:34:58.755Z"
+  "updatedAt": "2026-08-18T05:29:02.651Z"
 }
