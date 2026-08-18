@@ -1,6 +1,61 @@
 {
   "news": [
     {
+      "title": "Macroeconomic stability returns, recovery yet to gain pace",
+      "link": "https://www.tbsnews.net/economy/macroeconomic-stability-returns-recovery-yet-gain-pace-1517971",
+      "pubDate": "Tue, 18 Aug 2026 10:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/09/economy.png",
+      "snippet": "BNP govt inherited an economy that had stopped deteriorating rapidly but remained deeply fragile, and six months later some external indicators have improved while the real economy continues to struggle"
+    },
+    {
+      "title": "Foreign Minister highlights SAARC's significance in promoting stability, shared development in South Asia",
+      "link": "https://www.tbsnews.net/bangladesh/foreign-minister-highlights-saarcs-significance-promoting-stability-shared-development",
+      "pubDate": "Tue, 18 Aug 2026 10:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/dr_khalilur_rahman_general_md._golam_sarwar.jpg",
+      "snippet": "During the meeting with the Foreign Secretary, Secretary General Sarwar discussed the importance of sustained engagement and dialogue among Member States for advancing the SAARC process."
+    },
+    {
+      "title": "3 sentenced to death for killing driver in Ctg",
+      "link": "https://www.tbsnews.net/bangladesh/court/3-sentenced-death-killing-driver-ctg-1518011",
+      "pubDate": "Tue, 18 Aug 2026 10:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/09/02/gavel-3577255_960_720.jpg",
+      "snippet": "The court also fined each of the convicts Tk50,000."
+    },
+    {
+      "title": "38 banks seek Tk28,000cr in stimulus funds for struggling businesses",
+      "link": "https://www.tbsnews.net/economy/banking/38-banks-seek-tk28000cr-stimulus-funds-struggling-businesses-1517961",
+      "pubDate": "Tue, 18 Aug 2026 10:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/bb.png",
+      "snippet": "Under the agreed terms, Bangladesh Bank will pay fund-providing banks a rate tied to its policy rate plus 50 basis points, up from the 9% originally proposed"
+    },
+    {
+      "title": "Capital machinery imports yet to recover",
+      "link": "https://www.tbsnews.net/economy/capital-machinery-imports-yet-recover-1517991",
+      "pubDate": "Tue, 18 Aug 2026 09:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/04/10/kepz_factory.jpg",
+      "snippet": "The government’s major challenges are to bring down inflation and attract private investment."
+    },
+    {
       "title": "Economic zones planned on land of 3 closed state-owned mills",
       "link": "https://www.tbsnews.net/economy/economic-zones-planned-land-3-closed-state-owned-mills-1517956",
       "pubDate": "Tue, 18 Aug 2026 07:20:00 +0600",
@@ -166,39 +221,6 @@
       "snippet": "New police unit to inherit RAB’s personnel, powers and assets"
     },
     {
-      "title": "Dhaka South City Corporation to rehabilitate hawkers as per policy, ban roadside vending: Administrator",
-      "link": "https://www.tbsnews.net/bangladesh/dhaka-south-city-corporation-rehabilitate-hawkers-policy-ban-roadside-vending",
-      "pubDate": "Mon, 17 Aug 2026 21:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/dhaka_south_city_corporation_dscc_administrator_md_abdus_salam.jpg",
-      "snippet": "DSCC says registered hawkers will be allowed only at designated locations, while holiday and night markets will be introduced under the new hawker management policy."
-    },
-    {
-      "title": "'Thana arson' remark figure Mahdi among 3 detained in Habiganj",
-      "link": "https://www.tbsnews.net/bangladesh/thana-arson-remark-figure-mahdi-among-3-detained-habiganj-1517806",
-      "pubDate": "Mon, 17 Aug 2026 21:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/mahdi_habiganj.png",
-      "snippet": "Police detained Mahdi in front of the Court Mosque around 5:30pm as he prepared for the march against load-shedding."
-    },
-    {
-      "title": "Cenbank orders finance firms to withhold policy support, incentives from litigant borrowers ",
-      "link": "https://www.tbsnews.net/economy/banking/cenbank-orders-finance-firms-withhold-policy-support-incentives-litigant-borrowers",
-      "pubDate": "Mon, 17 Aug 2026 21:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/07/30/bangladesh_bank.jpg",
-      "snippet": "Sukuk allocation rates for investors get revised."
-    },
-    {
       "title": "NBR clarifies 1% duty on solar equipment imports",
       "link": "https://www.tbsnews.net/nbr/nbr-clarifies-1-duty-solar-equipment-imports-1517791",
       "pubDate": "Mon, 17 Aug 2026 21:00:00 +0600",
@@ -210,26 +232,26 @@
       "snippet": "Field-level misinterpretation led customs to impose 17% duty"
     },
     {
+      "title": "Cenbank orders finance firms to withhold policy support, incentives from litigant borrowers ",
+      "link": "https://www.tbsnews.net/economy/banking/cenbank-orders-finance-firms-withhold-policy-support-incentives-litigant-borrowers",
+      "pubDate": "Mon, 17 Aug 2026 21:00:00 +0600",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/07/30/bangladesh_bank.jpg",
+      "snippet": "Sukuk allocation rates for investors get revised."
+    },
+    {
       "title": "BB Governor meets NDB delegation",
       "link": "https://www.tbsnews.net/economy/banking/bb-governor-meets-ndb-delegation-1517781",
       "pubDate": "Mon, 17 Aug 2026 20:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/03/30/bangladesh_bank_front_unb.gif",
       "snippet": "During the meeting, the two sides discussed various issues of mutual interest between Bangladesh and the NDB, as well as ways to further strengthen cooperation between the two sides in the future."
-    },
-    {
-      "title": "Two marine firms assess toxic gas mitigation at Ferdous Steel yard",
-      "link": "https://www.tbsnews.net/bangladesh/two-marine-firms-assess-toxic-gas-mitigation-ferdous-steel-yard-1517796",
-      "pubDate": "Mon, 17 Aug 2026 20:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/ferdous_steel_ship_recycling_yard_in_sitakunda.jpg",
-      "snippet": "8-member expert committee to oversee operation"
     },
     {
       "title": "UAE-based Bangladeshis eye Tk1,000cr investment at home",
@@ -681,18 +703,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/8994423.jpg",
       "snippet": "The Prime Minister was speaking after inaugurating the new 500-bed building of the National Institute of Neurosciences and Hospital in Agargaon."
-    },
-    {
-      "title": "Switching to electricity only way out of gas crisis",
-      "link": "https://www.tbsnews.net/bangladesh/energy/switching-electricity-gas-only-way-out-current-crisis-1515231",
-      "pubDate": "Sat, 15 Aug 2026 10:00:00 +0600",
-      "category": "Analysis",
-      "color": "#5d4037",
-      "bg": "#efebe9",
-      "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/34c464be-dda3-4901-9a19-cde0bb1ed9dd.jpg",
-      "snippet": "LNG imports cost Bangladesh $3.8 billion in 2025, compared with $3 billion the previous year. These imports cover one-fourth of the country’s total gas supply."
     }
   ],
-  "updatedAt": "2026-08-18T03:43:55.788Z"
+  "updatedAt": "2026-08-18T04:34:58.755Z"
 }
