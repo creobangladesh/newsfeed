@@ -1,6 +1,83 @@
 {
   "news": [
     {
+      "title": "FM leaves Dhaka for Qatar",
+      "link": "https://www.tbsnews.net/bangladesh/fm-leaves-dhaka-qatar-1518256",
+      "pubDate": "Tue, 18 Aug 2026 14:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/image-415705-1787037991.jpg",
+      "snippet": "During the visit, the high-level Bangladesh delegation is expected to take part in official engagements in Qatar."
+    },
+    {
+      "title": "Bangladesh, India for fresh momentum in economic partnership: Muktadir",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-india-fresh-momentum-economic-partnership-commerce-minister-1518251",
+      "pubDate": "Tue, 18 Aug 2026 14:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/ministry_program_.jpg",
+      "snippet": "Trade normalisation, visa simplification, and joint ventures in infrastructure and high-tech industries proposed during a meeting with a delegation from the Confederation of Indian Industry."
+    },
+    {
+      "title": "Govt to regularly inspect public hospitals to improve healthcare quality, 69 officials assigned",
+      "link": "https://www.tbsnews.net/bangladesh/govt-regularly-inspect-public-hospitals-improve-healthcare-quality-69-officials-assigned",
+      "pubDate": "Tue, 18 Aug 2026 14:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/06/hospital_representational_freepik.jpg",
+      "snippet": "According to the order, the digital attendance of doctors and healthcare workers at hospitals must be regularly monitored, with attendance-related information and reports submitted accordingly."
+    },
+    {
+      "title": "PM calls for broader tax net, people-friendly revenue system",
+      "link": "https://www.tbsnews.net/bangladesh/pm-calls-broader-tax-net-people-friendly-revenue-system-1518236",
+      "pubDate": "Tue, 18 Aug 2026 14:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/3899977.jpg",
+      "snippet": "Tarique Rahman said the government wants to transform the National Board of Revenue (NBR) and the country’s overall revenue structure into a people-friendly system where taxpayers will not fear the institution but trust it."
+    },
+    {
+      "title": "Committee for 2028 curriculum to be formed by next week: Edu minister",
+      "link": "https://www.tbsnews.net/bangladesh/committee-2028-curriculum-be-formed-next-week-edu-minister-1518241",
+      "pubDate": "Tue, 18 Aug 2026 14:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/edu_minister.jpg",
+      "snippet": "Education Minister ANM Ehsanul Hoque Milon said the new curriculum will introduce ‘Learning with Happiness’, technical education and sports from Class One"
+    },
+    {
+      "title": "AI camera-based 'auto fine system' launched on Dhaka-Chattogram highway",
+      "link": "https://www.tbsnews.net/bangladesh/ai-camera-based-auto-fine-system-launched-dhaka-chattogram-highway-1518211",
+      "pubDate": "Tue, 18 Aug 2026 13:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/778927816_2948020322198298_4335303848429226696_n.jpg",
+      "snippet": "The cameras will automatically detect and record violations including speeding, dangerous overtaking, disobeying traffic signals and signs, driving on the wrong side of the road and illegal parking."
+    },
+    {
+      "title": "Directorate of Secondary and Higher Education launches social media monitoring committee for officials",
+      "link": "https://www.tbsnews.net/bangladesh/dshe-launches-social-media-monitoring-committee-officials-1518186",
+      "pubDate": "Tue, 18 Aug 2026 13:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/03/30/dshe-1591367133389.jpg",
+      "snippet": "The report must include the official’s name, designation, workplace, social media platform, account or profile link, publication date and time, screenshots and other relevant evidence."
+    },
+    {
       "title": "BRTC launches 'Pink Bus' service for women",
       "link": "https://www.tbsnews.net/bangladesh/brtc-launches-pink-bus-service-women-today-1518171",
       "pubDate": "Tue, 18 Aug 2026 13:15:00 +0600",
@@ -78,17 +155,6 @@
       "snippet": "A dry lease means the lessor provides the aircraft while the airline assumes responsibility for its operation, including pilots, cabin crew, maintenance and insurance."
     },
     {
-      "title": "Some success in trade deals, but key indicators unchanged",
-      "link": "https://www.tbsnews.net/economy/some-success-trade-deals-key-indicators-unchanged-1518016",
-      "pubDate": "Tue, 18 Aug 2026 12:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/zahid_hussain.jpg",
-      "snippet": "The government has presented a large budget with commitments to structural reforms, but implementation remains limited."
-    },
-    {
       "title": "PM joins Revenue Conference 2026 at BCFCC",
       "link": "https://www.tbsnews.net/bangladesh/pm-joins-revenue-conference-2026-bcfcc-1518086",
       "pubDate": "Tue, 18 Aug 2026 12:00:00 +0600",
@@ -98,6 +164,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/bangladesh-china_friendship_conference_centre.jpg",
       "snippet": "Officials shared their experiences and the challenges they face in revenue collection."
+    },
+    {
+      "title": "Some success in trade deals, but key indicators unchanged",
+      "link": "https://www.tbsnews.net/economy/some-success-trade-deals-key-indicators-unchanged-1518016",
+      "pubDate": "Tue, 18 Aug 2026 12:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/zahid_hussain.jpg",
+      "snippet": "The government has presented a large budget with commitments to structural reforms, but implementation remains limited."
     },
     {
       "title": "Met office predicts rain in parts of country  ",
@@ -144,17 +221,6 @@
       "snippet": "The factory can produce around 500,000 pieces of trousers, blazers and other men’s garments a month, or about five million pieces a year."
     },
     {
-      "title": "Appointing ex-SC judge as ACC chief violates Constitution, breaches judicial independence: Ridwanul Hoque",
-      "link": "https://www.tbsnews.net/bangladesh/politics/acc-appointment-violates-constitution-judicial-independence-ridwanul-hoque",
-      "pubDate": "Tue, 18 Aug 2026 10:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/17/ridwanul_hoque.jpg",
-      "snippet": "Hoque also criticised the appointment in the context of democracy, saying the government was \"clearly in the path opposite to democracy\""
-    },
-    {
       "title": "Fire at Boalkhali paper mill, estimated damage Tk2cr",
       "link": "https://www.tbsnews.net/bangladesh/fire-boalkhali-paper-mill-estimated-damage-tk2cr-1518051",
       "pubDate": "Tue, 18 Aug 2026 10:50:00 +0600",
@@ -166,68 +232,35 @@
       "snippet": "The fire damaged valuable machinery, electrical cables and waste paper stored in a section of the warehouse."
     },
     {
-      "title": "BGB drives seize smuggled goods, drugs worth Tk1.77cr",
-      "link": "https://www.tbsnews.net/bangladesh/bgb-drives-seize-smuggled-goods-drugs-worth-tk177cr-1518031",
-      "pubDate": "Tue, 18 Aug 2026 10:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/09/bgb_logo.jpg",
-      "snippet": "The estimated value of the seized goods is Tk17.28 lakh."
-    },
-    {
       "title": "Macroeconomic stability returns, recovery yet to gain pace",
       "link": "https://www.tbsnews.net/economy/macroeconomic-stability-returns-recovery-yet-gain-pace-1517971",
       "pubDate": "Tue, 18 Aug 2026 10:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/collage_zahid_fahmida_azam_razzaque_0.jpg",
       "snippet": "BNP govt inherited an economy that had stopped deteriorating rapidly but remained deeply fragile, and six months later some external indicators have improved while the real economy continues to struggle."
-    },
-    {
-      "title": "Foreign Minister highlights SAARC's significance in promoting stability, shared development in South Asia",
-      "link": "https://www.tbsnews.net/bangladesh/foreign-minister-highlights-saarcs-significance-promoting-stability-shared-development",
-      "pubDate": "Tue, 18 Aug 2026 10:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/dr_khalilur_rahman_general_md._golam_sarwar.jpg",
-      "snippet": "During the meeting with the Foreign Secretary, Secretary General Sarwar discussed the importance of sustained engagement and dialogue among Member States for advancing the SAARC process."
     },
     {
       "title": "38 banks seek Tk28,000cr in stimulus funds for struggling businesses",
       "link": "https://www.tbsnews.net/economy/banking/38-banks-seek-tk28000cr-stimulus-funds-struggling-businesses-1517961",
       "pubDate": "Tue, 18 Aug 2026 10:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/bb.png",
       "snippet": "Under the agreed terms, Bangladesh Bank will pay fund-providing banks a rate tied to its policy rate plus 50 basis points, up from the 9% originally proposed"
-    },
-    {
-      "title": "3 sentenced to death for killing driver in Ctg",
-      "link": "https://www.tbsnews.net/bangladesh/court/3-sentenced-death-killing-driver-ctg-1518011",
-      "pubDate": "Tue, 18 Aug 2026 10:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/09/02/gavel-3577255_960_720.jpg",
-      "snippet": "The court also fined each of the convicts Tk50,000."
     },
     {
       "title": "Capital machinery imports yet to recover",
       "link": "https://www.tbsnews.net/economy/capital-machinery-imports-yet-recover-1517991",
       "pubDate": "Tue, 18 Aug 2026 09:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/04/10/kepz_factory.jpg",
       "snippet": "The government’s major challenges are to bring down inflation and attract private investment."
     },
@@ -716,5 +749,5 @@
       "snippet": "The total number of suspected measles deaths has reached 803, while confirmed deaths from measles have remained at 99."
     }
   ],
-  "updatedAt": "2026-08-18T07:37:16.641Z"
+  "updatedAt": "2026-08-18T08:35:53.252Z"
 }
