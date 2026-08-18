@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "Two women killed after being hit by Suborno Express train in Cumilla",
+      "link": "https://www.tbsnews.net/bangladesh/districts/two-women-killed-after-being-hit-subarna-express-train-cumilla-1518826",
+      "pubDate": "Wed, 19 Aug 2026 00:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/dead_body_in_cumilla_rail_station.jpg",
+      "snippet": "Police are yet to determine why the two women were walking along the railway tracks near Cumilla station."
+    },
+    {
+      "title": "14-year-old's body recovered after 3 days, 4 friends arrested in Ctg",
+      "link": "https://www.tbsnews.net/bangladesh/crime/14-year-olds-body-recovered-after-3-days-4-friends-arrested-ctg-1518811",
+      "pubDate": "Wed, 19 Aug 2026 00:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/dead_body.jpg",
+      "snippet": "Family says Tk60,000 was paid after a ransom demand; police are investigating whether the four classmates were directly involved."
+    },
+    {
+      "title": "BB directs banks to open accounts for foreign workers",
+      "link": "https://www.tbsnews.net/economy/banking/bb-directs-banks-open-accounts-foreign-workers-1518806",
+      "pubDate": "Tue, 18 Aug 2026 23:55:00 +0600",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/12/30/migrant_workers.jpg",
+      "snippet": "Foreign nationals working in Bangladesh under the ‘A3’ visa category, as well as other Employment Visa categories, can receive their salaries and allowances through bank accounts."
+    },
+    {
       "title": "Bangladesh's gross reserves hit $37.24 billion",
       "link": "https://www.tbsnews.net/economy/bangladeshs-gross-reserves-hit-3724-billion-1518801",
       "pubDate": "Tue, 18 Aug 2026 23:45:00 +0600",
@@ -122,17 +155,6 @@
       "snippet": "Akhtar said that at the start of voting in the presidential election, the Chief Election Commissioner (CEC) AMM Nasir Uddin will brief the voters about the voting procedure. \"After that, we will begin the voting there,” he added."
     },
     {
-      "title": "Mirza Fakhrul vows to serve people even after becoming President",
-      "link": "https://www.tbsnews.net/bangladesh/mirza-fakhrul-vows-serve-people-even-after-becoming-president-1518691",
-      "pubDate": "Tue, 18 Aug 2026 20:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/bnp_presidential_candidate_mirza_fakhrul_islam_alamgir_final.png",
-      "snippet": "BNP presidential candidate Mirza Fakhrul Islam Alamgir says he wants to continue serving people and working for the development of his home district if elected president."
-    },
-    {
       "title": "Bangladesh, India business communities to form task forces to boost trade, investment",
       "link": "https://www.tbsnews.net/bangladesh/bangladesh-india-business-communities-form-task-forces-boost-trade-investment-1518681",
       "pubDate": "Tue, 18 Aug 2026 20:20:00 +0600",
@@ -142,6 +164,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/fbcci.png",
       "snippet": "FBCCI Administrator Fazlul Hoque said Bangladesh could draw lessons from India's experience in attracting private and foreign investment in infrastructure."
+    },
+    {
+      "title": "Mirza Fakhrul vows to serve people even after becoming President",
+      "link": "https://www.tbsnews.net/bangladesh/mirza-fakhrul-vows-serve-people-even-after-becoming-president-1518691",
+      "pubDate": "Tue, 18 Aug 2026 20:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/bnp_presidential_candidate_mirza_fakhrul_islam_alamgir_final.png",
+      "snippet": "BNP presidential candidate Mirza Fakhrul Islam Alamgir says he wants to continue serving people and working for the development of his home district if elected president."
     },
     {
       "title": "Central Medical Stores Depot to get 14,000sqft pharma-grade warehouse",
@@ -219,28 +252,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/774794686_1062417392852408_8866462575925257916_n.jpg",
       "snippet": "The telecom operator said the latest contribution takes its total deposits into the fund to Tk354.49 crore since its inception."
-    },
-    {
-      "title": "Inspired by bus-driver husband, Mumtaz takes the wheel of Ctg's new women-only bus service",
-      "link": "https://www.tbsnews.net/bangladesh/inspired-bus-driver-husband-mumtaz-takes-wheel-ctgs-new-women-only-bus-service-1518591",
-      "pubDate": "Tue, 18 Aug 2026 18:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/mumtaz_driver_ctg.jpg",
-      "snippet": "The new service, launched with two buses, aims to provide safer public transport for women."
-    },
-    {
-      "title": "Bangladesh, Bhutan eye expanded product coverage under PTA; explore FTA possibility",
-      "link": "https://www.tbsnews.net/foreign-policy/bangladesh-bhutan-eye-expanded-product-coverage-under-pta-explore-fta-possibility",
-      "pubDate": "Tue, 18 Aug 2026 18:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/06/11/image-82593-1663169019_1.jpg",
-      "snippet": "The two sides also exchange views on cooperation at regional and multilateral level on matters of mutual interest."
     },
     {
       "title": "3-minute workout may outperform 90 minutes of exercise, scientists say",
@@ -738,5 +749,5 @@
       "snippet": "For the first time, Dhaka South City Corporation (DSCC) has conducted a 'Pre-Monsoon Aedes Mosquito Larva Survey' under its own management."
     }
   ],
-  "updatedAt": "2026-08-18T17:55:18.361Z"
+  "updatedAt": "2026-08-18T18:37:52.826Z"
 }
