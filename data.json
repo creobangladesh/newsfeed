@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "Governance crisis behind project delays",
+      "link": "https://www.tbsnews.net/economy/governance-crisis-behind-project-delays-1518911",
+      "pubDate": "Wed, 19 Aug 2026 10:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/zahid_hussain.jpg",
+      "snippet": "In effect, the diagnosis is partial: the symptoms are listed, but the underlying institutional incentives and political economy drivers remain unexamined"
+    },
+    {
+      "title": "DCs of Natore, Gaibandha and Rangpur, Rajshahi divisional commissioner withdrawn",
+      "link": "https://www.tbsnews.net/bangladesh/dcs-natore-gaibandha-and-rangpur-rajshahi-divisional-commissioner-withdrawn-1518916",
+      "pubDate": "Wed, 19 Aug 2026 10:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/25/ministry_of_public_administration.jpg",
+      "snippet": "The Ministry of Public Administration issued separate notifications last night (18 August)."
+    },
+    {
+      "title": "$8b of World Bank finance stuck in long project procedures, design flaws",
+      "link": "https://www.tbsnews.net/economy/8b-world-bank-finance-stuck-long-project-procedures-design-flaws-1518896",
+      "pubDate": "Wed, 19 Aug 2026 10:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/world-bank.png",
+      "snippet": "According to the assessment, 15 of the 37 ongoing World Bank-financed projects are facing serious implementation challenges."
+    },
+    {
       "title": "9 Bangladeshis killed in Kolkata hotel fire ",
       "link": "https://www.tbsnews.net/world/south-asia/9-bangladeshis-killed-kolkata-hotel-fire-1518891",
       "pubDate": "Wed, 19 Aug 2026 09:20:00 +0600",
@@ -219,39 +252,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/bpc_building_crack.jpg",
       "snippet": "Crack-like problems had appeared earlier at several points of the building and were repaired with putty."
-    },
-    {
-      "title": "Two candidates will contest presidential election on 20 August: EC secretary",
-      "link": "https://www.tbsnews.net/bangladesh/two-candidates-will-contest-presidential-election-20-august-ec-secretary-1518686",
-      "pubDate": "Tue, 18 Aug 2026 20:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/ec.png",
-      "snippet": "Akhtar said that at the start of voting in the presidential election, the Chief Election Commissioner (CEC) AMM Nasir Uddin will brief the voters about the voting procedure. \"After that, we will begin the voting there,” he added."
-    },
-    {
-      "title": "Bangladesh, India business communities to form task forces to boost trade, investment",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-india-business-communities-form-task-forces-boost-trade-investment-1518681",
-      "pubDate": "Tue, 18 Aug 2026 20:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/fbcci.png",
-      "snippet": "FBCCI Administrator Fazlul Hoque said Bangladesh could draw lessons from India's experience in attracting private and foreign investment in infrastructure."
-    },
-    {
-      "title": "Mirza Fakhrul vows to serve people even after becoming President",
-      "link": "https://www.tbsnews.net/bangladesh/mirza-fakhrul-vows-serve-people-even-after-becoming-president-1518691",
-      "pubDate": "Tue, 18 Aug 2026 20:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/bnp_presidential_candidate_mirza_fakhrul_islam_alamgir_final.png",
-      "snippet": "BNP presidential candidate Mirza Fakhrul Islam Alamgir says he wants to continue serving people and working for the development of his home district if elected president."
     },
     {
       "title": "Central Medical Stores Depot to get 14,000sqft pharma-grade warehouse",
@@ -595,17 +595,6 @@
       "snippet": "One such case is a 23-year-old dispute between Uttara Bank and Sonali Bank that began in 2002 over 57 post-dated cheques issued by Chattogram Tobacco Company."
     },
     {
-      "title": "PM to meet NBR officials to discuss strategy for huge revenue target",
-      "link": "https://www.tbsnews.net/nbr/pm-meet-nbr-officials-discuss-strategy-huge-revenue-target-1516926",
-      "pubDate": "Mon, 17 Aug 2026 07:15:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/pm_tarique_dab_speech_0.png",
-      "snippet": "NBR sources also said the prime minister is likely to ask about the NBR’s strategy for achieving the Tk6.04 lakh crore revenue collection target for the fiscal 2026-27, which is more than 45% higher than that of the previous fiscal year"
-    },
-    {
       "title": "Excess liquidity in banks pushes treasury bill yields below 9%",
       "link": "https://www.tbsnews.net/economy/banking/excess-liquidity-banks-pushes-treasury-bill-yields-below-9-1516916",
       "pubDate": "Mon, 17 Aug 2026 00:40:00 +0600",
@@ -615,17 +604,6 @@
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/02/bank_representational_image_1.jpg",
       "snippet": "The yield on 91-day treasury bills fell below 9% to 8.93% yesterday, down from 9.19% a week earlier."
-    },
-    {
-      "title": "Businesses seek simpler trade licence process, lower fees",
-      "link": "https://www.tbsnews.net/economy/businesses-seek-simpler-trade-licence-process-lower-fees-1516906",
-      "pubDate": "Mon, 17 Aug 2026 00:10:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/10/28/small-businesses.jpg",
-      "snippet": "They also urges the authorities to regulate different types of vehicles, including battery-run autorickshaws, and enforce traffic laws effectively to ease traffic congestion in the capital."
     },
     {
       "title": "Uttara Finance chairman, MD among four directors resign",
@@ -760,5 +738,5 @@
       "snippet": "For the first time, Dhaka South City Corporation (DSCC) has conducted a 'Pre-Monsoon Aedes Mosquito Larva Survey' under its own management."
     }
   ],
-  "updatedAt": "2026-08-19T03:45:46.340Z"
+  "updatedAt": "2026-08-19T04:35:52.319Z"
 }
