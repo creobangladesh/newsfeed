@@ -1,6 +1,83 @@
 {
   "news": [
     {
+      "title": "High Court clears legal hurdle for presidential election",
+      "link": "https://www.tbsnews.net/bangladesh/court/high-court-clears-legal-hurdle-presidential-election-1519336",
+      "pubDate": "Wed, 19 Aug 2026 16:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/19/high_courtt.png",
+      "snippet": "The 349-member electoral college is set to vote tomorrow, with BNP’s Mirza Fakhrul Islam Alamgir and the 11-party alliance’s Oli Ahmed in the race. TBS Report"
+    },
+    {
+      "title": "No witnesses appear on first day of trial against Salam Murshedy, 12 others over Gulshan land",
+      "link": "https://www.tbsnews.net/bangladesh/no-witnesses-appear-first-day-trial-against-salam-murshedy-12-others-over-gulshan-land",
+      "pubDate": "Wed, 19 Aug 2026 16:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/received_2535483496970331_0.jpeg",
+      "snippet": "The Anti-Corruption Commission (ACC) sought more time to produce witnesses, and the court, allowing the time petition, fixed 21 September for the next hearing."
+    },
+    {
+      "title": "15 placed on 3-day remand in anti-terrorism case",
+      "link": "https://www.tbsnews.net/bangladesh/court/15-placed-3-day-remand-anti-terrorism-case-1519321",
+      "pubDate": "Wed, 19 Aug 2026 16:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/02/01/court._photo_reuters.jpg",
+      "snippet": "Dhaka Metropolitan Magistrate Kamal Uddin passed the order."
+    },
+    {
+      "title": "Bangladesh 24th largest agricultural economy in the world",
+      "link": "https://www.tbsnews.net/infograph/numbers/bangladesh-24th-largest-agricultural-economy-world-1519291",
+      "pubDate": "Wed, 19 Aug 2026 15:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/farmer.png",
+      "snippet": ""
+    },
+    {
+      "title": "Ctg garment workers block road over alleged factory sale, demand 4 months' dues",
+      "link": "https://www.tbsnews.net/bangladesh/ctg-garment-workers-block-road-over-alleged-factory-sale-demand-4-months-dues-1519301",
+      "pubDate": "Wed, 19 Aug 2026 15:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/1000290705.jpg",
+      "snippet": "Another worker said the decision to sell the factory had been taken without informing them."
+    },
+    {
+      "title": "Measles death toll reaches 922 as 4 more children die in 24 hours",
+      "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-922-4-more-children-die-24-hours-1519286",
+      "pubDate": "Wed, 19 Aug 2026 15:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/30/measles_outbreak.jpg",
+      "snippet": "Since 15 March, a total of 127,076 patients with suspected measles have been hospitalised across the country"
+    },
+    {
+      "title": "Identifying root causes of road crashes can help prevent accidents: CMP chief",
+      "link": "https://www.tbsnews.net/bangladesh/identifying-root-causes-road-crashes-can-help-prevent-accidents-cmp-chief-1519281",
+      "pubDate": "Wed, 19 Aug 2026 15:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/775333590_1038019762205911_3803742491073279177_n_1.jpg",
+      "snippet": "The workshop was organised on 17 and 18 August as part of the Bloomberg Philanthropies Initiative for Global Road Safety. Police officers were trained in two batches."
+    },
+    {
       "title": "Ctg Wasa owed Tk258cr, deploys 8 monitoring teams to recover dues",
       "link": "https://www.tbsnews.net/bangladesh/ctg-wasa-owed-tk258cr-deploys-8-monitoring-teams-recover-dues-1519251",
       "pubDate": "Wed, 19 Aug 2026 15:15:00 +0600",
@@ -188,81 +265,37 @@
       "snippet": "The new Chairman, retired Supreme Court judge Justice AKM Asaduzzaman, alongside newly appointed Commissioners Dr Jahangir Alam and Dr Sazzat Hossain Bhuiyan, formally assumed their duties at the ACC headquarters on 19 August"
     },
     {
-      "title": "Padma Barrage plan to be made operational by early next year: Anee",
-      "link": "https://www.tbsnews.net/bangladesh/padma-barrage-plan-be-made-operational-early-next-year-anee-1518971",
-      "pubDate": "Wed, 19 Aug 2026 11:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/image-415978-1787078773.jpg",
-      "snippet": "He also expressed hope that prime minister would present a strong statement in favour of Bangladesh on the Ganges Water Treaty at the United Nations next month."
-    },
-    {
       "title": "Cost-of-living pressures come from all fronts",
       "link": "https://www.tbsnews.net/economy/cost-living-pressures-come-all-fronts-1518921",
       "pubDate": "Wed, 19 Aug 2026 11:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/30/inflation.png",
       "snippet": "There is little relief, whether from locally produced or imported goods. And the pressure extends well beyond food, which already accounts for the largest share of spending by low-income households"
-    },
-    {
-      "title": "Govt to plant 2cr Keora trees on 4,400 coastal acres: Faridul",
-      "link": "https://www.tbsnews.net/bangladesh/govt-plant-2cr-keora-trees-4400-coastal-acres-faridul-1518966",
-      "pubDate": "Wed, 19 Aug 2026 11:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/image-415979-1787079029.jpg",
-      "snippet": "The government recently published the gazette of the Extended Producer Responsibility (EPR) policy, he said, adding that under the policy, manufacturers of plastic products would have to take responsibility for managing the plastic waste generated fr..."
     },
     {
       "title": "Governance crisis behind project delays",
       "link": "https://www.tbsnews.net/economy/governance-crisis-behind-project-delays-1518911",
       "pubDate": "Wed, 19 Aug 2026 10:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/zahid_hussain.jpg",
       "snippet": "In effect, the diagnosis is partial: the symptoms are listed, but the underlying institutional incentives and political economy drivers remain unexamined"
-    },
-    {
-      "title": "DCs of Natore, Gaibandha and Rangpur, Rajshahi divisional commissioner withdrawn",
-      "link": "https://www.tbsnews.net/bangladesh/dcs-natore-gaibandha-and-rangpur-rajshahi-divisional-commissioner-withdrawn-1518916",
-      "pubDate": "Wed, 19 Aug 2026 10:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/25/ministry_of_public_administration.jpg",
-      "snippet": "The Ministry of Public Administration issued separate notifications last night (18 August)."
     },
     {
       "title": "$8b of World Bank finance stuck in long project procedures, design flaws",
       "link": "https://www.tbsnews.net/economy/8b-world-bank-finance-stuck-long-project-procedures-design-flaws-1518896",
       "pubDate": "Wed, 19 Aug 2026 10:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/world-bank.png",
       "snippet": "According to the assessment, 15 of the 37 ongoing World Bank-financed projects are facing serious implementation challenges."
-    },
-    {
-      "title": "Bangladeshis among 9 killed in Kolkata hotel fire",
-      "link": "https://www.tbsnews.net/world/south-asia/bangladeshis-among-9-killed-hotel-fire-kolkata-1518891",
-      "pubDate": "Wed, 19 Aug 2026 09:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/screenshot_2026-08-19_092545.png",
-      "snippet": "Fire Department Minister Kaushik Chowdhury told reporters that the identities of those killed are yet to be established"
     },
     {
       "title": "Desco's Tk250cr caught in six troubled banks",
@@ -782,5 +815,5 @@
       "snippet": "Swapan calls on journalists to become the facility’s first users."
     }
   ],
-  "updatedAt": "2026-08-19T09:33:43.562Z"
+  "updatedAt": "2026-08-19T10:28:08.982Z"
 }
