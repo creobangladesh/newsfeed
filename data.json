@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "Bangladesh, Malaysia discuss tourism, flights and visa facilitation",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-malaysia-discuss-tourism-flights-and-visa-facilitation-1519066",
+      "pubDate": "Wed, 19 Aug 2026 12:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/773695960_1636461767811541_4246210523768173537_n.jpg",
+      "snippet": "The two sides discussed creating more diverse and attractive tourism experiences for visitors from both countries, while exploring new areas of cooperation in tourism."
+    },
+    {
+      "title": "BMD forecasts rain across country",
+      "link": "https://www.tbsnews.net/bangladesh/bmd-forecasts-rain-across-country-1519021",
+      "pubDate": "Wed, 19 Aug 2026 11:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/2917931.jpg",
+      "snippet": "The Met Office also predicted moderately heavy falls at places across the country."
+    },
+    {
+      "title": "Dhaka eyes equally beneficial economic partnership with New Delhi: Shama Obaed",
+      "link": "https://www.tbsnews.net/bangladesh/dhaka-eyes-equally-beneficial-economic-partnership-new-delhi-shama-obaed-1519031",
+      "pubDate": "Wed, 19 Aug 2026 11:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/shama_obaed.jpg",
+      "snippet": "During the visit, the delegation met senior members of the Government of Bangladesh."
+    },
+    {
       "title": "ACC operational again after 166-day void as new commission takes charge",
       "link": "https://www.tbsnews.net/bangladesh/acc-operational-again-after-166-day-void-new-commission-takes-charge-1518996",
       "pubDate": "Wed, 19 Aug 2026 11:45:00 +0600",
@@ -30,7 +63,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/06/prices.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/30/inflation.png",
       "snippet": "There is little relief, whether from locally produced or imported goods. And the pressure extends well beyond food, which already accounts for the largest share of spending by low-income households"
     },
     {
@@ -213,34 +246,12 @@
       "title": "NCC Bank moves to empower board to remove chairman by vote",
       "link": "https://www.tbsnews.net/economy/ncc-bank-moves-empower-board-remove-chairman-vote-1518776",
       "pubDate": "Tue, 18 Aug 2026 22:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/05/15/ncc_bank.jpg",
       "snippet": "The proposed changes would introduce a seniority-based rotation for the chairmanship and allow the board to remove a sitting chairman with a two-thirds majority vote, subject to Bangladesh Bank approval."
-    },
-    {
-      "title": "TIB questions legality of retired judge's appointment as ACC chairman",
-      "link": "https://www.tbsnews.net/bangladesh/tib-questions-legality-retired-judges-appointment-acc-chairman-1518766",
-      "pubDate": "Tue, 18 Aug 2026 21:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/26/iftekharuzzaman.jpg",
-      "snippet": "Iftekharuzzaman says the appointment of Justice AKM Asaduzzaman creates constitutional and conflict-of-interest concerns."
-    },
-    {
-      "title": "Sena Insurance shares soar 161% despite no undisclosed PSI",
-      "link": "https://www.tbsnews.net/economy/stocks/sena-insurance-shares-soar-161-despite-no-undisclosed-psi-1518746",
-      "pubDate": "Tue, 18 Aug 2026 21:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/02/06/sena_insurance_plc.png",
-      "snippet": "Sena Insurance shares jumped nearly 161% in four and a half months despite the company telling the DSE it has no undisclosed price-sensitive information behind the surge."
     },
     {
       "title": "DSEX erases 100-point gain as margin gazette triggers ‘sell-on-news’ reaction",
@@ -727,5 +738,5 @@
       "snippet": "For the first time, Dhaka South City Corporation (DSCC) has conducted a 'Pre-Monsoon Aedes Mosquito Larva Survey' under its own management."
     }
   ],
-  "updatedAt": "2026-08-19T05:59:17.308Z"
+  "updatedAt": "2026-08-19T06:58:12.958Z"
 }
