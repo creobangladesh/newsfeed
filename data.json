@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "BGB brings back 24 fishermen detained by Arakan Army",
+      "link": "https://www.tbsnews.net/bangladesh/bgb-brings-back-24-fishermen-detained-arakan-army-1519421",
+      "pubDate": "Wed, 19 Aug 2026 17:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/bgb.jpg",
+      "snippet": "According to the BGB, the fishermen were detained by the Arakan Army at different times in 2025 and 2026."
+    },
+    {
+      "title": "Dipu Moni granted 12-hour parole following husband's death",
+      "link": "https://www.tbsnews.net/bangladesh/dipu-moni-granted-12-hour-parole-following-husbands-death-1519416",
+      "pubDate": "Wed, 19 Aug 2026 17:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/dipu_moni_husband.jpg",
+      "snippet": "Tawfique Nawaz's Namaz-e-Janaza will subsequently be held at Gulshan Azad Mosque, followed by burial at Banani Graveyard"
+    },
+    {
       "title": "Bridge ready without roads: Shariatpur locals forced to use bamboo footbridge for 2yrs",
       "link": "https://www.tbsnews.net/bangladesh/bridge-ready-without-roads-shariatpur-locals-forced-use-bamboo-footbridge-2yrs-1519381",
       "pubDate": "Wed, 19 Aug 2026 16:45:00 +0600",
@@ -15,23 +37,12 @@
       "title": "Ecnec clears 10 projects involving Tk9,333cr",
       "link": "https://www.tbsnews.net/economy/ecnec-clears-10-projects-involving-tk9333cr-1519396",
       "pubDate": "Wed, 19 Aug 2026 16:40:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/ecnec_meeting_19_august_2026.jpg",
-      "snippet": "These include six new and four revised projects."
-    },
-    {
-      "title": "ECNEC holds tanker purchase, Turag protection projects over duplication concerns",
-      "link": "https://www.tbsnews.net/economy/ecnec-holds-tanker-purchase-turag-protection-projects-over-duplication-concerns-1519386",
-      "pubDate": "Wed, 19 Aug 2026 16:35:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/c9fcbf04-bcf5-45a9-908c-b26d573d7fa4.jpg",
-      "snippet": "The project has an estimated cost of Tk567.04 crore, including a World Bank loan of Tk424.73 crore and government funding of Tk142.31 crore."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/ecnec_meeting_19_august_2026.jpg",
+      "snippet": "These include six new and four revised projects."
     },
     {
       "title": "Measles outbreak may take 2-3 months to control fully: State minister",
@@ -41,8 +52,19 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/774405570_1842373383868060_6924028093982076421_n.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/25/measles_tbs.jpg",
       "snippet": "The study found that a new variant of the virus did not cause the 2026 measles outbreak, but by the spread of the highly contagious B3 genotype, which is already circulating globally, along with gaps in vaccination and maternal antibodies."
+    },
+    {
+      "title": "Ecnec holds tanker purchase, Turag protection projects over duplication concerns",
+      "link": "https://www.tbsnews.net/economy/ecnec-holds-tanker-purchase-turag-protection-projects-over-duplication-concerns-1519386",
+      "pubDate": "Wed, 19 Aug 2026 16:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/c9fcbf04-bcf5-45a9-908c-b26d573d7fa4.jpg",
+      "snippet": "The project has an estimated cost of Tk567.04 crore, including a World Bank loan of Tk424.73 crore and government funding of Tk142.31 crore."
     },
     {
       "title": "Baira demands opening Malaysian labour market to all valid agencies",
@@ -89,7 +111,7 @@
       "snippet": "The Anti-Corruption Commission (ACC) sought more time to produce witnesses, and the court, allowing the time petition, fixed 21 September for the next hearing."
     },
     {
-      "title": "15 placed on 3-day remand in anti-terrorism case",
+      "title": "15 remanded for 3 days in case over plot to carry out sabotage on 15 Aug",
       "link": "https://www.tbsnews.net/bangladesh/court/15-placed-3-day-remand-anti-terrorism-case-1519321",
       "pubDate": "Wed, 19 Aug 2026 16:05:00 +0600",
       "category": "Bangladesh",
@@ -107,7 +129,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/ashes_bangladesh_2.png",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/noble_ashes_final.png",
       "snippet": "The decision comes a day after the Kishoreganj Sadar unit of Imam-Ulama Parishad submitted a memorandum to the deputy commissioner demanding the cancellation of the concert."
     },
     {
@@ -199,17 +221,6 @@
       "snippet": "Highlighting the global demand of halal products, he called upon entrepreneurs, investors, traders and other institutions concerned to work to this end in a coordinated manner."
     },
     {
-      "title": "Fatal gas leak: Ferdous Steel fined Tk5 lakh for illegal vessel cutting without renewed clearance",
-      "link": "https://www.tbsnews.net/bangladesh/fatal-gas-leak-ferdous-steel-fined-tk5-lakh-illegal-vessel-cutting-without-renewed",
-      "pubDate": "Wed, 19 Aug 2026 14:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/ferdous_ship_yard.jpg",
-      "snippet": "Police have since filed an unnatural death (UD) case over the incident."
-    },
-    {
       "title": "Can coastal Bangladesh turn salty wastewater into a new industry?",
       "link": "https://www.tbsnews.net/thoughts/can-coastal-bangladesh-turn-salty-wastewater-new-industry-1519201",
       "pubDate": "Wed, 19 Aug 2026 14:20:00 +0600",
@@ -230,28 +241,6 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/old_dhaka_0.png",
       "snippet": "Dhaka’s obsession with walls, gates and guards may be overlooking a more fundamental ingredient of safety: neighbourhoods where people know one another, recognise what is out of place and feel they have a stake in what happens around them"
-    },
-    {
-      "title": "Lawyer appeals HC dismissal of writ challenging Article 70, presidential election schedule",
-      "link": "https://www.tbsnews.net/bangladesh/lawyer-appeals-hc-dismissal-writ-challenging-article-70-presidential-election-schedule",
-      "pubDate": "Wed, 19 Aug 2026 13:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/19/supreme_court_0.png",
-      "snippet": "Akand filed the writ petition on Thursday (13 August) and represented himself during the hearing."
-    },
-    {
-      "title": "Writ seeks cancellation of Hannan Masud's MP seat over affidavit info concealment",
-      "link": "https://www.tbsnews.net/bangladesh/court/writ-seeks-cancellation-hannan-masuds-mp-seat-over-affidavit-info-concealment",
-      "pubDate": "Wed, 19 Aug 2026 13:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/11/19/abdul_hannan_masud.jpg",
-      "snippet": "The writ petition is included in the cause list of the High Court bench comprising Justice Razik-Al-Jalil and Justice Debasish Roy Chowdhury."
     },
     {
       "title": "60 modern life-support ambulances to be introduced on highways soon: RHD",
@@ -793,5 +782,5 @@
       "snippet": "RU Vice-Chancellor Professor Md. Faridul Islam presided over the meeting."
     }
   ],
-  "updatedAt": "2026-08-19T10:56:33.883Z"
+  "updatedAt": "2026-08-19T11:27:42.854Z"
 }
