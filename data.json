@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "ACC operational again after 166-day void as new commission takes charge",
+      "link": "https://www.tbsnews.net/bangladesh/acc-operational-again-after-166-day-void-new-commission-takes-charge-1518996",
+      "pubDate": "Wed, 19 Aug 2026 11:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/08/17/acc-tbs.jpg",
+      "snippet": "The new Chairman, retired Supreme Court judge Justice AKM Asaduzzaman, alongside newly appointed Commissioners Dr Jahangir Alam and Dr Sazzat Hossain Bhuiyan, formally assumed their duties at the ACC headquarters on 19 August"
+    },
+    {
+      "title": "Padma Barrage plan to be made operational by early next year: Anee",
+      "link": "https://www.tbsnews.net/bangladesh/padma-barrage-plan-be-made-operational-early-next-year-anee-1518971",
+      "pubDate": "Wed, 19 Aug 2026 11:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/image-415978-1787078773.jpg",
+      "snippet": "He also expressed hope that prime minister would present a strong statement in favour of Bangladesh on the Ganges Water Treaty at the United Nations next month."
+    },
+    {
       "title": "Cost-of-living pressures come from all fronts",
       "link": "https://www.tbsnews.net/economy/cost-living-pressures-come-all-fronts-1518921",
       "pubDate": "Wed, 19 Aug 2026 11:15:00 +0600",
@@ -232,28 +254,6 @@
       "snippet": "Profit-taking wipes out early gains as turnover nears Tk1,000 crore."
     },
     {
-      "title": "Hydrogen sulphide found in 3 more ballast tanks after 9 workers' death at Sitakunda shipbreaking yard",
-      "link": "https://www.tbsnews.net/bangladesh/hydrogen-sulphide-found-3-more-ballast-tanks-after-9-workers-death-sitakunda-shipbreaking",
-      "pubDate": "Tue, 18 Aug 2026 21:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/ferdous_ship_yard.jpg",
-      "snippet": "Four separate committees have been formed to investigate the 14 August toxic gas incident that killed nine workers at the shipbreaking yard."
-    },
-    {
-      "title": "'Hatkata Kashem' sent to jail in case over 2015 attack on Khaleda Zia's motorcade",
-      "link": "https://www.tbsnews.net/bangladesh/court/hatkata-kashem-sent-jail-case-over-2015-attack-khaleda-zias-motorcade-1518731",
-      "pubDate": "Tue, 18 Aug 2026 21:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/12/chief_magistrate_court_cmm_court.jpg",
-      "snippet": "Tejgaon Sramik League president was arrested from Karwan Bazar a day earlier in the case over the alleged 2015 attack on the BNP leader’s motorcade."
-    },
-    {
       "title": "Central Medical Stores Depot to get 14,000sqft pharma-grade warehouse",
       "link": "https://www.tbsnews.net/bangladesh/health/central-medical-stores-depot-get-14000sqft-pharma-grade-warehouse-1518671",
       "pubDate": "Tue, 18 Aug 2026 20:10:00 +0600",
@@ -483,17 +483,6 @@
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/07/30/bangladesh_bank.jpg",
       "snippet": "Sukuk allocation rates for investors get revised."
-    },
-    {
-      "title": "BB Governor meets NDB delegation",
-      "link": "https://www.tbsnews.net/economy/banking/bb-governor-meets-ndb-delegation-1517781",
-      "pubDate": "Mon, 17 Aug 2026 20:55:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/03/30/bangladesh_bank_front_unb.gif",
-      "snippet": "During the meeting, the two sides discussed various issues of mutual interest between Bangladesh and the NDB, as well as ways to further strengthen cooperation between the two sides in the future."
     },
     {
       "title": "UAE-based Bangladeshis eye Tk1,000cr investment at home",
@@ -738,5 +727,5 @@
       "snippet": "For the first time, Dhaka South City Corporation (DSCC) has conducted a 'Pre-Monsoon Aedes Mosquito Larva Survey' under its own management."
     }
   ],
-  "updatedAt": "2026-08-19T05:29:49.650Z"
+  "updatedAt": "2026-08-19T05:59:17.308Z"
 }
