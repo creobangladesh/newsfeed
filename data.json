@@ -1,6 +1,50 @@
 {
   "news": [
     {
+      "title": "Tk1,154cr project to add five new buildings at Dhaka Medical College",
+      "link": "https://www.tbsnews.net/bangladesh/health/tk1154cr-project-add-five-new-buildings-dhaka-medical-college-1519906",
+      "pubDate": "Thu, 20 Aug 2026 00:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/09/17/dmch.jpg",
+      "snippet": "The project includes a 15-storey academic building, an 800-seat student hostel, residential quarters and other facilities."
+    },
+    {
+      "title": "Presidential election today, oath tomorrow",
+      "link": "https://www.tbsnews.net/bangladesh/presidential-election-today-oath-tomorrow-1519901",
+      "pubDate": "Thu, 20 Aug 2026 00:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/8706766.jpg",
+      "snippet": "Voting will take place for the first time in 35 years, with 349 MPs to elect the country’s 23rd president from BNP’s Mirza Fakhrul Islam Alamgir and Col (retd) Oli Ahmad."
+    },
+    {
+      "title": "Rear Admiral Moinul Hassan made Coast Guard DG",
+      "link": "https://www.tbsnews.net/bangladesh/rear-admiral-moinul-hassan-made-coast-guard-dg-1519891",
+      "pubDate": "Thu, 20 Aug 2026 00:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/coast_guard_dg.jpg",
+      "snippet": "Rear Admiral Moinul Hassan will replace Rear Admiral Ziaul Hoque, who has been transferred to the Armed Forces Division."
+    },
+    {
+      "title": "Automation, digitalisation take centre stage as Textech exhibition returns for 25th edition",
+      "link": "https://www.tbsnews.net/bangladesh/automation-digitalisation-take-centre-stage-textech-exhibition-returns-25th-edition",
+      "pubDate": "Wed, 19 Aug 2026 23:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/cems-globa.jpg",
+      "snippet": "The announcement was made at a press conference at Pan Pacific Sonargaon Dhaka today (19 August)."
+    },
+    {
       "title": "'We came from the jaws of death': Bangladeshis recount horror of Kolkata hotel fire",
       "link": "https://www.tbsnews.net/bangladesh/we-came-jaws-death-bangladeshis-recount-horror-kolkata-hotel-fire-1519881",
       "pubDate": "Wed, 19 Aug 2026 22:05:00 +0600",
@@ -10,17 +54,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/kolkata_fire_hotel_19_aug.jpg",
       "snippet": "Smoke-filled corridors and poor visibility forced guests to find their own way out as the blaze spread through the building."
-    },
-    {
-      "title": "DSE names 138 marginable stocks as new lending rules take effect",
-      "link": "https://www.tbsnews.net/economy/stocks/dse-names-138-marginable-stocks-new-lending-rules-take-effect-1519841",
-      "pubDate": "Wed, 19 Aug 2026 21:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/07/dse.jpg",
-      "snippet": "Under revised rules, A- and B-category companies are eligible for margin loans if their P/E ratios remain within 40."
     },
     {
       "title": "Gas allocation keeps public-private KAFCO running as state-owned CUFL stays shut",
@@ -56,15 +89,15 @@
       "snippet": "Speakers say the proposed laws could undermine accountability if law enforcement agencies are allowed to investigate allegations against themselves"
     },
     {
-      "title": "DSE loses Tk7,300cr in six consecutive sessions as turnover hits 3-month low",
-      "link": "https://www.tbsnews.net/economy/stocks/dse-loses-tk7300cr-six-consecutive-sessions-turnover-hits-3-month-low-1519836",
-      "pubDate": "Wed, 19 Aug 2026 21:40:00 +0600",
+      "title": "DSE names 138 marginable stocks as new lending rules take effect",
+      "link": "https://www.tbsnews.net/economy/stocks/dse-names-138-marginable-stocks-new-lending-rules-take-effect-1519841",
+      "pubDate": "Wed, 19 Aug 2026 21:45:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/11/05/dsex.png",
-      "snippet": "The DSEX fell for a sixth straight session as weak investor participation and concerns over energy supply kept selling pressure high, with turnover dropping to Tk732 crore."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/07/dse.jpg",
+      "snippet": "Under revised rules, A- and B-category companies are eligible for margin loans if their P/E ratios remain within 40."
     },
     {
       "title": "Dignified repatriation of Rohingyas remains only durable solution: Shama Obaed",
@@ -76,6 +109,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/shama-_abmbrassador.png",
       "snippet": "The issues were discussed when a delegation from MSF, led by International President Dr Javid Abdelmoneim, met the State Minister at the Ministry of Foreign Affairs."
+    },
+    {
+      "title": "DSE loses Tk7,300cr in six consecutive sessions as turnover hits 3-month low",
+      "link": "https://www.tbsnews.net/economy/stocks/dse-loses-tk7300cr-six-consecutive-sessions-turnover-hits-3-month-low-1519836",
+      "pubDate": "Wed, 19 Aug 2026 21:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/11/05/dsex.png",
+      "snippet": "The DSEX fell for a sixth straight session as weak investor participation and concerns over energy supply kept selling pressure high, with turnover dropping to Tk732 crore."
     },
     {
       "title": "Over 66,000 complaints filed against mobile operators since 2021: BTRC",
@@ -122,7 +166,7 @@
       "snippet": "Zahed says the performance of every ministry will be assessed every six months."
     },
     {
-      "title": "Around 66% Bangladeshis satisfied with PM, 54% with government: Doppler poll",
+      "title": "Around 66% Bangladeshis satisfied with PM, 54% with govt: Doppler poll",
       "link": "https://www.tbsnews.net/bangladesh/around-66-satisfied-pm-54-government-doppler-poll-1519806",
       "pubDate": "Wed, 19 Aug 2026 20:55:00 +0600",
       "category": "Bangladesh",
@@ -188,35 +232,13 @@
       "snippet": "The exhibition was jointly organised by Nepal’s National Forum of Photo Journalists (NFPJ) and the Bangladesh Photo Journalists Association (BPJA)."
     },
     {
-      "title": "IG Prisons Motaher Hossain withdrawn, transferred back to Army",
-      "link": "https://www.tbsnews.net/bangladesh/ig-prisons-motaher-hossain-withdrawn-transferred-back-army-1519751",
-      "pubDate": "Wed, 19 Aug 2026 20:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/09/17/prison_ig-3.jpg",
-      "snippet": "The notification said the order was issued in the public interest and will take effect immediately; it did not specify a reason for the repatriation."
-    },
-    {
-      "title": "Govt explores BYD EVs for water resources ministry fleet",
-      "link": "https://www.tbsnews.net/bangladesh/govt-explores-byd-evs-water-resources-ministry-fleet-1519756",
-      "pubDate": "Wed, 19 Aug 2026 20:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/roland_berger_web_25_2184_ev_charging_index6_mainpage_it_image_caption_none.jpg",
-      "snippet": "Speakers say EVs could reduce fuel consumption and emissions as government considers wider adoption."
-    },
-    {
-      "title": "BB allows Rupali Bank to release $3.2m loan, LC opening for S Alam power plant",
+      "title": "Cenbank waives default rule to let SS Power open $3.2m LC",
       "link": "https://www.tbsnews.net/economy/banking/bb-allows-rupali-bank-release-32m-loan-lc-opening-s-alam-power-plant-1519771",
       "pubDate": "Wed, 19 Aug 2026 20:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/06/07/vykn4frhioslx2xtssxqb2ljmopm35ozggeaog2v.jpg",
       "snippet": "The central bank has also exempted the facility from the provisions of Section 27Ka(3) of the Bank Company Act, which restricts banks from providing certain facilities to loan-defaulter companies."
     },
@@ -224,10 +246,10 @@
       "title": "Chittagong University holds AI workshop for students",
       "link": "https://www.tbsnews.net/bangladesh/chittagong-university-holds-ai-workshop-students-1519746",
       "pubDate": "Wed, 19 Aug 2026 20:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/cu_ai_workshop.jpeg",
       "snippet": "The Business Standard was the media partner of the workshop."
     },
@@ -287,7 +309,7 @@
       "snippet": "State Minister Dr MA Muhith says the facilities will strengthen specialised child healthcare, while the government plans to recruit 100,000 field workers and 5,000 doctors."
     },
     {
-      "title": "Govt approves Tk4,963.67cr project to rehabilitate rural roads nationwide",
+      "title": "Govt nods Tk4,964cr project to rehabilitate damaged rural roads, culverts",
       "link": "https://www.tbsnews.net/economy/govt-approves-tk496367cr-project-rehabilitate-rural-roads-nationwide-1519576",
       "pubDate": "Wed, 19 Aug 2026 18:10:00 +0600",
       "category": "Economy",
@@ -309,7 +331,7 @@
       "snippet": "Field inspections of 25 upazilas found major gaps between official reports and ground realities, prompting the government to expand oversight beyond state-run schools."
     },
     {
-      "title": "82% of children who died from measles were not exclusively breastfed: Study",
+      "title": "82% of children who died from measles lacked breastfeeding for first 6 months: Study",
       "link": "https://www.tbsnews.net/bangladesh/health/82-children-who-died-measles-were-not-exclusively-breastfed-study-1519491",
       "pubDate": "Wed, 19 Aug 2026 17:45:00 +0600",
       "category": "Health",
@@ -802,18 +824,7 @@
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/02/bank_representational_image_1.jpg",
       "snippet": "The yield on 91-day treasury bills fell below 9% to 8.93% yesterday, down from 9.19% a week earlier."
-    },
-    {
-      "title": "Uttara Finance chairman, MD among four directors resign",
-      "link": "https://www.tbsnews.net/economy/banking/uttara-finance-chairman-md-among-four-directors-resign-1516901",
-      "pubDate": "Mon, 17 Aug 2026 00:00:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/06/uttara_finance.jpg",
-      "snippet": "In February this year, Bangladesh Bank reconstituted Uttara Finance’s board with five members, comprising four independent directors and the CFO of Uttara Group."
     }
   ],
-  "updatedAt": "2026-08-19T17:51:05.446Z"
+  "updatedAt": "2026-08-19T18:34:41.881Z"
 }
