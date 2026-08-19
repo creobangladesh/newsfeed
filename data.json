@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Cost-of-living pressures come from all fronts",
+      "link": "https://www.tbsnews.net/economy/cost-living-pressures-come-all-fronts-1518921",
+      "pubDate": "Wed, 19 Aug 2026 11:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/06/prices.jpg",
+      "snippet": "There is little relief, whether from locally produced or imported goods. And the pressure extends well beyond food, which already accounts for the largest share of spending by low-income households"
+    },
+    {
+      "title": "Govt to plant 2cr Keora trees on 4,400 coastal acres: Faridul",
+      "link": "https://www.tbsnews.net/bangladesh/govt-plant-2cr-keora-trees-4400-coastal-acres-faridul-1518966",
+      "pubDate": "Wed, 19 Aug 2026 11:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/image-415979-1787079029.jpg",
+      "snippet": "The government recently published the gazette of the Extended Producer Responsibility (EPR) policy, he said, adding that under the policy, manufacturers of plastic products would have to take responsibility for managing the plastic waste generated fr..."
+    },
+    {
       "title": "Governance crisis behind project delays",
       "link": "https://www.tbsnews.net/economy/governance-crisis-behind-project-delays-1518911",
       "pubDate": "Wed, 19 Aug 2026 10:30:00 +0600",
@@ -34,15 +56,15 @@
       "snippet": "According to the assessment, 15 of the 37 ongoing World Bank-financed projects are facing serious implementation challenges."
     },
     {
-      "title": "9 Bangladeshis killed in Kolkata hotel fire ",
-      "link": "https://www.tbsnews.net/world/south-asia/9-bangladeshis-killed-kolkata-hotel-fire-1518891",
+      "title": "Bangladeshis among 9 killed in Kolkata hotel fire",
+      "link": "https://www.tbsnews.net/world/south-asia/bangladeshis-among-9-killed-hotel-fire-kolkata-1518891",
       "pubDate": "Wed, 19 Aug 2026 09:20:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/screenshot_2026-08-19_092545.png",
-      "snippet": "According to a media reports, all nine Bangladeshi nationals had travelled to Kolkata for medical treatment."
+      "snippet": "Fire Department Minister Kaushik Chowdhury told reporters that the identities of those killed are yet to be established"
     },
     {
       "title": "Madrasah students disrupt police cultural programme in Brahmanbaria, 20 injured in baton charge",
@@ -230,28 +252,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/12/chief_magistrate_court_cmm_court.jpg",
       "snippet": "Tejgaon Sramik League president was arrested from Karwan Bazar a day earlier in the case over the alleged 2015 attack on the BNP leader’s motorcade."
-    },
-    {
-      "title": "Modi assures Tarique of 'honourable reception' in India, says Trivedi",
-      "link": "https://www.tbsnews.net/foreign-policy/modi-assures-tarique-honourable-reception-india-says-trivedi-1518706",
-      "pubDate": "Tue, 18 Aug 2026 20:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/17/tarique_modi.jpg",
-      "snippet": "Trivedi urges Bangladesh and India to address past differences and move forward, saying, “Don’t get stagnant.”"
-    },
-    {
-      "title": "Cracks appear again in BPC's Tk60cr headquarters in Chattogram",
-      "link": "https://www.tbsnews.net/bangladesh/cracks-appear-again-bpcs-tk60cr-headquarters-chattogram-1518711",
-      "pubDate": "Tue, 18 Aug 2026 20:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/bpc_building_crack.jpg",
-      "snippet": "Crack-like problems had appeared earlier at several points of the building and were repaired with putty."
     },
     {
       "title": "Central Medical Stores Depot to get 14,000sqft pharma-grade warehouse",
@@ -587,10 +587,10 @@
       "title": "Tk12,000cr stuck in interbank legal battles over LC guarantees",
       "link": "https://www.tbsnews.net/economy/banking/tk12000cr-stuck-interbank-legal-battles-over-lc-guarantees-1516971",
       "pubDate": "Mon, 17 Aug 2026 10:00:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/bank.png",
       "snippet": "One such case is a 23-year-old dispute between Uttara Bank and Sonali Bank that began in 2002 over 57 post-dated cheques issued by Chattogram Tobacco Company."
     },
@@ -738,5 +738,5 @@
       "snippet": "For the first time, Dhaka South City Corporation (DSCC) has conducted a 'Pre-Monsoon Aedes Mosquito Larva Survey' under its own management."
     }
   ],
-  "updatedAt": "2026-08-19T04:35:52.319Z"
+  "updatedAt": "2026-08-19T05:29:49.650Z"
 }
