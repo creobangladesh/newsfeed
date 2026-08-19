@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Desco’s Tk250cr caught in six troubled banks",
+      "link": "https://www.tbsnews.net/economy/banking/descos-tk250cr-caught-six-troubled-banks-1518866",
+      "pubDate": "Wed, 19 Aug 2026 07:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/06/22/bangladesh_bank_1.jpg",
+      "snippet": "It turns to cenbank to recover its revenue, employees’ provident and gratuity funds"
+    },
+    {
       "title": "Over 900 textile mills shut as gas supply shows no sign of improvement",
       "link": "https://www.tbsnews.net/bangladesh/energy/over-900-textile-mills-shut-gas-supply-shows-no-sign-improvement-1518861",
       "pubDate": "Wed, 19 Aug 2026 01:15:00 +0600",
@@ -199,17 +210,6 @@
       "snippet": "Akhtar said that at the start of voting in the presidential election, the Chief Election Commissioner (CEC) AMM Nasir Uddin will brief the voters about the voting procedure. \"After that, we will begin the voting there,” he added."
     },
     {
-      "title": "Bangladesh, India business communities to form task forces to boost trade, investment",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-india-business-communities-form-task-forces-boost-trade-investment-1518681",
-      "pubDate": "Tue, 18 Aug 2026 20:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/fbcci.png",
-      "snippet": "FBCCI Administrator Fazlul Hoque said Bangladesh could draw lessons from India's experience in attracting private and foreign investment in infrastructure."
-    },
-    {
       "title": "Mirza Fakhrul vows to serve people even after becoming President",
       "link": "https://www.tbsnews.net/bangladesh/mirza-fakhrul-vows-serve-people-even-after-becoming-president-1518691",
       "pubDate": "Tue, 18 Aug 2026 20:20:00 +0600",
@@ -219,6 +219,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/bnp_presidential_candidate_mirza_fakhrul_islam_alamgir_final.png",
       "snippet": "BNP presidential candidate Mirza Fakhrul Islam Alamgir says he wants to continue serving people and working for the development of his home district if elected president."
+    },
+    {
+      "title": "Bangladesh, India business communities to form task forces to boost trade, investment",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-india-business-communities-form-task-forces-boost-trade-investment-1518681",
+      "pubDate": "Tue, 18 Aug 2026 20:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/fbcci.png",
+      "snippet": "FBCCI Administrator Fazlul Hoque said Bangladesh could draw lessons from India's experience in attracting private and foreign investment in infrastructure."
     },
     {
       "title": "Central Medical Stores Depot to get 14,000sqft pharma-grade warehouse",
@@ -241,17 +252,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/director_general_rear_admiral_md_ziaul_haq.jpg",
       "snippet": "Coast Guard says 1.5 crore yaba pills seized in two years"
-    },
-    {
-      "title": "Govt patronage aiding AL's political rehabilitation: Jamaat",
-      "link": "https://www.tbsnews.net/bangladesh/politics/conspiracy-underway-rehabilitate-al-politics-govt-patronage-jamaat-1518666",
-      "pubDate": "Tue, 18 Aug 2026 20:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/bangladesh-jamaat-e-islami.jpg",
-      "snippet": "Jamaat accuses government of failing on reforms and governance."
     },
     {
       "title": "Govt takes various schemes to ensure joyful learning: Milon",
@@ -628,17 +628,6 @@
       "snippet": "In February this year, Bangladesh Bank reconstituted Uttara Finance’s board with five members, comprising four independent directors and the CFO of Uttara Group."
     },
     {
-      "title": "Fruit imports get easier as Bangladesh Bank lifts 100% cash margin rule",
-      "link": "https://www.tbsnews.net/economy/fruit-imports-get-easier-cenbank-lifts-100-cash-margin-rule-1516871",
-      "pubDate": "Sun, 16 Aug 2026 21:55:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/02/03/fruit.jpg",
-      "snippet": "The move comes as foreign exchange conditions stabilise, with the central bank expecting improved supply and more affordable prices for consumers."
-    },
-    {
       "title": "BB approves LC opening for S Alam-owned SS Power through Rupali Bank",
       "link": "https://www.tbsnews.net/economy/banking/bb-approves-lc-opening-ss-power-through-rupali-bank-1516836",
       "pubDate": "Sun, 16 Aug 2026 21:35:00 +0600",
@@ -760,5 +749,5 @@
       "snippet": "For the first time, Dhaka South City Corporation (DSCC) has conducted a 'Pre-Monsoon Aedes Mosquito Larva Survey' under its own management."
     }
   ],
-  "updatedAt": "2026-08-19T01:13:08.489Z"
+  "updatedAt": "2026-08-19T02:38:42.189Z"
 }
