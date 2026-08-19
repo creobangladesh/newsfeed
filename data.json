@@ -1,6 +1,94 @@
 {
   "news": [
     {
+      "title": "National programs announced to mark Eid-e-Miladunnabi on 26 Aug",
+      "link": "https://www.tbsnews.net/bangladesh/national-programs-announced-mark-eid-e-miladunnabi-26-aug-1519816",
+      "pubDate": "Wed, 19 Aug 2026 21:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/09/27/vvc4dizfckghaglp4k3yxrc5xkbwnr0ybxlcttxp.jpg",
+      "snippet": ""
+    },
+    {
+      "title": "Present govt not minimally liable for power crisis: Zahed",
+      "link": "https://www.tbsnews.net/bangladesh/present-govt-not-minimally-liable-power-crisis-zahed-1519811",
+      "pubDate": "Wed, 19 Aug 2026 21:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/pm_adviser_zahed.jpg",
+      "snippet": "Zahed says the performance of every ministry will be assessed every six months."
+    },
+    {
+      "title": "Electricity, fuel and essential goods prices top public concerns: Doppler poll",
+      "link": "https://www.tbsnews.net/bangladesh/electricity-fuel-and-essential-goods-prices-top-public-concerns-doppler-poll-1519806",
+      "pubDate": "Wed, 19 Aug 2026 20:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/donald_trump_1.png",
+      "snippet": "Government gets poor ratings for handling the top concerns, while 66.3% approve of the prime minister’s performance."
+    },
+    {
+      "title": "BFIU orders banks to report linked accounts when any account is frozen",
+      "link": "https://www.tbsnews.net/economy/bfiu-orders-banks-report-linked-accounts-when-any-account-frozen-1519801",
+      "pubDate": "Wed, 19 Aug 2026 20:55:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/08/22/bfiu.png",
+      "snippet": "The move will help the BFIU trace funds across multiple accounts linked to the same person or entity."
+    },
+    {
+      "title": "Qatar vows all-out support for Bangladesh's energy security",
+      "link": "https://www.tbsnews.net/foreign-policy/qatar-vows-all-out-support-bangladeshs-energy-security-1519781",
+      "pubDate": "Wed, 19 Aug 2026 20:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/777438020_1041124048632694_7019122536185758873_n.jpg",
+      "snippet": "Qatari PM Sheikh Mohammed bin Abdulrahman assures Foreign Minister Khalilur Rahman of all possible assistance amid current challenges."
+    },
+    {
+      "title": "Excelerate FSRU halts supply again 4 days after resumption",
+      "link": "https://www.tbsnews.net/bangladesh/energy/excelerate-fsru-halts-supply-again-four-days-after-resumption-1519786",
+      "pubDate": "Wed, 19 Aug 2026 20:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/01/08/ee_3000_sts_transfer.png",
+      "snippet": "The terminal had resumed partial supply just four days ago after a 25-day disruption."
+    },
+    {
+      "title": "BB, PKSF sign Tk5000cr deal to create 200,000 jobs",
+      "link": "https://www.tbsnews.net/economy/bb-pksf-sign-tk5000cr-deal-create-200000-jobs-1519791",
+      "pubDate": "Wed, 19 Aug 2026 20:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/aabd1e64-b222-485a-81ac-5532efeefd57.jpg",
+      "snippet": "The five-year financing programme will support micro-enterprises through loans, business-cluster development and skills training, with the fund to operate on a revolving basis to sustain financing at the grassroots."
+    },
+    {
+      "title": "Bangladesh envoy proposes annual cultural, creative exchange programme with Nepal",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-envoy-proposes-annual-cultural-creative-exchange-programme-nepal-1519776",
+      "pubDate": "Wed, 19 Aug 2026 20:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/bangladesh_ambassador_in_nepal.jpeg",
+      "snippet": "The exhibition was jointly organised by Nepal’s National Forum of Photo Journalists (NFPJ) and the Bangladesh Photo Journalists Association (BPJA)."
+    },
+    {
       "title": "IG Prisons Motaher Hossain withdrawn, transferred back to Army",
       "link": "https://www.tbsnews.net/bangladesh/ig-prisons-motaher-hossain-withdrawn-transferred-back-army-1519751",
       "pubDate": "Wed, 19 Aug 2026 20:10:00 +0600",
@@ -21,6 +109,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/roland_berger_web_25_2184_ev_charging_index6_mainpage_it_image_caption_none.jpg",
       "snippet": "Speakers say EVs could reduce fuel consumption and emissions as government considers wider adoption."
+    },
+    {
+      "title": "BB allows Rupali Bank to release $3.2m loan, LC opening for S Alam power plant",
+      "link": "https://www.tbsnews.net/economy/banking/bb-allows-rupali-bank-release-32m-loan-lc-opening-s-alam-power-plant-1519771",
+      "pubDate": "Wed, 19 Aug 2026 20:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/06/07/vykn4frhioslx2xtssxqb2ljmopm35ozggeaog2v.jpg",
+      "snippet": "The central bank has also exempted the facility from the provisions of Section 27Ka(3) of the Bank Company Act, which restricts banks from providing certain facilities to loan-defaulter companies."
     },
     {
       "title": "Chittagong University holds AI workshop for students",
@@ -144,79 +243,24 @@
       "snippet": "The 10 day census will collect data on engine-powered vessels to build an integrated database and strengthen safety, registration and management across the country's waterways."
     },
     {
-      "title": "Instagram influencer, associate arrested over porn sales, producing allegations",
-      "link": "https://www.tbsnews.net/bangladesh/crime/instagram-influencer-associate-arrested-over-porn-sales-producing-allegations",
-      "pubDate": "Wed, 19 Aug 2026 18:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/4703377e-3ea0-4e63-a4c3-5a6343067ab5.jpg",
-      "snippet": "DB says the suspects produced explicit content and sold it through Telegram channels for money."
-    },
-    {
       "title": "Five new children's hospitals to begin operations by October: Muhit",
       "link": "https://www.tbsnews.net/bangladesh/five-new-childrens-hospitals-begin-operations-october-muhit-1519606",
       "pubDate": "Wed, 19 Aug 2026 18:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/tate_minister_for_health_and_family_welfare_dr_ma_muhith.jpg",
       "snippet": "State Minister Dr MA Muhith says the facilities will strengthen specialised child healthcare, while the government plans to recruit 100,000 field workers and 5,000 doctors."
-    },
-    {
-      "title": "Govt to buy LNG cargo at $23.93 per MMBtu from Aramco, 14 more from 7 other companies",
-      "link": "https://www.tbsnews.net/bangladesh/energy/govt-buy-lng-cargo-2393-mmbtu-aramco-14-more-7-other-cos-1519586",
-      "pubDate": "Wed, 19 Aug 2026 18:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/06/reuters_lng.jpg",
-      "snippet": "The 14 LNG cargoes, two each from seven companies, will be procured directly to maintain gas supply for state emergencies."
-    },
-    {
-      "title": "No deficit in preparation for tomorrow's presidential election: CEC",
-      "link": "https://www.tbsnews.net/bangladesh/no-deficit-preparation-tomorrows-presidential-election-cec-1519591",
-      "pubDate": "Wed, 19 Aug 2026 18:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/chief_election_commissioner_cec_amm_nasir_uddin.png",
-      "snippet": "Chief Election Commissioner AMM Nasir Uddin says preparations are complete ahead of tomorrow presidential election, with results expected to be gazetted within hours of voting."
-    },
-    {
-      "title": "Abul Hasanat Abdullah ordered 'crossfire' killings of BNP leaders, witness tells ICT",
-      "link": "https://www.tbsnews.net/bangladesh/court/abul-hasanat-abdullah-ordered-crossfire-killings-bnp-leaders-son-tells-ict-1519596",
-      "pubDate": "Wed, 19 Aug 2026 18:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/10/09/abul_hasanat.gif",
-      "snippet": "BNP activist Kabir Molla's son tells tribunal his father was abducted in 2015 and later killed in a staged crossfire allegedly over political rivalry."
-    },
-    {
-      "title": "'We won't disappoint people': New ACC chief vows to restore credibility",
-      "link": "https://www.tbsnews.net/bangladesh/we-wont-disappoint-people-new-acc-chief-vows-restore-credibility-1519571",
-      "pubDate": "Wed, 19 Aug 2026 18:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/new_acc_chair.jpg",
-      "snippet": "On his first working day, AKM Asaduzzaman says the new Anti-Corruption Commission is under no pressure and pledges to prove its independence through its work."
     },
     {
       "title": "Govt approves Tk4,963.67cr project to rehabilitate rural roads nationwide",
       "link": "https://www.tbsnews.net/economy/govt-approves-tk496367cr-project-rehabilitate-rural-roads-nationwide-1519576",
       "pubDate": "Wed, 19 Aug 2026 18:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/11/02/rural_road.jpg",
       "snippet": "The project will rehabilitate 5,223km of rural roads and reconstruct 7,000 metres of bridges and culverts on a priority basis."
     },
@@ -224,10 +268,10 @@
       "title": "Govt to monitor private, kindergarten and English-medium primary schools: Bobby Hajjaj",
       "link": "https://www.tbsnews.net/bangladesh/education/govt-monitor-private-kindergarten-and-english-medium-primary-schools-bobby",
       "pubDate": "Wed, 19 Aug 2026 18:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/08/bobby_hajjaj.jpg",
       "snippet": "Field inspections of 25 upazilas found major gaps between official reports and ground realities, prompting the government to expand oversight beyond state-run schools."
     },
@@ -609,23 +653,12 @@
       "title": "38 banks seek Tk28,000cr in stimulus funds for struggling businesses",
       "link": "https://www.tbsnews.net/economy/banking/38-banks-seek-tk28000cr-stimulus-funds-struggling-businesses-1517961",
       "pubDate": "Tue, 18 Aug 2026 10:00:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/bb.png",
       "snippet": "Under the agreed terms, Bangladesh Bank will pay fund-providing banks a rate tied to its policy rate plus 50 basis points, up from the 9% originally proposed"
-    },
-    {
-      "title": "Capital machinery imports yet to recover",
-      "link": "https://www.tbsnews.net/economy/capital-machinery-imports-yet-recover-1517991",
-      "pubDate": "Tue, 18 Aug 2026 09:45:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/04/10/kepz_factory.jpg",
-      "snippet": "The government’s major challenges are to bring down inflation and attract private investment."
     },
     {
       "title": "Cenbank orders finance firms to withhold policy support, incentives from litigant borrowers ",
@@ -758,18 +791,7 @@
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/06/07/vykn4frhioslx2xtssxqb2ljmopm35ozggeaog2v.jpg",
       "snippet": "Thirty percent of SS Power (Banshkhali coal-fired power plant) is owned by a Chinese company."
-    },
-    {
-      "title": "Call for an ecosystem to boost biosimilar and vaccine production capacity",
-      "link": "https://www.tbsnews.net/bangladesh/health/call-ecosystem-boost-biosimilar-and-vaccine-production-capacity-1516806",
-      "pubDate": "Sun, 16 Aug 2026 21:10:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/10/3710798.jpg",
-      "snippet": "They called for an integrated Life Science and Biopharmaceutical Strategy by 2035, focusing on technology transfer, clinical research, regulatory accreditation, shared infrastructure and skilled workforce development."
     }
   ],
-  "updatedAt": "2026-08-19T14:33:23.791Z"
+  "updatedAt": "2026-08-19T15:30:51.146Z"
 }
