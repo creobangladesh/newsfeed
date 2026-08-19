@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "4 arrested over attack on Bepza security personnel, snatching of detainee",
+      "link": "https://www.tbsnews.net/bangladesh/crime/4-arrested-over-attack-bepza-security-personnel-snatching-detainee-1519471",
+      "pubDate": "Wed, 19 Aug 2026 17:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/untitled-1.jpg",
+      "snippet": "The four were arrested during separate drives in areas under EPZ and Bandar police stations early today."
+    },
+    {
+      "title": "Govt may need up to 2 years to overcome energy crisis: State Minister Saki",
+      "link": "https://www.tbsnews.net/bangladesh/govt-may-need-2-years-overcome-energy-crisis-state-minister-saki-1519451",
+      "pubDate": "Wed, 19 Aug 2026 17:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/21367b76-ebb2-489d-8ad4-91f28e01b190.jpg",
+      "snippet": "He said the government is also exploring new sources in different countries to meet the immediate fuel requirement through imports."
+    },
+    {
+      "title": "Media enjoying highest freedom: Information minister",
+      "link": "https://www.tbsnews.net/bangladesh/media-enjoying-highest-freedom-information-minister-1519461",
+      "pubDate": "Wed, 19 Aug 2026 17:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/information_and_broadcasting_minister_zahir_uddin_swapon_final.jpg",
+      "snippet": "Information Minister Zahir Uddin Swapon says journalists are working without restrictions, while warning against misuse of press freedom through yellow journalism, blackmailing and fake news."
+    },
+    {
       "title": "BGB brings back 24 fishermen detained by Arakan Army",
       "link": "https://www.tbsnews.net/bangladesh/bgb-brings-back-24-fishermen-detained-arakan-army-1519421",
       "pubDate": "Wed, 19 Aug 2026 17:10:00 +0600",
@@ -8,7 +41,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/bgb.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/48e931bc-3317-43fa-82d3-995a38d471c9.jpg",
       "snippet": "According to the BGB, the fishermen were detained by the Arakan Army at different times in 2025 and 2026."
     },
     {
@@ -56,7 +89,7 @@
       "snippet": "The study found that a new variant of the virus did not cause the 2026 measles outbreak, but by the spread of the highly contagious B3 genotype, which is already circulating globally, along with gaps in vaccination and maternal antibodies."
     },
     {
-      "title": "Ecnec holds tanker purchase, Turag protection projects over duplication concerns",
+      "title": "Ecnec puts tanker purchase, Turag protection projects on hold over duplication concerns",
       "link": "https://www.tbsnews.net/economy/ecnec-holds-tanker-purchase-turag-protection-projects-over-duplication-concerns-1519386",
       "pubDate": "Wed, 19 Aug 2026 16:35:00 +0600",
       "category": "Bangladesh",
@@ -100,6 +133,17 @@
       "snippet": "The blaze at a five-storey building on Mirza Ghalib Street also left six more Bangladeshis injured, while around 80 people are rescued from the site."
     },
     {
+      "title": "Kishoreganj administration suspends concert over organisers' licence, registration issues",
+      "link": "https://www.tbsnews.net/bangladesh/kishoreganj-administration-suspends-concert-over-organisers-licence-registration-issues",
+      "pubDate": "Wed, 19 Aug 2026 16:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/noble_ashes_final.png",
+      "snippet": "The decision comes a day after the Kishoreganj Sadar unit of Imam-Ulama Parishad submitted a memorandum to the deputy commissioner demanding the cancellation of the concert."
+    },
+    {
       "title": "No witnesses appear on first day of trial against Salam Murshedy, 12 others over Gulshan land",
       "link": "https://www.tbsnews.net/bangladesh/no-witnesses-appear-first-day-trial-against-salam-murshedy-12-others-over-gulshan-land",
       "pubDate": "Wed, 19 Aug 2026 16:05:00 +0600",
@@ -120,17 +164,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/02/01/court._photo_reuters.jpg",
       "snippet": "Dhaka Metropolitan Magistrate Kamal Uddin passed the order."
-    },
-    {
-      "title": "Kishoreganj administration suspends concert over organisers' licence, registration issues",
-      "link": "https://www.tbsnews.net/bangladesh/kishoreganj-administration-suspends-concert-over-organisers-licence-registration-issues",
-      "pubDate": "Wed, 19 Aug 2026 16:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/noble_ashes_final.png",
-      "snippet": "The decision comes a day after the Kishoreganj Sadar unit of Imam-Ulama Parishad submitted a memorandum to the deputy commissioner demanding the cancellation of the concert."
     },
     {
       "title": "Bangladesh 24th largest agricultural economy in the world",
@@ -186,39 +219,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/1000290593.jpg",
       "snippet": "The authorities said unauthorised water connections are contributing to higher system losses."
-    },
-    {
-      "title": "No parole application yet for Dipu Moni after husband's death",
-      "link": "https://www.tbsnews.net/bangladesh/no-parole-application-yet-dipu-moni-after-husbands-death-1519236",
-      "pubDate": "Wed, 19 Aug 2026 14:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/11/18/whatsapp_image_2024-11-18_at_11.18.30_am_1.jpeg",
-      "snippet": "Tawfique Nawaz died last night (18 August) while undergoing treatment at a private hospital."
-    },
-    {
-      "title": "Ecnec meeting underway with PM Tarique in chair",
-      "link": "https://www.tbsnews.net/bangladesh/ecnec-meeting-underway-pm-tarique-chair-1519226",
-      "pubDate": "Wed, 19 Aug 2026 14:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/b18e5dee-64a8-44aa-8cfe-afec52bb17a9.jpg",
-      "snippet": "A total of 11 development projects have been placed before the meeting for approval."
-    },
-    {
-      "title": "Halal food culture, values can be asset for human civilisation: Swapon",
-      "link": "https://www.tbsnews.net/bangladesh/halal-food-culture-values-can-be-asset-human-civilisation-swapon-1519216",
-      "pubDate": "Wed, 19 Aug 2026 14:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/image-416073-1787124283.jpg",
-      "snippet": "Highlighting the global demand of halal products, he called upon entrepreneurs, investors, traders and other institutions concerned to work to this end in a coordinated manner."
     },
     {
       "title": "Can coastal Bangladesh turn salty wastewater into a new industry?",
@@ -782,5 +782,5 @@
       "snippet": "RU Vice-Chancellor Professor Md. Faridul Islam presided over the meeting."
     }
   ],
-  "updatedAt": "2026-08-19T11:27:42.854Z"
+  "updatedAt": "2026-08-19T11:52:27.285Z"
 }
