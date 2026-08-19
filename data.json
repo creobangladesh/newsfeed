@@ -1,6 +1,61 @@
 {
   "news": [
     {
+      "title": "IG Prisons Motaher Hossain withdrawn, transferred back to Army",
+      "link": "https://www.tbsnews.net/bangladesh/ig-prisons-motaher-hossain-withdrawn-transferred-back-army-1519751",
+      "pubDate": "Wed, 19 Aug 2026 20:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/09/17/prison_ig-3.jpg",
+      "snippet": "The notification said the order was issued in the public interest and will take effect immediately; it did not specify a reason for the repatriation."
+    },
+    {
+      "title": "Govt explores BYD EVs for water resources ministry fleet",
+      "link": "https://www.tbsnews.net/bangladesh/govt-explores-byd-evs-water-resources-ministry-fleet-1519756",
+      "pubDate": "Wed, 19 Aug 2026 20:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/roland_berger_web_25_2184_ev_charging_index6_mainpage_it_image_caption_none.jpg",
+      "snippet": "Speakers say EVs could reduce fuel consumption and emissions as government considers wider adoption."
+    },
+    {
+      "title": "Chittagong University holds AI workshop for students",
+      "link": "https://www.tbsnews.net/bangladesh/chittagong-university-holds-ai-workshop-students-1519746",
+      "pubDate": "Wed, 19 Aug 2026 20:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/cu_ai_workshop.jpeg",
+      "snippet": "The Business Standard was the media partner of the workshop."
+    },
+    {
+      "title": "Dr Dhipra's death: Case against husband, 3 others withdrawn",
+      "link": "https://www.tbsnews.net/bangladesh/dr-dhipras-death-case-against-husband-3-others-withdrawn-1519716",
+      "pubDate": "Wed, 19 Aug 2026 19:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/nafisa_tabassum_dhipra.jpg",
+      "snippet": "Complainant says he withdrew the case after learning that some information behind the allegations was incorrect."
+    },
+    {
+      "title": "Bida survey to map investment barriers, industrial potential across 64 districts",
+      "link": "https://www.tbsnews.net/economy/bida-survey-map-investment-barriers-industrial-potential-across-64-districts-1519726",
+      "pubDate": "Wed, 19 Aug 2026 19:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/bida_meeting.jpg",
+      "snippet": "The ADB-backed initiative will create a unified investor database while identifying district-specific investment opportunities and barriers."
+    },
+    {
       "title": "IFC lends $30.7m to Popular Pharmaceuticals",
       "link": "https://www.tbsnews.net/bangladesh/health/ifc-lends-307m-popular-pharmaceuticals-1519701",
       "pubDate": "Wed, 19 Aug 2026 19:30:00 +0600",
@@ -122,28 +177,6 @@
       "snippet": "The 14 LNG cargoes, two each from seven companies, will be procured directly to maintain gas supply for state emergencies."
     },
     {
-      "title": "'We won't disappoint people': New ACC chief vows to restore credibility",
-      "link": "https://www.tbsnews.net/bangladesh/we-wont-disappoint-people-new-acc-chief-vows-restore-credibility-1519571",
-      "pubDate": "Wed, 19 Aug 2026 18:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/new_acc_chair.jpg",
-      "snippet": "On his first working day, AKM Asaduzzaman says the new Anti-Corruption Commission is under no pressure and pledges to prove its independence through its work."
-    },
-    {
-      "title": "Govt approves Tk4,963.67cr project to rehabilitate rural roads nationwide",
-      "link": "https://www.tbsnews.net/economy/govt-approves-tk496367cr-project-rehabilitate-rural-roads-nationwide-1519576",
-      "pubDate": "Wed, 19 Aug 2026 18:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/11/02/rural_road.jpg",
-      "snippet": "The project will rehabilitate 5,223km of rural roads and reconstruct 7,000 metres of bridges and culverts on a priority basis."
-    },
-    {
       "title": "No deficit in preparation for tomorrow's presidential election: CEC",
       "link": "https://www.tbsnews.net/bangladesh/no-deficit-preparation-tomorrows-presidential-election-cec-1519591",
       "pubDate": "Wed, 19 Aug 2026 18:10:00 +0600",
@@ -166,6 +199,28 @@
       "snippet": "BNP activist Kabir Molla's son tells tribunal his father was abducted in 2015 and later killed in a staged crossfire allegedly over political rivalry."
     },
     {
+      "title": "'We won't disappoint people': New ACC chief vows to restore credibility",
+      "link": "https://www.tbsnews.net/bangladesh/we-wont-disappoint-people-new-acc-chief-vows-restore-credibility-1519571",
+      "pubDate": "Wed, 19 Aug 2026 18:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/new_acc_chair.jpg",
+      "snippet": "On his first working day, AKM Asaduzzaman says the new Anti-Corruption Commission is under no pressure and pledges to prove its independence through its work."
+    },
+    {
+      "title": "Govt approves Tk4,963.67cr project to rehabilitate rural roads nationwide",
+      "link": "https://www.tbsnews.net/economy/govt-approves-tk496367cr-project-rehabilitate-rural-roads-nationwide-1519576",
+      "pubDate": "Wed, 19 Aug 2026 18:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/11/02/rural_road.jpg",
+      "snippet": "The project will rehabilitate 5,223km of rural roads and reconstruct 7,000 metres of bridges and culverts on a priority basis."
+    },
+    {
       "title": "Govt to monitor private, kindergarten and English-medium primary schools: Bobby Hajjaj",
       "link": "https://www.tbsnews.net/bangladesh/education/govt-monitor-private-kindergarten-and-english-medium-primary-schools-bobby",
       "pubDate": "Wed, 19 Aug 2026 18:00:00 +0600",
@@ -180,56 +235,12 @@
       "title": "82% of children who died from measles were not exclusively breastfed: Study",
       "link": "https://www.tbsnews.net/bangladesh/health/82-children-who-died-measles-were-not-exclusively-breastfed-study-1519491",
       "pubDate": "Wed, 19 Aug 2026 17:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/measlessssssss.jpeg",
       "snippet": "The study also finds 97% of children who were eligible for vaccination but had not received a single dose tested positive for measles."
-    },
-    {
-      "title": "4 arrested over attack on Bepza security personnel, snatching of detainee",
-      "link": "https://www.tbsnews.net/bangladesh/crime/4-arrested-over-attack-bepza-security-personnel-snatching-detainee-1519471",
-      "pubDate": "Wed, 19 Aug 2026 17:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/untitled-1.jpg",
-      "snippet": "The four were arrested during separate drives in areas under EPZ and Bandar police stations early today."
-    },
-    {
-      "title": "Govt may need up to 2 years to overcome energy crisis: State Minister Saki",
-      "link": "https://www.tbsnews.net/bangladesh/govt-may-need-2-years-overcome-energy-crisis-state-minister-saki-1519451",
-      "pubDate": "Wed, 19 Aug 2026 17:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/21367b76-ebb2-489d-8ad4-91f28e01b190.jpg",
-      "snippet": "He said the government is also exploring new sources in different countries to meet the immediate fuel requirement through imports."
-    },
-    {
-      "title": "Media enjoying highest freedom: Information minister",
-      "link": "https://www.tbsnews.net/bangladesh/media-enjoying-highest-freedom-information-minister-1519461",
-      "pubDate": "Wed, 19 Aug 2026 17:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/information_and_broadcasting_minister_zahir_uddin_swapon_final.jpg",
-      "snippet": "Information Minister Zahir Uddin Swapon says journalists are working without restrictions, while warning against misuse of press freedom through yellow journalism, blackmailing and fake news."
-    },
-    {
-      "title": "BGB brings back 24 fishermen detained by Arakan Army",
-      "link": "https://www.tbsnews.net/bangladesh/bgb-brings-back-24-fishermen-detained-arakan-army-1519421",
-      "pubDate": "Wed, 19 Aug 2026 17:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/48e931bc-3317-43fa-82d3-995a38d471c9.jpg",
-      "snippet": "According to the BGB, the fishermen were detained by the Arakan Army at different times in 2025 and 2026."
     },
     {
       "title": "Ecnec clears 10 projects involving Tk9,333cr",
@@ -617,17 +628,6 @@
       "snippet": "The government’s major challenges are to bring down inflation and attract private investment."
     },
     {
-      "title": "Economic zones planned on land of 3 closed state-owned mills",
-      "link": "https://www.tbsnews.net/economy/economic-zones-planned-land-3-closed-state-owned-mills-1517956",
-      "pubDate": "Tue, 18 Aug 2026 07:20:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/03/05/bangladesh_jute_mills_3.jpg",
-      "snippet": "The move aims to put long-unused industrial assets back into productive use, attract domestic and foreign investment, establish new industries and create jobs, according to officials of the Bangladesh Economic Zones Authority (Beza)"
-    },
-    {
       "title": "Cenbank orders finance firms to withhold policy support, incentives from litigant borrowers ",
       "link": "https://www.tbsnews.net/economy/banking/cenbank-orders-finance-firms-withhold-policy-support-incentives-litigant-borrowers",
       "pubDate": "Mon, 17 Aug 2026 21:00:00 +0600",
@@ -771,5 +771,5 @@
       "snippet": "They called for an integrated Life Science and Biopharmaceutical Strategy by 2035, focusing on technology transfer, clinical research, regulatory accreditation, shared infrastructure and skilled workforce development."
     }
   ],
-  "updatedAt": "2026-08-19T13:43:07.432Z"
+  "updatedAt": "2026-08-19T14:33:23.791Z"
 }
