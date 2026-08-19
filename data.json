@@ -1,6 +1,105 @@
 {
   "news": [
     {
+      "title": "'We came from the jaws of death': Bangladeshis recount horror of Kolkata hotel fire",
+      "link": "https://www.tbsnews.net/bangladesh/we-came-jaws-death-bangladeshis-recount-horror-kolkata-hotel-fire-1519881",
+      "pubDate": "Wed, 19 Aug 2026 22:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/kolkata_fire_hotel_19_aug.jpg",
+      "snippet": "Smoke-filled corridors and poor visibility forced guests to find their own way out as the blaze spread through the building."
+    },
+    {
+      "title": "DSE names 138 marginable stocks as new lending rules take effect",
+      "link": "https://www.tbsnews.net/economy/stocks/dse-names-138-marginable-stocks-new-lending-rules-take-effect-1519841",
+      "pubDate": "Wed, 19 Aug 2026 21:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/07/dse.jpg",
+      "snippet": "Under revised rules, A- and B-category companies are eligible for margin loans if their P/E ratios remain within 40."
+    },
+    {
+      "title": "Gas allocation keeps public-private KAFCO running as state-owned CUFL stays shut",
+      "link": "https://www.tbsnews.net/bangladesh/energy/gas-allocation-keeps-public-private-kafco-running-state-owned-cufl-stays-shut",
+      "pubDate": "Wed, 19 Aug 2026 21:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/07/30/kafco.png",
+      "snippet": "CUFL is losing an average daily loss of Tk2cr"
+    },
+    {
+      "title": "'Pray for me': Fakhrul breaks down in tears as he leaves parliament for Bangabhaban",
+      "link": "https://www.tbsnews.net/bangladesh/pray-me-fakhrul-breaks-down-tears-he-leaves-parliament-bangabhaban-1519871",
+      "pubDate": "Wed, 19 Aug 2026 21:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/pid.jpg",
+      "snippet": "Fakhrul recalls Ziaur Rahman and Khaleda Zia, thanks Prime Minister Tarique and urges BNP lawmakers to vote for him."
+    },
+    {
+      "title": "Law enforcement agencies cannot investigate their own rights abuses: Rights advocates",
+      "link": "https://www.tbsnews.net/bangladesh/law-order/law-enforcement-agencies-cannot-investigate-their-own-rights-abuses-rights",
+      "pubDate": "Wed, 19 Aug 2026 21:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/nagorik_coalition_meeting.jpg",
+      "snippet": "Speakers say the proposed laws could undermine accountability if law enforcement agencies are allowed to investigate allegations against themselves"
+    },
+    {
+      "title": "DSE loses Tk7,300cr in six consecutive sessions as turnover hits 3-month low",
+      "link": "https://www.tbsnews.net/economy/stocks/dse-loses-tk7300cr-six-consecutive-sessions-turnover-hits-3-month-low-1519836",
+      "pubDate": "Wed, 19 Aug 2026 21:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/11/05/dsex.png",
+      "snippet": "The DSEX fell for a sixth straight session as weak investor participation and concerns over energy supply kept selling pressure high, with turnover dropping to Tk732 crore."
+    },
+    {
+      "title": "Dignified repatriation of Rohingyas remains only durable solution: Shama Obaed",
+      "link": "https://www.tbsnews.net/foreign-policy/dignified-repatriation-rohingyas-remains-only-durable-solution-shama-obaed-1519856",
+      "pubDate": "Wed, 19 Aug 2026 21:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/shama-_abmbrassador.png",
+      "snippet": "The issues were discussed when a delegation from MSF, led by International President Dr Javid Abdelmoneim, met the State Minister at the Ministry of Foreign Affairs."
+    },
+    {
+      "title": "Over 66,000 complaints filed against mobile operators since 2021: BTRC",
+      "link": "https://www.tbsnews.net/bangladesh/telecom/over-66000-complaints-filed-against-mobile-operators-2021-btrc-1519826",
+      "pubDate": "Wed, 19 Aug 2026 21:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/30/btrc.png",
+      "snippet": "Robi received the highest number of complaints, while the telecom regulator says it plans to publish monthly quality-of-service reports from next month."
+    },
+    {
+      "title": "Bangladesh, Lithuania seek to deepen trade, economic ties",
+      "link": "https://www.tbsnews.net/foreign-policy/bangladesh-lithuania-seek-deepen-trade-economic-ties-1519821",
+      "pubDate": "Wed, 19 Aug 2026 21:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/shama-lithuania_abmbrassador.png",
+      "snippet": "They focused on expanding cooperation in information technology, financial technology, e-governance, cybersecurity, e-registration, e-transportation, digitisation of the transport system, AI and high-tech medical device systems."
+    },
+    {
       "title": "National programs announced to mark Eid-e-Miladunnabi on 26 Aug",
       "link": "https://www.tbsnews.net/bangladesh/national-programs-announced-mark-eid-e-miladunnabi-26-aug-1519816",
       "pubDate": "Wed, 19 Aug 2026 21:10:00 +0600",
@@ -56,7 +155,7 @@
       "snippet": "Qatari PM Sheikh Mohammed bin Abdulrahman assures Foreign Minister Khalilur Rahman of all possible assistance amid current challenges."
     },
     {
-      "title": "Excelerate FSRU halts supply again 4 days after resumption",
+      "title": "Excelerate FSRU halts supply again as LNG runs out",
       "link": "https://www.tbsnews.net/bangladesh/energy/excelerate-fsru-halts-supply-again-four-days-after-resumption-1519786",
       "pubDate": "Wed, 19 Aug 2026 20:40:00 +0600",
       "category": "Bangladesh",
@@ -133,24 +232,13 @@
       "snippet": "The Business Standard was the media partner of the workshop."
     },
     {
-      "title": "Dr Dhipra's death: Case against husband, 3 others withdrawn",
-      "link": "https://www.tbsnews.net/bangladesh/dr-dhipras-death-case-against-husband-3-others-withdrawn-1519716",
-      "pubDate": "Wed, 19 Aug 2026 19:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/nafisa_tabassum_dhipra.jpg",
-      "snippet": "Complainant says he withdrew the case after learning that some information behind the allegations was incorrect."
-    },
-    {
       "title": "Bida survey to map investment barriers, industrial potential across 64 districts",
       "link": "https://www.tbsnews.net/economy/bida-survey-map-investment-barriers-industrial-potential-across-64-districts-1519726",
       "pubDate": "Wed, 19 Aug 2026 19:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/bida_meeting.jpg",
       "snippet": "The ADB-backed initiative will create a unified investor database while identifying district-specific investment opportunities and barriers."
     },
@@ -158,45 +246,23 @@
       "title": "IFC lends $30.7m to Popular Pharmaceuticals",
       "link": "https://www.tbsnews.net/bangladesh/health/ifc-lends-307m-popular-pharmaceuticals-1519701",
       "pubDate": "Wed, 19 Aug 2026 19:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/organization/logo/popular_pharmaceuticals_ltd.png",
       "snippet": "The financing includes $64.1 million in additional private capital mobilised alongside IFC’s commitment, supporting greater private investment in Bangladesh’s businesses."
-    },
-    {
-      "title": "449 traffic cases filed on Dhaka-Chattogram highway in 24 hrs",
-      "link": "https://www.tbsnews.net/bangladesh/449-traffic-cases-filed-dhaka-chattogram-highway-24-hrs-1519691",
-      "pubDate": "Wed, 19 Aug 2026 19:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/02/1000048209.jpg",
-      "snippet": "Tk15.51 lakh fine was imposed during this period."
     },
     {
       "title": "Dengue claims 2 more lives in 24hrs, toll reaches 76",
       "link": "https://www.tbsnews.net/bangladesh/health/dengue-claims-2-more-lives-24hrs-toll-reaches-76-1519671",
       "pubDate": "Wed, 19 Aug 2026 19:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/07/dengue.jpg",
       "snippet": "A total of 671 new dengue patients were hospitalised across the country in the last 24 hours."
-    },
-    {
-      "title": "Doctor attacked two days after $15,000 extortion ultimatum",
-      "link": "https://www.tbsnews.net/bangladesh/crime/doctor-attacked-two-days-after-15000-extortion-ultimatum-1519676",
-      "pubDate": "Wed, 19 Aug 2026 19:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/doc.jpg",
-      "snippet": "Police are investigating whether the extortion demand, the deadline, the attack and the subsequent threats are connected."
     },
     {
       "title": "Beyond pay: Rethinking employee rewards",
@@ -208,39 +274,6 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/thoughts_march_3_copy_0_2.jpg",
       "snippet": "A well-designed reward system can do more than drive performance: by aligning incentives with organisational culture and employee needs, it can build trust, strengthen engagement and help retain top talent"
-    },
-    {
-      "title": "400 women raped in first 7 months of 2026, 37 killed after rape: ASK",
-      "link": "https://www.tbsnews.net/bangladesh/400-women-raped-first-7-months-2026-37-killed-after-rape-ask-1519666",
-      "pubDate": "Wed, 19 Aug 2026 18:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/23/untitled_design_1.png",
-      "snippet": "The number of rape cases remained high in July, when at least 81 women were raped, compared with 80 in June."
-    },
-    {
-      "title": "BNP MPs meet ahead of presidential election",
-      "link": "https://www.tbsnews.net/bangladesh/bnp-mps-meet-ahead-presidential-election-1519651",
-      "pubDate": "Wed, 19 Aug 2026 18:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/parliament_house.jpg",
-      "snippet": "Prime Minister Tarique Rahman chairs the parliamentary party meeting as BNP candidate Mirza Fakhrul Islam Alamgir prepares to contest the presidency against Oli Ahmed."
-    },
-    {
-      "title": "Nationwide first time vessel census to begin tomorrow",
-      "link": "https://www.tbsnews.net/bangladesh/nationwide-first-time-vessel-census-begin-tomorrow-1519631",
-      "pubDate": "Wed, 19 Aug 2026 18:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/department_of_shipping_under_the_ministry_of_shipping.jpg",
-      "snippet": "The 10 day census will collect data on engine-powered vessels to build an integrated database and strengthen safety, registration and management across the country's waterways."
     },
     {
       "title": "Five new children's hospitals to begin operations by October: Muhit",
@@ -780,18 +813,7 @@
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/06/uttara_finance.jpg",
       "snippet": "In February this year, Bangladesh Bank reconstituted Uttara Finance’s board with five members, comprising four independent directors and the CFO of Uttara Group."
-    },
-    {
-      "title": "BB approves LC opening for S Alam-owned SS Power through Rupali Bank",
-      "link": "https://www.tbsnews.net/economy/banking/bb-approves-lc-opening-ss-power-through-rupali-bank-1516836",
-      "pubDate": "Sun, 16 Aug 2026 21:35:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/06/07/vykn4frhioslx2xtssxqb2ljmopm35ozggeaog2v.jpg",
-      "snippet": "Thirty percent of SS Power (Banshkhali coal-fired power plant) is owned by a Chinese company."
     }
   ],
-  "updatedAt": "2026-08-19T15:30:51.146Z"
+  "updatedAt": "2026-08-19T16:31:05.075Z"
 }
