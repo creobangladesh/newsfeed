@@ -1,14 +1,36 @@
 {
   "news": [
     {
-      "title": "Desco’s Tk250cr caught in six troubled banks",
+      "title": "9 Bangladeshis killed in Kolkata hotel fire ",
+      "link": "https://www.tbsnews.net/world/south-asia/9-bangladeshis-killed-kolkata-hotel-fire-1518891",
+      "pubDate": "Wed, 19 Aug 2026 09:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/screenshot_2026-08-19_092545.png",
+      "snippet": "According to a media reports, all nine Bangladeshi nationals had travelled to Kolkata for medical treatment."
+    },
+    {
+      "title": "Madrasah students disrupt police cultural programme in Brahmanbaria, 20 injured in baton charge",
+      "link": "https://www.tbsnews.net/bangladesh/madrasah-students-disrupt-police-cultural-programme-brahmanbaria-20-injured-baton-charge",
+      "pubDate": "Wed, 19 Aug 2026 08:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/injured_madrasah_students_brahmanbaria_police_clash.jpg",
+      "snippet": "An argument over loud music escalated after more than 100 madrasa students entered the police lines, prompting police to baton-charge them."
+    },
+    {
+      "title": "Desco's Tk250cr caught in six troubled banks",
       "link": "https://www.tbsnews.net/economy/banking/descos-tk250cr-caught-six-troubled-banks-1518866",
       "pubDate": "Wed, 19 Aug 2026 07:45:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/06/22/bangladesh_bank_1.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/05/02/desco_logo.png",
       "snippet": "It turns to cenbank to recover its revenue, employees’ provident and gratuity funds"
     },
     {
@@ -210,17 +232,6 @@
       "snippet": "Akhtar said that at the start of voting in the presidential election, the Chief Election Commissioner (CEC) AMM Nasir Uddin will brief the voters about the voting procedure. \"After that, we will begin the voting there,” he added."
     },
     {
-      "title": "Mirza Fakhrul vows to serve people even after becoming President",
-      "link": "https://www.tbsnews.net/bangladesh/mirza-fakhrul-vows-serve-people-even-after-becoming-president-1518691",
-      "pubDate": "Tue, 18 Aug 2026 20:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/bnp_presidential_candidate_mirza_fakhrul_islam_alamgir_final.png",
-      "snippet": "BNP presidential candidate Mirza Fakhrul Islam Alamgir says he wants to continue serving people and working for the development of his home district if elected president."
-    },
-    {
       "title": "Bangladesh, India business communities to form task forces to boost trade, investment",
       "link": "https://www.tbsnews.net/bangladesh/bangladesh-india-business-communities-form-task-forces-boost-trade-investment-1518681",
       "pubDate": "Tue, 18 Aug 2026 20:20:00 +0600",
@@ -232,26 +243,26 @@
       "snippet": "FBCCI Administrator Fazlul Hoque said Bangladesh could draw lessons from India's experience in attracting private and foreign investment in infrastructure."
     },
     {
+      "title": "Mirza Fakhrul vows to serve people even after becoming President",
+      "link": "https://www.tbsnews.net/bangladesh/mirza-fakhrul-vows-serve-people-even-after-becoming-president-1518691",
+      "pubDate": "Tue, 18 Aug 2026 20:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/bnp_presidential_candidate_mirza_fakhrul_islam_alamgir_final.png",
+      "snippet": "BNP presidential candidate Mirza Fakhrul Islam Alamgir says he wants to continue serving people and working for the development of his home district if elected president."
+    },
+    {
       "title": "Central Medical Stores Depot to get 14,000sqft pharma-grade warehouse",
       "link": "https://www.tbsnews.net/bangladesh/health/central-medical-stores-depot-get-14000sqft-pharma-grade-warehouse-1518671",
       "pubDate": "Tue, 18 Aug 2026 20:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/29/cmsd.jpg",
       "snippet": "The nearly one lakh-cubic-foot facility in Tejgaon is being developed with support from the government, UNOPS and the Global Fund to improve the storage of essential medicines and health supplies."
-    },
-    {
-      "title": "Hunt underway for all 'godfathers' behind drug trafficking: Coast Guard DG",
-      "link": "https://www.tbsnews.net/bangladesh/hunt-underway-all-godfathers-behind-drug-trafficking-coast-guard-dg-1518661",
-      "pubDate": "Tue, 18 Aug 2026 20:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/director_general_rear_admiral_md_ziaul_haq.jpg",
-      "snippet": "Coast Guard says 1.5 crore yaba pills seized in two years"
     },
     {
       "title": "Govt takes various schemes to ensure joyful learning: Milon",
@@ -749,5 +760,5 @@
       "snippet": "For the first time, Dhaka South City Corporation (DSCC) has conducted a 'Pre-Monsoon Aedes Mosquito Larva Survey' under its own management."
     }
   ],
-  "updatedAt": "2026-08-19T02:38:42.189Z"
+  "updatedAt": "2026-08-19T03:45:46.340Z"
 }
