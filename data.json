@@ -1,6 +1,50 @@
 {
   "news": [
     {
+      "title": "Fatal gas leak: Ferdous Steel fined Tk5 lakh for illegal vessel cutting without renewed clearance",
+      "link": "https://www.tbsnews.net/bangladesh/fatal-gas-leak-ferdous-steel-fined-tk5-lakh-illegal-vessel-cutting-without-renewed",
+      "pubDate": "Wed, 19 Aug 2026 14:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/ferdous_ship_yard.jpg",
+      "snippet": "Police have since filed an unnatural death (UD) case over the incident."
+    },
+    {
+      "title": "Can coastal Bangladesh turn salty wastewater into a new industry?",
+      "link": "https://www.tbsnews.net/thoughts/can-coastal-bangladesh-turn-salty-wastewater-new-industry-1519201",
+      "pubDate": "Wed, 19 Aug 2026 14:20:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/img_8019.png",
+      "snippet": "As RO plants multiply across coastal Bangladesh, the brine they leave behind keeps flowing into drains and canals. The question nobody is asking: could this waste become the foundation of a new industry?"
+    },
+    {
+      "title": "More walls, less safety: Rethinking how Dhaka protects itself",
+      "link": "https://www.tbsnews.net/thoughts/more-walls-less-safety-rethinking-how-dhaka-protects-itself-1519191",
+      "pubDate": "Wed, 19 Aug 2026 14:10:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/old_dhaka_0.png",
+      "snippet": "Dhaka’s obsession with walls, gates and guards may be overlooking a more fundamental ingredient of safety: neighbourhoods where people know one another, recognise what is out of place and feel they have a stake in what happens around them"
+    },
+    {
+      "title": "Lawyer appeals HC dismissal of writ challenging Article 70, presidential election schedule",
+      "link": "https://www.tbsnews.net/bangladesh/lawyer-appeals-hc-dismissal-writ-challenging-article-70-presidential-election-schedule",
+      "pubDate": "Wed, 19 Aug 2026 13:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/19/supreme_court_0.png",
+      "snippet": "Akand filed the writ petition on Thursday (13 August) and represented himself during the hearing."
+    },
+    {
       "title": "Writ seeks cancellation of Hannan Masud's MP seat over affidavit info concealment",
       "link": "https://www.tbsnews.net/bangladesh/court/writ-seeks-cancellation-hannan-masuds-mp-seat-over-affidavit-info-concealment",
       "pubDate": "Wed, 19 Aug 2026 13:25:00 +0600",
@@ -224,23 +268,12 @@
       "title": "Indian businesses express investment interests in consumer goods",
       "link": "https://www.tbsnews.net/bangladesh/indian-businesses-express-investment-interests-consumer-goods-1518851",
       "pubDate": "Wed, 19 Aug 2026 01:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Industry",
+      "color": "#f57c00",
+      "bg": "#fff3e0",
+      "icon": "🏭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/ministry_program_.jpg",
       "snippet": "Business communities of the two countries agree to form task forces to boost trade, investment"
-    },
-    {
-      "title": "DMCH ENT department head attacked in Dhaka, 1 arrested",
-      "link": "https://www.tbsnews.net/bangladesh/crime/dmch-ent-department-head-attacked-shantinagar-1-arrested-1518841",
-      "pubDate": "Wed, 19 Aug 2026 00:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/06/1660100471-four-arrested-with-hoarded-diesel-stock-l.jpg",
-      "snippet": "The doctor was attacked by 4-5 men while returning home after seeing patients at his private chamber, police say."
     },
     {
       "title": "BB directs banks to open accounts for foreign workers",
@@ -736,18 +769,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/11/measles_tbs.jpeg",
       "snippet": "Since 15 March, a total of 1,24,457 patients with suspected measles have been hospitalised across the country, of whom 1,19,939 have recovered, according to DGHS data."
-    },
-    {
-      "title": "IUB launches award to turn academic innovations into real-world solutions",
-      "link": "https://www.tbsnews.net/bangladesh/education/iub-launches-award-turn-academic-innovations-real-world-solutions-1516221",
-      "pubDate": "Sun, 16 Aug 2026 14:05:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/i2i_iub_media_16x9.png",
-      "snippet": ""
     }
   ],
-  "updatedAt": "2026-08-19T07:46:00.376Z"
+  "updatedAt": "2026-08-19T08:37:02.252Z"
 }
