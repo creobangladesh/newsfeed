@@ -1,6 +1,50 @@
 {
   "news": [
     {
+      "title": "I dream of a happy, prosperous and welfare-oriented Bangladesh: Fakhrul",
+      "link": "https://www.tbsnews.net/bangladesh/i-dream-happy-prosperous-and-welfare-oriented-bangladesh-fakhrul-1520111",
+      "pubDate": "Thu, 20 Aug 2026 12:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/15/fakhrul.png",
+      "snippet": "“I want to see the Bangladesh that I expect and have long dreamed of — a happy, prosperous and welfare-oriented state,” he said."
+    },
+    {
+      "title": "Free oral cholera vaccination campaign to begin on 22 August",
+      "link": "https://www.tbsnews.net/bangladesh/health/free-oral-cholera-vaccination-campaign-begin-22-august-1520091",
+      "pubDate": "Thu, 20 Aug 2026 12:20:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/775566955_1099935186051846_8562667495859608671_n.jpg",
+      "snippet": "Everyone aged one year and above, except pregnant women, will be eligible to receive the two doses free of charge. The second dose must be taken at least 14 days after the first."
+    },
+    {
+      "title": "Freedom fighter dies at Sandwip jetty after speedboat service suspension leaves him waiting for transport",
+      "link": "https://www.tbsnews.net/bangladesh/freedom-fighter-dies-jetty-after-speedboat-service-suspension-leaves-him-without",
+      "pubDate": "Thu, 20 Aug 2026 12:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/untitled_design_2.jpg",
+      "snippet": "The family alleged that they waited at the jetty for a long time and repeatedly requested arrangements for an urgent crossing, informing authorities of his need for immediate medical treatment. However, no speedboat was available, and Siraj Uddin eve..."
+    },
+    {
+      "title": "Indian scientists develop 'smart' cancer drug targeting tumour cells",
+      "link": "https://www.tbsnews.net/bangladesh/health/indian-scientists-develop-smart-cancer-drug-targeting-tumour-cells-1520071",
+      "pubDate": "Thu, 20 Aug 2026 12:10:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/08/cancer_medications.jpeg",
+      "snippet": "Cancer treatment often damages healthy cells along with cancer cells, causing significant adverse effects and side effects"
+    },
+    {
       "title": "14 Myanmar nationals detained for illegal entry into Bangladesh",
       "link": "https://www.tbsnews.net/bangladesh/14-myanmar-nationals-detained-illegal-entry-bangladesh-1519991",
       "pubDate": "Thu, 20 Aug 2026 10:20:00 +0600",
@@ -67,7 +111,7 @@
       "snippet": "The project includes a 15-storey academic building, an 800-seat student hostel, residential quarters and other facilities."
     },
     {
-      "title": "Presidential election today, oath tomorrow",
+      "title": "Presidential election set for 2-5pm today, oath tomorrow",
       "link": "https://www.tbsnews.net/bangladesh/presidential-election-today-oath-tomorrow-1519901",
       "pubDate": "Thu, 20 Aug 2026 00:05:00 +0600",
       "category": "Bangladesh",
@@ -208,28 +252,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/09/27/vvc4dizfckghaglp4k3yxrc5xkbwnr0ybxlcttxp.jpg",
       "snippet": ""
-    },
-    {
-      "title": "Present govt not minimally liable for power crisis: Zahed",
-      "link": "https://www.tbsnews.net/bangladesh/present-govt-not-minimally-liable-power-crisis-zahed-1519811",
-      "pubDate": "Wed, 19 Aug 2026 21:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/pm_adviser_zahed.jpg",
-      "snippet": "Zahed says the performance of every ministry will be assessed every six months."
-    },
-    {
-      "title": "Around 66% Bangladeshis satisfied with PM, 54% with govt: Doppler poll",
-      "link": "https://www.tbsnews.net/bangladesh/around-66-satisfied-pm-54-government-doppler-poll-1519806",
-      "pubDate": "Wed, 19 Aug 2026 20:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/tarique_rahman.jpg",
-      "snippet": "Electricity, fuel and prices of essential goods emerge as the country's biggest public concerns, while fewer than half say Bangladesh is moving in the right direction."
     },
     {
       "title": "BFIU orders banks to report linked accounts when any account is frozen",
@@ -815,5 +837,5 @@
       "snippet": "The new target is Tk21,000 crore higher than the Tk39,000 crore set for the previous fiscal year."
     }
   ],
-  "updatedAt": "2026-08-20T05:30:28.138Z"
+  "updatedAt": "2026-08-20T06:44:08.762Z"
 }
