@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "Govt issues EPR guidelines on plastic waste management",
+      "link": "https://www.tbsnews.net/bangladesh/environment/govt-issues-epr-guidelines-plastic-waste-management-1520431",
+      "pubDate": "Thu, 20 Aug 2026 17:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/12/01/microplastic-the-invisible-enemy_1.jpg",
+      "snippet": "The framework will gradually bring manufacturers, importers and brand owners under mandatory waste collection and recycling targets, with non-compliance putting their registration at risk."
+    },
+    {
+      "title": "RAB dissolution will not halt ongoing cases against personnel: Official",
+      "link": "https://www.tbsnews.net/bangladesh/rab-dissolution-will-not-halt-ongoing-cases-against-personnel-official-1520436",
+      "pubDate": "Thu, 20 Aug 2026 17:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/uploads/2026/06/14/rab.png",
+      "snippet": "RAB recovered 104 firearms and arrested 60 people nationwide over the past month."
+    },
+    {
+      "title": "Off-season watermelon cultivation gains popularity among Khulna farmers ",
+      "link": "https://www.tbsnews.net/agriculture/season-watermelon-cultivation-gains-popularity-among-khulna-farmers-1520416",
+      "pubDate": "Thu, 20 Aug 2026 17:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/05/08/watermelon-3.jpg",
+      "snippet": ""
+    },
+    {
       "title": "Rajshahi gets new divisional commissioner, 3 districts get new DCs",
       "link": "https://www.tbsnews.net/bangladesh/law-order/rajshahi-gets-new-divisional-commissioner-3-districts-get-new-dcs-1520406",
       "pubDate": "Thu, 20 Aug 2026 16:50:00 +0600",
@@ -10,6 +43,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/govt_10.png",
       "snippet": "The Ministry of Public Administration issued separate notifications in this regard last night."
+    },
+    {
+      "title": "Youth skill development should be driven by national interest: Swapon ",
+      "link": "https://www.tbsnews.net/bangladesh/youth-skill-development-should-be-driven-national-interest-swapon-1520411",
+      "pubDate": "Thu, 20 Aug 2026 16:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/zahir_uddin_swapan.png",
+      "snippet": "Highlighting emerging technologies and changing demands in the international market, the minister said Bangladesh cannot rely solely on conventional jobs to meet the needs of its large population within its limited geographical area."
     },
     {
       "title": "Court sets 27 Sept for further probe report in Hadi murder case",
@@ -75,7 +119,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/12/salahuddin_ahmed.jpg",
-      "snippet": "Salahuddin Ahmed says next presidential election will be held under amended provision."
+      "snippet": "Salahuddin Ahmed says the next presidential election will be held under the amended provision."
     },
     {
       "title": "Caution needed in AI adoption over data privacy and consent: Ismail Zabiullah",
@@ -188,48 +232,15 @@
       "snippet": "RAB-2 Commanding Officer Additional DIG Naimul Hasan told The Business Standard that Chua Selim had been staying at the hideout while evading law enforcement agencies."
     },
     {
-      "title": "Presidential polls: Voting underway after PM casts ballot alongside Fakhrul",
-      "link": "https://www.tbsnews.net/bangladesh/voting-begins-presidential-election-after-35-years-1520196",
-      "pubDate": "Thu, 20 Aug 2026 13:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/8706766.jpg",
-      "snippet": "Voting is scheduled to end at 5pm; a total of 349 MPs are eligible voters."
-    },
-    {
       "title": "Five-year energy roadmap aims to cut capacity-payment burden, tackle gas crunch, and import costs",
       "link": "https://www.tbsnews.net/economy/five-year-energy-roadmap-aims-cut-capacity-payment-burden-tackle-gas-crunch-and-import-costs",
       "pubDate": "Thu, 20 Aug 2026 13:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/chatgpt-image-aug-20-2026-01_52_27-pm.jpg",
       "snippet": "Framework sets 10,000MW solar target, proposes new FSRUs, greater use of domestic gas and coal, and major grid upgrades."
-    },
-    {
-      "title": "India stays Bangladesh's top export market in South Asia in FY26",
-      "link": "https://www.tbsnews.net/infograph/numbers/india-stays-bangladeshs-top-export-market-south-asia-fy26-1520181",
-      "pubDate": "Thu, 20 Aug 2026 13:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/export-bangladesh-.png",
-      "snippet": ""
-    },
-    {
-      "title": "Chattogram Civil Surgeon Jahangir Alam made OSD",
-      "link": "https://www.tbsnews.net/bangladesh/chattogram-civil-surgeon-jahangir-alam-made-osd-1520156",
-      "pubDate": "Thu, 20 Aug 2026 13:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/untitled_design_4.jpg",
-      "snippet": "According to the notification, the transferred officials must join their new workplaces by 24 August. If they fail to do so, they will be considered immediately released from their current posts, or stand released, from 25 August."
     },
     {
       "title": "It's the economy, stupid",
@@ -815,5 +826,5 @@
       "snippet": "The education ministry says reviewing such a huge volume of answer scripts is impractical and could delay college admissions"
     }
   ],
-  "updatedAt": "2026-08-20T11:00:16.852Z"
+  "updatedAt": "2026-08-20T11:35:17.916Z"
 }
