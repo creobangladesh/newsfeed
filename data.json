@@ -1,7 +1,51 @@
 {
   "news": [
     {
-      "title": "Opposition leader Shafiqur congratulates Fakhrul on becoming president",
+      "title": "Six MPs skip presidential election, including 3 BNP lawmakers",
+      "link": "https://www.tbsnews.net/bangladesh/six-mps-skip-presidential-election-including-3-bnp-lawmakers-1520616",
+      "pubDate": "Thu, 20 Aug 2026 19:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/6_mps.jpg",
+      "snippet": "Rumeen Farhana calls the presidential election “meaningless” and “a farce”, says outcome was never in doubt."
+    },
+    {
+      "title": "China, UK congratulate Mirza Fakhrul on election as Bangladesh president",
+      "link": "https://www.tbsnews.net/bangladesh/china-uk-congratulate-mirza-fakhrul-election-bangladesh-president-1520591",
+      "pubDate": "Thu, 20 Aug 2026 19:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/pm_fakhrul.jpg",
+      "snippet": "\"Warm congratulations to Mirza Fakharul Islam Alamgir on his election as President of the People's Republic of Bangladesh,\" said the Chinese Embassy in Dhaka today (20 August)."
+    },
+    {
+      "title": "Govt's failures outweigh successes in six months: Khelafat Majlis",
+      "link": "https://www.tbsnews.net/bangladesh/politics/govts-failures-outweigh-successes-six-months-khelafat-majlis-1520561",
+      "pubDate": "Thu, 20 Aug 2026 19:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/780443235_1506032371211053_2534455139657297293_n.jpg",
+      "snippet": "The party says high inflation, energy shortages and deteriorating law and order have worsened public suffering."
+    },
+    {
+      "title": "Rohingya crisis deepening economic, environmental strain on Bangladesh: Army Chief",
+      "link": "https://www.tbsnews.net/bangladesh/rohingya-crisis-deepening-economic-environmental-strain-bangladesh-army-chief-1520551",
+      "pubDate": "Thu, 20 Aug 2026 18:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/02/25/oe464snkw5imvpvimqipb2qx3q-ezgif.com-webp-to-jpg-converter.jpg",
+      "snippet": "The Army chief also pointed to border tensions, the Chattogram Hill Tracts insurgency and energy shortages among the country’s major challenges, calling for coordinated efforts to address them."
+    },
+    {
+      "title": "Opposition leader Shafiqur congratulates Fakhrul on becoming president-elect",
       "link": "https://www.tbsnews.net/bangladesh/opposition-leader-shafiqur-congratulates-fakhrul-becoming-president-1520536",
       "pubDate": "Thu, 20 Aug 2026 18:40:00 +0600",
       "category": "Bangladesh",
@@ -89,17 +133,6 @@
       "snippet": "The event features fruit exhibitions from different countries, product sales, international business networking and opportunities to explore new markets."
     },
     {
-      "title": "SSC re-scrutiny results likely on 10 Sept",
-      "link": "https://www.tbsnews.net/bangladesh/education/ssc-re-scrutiny-results-likely-10-sept-1520481",
-      "pubDate": "Thu, 20 Aug 2026 17:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/769838765_1346887494308459_5713235104749675688_n.jpg",
-      "snippet": "The tentative date has been included in the draft Class XI admission policy, but the final schedule depends on the education ministry’s approval."
-    },
-    {
       "title": "Seven-year-old waits for bodies of parents, little brother after Kolkata hotel fire",
       "link": "https://www.tbsnews.net/bangladesh/seven-year-old-waits-bodies-parents-little-brother-after-kolkata-hotel-fire-1520486",
       "pubDate": "Thu, 20 Aug 2026 17:50:00 +0600",
@@ -109,6 +142,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/774993348_2147075759524984_1919884548038478019_n.jpg",
       "snippet": ""
+    },
+    {
+      "title": "SSC re-scrutiny results likely on 10 Sep, 400,000 await outcome",
+      "link": "https://www.tbsnews.net/bangladesh/education/ssc-re-scrutiny-results-likely-10-sept-1520481",
+      "pubDate": "Thu, 20 Aug 2026 17:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/769838765_1346887494308459_5713235104749675688_n.jpg",
+      "snippet": "The tentative date has been included in the draft Class XI admission policy, but the final schedule depends on the education ministry’s approval."
     },
     {
       "title": "One dengue patient dies, 750 hospitalised in 24 hrs",
@@ -166,17 +210,6 @@
       "snippet": ""
     },
     {
-      "title": "Youth skill development should be driven by national interest: Swapon ",
-      "link": "https://www.tbsnews.net/bangladesh/youth-skill-development-should-be-driven-national-interest-swapon-1520411",
-      "pubDate": "Thu, 20 Aug 2026 16:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/zahir_uddin_swapan.png",
-      "snippet": "Highlighting emerging technologies and changing demands in the international market, the minister said Bangladesh cannot rely solely on conventional jobs to meet the needs of its large population within its limited geographical area."
-    },
-    {
       "title": "Rajshahi gets new divisional commissioner, 3 districts get new DCs",
       "link": "https://www.tbsnews.net/bangladesh/law-order/rajshahi-gets-new-divisional-commissioner-3-districts-get-new-dcs-1520406",
       "pubDate": "Thu, 20 Aug 2026 16:50:00 +0600",
@@ -186,6 +219,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/govt_10.png",
       "snippet": "The Ministry of Public Administration issued separate notifications in this regard last night."
+    },
+    {
+      "title": "Youth skill development should be driven by national interest: Swapon ",
+      "link": "https://www.tbsnews.net/bangladesh/youth-skill-development-should-be-driven-national-interest-swapon-1520411",
+      "pubDate": "Thu, 20 Aug 2026 16:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/zahir_uddin_swapan.png",
+      "snippet": "Highlighting emerging technologies and changing demands in the international market, the minister said Bangladesh cannot rely solely on conventional jobs to meet the needs of its large population within its limited geographical area."
     },
     {
       "title": "Court sets 27 Sept for further probe report in Hadi murder case",
@@ -210,17 +254,6 @@
       "snippet": "Nine people including seven Bangladeshis were killed in a devastating fire that broke out at a hotel near New Market in Kolkata, West Bengal yesterday."
     },
     {
-      "title": "PM's India visit after achieving 'mutual trust': Humaiun",
-      "link": "https://www.tbsnews.net/bangladesh/pms-india-visit-after-achieving-mutual-trust-humaiun-1520346",
-      "pubDate": "Thu, 20 Aug 2026 16:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/09/humayun_kabir.jpg",
-      "snippet": "The adviser says Dhaka will prioritise national interests and seek progress on key bilateral issues before considering a high-level visit to New Delhi."
-    },
-    {
       "title": "Measles: Death toll reaches 925 as 3 more children die",
       "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-925-3-more-children-die-1520351",
       "pubDate": "Thu, 20 Aug 2026 16:30:00 +0600",
@@ -230,39 +263,6 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/04/measles.jpg",
       "snippet": "A total of 1,004 new suspected measles cases were reported during the aforementioned 24-hour period."
-    },
-    {
-      "title": "Ctg city corporation launches month-long dengue control drive in 8 high-risk wards",
-      "link": "https://www.tbsnews.net/bangladesh/ctg-city-corporation-launches-month-long-dengue-control-drive-8-high-risk-wards-1520331",
-      "pubDate": "Thu, 20 Aug 2026 16:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/dengue_control_drive_ccc.jpg",
-      "snippet": "Ten magistrates are assigned to conduct regular drives; breeding sites are to be targeted."
-    },
-    {
-      "title": "Constitution's Article 70 will be amended: Home minister",
-      "link": "https://www.tbsnews.net/bangladesh/constitutions-article-70-will-be-amended-home-minister-1520336",
-      "pubDate": "Thu, 20 Aug 2026 16:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/12/salahuddin_ahmed.jpg",
-      "snippet": "Salahuddin Ahmed says the next presidential election will be held under the amended provision."
-    },
-    {
-      "title": "Caution needed in AI adoption over data privacy and consent: Ismail Zabiullah",
-      "link": "https://www.tbsnews.net/bangladesh/caution-needed-ai-adoption-over-data-privacy-and-consent-ismail-zabiullah-1520296",
-      "pubDate": "Thu, 20 Aug 2026 15:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/image-403446-1783439601.jpg",
-      "snippet": "BTRC Chairman Major General (retd) Md Emdad Ul Bari called for connected national systems, clear rules for user data consent, and honest AI buying practices."
     },
     {
       "title": "14 universities, institutions sign addenda with ICAB to widen Chartered Accountancy opportunities",
@@ -848,5 +848,5 @@
       "snippet": "Sukuk allocation rates for investors get revised."
     }
   ],
-  "updatedAt": "2026-08-20T12:48:42.773Z"
+  "updatedAt": "2026-08-20T13:45:37.067Z"
 }
