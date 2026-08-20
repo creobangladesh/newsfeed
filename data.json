@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Personalised cancer vaccine shows promise in preventing melanoma recurrence",
+      "link": "https://www.tbsnews.net/bangladesh/health/personalised-cancer-vaccine-shows-promise-preventing-melanoma-recurrence-1519941",
+      "pubDate": "Thu, 20 Aug 2026 08:00:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/17/photo-output.jpeg",
+      "snippet": "The vaccine is designed for each patient"
+    },
+    {
+      "title": "Sugar rises Tk200 per maund in Khatunganj amid supply squeeze",
+      "link": "https://www.tbsnews.net/economy/sugar-rises-tk200-maund-khatunganj-amid-supply-squeeze-1519931",
+      "pubDate": "Thu, 20 Aug 2026 07:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/02/19/sugarmarket.png",
+      "snippet": "Sugar now sells at Tk3,800 per maund in Khatunganj"
+    },
+    {
       "title": "Tk1,154cr project to add five new buildings at Dhaka Medical College",
       "link": "https://www.tbsnews.net/bangladesh/health/tk1154cr-project-add-five-new-buildings-dhaka-medical-college-1519906",
       "pubDate": "Thu, 20 Aug 2026 00:15:00 +0600",
@@ -56,28 +78,6 @@
       "snippet": "Smoke-filled corridors and poor visibility forced guests to find their own way out as the blaze spread through the building."
     },
     {
-      "title": "DSE names 138 marginable stocks as new lending rules take effect",
-      "link": "https://www.tbsnews.net/economy/stocks/dse-names-138-marginable-stocks-new-lending-rules-take-effect-1519841",
-      "pubDate": "Wed, 19 Aug 2026 21:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/07/dse.jpg",
-      "snippet": "Under revised rules, A- and B-category companies are eligible for margin loans if their P/E ratios remain within 40."
-    },
-    {
-      "title": "Gas allocation keeps public-private KAFCO running as state-owned CUFL stays shut",
-      "link": "https://www.tbsnews.net/bangladesh/energy/gas-allocation-keeps-public-private-kafco-running-state-owned-cufl-stays-shut",
-      "pubDate": "Wed, 19 Aug 2026 21:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/07/30/kafco.png",
-      "snippet": "CUFL is losing an average daily loss of Tk2cr"
-    },
-    {
       "title": "'Pray for me': Fakhrul breaks down in tears as he leaves parliament for Bangabhaban",
       "link": "https://www.tbsnews.net/bangladesh/pray-me-fakhrul-breaks-down-tears-he-leaves-parliament-bangabhaban-1519871",
       "pubDate": "Wed, 19 Aug 2026 21:45:00 +0600",
@@ -100,7 +100,29 @@
       "snippet": "Speakers say the proposed laws could undermine accountability if law enforcement agencies are allowed to investigate allegations against themselves"
     },
     {
-      "title": "DSE loses Tk7,300cr in six consecutive sessions as turnover hits 3-month low",
+      "title": "DSE names 138 marginable stocks as new lending rules take effect",
+      "link": "https://www.tbsnews.net/economy/stocks/dse-names-138-marginable-stocks-new-lending-rules-take-effect-1519841",
+      "pubDate": "Wed, 19 Aug 2026 21:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/07/dse.jpg",
+      "snippet": "Under revised rules, A- and B-category companies are eligible for margin loans if their P/E ratios remain within 40."
+    },
+    {
+      "title": "Gas allocation keeps public-private KAFCO running as state-owned CUFL stays shut",
+      "link": "https://www.tbsnews.net/bangladesh/energy/gas-allocation-keeps-public-private-kafco-running-state-owned-cufl-stays-shut",
+      "pubDate": "Wed, 19 Aug 2026 21:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/07/30/kafco.png",
+      "snippet": "CUFL is losing an average daily loss of Tk2cr"
+    },
+    {
+      "title": "Market loses Tk7,300cr in six sessions  as turnover hits 3-month low",
       "link": "https://www.tbsnews.net/economy/stocks/dse-loses-tk7300cr-six-consecutive-sessions-turnover-hits-3-month-low-1519836",
       "pubDate": "Wed, 19 Aug 2026 21:40:00 +0600",
       "category": "Bangladesh",
@@ -221,17 +243,6 @@
       "snippet": "The five-year financing programme will support micro-enterprises through loans, business-cluster development and skills training, with the fund to operate on a revolving basis to sustain financing at the grassroots."
     },
     {
-      "title": "Bangladesh envoy proposes annual cultural, creative exchange programme with Nepal",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-envoy-proposes-annual-cultural-creative-exchange-programme-nepal-1519776",
-      "pubDate": "Wed, 19 Aug 2026 20:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/bangladesh_ambassador_in_nepal.jpeg",
-      "snippet": "The exhibition was jointly organised by Nepal’s National Forum of Photo Journalists (NFPJ) and the Bangladesh Photo Journalists Association (BPJA)."
-    },
-    {
       "title": "Cenbank waives default rule to let SS Power open $3.2m LC",
       "link": "https://www.tbsnews.net/economy/banking/bb-allows-rupali-bank-release-32m-loan-lc-opening-s-alam-power-plant-1519771",
       "pubDate": "Wed, 19 Aug 2026 20:10:00 +0600",
@@ -265,7 +276,7 @@
       "snippet": "The ADB-backed initiative will create a unified investor database while identifying district-specific investment opportunities and barriers."
     },
     {
-      "title": "IFC lends $30.7m to Popular Pharmaceuticals",
+      "title": "Popular Pharma taps $30.7m IFC loan to strengthen API supply, expand hormone business",
       "link": "https://www.tbsnews.net/bangladesh/health/ifc-lends-307m-popular-pharmaceuticals-1519701",
       "pubDate": "Wed, 19 Aug 2026 19:30:00 +0600",
       "category": "Health",
@@ -694,17 +705,6 @@
       "snippet": "The factory can produce around 500,000 pieces of trousers, blazers and other men’s garments a month, or about five million pieces a year."
     },
     {
-      "title": "Macroeconomic stability returns, recovery yet to gain pace",
-      "link": "https://www.tbsnews.net/economy/macroeconomic-stability-returns-recovery-yet-gain-pace-1517971",
-      "pubDate": "Tue, 18 Aug 2026 10:30:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/collage_zahid_fahmida_azam_razzaque_0.jpg",
-      "snippet": "BNP govt inherited an economy that had stopped deteriorating rapidly but remained deeply fragile, and six months later some external indicators have improved while the real economy continues to struggle."
-    },
-    {
       "title": "38 banks seek Tk28,000cr in stimulus funds for struggling businesses",
       "link": "https://www.tbsnews.net/economy/banking/38-banks-seek-tk28000cr-stimulus-funds-struggling-businesses-1517961",
       "pubDate": "Tue, 18 Aug 2026 10:00:00 +0600",
@@ -815,5 +815,5 @@
       "snippet": "One such case is a 23-year-old dispute between Uttara Bank and Sonali Bank that began in 2002 over 57 post-dated cheques issued by Chattogram Tobacco Company."
     }
   ],
-  "updatedAt": "2026-08-20T01:12:40.997Z"
+  "updatedAt": "2026-08-20T02:40:41.761Z"
 }
