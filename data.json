@@ -1,6 +1,94 @@
 {
   "news": [
     {
+      "title": "Bangladesh to seek higher water share in renewed Farakka deal: State minister",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-seek-higher-water-share-renewed-farakka-deal-state-minister-1520851",
+      "pubDate": "Thu, 20 Aug 2026 22:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/02/16/teesta_water.gif",
+      "snippet": "The existing 30-year agreement expires in December."
+    },
+    {
+      "title": "Four children drown in Narayanganj pond",
+      "link": "https://www.tbsnews.net/bangladesh/four-children-drown-narayanganj-pond-1520846",
+      "pubDate": "Thu, 20 Aug 2026 22:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/07/25/drowned_death_3x2_0.jpg",
+      "snippet": "The children went missing from their homes in the afternoon. Their families began searching for them and later found their shoes and sandals beside a pond."
+    },
+    {
+      "title": "World Mosquito Day: MSF rallies in Ctg to raise dengue awareness ",
+      "link": "https://www.tbsnews.net/bangladesh/world-mosquito-day-msf-rallies-ctg-raise-dengue-awareness-1520826",
+      "pubDate": "Thu, 20 Aug 2026 21:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/mosquito_day.png",
+      "snippet": "The organisation distributed practical advice and demonstrated source reduction techniques to residents to help lower the risk of infection."
+    },
+    {
+      "title": "11-party's Dhaka-Ctg long march to implement referendum mandate on 5 Sep ",
+      "link": "https://www.tbsnews.net/bangladesh/politics/11-party-alliance-begin-dhaka-ctg-long-march-shapla-chattar-5-sep-1520831",
+      "pubDate": "Thu, 20 Aug 2026 21:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/jamaat_shapla_chattar.jpg",
+      "snippet": "The procession will hold roadside rallies at Madanpur in Narayanganj, Paduar Bazar Bishwaroad in Cumilla and Mirsarai in Chattogram before reaching Chattogram."
+    },
+    {
+      "title": "Sitakunda shipyard toxic gas leak: Death toll rises to 10 as another worker dies",
+      "link": "https://www.tbsnews.net/bangladesh/sitakunda-shipyard-toxic-gas-leak-death-toll-rises-10-another-worker-dies-1520836",
+      "pubDate": "Thu, 20 Aug 2026 21:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/p1_sitakunda_coc02603.jpg.jpeg",
+      "snippet": "Nine workers were killed and six others injured in the 14 August accident while dismantling an LNG tanker at the yard."
+    },
+    {
+      "title": "Chattogram 'Build Expo' begins, focuses on sustainable urban development",
+      "link": "https://www.tbsnews.net/bangladesh/chattogram-build-expo-begins-focuses-sustainable-urban-development-1520806",
+      "pubDate": "Thu, 20 Aug 2026 21:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/img-20260820-wa0123.jpg",
+      "snippet": "The three-day expo features 30 companies from Dhaka and Chattogram showcasing products, services and technologies."
+    },
+    {
+      "title": "ASK launches initiative at AIUB to prevent sexual, gender-based violence",
+      "link": "https://www.tbsnews.net/bangladesh/ask-launches-initiative-aiub-prevent-sexual-gender-based-violence-1520791",
+      "pubDate": "Thu, 20 Aug 2026 21:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/aiub_meeting.jpeg",
+      "snippet": "The initiative is part of a project being implemented at five selected universities in Bangladesh with support from UN Women and funding from the European Union."
+    },
+    {
+      "title": "7 to die, 7 get life in prison for Jamalpur double murder",
+      "link": "https://www.tbsnews.net/bangladesh/crime/7-die-7-get-life-prison-jamalpur-double-murder-1520781",
+      "pubDate": "Thu, 20 Aug 2026 21:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/court.png",
+      "snippet": "According to the prosecution, Moher Ali, 19, and his nephew Swapon Mia, 16, were taken from their home on May 16, 2016, on the pretext of attending a singing event in nearby Gazaria."
+    },
+    {
       "title": "BNP Chairman Tarique holds meeting with Pabna, Chapainawabganj leaders",
       "link": "https://www.tbsnews.net/bangladesh/bnp-chairman-tarique-holds-meeting-pabna-chapainawabganj-leaders-1520761",
       "pubDate": "Thu, 20 Aug 2026 21:25:00 +0600",
@@ -144,72 +232,6 @@
       "snippet": "The move replaces the interim councils formed in November 2024, with new chairmen and 14 members now set to oversee local development and administrative affairs in the three hill districts."
     },
     {
-      "title": "Financing hurdles threaten $188m RMG solar opportunity for Chinese FDI: CPD ",
-      "link": "https://www.tbsnews.net/bangladesh/energy/financing-hurdles-threaten-188m-rmg-solar-opportunity-chinese-fdi-cpd-1520651",
-      "pubDate": "Thu, 20 Aug 2026 20:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/02/03/rooftop_janata_jute_mills_16.9.jpg",
-      "snippet": "The study found 1,768MWp of rooftop solar potential across 3,320 factories, but only 509 would be investment-ready at a blended financing rate of 9.8%, with the number falling to zero at commercial rates of 10.5%."
-    },
-    {
-      "title": "Six MPs skip presidential election, including 3 BNP lawmakers",
-      "link": "https://www.tbsnews.net/bangladesh/six-mps-skip-presidential-election-including-3-bnp-lawmakers-1520616",
-      "pubDate": "Thu, 20 Aug 2026 19:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/6_mps.jpg",
-      "snippet": "Rumeen Farhana calls the presidential election “meaningless” and “a farce”, says outcome was never in doubt."
-    },
-    {
-      "title": "China, UK congratulate Mirza Fakhrul on election as Bangladesh president",
-      "link": "https://www.tbsnews.net/bangladesh/china-uk-congratulate-mirza-fakhrul-election-bangladesh-president-1520591",
-      "pubDate": "Thu, 20 Aug 2026 19:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/pm_fakhrul.jpg",
-      "snippet": "\"Warm congratulations to Mirza Fakharul Islam Alamgir on his election as President of the People's Republic of Bangladesh,\" said the Chinese Embassy in Dhaka today (20 August)."
-    },
-    {
-      "title": "Govt's failures outweigh successes in six months: Khelafat Majlis",
-      "link": "https://www.tbsnews.net/bangladesh/politics/govts-failures-outweigh-successes-six-months-khelafat-majlis-1520561",
-      "pubDate": "Thu, 20 Aug 2026 19:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/780443235_1506032371211053_2534455139657297293_n.jpg",
-      "snippet": "The party says high inflation, energy shortages and deteriorating law and order have worsened public suffering."
-    },
-    {
-      "title": "Rohingya crisis deepening economic, environmental strain on Bangladesh: Army chief",
-      "link": "https://www.tbsnews.net/bangladesh/rohingya-crisis-deepening-economic-environmental-strain-bangladesh-army-chief-1520551",
-      "pubDate": "Thu, 20 Aug 2026 18:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/02/25/oe464snkw5imvpvimqipb2qx3q-ezgif.com-webp-to-jpg-converter.jpg",
-      "snippet": "The Army chief also pointed to border tensions, the Chattogram Hill Tracts insurgency and energy shortages among the country’s major challenges, calling for coordinated efforts to address them."
-    },
-    {
-      "title": "Opposition leader Shafiqur congratulates Fakhrul on becoming president-elect",
-      "link": "https://www.tbsnews.net/bangladesh/opposition-leader-shafiqur-congratulates-fakhrul-becoming-president-1520536",
-      "pubDate": "Thu, 20 Aug 2026 18:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/shafiqur_fakhrul.jpg",
-      "snippet": "The BNP candidate secured 255 votes, while his rival, Colonel Oli Ahmad, received 88 votes."
-    },
-    {
       "title": " A Culture of Change: From the prime minister to every citizen ",
       "link": "https://www.tbsnews.net/thoughts/culture-change-prime-minister-every-citizen-1520531",
       "pubDate": "Thu, 20 Aug 2026 18:30:00 +0600",
@@ -221,17 +243,6 @@
       "snippet": "After years of democratic struggle, Bangladesh has entered a new political chapter, but lasting change will depend on more than economic growth and infrastructure. Building a culture of honesty, accountability, discipline, respect for the law and res..."
     },
     {
-      "title": "BNP makes Ruhul Kabir Rizvi acting secretary general",
-      "link": "https://www.tbsnews.net/bangladesh/politics/bnp-makes-ruhul-kabir-rizvi-acting-secretary-general-1520526",
-      "pubDate": "Thu, 20 Aug 2026 18:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/23/ruhul_kabir_rizvi.png",
-      "snippet": "The senior politician’s appointment takes effect immediately."
-    },
-    {
       "title": "Why capability must sit at the heart of the green transition",
       "link": "https://www.tbsnews.net/thoughts/why-capability-must-sit-heart-green-transition-1520516",
       "pubDate": "Thu, 20 Aug 2026 18:25:00 +0600",
@@ -241,17 +252,6 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/gre1_0_1.jpg",
       "snippet": "The green transition is not just a technology or investment challenge—it is a workforce challenge. As green jobs expand and traditional roles disappear, governments and organisations must prioritise skills mapping, reskilling and internal mobility to..."
-    },
-    {
-      "title": "Mirza Fakhrul: From left-leaning activist to Bangladesh President",
-      "link": "https://www.tbsnews.net/bangladesh/mirza-fakhrul-left-leaning-activist-bangladesh-president-1520506",
-      "pubDate": "Thu, 20 Aug 2026 18:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/bnp_presidential_candidate_mirza_fakhrul_islam_alamgir_final.png",
-      "snippet": "After more than five decades in politics, the veteran BNP leader now moves to the largely ceremonial presidency, ending his long tenure as the party’s secretary general."
     },
     {
       "title": "SSC re-scrutiny results likely on 10 Sep, 400,000 await outcome",
@@ -287,7 +287,7 @@
       "snippet": "A total of 1,004 new suspected measles cases were reported during the aforementioned 24-hour period."
     },
     {
-      "title": "14 universities sign deals with ICAB to expand pathways to CA profession",
+      "title": "14 univs sign deals with ICAB to expand pathways to CA profession",
       "link": "https://www.tbsnews.net/bangladesh/education/14-universities-institutions-sign-addenda-icab-widen-chartered-accountancy",
       "pubDate": "Thu, 20 Aug 2026 15:25:00 +0600",
       "category": "Education",
@@ -848,5 +848,5 @@
       "snippet": "Under the agreed terms, Bangladesh Bank will pay fund-providing banks a rate tied to its policy rate plus 50 basis points, up from the 9% originally proposed"
     }
   ],
-  "updatedAt": "2026-08-20T15:33:16.677Z"
+  "updatedAt": "2026-08-20T16:34:41.215Z"
 }
