@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "14 Myanmar nationals detained for illegal entry into Bangladesh",
+      "link": "https://www.tbsnews.net/bangladesh/14-myanmar-nationals-detained-illegal-entry-bangladesh-1519991",
+      "pubDate": "Thu, 20 Aug 2026 10:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/myanmar_nationals_detained_in_alikadam.jpg",
+      "snippet": "Initial questioning revealed that all 14 detainees are members of Myanmar's law enforcement agencies and had entered Bangladesh in civilian clothes without weapons, according to the press release."
+    },
+    {
+      "title": "Gas chokehold for industries",
+      "link": "https://www.tbsnews.net/bangladesh/energy/gas-crisis-chokes-industries-raises-fear-mass-layoffs-1519976",
+      "pubDate": "Thu, 20 Aug 2026 09:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/gas_crisis_narsingdi_7.jpg",
+      "snippet": "As gas supply drops below half of industrial demand, major textile and apparel hubs surrounding Dhaka face an unprecedented operational crisis, with rising alternative energy costs, buyer order cancellations, and widespread labour unrest fears mounti..."
+    },
+    {
+      "title": "Released on 12-hour parole, Dipu Moni bids farewell to late husband",
+      "link": "https://www.tbsnews.net/bangladesh/released-12-hour-parole-dipu-moni-bids-farewell-late-husband-1519966",
+      "pubDate": "Thu, 20 Aug 2026 09:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/9ca8335c-cfc2-4ceb-8291-1a56058a8d94.jpeg",
+      "snippet": "At around 6am today, she was released from Munshiganj District Jail for 12 hours following an application submitted by her daughter."
+    },
+    {
       "title": "Personalised cancer vaccine shows promise in preventing melanoma recurrence",
       "link": "https://www.tbsnews.net/bangladesh/health/personalised-cancer-vaccine-shows-promise-preventing-melanoma-recurrence-1519941",
       "pubDate": "Thu, 20 Aug 2026 08:00:00 +0600",
@@ -210,35 +243,13 @@
       "snippet": "The move will help the BFIU trace funds across multiple accounts linked to the same person or entity."
     },
     {
-      "title": "Qatar vows all-out support for Bangladesh's energy security",
-      "link": "https://www.tbsnews.net/foreign-policy/qatar-vows-all-out-support-bangladeshs-energy-security-1519781",
-      "pubDate": "Wed, 19 Aug 2026 20:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/777438020_1041124048632694_7019122536185758873_n.jpg",
-      "snippet": "Qatari PM Sheikh Mohammed bin Abdulrahman assures Foreign Minister Khalilur Rahman of all possible assistance amid current challenges."
-    },
-    {
-      "title": "Excelerate FSRU halts supply again as LNG runs out",
-      "link": "https://www.tbsnews.net/bangladesh/energy/excelerate-fsru-halts-supply-again-four-days-after-resumption-1519786",
-      "pubDate": "Wed, 19 Aug 2026 20:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/01/08/ee_3000_sts_transfer.png",
-      "snippet": "The terminal had resumed partial supply just four days ago after a 25-day disruption."
-    },
-    {
       "title": "BB, PKSF sign Tk5000cr deal to create 200,000 jobs",
       "link": "https://www.tbsnews.net/economy/bb-pksf-sign-tk5000cr-deal-create-200000-jobs-1519791",
       "pubDate": "Wed, 19 Aug 2026 20:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/aabd1e64-b222-485a-81ac-5532efeefd57.jpg",
       "snippet": "The five-year financing programme will support micro-enterprises through loans, business-cluster development and skills training, with the fund to operate on a revolving basis to sustain financing at the grassroots."
     },
@@ -802,18 +813,7 @@
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/22/paddy_field.png",
       "snippet": "The new target is Tk21,000 crore higher than the Tk39,000 crore set for the previous fiscal year."
-    },
-    {
-      "title": "Tk12,000cr stuck in interbank legal battles over LC guarantees",
-      "link": "https://www.tbsnews.net/economy/banking/tk12000cr-stuck-interbank-legal-battles-over-lc-guarantees-1516971",
-      "pubDate": "Mon, 17 Aug 2026 10:00:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/bank.png",
-      "snippet": "One such case is a 23-year-old dispute between Uttara Bank and Sonali Bank that began in 2002 over 57 post-dated cheques issued by Chattogram Tobacco Company."
     }
   ],
-  "updatedAt": "2026-08-20T03:45:56.017Z"
+  "updatedAt": "2026-08-20T04:36:53.684Z"
 }
