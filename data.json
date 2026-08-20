@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Cenbank introduces ADR policy to speed up loan recovery, ease court backlog",
+      "link": "https://www.tbsnews.net/economy/banking/cenbank-introduces-adr-policy-speed-loan-recovery-ease-court-backlog-1520871",
+      "pubDate": "Fri, 21 Aug 2026 00:00:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/11/15/alternative_dispute_resolution_adr.jpg",
+      "snippet": "The policy was issued under Section 45 of the Bank Company Act, 1991 and Section 41 of the Finance Company Act, 2023."
+    },
+    {
+      "title": "Bida, Beza, PPPA merge as Invest Bangladesh takes effect",
+      "link": "https://www.tbsnews.net/economy/bida-beza-pppa-merge-invest-bangladesh-takes-effect-1520866",
+      "pubDate": "Thu, 20 Aug 2026 23:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/investment_bangladesh.jpg",
+      "snippet": "New authority to streamline investor services, reduce barriers."
+    },
+    {
       "title": "Bangladesh to seek higher water share in renewed Farakka deal: State minister",
       "link": "https://www.tbsnews.net/bangladesh/bangladesh-seek-higher-water-share-renewed-farakka-deal-state-minister-1520851",
       "pubDate": "Thu, 20 Aug 2026 22:10:00 +0600",
@@ -23,6 +45,17 @@
       "snippet": "The children went missing from their homes in the afternoon. Their families began searching for them and later found their shoes and sandals beside a pond."
     },
     {
+      "title": "Sitakunda shipyard toxic gas leak: Death toll rises to 10 as another worker dies",
+      "link": "https://www.tbsnews.net/bangladesh/sitakunda-shipyard-toxic-gas-leak-death-toll-rises-10-another-worker-dies-1520836",
+      "pubDate": "Thu, 20 Aug 2026 21:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/p1_sitakunda_coc02603.jpg.jpeg",
+      "snippet": "Nine workers were killed and six others injured in the 14 August accident while dismantling an LNG tanker at the yard."
+    },
+    {
       "title": "World Mosquito Day: MSF rallies in Ctg to raise dengue awareness ",
       "link": "https://www.tbsnews.net/bangladesh/world-mosquito-day-msf-rallies-ctg-raise-dengue-awareness-1520826",
       "pubDate": "Thu, 20 Aug 2026 21:55:00 +0600",
@@ -43,17 +76,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/jamaat_shapla_chattar.jpg",
       "snippet": "The procession will hold roadside rallies at Madanpur in Narayanganj, Paduar Bazar Bishwaroad in Cumilla and Mirsarai in Chattogram before reaching Chattogram."
-    },
-    {
-      "title": "Sitakunda shipyard toxic gas leak: Death toll rises to 10 as another worker dies",
-      "link": "https://www.tbsnews.net/bangladesh/sitakunda-shipyard-toxic-gas-leak-death-toll-rises-10-another-worker-dies-1520836",
-      "pubDate": "Thu, 20 Aug 2026 21:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/p1_sitakunda_coc02603.jpg.jpeg",
-      "snippet": "Nine workers were killed and six others injured in the 14 August accident while dismantling an LNG tanker at the yard."
     },
     {
       "title": "Chattogram 'Build Expo' begins, focuses on sustainable urban development",
@@ -208,17 +230,6 @@
       "icon": "🏭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/rmg_meeting_tbs.jpg",
       "snippet": "Seema says LDC graduation, declining trade preferences, technological change and climate risks were pushing the sector into a critical transition."
-    },
-    {
-      "title": "Yunus congratulates Fakhrul on election as president",
-      "link": "https://www.tbsnews.net/bangladesh/yunus-congratulates-fakhrul-election-president-1520661",
-      "pubDate": "Thu, 20 Aug 2026 20:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/yunus_fakhrul.png",
-      "snippet": "Yunus said he believed Fakhrul, as an academic, seasoned politician and “man of principle”, would uphold the dignity of the country's highest constitutional office."
     },
     {
       "title": "New leadership takes charge of 3 CHT zilla parishads",
@@ -796,10 +807,10 @@
       "title": "HSBC launches 10th Export Excellence Awards, calls for diversification beyond RMG",
       "link": "https://www.tbsnews.net/economy/banking/hsbc-launches-10th-export-excellence-awards-calls-diversification-beyond-rmg-1518361",
       "pubDate": "Tue, 18 Aug 2026 15:55:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/hsbc.jpg",
       "snippet": "HSBC chief calls for emerging sectors to expand globally"
     },
@@ -813,17 +824,6 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/28/india_bangladesh_0.jpg",
       "snippet": "Sheikh Hasina's continued political presence in India risks deepening public distrust in Bangladesh and complicating bilateral ties. New Delhi should separate its relationship with the Bangladeshi state from the political fate of one former leader"
-    },
-    {
-      "title": "Economy stabilises, but business woes persist",
-      "link": "https://www.tbsnews.net/economy/economy-stabilises-business-woes-persist-1518001",
-      "pubDate": "Tue, 18 Aug 2026 13:00:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/01/20/bangladesh_business_economy.jpg",
-      "snippet": "According to the IMF’s methodology, forex reserves have remained stable at around $20-22 billion."
     },
     {
       "title": "China builds diversified AI landscape by leveraging regional strengths",
@@ -848,5 +848,5 @@
       "snippet": "Under the agreed terms, Bangladesh Bank will pay fund-providing banks a rate tied to its policy rate plus 50 basis points, up from the 9% originally proposed"
     }
   ],
-  "updatedAt": "2026-08-20T17:58:16.577Z"
+  "updatedAt": "2026-08-20T18:51:19.630Z"
 }
