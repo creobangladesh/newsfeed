@@ -1,7 +1,51 @@
 {
   "news": [
     {
-      "title": "I dream of a happy, prosperous and welfare-oriented Bangladesh: Fakhrul",
+      "title": "Chattogram Civil Surgeon Jahangir Alam made OSD",
+      "link": "https://www.tbsnews.net/bangladesh/chattogram-civil-surgeon-jahangir-alam-made-osd-1520156",
+      "pubDate": "Thu, 20 Aug 2026 13:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/untitled_design_4.jpg",
+      "snippet": "According to the notification, the transferred officials must join their new workplaces by 24 August. If they fail to do so, they will be considered immediately released from their current posts, or stand released, from 25 August."
+    },
+    {
+      "title": "It's the economy, stupid",
+      "link": "https://www.tbsnews.net/features/panorama/its-economy-stupid-1520131",
+      "pubDate": "Thu, 20 Aug 2026 12:55:00 +0600",
+      "category": "Analysis",
+      "color": "#5d4037",
+      "bg": "#efebe9",
+      "icon": "🔍",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/sabir_mustafa.jpg",
+      "snippet": "Incumbents, no matter how clean or relatable their image, can see their popularity crash if the economy is not delivering the goods for the public"
+    },
+    {
+      "title": "Bangladeshi death toll from Kolkata hotel fire rises to 7 as two more from Satkhira identified",
+      "link": "https://www.tbsnews.net/world/south-asia/kolkata-hotel-fire-bangladeshi-death-toll-rises-7-2-more-satkhira-identified",
+      "pubDate": "Thu, 20 Aug 2026 12:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/screenshot_2026-08-19_092545.png",
+      "snippet": "Two of the nine people who perished in the deadly fire yesterday have been identified as Indian nationals."
+    },
+    {
+      "title": "Chhatra Union activists beaten at DU after protesting outsiders' inappropriate comments towards female students",
+      "link": "https://www.tbsnews.net/bangladesh/chhatra-union-activists-beaten-du-after-protesting-outsiders-inappropriate-comments",
+      "pubDate": "Thu, 20 Aug 2026 12:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/untitled_design_5.jpg",
+      "snippet": "Describing the incident, Chhatra Union Central General Secretary Shimul Kumbhakar told The Business Standard that three female students of Dhaka University were trying to take a rickshaw in front of the Raju Memorial Sculpture when several outsiders ..."
+    },
+    {
+      "title": "I dream of a happy, prosperous, and welfare-oriented Bangladesh: Fakhrul",
       "link": "https://www.tbsnews.net/bangladesh/i-dream-happy-prosperous-and-welfare-oriented-bangladesh-fakhrul-1520111",
       "pubDate": "Thu, 20 Aug 2026 12:30:00 +0600",
       "category": "Bangladesh",
@@ -9,7 +53,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/15/fakhrul.png",
-      "snippet": "“I want to see the Bangladesh that I expect and have long dreamed of — a happy, prosperous and welfare-oriented state,” he said."
+      "snippet": "The senior politician is widely expected to become Bangladesh's 23rd President today."
     },
     {
       "title": "Free oral cholera vaccination campaign to begin on 22 August",
@@ -155,17 +199,6 @@
       "snippet": "Smoke-filled corridors and poor visibility forced guests to find their own way out as the blaze spread through the building."
     },
     {
-      "title": "DSE names 138 marginable stocks as new lending rules take effect",
-      "link": "https://www.tbsnews.net/economy/stocks/dse-names-138-marginable-stocks-new-lending-rules-take-effect-1519841",
-      "pubDate": "Wed, 19 Aug 2026 21:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/07/dse.jpg",
-      "snippet": "Under revised rules, A- and B-category companies are eligible for margin loans if their P/E ratios remain within 40."
-    },
-    {
       "title": "Gas allocation keeps public-private KAFCO running as state-owned CUFL stays shut",
       "link": "https://www.tbsnews.net/bangladesh/energy/gas-allocation-keeps-public-private-kafco-running-state-owned-cufl-stays-shut",
       "pubDate": "Wed, 19 Aug 2026 21:45:00 +0600",
@@ -199,6 +232,17 @@
       "snippet": "Speakers say the proposed laws could undermine accountability if law enforcement agencies are allowed to investigate allegations against themselves"
     },
     {
+      "title": "DSE names 138 marginable stocks as new lending rules take effect",
+      "link": "https://www.tbsnews.net/economy/stocks/dse-names-138-marginable-stocks-new-lending-rules-take-effect-1519841",
+      "pubDate": "Wed, 19 Aug 2026 21:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/07/dse.jpg",
+      "snippet": "Under revised rules, A- and B-category companies are eligible for margin loans if their P/E ratios remain within 40."
+    },
+    {
       "title": "Market loses Tk7,300cr in six sessions  as turnover hits 3-month low",
       "link": "https://www.tbsnews.net/economy/stocks/dse-loses-tk7300cr-six-consecutive-sessions-turnover-hits-3-month-low-1519836",
       "pubDate": "Wed, 19 Aug 2026 21:40:00 +0600",
@@ -219,39 +263,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/shama-_abmbrassador.png",
       "snippet": "The issues were discussed when a delegation from MSF, led by International President Dr Javid Abdelmoneim, met the State Minister at the Ministry of Foreign Affairs."
-    },
-    {
-      "title": "Over 66,000 complaints filed against mobile operators since 2021: BTRC",
-      "link": "https://www.tbsnews.net/bangladesh/telecom/over-66000-complaints-filed-against-mobile-operators-2021-btrc-1519826",
-      "pubDate": "Wed, 19 Aug 2026 21:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/30/btrc.png",
-      "snippet": "Robi received the highest number of complaints, while the telecom regulator says it plans to publish monthly quality-of-service reports from next month."
-    },
-    {
-      "title": "Bangladesh, Lithuania seek to deepen trade, economic ties",
-      "link": "https://www.tbsnews.net/foreign-policy/bangladesh-lithuania-seek-deepen-trade-economic-ties-1519821",
-      "pubDate": "Wed, 19 Aug 2026 21:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/shama-lithuania_abmbrassador.png",
-      "snippet": "They focused on expanding cooperation in information technology, financial technology, e-governance, cybersecurity, e-registration, e-transportation, digitisation of the transport system, AI and high-tech medical device systems."
-    },
-    {
-      "title": "National programs announced to mark Eid-e-Miladunnabi on 26 Aug",
-      "link": "https://www.tbsnews.net/bangladesh/national-programs-announced-mark-eid-e-miladunnabi-26-aug-1519816",
-      "pubDate": "Wed, 19 Aug 2026 21:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/09/27/vvc4dizfckghaglp4k3yxrc5xkbwnr0ybxlcttxp.jpg",
-      "snippet": ""
     },
     {
       "title": "BFIU orders banks to report linked accounts when any account is frozen",
@@ -837,5 +848,5 @@
       "snippet": "The new target is Tk21,000 crore higher than the Tk39,000 crore set for the previous fiscal year."
     }
   ],
-  "updatedAt": "2026-08-20T06:44:08.762Z"
+  "updatedAt": "2026-08-20T07:39:59.777Z"
 }
