@@ -1,6 +1,50 @@
 {
   "news": [
     {
+      "title": "Caution needed in AI adoption over data privacy and consent: Ismail Zabiullah",
+      "link": "https://www.tbsnews.net/bangladesh/caution-needed-ai-adoption-over-data-privacy-and-consent-ismail-zabiullah-1520296",
+      "pubDate": "Thu, 20 Aug 2026 15:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/image-403446-1783439601.jpg",
+      "snippet": "BTRC Chairman Major General (retd) Md Emdad Ul Bari called for connected national systems, clear rules for user data consent, and honest AI buying practices."
+    },
+    {
+      "title": "CMP honours BIGRS coordinators with Road Safety Excellence Award",
+      "link": "https://www.tbsnews.net/bangladesh/cmp-honours-bigrs-coordinators-road-safety-excellence-award-1520301",
+      "pubDate": "Thu, 20 Aug 2026 15:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/f4ffd87b-5f01-4325-9892-6d5e14c92cf9.jpg",
+      "snippet": "The work of both awardees exemplifies how targeted interventions combining infrastructure improvements, enforcement, and policy dialogue can create meaningful and measurable impact."
+    },
+    {
+      "title": "Passengers beaten inside bus in Gazaria: What led to attack",
+      "link": "https://www.tbsnews.net/bangladesh/passengers-beaten-inside-bus-gazaria-what-led-attack-1520291",
+      "pubDate": "Thu, 20 Aug 2026 15:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/gazaria.jpg",
+      "snippet": "Several video clips of the attack have since gone viral on social media, drawing widespread criticism."
+    },
+    {
+      "title": "14 universities, institutions sign addenda with ICAB to widen Chartered Accountancy opportunities",
+      "link": "https://www.tbsnews.net/bangladesh/education/14-universities-institutions-sign-addenda-icab-widen-chartered-accountancy",
+      "pubDate": "Thu, 20 Aug 2026 15:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/untitled-1.jpg",
+      "snippet": "ICAB said the arrangement would allow eligible graduates to progress more quickly towards the CA qualification by recognising relevant prior academic learning."
+    },
+    {
       "title": "Unidentified elderly man’s body recovered from river in Faridpur ",
       "link": "https://www.tbsnews.net/bangladesh/unidentified-elderly-mans-body-recovered-river-faridpur-1520261",
       "pubDate": "Thu, 20 Aug 2026 15:00:00 +0600",
@@ -67,7 +111,7 @@
       "snippet": "RAB-2 Commanding Officer Additional DIG Naimul Hasan told The Business Standard that Chua Selim had been staying at the hideout while evading law enforcement agencies."
     },
     {
-      "title": "Presidential polls: PM casts vote alongside Mirza Fakhrul",
+      "title": "Presidential polls: Voting underway after PM casts ballot alongside Fakhrul",
       "link": "https://www.tbsnews.net/bangladesh/voting-begins-presidential-election-after-35-years-1520196",
       "pubDate": "Thu, 20 Aug 2026 13:55:00 +0600",
       "category": "Bangladesh",
@@ -210,17 +254,6 @@
       "snippet": "As gas supply drops below half of industrial demand, major textile and apparel hubs surrounding Dhaka are facing an unprecedented operational crisis."
     },
     {
-      "title": "Released on 12-hour parole, Dipu Moni bids farewell to late husband",
-      "link": "https://www.tbsnews.net/bangladesh/released-12-hour-parole-dipu-moni-bids-farewell-late-husband-1519966",
-      "pubDate": "Thu, 20 Aug 2026 09:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/9ca8335c-cfc2-4ceb-8291-1a56058a8d94.jpeg",
-      "snippet": "At around 6am today, she was released from Munshiganj District Jail for 12 hours following an application submitted by her daughter."
-    },
-    {
       "title": "Personalised cancer vaccine shows promise in preventing melanoma recurrence",
       "link": "https://www.tbsnews.net/bangladesh/health/personalised-cancer-vaccine-shows-promise-preventing-melanoma-recurrence-1519941",
       "pubDate": "Thu, 20 Aug 2026 08:00:00 +0600",
@@ -235,10 +268,10 @@
       "title": "Sugar rises Tk200 per maund in Khatunganj amid supply squeeze",
       "link": "https://www.tbsnews.net/economy/sugar-rises-tk200-maund-khatunganj-amid-supply-squeeze-1519931",
       "pubDate": "Thu, 20 Aug 2026 07:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/02/19/sugarmarket.png",
       "snippet": "Sugar now sells at Tk3,800 per maund in Khatunganj"
     },
@@ -246,23 +279,12 @@
       "title": "Tk1,154cr project to add five new buildings at Dhaka Medical College",
       "link": "https://www.tbsnews.net/bangladesh/health/tk1154cr-project-add-five-new-buildings-dhaka-medical-college-1519906",
       "pubDate": "Thu, 20 Aug 2026 00:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/09/17/dmch.jpg",
       "snippet": "The project includes a 15-storey academic building, an 800-seat student hostel, residential quarters and other facilities."
-    },
-    {
-      "title": "Presidential election set for 2-5pm today, oath tomorrow",
-      "link": "https://www.tbsnews.net/bangladesh/presidential-election-today-oath-tomorrow-1519901",
-      "pubDate": "Thu, 20 Aug 2026 00:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/8706766.jpg",
-      "snippet": "Voting will take place for the first time in 35 years, with 349 MPs to elect the country’s 23rd president from BNP’s Mirza Fakhrul Islam Alamgir and Col (retd) Oli Ahmad."
     },
     {
       "title": "BFIU orders banks to report linked accounts when any account is frozen",
@@ -791,18 +813,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/image-415378-1786961075.jpg",
       "snippet": "The deadliest Ebola outbreak ever hit west Africa in 2013-2016, killing more than 11,300 people, mainly in Liberia, Sierra Leone and Guinea."
-    },
-    {
-      "title": "Robi rebrands Airtel as Cirkle",
-      "link": "https://www.tbsnews.net/bangladesh/telecom/airtel-brand-ends-16-year-run-bangladesh-cirkle-takes-over-1517321",
-      "pubDate": "Mon, 17 Aug 2026 16:05:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/pr_pic-2.jpeg",
-      "snippet": "Robi says customers will retain numbers, services and balances"
     }
   ],
-  "updatedAt": "2026-08-20T09:33:51.837Z"
+  "updatedAt": "2026-08-20T10:29:55.071Z"
 }
