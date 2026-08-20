@@ -1,6 +1,50 @@
 {
   "news": [
     {
+      "title": "Top drug dealer Chua Selim arrested in Geneva Camp",
+      "link": "https://www.tbsnews.net/bangladesh/top-drug-dealer-chua-selim-arrested-geneva-camp-1520206",
+      "pubDate": "Thu, 20 Aug 2026 14:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/untitled_design_6.jpg",
+      "snippet": "RAB-2 Commanding Officer Additional DIG Naimul Hasan told The Business Standard that Chua Selim had been staying at the hideout while evading law enforcement agencies."
+    },
+    {
+      "title": "Voting begins in presidential election after 35 years",
+      "link": "https://www.tbsnews.net/bangladesh/voting-begins-presidential-election-after-35-years-1520196",
+      "pubDate": "Thu, 20 Aug 2026 13:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/8706766.jpg",
+      "snippet": "Voting is scheduled to end at 5pm; a total of 349 MPs are eligible voters."
+    },
+    {
+      "title": "Five-year energy roadmap aims to cut capacity-payment burden, tackle gas crunch, and import costs",
+      "link": "https://www.tbsnews.net/economy/five-year-energy-roadmap-aims-cut-capacity-payment-burden-tackle-gas-crunch-and-import-costs",
+      "pubDate": "Thu, 20 Aug 2026 13:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/chatgpt-image-aug-20-2026-01_52_27-pm.jpg",
+      "snippet": "Framework sets 10,000MW solar target, proposes new FSRUs, greater use of domestic gas and coal, and major grid upgrades."
+    },
+    {
+      "title": "India stays Bangladesh's top export market in South Asia in FY26",
+      "link": "https://www.tbsnews.net/infograph/numbers/india-stays-bangladeshs-top-export-market-south-asia-fy26-1520181",
+      "pubDate": "Thu, 20 Aug 2026 13:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/export-bangladesh-.png",
+      "snippet": ""
+    },
+    {
       "title": "Chattogram Civil Surgeon Jahangir Alam made OSD",
       "link": "https://www.tbsnews.net/bangladesh/chattogram-civil-surgeon-jahangir-alam-made-osd-1520156",
       "pubDate": "Thu, 20 Aug 2026 13:10:00 +0600",
@@ -199,39 +243,6 @@
       "snippet": "Smoke-filled corridors and poor visibility forced guests to find their own way out as the blaze spread through the building."
     },
     {
-      "title": "Gas allocation keeps public-private KAFCO running as state-owned CUFL stays shut",
-      "link": "https://www.tbsnews.net/bangladesh/energy/gas-allocation-keeps-public-private-kafco-running-state-owned-cufl-stays-shut",
-      "pubDate": "Wed, 19 Aug 2026 21:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/07/30/kafco.png",
-      "snippet": "CUFL is losing an average daily loss of Tk2cr"
-    },
-    {
-      "title": "'Pray for me': Fakhrul breaks down in tears as he leaves parliament for Bangabhaban",
-      "link": "https://www.tbsnews.net/bangladesh/pray-me-fakhrul-breaks-down-tears-he-leaves-parliament-bangabhaban-1519871",
-      "pubDate": "Wed, 19 Aug 2026 21:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/pid.jpg",
-      "snippet": "Fakhrul recalls Ziaur Rahman and Khaleda Zia, thanks Prime Minister Tarique and urges BNP lawmakers to vote for him."
-    },
-    {
-      "title": "Law enforcement agencies cannot investigate their own rights abuses: Rights advocates",
-      "link": "https://www.tbsnews.net/bangladesh/law-order/law-enforcement-agencies-cannot-investigate-their-own-rights-abuses-rights",
-      "pubDate": "Wed, 19 Aug 2026 21:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/nagorik_coalition_meeting.jpg",
-      "snippet": "Speakers say the proposed laws could undermine accountability if law enforcement agencies are allowed to investigate allegations against themselves"
-    },
-    {
       "title": "DSE names 138 marginable stocks as new lending rules take effect",
       "link": "https://www.tbsnews.net/economy/stocks/dse-names-138-marginable-stocks-new-lending-rules-take-effect-1519841",
       "pubDate": "Wed, 19 Aug 2026 21:45:00 +0600",
@@ -243,26 +254,15 @@
       "snippet": "Under revised rules, A- and B-category companies are eligible for margin loans if their P/E ratios remain within 40."
     },
     {
-      "title": "Market loses Tk7,300cr in six sessions  as turnover hits 3-month low",
-      "link": "https://www.tbsnews.net/economy/stocks/dse-loses-tk7300cr-six-consecutive-sessions-turnover-hits-3-month-low-1519836",
-      "pubDate": "Wed, 19 Aug 2026 21:40:00 +0600",
+      "title": "Gas allocation keeps public-private KAFCO running as state-owned CUFL stays shut",
+      "link": "https://www.tbsnews.net/bangladesh/energy/gas-allocation-keeps-public-private-kafco-running-state-owned-cufl-stays-shut",
+      "pubDate": "Wed, 19 Aug 2026 21:45:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/11/05/dsex.png",
-      "snippet": "The DSEX fell for a sixth straight session as weak investor participation and concerns over energy supply kept selling pressure high, with turnover dropping to Tk732 crore."
-    },
-    {
-      "title": "Dignified repatriation of Rohingyas remains only durable solution: Shama Obaed",
-      "link": "https://www.tbsnews.net/foreign-policy/dignified-repatriation-rohingyas-remains-only-durable-solution-shama-obaed-1519856",
-      "pubDate": "Wed, 19 Aug 2026 21:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/shama-_abmbrassador.png",
-      "snippet": "The issues were discussed when a delegation from MSF, led by International President Dr Javid Abdelmoneim, met the State Minister at the Ministry of Foreign Affairs."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/07/30/kafco.png",
+      "snippet": "CUFL is losing an average daily loss of Tk2cr"
     },
     {
       "title": "BFIU orders banks to report linked accounts when any account is frozen",
@@ -738,17 +738,6 @@
       "snippet": "The government has presented a large budget with commitments to structural reforms, but implementation remains limited."
     },
     {
-      "title": "Universal Menswear at Adamjee EPZ exports suits worth $98m to int'l markets yearly",
-      "link": "https://www.tbsnews.net/economy/suits-worth-98m-exported-intl-markets-adamjee-epz-yearly-1517996",
-      "pubDate": "Tue, 18 Aug 2026 11:00:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/p3_suit_story.jpg",
-      "snippet": "The factory can produce around 500,000 pieces of trousers, blazers and other men’s garments a month, or about five million pieces a year."
-    },
-    {
       "title": "38 banks seek Tk28,000cr in stimulus funds for struggling businesses",
       "link": "https://www.tbsnews.net/economy/banking/38-banks-seek-tk28000cr-stimulus-funds-struggling-businesses-1517961",
       "pubDate": "Tue, 18 Aug 2026 10:00:00 +0600",
@@ -835,18 +824,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/15_thoughts_11.1.2026_copy.png",
       "snippet": "The National Human Rights Commission Bill 2026 could weaken Bangladesh’s human rights body and invite international criticism, putting its global reputation and reform efforts at risk"
-    },
-    {
-      "title": "BB raises farm loan target by 54%, widens collateral-free loan coverage ",
-      "link": "https://www.tbsnews.net/economy/banking/bangladesh-bank-sets-tk60000cr-farm-loan-target-fy27-1517171",
-      "pubDate": "Mon, 17 Aug 2026 14:10:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/22/paddy_field.png",
-      "snippet": "The new target is Tk21,000 crore higher than the Tk39,000 crore set for the previous fiscal year."
     }
   ],
-  "updatedAt": "2026-08-20T07:39:59.777Z"
+  "updatedAt": "2026-08-20T08:37:54.816Z"
 }
