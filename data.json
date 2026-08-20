@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "BIFFL CEO assaulted for refusing Tk1,400cr Teesta Solar loan: Ex-BB governor Rouf, ex-NBR chief Muneem get permanent bail",
+      "link": "https://www.tbsnews.net/bangladesh/court/biffl-ceo-assaulted-refusing-tk1400cr-teesta-solar-loan-ex-bb-governor-rouf-ex-nbr",
+      "pubDate": "Fri, 21 Aug 2026 02:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/rouf_muneem_.png",
+      "snippet": "Salman F Rahman, a former adviser to the ousted Awami League government, is the only accused who has been arrested in the case and remains in jail, according to the case proceedings."
+    },
+    {
       "title": "Infant dies at Jashore General Hospital; family alleges C-section injuries caused death",
       "link": "https://www.tbsnews.net/bangladesh/infant-dies-jashore-general-hospital-family-alleges-c-section-injuries-caused-death",
       "pubDate": "Fri, 21 Aug 2026 01:05:00 +0600",
@@ -8,7 +19,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/14/screenshot_2026-02-14_000127.png",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/09/08/9477526_hospital-22.png",
       "snippet": "However, hospital authorities denied that the baby's death was caused by injuries sustained during the C-section"
     },
     {
@@ -78,6 +89,17 @@
       "snippet": "The children went missing from their homes in the afternoon. Their families began searching for them and later found their shoes and sandals beside a pond."
     },
     {
+      "title": "Sitakunda shipyard toxic gas leak: Death toll rises to 10 as another worker dies",
+      "link": "https://www.tbsnews.net/bangladesh/sitakunda-shipyard-toxic-gas-leak-death-toll-rises-10-another-worker-dies-1520836",
+      "pubDate": "Thu, 20 Aug 2026 21:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/p1_sitakunda_coc02603.jpg.jpeg",
+      "snippet": "Nine workers were killed and six others injured in the 14 August accident while dismantling an LNG tanker at the yard."
+    },
+    {
       "title": "World Mosquito Day: MSF rallies in Ctg to raise dengue awareness ",
       "link": "https://www.tbsnews.net/bangladesh/world-mosquito-day-msf-rallies-ctg-raise-dengue-awareness-1520826",
       "pubDate": "Thu, 20 Aug 2026 21:55:00 +0600",
@@ -98,17 +120,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/jamaat_shapla_chattar.jpg",
       "snippet": "The procession will hold roadside rallies at Madanpur in Narayanganj, Paduar Bazar Bishwaroad in Cumilla and Mirsarai in Chattogram before reaching Chattogram."
-    },
-    {
-      "title": "Sitakunda shipyard toxic gas leak: Death toll rises to 10 as another worker dies",
-      "link": "https://www.tbsnews.net/bangladesh/sitakunda-shipyard-toxic-gas-leak-death-toll-rises-10-another-worker-dies-1520836",
-      "pubDate": "Thu, 20 Aug 2026 21:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/p1_sitakunda_coc02603.jpg.jpeg",
-      "snippet": "Nine workers were killed and six others injured in the 14 August accident while dismantling an LNG tanker at the yard."
     },
     {
       "title": "Chattogram 'Build Expo' begins, focuses on sustainable urban development",
@@ -230,17 +241,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/uploads/2023/12/24/election_commission_5.jpg",
       "snippet": "The notification was issued after Fakhrul secured 255 votes against Oli Ahmad’s 88 in today’s presidential election."
-    },
-    {
-      "title": "Nusrat murder case: HC verdict on death reference, appeals set for 24 August",
-      "link": "https://www.tbsnews.net/bangladesh/court/nusrat-murder-case-hc-verdict-death-reference-appeals-set-24-august-1520716",
-      "pubDate": "Thu, 20 Aug 2026 20:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/10/24/nusrat.jpg",
-      "snippet": "A High Court bench comprising Justice Bhishmadev Chakraborty and Justice KM Rasheduzzaman Raja fixed the date after concluding the hearing."
     },
     {
       "title": "Decent work, skills vital for RMG's global competitiveness: Experts",
@@ -848,5 +848,5 @@
       "snippet": "Under the agreed terms, Bangladesh Bank will pay fund-providing banks a rate tied to its policy rate plus 50 basis points, up from the 9% originally proposed"
     }
   ],
-  "updatedAt": "2026-08-20T19:31:03.562Z"
+  "updatedAt": "2026-08-20T20:27:48.719Z"
 }
