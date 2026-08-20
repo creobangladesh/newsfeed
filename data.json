@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "Infant dies at Jashore General Hospital; family alleges C-section injuries caused death",
+      "link": "https://www.tbsnews.net/bangladesh/infant-dies-jashore-general-hospital-family-alleges-c-section-injuries-caused-death",
+      "pubDate": "Fri, 21 Aug 2026 01:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/14/screenshot_2026-02-14_000127.png",
+      "snippet": "However, hospital authorities denied that the baby's death was caused by injuries sustained during the C-section"
+    },
+    {
+      "title": "US Treasury officials meet BB governor, discuss economic, banking reforms",
+      "link": "https://www.tbsnews.net/economy/banking/us-treasury-officials-express-satisfaction-over-bbs-progress-1520896",
+      "pubDate": "Fri, 21 Aug 2026 00:50:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/28/bangladesh_bank.jpg",
+      "snippet": "US Treasury representatives assured Bangladesh Bank of continued cooperation and support in advancing the ongoing reform initiatives."
+    },
+    {
+      "title": "First meeting held at DU on arranging next Ducsu election; VC attends",
+      "link": "https://www.tbsnews.net/bangladesh/first-meeting-held-du-arranging-next-ducsu-election-vc-attends-1520886",
+      "pubDate": "Fri, 21 Aug 2026 00:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/pm_ducsu_2026.jpeg",
+      "snippet": "The meeting came hours after the vice-chancellor met Prime Minister Tarique Rahman at the Secretariat."
+    },
+    {
       "title": "Cenbank introduces ADR policy to speed up loan recovery, ease court backlog",
       "link": "https://www.tbsnews.net/economy/banking/cenbank-introduces-adr-policy-speed-loan-recovery-ease-court-backlog-1520871",
       "pubDate": "Fri, 21 Aug 2026 00:00:00 +0600",
@@ -45,17 +78,6 @@
       "snippet": "The children went missing from their homes in the afternoon. Their families began searching for them and later found their shoes and sandals beside a pond."
     },
     {
-      "title": "Sitakunda shipyard toxic gas leak: Death toll rises to 10 as another worker dies",
-      "link": "https://www.tbsnews.net/bangladesh/sitakunda-shipyard-toxic-gas-leak-death-toll-rises-10-another-worker-dies-1520836",
-      "pubDate": "Thu, 20 Aug 2026 21:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/p1_sitakunda_coc02603.jpg.jpeg",
-      "snippet": "Nine workers were killed and six others injured in the 14 August accident while dismantling an LNG tanker at the yard."
-    },
-    {
       "title": "World Mosquito Day: MSF rallies in Ctg to raise dengue awareness ",
       "link": "https://www.tbsnews.net/bangladesh/world-mosquito-day-msf-rallies-ctg-raise-dengue-awareness-1520826",
       "pubDate": "Thu, 20 Aug 2026 21:55:00 +0600",
@@ -76,6 +98,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/jamaat_shapla_chattar.jpg",
       "snippet": "The procession will hold roadside rallies at Madanpur in Narayanganj, Paduar Bazar Bishwaroad in Cumilla and Mirsarai in Chattogram before reaching Chattogram."
+    },
+    {
+      "title": "Sitakunda shipyard toxic gas leak: Death toll rises to 10 as another worker dies",
+      "link": "https://www.tbsnews.net/bangladesh/sitakunda-shipyard-toxic-gas-leak-death-toll-rises-10-another-worker-dies-1520836",
+      "pubDate": "Thu, 20 Aug 2026 21:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/p1_sitakunda_coc02603.jpg.jpeg",
+      "snippet": "Nine workers were killed and six others injured in the 14 August accident while dismantling an LNG tanker at the yard."
     },
     {
       "title": "Chattogram 'Build Expo' begins, focuses on sustainable urban development",
@@ -210,17 +243,6 @@
       "snippet": "A High Court bench comprising Justice Bhishmadev Chakraborty and Justice KM Rasheduzzaman Raja fixed the date after concluding the hearing."
     },
     {
-      "title": "Political consensus needed to ban Jamaat-Shibir if necessary: Nur",
-      "link": "https://www.tbsnews.net/bangladesh/politics/political-consensus-needed-ban-jamaat-shibir-if-necessary-nur-1520676",
-      "pubDate": "Thu, 20 Aug 2026 20:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/24/vp_nur.png",
-      "snippet": "Gono Odhikar Parishad president says Jamaat-Shibir could fuel extremism and damage Bangladesh’s global image."
-    },
-    {
       "title": "Decent work, skills vital for RMG's global competitiveness: Experts",
       "link": "https://www.tbsnews.net/economy/industry/decent-work-skills-vital-rmgs-global-competitiveness-experts-1520681",
       "pubDate": "Thu, 20 Aug 2026 20:30:00 +0600",
@@ -230,17 +252,6 @@
       "icon": "🏭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/rmg_meeting_tbs.jpg",
       "snippet": "Seema says LDC graduation, declining trade preferences, technological change and climate risks were pushing the sector into a critical transition."
-    },
-    {
-      "title": "New leadership takes charge of 3 CHT zilla parishads",
-      "link": "https://www.tbsnews.net/bangladesh/new-leadership-takes-charge-3-cht-zilla-parishads-1520671",
-      "pubDate": "Thu, 20 Aug 2026 20:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/12/02/cht.jpg",
-      "snippet": "The move replaces the interim councils formed in November 2024, with new chairmen and 14 members now set to oversee local development and administrative affairs in the three hill districts."
     },
     {
       "title": " A Culture of Change: From the prime minister to every citizen ",
@@ -782,17 +793,6 @@
       "snippet": "Responding to a question about the market situation six months after taking office, Muktadir said energy and electricity prices, lending rates, productivity, transport, and infrastructure all influence commodity prices."
     },
     {
-      "title": "2 task forces proposed to boost Bangladesh-India trade, investment",
-      "link": "https://www.tbsnews.net/foreign-policy/2-task-forces-proposed-boost-bangladesh-india-trade-investment-1518431",
-      "pubDate": "Tue, 18 Aug 2026 16:25:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/bd-ind_relation.png",
-      "snippet": "Commerce ministry and Confederation of Indian Industry stress efficient land ports, Indian investment in infrastructure, and digital cooperation"
-    },
-    {
       "title": "Transforming Bangladesh's Wildlife Commission into a lasting national legacy",
       "link": "https://www.tbsnews.net/thoughts/transforming-bangladeshs-wildlife-commission-lasting-national-legacy-1518381",
       "pubDate": "Tue, 18 Aug 2026 16:10:00 +0600",
@@ -848,5 +848,5 @@
       "snippet": "Under the agreed terms, Bangladesh Bank will pay fund-providing banks a rate tied to its policy rate plus 50 basis points, up from the 9% originally proposed"
     }
   ],
-  "updatedAt": "2026-08-20T18:51:19.630Z"
+  "updatedAt": "2026-08-20T19:31:03.562Z"
 }
