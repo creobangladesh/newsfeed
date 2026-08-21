@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "Farmer dies after intervening in clash between Chhatra Dal, banned Awami League in Satkhira",
+      "link": "https://www.tbsnews.net/bangladesh/farmer-dies-after-intervening-clash-between-chhatra-dal-banned-awami-league-satkhira",
+      "pubDate": "Fri, 21 Aug 2026 15:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/02/representational_deadbody.jpg",
+      "snippet": "Upon receiving the news, a group of 10–12 Chhatra Dal activists went to the scene, where around 20–30 activists of the Awami League, Jubo League, and Chhatra League launched an ambush on them."
+    },
+    {
+      "title": "1/11-era ex-DIG prisons Shamsul Haider poised for return to department",
+      "link": "https://www.tbsnews.net/bangladesh/former-dig-prisons-shamsul-haider-siddiqui-set-return-department-1521131",
+      "pubDate": "Fri, 21 Aug 2026 15:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/777880755_1206584204998482_1835517284567992252_n.jpg",
+      "snippet": "His direct appointment as inspector general was also reportedly reviewed in terms of the existing administrative and legal framework."
+    },
+    {
+      "title": "President-elect Fakhrul pays homage to Zia, Khaleda at their graves",
+      "link": "https://www.tbsnews.net/bangladesh/president-elect-fakhrul-pays-homage-zia-khaleda-their-graves-1521126",
+      "pubDate": "Fri, 21 Aug 2026 15:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/d5202f55-8007-410b-9f12-a5dd0cf3febe.jpg",
+      "snippet": "The oath-taking ceremony will be held at the Darbar Hall of Bangabhaban at 7:30pm"
+    },
+    {
       "title": "Auto-rickshaw driver killed in Gazipur; mother dies after hearing news",
       "link": "https://www.tbsnews.net/bangladesh/auto-rickshaw-driver-killed-gazipur-mother-dies-after-hearing-news-1521101",
       "pubDate": "Fri, 21 Aug 2026 13:20:00 +0600",
@@ -219,39 +252,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/jamaat_shapla_chattar.jpg",
       "snippet": "The procession will hold roadside rallies at Madanpur in Narayanganj, Paduar Bazar Bishwaroad in Cumilla and Mirsarai in Chattogram before reaching Chattogram."
-    },
-    {
-      "title": "Sitakunda shipyard toxic gas leak: Death toll rises to 10 as another worker dies",
-      "link": "https://www.tbsnews.net/bangladesh/sitakunda-shipyard-toxic-gas-leak-death-toll-rises-10-another-worker-dies-1520836",
-      "pubDate": "Thu, 20 Aug 2026 21:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/14/p1_sitakunda_coc02603.jpg.jpeg",
-      "snippet": "Nine workers were killed and six others injured in the 14 August accident while dismantling an LNG tanker at the yard."
-    },
-    {
-      "title": "Chattogram 'Build Expo' begins, focuses on sustainable urban development",
-      "link": "https://www.tbsnews.net/bangladesh/chattogram-build-expo-begins-focuses-sustainable-urban-development-1520806",
-      "pubDate": "Thu, 20 Aug 2026 21:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/img-20260820-wa0123.jpg",
-      "snippet": "The three-day expo features 30 companies from Dhaka and Chattogram showcasing products, services and technologies."
-    },
-    {
-      "title": "ASK launches initiative at AIUB to prevent sexual, gender-based violence",
-      "link": "https://www.tbsnews.net/bangladesh/ask-launches-initiative-aiub-prevent-sexual-gender-based-violence-1520791",
-      "pubDate": "Thu, 20 Aug 2026 21:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/aiub_meeting.jpeg",
-      "snippet": "The initiative is part of a project being implemented at five selected universities in Bangladesh with support from UN Women and funding from the European Union."
     },
     {
       "title": "BGMEA, Bidec join hands to cut garment factories' power use",
@@ -835,18 +835,7 @@
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/hsbc.jpg",
       "snippet": "HSBC chief calls for emerging sectors to expand globally"
-    },
-    {
-      "title": "India must choose: Sheikh Hasina or a sustainable relationship with Bangladesh?",
-      "link": "https://www.tbsnews.net/thoughts/india-must-choose-sheikh-hasina-or-sustainable-relationship-bangladesh-1518341",
-      "pubDate": "Tue, 18 Aug 2026 15:30:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/28/india_bangladesh_0.jpg",
-      "snippet": "Sheikh Hasina's continued political presence in India risks deepening public distrust in Bangladesh and complicating bilateral ties. New Delhi should separate its relationship with the Bangladeshi state from the political fate of one former leader"
     }
   ],
-  "updatedAt": "2026-08-21T08:39:39.057Z"
+  "updatedAt": "2026-08-21T09:35:53.663Z"
 }
