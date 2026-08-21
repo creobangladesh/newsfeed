@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "From garbage dump to green stretch: Wind turbines to power highway lights in Savar",
+      "link": "https://www.tbsnews.net/bangladesh/energy/garbage-dump-green-stretch-wind-turbines-power-highway-lights-savar-1521386",
+      "pubDate": "Fri, 21 Aug 2026 23:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/dhaka-aricha-highway.jpg",
+      "snippet": "The Tk1cr project aims to turn a roadside dumping ground into a landscaped stretch."
+    },
+    {
       "title": "Road work continues in Moheshkhali reserved forest despite HC injunction",
       "link": "https://www.tbsnews.net/bangladesh/court/road-work-continues-maheshkhali-reserved-forest-despite-high-court-injunction",
       "pubDate": "Fri, 21 Aug 2026 23:35:00 +0600",
@@ -252,17 +263,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/02/representational_deadbody.jpg",
       "snippet": "Upon receiving the news, a group of 10–12 Chhatra Dal activists went to the scene, where around 20–30 activists of the Awami League, Jubo League, and Chhatra League launched an ambush on them."
-    },
-    {
-      "title": "1/11-era ex-DIG prisons Shamsul Haider poised for return to department",
-      "link": "https://www.tbsnews.net/bangladesh/former-dig-prisons-shamsul-haider-siddiqui-set-return-department-1521131",
-      "pubDate": "Fri, 21 Aug 2026 15:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/777880755_1206584204998482_1835517284567992252_n.jpg",
-      "snippet": "His direct appointment as inspector general was also reportedly reviewed in terms of the existing administrative and legal framework."
     },
     {
       "title": "Mohammadpur: From a Mughal-era settlement to Dhaka’s crime hotspot",
@@ -760,5 +760,5 @@
       "snippet": "Business communities of the two countries agree to form task forces to boost trade, investment"
     }
   ],
-  "updatedAt": "2026-08-21T17:58:11.538Z"
+  "updatedAt": "2026-08-21T18:48:14.669Z"
 }
