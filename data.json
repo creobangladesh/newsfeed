@@ -1,7 +1,29 @@
 {
   "news": [
     {
-      "title": "4 more to take oath as Cabinet members after president's swearing-in ",
+      "title": "3 more children die with measles-like symptoms",
+      "link": "https://www.tbsnews.net/bangladesh/3-more-children-die-measles-symptoms-1521176",
+      "pubDate": "Fri, 21 Aug 2026 16:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/11/measles_tbs.jpeg",
+      "snippet": "With these, the total number of suspected measles deaths has reached 829, while confirmed deaths from measles have remained the same at 99"
+    },
+    {
+      "title": "Dhaka kitchen markets see little relief as sugar, oil prices rise",
+      "link": "https://www.tbsnews.net/bangladesh/dhaka-kitchen-markets-see-little-relief-sugar-oil-prices-rise-1521166",
+      "pubDate": "Fri, 21 Aug 2026 16:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/04/23/karwan_bazar.jpg",
+      "snippet": "Sugar prices have jumped by Tk10 a kg in a week, loose edible oil has become costlier, and retailers say bottled soybean oil is in short supply."
+    },
+    {
+      "title": "4 MPs set to take oath as Cabinet members after president's swearing-in",
       "link": "https://www.tbsnews.net/bangladesh/politics/4-more-take-oath-cabinet-members-after-presidents-swearing-1521161",
       "pubDate": "Fri, 21 Aug 2026 16:05:00 +0600",
       "category": "Bangladesh",
@@ -9,7 +31,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/cabinet.jpg",
-      "snippet": "Andaleeve Rahman Partho, chairman of the Bangladesh Jatiya Party (BJP) and lawmaker from Bhola-1, has received a phone call asking him to take the oath of office as a minister."
+      "snippet": "Abdul Moyeen Khan, Andaleeve Rahman Partho and Saching Prue Jerry are set to be inducted into the Cabinet as ministers, while Mohammad Shamim Kaiser is being tipped for appointment as a state minister."
     },
     {
       "title": "Farmer dies after intervening in clash between Chhatra Dal, banned Awami League in Satkhira",
@@ -230,28 +252,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/02/16/teesta_water.gif",
       "snippet": "The existing 30-year agreement expires in December."
-    },
-    {
-      "title": "Four children drown in Narayanganj pond",
-      "link": "https://www.tbsnews.net/bangladesh/four-children-drown-narayanganj-pond-1520846",
-      "pubDate": "Thu, 20 Aug 2026 22:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/07/25/drowned_death_3x2_0.jpg",
-      "snippet": "The children went missing from their homes in the afternoon. Their families began searching for them and later found their shoes and sandals beside a pond."
-    },
-    {
-      "title": "World Mosquito Day: MSF rallies in Ctg to raise dengue awareness ",
-      "link": "https://www.tbsnews.net/bangladesh/world-mosquito-day-msf-rallies-ctg-raise-dengue-awareness-1520826",
-      "pubDate": "Thu, 20 Aug 2026 21:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/mosquito_day.png",
-      "snippet": "The organisation distributed practical advice and demonstrated source reduction techniques to residents to help lower the risk of infection."
     },
     {
       "title": "BGMEA, Bidec join hands to cut garment factories' power use",
@@ -815,5 +815,5 @@
       "snippet": "Responding to a question about the market situation six months after taking office, Muktadir said energy and electricity prices, lending rates, productivity, transport, and infrastructure all influence commodity prices."
     }
   ],
-  "updatedAt": "2026-08-21T10:29:54.772Z"
+  "updatedAt": "2026-08-21T10:59:45.710Z"
 }
