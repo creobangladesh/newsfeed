@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Mirza Fakhrul sworn in as president of Bangladesh",
+      "link": "https://www.tbsnews.net/bangladesh/mirza-fakhrul-sworn-bangladeshs-23rd-president-1521276",
+      "pubDate": "Fri, 21 Aug 2026 19:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/mirza-fakhrul.jpg",
+      "snippet": "He becomes the country's 23rd president after the first election in 35 years."
+    },
+    {
+      "title": "Cabinet reshuffle: Moyeen, Partho, Saching Prue, Millat take oath as ministers",
+      "link": "https://www.tbsnews.net/bangladesh/cabinet-reshuffle-moyeen-partho-saching-prue-millat-take-oath-ministers-1521296",
+      "pubDate": "Fri, 21 Aug 2026 19:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/new_minister_oath.jpg",
+      "snippet": "Humaiun Kobir and Shamim Kaiser have been made state ministers."
+    },
+    {
       "title": "Zardari congratulates Fakhrul, invites him to Pakistan",
       "link": "https://www.tbsnews.net/bangladesh/zardari-congratulates-fakhrul-invites-him-pakistan-1521266",
       "pubDate": "Fri, 21 Aug 2026 19:25:00 +0600",
@@ -63,7 +85,7 @@
       "color": "#455a64",
       "bg": "#eceff1",
       "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/stock_broker_dse.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/stock_broker_dse_0.jpg",
       "snippet": "While healthy capital markets make participation in wealth creation more democratic, it plays a more important role in the economy: keeping Bangladesh’s wealth from ending up elsewhere"
     },
     {
@@ -78,15 +100,15 @@
       "snippet": "Suspect allegedly posed as an Italian expatriate while renting house"
     },
     {
-      "title": "No decision yet on Bangladesh PM's visit to India, Dhaka says",
-      "link": "https://www.tbsnews.net/world/south-asia/no-decision-yet-bangladesh-pms-visit-india-dhaka-says-1521216",
+      "title": "No decision yet on PM's India visit: Press secretary",
+      "link": "https://www.tbsnews.net/bangladesh/no-decision-yet-pms-india-visit-press-secretary-1521216",
       "pubDate": "Fri, 21 Aug 2026 18:05:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/prime_minister_tarique_rahman.jpg",
-      "snippet": "Dhaka says it is awaiting New Delhi's response on Sheikh Hasina’s extradition and other issues before deciding on the prime minister's proposed India trip."
+      "snippet": "Dhaka is awaiting New Delhi’s response to its recent requests over the extradition of Sheikh Hasina and other fugitives, while India has invited Prime Minister Tarique Rahman for a bilateral visit."
     },
     {
       "title": "Higher education must be linked to employment, entrepreneurship: Amir Khosru",
@@ -252,28 +274,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/img_9442.jpeg",
       "snippet": "Speaker Hafiz Uddin Ahmad will administer the oath of office to the president-elect, according to Bangabhaban."
-    },
-    {
-      "title": "Ukrainian father-son duo chose Bangladesh over Vietnam. Now their shoes reach 70 countries",
-      "link": "https://www.tbsnews.net/features/ukrainian-father-son-duo-chose-bangladesh-over-vietnam-now-their-shoes-reach-70-countries",
-      "pubDate": "Fri, 21 Aug 2026 11:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/778793538_1077699368128445_3616855364232667403_n.jpg",
-      "snippet": "Annual exports total $25m; capacity set to reach 10,000 pairs"
-    },
-    {
-      "title": "Man stabbed to death in Chattogram over mobile phone dispute",
-      "link": "https://www.tbsnews.net/bangladesh/man-stabbed-death-chattogram-over-mobile-phone-dispute-1521001",
-      "pubDate": "Fri, 21 Aug 2026 10:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/copy_of_10_top_performing_feature_items.jpeg",
-      "snippet": "The deceased, Mohammad Sakib, was the son of Md Nazum Uddin in the area."
     },
     {
       "title": "How banking sector stabilised",
@@ -802,18 +802,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/11/05/dsex.png",
       "snippet": "Profit-taking wipes out early gains as turnover nears Tk1,000 crore."
-    },
-    {
-      "title": "Central Medical Stores Depot to get 14,000sqft pharma-grade warehouse",
-      "link": "https://www.tbsnews.net/bangladesh/health/central-medical-stores-depot-get-14000sqft-pharma-grade-warehouse-1518671",
-      "pubDate": "Tue, 18 Aug 2026 20:10:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/29/cmsd.jpg",
-      "snippet": "The nearly one lakh-cubic-foot facility in Tejgaon is being developed with support from the government, UNOPS and the Global Fund to improve the storage of essential medicines and health supplies."
     }
   ],
-  "updatedAt": "2026-08-21T13:44:16.502Z"
+  "updatedAt": "2026-08-21T14:34:46.472Z"
 }
