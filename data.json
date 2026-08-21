@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "President's swearing-in: Roads to avoid in Dhaka today",
+      "link": "https://www.tbsnews.net/bangladesh/presidents-swearing-roads-avoid-dhaka-today-1520946",
+      "pubDate": "Fri, 21 Aug 2026 09:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/08/05/dhaka_court.jpg",
+      "snippet": "Buses travelling from Shapla Chattar and Dainik Bangla towards Rajuk and Gulistan will use the Dainik Bangla–UBL–Press Club route."
+    },
+    {
+      "title": "Increase coal-fired power to free up gas for industries: PM",
+      "link": "https://www.tbsnews.net/bangladesh/energy/increase-coal-fired-power-free-gas-industries-pm-1520941",
+      "pubDate": "Fri, 21 Aug 2026 08:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/03/21/payra_mumitm-7164.jpg",
+      "snippet": "Tarique Rahman has sought a detailed plan outlining how the country’s energy supply situation is expected to evolve at different stages through 2029."
+    },
+    {
       "title": "BIFFL CEO assaulted for refusing Tk1,400cr Teesta Solar loan: Ex-BB governor Rouf, ex-NBR chief Muneem get permanent bail",
       "link": "https://www.tbsnews.net/bangladesh/court/biffl-ceo-assaulted-refusing-tk1400cr-teesta-solar-loan-ex-bb-governor-rouf-ex-nbr",
       "pubDate": "Fri, 21 Aug 2026 02:00:00 +0600",
@@ -219,28 +241,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/20/chinmoy.jpg",
       "snippet": "The eyewitness testimony was recorded after both sides presented their arguments, with Chinmoy attending the proceedings virtually and the other accused appearing in court under tight security."
-    },
-    {
-      "title": "PKSF, CAB International join hands to promote sustainable agroecological farming",
-      "link": "https://www.tbsnews.net/bangladesh/pksf-cab-international-join-hands-promote-sustainable-agroecological-farming-1520736",
-      "pubDate": "Thu, 20 Aug 2026 20:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/pksf.png",
-      "snippet": "He emphasised the importance of promoting science-based agriculture and agroecological farming while equipping farmers with the skills needed to adopt modern and environmentally friendly farming practices."
-    },
-    {
-      "title": "EC issues gazette declaring Fakhrul president-elect",
-      "link": "https://www.tbsnews.net/bangladesh/ec-issues-gazette-declaring-fakhrul-president-elect-1520711",
-      "pubDate": "Thu, 20 Aug 2026 20:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/uploads/2023/12/24/election_commission_5.jpg",
-      "snippet": "The notification was issued after Fakhrul secured 255 votes against Oli Ahmad’s 88 in today’s presidential election."
     },
     {
       "title": "Decent work, skills vital for RMG's global competitiveness: Experts",
@@ -848,5 +848,5 @@
       "snippet": "Under the agreed terms, Bangladesh Bank will pay fund-providing banks a rate tied to its policy rate plus 50 basis points, up from the 9% originally proposed"
     }
   ],
-  "updatedAt": "2026-08-21T02:44:27.763Z"
+  "updatedAt": "2026-08-21T03:50:07.698Z"
 }
