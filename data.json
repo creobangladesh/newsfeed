@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "July movement involvement led to attack, murder followed refusal to withdraw case: Police",
+      "link": "https://www.tbsnews.net/bangladesh/crime/july-movement-involvement-led-attack-murder-followed-refusal-withdraw-case-police",
+      "pubDate": "Fri, 21 Aug 2026 20:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/nganj-police-press-conference.jpg",
+      "snippet": "Police say the victim was repeatedly threatened over the case."
+    },
+    {
       "title": "Mirza Fakhrul sworn in as president of Bangladesh",
       "link": "https://www.tbsnews.net/bangladesh/mirza-fakhrul-sworn-bangladeshs-23rd-president-1521276",
       "pubDate": "Fri, 21 Aug 2026 19:40:00 +0600",
@@ -9,7 +20,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/mirza-fakhrul.jpg",
-      "snippet": "He becomes the country's 23rd president after the first election in 35 years."
+      "snippet": "The veteran BNP leader has become the country's 23rd head of the state by winning the first presidential election in 35 years."
     },
     {
       "title": "Cabinet reshuffle: Moyeen, Partho, Saching Prue, Millat take oath as ministers",
@@ -111,8 +122,8 @@
       "snippet": "Dhaka is awaiting New Delhi’s response to its recent requests over the extradition of Sheikh Hasina and other fugitives, while India has invited Prime Minister Tarique Rahman for a bilateral visit."
     },
     {
-      "title": "Higher education must be linked to employment, entrepreneurship: Amir Khosru",
-      "link": "https://www.tbsnews.net/bangladesh/education/higher-education-must-be-linked-employment-entrepreneurship-amir-khosru-1521206",
+      "title": "Finance minister urges linking higher education with jobs, entrepreneurship",
+      "link": "https://www.tbsnews.net/bangladesh/education/finance-minister-urges-linking-higher-education-jobs-entrepreneurship-1521206",
       "pubDate": "Fri, 21 Aug 2026 17:50:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
@@ -177,17 +188,6 @@
       "snippet": "Abdul Moyeen Khan, Andaleeve Rahman Partho and Saching Prue Jerry are set to be inducted into the Cabinet as ministers, while Mohammad Shamim Kaiser is being tipped for appointment as a state minister."
     },
     {
-      "title": "Farmer dies after intervening in clash between Chhatra Dal, banned Awami League in Satkhira",
-      "link": "https://www.tbsnews.net/bangladesh/farmer-dies-after-intervening-clash-between-chhatra-dal-banned-awami-league-satkhira",
-      "pubDate": "Fri, 21 Aug 2026 15:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/02/representational_deadbody.jpg",
-      "snippet": "Upon receiving the news, a group of 10–12 Chhatra Dal activists went to the scene, where around 20–30 activists of the Awami League, Jubo League, and Chhatra League launched an ambush on them."
-    },
-    {
       "title": "1/11-era ex-DIG prisons Shamsul Haider poised for return to department",
       "link": "https://www.tbsnews.net/bangladesh/former-dig-prisons-shamsul-haider-siddiqui-set-return-department-1521131",
       "pubDate": "Fri, 21 Aug 2026 15:15:00 +0600",
@@ -197,6 +197,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/777880755_1206584204998482_1835517284567992252_n.jpg",
       "snippet": "His direct appointment as inspector general was also reportedly reviewed in terms of the existing administrative and legal framework."
+    },
+    {
+      "title": "Farmer dies after intervening in clash between Chhatra Dal, banned Awami League in Satkhira",
+      "link": "https://www.tbsnews.net/bangladesh/farmer-dies-after-intervening-clash-between-chhatra-dal-banned-awami-league-satkhira",
+      "pubDate": "Fri, 21 Aug 2026 15:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/02/representational_deadbody.jpg",
+      "snippet": "Upon receiving the news, a group of 10–12 Chhatra Dal activists went to the scene, where around 20–30 activists of the Awami League, Jubo League, and Chhatra League launched an ambush on them."
     },
     {
       "title": "President-elect Fakhrul pays homage to Zia, Khaleda at their graves",
@@ -263,17 +274,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/img_9441_0.jpeg",
       "snippet": "The incident took place at Gazirhat Hazi Naimuddin High School."
-    },
-    {
-      "title": "Fakhrul to pay homage at Zia, Khaleda's graves before taking oath as president",
-      "link": "https://www.tbsnews.net/bangladesh/fakhrul-pay-homage-zia-khaledas-graves-oath-1521061",
-      "pubDate": "Fri, 21 Aug 2026 11:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/img_9442.jpeg",
-      "snippet": "Speaker Hafiz Uddin Ahmad will administer the oath of office to the president-elect, according to Bangabhaban."
     },
     {
       "title": "How banking sector stabilised",
@@ -804,5 +804,5 @@
       "snippet": "Profit-taking wipes out early gains as turnover nears Tk1,000 crore."
     }
   ],
-  "updatedAt": "2026-08-21T14:34:46.472Z"
+  "updatedAt": "2026-08-21T15:32:26.258Z"
 }
