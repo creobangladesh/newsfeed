@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "How banking sector stabilised",
+      "link": "https://www.tbsnews.net/economy/how-banking-sector-stabilised-1520961",
+      "pubDate": "Fri, 21 Aug 2026 09:40:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/02/bank_representational_image_1.jpg",
+      "snippet": "The foreign exchange market has also remained broadly stable, with the dollar rate holding steady while foreign exchange reserves increased by over $2 billion to more than $32 billion in the last six months, according to International Monetary Fund c..."
+    },
+    {
       "title": "President's swearing-in: Roads to avoid in Dhaka today",
       "link": "https://www.tbsnews.net/bangladesh/presidents-swearing-roads-avoid-dhaka-today-1520946",
       "pubDate": "Fri, 21 Aug 2026 09:10:00 +0600",
@@ -782,17 +793,6 @@
       "snippet": "The latest figures take the year’s dengue death toll to 74, while total cases have crossed 25,600"
     },
     {
-      "title": "Commerce minister unhappy with commodity prices, cost of living",
-      "link": "https://www.tbsnews.net/economy/commerce-minister-unhappy-commodity-prices-cost-living-1518516",
-      "pubDate": "Tue, 18 Aug 2026 17:00:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/30/khandaker_abdul_muktadir.jpg",
-      "snippet": "Responding to a question about the market situation six months after taking office, Muktadir said energy and electricity prices, lending rates, productivity, transport, and infrastructure all influence commodity prices."
-    },
-    {
       "title": "Transforming Bangladesh's Wildlife Commission into a lasting national legacy",
       "link": "https://www.tbsnews.net/thoughts/transforming-bangladeshs-wildlife-commission-lasting-national-legacy-1518381",
       "pubDate": "Tue, 18 Aug 2026 16:10:00 +0600",
@@ -835,18 +835,7 @@
       "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/tech_china.jpg",
       "snippet": "China’s intelligent computing capacity reached 2,185 EFLOPS by the end of June, up 177 percent year on year, reflecting the rapid expansion of the country’s AI infrastructure."
-    },
-    {
-      "title": "38 banks seek Tk28,000cr in stimulus funds for struggling businesses",
-      "link": "https://www.tbsnews.net/economy/banking/38-banks-seek-tk28000cr-stimulus-funds-struggling-businesses-1517961",
-      "pubDate": "Tue, 18 Aug 2026 10:00:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/bb.png",
-      "snippet": "Under the agreed terms, Bangladesh Bank will pay fund-providing banks a rate tied to its policy rate plus 50 basis points, up from the 9% originally proposed"
     }
   ],
-  "updatedAt": "2026-08-21T03:50:07.698Z"
+  "updatedAt": "2026-08-21T04:37:24.998Z"
 }
