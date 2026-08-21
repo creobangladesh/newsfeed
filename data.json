@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "​​​​​​​Snake venom worth Tk38.57cr seized in Dinajpur, four held",
+      "link": "https://www.tbsnews.net/bangladesh/crime/snake-venom-worth-tk3857cr-seized-dinajpur-four-held-1521421",
+      "pubDate": "Sat, 22 Aug 2026 01:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/4-held-with-snake-venom.jpg",
+      "snippet": "BGB says the venom was being smuggled abroad."
+    },
+    {
+      "title": "Rare to have a personality like Mirza Fakhrul as president: Debapriya",
+      "link": "https://www.tbsnews.net/economy/rare-have-personality-mirza-fakhrul-president-debapriya-1521416",
+      "pubDate": "Sat, 22 Aug 2026 01:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/debapriya_bhattacharya_and_bangladesh_president_mirza_fakhrul_islam_alamgir.png",
+      "snippet": "The economist praises Fakhrul’s political, administrative and academic experience."
+    },
+    {
       "title": "Violent clash at Sylhet shrine over donation box leaves 30 injured",
       "link": "https://www.tbsnews.net/bangladesh/crime/violent-clash-sylhet-shrine-over-donation-box-leaves-30-injured-1521411",
       "pubDate": "Sat, 22 Aug 2026 01:05:00 +0600",
@@ -246,10 +268,10 @@
       "title": "Govt to build innovation hubs, startup ecosystem in universities: Mahdi Amin",
       "link": "https://www.tbsnews.net/bangladesh/education/govt-build-innovation-hubs-startup-ecosystem-universities-mahdi-amin-1521201",
       "pubDate": "Fri, 21 Aug 2026 17:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/mahdi_amin_2.jpg",
       "snippet": "PM’s education adviser Mahdi Amin says the government will support innovation hubs, incubation centres and research initiatives at universities to turn promising ideas into startups and solve local problems."
     },
@@ -257,10 +279,10 @@
       "title": "3 more children die with measles-like symptoms",
       "link": "https://www.tbsnews.net/bangladesh/3-more-children-die-measles-symptoms-1521176",
       "pubDate": "Fri, 21 Aug 2026 16:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/11/measles_tbs.jpeg",
       "snippet": "With these, the total number of suspected measles deaths has reached 829, while confirmed deaths from measles have remained the same at 99"
     },
@@ -738,5 +760,5 @@
       "snippet": "It turns to cenbank to recover its revenue, employees’ provident and gratuity funds"
     }
   ],
-  "updatedAt": "2026-08-21T19:25:21.278Z"
+  "updatedAt": "2026-08-21T19:48:20.286Z"
 }
