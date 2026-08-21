@@ -1,6 +1,83 @@
 {
   "news": [
     {
+      "title": "Beyond sustainability: What do we actually want to sustain?",
+      "link": "https://www.tbsnews.net/thoughts/beyond-sustainability-what-do-we-actually-want-sustain-1521231",
+      "pubDate": "Fri, 21 Aug 2026 18:35:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/panorama_illustration-11.10.2021-01_1.png",
+      "snippet": "True sustainability requires more than green initiatives or economic growth. It means recognising ecological limits, protecting nature’s irreplaceable systems and ensuring today’s development does not undermine future generations."
+    },
+    {
+      "title": "Want to prevent capital flight? Build a functioning capital market",
+      "link": "https://www.tbsnews.net/thoughts/want-prevent-capital-flight-build-functioning-capital-market-1521236",
+      "pubDate": "Fri, 21 Aug 2026 18:35:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/stock_broker_dse.jpg",
+      "snippet": "While healthy capital markets make participation in wealth creation more democratic, it plays a more important role in the economy: keeping Bangladesh’s wealth from ending up elsewhere"
+    },
+    {
+      "title": "Motorcycle used in Uttara petrol pump robbery recovered ",
+      "link": "https://www.tbsnews.net/bangladesh/motorcycle-used-uttara-petrol-pump-robbery-recovered-1521226",
+      "pubDate": "Fri, 21 Aug 2026 18:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/dl-petrol-pump-heist.jpg",
+      "snippet": "Suspect allegedly posed as an Italian expatriate while renting house"
+    },
+    {
+      "title": "No decision yet on Bangladesh PM's visit to India, Dhaka says",
+      "link": "https://www.tbsnews.net/world/south-asia/no-decision-yet-bangladesh-pms-visit-india-dhaka-says-1521216",
+      "pubDate": "Fri, 21 Aug 2026 18:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/prime_minister_tarique_rahman.jpg",
+      "snippet": "Dhaka says it is awaiting New Delhi's response on Sheikh Hasina’s extradition and other issues before deciding on the prime minister's proposed India trip."
+    },
+    {
+      "title": "Higher education must be linked to employment, entrepreneurship: Amir Khosru",
+      "link": "https://www.tbsnews.net/bangladesh/education/higher-education-must-be-linked-employment-entrepreneurship-amir-khosru-1521206",
+      "pubDate": "Fri, 21 Aug 2026 17:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/amir_khosru.jpg",
+      "snippet": "The minister also calls for stronger university-industry collaboration, industry-linked research, and academic programmes tailored to regional and labour market demands."
+    },
+    {
+      "title": "Govt takes narrow-minded approach to opposition’s participation in presidential election: Hamidur",
+      "link": "https://www.tbsnews.net/bangladesh/politics/govt-takes-narrow-minded-approach-oppositions-participation-presidential",
+      "pubDate": "Fri, 21 Aug 2026 17:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/hamidur-rahman-azad.jpg",
+      "snippet": "The Jamaat leader says participation was a symbolic democratic protest."
+    },
+    {
+      "title": "Govt to build innovation hubs, startup ecosystem in universities: Mahdi Amin",
+      "link": "https://www.tbsnews.net/bangladesh/education/govt-build-innovation-hubs-startup-ecosystem-universities-mahdi-amin-1521201",
+      "pubDate": "Fri, 21 Aug 2026 17:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/mahdi_amin_2.jpg",
+      "snippet": "PM’s education adviser Mahdi Amin says the government will support innovation hubs, incubation centres and research initiatives at universities to turn promising ideas into startups and solve local problems."
+    },
+    {
       "title": "3 more children die with measles-like symptoms",
       "link": "https://www.tbsnews.net/bangladesh/3-more-children-die-measles-symptoms-1521176",
       "pubDate": "Fri, 21 Aug 2026 16:40:00 +0600",
@@ -188,39 +265,6 @@
       "snippet": "Tarique Rahman has sought a detailed plan outlining how the country’s energy supply situation is expected to evolve at different stages through 2029."
     },
     {
-      "title": "BIFFL CEO assaulted for refusing Tk1,400cr Teesta Solar loan: Ex-BB governor Rouf, ex-NBR chief Muneem get permanent bail",
-      "link": "https://www.tbsnews.net/bangladesh/court/biffl-ceo-assaulted-refusing-tk1400cr-teesta-solar-loan-ex-bb-governor-rouf-ex-nbr",
-      "pubDate": "Fri, 21 Aug 2026 02:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/rouf_muneem_.png",
-      "snippet": "Salman F Rahman, a former adviser to the ousted Awami League government, is the only accused who has been arrested in the case and remains in jail, according to the case proceedings."
-    },
-    {
-      "title": "Infant dies at Jashore General Hospital; family alleges C-section injuries caused death",
-      "link": "https://www.tbsnews.net/bangladesh/infant-dies-jashore-general-hospital-family-alleges-c-section-injuries-caused-death",
-      "pubDate": "Fri, 21 Aug 2026 01:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/09/08/9477526_hospital-22.png",
-      "snippet": "However, hospital authorities denied that the baby's death was caused by injuries sustained during the C-section"
-    },
-    {
-      "title": "First meeting held at DU on arranging next Ducsu election; VC attends",
-      "link": "https://www.tbsnews.net/bangladesh/first-meeting-held-du-arranging-next-ducsu-election-vc-attends-1520886",
-      "pubDate": "Fri, 21 Aug 2026 00:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/pm_ducsu_2026.jpeg",
-      "snippet": "The meeting came hours after the vice-chancellor met Prime Minister Tarique Rahman at the Secretariat."
-    },
-    {
       "title": "Cenbank introduces ADR policy to speed up loan recovery, ease court backlog",
       "link": "https://www.tbsnews.net/economy/banking/cenbank-introduces-adr-policy-speed-loan-recovery-ease-court-backlog-1520871",
       "pubDate": "Fri, 21 Aug 2026 00:00:00 +0600",
@@ -235,23 +279,12 @@
       "title": "Bida, Beza, PPPA merge as Invest Bangladesh takes effect",
       "link": "https://www.tbsnews.net/economy/bida-beza-pppa-merge-invest-bangladesh-takes-effect-1520866",
       "pubDate": "Thu, 20 Aug 2026 23:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/investment_bangladesh.jpg",
       "snippet": "New authority to streamline investor services, reduce barriers."
-    },
-    {
-      "title": "Bangladesh to seek higher water share in renewed Farakka deal: State minister",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-seek-higher-water-share-renewed-farakka-deal-state-minister-1520851",
-      "pubDate": "Thu, 20 Aug 2026 22:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/02/16/teesta_water.gif",
-      "snippet": "The existing 30-year agreement expires in December."
     },
     {
       "title": "BGMEA, Bidec join hands to cut garment factories' power use",
@@ -769,40 +802,7 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/milon.png",
       "snippet": ""
-    },
-    {
-      "title": "3-minute workout may outperform 90 minutes of exercise, scientists say",
-      "link": "https://www.tbsnews.net/offbeat/3-minute-workout-may-outperform-90-minutes-exercise-scientists-say-1518611",
-      "pubDate": "Tue, 18 Aug 2026 18:40:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/workout.jpg",
-      "snippet": "The study found that intense exercise rapidly affected proteins linked to tissue repair, blood vessel formation and hormone activity, with some changes persisting after eight weeks of training."
-    },
-    {
-      "title": "Ctg to host first-ever Build Expo on sustainable urban development",
-      "link": "https://www.tbsnews.net/economy/industry/chattogram-host-first-ever-build-expo-sustained-urban-development-1518586",
-      "pubDate": "Tue, 18 Aug 2026 18:05:00 +0600",
-      "category": "Industry",
-      "color": "#f57c00",
-      "bg": "#fff3e0",
-      "icon": "🏭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/cef79ace-7275-4e89-8e49-b3f0ebcd2608.jpg",
-      "snippet": "Three-day expo will showcase construction products and technologies"
-    },
-    {
-      "title": "Dengue claims 3 more lives as 753 patients hospitalised in 24hrs",
-      "link": "https://www.tbsnews.net/bangladesh/health/dengue-claims-3-more-lives-753-patients-hospitalised-24hrs-1518541",
-      "pubDate": "Tue, 18 Aug 2026 17:40:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/16/dengue_prevention_strategy_.jpg",
-      "snippet": "The latest figures take the year’s dengue death toll to 74, while total cases have crossed 25,600"
     }
   ],
-  "updatedAt": "2026-08-21T11:33:49.739Z"
+  "updatedAt": "2026-08-21T12:45:56.312Z"
 }
