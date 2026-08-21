@@ -1,8 +1,52 @@
 {
   "news": [
     {
+      "title": "Carew poised for record profit despite sugar factory losses",
+      "link": "https://www.tbsnews.net/bangladesh/carew-poised-record-profit-despite-sugar-factory-losses-1521076",
+      "pubDate": "Fri, 21 Aug 2026 12:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/img_9444_1.jpeg",
+      "snippet": "It has since developed into a large industrial complex with sugar, distillery, pharmaceutical, farming and bio-fertiliser units."
+    },
+    {
+      "title": "Islami Jubo Andolan leader hacked to death in Narayanganj; prime accused arrested",
+      "link": "https://www.tbsnews.net/bangladesh/islami-jubo-andolan-leader-hacked-death-narayanganj-prime-accused-arrested-1521071",
+      "pubDate": "Fri, 21 Aug 2026 12:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/164011.jpg",
+      "snippet": "Islami Andolan activists took to the Dhaka-Chattogram Highway in the Madanpur area around 10am today, setting tyres on fire and blocking traffic."
+    },
+    {
+      "title": "Girl, with limbs and mouth tied, rescued from Khulna school washroom",
+      "link": "https://www.tbsnews.net/bangladesh/girl-hands-legs-and-mouth-tied-rescued-khulna-school-washroom-1521056",
+      "pubDate": "Fri, 21 Aug 2026 11:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/img_9441_0.jpeg",
+      "snippet": "The incident took place at Gazirhat Hazi Naimuddin High School."
+    },
+    {
+      "title": "Mirza Fakhrul to take oath as President this evening",
+      "link": "https://www.tbsnews.net/bangladesh/mirza-fakhrul-take-oath-president-evening-1521061",
+      "pubDate": "Fri, 21 Aug 2026 11:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/img_9442.jpeg",
+      "snippet": "Speaker Hafiz Uddin Ahmad will administer the oath of the office of the President, according to Bangabhaban."
+    },
+    {
       "title": "Ukrainian father-son duo chose Bangladesh over Vietnam. Now their shoes reach 70 countries",
-      "link": "https://www.tbsnews.net/bangladesh/ukrainian-father-son-duo-chose-bangladesh-over-vietnam-now-their-shoes-reach-70-countries",
+      "link": "https://www.tbsnews.net/features/ukrainian-father-son-duo-chose-bangladesh-over-vietnam-now-their-shoes-reach-70-countries",
       "pubDate": "Fri, 21 Aug 2026 11:00:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
@@ -210,46 +254,13 @@
       "snippet": "According to the prosecution, Moher Ali, 19, and his nephew Swapon Mia, 16, were taken from their home on May 16, 2016, on the pretext of attending a singing event in nearby Gazaria."
     },
     {
-      "title": "National Feed Mills under BSEC scanner over financial discrepancies, compliance failure",
-      "link": "https://www.tbsnews.net/economy/stocks/national-feed-mills-under-bsec-scanner-over-financial-discrepancies-compliance",
-      "pubDate": "Thu, 20 Aug 2026 21:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/15/bsec_stock.jpg",
-      "snippet": "Regulator asks DSE to provide observation on violations within 30 working days"
-    },
-    {
-      "title": "BNP Chairman Tarique holds meeting with Pabna, Chapainawabganj leaders",
-      "link": "https://www.tbsnews.net/bangladesh/bnp-chairman-tarique-holds-meeting-pabna-chapainawabganj-leaders-1520761",
-      "pubDate": "Thu, 20 Aug 2026 21:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/tarique.png",
-      "snippet": "The discussion was organised as part of the BNP’s efforts to further strengthen and organise the party at the grassroots level."
-    },
-    {
-      "title": "Fakhrul is the best choice for president: Khosru",
-      "link": "https://www.tbsnews.net/bangladesh/fakhrul-best-choice-president-khosru-1520771",
-      "pubDate": "Thu, 20 Aug 2026 21:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/khosru_fakhrul.jpg",
-      "snippet": "Fakhrul has spent his political life fighting for democracy and enduring repression and imprisonment, he says."
-    },
-    {
       "title": "BGMEA, Bidec join hands to cut garment factories' power use",
       "link": "https://www.tbsnews.net/economy/bgmea-bidec-join-hands-cut-garment-factories-power-use-1520756",
       "pubDate": "Thu, 20 Aug 2026 21:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/23/logo-bgmea-cmyk_16x9.png",
       "snippet": "Field trials across 42 garment factories found electricity savings of up to nearly 65%, with the initiative also expected to lower operating costs and support the sector’s decarbonisation."
     },
@@ -824,18 +835,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/28/india_bangladesh_0.jpg",
       "snippet": "Sheikh Hasina's continued political presence in India risks deepening public distrust in Bangladesh and complicating bilateral ties. New Delhi should separate its relationship with the Bangladeshi state from the political fate of one former leader"
-    },
-    {
-      "title": "China builds diversified AI landscape by leveraging regional strengths",
-      "link": "https://www.tbsnews.net/tech/china-builds-diversified-ai-landscape-leveraging-regional-strengths-1518121",
-      "pubDate": "Tue, 18 Aug 2026 12:30:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/tech_china.jpg",
-      "snippet": "China’s intelligent computing capacity reached 2,185 EFLOPS by the end of June, up 177 percent year on year, reflecting the rapid expansion of the country’s AI infrastructure."
     }
   ],
-  "updatedAt": "2026-08-21T05:31:40.090Z"
+  "updatedAt": "2026-08-21T06:45:24.054Z"
 }
