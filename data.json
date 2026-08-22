@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Armed robbers loot Tk31.5 lakh goods, cash from knitting factory in Gazipur",
+      "link": "https://www.tbsnews.net/bangladesh/crime/armed-robbers-loot-tk315-lakh-goods-cash-knitting-factory-gazipur-1522121",
+      "pubDate": "Sat, 22 Aug 2026 23:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/gazipur_rmg_22082026_12.jpeg",
+      "snippet": "Five employees were held hostage during the overnight raid."
+    },
+    {
+      "title": "Kobir seeks mounting global pressure on Myanmar for Rohingyas' return",
+      "link": "https://www.tbsnews.net/rohingya-crisis/kobir-seeks-mounting-global-pressure-myanmar-rohingyas-return-1522111",
+      "pubDate": "Sat, 22 Aug 2026 23:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/09/humayun_kabir.jpg",
+      "snippet": ""
+    },
+    {
       "title": "Tejgaon, Paltan Model police station OCs withdrawn",
       "link": "https://www.tbsnews.net/bangladesh/tejgaon-paltan-model-police-station-ocs-withdrawn-1522101",
       "pubDate": "Sat, 22 Aug 2026 23:35:00 +0600",
@@ -10,6 +32,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/08/13/dmp-logo-tbs.jpg",
       "snippet": "Both officers attached to DMP headquarters for administrative reasons."
+    },
+    {
+      "title": "Runner moves ahead with BYD tie-up, signs EV licensing deal",
+      "link": "https://www.tbsnews.net/economy/stocks/runner-moves-ahead-byd-tie-signs-ev-licensing-deal-1522116",
+      "pubDate": "Sat, 22 Aug 2026 23:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/09/runner_automobile.jpg",
+      "snippet": "The board has also approved a proposal to double the company’s authorised share capital to Tk400 crore from Tk200 crore."
     },
     {
       "title": "'Bangladesh First' to guide decision on joining any pact: Shama Obaed",
@@ -89,17 +122,6 @@
       "snippet": "Four members of one family were among the victims."
     },
     {
-      "title": "'Chattogram Build Expo 2026' ends with call for planned, sustainable urbanisation",
-      "link": "https://www.tbsnews.net/bangladesh/chattogram-build-expo-2026-ends-call-planned-sustainable-urbanisation-1522051",
-      "pubDate": "Sat, 22 Aug 2026 21:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/ctg_expo.jpg",
-      "snippet": "Stakeholders from architecture, real estate and infrastructure sectors stress closer coordination as the port city continues to expand."
-    },
-    {
       "title": "Citizens can approach police stations without fear: Salahuddin",
       "link": "https://www.tbsnews.net/bangladesh/citizens-can-approach-police-stations-without-fear-salahuddin-1522046",
       "pubDate": "Sat, 22 Aug 2026 21:50:00 +0600",
@@ -111,6 +133,17 @@
       "snippet": "The home minister also spoke directly with citizens who had come to the station to seek police services."
     },
     {
+      "title": "'Chattogram Build Expo 2026' ends with call for planned, sustainable urbanisation",
+      "link": "https://www.tbsnews.net/bangladesh/chattogram-build-expo-2026-ends-call-planned-sustainable-urbanisation-1522051",
+      "pubDate": "Sat, 22 Aug 2026 21:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/ctg_expo.jpg",
+      "snippet": "Stakeholders from architecture, real estate and infrastructure sectors stress closer coordination as the port city continues to expand."
+    },
+    {
       "title": "BKMEA seeks gas cut for vehicles to improve supply to industries ",
       "link": "https://www.tbsnews.net/bangladesh/energy/bkmea-urges-halt-gas-supply-vehicles-except-public-transport-amid-crisis-1522021",
       "pubDate": "Sat, 22 Aug 2026 21:10:00 +0600",
@@ -119,7 +152,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/779956496_2472916753174532_2509840368774071826_n_0.jpg",
-      "snippet": "BKMEA seeks gas rationing for vehicles to prioritise industrial production amid ongoing energy crisis"
+      "snippet": "The association also called for weekly government briefings on the gas situation, saying industrialists are “in the dark” about the crisis and are being exposed to rumours and conflicting information."
     },
     {
       "title": "5 remanded over severed body recovery in Sabujbagh",
@@ -188,37 +221,15 @@
       "snippet": "Salahuddin Ahmed warns law enforcers of strict action."
     },
     {
-      "title": "Road crash on Dhaka-Sylhet highway claims 4 more lives ",
-      "link": "https://www.tbsnews.net/bangladesh/road-crash-dhaka-sylhet-highway-claims-4-more-lives-1521941",
-      "pubDate": "Sat, 22 Aug 2026 19:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/782729801_968019269631976_677595251179005085_n.jpg",
-      "snippet": "Just 15 days ago, nine people were killed in a bus collision in the same area."
-    },
-    {
       "title": "Selection of 25 Bangladeshi agencies: The saga of recruitment to Malaysia",
       "link": "https://www.tbsnews.net/bangladesh/selection-25-bangladeshi-agencies-saga-recruitment-malaysia-1521946",
       "pubDate": "Sat, 22 Aug 2026 19:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/malasia_bd_labour.jpg",
       "snippet": "Now, the immediate question is whether 25 agencies are merely being listed for administrative purposes or whether they will control recruitment again."
-    },
-    {
-      "title": "Kolkata hotel fire: Bodies of 6 deceased Bangladeshis return home",
-      "link": "https://www.tbsnews.net/bangladesh/kolkata-hotel-fire-bodies-6-deceased-bangladeshis-return-home-1521931",
-      "pubDate": "Sat, 22 Aug 2026 19:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/bgb_kolkata_fire.jpg",
-      "snippet": "The body of the seventh Bangladeshi victim, Rebati Sarker, 35, of Satkhira, was cremated in Kolkata last night in line with her family's wishes."
     },
     {
       "title": "UGC plans Higher Education Academy for faculty training: Chairman",
@@ -648,18 +659,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/02/19/sugarmarket.png",
       "snippet": "Sugar now sells at Tk3,800 per maund in Khatunganj"
-    },
-    {
-      "title": "Tk1,154cr project to add five new buildings at Dhaka Medical College",
-      "link": "https://www.tbsnews.net/bangladesh/health/tk1154cr-project-add-five-new-buildings-dhaka-medical-college-1519906",
-      "pubDate": "Thu, 20 Aug 2026 00:15:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/09/17/dmch.jpg",
-      "snippet": "The project includes a 15-storey academic building, an 800-seat student hostel, residential quarters and other facilities."
     }
   ],
-  "updatedAt": "2026-08-22T17:46:35.480Z"
+  "updatedAt": "2026-08-22T18:29:54.016Z"
 }
