@@ -1,26 +1,70 @@
 {
   "news": [
     {
-      "title": "Rohingya camps face shrinking healthcare amid funding crunch",
-      "link": "https://www.tbsnews.net/rohingya-crisis/rohingya-camps-face-shrinking-healthcare-amid-funding-crunch-1521466",
-      "pubDate": "Sat, 22 Aug 2026 10:30:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/p5_rohingya_img_7556.jpg",
-      "snippet": "Healthcare funding declined 39% while the population increased by more than 40%."
-    },
-    {
-      "title": "Apparel buyers stay with Bangladesh despite gas crunch – for now",
-      "link": "https://www.tbsnews.net/economy/apparel-buyers-stay-bangladesh-despite-gas-crunch-now-1521446",
-      "pubDate": "Sat, 22 Aug 2026 10:00:00 +0600",
+      "title": "Efforts continue for PM Tarique's India visit this month: HT ",
+      "link": "https://www.tbsnews.net/foreign-policy/efforts-continue-pm-tariques-india-visit-month-ht-1521536",
+      "pubDate": "Sat, 22 Aug 2026 11:10:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/08/rmg_1.jpg",
-      "snippet": "The gas crisis has disrupted production across major industrial belts, forcing some factories to suspend operations and others to rely on expensive alternative fuels"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/pm_tarique_zia_img_2.jpg",
+      "snippet": "Preparations had begun for a possible visit by Tarique Rahman during 23–24 August, including a ceremonial welcome and banquet at India’s Rashtrapati Bhavan and official meetings on the second day, but it is not going ahead."
+    },
+    {
+      "title": "Bishkhali riverbanks turn green as 50,000 trees reshape Bagerhat landscape",
+      "link": "https://www.tbsnews.net/bangladesh/environment/bishkhali-riverbanks-turn-green-50000-trees-reshape-bagerhat-landscape",
+      "pubDate": "Sat, 22 Aug 2026 11:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/bagerhat.jpg",
+      "snippet": "The plantation, covering about 50 kilometres along both banks of the river in Morelganj and Kachua upazilas, is already creating a striking green landscape amid the monsoon."
+    },
+    {
+      "title": "Primary healthcare gets priority; measles, dengue pose challenges",
+      "link": "https://www.tbsnews.net/bangladesh/health/primary-healthcare-gets-priority-measles-dengue-pose-challenges-1521526",
+      "pubDate": "Sat, 22 Aug 2026 10:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/measles_gov6months.jpg",
+      "snippet": "The Ministry of Health has taken initiatives to expand upazila hospital capacity, recruit doctors and health workers, utilise unused medical equipment, and introduce technology-based healthcare services"
+    },
+    {
+      "title": "TikTok agrees to $400 million settlement with US over children’s privacy",
+      "link": "https://www.tbsnews.net/tech/tiktok-agrees-400-million-settlement-us-over-childrens-privacy-1521501",
+      "pubDate": "Sat, 22 Aug 2026 10:35:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/tiktok.jpg",
+      "snippet": "The lawsuit alleged that TikTok and its Chinese parent company, ByteDance, breached the Children’s Online Privacy Protection Act (COPPA)."
+    },
+    {
+      "title": "Rohingya camps face shrinking healthcare amid funding crunch",
+      "link": "https://www.tbsnews.net/rohingya-crisis/rohingya-camps-face-shrinking-healthcare-amid-funding-crunch-1521466",
+      "pubDate": "Sat, 22 Aug 2026 10:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/p5_rohingya_img_7556.jpg",
+      "snippet": "Healthcare funding declined 39% while the population increased by more than 40%."
+    },
+    {
+      "title": "Awami League leader found dead two days after going missing in Brahmanbaria",
+      "link": "https://www.tbsnews.net/bangladesh/crime/awami-league-leader-found-dead-two-days-after-going-missing-brahmanbaria-1521491",
+      "pubDate": "Sat, 22 Aug 2026 10:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/untitled-1.jpg",
+      "snippet": "Kasba Police Station Officer-in-Charge Ali Mohammad Rashed said injury marks were found on the body"
     },
     {
       "title": "Syndicate fears return as Malaysia selects 25 Bangladeshi recruiting agencies",
@@ -32,6 +76,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/12/30/migrant_workers.jpg",
       "snippet": "A major section of the Bangladesh Association of International Recruiting Agencies has demanded that the Malaysian market remain open to all eligible agencies."
+    },
+    {
+      "title": "Apparel buyers stay with Bangladesh despite gas crunch – for now",
+      "link": "https://www.tbsnews.net/economy/apparel-buyers-stay-bangladesh-despite-gas-crunch-now-1521446",
+      "pubDate": "Sat, 22 Aug 2026 10:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/gas-crunch_0.png",
+      "snippet": "The gas crisis has disrupted production across major industrial belts, forcing some factories to suspend operations and others to rely on expensive alternative fuels"
     },
     {
       "title": "No country in the world that I cannot speak to eye-to-eye: State Minister Humaiun Kobir",
@@ -177,50 +232,6 @@
       "snippet": "Nearly 10 lakh tickets sold in a year as Bangladesh Railway plans more trains to meet rising passenger demand on the route."
     },
     {
-      "title": "July movement involvement led to attack, murder followed refusal to withdraw case: Police",
-      "link": "https://www.tbsnews.net/bangladesh/crime/july-movement-involvement-led-attack-murder-followed-refusal-withdraw-case-police",
-      "pubDate": "Fri, 21 Aug 2026 20:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/nganj-police-press-conference.jpg",
-      "snippet": "Police say the victim was repeatedly threatened over the case."
-    },
-    {
-      "title": "Mirza Fakhrul sworn-in as Bangladesh president",
-      "link": "https://www.tbsnews.net/bangladesh/mirza-fakhrul-sworn-bangladeshs-23rd-president-1521276",
-      "pubDate": "Fri, 21 Aug 2026 19:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/mirza-fakhrul.jpg",
-      "snippet": "The veteran BNP leader has become the country's 23rd head of the state by winning the first presidential election in 35 years."
-    },
-    {
-      "title": "Four ministers, 2 state ministers take oath as govt reshuffles cabinet for first time",
-      "link": "https://www.tbsnews.net/bangladesh/cabinet-reshuffle-moyeen-partho-saching-prue-millat-take-oath-ministers-1521296",
-      "pubDate": "Fri, 21 Aug 2026 19:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/new_minister_oath.jpg",
-      "snippet": "The Cabinet Division issued a late-night gazette regarding the distribution of portfolios."
-    },
-    {
-      "title": "Zardari congratulates Fakhrul, invites him to Pakistan",
-      "link": "https://www.tbsnews.net/bangladesh/zardari-congratulates-fakhrul-invites-him-pakistan-1521266",
-      "pubDate": "Fri, 21 Aug 2026 19:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/pakistan_president_asif_ali_zardari_and_bangladesh_president_mirza_fakhrul_islam_alamgir.jpg",
-      "snippet": "Asif Ali Zardari says Pakistan and Bangladesh share close historical, religious and cultural ties and hopes to deepen cooperation under President Mirza Fakhrul Islam Alamgir."
-    },
-    {
       "title": "Invest Bangladesh needs to measure what matters — investment realised ",
       "link": "https://www.tbsnews.net/thoughts/invest-bangladesh-needs-measure-what-matters-investment-realised-1521256",
       "pubDate": "Fri, 21 Aug 2026 19:15:00 +0600",
@@ -230,17 +241,6 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/05/11/illustration-of-entrepreneur-and-finance-_0.jpg",
       "snippet": "Bangladesh’s new unified investment authority has a chance to turn investment facilitation from a fragmented, permission-heavy process into a faster, more predictable system — but its success should ultimately be judged by how much real investment, p..."
-    },
-    {
-      "title": "Dhaka turns 416: Traditional boat race held on Buriganga",
-      "link": "https://www.tbsnews.net/bangladesh/dhaka-turns-416-traditional-boat-race-held-buriganga-1521251",
-      "pubDate": "Fri, 21 Aug 2026 19:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/buriganga_river_boat_race_dhaka.jpg",
-      "snippet": "The race celebrated Dhaka’s heritage during month-long festivities."
     },
     {
       "title": "AI won’t replace teachers. It will redefine them",
@@ -736,18 +736,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/fdi_copy.png",
       "snippet": "Fresh foreign equity investment fell by more than 70% in the first quarter, exposing the gap between Bangladesh's investment potential and investors' lived experience. Attracting more capital will require predictable regulation, reliable energy, stro..."
-    },
-    {
-      "title": "Cost-of-living pressures come from all fronts",
-      "link": "https://www.tbsnews.net/economy/cost-living-pressures-come-all-fronts-1518921",
-      "pubDate": "Wed, 19 Aug 2026 11:15:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/30/inflation.png",
-      "snippet": "There is little relief, whether from locally produced or imported goods. And the pressure extends well beyond food, which already accounts for the largest share of spending by low-income households"
     }
   ],
-  "updatedAt": "2026-08-22T04:31:49.339Z"
+  "updatedAt": "2026-08-22T05:26:32.309Z"
 }
