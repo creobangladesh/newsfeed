@@ -1,6 +1,61 @@
 {
   "news": [
     {
+      "title": "Banned polythene worth Tk3.63cr seized in Armanitola",
+      "link": "https://www.tbsnews.net/bangladesh/banned-polythene-worth-tk363cr-seized-armanitola-1521966",
+      "pubDate": "Sat, 22 Aug 2026 20:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/banned_polythene_img.jpg",
+      "snippet": "Owner remains unidentified after riverbank raid in capital."
+    },
+    {
+      "title": "Home minister orders swift arrests of criminals, extortionists and drug dealers",
+      "link": "https://www.tbsnews.net/bangladesh/home-minister-orders-swift-arrests-criminals-extortionists-and-drug-dealers-1521956",
+      "pubDate": "Sat, 22 Aug 2026 19:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/22/salahuddin_ahmed.png",
+      "snippet": "Salahuddin Ahmed warns law enforcers of strict action."
+    },
+    {
+      "title": "Road crash on Dhaka-Sylhet highway claims 4 more lives ",
+      "link": "https://www.tbsnews.net/bangladesh/road-crash-dhaka-sylhet-highway-claims-4-more-lives-1521941",
+      "pubDate": "Sat, 22 Aug 2026 19:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/782729801_968019269631976_677595251179005085_n.jpg",
+      "snippet": "Just 15 days ago, nine people were killed in a bus collision in the same area."
+    },
+    {
+      "title": "Selection of 25 Bangladeshi agencies: The saga of recruitment to Malaysia",
+      "link": "https://www.tbsnews.net/bangladesh/selection-25-bangladeshi-agencies-saga-recruitment-malaysia-1521946",
+      "pubDate": "Sat, 22 Aug 2026 19:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/malasia_bd_labour.jpg",
+      "snippet": "Now, the immediate question is whether 25 agencies are merely being listed for administrative purposes or whether they will control recruitment again."
+    },
+    {
+      "title": "Kolkata hotel fire: Bodies of 6 deceased Bangladeshis return home",
+      "link": "https://www.tbsnews.net/bangladesh/kolkata-hotel-fire-bodies-6-deceased-bangladeshis-return-home-1521931",
+      "pubDate": "Sat, 22 Aug 2026 19:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/bgb_kolkata_fire.jpg",
+      "snippet": "The body of the seventh Bangladeshi victim, Rebati Sarker, 35, of Satkhira, was cremated in Kolkata last night in line with her family's wishes."
+    },
+    {
       "title": "Continuous rain floods Dighinala lowlands, temporarily halts Sajek–Longadu road link",
       "link": "https://www.tbsnews.net/bangladesh/continuous-rain-floods-dighinala-lowlands-temporarily-halts-sajek-longadu-road-link",
       "pubDate": "Sat, 22 Aug 2026 18:55:00 +0600",
@@ -166,17 +221,6 @@
       "snippet": "Earlier, on 19 August, supply from the FSRU stopped after the terminal ran out of LNG in storage, aggravating the country’s severe gas shortage."
     },
     {
-      "title": "Mirza Fakhrul's Thakurgaon-1 seat falls vacant",
-      "link": "https://www.tbsnews.net/bangladesh/thakurgaon-1-constituency-declared-vacant-1521756",
-      "pubDate": "Sat, 22 Aug 2026 14:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/01/04/ec_logo_3.jpg",
-      "snippet": "The constituency was declared vacant under Article 50(4) of the Constitution from the date Mirza Fakhrul Islam Alamgir assumed office as the President,"
-    },
-    {
       "title": "Track the bribe: Young duo launches 'GhushSite' to map public corruption via anonymous reports",
       "link": "https://www.tbsnews.net/features/track-bribe-young-duo-launches-ghushsite-map-public-corruption-anonymous-reports-1521771",
       "pubDate": "Sat, 22 Aug 2026 14:45:00 +0600",
@@ -186,6 +230,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/08/corruption.png",
       "snippet": "The reports on the website are “allegations, not findings of guilt”, and it describes itself as an “awareness ledger”, rather than an official complaint authority."
+    },
+    {
+      "title": "Mirza Fakhrul's Thakurgaon-1 seat falls vacant",
+      "link": "https://www.tbsnews.net/bangladesh/thakurgaon-1-constituency-declared-vacant-1521756",
+      "pubDate": "Sat, 22 Aug 2026 14:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/01/04/ec_logo_3.jpg",
+      "snippet": "The constituency was declared vacant under Article 50(4) of the Constitution from the date Mirza Fakhrul Islam Alamgir assumed office as the President,"
     },
     {
       "title": "Doctors in Ctg protest attack on DMCH physician, demand safe work environment",
@@ -199,59 +254,15 @@
       "snippet": "More than 50 doctors working in Chattogram under the BCS (Health) Doctors Forum, along with doctors from Chattogram Medical College Hospital, took part in the human chain."
     },
     {
-      "title": "Cleaner arrested for allegedly filming woman in Ctg Cineplex washroom",
-      "link": "https://www.tbsnews.net/bangladesh/crime/cleaner-arrested-allegedly-filming-woman-ctg-cineplex-washroom-1521696",
-      "pubDate": "Sat, 22 Aug 2026 13:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/cleaner.jpg",
-      "snippet": "The arrestee was identified as Jitu Pal, 23, a resident of Anwara upazila."
-    },
-    {
-      "title": "'Bangla Tesla': The new road terror",
-      "link": "https://www.tbsnews.net/infograph/numbers/bangla-tesla-new-road-terror-1521701",
-      "pubDate": "Sat, 22 Aug 2026 13:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/tesla.png",
-      "snippet": "Vehicles Linked to the Most Road Deaths in Jan-Jul 2026"
-    },
-    {
       "title": "BSCIC moves to secure historic 113-acre Kutubdia salt land for modernisation",
       "link": "https://www.tbsnews.net/economy/bscic-moves-secure-historic-113-acre-kutubdia-salt-land-modernisation-1521686",
       "pubDate": "Sat, 22 Aug 2026 13:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/04/05/bscic_.jpg",
       "snippet": "According to BSCIC, if the land is permanently transferred to the corporation, there will be positive changes in the quality of salt, reduction of post-production losses, increase in storage capacity and marketing system."
-    },
-    {
-      "title": "Rain likely in part of the country in next 24 hours",
-      "link": "https://www.tbsnews.net/bangladesh/environment/rain-likely-part-country-next-24-hours-1521626",
-      "pubDate": "Sat, 22 Aug 2026 12:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/rain_dhaka_rajib_dhar_1.jpg",
-      "snippet": "The highest temperature yesterday was recorded at 35.8 degrees Celsius in Bagura, while today's minimum temperature was 25 degrees Celsius in Bandarban."
-    },
-    {
-      "title": "Faridpur woman dies 51 days after C-section; probe ordered into alleged medical negligence",
-      "link": "https://www.tbsnews.net/bangladesh/probe-launched-over-womans-death-after-gauze-left-abdomen-faridpur-hospital-minister-vows",
-      "pubDate": "Sat, 22 Aug 2026 12:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/faridpur_samorita.jpg",
-      "snippet": "After remaining under treatment for 42 days, the woman died."
     },
     {
       "title": "Gunvor's LNG deal: Cheap long-term promise masked by expensive start",
@@ -648,40 +659,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/aabd1e64-b222-485a-81ac-5532efeefd57.jpg",
       "snippet": "The five-year financing programme will support micro-enterprises through loans, business-cluster development and skills training, with the fund to operate on a revolving basis to sustain financing at the grassroots."
-    },
-    {
-      "title": "Cenbank waives default rule to let SS Power open $3.2m LC",
-      "link": "https://www.tbsnews.net/economy/banking/bb-allows-rupali-bank-release-32m-loan-lc-opening-s-alam-power-plant-1519771",
-      "pubDate": "Wed, 19 Aug 2026 20:10:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/06/07/vykn4frhioslx2xtssxqb2ljmopm35ozggeaog2v.jpg",
-      "snippet": "The central bank has also exempted the facility from the provisions of Section 27Ka(3) of the Bank Company Act, which restricts banks from providing certain facilities to loan-defaulter companies."
-    },
-    {
-      "title": "Chittagong University holds AI workshop for students",
-      "link": "https://www.tbsnews.net/bangladesh/chittagong-university-holds-ai-workshop-students-1519746",
-      "pubDate": "Wed, 19 Aug 2026 20:00:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/cu_ai_workshop.jpeg",
-      "snippet": "The Business Standard was the media partner of the workshop."
-    },
-    {
-      "title": "Bida survey to map investment barriers, industrial potential across 64 districts",
-      "link": "https://www.tbsnews.net/economy/bida-survey-map-investment-barriers-industrial-potential-across-64-districts-1519726",
-      "pubDate": "Wed, 19 Aug 2026 19:40:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/bida_meeting.jpg",
-      "snippet": "The ADB-backed initiative will create a unified investor database while identifying district-specific investment opportunities and barriers."
     }
   ],
-  "updatedAt": "2026-08-22T13:31:16.689Z"
+  "updatedAt": "2026-08-22T14:21:00.514Z"
 }
