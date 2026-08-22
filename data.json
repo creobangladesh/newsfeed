@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "No country in the world that I cannot speak to eye-to-eye: State Minister Humaiun Kobir",
+      "link": "https://www.tbsnews.net/bangladesh/politics/no-country-world-i-cannot-speak-eye-eye-state-minister-humaiun-kobir-1521441",
+      "pubDate": "Sat, 22 Aug 2026 08:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/09/humayun_kabir.jpg",
+      "snippet": "Kobir, who previously served as an Adviser to Prime Minister Tarique Rahman before and after the formation of the government, said the new assignment reflects the Prime Minister’s confidence in him"
+    },
+    {
       "title": "Operating profits buried under debt: Why ACI is pumping Tk700cr into Shwapno",
       "link": "https://www.tbsnews.net/economy/operating-profits-buried-under-debt-why-aci-pumping-tk700cr-shwapno-1521426",
       "pubDate": "Sat, 22 Aug 2026 07:40:00 +0600",
@@ -210,17 +221,6 @@
       "snippet": "Generative AI is rapidly transforming classrooms, easing teachers’ workloads while challenging traditional ideas of assessment, academic integrity and expertise. The future of education may depend less on restricting AI than on learning to use it wis..."
     },
     {
-      "title": "Beyond sustainability: What do we actually want to sustain?",
-      "link": "https://www.tbsnews.net/thoughts/beyond-sustainability-what-do-we-actually-want-sustain-1521231",
-      "pubDate": "Fri, 21 Aug 2026 18:35:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/panorama_illustration-11.10.2021-01_1.png",
-      "snippet": "True sustainability requires more than green initiatives or economic growth. It means recognising ecological limits, protecting nature’s irreplaceable systems and ensuring today’s development does not undermine future generations."
-    },
-    {
       "title": "Want to prevent capital flight? Build a functioning capital market",
       "link": "https://www.tbsnews.net/thoughts/want-prevent-capital-flight-build-functioning-capital-market-1521236",
       "pubDate": "Fri, 21 Aug 2026 18:35:00 +0600",
@@ -230,6 +230,17 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/stock_broker_dse_0.jpg",
       "snippet": "While healthy capital markets make participation in wealth creation more democratic, it plays a more important role in the economy: keeping Bangladesh’s wealth from ending up elsewhere"
+    },
+    {
+      "title": "Beyond sustainability: What do we actually want to sustain?",
+      "link": "https://www.tbsnews.net/thoughts/beyond-sustainability-what-do-we-actually-want-sustain-1521231",
+      "pubDate": "Fri, 21 Aug 2026 18:35:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/panorama_illustration-11.10.2021-01_1.png",
+      "snippet": "True sustainability requires more than green initiatives or economic growth. It means recognising ecological limits, protecting nature’s irreplaceable systems and ensuring today’s development does not undermine future generations."
     },
     {
       "title": "Motorcycle used in Uttara petrol pump robbery recovered ",
@@ -257,10 +268,10 @@
       "title": "Finance minister urges linking higher education with jobs, entrepreneurship",
       "link": "https://www.tbsnews.net/bangladesh/education/finance-minister-urges-linking-higher-education-jobs-entrepreneurship-1521206",
       "pubDate": "Fri, 21 Aug 2026 17:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/amir_khosru.jpg",
       "snippet": "The minister also calls for stronger university-industry collaboration, industry-linked research, and academic programmes tailored to regional and labour market demands."
     },
@@ -749,5 +760,5 @@
       "snippet": "According to the assessment, 15 of the 37 ongoing World Bank-financed projects are facing serious implementation challenges."
     }
   ],
-  "updatedAt": "2026-08-22T02:34:24.675Z"
+  "updatedAt": "2026-08-22T03:40:56.923Z"
 }
