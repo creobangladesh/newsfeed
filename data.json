@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "From compliance to confidence: Building trust in workplace grievance mechanisms",
+      "link": "https://www.tbsnews.net/thoughts/compliance-confidence-building-trust-workplace-grievance-mechanisms-1521856",
+      "pubDate": "Sat, 22 Aug 2026 16:25:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/rmg.jpg",
+      "snippet": "Bangladesh’s RMG sector has built stronger compliance systems over the past three decades. The next challenge is ensuring workers trust those systems enough to use them."
+    },
+    {
       "title": "Judges in the crosshairs: The slow erosion of judicial legitimacy ",
       "link": "https://www.tbsnews.net/thoughts/judges-crosshairs-slow-erosion-judicial-legitimacy-1521841",
       "pubDate": "Sat, 22 Aug 2026 16:05:00 +0600",
@@ -56,7 +67,7 @@
       "snippet": "Earlier, on 19 August, supply from the FSRU stopped after the terminal ran out of LNG in storage, aggravating the country’s severe gas shortage."
     },
     {
-      "title": "Thakurgaon-1 constituency declared vacant",
+      "title": "Mirza Fakhrul's Thakurgaon-1 seat falls vacant",
       "link": "https://www.tbsnews.net/bangladesh/thakurgaon-1-constituency-declared-vacant-1521756",
       "pubDate": "Sat, 22 Aug 2026 14:45:00 +0600",
       "category": "Bangladesh",
@@ -166,17 +177,6 @@
       "snippet": "Against this backdrop, Petrobangla has signed a 13-year long-term agreement with Gunvor USA LLC for 117 LNG cargoes to be delivered between 2026 and 2038 after several rounds of negotiations."
     },
     {
-      "title": "Mainland jetty for Ctg-Sandwip ferry route to get Tk136cr renovation",
-      "link": "https://www.tbsnews.net/bangladesh/infrastructure/mainland-jetty-ctg-sandwip-ferry-route-get-tk136cr-renovation-1521521",
-      "pubDate": "Sat, 22 Aug 2026 12:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/bashbaria_beach.jpg",
-      "snippet": "Inaugurated on 24 March 2025, Ecnec approves core repairs for the tide-damaged Banshbaria terminal"
-    },
-    {
       "title": "President Fakhrul pays tribute to Liberation War martyrs at National Memorial in Savar",
       "link": "https://www.tbsnews.net/bangladesh/president-fakhrul-pays-tribute-liberation-war-martyrs-national-memorial-savar-1521581",
       "pubDate": "Sat, 22 Aug 2026 12:00:00 +0600",
@@ -186,6 +186,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/mirza_fakhrul_islam_alamgir_national_martyrs_memorial_liberation_war_martyrs_1.jpg",
       "snippet": "Fakhrul was accorded a guard of honour there by a smartly turned-out contingent of the three services."
+    },
+    {
+      "title": "Mainland jetty for Ctg-Sandwip ferry route to get Tk136cr renovation",
+      "link": "https://www.tbsnews.net/bangladesh/infrastructure/mainland-jetty-ctg-sandwip-ferry-route-get-tk136cr-renovation-1521521",
+      "pubDate": "Sat, 22 Aug 2026 12:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/bashbaria_beach.jpg",
+      "snippet": "Inaugurated on 24 March 2025, Ecnec approves core repairs for the tide-damaged Banshbaria terminal"
     },
     {
       "title": "House tutors at DU: Rules exist, enforcement doesn’t, and digital monitoring has failed",
@@ -714,40 +725,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/measlessssssss.jpeg",
       "snippet": "The study also finds 97% of children who were eligible for vaccination but had not received a single dose tested positive for measles."
-    },
-    {
-      "title": "Ecnec clears 10 projects involving Tk9,333cr",
-      "link": "https://www.tbsnews.net/economy/ecnec-clears-10-projects-involving-tk9333cr-1519396",
-      "pubDate": "Wed, 19 Aug 2026 16:40:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/ecnec_meeting_19_august_2026.jpg",
-      "snippet": "These include six new and four revised projects."
-    },
-    {
-      "title": "Ecnec puts tanker purchase, Turag protection projects on hold over duplication concerns",
-      "link": "https://www.tbsnews.net/economy/ecnec-holds-tanker-purchase-turag-protection-projects-over-duplication-concerns-1519386",
-      "pubDate": "Wed, 19 Aug 2026 16:35:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/c9fcbf04-bcf5-45a9-908c-b26d573d7fa4.jpg",
-      "snippet": "The project has an estimated cost of Tk567.04 crore, including a World Bank loan of Tk424.73 crore and government funding of Tk142.31 crore."
-    },
-    {
-      "title": "Measles outbreak may take 2-3 months to control fully: State minister",
-      "link": "https://www.tbsnews.net/bangladesh/health/measles-outbreak-may-take-2-3-months-control-fully-state-minister-1519366",
-      "pubDate": "Wed, 19 Aug 2026 16:35:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/25/measles_tbs.jpg",
-      "snippet": "The study found that a new variant of the virus did not cause the 2026 measles outbreak, but by the spread of the highly contagious B3 genotype, which is already circulating globally, along with gaps in vaccination and maternal antibodies."
     }
   ],
-  "updatedAt": "2026-08-22T10:22:38.312Z"
+  "updatedAt": "2026-08-22T10:49:37.406Z"
 }
