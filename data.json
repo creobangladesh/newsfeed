@@ -1,6 +1,50 @@
 {
   "news": [
     {
+      "title": "Rain likely in part of the country in next 24 hours",
+      "link": "https://www.tbsnews.net/bangladesh/environment/rain-likely-part-country-next-24-hours-1521626",
+      "pubDate": "Sat, 22 Aug 2026 12:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/rain_dhaka_rajib_dhar_1.jpg",
+      "snippet": "The highest temperature yesterday was recorded at 35.8 degrees Celsius in Bagura, while today's minimum temperature was 25 degrees Celsius in Bandarban."
+    },
+    {
+      "title": "Probe launched over woman's death after gauze left in abdomen at Faridpur hospital; minister vows action",
+      "link": "https://www.tbsnews.net/bangladesh/probe-launched-over-womans-death-after-gauze-left-abdomen-faridpur-hospital-minister-vows",
+      "pubDate": "Sat, 22 Aug 2026 12:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/faridpur_samorita.jpg",
+      "snippet": "After remaining under treatment for 42 days, the woman died."
+    },
+    {
+      "title": "Gold price hiked by Tk5,482 per bhori",
+      "link": "https://www.tbsnews.net/bangladesh/gold-price-hiked-tk5482-bhori-1521606",
+      "pubDate": "Sat, 22 Aug 2026 12:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/gold.jpg",
+      "snippet": "According to the new rate, 21-carat gold will now cost Tk 2,35,030 per bhori (11.664 grams), while 18-carat gold will be priced at Tk2,01,846 per bhori. Traditional gold will cost Tk1,64,812 per bhori."
+    },
+    {
+      "title": "Gunvor's LNG deal: Cheap long-term promise masked by expensive start",
+      "link": "https://www.tbsnews.net/bangladesh/energy/gunvors-lng-deal-cheap-long-term-promise-masked-expensive-start-1521451",
+      "pubDate": "Sat, 22 Aug 2026 12:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/lng_tanker.jpg",
+      "snippet": "Against this backdrop, Petrobangla has signed a 13-year long-term agreement with Gunvor USA LLC for 117 LNG cargoes to be delivered between 2026 and 2038 after several rounds of negotiations."
+    },
+    {
       "title": "Mainland jetty for Ctg-Sandwip ferry route to get Tk136cr renovation",
       "link": "https://www.tbsnews.net/bangladesh/infrastructure/mainland-jetty-ctg-sandwip-ferry-route-get-tk136cr-renovation-1521521",
       "pubDate": "Sat, 22 Aug 2026 12:00:00 +0600",
@@ -12,7 +56,7 @@
       "snippet": "Inaugurated on 24 March 2025, Ecnec approves core repairs for the tide-damaged Banshbaria terminal"
     },
     {
-      "title": "President pays tribute at National Memorial",
+      "title": "President pays tribute to Liberation War martyrs at National Memorial in Savar",
       "link": "https://www.tbsnews.net/bangladesh/president-pays-tribute-liberation-war-martyrs-national-memorial-savar-1521581",
       "pubDate": "Sat, 22 Aug 2026 12:00:00 +0600",
       "category": "Bangladesh",
@@ -20,7 +64,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/mirza_fakhrul_islam_alamgir_national_martyrs_memorial_liberation_war_martyrs.jpg",
-      "snippet": "Earlier, upon his arrival, the president exchanged greetings with the state minister, the chiefs of the three services and other officials present."
+      "snippet": "\"This sacred national memorial - an eternal monument of our national pride, sacrifice, unity and patriotism, which will forever inspire patriotism and nation-building.\""
     },
     {
       "title": "House tutors at DU: Rules exist, enforcement doesn’t, and digital monitoring has failed",
@@ -111,17 +155,6 @@
       "snippet": "Kasba Police Station Officer-in-Charge Ali Mohammad Rashed said injury marks were found on the body"
     },
     {
-      "title": "Syndicate fears return as Malaysia selects 25 Bangladeshi recruiting agencies",
-      "link": "https://www.tbsnews.net/bangladesh/migration/syndicate-fears-return-malaysia-selects-25-bangladeshi-recruiting-agencies",
-      "pubDate": "Sat, 22 Aug 2026 10:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/12/30/migrant_workers.jpg",
-      "snippet": "A major section of the Bangladesh Association of International Recruiting Agencies has demanded that the Malaysian market remain open to all eligible agencies."
-    },
-    {
       "title": "Apparel buyers stay with Bangladesh despite gas crunch – for now",
       "link": "https://www.tbsnews.net/economy/apparel-buyers-stay-bangladesh-despite-gas-crunch-now-1521446",
       "pubDate": "Sat, 22 Aug 2026 10:00:00 +0600",
@@ -131,6 +164,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/gas-crunch_0.png",
       "snippet": "The gas crisis has disrupted production across major industrial belts, forcing some factories to suspend operations and others to rely on expensive alternative fuels"
+    },
+    {
+      "title": "Syndicate fears return as Malaysia selects 25 Bangladeshi recruiting agencies",
+      "link": "https://www.tbsnews.net/bangladesh/migration/syndicate-fears-return-malaysia-selects-25-bangladeshi-recruiting-agencies",
+      "pubDate": "Sat, 22 Aug 2026 10:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/12/30/migrant_workers.jpg",
+      "snippet": "A major section of the Bangladesh Association of International Recruiting Agencies has demanded that the Malaysian market remain open to all eligible agencies."
     },
     {
       "title": "No country in the world that I cannot speak to eye-to-eye: State Minister Humaiun Kobir",
@@ -186,50 +230,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/violent-clash-at-sylhet-shrine-over-donation-box-leaves-30-injured.jpg",
       "snippet": "The two hour clash involved police and two rival factions disputing control of a shrine, mosque donation box and waqf estate in Sylhet."
-    },
-    {
-      "title": "Nepal president congratulates Mirza Fakhrul ",
-      "link": "https://www.tbsnews.net/bangladesh/nepal-president-congratulates-mirza-fakhrul-1521406",
-      "pubDate": "Sat, 22 Aug 2026 00:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/nepal_and_bangladesh_president.jpg",
-      "snippet": "Ramchandra Paudel wishes Fakhrul success in his new role."
-    },
-    {
-      "title": "Kolkata fire: Bodies of 6 deceased Bangladeshis set to return home today",
-      "link": "https://www.tbsnews.net/bangladesh/kolkata-fire-bodies-6-deceased-bangladeshis-set-return-home-today-1521401",
-      "pubDate": "Sat, 22 Aug 2026 00:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/hotel_fire_kolkata.jpg",
-      "snippet": "Families wait anxiously as repatriation formalities near completion."
-    },
-    {
-      "title": "From garbage dump to green stretch: Wind turbines to power highway lights in Savar",
-      "link": "https://www.tbsnews.net/bangladesh/energy/garbage-dump-green-stretch-wind-turbines-power-highway-lights-savar-1521386",
-      "pubDate": "Fri, 21 Aug 2026 23:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/dhaka-aricha-highway.jpg",
-      "snippet": "The Tk1cr project aims to turn a roadside dumping ground into a landscaped stretch."
-    },
-    {
-      "title": "Road work continues in Moheshkhali reserved forest despite HC injunction",
-      "link": "https://www.tbsnews.net/bangladesh/court/road-work-continues-maheshkhali-reserved-forest-despite-high-court-injunction",
-      "pubDate": "Fri, 21 Aug 2026 23:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/road-construction-in-maheshkhali-reserved-forest.jpg",
-      "snippet": "Forest officials say workers resumed construction despite the court order."
     },
     {
       "title": "Invest Bangladesh needs to measure what matters — investment realised ",
@@ -714,29 +714,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/old_dhaka_0.png",
       "snippet": "Dhaka’s obsession with walls, gates and guards may be overlooking a more fundamental ingredient of safety: neighbourhoods where people know one another, recognise what is out of place and feel they have a stake in what happens around them"
-    },
-    {
-      "title": "60 modern life-support ambulances to be introduced on highways soon: RHD",
-      "link": "https://www.tbsnews.net/bangladesh/health/60-modern-life-support-ambulances-be-introduced-highways-soon-rhd-1519136",
-      "pubDate": "Wed, 19 Aug 2026 13:10:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/03/21/ob5g4jvhwyfst1eezwxpzwd3qg1ryywngzcgpn6k.jpg",
-      "snippet": "Chief Engineer of the Roads and Highways Department Md Moniruzzaman said the department aims to operate the ambulance service across the country by gradually bringing important corridors of the highways under this system"
-    },
-    {
-      "title": " Bangladesh does not have an FDI problem, it has a confidence problem",
-      "link": "https://www.tbsnews.net/thoughts/bangladesh-does-not-have-fdi-problem-it-has-confidence-problem-1519116",
-      "pubDate": "Wed, 19 Aug 2026 13:05:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/fdi_copy.png",
-      "snippet": "Fresh foreign equity investment fell by more than 70% in the first quarter, exposing the gap between Bangladesh's investment potential and investors' lived experience. Attracting more capital will require predictable regulation, reliable energy, stro..."
     }
   ],
-  "updatedAt": "2026-08-22T06:38:51.283Z"
+  "updatedAt": "2026-08-22T07:30:53.226Z"
 }
