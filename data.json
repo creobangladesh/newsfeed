@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "DCCI urges uninterrupted gas, power supply to industries",
+      "link": "https://www.tbsnews.net/bangladesh/energy/dcci-urges-uninterrupted-gas-power-supply-industries-1521981",
+      "pubDate": "Sat, 22 Aug 2026 20:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/dcci_img_unb.jpg",
+      "snippet": "The DCCI also raised concern over private sector credit growth falling to just 5%."
+    },
+    {
       "title": "Banned polythene worth Tk3.63cr seized in Armanitola",
       "link": "https://www.tbsnews.net/bangladesh/banned-polythene-worth-tk363cr-seized-armanitola-1521966",
       "pubDate": "Sat, 22 Aug 2026 20:00:00 +0600",
@@ -85,7 +96,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/08/08/swapon_bnp.png",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/swapon_.jpg",
       "snippet": "Earlier, Swapon resigned as information and broadcasting minister, according to a notification from the cabinet."
     },
     {
@@ -221,17 +232,6 @@
       "snippet": "Earlier, on 19 August, supply from the FSRU stopped after the terminal ran out of LNG in storage, aggravating the country’s severe gas shortage."
     },
     {
-      "title": "Track the bribe: Young duo launches 'GhushSite' to map public corruption via anonymous reports",
-      "link": "https://www.tbsnews.net/features/track-bribe-young-duo-launches-ghushsite-map-public-corruption-anonymous-reports-1521771",
-      "pubDate": "Sat, 22 Aug 2026 14:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/08/corruption.png",
-      "snippet": "The reports on the website are “allegations, not findings of guilt”, and it describes itself as an “awareness ledger”, rather than an official complaint authority."
-    },
-    {
       "title": "Mirza Fakhrul's Thakurgaon-1 seat falls vacant",
       "link": "https://www.tbsnews.net/bangladesh/thakurgaon-1-constituency-declared-vacant-1521756",
       "pubDate": "Sat, 22 Aug 2026 14:45:00 +0600",
@@ -243,15 +243,15 @@
       "snippet": "The constituency was declared vacant under Article 50(4) of the Constitution from the date Mirza Fakhrul Islam Alamgir assumed office as the President,"
     },
     {
-      "title": "Doctors in Ctg protest attack on DMCH physician, demand safe work environment",
-      "link": "https://www.tbsnews.net/bangladesh/doctors-ctg-protest-attack-dmch-physician-demand-safe-work-environment-1521741",
-      "pubDate": "Sat, 22 Aug 2026 14:40:00 +0600",
+      "title": "Track the bribe: Young duo launches 'GhushSite' to map public corruption via anonymous reports",
+      "link": "https://www.tbsnews.net/features/track-bribe-young-duo-launches-ghushsite-map-public-corruption-anonymous-reports-1521771",
+      "pubDate": "Sat, 22 Aug 2026 14:45:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/received_2487800325037821.jpeg",
-      "snippet": "More than 50 doctors working in Chattogram under the BCS (Health) Doctors Forum, along with doctors from Chattogram Medical College Hospital, took part in the human chain."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/08/corruption.png",
+      "snippet": "The reports on the website are “allegations, not findings of guilt”, and it describes itself as an “awareness ledger”, rather than an official complaint authority."
     },
     {
       "title": "BSCIC moves to secure historic 113-acre Kutubdia salt land for modernisation",
@@ -648,18 +648,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/08/22/bfiu.png",
       "snippet": "The move will help the BFIU trace funds across multiple accounts linked to the same person or entity."
-    },
-    {
-      "title": "BB, PKSF sign Tk5000cr deal to create 200,000 jobs",
-      "link": "https://www.tbsnews.net/economy/bb-pksf-sign-tk5000cr-deal-create-200000-jobs-1519791",
-      "pubDate": "Wed, 19 Aug 2026 20:40:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/aabd1e64-b222-485a-81ac-5532efeefd57.jpg",
-      "snippet": "The five-year financing programme will support micro-enterprises through loans, business-cluster development and skills training, with the fund to operate on a revolving basis to sustain financing at the grassroots."
     }
   ],
-  "updatedAt": "2026-08-22T14:21:00.514Z"
+  "updatedAt": "2026-08-22T14:47:51.386Z"
 }
