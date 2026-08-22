@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Operating profits buried under debt: Why ACI is pumping Tk700cr into Shwapno",
+      "link": "https://www.tbsnews.net/economy/operating-profits-buried-under-debt-why-aci-pumping-tk700cr-shwapno-1521426",
+      "pubDate": "Sat, 22 Aug 2026 07:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/12/05/debt.jpg",
+      "snippet": "For years, Shwapno has been widely perceived as a loss-making concern. Its latest audited financial statements, however, show a more nuanced picture: the retailer is generating operating profit, but heavy financing costs are pushing it deep into the ..."
+    },
+    {
       "title": "​​​​​​​Snake venom worth Tk38.57cr seized in Dinajpur, four held",
       "link": "https://www.tbsnews.net/bangladesh/crime/snake-venom-worth-tk3857cr-seized-dinajpur-four-held-1521421",
       "pubDate": "Sat, 22 Aug 2026 01:40:00 +0600",
@@ -252,17 +263,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/amir_khosru.jpg",
       "snippet": "The minister also calls for stronger university-industry collaboration, industry-linked research, and academic programmes tailored to regional and labour market demands."
-    },
-    {
-      "title": "Govt takes narrow-minded approach to opposition's participation in presidential election: Hamidur",
-      "link": "https://www.tbsnews.net/bangladesh/politics/govt-takes-narrow-minded-approach-oppositions-participation-presidential",
-      "pubDate": "Fri, 21 Aug 2026 17:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/hamidur-rahman-azad.jpg",
-      "snippet": "The Jamaat leader says participation was a symbolic democratic protest."
     },
     {
       "title": "Govt to build innovation hubs, startup ecosystem in universities: Mahdi Amin",
@@ -747,18 +747,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/world-bank.png",
       "snippet": "According to the assessment, 15 of the 37 ongoing World Bank-financed projects are facing serious implementation challenges."
-    },
-    {
-      "title": "Desco's Tk250cr caught in six troubled banks",
-      "link": "https://www.tbsnews.net/economy/banking/descos-tk250cr-caught-six-troubled-banks-1518866",
-      "pubDate": "Wed, 19 Aug 2026 07:45:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/05/02/desco_logo.png",
-      "snippet": "It turns to cenbank to recover its revenue, employees’ provident and gratuity funds"
     }
   ],
-  "updatedAt": "2026-08-22T01:11:50.717Z"
+  "updatedAt": "2026-08-22T02:34:24.675Z"
 }
