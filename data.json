@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "Rohingya camps face shrinking healthcare amid funding crunch",
+      "link": "https://www.tbsnews.net/rohingya-crisis/rohingya-camps-face-shrinking-healthcare-amid-funding-crunch-1521466",
+      "pubDate": "Sat, 22 Aug 2026 10:30:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/p5_rohingya_img_7556.jpg",
+      "snippet": "Healthcare funding declined 39% while the population increased by more than 40%."
+    },
+    {
+      "title": "Apparel buyers stay with Bangladesh despite gas crunch – for now",
+      "link": "https://www.tbsnews.net/economy/apparel-buyers-stay-bangladesh-despite-gas-crunch-now-1521446",
+      "pubDate": "Sat, 22 Aug 2026 10:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/08/rmg_1.jpg",
+      "snippet": "The gas crisis has disrupted production across major industrial belts, forcing some factories to suspend operations and others to rely on expensive alternative fuels"
+    },
+    {
+      "title": "Syndicate fears return as Malaysia selects 25 Bangladeshi recruiting agencies",
+      "link": "https://www.tbsnews.net/bangladesh/migration/syndicate-fears-return-malaysia-selects-25-bangladeshi-recruiting-agencies",
+      "pubDate": "Sat, 22 Aug 2026 10:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/12/30/migrant_workers.jpg",
+      "snippet": "A major section of the Bangladesh Association of International Recruiting Agencies has demanded that the Malaysian market remain open to all eligible agencies."
+    },
+    {
       "title": "No country in the world that I cannot speak to eye-to-eye: State Minister Humaiun Kobir",
       "link": "https://www.tbsnews.net/bangladesh/politics/no-country-world-i-cannot-speak-eye-eye-state-minister-humaiun-kobir-1521441",
       "pubDate": "Sat, 22 Aug 2026 08:30:00 +0600",
@@ -19,7 +52,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/12/05/debt.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/aci_shwapno.jpg",
       "snippet": "For years, Shwapno has been widely perceived as a loss-making concern. Its latest audited financial statements, however, show a more nuanced picture: the retailer is generating operating profit, but heavy financing costs are pushing it deep into the ..."
     },
     {
@@ -221,17 +254,6 @@
       "snippet": "Generative AI is rapidly transforming classrooms, easing teachers’ workloads while challenging traditional ideas of assessment, academic integrity and expertise. The future of education may depend less on restricting AI than on learning to use it wis..."
     },
     {
-      "title": "Want to prevent capital flight? Build a functioning capital market",
-      "link": "https://www.tbsnews.net/thoughts/want-prevent-capital-flight-build-functioning-capital-market-1521236",
-      "pubDate": "Fri, 21 Aug 2026 18:35:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/stock_broker_dse_0.jpg",
-      "snippet": "While healthy capital markets make participation in wealth creation more democratic, it plays a more important role in the economy: keeping Bangladesh’s wealth from ending up elsewhere"
-    },
-    {
       "title": "Beyond sustainability: What do we actually want to sustain?",
       "link": "https://www.tbsnews.net/thoughts/beyond-sustainability-what-do-we-actually-want-sustain-1521231",
       "pubDate": "Fri, 21 Aug 2026 18:35:00 +0600",
@@ -243,26 +265,15 @@
       "snippet": "True sustainability requires more than green initiatives or economic growth. It means recognising ecological limits, protecting nature’s irreplaceable systems and ensuring today’s development does not undermine future generations."
     },
     {
-      "title": "Motorcycle used in Uttara petrol pump robbery recovered ",
-      "link": "https://www.tbsnews.net/bangladesh/motorcycle-used-uttara-petrol-pump-robbery-recovered-1521226",
-      "pubDate": "Fri, 21 Aug 2026 18:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/dl-petrol-pump-heist.jpg",
-      "snippet": "Suspect allegedly posed as an Italian expatriate while renting house"
-    },
-    {
-      "title": "No decision yet on PM's India visit: Press secretary",
-      "link": "https://www.tbsnews.net/bangladesh/no-decision-yet-pms-india-visit-press-secretary-1521216",
-      "pubDate": "Fri, 21 Aug 2026 18:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/prime_minister_tarique_rahman.jpg",
-      "snippet": "Dhaka is awaiting New Delhi’s response to its recent requests over the extradition of Sheikh Hasina and other fugitives, while India has invited Prime Minister Tarique Rahman for a bilateral visit."
+      "title": "Want to prevent capital flight? Build a functioning capital market",
+      "link": "https://www.tbsnews.net/thoughts/want-prevent-capital-flight-build-functioning-capital-market-1521236",
+      "pubDate": "Fri, 21 Aug 2026 18:35:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/stock_broker_dse_0.jpg",
+      "snippet": "While healthy capital markets make participation in wealth creation more democratic, it plays a more important role in the economy: keeping Bangladesh’s wealth from ending up elsewhere"
     },
     {
       "title": "Finance minister urges linking higher education with jobs, entrepreneurship",
@@ -736,29 +747,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/30/inflation.png",
       "snippet": "There is little relief, whether from locally produced or imported goods. And the pressure extends well beyond food, which already accounts for the largest share of spending by low-income households"
-    },
-    {
-      "title": "Governance crisis behind project delays",
-      "link": "https://www.tbsnews.net/economy/governance-crisis-behind-project-delays-1518911",
-      "pubDate": "Wed, 19 Aug 2026 10:30:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/zahid_hussain.jpg",
-      "snippet": "In effect, the diagnosis is partial: the symptoms are listed, but the underlying institutional incentives and political economy drivers remain unexamined"
-    },
-    {
-      "title": "$8b of World Bank finance stuck in long project procedures, design flaws",
-      "link": "https://www.tbsnews.net/economy/8b-world-bank-finance-stuck-long-project-procedures-design-flaws-1518896",
-      "pubDate": "Wed, 19 Aug 2026 10:00:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/world-bank.png",
-      "snippet": "According to the assessment, 15 of the 37 ongoing World Bank-financed projects are facing serious implementation challenges."
     }
   ],
-  "updatedAt": "2026-08-22T03:40:56.923Z"
+  "updatedAt": "2026-08-22T04:31:49.339Z"
 }
