@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Thakurgaon-1 constituency declared vacant",
+      "link": "https://www.tbsnews.net/bangladesh/thakurgaon-1-constituency-declared-vacant-1521756",
+      "pubDate": "Sat, 22 Aug 2026 14:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/01/04/ec_logo_3.jpg",
+      "snippet": "The constituency was declared vacant under Article 50(4) of the Constitution from the date Mirza Fakhrul Islam Alamgir assumed office as the President,"
+    },
+    {
+      "title": "Doctors in Ctg protest attack on DMCH physician, demand safe work environment",
+      "link": "https://www.tbsnews.net/bangladesh/doctors-ctg-protest-attack-dmch-physician-demand-safe-work-environment-1521741",
+      "pubDate": "Sat, 22 Aug 2026 14:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/received_2487800325037821.jpeg",
+      "snippet": "More than 50 doctors working in Chattogram under the BCS (Health) Doctors Forum, along with doctors from Chattogram Medical College Hospital, took part in the human chain."
+    },
+    {
       "title": "Cleaner arrested for allegedly filming woman in Ctg Cineplex washroom",
       "link": "https://www.tbsnews.net/bangladesh/crime/cleaner-arrested-allegedly-filming-woman-ctg-cineplex-washroom-1521696",
       "pubDate": "Sat, 22 Aug 2026 13:35:00 +0600",
@@ -188,17 +210,6 @@
       "snippet": "Kasba Police Station Officer-in-Charge Ali Mohammad Rashed said injury marks were found on the body"
     },
     {
-      "title": "Syndicate fears return as Malaysia selects 25 Bangladeshi recruiting agencies",
-      "link": "https://www.tbsnews.net/bangladesh/migration/syndicate-fears-return-malaysia-selects-25-bangladeshi-recruiting-agencies",
-      "pubDate": "Sat, 22 Aug 2026 10:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/12/30/migrant_workers.jpg",
-      "snippet": "A major section of the Bangladesh Association of International Recruiting Agencies has demanded that the Malaysian market remain open to all eligible agencies."
-    },
-    {
       "title": "Apparel buyers stay with Bangladesh despite gas crunch – for now",
       "link": "https://www.tbsnews.net/economy/apparel-buyers-stay-bangladesh-despite-gas-crunch-now-1521446",
       "pubDate": "Sat, 22 Aug 2026 10:00:00 +0600",
@@ -210,24 +221,24 @@
       "snippet": "The gas crisis has disrupted production across major industrial belts, forcing some factories to suspend operations and others to rely on expensive alternative fuels"
     },
     {
-      "title": "No country in the world that I cannot speak to eye-to-eye: State Minister Humaiun Kobir",
-      "link": "https://www.tbsnews.net/bangladesh/politics/no-country-world-i-cannot-speak-eye-eye-state-minister-humaiun-kobir-1521441",
-      "pubDate": "Sat, 22 Aug 2026 08:30:00 +0600",
+      "title": "Syndicate fears return as Malaysia selects 25 Bangladeshi recruiting agencies",
+      "link": "https://www.tbsnews.net/bangladesh/migration/syndicate-fears-return-malaysia-selects-25-bangladeshi-recruiting-agencies",
+      "pubDate": "Sat, 22 Aug 2026 10:00:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/09/humayun_kabir.jpg",
-      "snippet": "Kobir, who previously served as an Adviser to Prime Minister Tarique Rahman before and after the formation of the government, said the new assignment reflects the Prime Minister’s confidence in him"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/12/30/migrant_workers.jpg",
+      "snippet": "A major section of the Bangladesh Association of International Recruiting Agencies has demanded that the Malaysian market remain open to all eligible agencies."
     },
     {
       "title": "Operating profits buried under debt: Why ACI is pumping Tk700cr into Shwapno",
       "link": "https://www.tbsnews.net/economy/operating-profits-buried-under-debt-why-aci-pumping-tk700cr-shwapno-1521426",
       "pubDate": "Sat, 22 Aug 2026 07:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/aci_shwapno.jpg",
       "snippet": "For years, Shwapno has been widely perceived as a loss-making concern. Its latest audited financial statements, however, show a more nuanced picture: the retailer is generating operating profit, but heavy financing costs are pushing it deep into the ..."
     },
@@ -705,5 +716,5 @@
       "snippet": "Since 15 March, a total of 127,076 patients with suspected measles have been hospitalised across the country"
     }
   ],
-  "updatedAt": "2026-08-22T08:29:07.607Z"
+  "updatedAt": "2026-08-22T08:59:09.768Z"
 }
