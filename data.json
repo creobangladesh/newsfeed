@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "'Stay with me for five years, your life will change': Ex-driver accuses Gazi Nazrul of inducement",
+      "link": "https://www.tbsnews.net/bangladesh/stay-me-five-years-your-life-will-change-driver-accuses-mp-gazi-nazrul-inducement-1522146",
+      "pubDate": "Sun, 23 Aug 2026 01:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/driver_obaidur_gazi_nazrul.jpg",
+      "snippet": "Former driver Obaidur alleges offers were made after discovering Nazrul’s alleged affair."
+    },
+    {
+      "title": "Padma erosion leaves Zajira residents destitute, over 500 families at risk",
+      "link": "https://www.tbsnews.net/bangladesh/environment/padma-erosion-leaves-zajira-residents-destitute-over-500-families-risk",
+      "pubDate": "Sun, 23 Aug 2026 01:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/padma_erosion.jpg",
+      "snippet": "River erosion has destroyed homes, shops and roads."
+    },
+    {
       "title": "Medicine pricing policy must balance affordability, access and industry growth: Experts",
       "link": "https://www.tbsnews.net/bangladesh/health/medicine-pricing-policy-must-balance-affordability-access-and-industry-growth",
       "pubDate": "Sun, 23 Aug 2026 00:35:00 +0600",
@@ -202,23 +224,12 @@
       "title": "Govt launches cholera vaccination drive in 14 high-risk areas",
       "link": "https://www.tbsnews.net/bangladesh/health/govt-launches-cholera-vaccination-drive-14-high-risk-areas-1521991",
       "pubDate": "Sat, 22 Aug 2026 20:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/oral_vaccination.jpg",
       "snippet": "The campaign targets over 51 lakh people across the country"
-    },
-    {
-      "title": "DCCI urges uninterrupted gas, power supply to industries",
-      "link": "https://www.tbsnews.net/bangladesh/energy/dcci-urges-uninterrupted-gas-power-supply-industries-1521981",
-      "pubDate": "Sat, 22 Aug 2026 20:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/dcci_img_unb.jpg",
-      "snippet": "The DCCI also raised concern over private sector credit growth falling to just 5%."
     },
     {
       "title": "Selection of 25 Bangladeshi agencies: The saga of recruitment to Malaysia",
@@ -661,5 +672,5 @@
       "snippet": "Sugar now sells at Tk3,800 per maund in Khatunganj"
     }
   ],
-  "updatedAt": "2026-08-22T19:00:23.378Z"
+  "updatedAt": "2026-08-22T19:46:09.844Z"
 }
