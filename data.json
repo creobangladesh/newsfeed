@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "Cleaner arrested for allegedly filming woman in Ctg Cineplex washroom",
+      "link": "https://www.tbsnews.net/bangladesh/crime/cleaner-arrested-allegedly-filming-woman-ctg-cineplex-washroom-1521696",
+      "pubDate": "Sat, 22 Aug 2026 13:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/cleaner.jpg",
+      "snippet": "The arrestee was identified as Jitu Pal, 23, a resident of Anwara upazila."
+    },
+    {
+      "title": "'Bangla Tesla': The new road terror",
+      "link": "https://www.tbsnews.net/infograph/numbers/bangla-tesla-new-road-terror-1521701",
+      "pubDate": "Sat, 22 Aug 2026 13:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/tesla.png",
+      "snippet": "Vehicles Linked to the Most Road Deaths in Jan-Jul 2026"
+    },
+    {
+      "title": "BSCIC moves to secure historic 113-acre Kutubdia salt land for modernisation",
+      "link": "https://www.tbsnews.net/economy/bscic-moves-secure-historic-113-acre-kutubdia-salt-land-modernisation-1521686",
+      "pubDate": "Sat, 22 Aug 2026 13:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/04/05/bscic_.jpg",
+      "snippet": "According to BSCIC, if the land is permanently transferred to the corporation, there will be positive changes in the quality of salt, reduction of post-production losses, increase in storage capacity and marketing system."
+    },
+    {
       "title": "Rain likely in part of the country in next 24 hours",
       "link": "https://www.tbsnews.net/bangladesh/environment/rain-likely-part-country-next-24-hours-1521626",
       "pubDate": "Sat, 22 Aug 2026 12:50:00 +0600",
@@ -56,15 +89,15 @@
       "snippet": "Inaugurated on 24 March 2025, Ecnec approves core repairs for the tide-damaged Banshbaria terminal"
     },
     {
-      "title": "President pays tribute to Liberation War martyrs at National Memorial in Savar",
-      "link": "https://www.tbsnews.net/bangladesh/president-pays-tribute-liberation-war-martyrs-national-memorial-savar-1521581",
+      "title": "President Fakhrul pays tribute to Liberation War martyrs at National Memorial in Savar",
+      "link": "https://www.tbsnews.net/bangladesh/president-fakhrul-pays-tribute-liberation-war-martyrs-national-memorial-savar-1521581",
       "pubDate": "Sat, 22 Aug 2026 12:00:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/mirza_fakhrul_islam_alamgir_national_martyrs_memorial_liberation_war_martyrs.jpg",
-      "snippet": "\"This sacred national memorial - an eternal monument of our national pride, sacrifice, unity and patriotism, which will forever inspire patriotism and nation-building.\""
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/mirza_fakhrul_islam_alamgir_national_martyrs_memorial_liberation_war_martyrs_1.jpg",
+      "snippet": "Fakhrul was accorded a guard of honour there by a smartly turned-out contingent of the three services."
     },
     {
       "title": "House tutors at DU: Rules exist, enforcement doesn’t, and digital monitoring has failed",
@@ -155,17 +188,6 @@
       "snippet": "Kasba Police Station Officer-in-Charge Ali Mohammad Rashed said injury marks were found on the body"
     },
     {
-      "title": "Apparel buyers stay with Bangladesh despite gas crunch – for now",
-      "link": "https://www.tbsnews.net/economy/apparel-buyers-stay-bangladesh-despite-gas-crunch-now-1521446",
-      "pubDate": "Sat, 22 Aug 2026 10:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/gas-crunch_0.png",
-      "snippet": "The gas crisis has disrupted production across major industrial belts, forcing some factories to suspend operations and others to rely on expensive alternative fuels"
-    },
-    {
       "title": "Syndicate fears return as Malaysia selects 25 Bangladeshi recruiting agencies",
       "link": "https://www.tbsnews.net/bangladesh/migration/syndicate-fears-return-malaysia-selects-25-bangladeshi-recruiting-agencies",
       "pubDate": "Sat, 22 Aug 2026 10:00:00 +0600",
@@ -175,6 +197,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/12/30/migrant_workers.jpg",
       "snippet": "A major section of the Bangladesh Association of International Recruiting Agencies has demanded that the Malaysian market remain open to all eligible agencies."
+    },
+    {
+      "title": "Apparel buyers stay with Bangladesh despite gas crunch – for now",
+      "link": "https://www.tbsnews.net/economy/apparel-buyers-stay-bangladesh-despite-gas-crunch-now-1521446",
+      "pubDate": "Sat, 22 Aug 2026 10:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/gas-crunch_0.png",
+      "snippet": "The gas crisis has disrupted production across major industrial belts, forcing some factories to suspend operations and others to rely on expensive alternative fuels"
     },
     {
       "title": "No country in the world that I cannot speak to eye-to-eye: State Minister Humaiun Kobir",
@@ -199,37 +232,15 @@
       "snippet": "For years, Shwapno has been widely perceived as a loss-making concern. Its latest audited financial statements, however, show a more nuanced picture: the retailer is generating operating profit, but heavy financing costs are pushing it deep into the ..."
     },
     {
-      "title": "​​​​​​​Snake venom worth Tk38.57cr seized in Dinajpur, four held",
-      "link": "https://www.tbsnews.net/bangladesh/crime/snake-venom-worth-tk3857cr-seized-dinajpur-four-held-1521421",
-      "pubDate": "Sat, 22 Aug 2026 01:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/4-held-with-snake-venom.jpg",
-      "snippet": "BGB says the venom was being smuggled abroad."
-    },
-    {
       "title": "Rare to have a personality like Mirza Fakhrul as president: Debapriya",
       "link": "https://www.tbsnews.net/economy/rare-have-personality-mirza-fakhrul-president-debapriya-1521416",
       "pubDate": "Sat, 22 Aug 2026 01:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/debapriya_bhattacharya_and_bangladesh_president_mirza_fakhrul_islam_alamgir.png",
       "snippet": "The economist praises Fakhrul’s political, administrative and academic experience."
-    },
-    {
-      "title": "Violent clash at Sylhet shrine over donation box leaves 30 injured",
-      "link": "https://www.tbsnews.net/bangladesh/crime/violent-clash-sylhet-shrine-over-donation-box-leaves-30-injured-1521411",
-      "pubDate": "Sat, 22 Aug 2026 01:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/violent-clash-at-sylhet-shrine-over-donation-box-leaves-30-injured.jpg",
-      "snippet": "The two hour clash involved police and two rival factions disputing control of a shrine, mosque donation box and waqf estate in Sylhet."
     },
     {
       "title": "Invest Bangladesh needs to measure what matters — investment realised ",
@@ -692,29 +703,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/30/measles_outbreak.jpg",
       "snippet": "Since 15 March, a total of 127,076 patients with suspected measles have been hospitalised across the country"
-    },
-    {
-      "title": "Can coastal Bangladesh turn salty wastewater into a new industry?",
-      "link": "https://www.tbsnews.net/thoughts/can-coastal-bangladesh-turn-salty-wastewater-new-industry-1519201",
-      "pubDate": "Wed, 19 Aug 2026 14:20:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/img_8019.png",
-      "snippet": "As RO plants multiply across coastal Bangladesh, the brine they leave behind keeps flowing into drains and canals. The question nobody is asking: could this waste become the foundation of a new industry?"
-    },
-    {
-      "title": "More walls, less safety: Rethinking how Dhaka protects itself",
-      "link": "https://www.tbsnews.net/thoughts/more-walls-less-safety-rethinking-how-dhaka-protects-itself-1519191",
-      "pubDate": "Wed, 19 Aug 2026 14:10:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/old_dhaka_0.png",
-      "snippet": "Dhaka’s obsession with walls, gates and guards may be overlooking a more fundamental ingredient of safety: neighbourhoods where people know one another, recognise what is out of place and feel they have a stake in what happens around them"
     }
   ],
-  "updatedAt": "2026-08-22T07:30:53.226Z"
+  "updatedAt": "2026-08-22T08:29:07.607Z"
 }
