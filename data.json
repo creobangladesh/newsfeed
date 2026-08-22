@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "Judges in the crosshairs: The slow erosion of judicial legitimacy ",
+      "link": "https://www.tbsnews.net/thoughts/judges-crosshairs-slow-erosion-judicial-legitimacy-1521841",
+      "pubDate": "Sat, 22 Aug 2026 16:05:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/judiciary_court_law.jpg",
+      "snippet": "Judicial decisions are frequently debated on social media, where some dissatisfied lawyers publicly accuse judges of bias, corruption or political influence without evidence, targeting personal integrity rather than legal reasoning"
+    },
+    {
+      "title": "'Tawhidi Janata' demands cancellation of traditional boat race in Sylhet; organisers vow to go ahead",
+      "link": "https://www.tbsnews.net/bangladesh/tawhidi-janata-demands-cancellation-traditional-boat-race-sylhet-organisers-vow-go-ahead",
+      "pubDate": "Sat, 22 Aug 2026 16:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/06/sylhet.png",
+      "snippet": "Police, meanwhile, said permission from the district administration will be required because of the conflicting positions taken by the two sides."
+    },
+    {
+      "title": "Measles: Death toll reaches 930 as 2 more children die in 24hrs",
+      "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-930-2-more-children-die-24hrs-1521821",
+      "pubDate": "Sat, 22 Aug 2026 15:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/measlessssssss.jpeg",
+      "snippet": "So far, 99 people have died from confirmed measles infections and 831 others with measles-like symptoms, bringing the combined death toll to 930."
+    },
+    {
       "title": "Ex-bank official shoots himself dead in Ctg: Police ",
       "link": "https://www.tbsnews.net/bangladesh/ex-bank-official-shoots-himself-dead-ctg-1521801",
       "pubDate": "Sat, 22 Aug 2026 15:10:00 +0600",
@@ -133,17 +166,6 @@
       "snippet": "Against this backdrop, Petrobangla has signed a 13-year long-term agreement with Gunvor USA LLC for 117 LNG cargoes to be delivered between 2026 and 2038 after several rounds of negotiations."
     },
     {
-      "title": "President Fakhrul pays tribute to Liberation War martyrs at National Memorial in Savar",
-      "link": "https://www.tbsnews.net/bangladesh/president-fakhrul-pays-tribute-liberation-war-martyrs-national-memorial-savar-1521581",
-      "pubDate": "Sat, 22 Aug 2026 12:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/mirza_fakhrul_islam_alamgir_national_martyrs_memorial_liberation_war_martyrs_1.jpg",
-      "snippet": "Fakhrul was accorded a guard of honour there by a smartly turned-out contingent of the three services."
-    },
-    {
       "title": "Mainland jetty for Ctg-Sandwip ferry route to get Tk136cr renovation",
       "link": "https://www.tbsnews.net/bangladesh/infrastructure/mainland-jetty-ctg-sandwip-ferry-route-get-tk136cr-renovation-1521521",
       "pubDate": "Sat, 22 Aug 2026 12:00:00 +0600",
@@ -153,6 +175,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/bashbaria_beach.jpg",
       "snippet": "Inaugurated on 24 March 2025, Ecnec approves core repairs for the tide-damaged Banshbaria terminal"
+    },
+    {
+      "title": "President Fakhrul pays tribute to Liberation War martyrs at National Memorial in Savar",
+      "link": "https://www.tbsnews.net/bangladesh/president-fakhrul-pays-tribute-liberation-war-martyrs-national-memorial-savar-1521581",
+      "pubDate": "Sat, 22 Aug 2026 12:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/mirza_fakhrul_islam_alamgir_national_martyrs_memorial_liberation_war_martyrs_1.jpg",
+      "snippet": "Fakhrul was accorded a guard of honour there by a smartly turned-out contingent of the three services."
     },
     {
       "title": "House tutors at DU: Rules exist, enforcement doesn’t, and digital monitoring has failed",
@@ -202,10 +235,10 @@
       "title": "Primary healthcare gets priority; measles, dengue pose challenges",
       "link": "https://www.tbsnews.net/bangladesh/health/primary-healthcare-gets-priority-measles-dengue-pose-challenges-1521526",
       "pubDate": "Sat, 22 Aug 2026 10:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/measles_gov6months.jpg",
       "snippet": "The Ministry of Health has taken initiatives to expand upazila hospital capacity, recruit doctors and health workers, utilise unused medical equipment, and introduce technology-based healthcare services"
     },
@@ -224,10 +257,10 @@
       "title": "Rohingya camps face shrinking healthcare amid funding crunch",
       "link": "https://www.tbsnews.net/rohingya-crisis/rohingya-camps-face-shrinking-healthcare-amid-funding-crunch-1521466",
       "pubDate": "Sat, 22 Aug 2026 10:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/p5_rohingya_img_7556.jpg",
       "snippet": "Healthcare funding declined 39% while the population increased by more than 40%."
     },
@@ -714,18 +747,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/25/measles_tbs.jpg",
       "snippet": "The study found that a new variant of the virus did not cause the 2026 measles outbreak, but by the spread of the highly contagious B3 genotype, which is already circulating globally, along with gaps in vaccination and maternal antibodies."
-    },
-    {
-      "title": "Measles death toll reaches 922 as 4 more children die in 24 hours",
-      "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-922-4-more-children-die-24-hours-1519286",
-      "pubDate": "Wed, 19 Aug 2026 15:35:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/30/measles_outbreak.jpg",
-      "snippet": "Since 15 March, a total of 127,076 patients with suspected measles have been hospitalised across the country"
     }
   ],
-  "updatedAt": "2026-08-22T09:35:03.930Z"
+  "updatedAt": "2026-08-22T10:22:38.312Z"
 }
