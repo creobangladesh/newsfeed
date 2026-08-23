@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "Those who flee after committing misdeeds can never return: Jamaat ameer",
+      "link": "https://www.tbsnews.net/bangladesh/politics/those-who-flee-after-committing-misdeeds-can-never-return-jamaat-ameer-1522811",
+      "pubDate": "Sun, 23 Aug 2026 20:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/781074829_1079401914672535_8423389626328504679_n.jpg",
+      "snippet": "Shafiqur Rahman says the 2024 uprising was merely a ‘rehearsal’ and warns that people will rise again against fascism."
+    },
+    {
+      "title": "Abdur Rahman Khan appointed as alternate executive director to WB",
+      "link": "https://www.tbsnews.net/nbr/abdur-rahman-khan-appointed-alternate-executive-director-wb-1522786",
+      "pubDate": "Sun, 23 Aug 2026 19:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/05/16/finance_division_additional_secretary_md_abdur_rahman_khan.jpg",
+      "snippet": "The former NBR chairman will serve a three-year term at the World Bank’s Washington headquarters under a contractual appointment by the Bangladesh government."
+    },
+    {
+      "title": "ACC approves case against former Padma Bank MD-CEO, 9 others over loan fraud",
+      "link": "https://www.tbsnews.net/bangladesh/corruption/acc-approves-case-against-former-padma-bank-md-ceo-9-others-over-loan-fraud",
+      "pubDate": "Sun, 23 Aug 2026 19:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/08/31/padma_bank.jpg",
+      "snippet": "ACC probe finds forged documents were used to secure loan."
+    },
+    {
       "title": "CU admission tests to begin 29 January, applications starts from 15 November",
       "link": "https://www.tbsnews.net/bangladesh/education/cu-admission-tests-begin-29-january-applications-starts-15-november-1522726",
       "pubDate": "Sun, 23 Aug 2026 19:10:00 +0600",
@@ -199,39 +232,6 @@
       "snippet": "According to police, the bodies were recovered from different parts of the house in the Machuapara Mandir area of the city around 11:30pm on Saturday. One body was found on the rooftop, two on the terrace and another inside a room."
     },
     {
-      "title": "Two more arrested, including suspected mastermind, over attack on DMCH doctor",
-      "link": "https://www.tbsnews.net/bangladesh/crime/two-more-arrested-including-suspected-mastermind-over-attack-dmch-doctor-1522511",
-      "pubDate": "Sun, 23 Aug 2026 15:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/781136875_2283403372395500_4703555306056478647_n.jpg",
-      "snippet": "DB said that alongside collecting the information, a plan was made to extort large sums of money from Professor AKM Aminul Haque and Professor Md Asadur Rahman by threatening to kill them."
-    },
-    {
-      "title": "IMF's debt outlook for the world’s largest economies in 2026",
-      "link": "https://www.tbsnews.net/infograph/numbers/imfs-debt-outlook-worlds-largest-economies-2026-1522461",
-      "pubDate": "Sun, 23 Aug 2026 15:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/debt.png",
-      "snippet": ""
-    },
-    {
-      "title": "Workers fall ill again amid alleged 'ghost' scare at Adamjee EPZ factory, holiday declared ",
-      "link": "https://www.tbsnews.net/bangladesh/workers-fall-ill-again-amid-alleged-ghost-scare-adamjee-epz-factory-holiday-declared",
-      "pubDate": "Sun, 23 Aug 2026 15:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/untitled_design_2.jpg",
-      "snippet": "The affected workers were given primary treatment at the Bepza Medical Hospital inside the EPZ and later released."
-    },
-    {
       "title": "Robots can outrun humans, but can they plug in a cable?",
       "link": "https://www.tbsnews.net/tech/robots-can-outrun-humans-can-they-plug-cable-1522326",
       "pubDate": "Sun, 23 Aug 2026 12:25:00 +0600",
@@ -273,7 +273,7 @@
       "bg": "#e8f5e9",
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/03/img_2640.jpeg",
-      "snippet": "Over a 15-day period, the central bank issued three circulars relaxing restrictions on several types of outbound foreign-currency transactions."
+      "snippet": "Commercial banks approaching PayPal, Google Wallet, Payoneer and other global payment platforms to explore partnerships."
     },
     {
       "title": "Nvidia customers notified about AI-related price hikes above 15%: Bloomberg News",
@@ -661,5 +661,5 @@
       "snippet": "Seema says LDC graduation, declining trade preferences, technological change and climate risks were pushing the sector into a critical transition."
     }
   ],
-  "updatedAt": "2026-08-23T13:31:44.615Z"
+  "updatedAt": "2026-08-23T14:22:50.224Z"
 }
