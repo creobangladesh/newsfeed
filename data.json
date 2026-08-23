@@ -1,7 +1,51 @@
 {
   "news": [
     {
-      "title": "Imf’s debt outlook for the world’s largest economies in 2026",
+      "title": "How Bangladesh’s policy failures created today’s power crisis",
+      "link": "https://www.tbsnews.net/features/panorama/how-bangladeshs-policy-failures-created-todays-power-crisis-1522496",
+      "pubDate": "Sun, 23 Aug 2026 15:45:00 +0600",
+      "category": "Analysis",
+      "color": "#5d4037",
+      "bg": "#efebe9",
+      "icon": "🔍",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/energy_mumitm-4437_0_0_0.jpg",
+      "snippet": "Dhaka does not go dark because Bangladesh lacks power. It goes dark because of three decades of policy failures, costly contracts, underinvestment and missed opportunities"
+    },
+    {
+      "title": "Worker dies after 8 days in ICU at Sitakunda shipbreaking yard",
+      "link": "https://www.tbsnews.net/bangladesh/worker-dies-after-8-days-icu-sitakunda-shipbreaking-yard-1522501",
+      "pubDate": "Sun, 23 Aug 2026 15:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/dead_body.jpg",
+      "snippet": "As the family raised no complaints or allegations, the body was handed over to his relatives without an autopsy"
+    },
+    {
+      "title": "Rangpur family of four killed after objecting to Yaba consumption: Police",
+      "link": "https://www.tbsnews.net/bangladesh/rangpur-family-four-killed-after-objecting-yaba-consumption-police-1522471",
+      "pubDate": "Sun, 23 Aug 2026 15:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/screenshot_2026-08-23_154835.png",
+      "snippet": "According to police, the bodies were recovered from different parts of the house in the Machuapara Mandir area of the city around 11:30pm on Saturday. One body was found on the rooftop, two on the terrace and another inside a room."
+    },
+    {
+      "title": "Two more arrested, including suspected mastermind, over attack on DMCH doctor",
+      "link": "https://www.tbsnews.net/bangladesh/crime/two-more-arrested-including-suspected-mastermind-over-attack-dmch-doctor-1522511",
+      "pubDate": "Sun, 23 Aug 2026 15:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/781136875_2283403372395500_4703555306056478647_n.jpg",
+      "snippet": "DB said that alongside collecting the information, a plan was made to extort large sums of money from Professor AKM Aminul Haque and Professor Md Asadur Rahman by threatening to kill them."
+    },
+    {
+      "title": "IMF's debt outlook for the world’s largest economies in 2026",
       "link": "https://www.tbsnews.net/infograph/numbers/imfs-debt-outlook-worlds-largest-economies-2026-1522461",
       "pubDate": "Sun, 23 Aug 2026 15:25:00 +0600",
       "category": "Bangladesh",
@@ -195,30 +239,8 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/president_fakhrul.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/f79f85ce-86f6-4b36-9bfd-4219f3d61831.jpg",
       "snippet": "A smartly turned-out President Guard Regiment (PGR) contingent extended him a guard of honour as part of the welcoming ceremony."
-    },
-    {
-      "title": "New Info Minister Andaleeve vows to support media, not control it",
-      "link": "https://www.tbsnews.net/bangladesh/andaleeve-vows-support-media-not-control-it-1522311",
-      "pubDate": "Sun, 23 Aug 2026 12:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/andaleeve_first_day.jpg",
-      "snippet": "Describing the current period as one of the most difficult times in Bangladesh’s history, Andaleeve said the government is making every possible effort under the leadership of Prime Minister Tarique Rahman."
-    },
-    {
-      "title": "Navy Chief Khondkar Misbah ul Azim promoted to Admiral",
-      "link": "https://www.tbsnews.net/bangladesh/navy-chief-khondkar-misbah-ul-azim-promoted-admiral-1522286",
-      "pubDate": "Sun, 23 Aug 2026 11:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/khondkar_misbah_ul_azim_navy.png",
-      "snippet": "Earlier, Azim was appointed Chief of Bangladesh Navy for a three-year term with effect from 23 July, 2026."
     },
     {
       "title": "Chinese robots beat Usain Bolt's 100m world record at Beijing games",
@@ -230,17 +252,6 @@
       "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/untitled_design_4.png",
       "snippet": "Tiangong Ultra, developed by the Beijing Humanoid Robot Innovation Center, won its heat at the opening of the games' second edition, organisers said."
-    },
-    {
-      "title": "$7b jewellery export target set for 2030-31: Muktadir",
-      "link": "https://www.tbsnews.net/bangladesh/7b-jewellery-export-target-set-2030-31-muktadir-1522281",
-      "pubDate": "Sun, 23 Aug 2026 11:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/image-417169-1787455116.jpg",
-      "snippet": "Muktadir emphasised the need for policy support, investment and modernisation of the jewellery industry to make it a competitive export-oriented sector and help increase the country’s foreign exchange earnings."
     },
     {
       "title": "Are you a 'mosquito magnet'? Your skin chemistry may be to blame",
@@ -694,5 +705,5 @@
       "snippet": "A total of 1,004 new suspected measles cases were reported during the aforementioned 24-hour period."
     }
   ],
-  "updatedAt": "2026-08-23T09:36:04.223Z"
+  "updatedAt": "2026-08-23T10:23:07.920Z"
 }
