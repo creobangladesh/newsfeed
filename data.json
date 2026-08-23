@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Govt withholds clearance for vessels laying country's first private submarine cable",
+      "link": "https://www.tbsnews.net/bangladesh/govt-withholds-clearance-vessels-laying-countrys-first-private-submarine-cable-1522991",
+      "pubDate": "Mon, 24 Aug 2026 00:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/07/16/submarine_cable.jpg",
+      "snippet": "The Posts and Telecommunications Division has informed the relevant authorities that no objection or clearance should be issued to the private company for the cable-laying operation without a formal recommendation from the division."
+    },
+    {
+      "title": "Invest Bangladesh Authority formally begins journey",
+      "link": "https://www.tbsnews.net/economy/invest-bangladesh-authority-formally-begins-journey-1522986",
+      "pubDate": "Mon, 24 Aug 2026 00:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/investment_bangladesh.jpg",
+      "snippet": "Ashik Chowdhury appointed chairman for one year."
+    },
+    {
       "title": "5 fishermen abducted with trawler in Sundarbans",
       "link": "https://www.tbsnews.net/bangladesh/5-fishermen-abducted-trawler-sundarbans-1522981",
       "pubDate": "Mon, 24 Aug 2026 00:15:00 +0600",
@@ -19,7 +41,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/25/police_logo_new_bss.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/24/cmp_logo.jpg",
       "snippet": "CMP Commissioner Hasan Md Showkat Ali issued an office order today."
     },
     {
@@ -208,28 +230,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/07/23/mitford-murder-110725-01-1752250684.jpg",
       "snippet": "An eyewitness and a neighbouring shopkeeper testified as the trial against 21 accused moved forward, with the next hearing set for 6 September."
-    },
-    {
-      "title": "Families of 10 workers killed in toxic gas leak at Ferdous Steel receive Tk7 lakh each",
-      "link": "https://www.tbsnews.net/bangladesh/families-10-workers-killed-toxic-gas-leak-ferdous-steel-receive-tk7-lakh-each-1522821",
-      "pubDate": "Sun, 23 Aug 2026 20:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/shipyard_breaking_death_incident.jpg",
-      "snippet": "Alongside the amount, Zahidul handed over Tk25,000 each from the Relief and Disaster Management Ministry to five families, who hail from Chattogram district."
-    },
-    {
-      "title": "Ship master killed in vessel-bulkhead collision in Satkhira",
-      "link": "https://www.tbsnews.net/bangladesh/ship-master-killed-vessel-bulkhead-collision-satkhira-1522831",
-      "pubDate": "Sun, 23 Aug 2026 20:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/vessel_accident_sheyamnagar.jpg",
-      "snippet": "The vessel collided with a bulkhead while anchoring in the Kholpetua River, killing its master Lutfor Rahman on the way to hospital."
     },
     {
       "title": "CU admission tests to begin 29 January, applications starts from 15 November",
@@ -694,5 +694,5 @@
       "snippet": "The foreign exchange market has also remained broadly stable, with the dollar rate holding steady while foreign exchange reserves increased by over $2 billion to more than $32 billion in the last six months, according to International Monetary Fund c..."
     }
   ],
-  "updatedAt": "2026-08-23T18:28:42.988Z"
+  "updatedAt": "2026-08-23T18:58:58.018Z"
 }
