@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Theft, robbery fall, but killings, violence against women, children rise",
+      "link": "https://www.tbsnews.net/bangladesh/crime/theft-robbery-fall-killings-violence-against-women-children-rise-1522211",
+      "pubDate": "Sun, 23 Aug 2026 11:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/06/19/violence_tbs.jpg",
+      "snippet": "Tendency among people to take the law into their own hands persists, acknowledges a senior police officer."
+    },
+    {
+      "title": "Bangladesh faces new charge on India electricity imports",
+      "link": "https://www.tbsnews.net/bangladesh/energy/bangladesh-faces-new-charge-india-electricity-imports-1522201",
+      "pubDate": "Sun, 23 Aug 2026 10:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/02/power_2_1.jpg",
+      "snippet": "The SNA charge is separate from the electricity tariff and covers grid operations, scheduling, metering, energy accounting and the settlement of cross-border electricity transactions."
+    },
+    {
       "title": "PayPal in Bangladesh: How close is the long-awaited entry?",
       "link": "https://www.tbsnews.net/economy/banking/paypal-bangladesh-how-close-long-awaited-entry-1522191",
       "pubDate": "Sun, 23 Aug 2026 10:00:00 +0600",
@@ -208,28 +230,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/782729801_968019269631976_677595251179005085_n.jpg",
       "snippet": "Four members of one family were among the victims."
-    },
-    {
-      "title": "Citizens can approach police stations without fear: Salahuddin",
-      "link": "https://www.tbsnews.net/bangladesh/citizens-can-approach-police-stations-without-fear-salahuddin-1522046",
-      "pubDate": "Sat, 22 Aug 2026 21:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/salauddin_surprise_visit.jpg",
-      "snippet": "The home minister also spoke directly with citizens who had come to the station to seek police services."
-    },
-    {
-      "title": "Chattogram Build Expo 2026 ends with call for planned, sustainable urbanisation",
-      "link": "https://www.tbsnews.net/bangladesh/chattogram-build-expo-2026-ends-call-planned-sustainable-urbanisation-1522051",
-      "pubDate": "Sat, 22 Aug 2026 21:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/ctg_expo.jpg",
-      "snippet": "Stakeholders from architecture, real estate and infrastructure sectors stress closer coordination as the port city continues to expand."
     },
     {
       "title": "Investing remittances in SMEs can create jobs, strengthen local economy: IOM chief",
@@ -672,5 +672,5 @@
       "snippet": "Cancer treatment often damages healthy cells along with cancer cells, causing significant adverse effects and side effects"
     }
   ],
-  "updatedAt": "2026-08-23T04:36:14.261Z"
+  "updatedAt": "2026-08-23T05:28:50.294Z"
 }
