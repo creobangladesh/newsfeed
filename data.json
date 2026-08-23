@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "Parliamentary panel recommends replacing direct communication with digital systems to curb corruption",
+      "link": "https://www.tbsnews.net/bangladesh/parliamentary-panel-recommends-replacing-direct-communication-digital-systems-curb",
+      "pubDate": "Sun, 23 Aug 2026 17:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/02/11/corruption_0.png",
+      "snippet": "It would not be enough merely to identify or punish individuals involved in corruption; rather, emphasis should be placed on changing or eliminating the processes or systems through which corruption takes place, says the Parliamentary Standing Commit..."
+    },
+    {
+      "title": "E-ticketing introduced for BRTC women-only buses",
+      "link": "https://www.tbsnews.net/bangladesh/transport/e-ticketing-introduced-brtc-women-only-buses-1522601",
+      "pubDate": "Sun, 23 Aug 2026 16:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/pink_bus_1.jpg",
+      "snippet": "The new service is now available on 14 BRTC women-only buses operating in Dhaka, Chattogram and Bogura."
+    },
+    {
+      "title": "Ashik Chowdhury appointed Invest Bangladesh Authority chairman",
+      "link": "https://www.tbsnews.net/bangladesh/ashik-chowdhury-appointed-invest-bangladesh-authority-chairman-1522581",
+      "pubDate": "Sun, 23 Aug 2026 16:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/11/19/picsart_24-11-19_08-55-45-410.jpg",
+      "snippet": "The appointment comes under the newly enacted Invest Bangladesh Act, 2026, with the chairman barred from holding any other professional, business or institutional position during his tenure."
+    },
+    {
       "title": "Bangladesh sheltered Rohingyas on humanitarian grounds: Law minister",
       "link": "https://www.tbsnews.net/bangladesh/bangladesh-sheltered-rohingyas-humanitarian-grounds-law-minister-1522541",
       "pubDate": "Sun, 23 Aug 2026 16:15:00 +0600",
@@ -199,28 +232,6 @@
       "snippet": "Lalmonirhat Sessions Judge Md Haidar Ali delivered the verdict this morning, completing the trial within six working days."
     },
     {
-      "title": "Gas pressure improves, load shedding eases significantly after govt action, claims Rizvi",
-      "link": "https://www.tbsnews.net/bangladesh/gas-pressure-improves-load-shedding-eases-significantly-after-govt-action-claims-rizvi",
-      "pubDate": "Sun, 23 Aug 2026 12:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/rizvi.jpg",
-      "snippet": "Rizvi described the government as a government with a popular base, a government for public welfare and social protection, and one that is building infrastructure while rising above corruption."
-    },
-    {
-      "title": "PM calls for fair, merit-based promotions in Navy, Air Force",
-      "link": "https://www.tbsnews.net/bangladesh/pm-calls-fair-merit-based-promotions-navy-air-force-1522336",
-      "pubDate": "Sun, 23 Aug 2026 12:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/screenshot_2026-08-23_125004.png",
-      "snippet": "PM adorns Navy chief with Admiral rank badge"
-    },
-    {
       "title": "Robots can outrun humans, but can they plug in a cable?",
       "link": "https://www.tbsnews.net/tech/robots-can-outrun-humans-can-they-plug-cable-1522326",
       "pubDate": "Sun, 23 Aug 2026 12:25:00 +0600",
@@ -230,17 +241,6 @@
       "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/china_aimoga_robots.jpg",
       "snippet": "The games, heavily promoted in Chinese state media, feature 51 events, including 30 sports competitions and 21 scenario-based contests."
-    },
-    {
-      "title": "Indictment hearing in arms case against ex-law minister Anisul deferred to 24 Sept",
-      "link": "https://www.tbsnews.net/bangladesh/court/indictment-hearing-arms-case-against-ex-law-minister-anisul-deferred-24-sept",
-      "pubDate": "Sun, 23 Aug 2026 12:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/10/d63e9138-fc53-4b4a-97ce-0aafe3edbd88.png",
-      "snippet": "Anisul was arrested by police in the Sadarghat area of the capital on 13 August 2024 while allegedly attempting to flee by river following a tip-off."
     },
     {
       "title": "Chinese robots beat Usain Bolt's 100m world record at Beijing games",
@@ -694,5 +694,5 @@
       "snippet": "The latest death was reported in Khulna Division."
     }
   ],
-  "updatedAt": "2026-08-23T10:50:14.506Z"
+  "updatedAt": "2026-08-23T11:20:12.558Z"
 }
