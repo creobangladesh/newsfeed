@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "ACC orders journalists Shakil Ahmed, Farzana Rupa to submit wealth statements",
+      "link": "https://www.tbsnews.net/bangladesh/acc-orders-journalists-shakil-ahmed-farzana-rupa-submit-wealth-statements-1522861",
+      "pubDate": "Sun, 23 Aug 2026 21:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/01/25/0dc8a3c194f6931d9d97115834acf5b3.jpg",
+      "snippet": "The couple, who are currently in separate jails in connection with separate cases, have been given 21 working days to submit the statements."
+    },
+    {
+      "title": "Govt to form directorate for enforced disappearance victims",
+      "link": "https://www.tbsnews.net/bangladesh/govt-form-directorate-enforced-disappearance-victims-1522851",
+      "pubDate": "Sun, 23 Aug 2026 21:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/23/enforced_disappearances.jpg",
+      "snippet": "Proposed body would oversee treatment, legal aid, rehabilitation and compensation."
+    },
+    {
       "title": "Angry farmers in Kurigram break into dealer's warehouse, 'loot' urea they had paid for",
       "link": "https://www.tbsnews.net/bangladesh/angry-farmers-kurigram-break-dealers-warehouse-loot-urea-they-had-paid-1522841",
       "pubDate": "Sun, 23 Aug 2026 20:50:00 +0600",
@@ -197,28 +219,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/bobby_hajjaj.jpg",
       "snippet": "The policy will clarify the responsibilities of officials and teachers while improving coordination and accountability across the primary education system."
-    },
-    {
-      "title": "2 DIGs transferred from police to NSI",
-      "link": "https://www.tbsnews.net/bangladesh/2-digs-transferred-police-nsi-1522636",
-      "pubDate": "Sun, 23 Aug 2026 17:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/10/police_bd.jpg",
-      "snippet": "The move places Rangpur Range DIG Aminul Islam and SB DIG Dr Mohammad Abdul Kader in director-level roles at the Prime Minister’s Office."
-    },
-    {
-      "title": "2 held in Cox's Bazar with 31 bhori of 'smuggled gold from Saudi'",
-      "link": "https://www.tbsnews.net/bangladesh/crime/2-held-coxs-bazar-31-bhori-smuggled-gold-saudi-1522631",
-      "pubDate": "Sun, 23 Aug 2026 17:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/gold_smuggling_saudi.jpg",
-      "snippet": "Four mobile phones, Tk5,742 in cash, 10 Saudi riyals and three Saudi-issued ATM cards were also seized"
     },
     {
       "title": "Parliamentary panel recommends replacing direct communication with digital systems to curb corruption",
@@ -650,5 +650,5 @@
       "snippet": "New authority to streamline investor services, reduce barriers."
     }
   ],
-  "updatedAt": "2026-08-23T15:21:43.450Z"
+  "updatedAt": "2026-08-23T15:47:34.084Z"
 }
