@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Bangladesh sheltered Rohingyas on humanitarian grounds: Law minister",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-sheltered-rohingyas-humanitarian-grounds-law-minister-1522541",
+      "pubDate": "Sun, 23 Aug 2026 16:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/law_minister_of_rohingya_crisis.jpeg",
+      "snippet": "The government is attaching the highest priority to human rights to ensure that there are no allegations of human rights violations against the Rohingya community, he says."
+    },
+    {
       "title": "How Bangladesh’s policy failures created today’s power crisis",
       "link": "https://www.tbsnews.net/features/panorama/how-bangladeshs-policy-failures-created-todays-power-crisis-1522496",
       "pubDate": "Sun, 23 Aug 2026 15:45:00 +0600",
@@ -230,17 +241,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/10/d63e9138-fc53-4b4a-97ce-0aafe3edbd88.png",
       "snippet": "Anisul was arrested by police in the Sadarghat area of the capital on 13 August 2024 while allegedly attempting to flee by river following a tip-off."
-    },
-    {
-      "title": "President Mirza Fakhrul begins official duties at Bangabhaban  ",
-      "link": "https://www.tbsnews.net/bangladesh/president-mirza-fakhrul-begins-official-duties-bangabhaban-1522306",
-      "pubDate": "Sun, 23 Aug 2026 12:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/f79f85ce-86f6-4b36-9bfd-4219f3d61831.jpg",
-      "snippet": "A smartly turned-out President Guard Regiment (PGR) contingent extended him a guard of honour as part of the welcoming ceremony."
     },
     {
       "title": "Chinese robots beat Usain Bolt's 100m world record at Beijing games",
@@ -692,18 +692,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/25/05_news_copy.png",
       "snippet": "The latest death was reported in Khulna Division."
-    },
-    {
-      "title": "Measles: Death toll reaches 925 as 3 more children die",
-      "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-925-3-more-children-die-1520351",
-      "pubDate": "Thu, 20 Aug 2026 16:30:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/04/measles.jpg",
-      "snippet": "A total of 1,004 new suspected measles cases were reported during the aforementioned 24-hour period."
     }
   ],
-  "updatedAt": "2026-08-23T10:23:07.920Z"
+  "updatedAt": "2026-08-23T10:50:14.506Z"
 }
