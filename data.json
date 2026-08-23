@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Former Rangpur Zilla School teacher, wife and 2 children found dead",
+      "link": "https://www.tbsnews.net/bangladesh/former-rangpur-zilla-school-teacher-wife-and-2-children-found-dead-1522181",
+      "pubDate": "Sun, 23 Aug 2026 09:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/06/27/dead.jpg",
+      "snippet": "A team from the Criminal Investigation Department (CID) and the metropolitan police sealed off the building following the discovery."
+    },
+    {
+      "title": "Nvidia customers notified about AI-related price hikes above 15%: Bloomberg News",
+      "link": "https://www.tbsnews.net/tech/nvidia-customers-notified-about-ai-related-price-hikes-above-15-bloomberg-news-1522176",
+      "pubDate": "Sun, 23 Aug 2026 08:35:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/nvidia.png",
+      "snippet": "The price hikes will go into effect on systems shipped early next year and will impact systems including those with the flagship Vera Rubin and Grace Blackwell chips"
+    },
+    {
       "title": "Govt plans Tk683cr project to train over 50,000 youths in freelancing",
       "link": "https://www.tbsnews.net/economy/govt-plans-tk683cr-project-train-over-50000-youths-freelancing-1522161",
       "pubDate": "Sun, 23 Aug 2026 07:20:00 +0600",
@@ -208,17 +230,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/779956496_2472916753174532_2509840368774071826_n_0.jpg",
       "snippet": "The association also called for weekly government briefings on the gas situation, saying industrialists are “in the dark” about the crisis and are being exposed to rumours and conflicting information."
-    },
-    {
-      "title": "5 remanded over severed body recovery in Sabujbagh",
-      "link": "https://www.tbsnews.net/bangladesh/court/5-remanded-over-severed-body-recovery-sabujbagh-1522011",
-      "pubDate": "Sat, 22 Aug 2026 21:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/02/01/court._photo_reuters.jpg",
-      "snippet": "Police seek clues about the killing and other suspects."
     },
     {
       "title": "Investing remittances in SMEs can create jobs, strengthen local economy: IOM chief",
@@ -430,17 +441,6 @@
       "snippet": "Generative AI is rapidly transforming classrooms, easing teachers’ workloads while challenging traditional ideas of assessment, academic integrity and expertise. The future of education may depend less on restricting AI than on learning to use it wis..."
     },
     {
-      "title": "Want to prevent capital flight? Build a functioning capital market",
-      "link": "https://www.tbsnews.net/thoughts/want-prevent-capital-flight-build-functioning-capital-market-1521236",
-      "pubDate": "Fri, 21 Aug 2026 18:35:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/stock_broker_dse_0.jpg",
-      "snippet": "While healthy capital markets make participation in wealth creation more democratic, it plays a more important role in the economy: keeping Bangladesh’s wealth from ending up elsewhere"
-    },
-    {
       "title": "Beyond sustainability: What do we actually want to sustain?",
       "link": "https://www.tbsnews.net/thoughts/beyond-sustainability-what-do-we-actually-want-sustain-1521231",
       "pubDate": "Fri, 21 Aug 2026 18:35:00 +0600",
@@ -450,6 +450,17 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/panorama_illustration-11.10.2021-01_1.png",
       "snippet": "True sustainability requires more than green initiatives or economic growth. It means recognising ecological limits, protecting nature’s irreplaceable systems and ensuring today’s development does not undermine future generations."
+    },
+    {
+      "title": "Want to prevent capital flight? Build a functioning capital market",
+      "link": "https://www.tbsnews.net/thoughts/want-prevent-capital-flight-build-functioning-capital-market-1521236",
+      "pubDate": "Fri, 21 Aug 2026 18:35:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/stock_broker_dse_0.jpg",
+      "snippet": "While healthy capital markets make participation in wealth creation more democratic, it plays a more important role in the economy: keeping Bangladesh’s wealth from ending up elsewhere"
     },
     {
       "title": "Finance minister urges linking higher education with jobs, entrepreneurship",
@@ -661,5 +672,5 @@
       "snippet": "Cancer treatment often damages healthy cells along with cancer cells, causing significant adverse effects and side effects"
     }
   ],
-  "updatedAt": "2026-08-23T02:44:38.988Z"
+  "updatedAt": "2026-08-23T03:50:07.559Z"
 }
