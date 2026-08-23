@@ -1,6 +1,61 @@
 {
   "news": [
     {
+      "title": "HSIA 3rd terminal soft opening on 16 Dec",
+      "link": "https://www.tbsnews.net/bangladesh/hsia-3rd-terminal-soft-opening-16-dec-1522426",
+      "pubDate": "Sun, 23 Aug 2026 14:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/untitled_design.jpg",
+      "snippet": "Millat said steps are being taken to sign an agreement with a Japanese company in September in connection with the Third Terminal."
+    },
+    {
+      "title": "Qatar Amir congratulates Mirza Fakhrul on becoming President",
+      "link": "https://www.tbsnews.net/bangladesh/qatar-amir-congratulates-mirza-fakhrul-becoming-president-1522401",
+      "pubDate": "Sun, 23 Aug 2026 14:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/screenshot_2026-08-23_143432.png",
+      "snippet": "Sheikh Tamim also expressed hope that the relations between Bangladesh and Qatar would continue to develop and grow in the days ahead."
+    },
+    {
+      "title": "Local govt elections to be held as per constitution: Moyeen Khan",
+      "link": "https://www.tbsnews.net/bangladesh/local-govt-elections-be-held-constitution-moyeen-khan-1522396",
+      "pubDate": "Sun, 23 Aug 2026 14:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/image-417232-1787470739.png",
+      "snippet": "He said this while exchanging greetings and views with heads of various organisations and departments under the ministry and media personnel at the Secretariat here."
+    },
+    {
+      "title": "Kolkata fire: Journalist Debashish and son cremated, wife and father-in-law buried",
+      "link": "https://www.tbsnews.net/bangladesh/kolkata-fire-journalist-debashish-and-son-cremated-wife-and-father-law-buried-1522406",
+      "pubDate": "Sun, 23 Aug 2026 14:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/kushtia_journalist.jpg",
+      "snippet": "Nine people were killed in a devastating fire at a residential hotel in Kolkata's New Market area."
+    },
+    {
+      "title": "Threat emails to embassies work of 'fake group', police say as probe continues",
+      "link": "https://www.tbsnews.net/bangladesh/crime/threat-emails-embassies-work-fake-group-police-say-probe-continues-1522386",
+      "pubDate": "Sun, 23 Aug 2026 14:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/779000932_1071797645242668_4778953246967451246_n.jpg",
+      "snippet": "No one has been arrested in connection with the incident, but police are investigating the matter and working to identify those responsible, said DB chief"
+    },
+    {
       "title": "More than a fan: Click's bet on better engineering",
       "link": "https://www.tbsnews.net/bangladesh/more-fan-clicks-bet-better-engineering-1522376",
       "pubDate": "Sun, 23 Aug 2026 14:00:00 +0600",
@@ -202,23 +257,12 @@
       "title": "PayPal in Bangladesh: How close is the long-awaited entry?",
       "link": "https://www.tbsnews.net/economy/banking/paypal-bangladesh-how-close-long-awaited-entry-1522191",
       "pubDate": "Sun, 23 Aug 2026 10:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/03/img_2640.jpeg",
       "snippet": "Over a 15-day period, the central bank issued three circulars relaxing restrictions on several types of outbound foreign-currency transactions."
-    },
-    {
-      "title": "Former Rangpur Zilla School teacher, wife and 2 children found dead",
-      "link": "https://www.tbsnews.net/bangladesh/former-rangpur-zilla-school-teacher-wife-and-2-children-found-dead-1522181",
-      "pubDate": "Sun, 23 Aug 2026 09:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/06/27/dead.jpg",
-      "snippet": "A team from the Criminal Investigation Department (CID) and the metropolitan police sealed off the building following the discovery."
     },
     {
       "title": "Nvidia customers notified about AI-related price hikes above 15%: Bloomberg News",
@@ -235,34 +279,12 @@
       "title": "Govt plans Tk683cr project to train over 50,000 youths in freelancing",
       "link": "https://www.tbsnews.net/economy/govt-plans-tk683cr-project-train-over-50000-youths-freelancing-1522161",
       "pubDate": "Sun, 23 Aug 2026 07:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/03/12/freelancer.jpg",
       "snippet": "The Department of Youth Development has prepared a Development Project Proposal “Creating Employment through Freelancing Training for Unemployed Youths in All Metropolitan Cities.”"
-    },
-    {
-      "title": "'Stay with me for five years, your life will change': Ex-driver accuses Gazi Nazrul of inducement",
-      "link": "https://www.tbsnews.net/bangladesh/stay-me-five-years-your-life-will-change-driver-accuses-mp-gazi-nazrul-inducement-1522146",
-      "pubDate": "Sun, 23 Aug 2026 01:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/driver_obaidur_gazi_nazrul.jpg",
-      "snippet": "Former driver Obaidur alleges offers were made after discovering Nazrul’s alleged affair."
-    },
-    {
-      "title": "Padma erosion leaves Zajira residents destitute, over 500 families at risk",
-      "link": "https://www.tbsnews.net/bangladesh/environment/padma-erosion-leaves-zajira-residents-destitute-over-500-families-risk",
-      "pubDate": "Sun, 23 Aug 2026 01:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/padma_erosion.jpg",
-      "snippet": "River erosion has destroyed homes, shops and roads."
     },
     {
       "title": "Medicine pricing policy must balance affordability, access and industry growth: Experts",
@@ -683,5 +705,5 @@
       "snippet": "ICAB said the arrangement would allow eligible graduates to progress more quickly towards the CA qualification by recognising relevant prior academic learning."
     }
   ],
-  "updatedAt": "2026-08-23T08:29:11.051Z"
+  "updatedAt": "2026-08-23T08:59:46.055Z"
 }
