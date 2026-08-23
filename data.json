@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Angry farmers in Kurigram break into dealer's warehouse, 'loot' urea they had paid for",
+      "link": "https://www.tbsnews.net/bangladesh/angry-farmers-kurigram-break-dealers-warehouse-loot-urea-they-had-paid-1522841",
+      "pubDate": "Sun, 23 Aug 2026 20:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/fertiliser.png",
+      "snippet": "On information, police rushed in and asked the farmers to return the fertiliser."
+    },
+    {
+      "title": "Security tightened at Dhaka diplomatic zone after embassies receive emails demanding money",
+      "link": "https://www.tbsnews.net/bangladesh/security-tightened-dhaka-diplomatic-zone-after-embassies-receive-emails-demanding-money",
+      "pubDate": "Sun, 23 Aug 2026 20:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/diplomatice_zone.jpeg",
+      "snippet": "The DB chief said three or four embassies as well as several government offices have received such emails."
+    },
+    {
       "title": "Mitford murder trial:  2 more witnesses testify, next hearing on 6 Sep",
       "link": "https://www.tbsnews.net/bangladesh/court/mitford-murder-trial-2-more-witnesses-testify-next-hearing-6-sep-1522826",
       "pubDate": "Sun, 23 Aug 2026 20:40:00 +0600",
@@ -202,23 +224,12 @@
       "title": "Parliamentary panel recommends replacing direct communication with digital systems to curb corruption",
       "link": "https://www.tbsnews.net/bangladesh/parliamentary-panel-recommends-replacing-direct-communication-digital-systems-curb",
       "pubDate": "Sun, 23 Aug 2026 17:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/02/11/corruption_0.png",
       "snippet": "It would not be enough merely to identify or punish individuals involved in corruption; rather, emphasis should be placed on changing or eliminating the processes or systems through which corruption takes place, says the committee."
-    },
-    {
-      "title": "E-ticketing introduced for BRTC women-only buses",
-      "link": "https://www.tbsnews.net/bangladesh/transport/e-ticketing-introduced-brtc-women-only-buses-1522601",
-      "pubDate": "Sun, 23 Aug 2026 16:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/pink_bus_1.jpg",
-      "snippet": "The new service is now available on 14 BRTC women-only buses operating in Dhaka, Chattogram and Bogura."
     },
     {
       "title": "How Bangladesh’s policy failures created today’s power crisis",
@@ -637,18 +648,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/investment_bangladesh.jpg",
       "snippet": "New authority to streamline investor services, reduce barriers."
-    },
-    {
-      "title": "BGMEA, Bidec join hands to cut garment factories' power use",
-      "link": "https://www.tbsnews.net/economy/bgmea-bidec-join-hands-cut-garment-factories-power-use-1520756",
-      "pubDate": "Thu, 20 Aug 2026 21:15:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/23/logo-bgmea-cmyk_16x9.png",
-      "snippet": "Field trials across 42 garment factories found electricity savings of up to nearly 65%, with the initiative also expected to lower operating costs and support the sector’s decarbonisation."
     }
   ],
-  "updatedAt": "2026-08-23T14:50:13.320Z"
+  "updatedAt": "2026-08-23T15:21:43.450Z"
 }
