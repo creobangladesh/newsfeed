@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "PayPal in Bangladesh: How close is the long-awaited entry?",
+      "link": "https://www.tbsnews.net/economy/banking/paypal-bangladesh-how-close-long-awaited-entry-1522191",
+      "pubDate": "Sun, 23 Aug 2026 10:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/03/img_2640.jpeg",
+      "snippet": "Over a 15-day period, the central bank issued three circulars relaxing restrictions on several types of outbound foreign-currency transactions."
+    },
+    {
       "title": "Former Rangpur Zilla School teacher, wife and 2 children found dead",
       "link": "https://www.tbsnews.net/bangladesh/former-rangpur-zilla-school-teacher-wife-and-2-children-found-dead-1522181",
       "pubDate": "Sun, 23 Aug 2026 09:15:00 +0600",
@@ -219,17 +230,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/ctg_expo.jpg",
       "snippet": "Stakeholders from architecture, real estate and infrastructure sectors stress closer coordination as the port city continues to expand."
-    },
-    {
-      "title": "BKMEA seeks gas cut for vehicles to improve supply to industries ",
-      "link": "https://www.tbsnews.net/bangladesh/energy/bkmea-urges-halt-gas-supply-vehicles-except-public-transport-amid-crisis-1522021",
-      "pubDate": "Sat, 22 Aug 2026 21:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/779956496_2472916753174532_2509840368774071826_n_0.jpg",
-      "snippet": "The association also called for weekly government briefings on the gas situation, saying industrialists are “in the dark” about the crisis and are being exposed to rumours and conflicting information."
     },
     {
       "title": "Investing remittances in SMEs can create jobs, strengthen local economy: IOM chief",
@@ -672,5 +672,5 @@
       "snippet": "Cancer treatment often damages healthy cells along with cancer cells, causing significant adverse effects and side effects"
     }
   ],
-  "updatedAt": "2026-08-23T03:50:07.559Z"
+  "updatedAt": "2026-08-23T04:36:14.261Z"
 }
