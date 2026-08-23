@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Govt plans Tk683cr project to train over 50,000 youths in freelancing",
+      "link": "https://www.tbsnews.net/economy/govt-plans-tk683cr-project-train-over-50000-youths-freelancing-1522161",
+      "pubDate": "Sun, 23 Aug 2026 07:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/03/12/freelancer.jpg",
+      "snippet": "The Department of Youth Development has prepared a Development Project Proposal “Creating Employment through Freelancing Training for Unemployed Youths in All Metropolitan Cities.”"
+    },
+    {
       "title": "'Stay with me for five years, your life will change': Ex-driver accuses Gazi Nazrul of inducement",
       "link": "https://www.tbsnews.net/bangladesh/stay-me-five-years-your-life-will-change-driver-accuses-mp-gazi-nazrul-inducement-1522146",
       "pubDate": "Sun, 23 Aug 2026 01:25:00 +0600",
@@ -213,10 +224,10 @@
       "title": "Investing remittances in SMEs can create jobs, strengthen local economy: IOM chief",
       "link": "https://www.tbsnews.net/economy/investing-remittances-smes-can-create-jobs-strengthen-local-economy-iom-chief-1521996",
       "pubDate": "Sat, 22 Aug 2026 20:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/iom_chief.jpg",
       "snippet": "Mock parliamentary debate event highlighted migrant protection and productive investment."
     },
@@ -419,17 +430,6 @@
       "snippet": "Generative AI is rapidly transforming classrooms, easing teachers’ workloads while challenging traditional ideas of assessment, academic integrity and expertise. The future of education may depend less on restricting AI than on learning to use it wis..."
     },
     {
-      "title": "Beyond sustainability: What do we actually want to sustain?",
-      "link": "https://www.tbsnews.net/thoughts/beyond-sustainability-what-do-we-actually-want-sustain-1521231",
-      "pubDate": "Fri, 21 Aug 2026 18:35:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/panorama_illustration-11.10.2021-01_1.png",
-      "snippet": "True sustainability requires more than green initiatives or economic growth. It means recognising ecological limits, protecting nature’s irreplaceable systems and ensuring today’s development does not undermine future generations."
-    },
-    {
       "title": "Want to prevent capital flight? Build a functioning capital market",
       "link": "https://www.tbsnews.net/thoughts/want-prevent-capital-flight-build-functioning-capital-market-1521236",
       "pubDate": "Fri, 21 Aug 2026 18:35:00 +0600",
@@ -439,6 +439,17 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/stock_broker_dse_0.jpg",
       "snippet": "While healthy capital markets make participation in wealth creation more democratic, it plays a more important role in the economy: keeping Bangladesh’s wealth from ending up elsewhere"
+    },
+    {
+      "title": "Beyond sustainability: What do we actually want to sustain?",
+      "link": "https://www.tbsnews.net/thoughts/beyond-sustainability-what-do-we-actually-want-sustain-1521231",
+      "pubDate": "Fri, 21 Aug 2026 18:35:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/panorama_illustration-11.10.2021-01_1.png",
+      "snippet": "True sustainability requires more than green initiatives or economic growth. It means recognising ecological limits, protecting nature’s irreplaceable systems and ensuring today’s development does not undermine future generations."
     },
     {
       "title": "Finance minister urges linking higher education with jobs, entrepreneurship",
@@ -648,29 +659,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/08/cancer_medications.jpeg",
       "snippet": "Cancer treatment often damages healthy cells along with cancer cells, causing significant adverse effects and side effects"
-    },
-    {
-      "title": "Personalised cancer vaccine shows promise in preventing melanoma recurrence",
-      "link": "https://www.tbsnews.net/bangladesh/health/personalised-cancer-vaccine-shows-promise-preventing-melanoma-recurrence-1519941",
-      "pubDate": "Thu, 20 Aug 2026 08:00:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/17/photo-output.jpeg",
-      "snippet": "The vaccine is designed for each patient"
-    },
-    {
-      "title": "Sugar rises Tk200 per maund in Khatunganj amid supply squeeze",
-      "link": "https://www.tbsnews.net/economy/sugar-rises-tk200-maund-khatunganj-amid-supply-squeeze-1519931",
-      "pubDate": "Thu, 20 Aug 2026 07:45:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/02/19/sugarmarket.png",
-      "snippet": "Sugar now sells at Tk3,800 per maund in Khatunganj"
     }
   ],
-  "updatedAt": "2026-08-23T01:18:00.649Z"
+  "updatedAt": "2026-08-23T02:44:38.988Z"
 }
