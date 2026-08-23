@@ -1,7 +1,29 @@
 {
   "news": [
     {
-      "title": "HSIA 3rd terminal soft opening on 16 Dec",
+      "title": "Imf’s debt outlook for the world’s largest economies in 2026",
+      "link": "https://www.tbsnews.net/infograph/numbers/imfs-debt-outlook-worlds-largest-economies-2026-1522461",
+      "pubDate": "Sun, 23 Aug 2026 15:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/debt.png",
+      "snippet": ""
+    },
+    {
+      "title": "Workers fall ill again amid alleged 'ghost' scare at Adamjee EPZ factory, holiday declared ",
+      "link": "https://www.tbsnews.net/bangladesh/workers-fall-ill-again-amid-alleged-ghost-scare-adamjee-epz-factory-holiday-declared",
+      "pubDate": "Sun, 23 Aug 2026 15:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/untitled_design_2.jpg",
+      "snippet": "The affected workers were given primary treatment at the Bepza Medical Hospital inside the EPZ and later released."
+    },
+    {
+      "title": "Dhaka airport 3rd terminal soft opening planned for 16 Dec: Minister ",
       "link": "https://www.tbsnews.net/bangladesh/hsia-3rd-terminal-soft-opening-16-dec-1522426",
       "pubDate": "Sun, 23 Aug 2026 14:50:00 +0600",
       "category": "Bangladesh",
@@ -230,28 +252,6 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/10/28/mosquitoes_0.jpg",
       "snippet": "Vector-borne diseases cause more than 700,000 deaths annually, with cases expected to rise as temperatures increase."
-    },
-    {
-      "title": "Theft, robbery fall, but killings, violence against women, children rise",
-      "link": "https://www.tbsnews.net/bangladesh/crime/theft-robbery-fall-killings-violence-against-women-children-rise-1522211",
-      "pubDate": "Sun, 23 Aug 2026 11:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/06/19/violence_tbs.jpg",
-      "snippet": "Tendency among people to take the law into their own hands persists, acknowledges a senior police officer."
-    },
-    {
-      "title": "Bangladesh faces new charge on India electricity imports",
-      "link": "https://www.tbsnews.net/bangladesh/energy/bangladesh-faces-new-charge-india-electricity-imports-1522201",
-      "pubDate": "Sun, 23 Aug 2026 10:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/02/power_2_1.jpg",
-      "snippet": "The SNA charge is separate from the electricity tariff and covers grid operations, scheduling, metering, energy accounting and the settlement of cross-border electricity transactions."
     },
     {
       "title": "PayPal in Bangladesh: How close is the long-awaited entry?",
@@ -692,18 +692,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/04/measles.jpg",
       "snippet": "A total of 1,004 new suspected measles cases were reported during the aforementioned 24-hour period."
-    },
-    {
-      "title": "14 univs sign deals with ICAB to expand pathways to CA profession",
-      "link": "https://www.tbsnews.net/bangladesh/education/14-universities-institutions-sign-addenda-icab-widen-chartered-accountancy",
-      "pubDate": "Thu, 20 Aug 2026 15:25:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/untitled-1.jpg",
-      "snippet": "ICAB said the arrangement would allow eligible graduates to progress more quickly towards the CA qualification by recognising relevant prior academic learning."
     }
   ],
-  "updatedAt": "2026-08-23T08:59:46.055Z"
+  "updatedAt": "2026-08-23T09:36:04.223Z"
 }
