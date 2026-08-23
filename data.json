@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "2 DIGs transferred from police to NSI",
+      "link": "https://www.tbsnews.net/bangladesh/2-digs-transferred-police-nsi-1522636",
+      "pubDate": "Sun, 23 Aug 2026 17:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/10/police_bd.jpg",
+      "snippet": "The move places Rangpur Range DIG Aminul Islam and SB DIG Dr Mohammad Abdul Kader in director-level roles at the Prime Minister’s Office."
+    },
+    {
+      "title": "2 held in Cox's Bazar with 31 bhori of 'smuggled gold from Saudi'",
+      "link": "https://www.tbsnews.net/bangladesh/crime/2-held-coxs-bazar-31-bhori-smuggled-gold-saudi-1522631",
+      "pubDate": "Sun, 23 Aug 2026 17:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/gold_smuggling_saudi.jpg",
+      "snippet": "Four mobile phones, Tk5,742 in cash, 10 Saudi riyals and three Saudi-issued ATM cards were also seized"
+    },
+    {
       "title": "Parliamentary panel recommends replacing direct communication with digital systems to curb corruption",
       "link": "https://www.tbsnews.net/bangladesh/parliamentary-panel-recommends-replacing-direct-communication-digital-systems-curb",
       "pubDate": "Sun, 23 Aug 2026 17:05:00 +0600",
@@ -208,28 +230,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/screenshot_2026-08-23_132534.png",
       "snippet": "“We must not allow 10 years to become 20,” she added."
-    },
-    {
-      "title": "Rain predicted in parts of country",
-      "link": "https://www.tbsnews.net/bangladesh/environment/rain-predicted-parts-country-1522346",
-      "pubDate": "Sun, 23 Aug 2026 13:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/rain_dhaka_rajib_dhar_1.jpg",
-      "snippet": "The highest temperature yesterday was 36.8 degrees Celsius in Ishurdi, while today's minimum temperature is 23 degrees Celsius in Sylhet."
-    },
-    {
-      "title": "Child Nandini murder: One gets death sentence, two jailed for 5 years",
-      "link": "https://www.tbsnews.net/bangladesh/court/child-nandini-murder-one-gets-death-sentence-two-jailed-5-years-1522351",
-      "pubDate": "Sun, 23 Aug 2026 13:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/02/01/court._photo_reuters.jpg",
-      "snippet": "Lalmonirhat Sessions Judge Md Haidar Ali delivered the verdict this morning, completing the trial within six working days."
     },
     {
       "title": "Robots can outrun humans, but can they plug in a cable?",
@@ -681,18 +681,7 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/769838765_1346887494308459_5713235104749675688_n.jpg",
       "snippet": "The tentative date has been included in the draft Class XI admission policy, but the final schedule depends on the education ministry’s approval."
-    },
-    {
-      "title": "One dengue patient dies, 750 hospitalised in 24 hrs",
-      "link": "https://www.tbsnews.net/bangladesh/health/one-dengue-patient-dies-750-hospitalised-24-hrs-1520456",
-      "pubDate": "Thu, 20 Aug 2026 17:35:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/25/05_news_copy.png",
-      "snippet": "The latest death was reported in Khulna Division."
     }
   ],
-  "updatedAt": "2026-08-23T11:20:12.558Z"
+  "updatedAt": "2026-08-23T11:46:01.984Z"
 }
