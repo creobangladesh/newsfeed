@@ -1,6 +1,50 @@
 {
   "news": [
     {
+      "title": "Navy Chief Khondkar Misbah ul Azim promoted to Admiral",
+      "link": "https://www.tbsnews.net/bangladesh/navy-chief-khondkar-misbah-ul-azim-promoted-admiral-1522286",
+      "pubDate": "Sun, 23 Aug 2026 11:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/17/khondkar_misbah_ul_azim_navy.png",
+      "snippet": "Earlier, Azim was appointed Chief of Bangladesh Navy for a three-year term with effect from 23 July, 2026."
+    },
+    {
+      "title": "Chinese robots beat Usain Bolt's 100m world record at Beijing games",
+      "link": "https://www.tbsnews.net/worldbiz/china/chinese-robots-beat-usain-bolts-100m-world-record-beijing-games-1522291",
+      "pubDate": "Sun, 23 Aug 2026 11:40:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/untitled_design_4.png",
+      "snippet": "Tiangong Ultra, developed by the Beijing Humanoid Robot Innovation Center, won its heat at the opening of the games' second edition, organisers said."
+    },
+    {
+      "title": "$7b jewellery export target set for 2030-31: Muktadir",
+      "link": "https://www.tbsnews.net/bangladesh/7b-jewellery-export-target-set-2030-31-muktadir-1522281",
+      "pubDate": "Sun, 23 Aug 2026 11:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/image-417169-1787455116.jpg",
+      "snippet": "Muktadir emphasised the need for policy support, investment and modernisation of the jewellery industry to make it a competitive export-oriented sector and help increase the country’s foreign exchange earnings."
+    },
+    {
+      "title": "Are you a 'mosquito magnet'? Your skin chemistry may be to blame",
+      "link": "https://www.tbsnews.net/bangladesh/health/are-you-mosquito-magnet-your-skin-chemistry-may-be-blame-1522266",
+      "pubDate": "Sun, 23 Aug 2026 11:25:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/10/28/mosquitoes_0.jpg",
+      "snippet": "Vector-borne diseases cause more than 700,000 deaths annually, with cases expected to rise as temperatures increase."
+    },
+    {
       "title": "Theft, robbery fall, but killings, violence against women, children rise",
       "link": "https://www.tbsnews.net/bangladesh/crime/theft-robbery-fall-killings-violence-against-women-children-rise-1522211",
       "pubDate": "Sun, 23 Aug 2026 11:00:00 +0600",
@@ -208,28 +252,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/khaiyam_.jpg",
       "snippet": "The month-long ‘Hridoye Dhaka 416’ festival is screening 13 heritage films and honouring 58 artists and film professionals for their contributions to cinema."
-    },
-    {
-      "title": "Tk63.5cr road project threatens Cox's Bazar beach dunes ",
-      "link": "https://www.tbsnews.net/bangladesh/environment/tk635cr-road-project-threatens-coxs-bazar-beach-dunes-1522066",
-      "pubDate": "Sat, 22 Aug 2026 22:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/02/01/coxs-bazar.jpg",
-      "snippet": "The tender was invited on 17 June 2025, and National Development Engineers (NDE) was awarded the work. The project is scheduled for completion on 5 October 2027."
-    },
-    {
-      "title": "Nine killed in road accidents across five districts",
-      "link": "https://www.tbsnews.net/bangladesh/nine-killed-road-accidents-across-five-districts-1522056",
-      "pubDate": "Sat, 22 Aug 2026 21:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/782729801_968019269631976_677595251179005085_n.jpg",
-      "snippet": "Four members of one family were among the victims."
     },
     {
       "title": "Investing remittances in SMEs can create jobs, strengthen local economy: IOM chief",
@@ -672,5 +694,5 @@
       "snippet": "Cancer treatment often damages healthy cells along with cancer cells, causing significant adverse effects and side effects"
     }
   ],
-  "updatedAt": "2026-08-23T05:28:50.294Z"
+  "updatedAt": "2026-08-23T05:57:18.078Z"
 }
