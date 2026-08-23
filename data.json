@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Rain predicted in parts of country",
+      "link": "https://www.tbsnews.net/bangladesh/environment/rain-predicted-parts-country-1522346",
+      "pubDate": "Sun, 23 Aug 2026 13:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/rain_dhaka_rajib_dhar_1.jpg",
+      "snippet": "The highest temperature yesterday was 36.8 degrees Celsius in Ishurdi, while today's minimum temperature is 23 degrees Celsius in Sylhet."
+    },
+    {
+      "title": "Child Nandini murder: One gets death sentence, two jailed for 5 years",
+      "link": "https://www.tbsnews.net/bangladesh/court/child-nandini-murder-one-gets-death-sentence-two-jailed-5-years-1522351",
+      "pubDate": "Sun, 23 Aug 2026 13:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/02/01/court._photo_reuters.jpg",
+      "snippet": "Lalmonirhat Sessions Judge Md Haidar Ali delivered the verdict this morning, completing the trial within six working days."
+    },
+    {
       "title": "Gas pressure improves, load shedding eases significantly after govt action, claims Rizvi",
       "link": "https://www.tbsnews.net/bangladesh/gas-pressure-improves-load-shedding-eases-significantly-after-govt-action-claims-rizvi",
       "pubDate": "Sun, 23 Aug 2026 12:45:00 +0600",
@@ -10,6 +32,28 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/rizvi.jpg",
       "snippet": "Rizvi described the government as a government with a popular base, a government for public welfare and social protection, and one that is building infrastructure while rising above corruption."
+    },
+    {
+      "title": "PM calls for fair, merit-based promotions in Navy, Air Force",
+      "link": "https://www.tbsnews.net/bangladesh/pm-calls-fair-merit-based-promotions-navy-air-force-1522336",
+      "pubDate": "Sun, 23 Aug 2026 12:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/screenshot_2026-08-23_124815.png",
+      "snippet": "PM adorns Navy chief with Admiral rank badge"
+    },
+    {
+      "title": "Robots can outrun humans, but can they plug in a cable?",
+      "link": "https://www.tbsnews.net/tech/robots-can-outrun-humans-can-they-plug-cable-1522326",
+      "pubDate": "Sun, 23 Aug 2026 12:25:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/china_aimoga_robots.jpg",
+      "snippet": "The games, heavily promoted in Chinese state media, feature 51 events, including 30 sports competitions and 21 scenario-based contests."
     },
     {
       "title": "Indictment hearing in arms case against ex-law minister Anisul deferred to 24 Sept",
@@ -34,7 +78,7 @@
       "snippet": "A smartly turned-out President Guard Regiment (PGR) contingent extended him a guard of honour as part of the welcoming ceremony."
     },
     {
-      "title": "Andaleeve vows to support media, not control it",
+      "title": "New Info Minister Andaleeve vows to support media, not control it",
       "link": "https://www.tbsnews.net/bangladesh/andaleeve-vows-support-media-not-control-it-1522311",
       "pubDate": "Sun, 23 Aug 2026 12:10:00 +0600",
       "category": "Bangladesh",
@@ -219,39 +263,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/09/humayun_kabir.jpg",
       "snippet": ""
-    },
-    {
-      "title": "Tejgaon, Paltan Model police station OCs withdrawn",
-      "link": "https://www.tbsnews.net/bangladesh/tejgaon-paltan-model-police-station-ocs-withdrawn-1522101",
-      "pubDate": "Sat, 22 Aug 2026 23:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/08/13/dmp-logo-tbs.jpg",
-      "snippet": "Both officers attached to DMP headquarters for administrative reasons."
-    },
-    {
-      "title": "Runner moves ahead with BYD tie-up, signs EV licensing deal",
-      "link": "https://www.tbsnews.net/economy/stocks/runner-moves-ahead-byd-tie-signs-ev-licensing-deal-1522116",
-      "pubDate": "Sat, 22 Aug 2026 23:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/09/runner_automobile.jpg",
-      "snippet": "The board has also approved a proposal to double the company’s authorised share capital to Tk400 crore from Tk200 crore."
-    },
-    {
-      "title": "'Bangladesh First' to guide decision on joining any pact: Shama Obaed",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-first-guide-decision-joining-any-pact-shama-obaed-1522086",
-      "pubDate": "Sat, 22 Aug 2026 22:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/shama_pak_turkey_saudi.jpeg",
-      "snippet": "She made the comment when asked about Bangladesh’s possible participation in a Saudi-Pakistan-Türkiye pact."
     },
     {
       "title": "Milon calls for action against private universities failing to meet standards",
@@ -670,18 +681,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/chatgpt-image-aug-20-2026-01_52_27-pm.jpg",
       "snippet": "Framework sets 10,000MW solar target, proposes new FSRUs, greater use of domestic gas and coal, and major grid upgrades."
-    },
-    {
-      "title": "It's the economy, stupid",
-      "link": "https://www.tbsnews.net/features/panorama/its-economy-stupid-1520131",
-      "pubDate": "Thu, 20 Aug 2026 12:55:00 +0600",
-      "category": "Analysis",
-      "color": "#5d4037",
-      "bg": "#efebe9",
-      "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/sabir_mustafa.jpg",
-      "snippet": "Incumbents, no matter how clean or relatable their image, can see their popularity crash if the economy is not delivering the goods for the public"
     }
   ],
-  "updatedAt": "2026-08-23T06:50:19.726Z"
+  "updatedAt": "2026-08-23T07:32:59.691Z"
 }
