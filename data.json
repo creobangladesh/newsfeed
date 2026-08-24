@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Fresh breach in Khowai River embankment in Habiganj sends floodwaters into localities",
+      "link": "https://www.tbsnews.net/bangladesh/fresh-breach-khowai-river-embankment-habiganj-sends-floodwaters-localities-1523061",
+      "pubDate": "Mon, 24 Aug 2026 10:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/24/ceb14f641063708aa9c7c5c9ca209a2a.jpeg",
+      "snippet": "The breach occurred at the same location just one and a half months after an earlier breach, triggering fresh panic among residents living along the river."
+    },
+    {
+      "title": "NBR plans data-driven system to track taxpayers' income, spending, assets",
+      "link": "https://www.tbsnews.net/bangladesh/nbr-plans-data-driven-system-track-taxpayers-income-spending-assets-1523031",
+      "pubDate": "Mon, 24 Aug 2026 10:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/24/nbr.png",
+      "snippet": "The plan aims to raise Bangladesh’s tax-to-GDP ratio from 6.8% now to 15% by 2035"
+    },
+    {
       "title": "6 million Bangladeshi CVs offered for sale on dark web",
       "link": "https://www.tbsnews.net/bangladesh/6-million-bangladeshi-cvs-offered-sale-dark-web-1523006",
       "pubDate": "Mon, 24 Aug 2026 07:50:00 +0600",
@@ -208,28 +230,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/zakaria_tahaer.jpg",
       "snippet": "Over the past 17 years, there has been a lack of proper implementation of the laws, rules, and policies governing building construction in the country, he says."
-    },
-    {
-      "title": "ACC orders journalists Shakil Ahmed, Farzana Rupa to submit wealth statements",
-      "link": "https://www.tbsnews.net/bangladesh/acc-orders-journalists-shakil-ahmed-farzana-rupa-submit-wealth-statements-1522861",
-      "pubDate": "Sun, 23 Aug 2026 21:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/01/25/0dc8a3c194f6931d9d97115834acf5b3.jpg",
-      "snippet": "The couple, who are currently in separate jails in connection with separate cases, have been given 21 working days to submit the statements."
-    },
-    {
-      "title": "Govt to form directorate for enforced disappearance victims",
-      "link": "https://www.tbsnews.net/bangladesh/govt-form-directorate-enforced-disappearance-victims-1522851",
-      "pubDate": "Sun, 23 Aug 2026 21:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/23/enforced_disappearances.jpg",
-      "snippet": "Proposed body would oversee treatment, legal aid, rehabilitation and compensation."
     },
     {
       "title": "CU admission tests to begin 29 January, applications starts from 15 November",
@@ -683,5 +683,5 @@
       "snippet": "Four decades of evolving criminal networks, weak policing and political patronage have shaped Mohammadpur’s crime ecosystem. Breaking the cycle will require strong law enforcement, better public services, jobs and long-term social intervention"
     }
   ],
-  "updatedAt": "2026-08-24T03:54:04.082Z"
+  "updatedAt": "2026-08-24T04:43:20.454Z"
 }
