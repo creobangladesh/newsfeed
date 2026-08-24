@@ -1,6 +1,50 @@
 {
   "news": [
     {
+      "title": "Jamaat wants India ties based on 'mutual respect, equity': Shafiqur",
+      "link": "https://www.tbsnews.net/bangladesh/politics/jamaat-wants-india-ties-based-mutual-respect-equity-shafiqur-1523636",
+      "pubDate": "Mon, 24 Aug 2026 17:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/01/03/jamaat_ameer_shafiqur_rahman.jpg",
+      "snippet": "“Once we are ready, we’ll make it public,” Shafiqur said."
+    },
+    {
+      "title": "Health minister orders formation of committee to prevent, control infections",
+      "link": "https://www.tbsnews.net/bangladesh/health-minister-orders-formation-committee-prevent-control-infections-1523626",
+      "pubDate": "Mon, 24 Aug 2026 17:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/24/screenshot_2026-08-24_173802.png",
+      "snippet": "He stressed bringing private hospitals alongside government hospitals under proper waste management."
+    },
+    {
+      "title": "Missing for 29 days, expatriate returnee found dead in Tongi drain",
+      "link": "https://www.tbsnews.net/bangladesh/crime/missing-29-days-expatriate-returnee-found-dead-tongi-drain-1523631",
+      "pubDate": "Mon, 24 Aug 2026 17:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/24/783727225_1377454961239685_2480678383220141880_n.jpg",
+      "snippet": "The victim went missing on 27 July after allegedly being lured to Sonargaon with a job offer."
+    },
+    {
+      "title": "Severed body recovered in Sabujbagh: Another accused placed on 4-day remand",
+      "link": "https://www.tbsnews.net/bangladesh/court/severed-body-recovered-sabujbagh-another-accused-placed-4-day-remand-1523611",
+      "pubDate": "Mon, 24 Aug 2026 17:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/court.png",
+      "snippet": "Dhaka Metropolitan Magistrate Hasan Shahadat passed the order following a police petition, Dhaka Metropolitan Prosecution Department Sub-Inspector Mominul Islam confirmed."
+    },
+    {
       "title": "2027 SSC exams to begin on 14 March, practicals to end by 22 April",
       "link": "https://www.tbsnews.net/bangladesh/education/2027-ssc-exams-begin-14-march-practicals-end-22-april-1523586",
       "pubDate": "Mon, 24 Aug 2026 17:05:00 +0600",
@@ -199,48 +243,15 @@
       "snippet": "The Minister made the remarks during a courtesy meeting with members of the Aviation and Tourism Journalists' Forum of Bangladesh (ATJFB) at the Secretariat in Dhaka."
     },
     {
-      "title": "Local govt polls: Rizvi asks BNP leaders, activists to back eligible candidates after scrutiny",
-      "link": "https://www.tbsnews.net/bangladesh/politics/local-govt-polls-rizvi-asks-bnp-leaders-activists-back-eligible-candidates-after",
-      "pubDate": "Mon, 24 Aug 2026 14:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/10/29/rizvi.jpeg",
-      "snippet": "He urged party members not to engage in unethical activities, saying the party chairman has taken strong action against those involved in misconduct in the name of the party since 5 August 2024."
-    },
-    {
-      "title": "Research, innovation not expenditure but investment: Finance Minister",
-      "link": "https://www.tbsnews.net/bangladesh/research-innovation-not-expenditure-investment-finance-minister-1523291",
-      "pubDate": "Mon, 24 Aug 2026 14:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/24/8193748.jpg",
-      "snippet": "The BIRDI grants are a Finance Division initiative implemented with support from the Asian Development Bank (ADB) to promote practical research and innovation aimed at addressing industry needs."
-    },
-    {
       "title": "CPD sees inflation tamed, exports improving but deeper fiscal strains undercut govt in first 6 months",
       "link": "https://www.tbsnews.net/economy/cpd-sees-inflation-tamed-exports-improving-deeper-fiscal-strains-undercut-govt-first-6",
       "pubDate": "Mon, 24 Aug 2026 14:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/11/03/cpd_logo.jpg",
       "snippet": "The trade deficit widened from $6.7 billion to $10.4 billion, and the current account balance swung from a $1.3 billion surplus to a $0.6 billion deficit."
-    },
-    {
-      "title": "Upstream water submerges 250 hectares of cropland in Brahmanbaria",
-      "link": "https://www.tbsnews.net/bangladesh/250-hectares-cropland-submerged-brahmanbaria-1523301",
-      "pubDate": "Mon, 24 Aug 2026 14:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/24/sylhet_flood.jpg",
-      "snippet": "Water levels in canals and wetlands have also continued to rise."
     },
     {
       "title": "AI and automation: The real questions that only a few are asking",
@@ -727,17 +738,6 @@
       "snippet": "Generative AI is rapidly transforming classrooms, easing teachers’ workloads while challenging traditional ideas of assessment, academic integrity and expertise. The future of education may depend less on restricting AI than on learning to use it wis..."
     },
     {
-      "title": "Want to prevent capital flight? Build a functioning capital market",
-      "link": "https://www.tbsnews.net/thoughts/want-prevent-capital-flight-build-functioning-capital-market-1521236",
-      "pubDate": "Fri, 21 Aug 2026 18:35:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/stock_broker_dse_0.jpg",
-      "snippet": "While healthy capital markets make participation in wealth creation more democratic, it plays a more important role in the economy: keeping Bangladesh’s wealth from ending up elsewhere"
-    },
-    {
       "title": "Beyond sustainability: What do we actually want to sustain?",
       "link": "https://www.tbsnews.net/thoughts/beyond-sustainability-what-do-we-actually-want-sustain-1521231",
       "pubDate": "Fri, 21 Aug 2026 18:35:00 +0600",
@@ -749,6 +749,17 @@
       "snippet": "True sustainability requires more than green initiatives or economic growth. It means recognising ecological limits, protecting nature’s irreplaceable systems and ensuring today’s development does not undermine future generations."
     },
     {
+      "title": "Want to prevent capital flight? Build a functioning capital market",
+      "link": "https://www.tbsnews.net/thoughts/want-prevent-capital-flight-build-functioning-capital-market-1521236",
+      "pubDate": "Fri, 21 Aug 2026 18:35:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/stock_broker_dse_0.jpg",
+      "snippet": "While healthy capital markets make participation in wealth creation more democratic, it plays a more important role in the economy: keeping Bangladesh’s wealth from ending up elsewhere"
+    },
+    {
       "title": "Why does a woman need a separate bus to feel safe in Dhaka?",
       "link": "https://www.tbsnews.net/thoughts/why-does-woman-need-separate-bus-feel-safe-dhaka-1522666",
       "pubDate": "Fri, 21 Aug 2026 18:05:00 +0600",
@@ -758,29 +769,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/pink_bus_1.jpg",
       "snippet": "Dhaka's new pink bus service offers women a safer and more comfortable way to travel, but it cannot solve the wider problem of harassment and insecurity. Real change requires safer public spaces, stronger enforcement and accountability beyond the bus"
-    },
-    {
-      "title": "Finance minister urges linking higher education with jobs, entrepreneurship",
-      "link": "https://www.tbsnews.net/bangladesh/education/finance-minister-urges-linking-higher-education-jobs-entrepreneurship-1521206",
-      "pubDate": "Fri, 21 Aug 2026 17:50:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/amir_khosru.jpg",
-      "snippet": "The minister also calls for stronger university-industry collaboration, industry-linked research, and academic programmes tailored to regional and labour market demands."
-    },
-    {
-      "title": "Govt to build innovation hubs, startup ecosystem in universities: Mahdi Amin",
-      "link": "https://www.tbsnews.net/bangladesh/education/govt-build-innovation-hubs-startup-ecosystem-universities-mahdi-amin-1521201",
-      "pubDate": "Fri, 21 Aug 2026 17:45:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/mahdi_amin_2.jpg",
-      "snippet": "PM’s education adviser Mahdi Amin says the government will support innovation hubs, incubation centres and research initiatives at universities to turn promising ideas into startups and solve local problems."
     }
   ],
-  "updatedAt": "2026-08-24T11:27:52.991Z"
+  "updatedAt": "2026-08-24T11:56:17.111Z"
 }
