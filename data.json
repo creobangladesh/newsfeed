@@ -1,6 +1,94 @@
 {
   "news": [
     {
+      "title": "Light to moderate rain likely in parts of country",
+      "link": "https://www.tbsnews.net/bangladesh/environment/light-moderate-rain-likely-parts-country-1523186",
+      "pubDate": "Mon, 24 Aug 2026 12:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/2917931.jpg",
+      "snippet": "The country’s highest rainfall of 58mm in the past 24 hours until 6am today was recorded at Kutubdia in Chattogram."
+    },
+    {
+      "title": "Govt forms five-member committee to implement change in fiscal calendar",
+      "link": "https://www.tbsnews.net/bangladesh/govt-forms-five-member-committee-implement-change-fiscal-calendar-1523171",
+      "pubDate": "Mon, 24 Aug 2026 12:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/24/fiscal.jpg",
+      "snippet": "The committee will determine the necessary measures, including amendments to the Constitution and the General Clauses Act, 1897, as well as technical changes required in the government’s financial management system, to implement the change in the fis..."
+    },
+    {
+      "title": "Dhaka University to hold 54th convocation on 26 January",
+      "link": "https://www.tbsnews.net/bangladesh/education/dhaka-university-hold-its-54th-convocation-26-january-1523156",
+      "pubDate": "Mon, 24 Aug 2026 12:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/11/23/du.jpg",
+      "snippet": "The decision came at the university's Academic Council meeting yesterday, Prof Dr Md Mofazzal Hossain, acting dean of the Faculty of Science, told The Business Standard this morning (24 August)."
+    },
+    {
+      "title": "Businessman hacked to death in Sylhet",
+      "link": "https://www.tbsnews.net/bangladesh/businessman-hacked-death-sylhet-1523151",
+      "pubDate": "Mon, 24 Aug 2026 12:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/24/received_1524729442674624.jpeg",
+      "snippet": "Sylhet Metropolitan Police Additional Deputy Commissioner (Media) Monjur Ahmed said, “We have recovered the body and sent it to the morgue. Police are working to uncover the circumstances surrounding the incident.”"
+    },
+    {
+      "title": "Security beefed up at Nusrat’s home ahead of High Court verdict",
+      "link": "https://www.tbsnews.net/bangladesh/security-beefed-nusrats-home-ahead-high-court-verdict-1523161",
+      "pubDate": "Mon, 24 Aug 2026 12:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/24/untitled_design_5.png",
+      "snippet": "A team of police led by Sonagazi Model Police Station Officer-in-Charge (OC) Md Abul Hasim visited Nusrat’s home yesterday afternoon to assess the security of her family and the overall situation."
+    },
+    {
+      "title": "Steelmakers burn expensive alternative fuel as gas pressure hits near-zero",
+      "link": "https://www.tbsnews.net/bangladesh/energy/steelmakers-burn-expensive-alternative-fuel-gas-pressure-hits-near-zero-1523106",
+      "pubDate": "Mon, 24 Aug 2026 12:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/24/gemini_generated_image_8m76hs8m76hs8m76.jpg",
+      "snippet": "Industry leaders warn that the ongoing energy crunch, compounded by frequent power cuts and legacy financial strains, threatens to disrupt the country’s construction supply chain and drive up steel prices ahead of the peak construction season, beginn..."
+    },
+    {
+      "title": "HRW calls for end to arbitrary pretrial detention of political opponents in Bangladesh",
+      "link": "https://www.tbsnews.net/bangladesh/hrw-calls-end-arbitrary-pretrial-detention-political-opponents-bangladesh-1523131",
+      "pubDate": "Mon, 24 Aug 2026 11:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/08/10/hrw_0.jpg",
+      "snippet": "The rights organisation also called for independent investigations into deaths in custody, respect for the presumption of innocence and greater protection of detainees' fair trial rights."
+    },
+    {
+      "title": "Brazil propose October friendly against Bangladesh ",
+      "link": "https://www.tbsnews.net/sports/brazil-propose-october-friendly-against-bangladesh-1523126",
+      "pubDate": "Mon, 24 Aug 2026 11:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/06/05/2021-06-05t004050z_1850621868_hp1eh6501w0i2_rtrmadp_3_soccer-worldcup-bra-ecu-report.jpg",
+      "snippet": "If the proposed fixture goes ahead, it would mark the former world champions’ first-ever visit to the country."
+    },
+    {
       "title": "BB adopts 18-month plan to recover default loans",
       "link": "https://www.tbsnews.net/economy/banking/bb-adopts-18-month-plan-recover-default-loans-1523091",
       "pubDate": "Mon, 24 Aug 2026 11:00:00 +0600",
@@ -74,7 +162,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/06/766106159_3057136757813342_5057701172018074805_n.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/24/industry.png",
       "snippet": "The plan was to move the lathes, metal-cutting operations and toxic fumes from melting iron out of the congested surroundings of Old Dhaka along the Buriganga and bring them together"
     },
     {
@@ -144,48 +232,15 @@
       "snippet": "Drivers cite gas shortages and fewer trips as reasons for charging fares above the government-set rates."
     },
     {
-      "title": "BATB workers demand permanent jobs, abolition of contract system",
-      "link": "https://www.tbsnews.net/bangladesh/batb-workers-demand-permanent-jobs-abolition-contract-system-1522941",
-      "pubDate": "Sun, 23 Aug 2026 22:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/batb_workers_protest.jpg",
-      "snippet": "Around 200 workers and leaders of the Labour Welfare Union, including field technicians and office staff from BATB's Chechua, Allahar Dargah, Meherpur and Chuadanga leaf regions, took part."
-    },
-    {
-      "title": "Malaysia job market being handed to syndicate, fascists: Jamaat",
-      "link": "https://www.tbsnews.net/bangladesh/malaysia-job-market-being-handed-syndicate-fascists-jamaat-1522946",
-      "pubDate": "Sun, 23 Aug 2026 22:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/23/tbs_0.jpg",
-      "snippet": "Jamaat warns restricted recruitment could raise migration costs"
-    },
-    {
       "title": "Bangla QR transactions hit Tk3,578cr in eight weeks",
       "link": "https://www.tbsnews.net/economy/banking/tk3578cr-total-transaction-value-recorded-through-bangla-qr-8-weeks-1522911",
       "pubDate": "Sun, 23 Aug 2026 22:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/25/bangla_qr.png",
       "snippet": "By last week, however, the average number of daily transactions had risen to 3.03 lakh, while the average daily transaction value increased to around Tk110.38 crore."
-    },
-    {
-      "title": "Retired police officer testifies in crimes against humanity case against Ziaul Ahsan",
-      "link": "https://www.tbsnews.net/bangladesh/court/retired-police-officer-testifies-crimes-against-humanity-case-against-ziaul-ahsan",
-      "pubDate": "Sun, 23 Aug 2026 22:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/11/12/ziaul_ahsan.jpeg",
-      "snippet": "He testified about the recovery of an unidentified body allegedly linked to a former BDR member who had reportedly been abducted months earlier."
     },
     {
       "title": "BSEC conditionally approves 30% stake sale in Dominage Steel",
@@ -197,50 +252,6 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/bsec.jpg",
       "snippet": "Akij Resources, two others to acquire sponsor-directors' shares"
-    },
-    {
-      "title": "Decorative poles to be installed on Dhaka North’s major roads: Administrator",
-      "link": "https://www.tbsnews.net/bangladesh/decorative-poles-be-installed-dhaka-norths-major-roads-administrator-1522936",
-      "pubDate": "Sun, 23 Aug 2026 21:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/dncc_administrator_shafiqul_islam_khan.png",
-      "snippet": "DNCC Administrator Shafiqul Islam Khan says the project will improve visibility, facilitate movement and enhance the capital’s appearance."
-    },
-    {
-      "title": "BSEC moves to overhaul merchant banking rules after 30 years",
-      "link": "https://www.tbsnews.net/economy/stocks/bsec-moves-overhaul-merchant-banking-rules-after-30-years-1522891",
-      "pubDate": "Sun, 23 Aug 2026 21:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/15/bsec_stock.jpg",
-      "snippet": "The four-member committee has been given 30 working days to propose amendments covering licensing, financial capacity, risk management and merchant bankers’ responsibilities to investors."
-    },
-    {
-      "title": "Shariatpur journalist assaulted after 'protesting press club wall demolition'",
-      "link": "https://www.tbsnews.net/bangladesh/districts/shariatpur-journalist-assaulted-after-protesting-press-club-wall-demolition",
-      "pubDate": "Sun, 23 Aug 2026 21:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/journalist_assualt_shariatpur.png",
-      "snippet": "Journalist suffers wrist fracture amid press club land dispute."
-    },
-    {
-      "title": "Humaiun, Shama assigned separate duties as state ministers for foreign affairs",
-      "link": "https://www.tbsnews.net/bangladesh/humaiun-kobir-shama-obaed-assigned-separate-portfolios-state-ministers-foreign-affairs",
-      "pubDate": "Sun, 23 Aug 2026 21:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/humaiun_kobir_and_shama_obaed.png",
-      "snippet": "Humaiun Kobir will oversee bilateral and multilateral affairs, while Shama Obaed Islam will handle human rights, climate change, LDC graduation and other assigned duties."
     },
     {
       "title": "CU admission tests to begin 29 January, applications starts from 15 November",
@@ -694,5 +705,5 @@
       "snippet": "Four decades of evolving criminal networks, weak policing and political patronage have shaped Mohammadpur’s crime ecosystem. Breaking the cycle will require strong law enforcement, better public services, jobs and long-term social intervention"
     }
   ],
-  "updatedAt": "2026-08-24T05:37:22.414Z"
+  "updatedAt": "2026-08-24T06:57:18.020Z"
 }
