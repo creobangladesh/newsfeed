@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "6 million Bangladeshi CVs offered for sale on dark web",
+      "link": "https://www.tbsnews.net/bangladesh/6-million-bangladeshi-cvs-offered-sale-dark-web-1523006",
+      "pubDate": "Mon, 24 Aug 2026 07:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/02/17/hackers.jpg",
+      "snippet": "The hackers claim the database contains detailed personal information, including names, phone numbers, physical addresses, email addresses, educational qualifications and professional experience"
+    },
+    {
+      "title": "Inside the Tk309cr engineering industrial park where no factories exist",
+      "link": "https://www.tbsnews.net/economy/industry/inside-tk309cr-engineering-industrial-park-where-no-factories-exist-1523001",
+      "pubDate": "Mon, 24 Aug 2026 07:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/06/766106159_3057136757813342_5057701172018074805_n.jpg",
+      "snippet": "The plan was to move the lathes, metal-cutting operations and toxic fumes from melting iron out of the congested surroundings of Old Dhaka along the Buriganga and bring them together"
+    },
+    {
       "title": "Stakeholders oppose cross-subsidy surcharge on merchant power",
       "link": "https://www.tbsnews.net/bangladesh/energy/stakeholders-oppose-cross-subsidy-surcharge-merchant-power-1522996",
       "pubDate": "Mon, 24 Aug 2026 00:55:00 +0600",
@@ -208,28 +230,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/23/enforced_disappearances.jpg",
       "snippet": "Proposed body would oversee treatment, legal aid, rehabilitation and compensation."
-    },
-    {
-      "title": "Angry farmers in Kurigram break into dealer's warehouse, 'loot' urea they had paid for",
-      "link": "https://www.tbsnews.net/bangladesh/angry-farmers-kurigram-break-dealers-warehouse-loot-urea-they-had-paid-1522841",
-      "pubDate": "Sun, 23 Aug 2026 20:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/fertiliser.png",
-      "snippet": "On information, police rushed in and asked the farmers to return the fertiliser."
-    },
-    {
-      "title": "Security tightened at Dhaka diplomatic zone after embassies receive emails demanding money",
-      "link": "https://www.tbsnews.net/bangladesh/security-tightened-dhaka-diplomatic-zone-after-embassies-receive-emails-demanding-money",
-      "pubDate": "Sun, 23 Aug 2026 20:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/diplomatice_zone.jpeg",
-      "snippet": "The DB chief said three or four embassies as well as several government offices have received such emails."
     },
     {
       "title": "CU admission tests to begin 29 January, applications starts from 15 November",
@@ -694,5 +694,5 @@
       "snippet": "The foreign exchange market has also remained broadly stable, with the dollar rate holding steady while foreign exchange reserves increased by over $2 billion to more than $32 billion in the last six months, according to International Monetary Fund c..."
     }
   ],
-  "updatedAt": "2026-08-24T01:15:59.942Z"
+  "updatedAt": "2026-08-24T02:45:22.462Z"
 }
