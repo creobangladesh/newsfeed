@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "BB adopts 18-month plan to recover default loans",
+      "link": "https://www.tbsnews.net/economy/banking/bb-adopts-18-month-plan-recover-default-loans-1523091",
+      "pubDate": "Mon, 24 Aug 2026 11:00:00 +0600",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/bangladesh_bank.jpg",
+      "snippet": "During the first six months of the plan, efforts will be made to recover loans through negotiations between banks and borrowers."
+    },
+    {
+      "title": "Tk75cr makeover planned to bring Dhanmondi Lake back to life",
+      "link": "https://www.tbsnews.net/bangladesh/infrastructure/tk75cr-makeover-planned-bring-dhanmondi-lake-back-life-1523076",
+      "pubDate": "Mon, 24 Aug 2026 10:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/24/p5_dhanmondhi_lake_rajibdhar_001.jpg",
+      "snippet": "Estimate includes Tk25cr for Nazrul Sarobar, cultural facility"
+    },
+    {
+      "title": "HSC examinee killed on way to exam centre in Ctg, crane driver arrested",
+      "link": "https://www.tbsnews.net/bangladesh/crime/hsc-examinee-killed-way-exam-centre-ctg-crane-driver-arrested-1523081",
+      "pubDate": "Mon, 24 Aug 2026 10:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/24/782997129_1106547968702244_7883786584936478265_n.jpg",
+      "snippet": "The deceased was identified as Nafisa Nawal, 19, a 12th-grade student at CMP School and College, Dampara Police Lines."
+    },
+    {
       "title": "Fresh breach in Khowai River embankment in Habiganj sends floodwaters into localities",
       "link": "https://www.tbsnews.net/bangladesh/fresh-breach-khowai-river-embankment-habiganj-sends-floodwaters-localities-1523061",
       "pubDate": "Mon, 24 Aug 2026 10:10:00 +0600",
@@ -166,6 +199,17 @@
       "snippet": "Akij Resources, two others to acquire sponsor-directors' shares"
     },
     {
+      "title": "Decorative poles to be installed on Dhaka North’s major roads: Administrator",
+      "link": "https://www.tbsnews.net/bangladesh/decorative-poles-be-installed-dhaka-norths-major-roads-administrator-1522936",
+      "pubDate": "Sun, 23 Aug 2026 21:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/dncc_administrator_shafiqul_islam_khan.png",
+      "snippet": "DNCC Administrator Shafiqul Islam Khan says the project will improve visibility, facilitate movement and enhance the capital’s appearance."
+    },
+    {
       "title": "BSEC moves to overhaul merchant banking rules after 30 years",
       "link": "https://www.tbsnews.net/economy/stocks/bsec-moves-overhaul-merchant-banking-rules-after-30-years-1522891",
       "pubDate": "Sun, 23 Aug 2026 21:50:00 +0600",
@@ -188,28 +232,6 @@
       "snippet": "Journalist suffers wrist fracture amid press club land dispute."
     },
     {
-      "title": "Decorative poles to be installed on Dhaka North’s major roads: Administrator",
-      "link": "https://www.tbsnews.net/bangladesh/decorative-poles-be-installed-dhaka-norths-major-roads-administrator-1522936",
-      "pubDate": "Sun, 23 Aug 2026 21:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/dncc_administrator_shafiqul_islam_khan.png",
-      "snippet": "DNCC Administrator Shafiqul Islam Khan says the project will improve visibility, facilitate movement and enhance the capital’s appearance."
-    },
-    {
-      "title": "Bangladesh launches first nationwide vessel census to build database",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-launches-first-nationwide-vessel-census-build-database-1522881",
-      "pubDate": "Sun, 23 Aug 2026 21:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/vessel_census.jpg",
-      "snippet": "The Vessel Census 2026 began on 20 August and is being jointly conducted by the Department of Shipping and Bangladesh Bureau of Statistics (BBS)."
-    },
-    {
       "title": "Humaiun, Shama assigned separate duties as state ministers for foreign affairs",
       "link": "https://www.tbsnews.net/bangladesh/humaiun-kobir-shama-obaed-assigned-separate-portfolios-state-ministers-foreign-affairs",
       "pubDate": "Sun, 23 Aug 2026 21:45:00 +0600",
@@ -219,17 +241,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/humaiun_kobir_and_shama_obaed.png",
       "snippet": "Humaiun Kobir will oversee bilateral and multilateral affairs, while Shama Obaed Islam will handle human rights, climate change, LDC graduation and other assigned duties."
-    },
-    {
-      "title": "None will be allowed to construct buildings beyond approved design in future: Zakaria",
-      "link": "https://www.tbsnews.net/bangladesh/none-will-be-allowed-construct-buildings-beyond-approved-design-future-zakaria-1522876",
-      "pubDate": "Sun, 23 Aug 2026 21:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/zakaria_tahaer.jpg",
-      "snippet": "Over the past 17 years, there has been a lack of proper implementation of the laws, rules, and policies governing building construction in the country, he says."
     },
     {
       "title": "CU admission tests to begin 29 January, applications starts from 15 November",
@@ -683,5 +694,5 @@
       "snippet": "Four decades of evolving criminal networks, weak policing and political patronage have shaped Mohammadpur’s crime ecosystem. Breaking the cycle will require strong law enforcement, better public services, jobs and long-term social intervention"
     }
   ],
-  "updatedAt": "2026-08-24T04:43:20.454Z"
+  "updatedAt": "2026-08-24T05:37:22.414Z"
 }
