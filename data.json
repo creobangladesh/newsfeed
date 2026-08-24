@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Stakeholders seek inclusive panel to ensure independent National Human Rights Commission",
+      "link": "https://www.tbsnews.net/bangladesh/stakeholders-seek-inclusive-panel-ensure-independent-national-human-rights-commission",
+      "pubDate": "Tue, 25 Aug 2026 00:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/25/human_rights_commission.jpg",
+      "snippet": "The discussion reviewed the draft law’s provisions on the commission’s independence, accountability, appointment process, finances, investigations and access to remedies."
+    },
+    {
       "title": "Faridpur kabiraj sentenced to 10 years' rigorous imprisonment for offence involving sexual violence",
       "link": "https://www.tbsnews.net/bangladesh/court/faridpur-kabiraj-sentenced-10-years-rigorous-imprisonment-offence-involving-sexual",
       "pubDate": "Mon, 24 Aug 2026 22:30:00 +0600",
@@ -23,7 +34,7 @@
       "snippet": "The three-day fair will feature around 15 policy dialogues and sessions, with policymakers, researchers, academics and business leaders expected to attend."
     },
     {
-      "title": "In photos: Nepal's Chitwan National Park",
+      "title": "In photos: Wonders of Chitwan National Park",
       "link": "https://www.tbsnews.net/features/wheels/photo-stories/photos-nepals-chitwan-national-park-1524036",
       "pubDate": "Mon, 24 Aug 2026 22:10:00 +0600",
       "category": "Bangladesh",
@@ -210,28 +221,6 @@
       "snippet": "A High Court bench comprising Justice Bhishmadev Chakraborty and Justice KM Rasheduzzaman Raja fixed the date"
     },
     {
-      "title": "President stresses ADR, village court to reduce case backlog",
-      "link": "https://www.tbsnews.net/bangladesh/president-stresses-adr-village-court-reduce-case-backlog-1523911",
-      "pubDate": "Mon, 24 Aug 2026 20:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/24/president_mirza_fakhrul_islam_alamgir_and_chief_justice_zubayer_rahman_chowdhury.jpg",
-      "snippet": "Chief Justice Zubayer Rahman Chowdhury briefs President Mirza Fakhrul Islam Alamgir on the judiciary’s growing case backlog, manpower shortage and infrastructure constraints."
-    },
-    {
-      "title": "Depositors protest at First Security Islami Bank zonal office in Ctg, demand return of funds",
-      "link": "https://www.tbsnews.net/economy/banking/depositors-protest-first-security-islami-bank-zonal-office-ctg-demand-return-funds",
-      "pubDate": "Mon, 24 Aug 2026 20:20:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/24/s_islami_bank.png",
-      "snippet": "Around 100-150 depositors joined the protest, alleging delays in returning their savings and issuing the gazette on haircut cancellation."
-    },
-    {
       "title": "Money changers cap cash dollar rate at Tk126.50",
       "link": "https://www.tbsnews.net/economy/dollar-buying-rate-now-tk12550-selling-tk12650-1523836",
       "pubDate": "Mon, 24 Aug 2026 19:50:00 +0600",
@@ -254,83 +243,6 @@
       "snippet": "But the story of Invest Bangladesh Authority goes back much further – to the early years of independent Bangladesh and the country’s evolving economic philosophy."
     },
     {
-      "title": "Measles death toll rises to 938 as 5 more die in 24hrs",
-      "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-rises-938-5-more-die-24hrs-1523756",
-      "pubDate": "Mon, 24 Aug 2026 18:55:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/dengu.jpg",
-      "snippet": "Five more suspected measles deaths were reported in the past 24 hours, alongside 1,149 new suspected cases nationwide."
-    },
-    {
-      "title": "Rising energy costs hiking medicine production expenses, warns association",
-      "link": "https://www.tbsnews.net/bangladesh/health/rising-energy-costs-hiking-medicine-production-expenses-warns-association-1523681",
-      "pubDate": "Mon, 24 Aug 2026 18:00:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/24/bangladesh_association_of_pharmaceutical_industries_meeting.png",
-      "snippet": "In the pharma industry, the Bangladesh Association of Pharmaceutical Industries warned that once the production cycle begins, it cannot be halted midway without the entire batch."
-    },
-    {
-      "title": "Govt mulls restoring universal stipends for girls from Class 6 to graduation",
-      "link": "https://www.tbsnews.net/bangladesh/education/govt-mulls-restoring-universal-stipends-girls-class-6-graduation-1523666",
-      "pubDate": "Mon, 24 Aug 2026 17:55:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/02/10/school_students.jpg",
-      "snippet": "PM directs officials to launch mid-day meal pilot projects in two districts."
-    },
-    {
-      "title": "Dengue claims 3 more lives, 994 hospitalised in a day",
-      "link": "https://www.tbsnews.net/bangladesh/health/dengue-claims-3-more-lives-994-hospitalised-day-1523646",
-      "pubDate": "Mon, 24 Aug 2026 17:50:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/25/05_news_copy.png",
-      "snippet": "All three deaths were reported in Dhaka, with two in Dhaka South and one in Dhaka North during the latest reporting period."
-    },
-    {
-      "title": "Health minister orders formation of committee to prevent, control infections",
-      "link": "https://www.tbsnews.net/bangladesh/health-minister-orders-formation-committee-prevent-control-infections-1523626",
-      "pubDate": "Mon, 24 Aug 2026 17:35:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/24/screenshot_2026-08-24_173802.png",
-      "snippet": "He stressed bringing private hospitals alongside government hospitals under proper waste management."
-    },
-    {
-      "title": "SSC exams 2027 to begin 14 March; written tests end 15 April, practical by 22 April",
-      "link": "https://www.tbsnews.net/bangladesh/education/ssc-exams-2027-begin-14-march-written-tests-end-15-april-practical-22-april",
-      "pubDate": "Mon, 24 Aug 2026 17:05:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/12/08/mohammad_minhaj_uddin.jpg",
-      "snippet": "Written tests are scheduled to end on 15 April."
-    },
-    {
-      "title": "2026-27 session: No college admission tests; selection entirely based on SSC results",
-      "link": "https://www.tbsnews.net/bangladesh/education/no-college-admission-tests-selection-be-based-entirely-ssc-results-1523511",
-      "pubDate": "Mon, 24 Aug 2026 16:35:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/769838765_1346887494308459_5713235104749675688_n_1.jpg",
-      "snippet": "Online applications will open on 2 September and applicants must confirm their selection by 8pm on 19 September"
-    },
-    {
       "title": "DSEX crashes to 2-month low amid massive sell-off",
       "link": "https://www.tbsnews.net/economy/stocks/dsex-crashes-2-month-low-amid-massive-sell-1523341",
       "pubDate": "Mon, 24 Aug 2026 15:20:00 +0600",
@@ -351,50 +263,6 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/11/03/cpd_logo.jpg",
       "snippet": "The trade deficit widened from $6.7 billion to $10.4 billion, and the current account balance swung from a $1.3 billion surplus to a $0.6 billion deficit."
-    },
-    {
-      "title": "AI and automation: The real questions that only a few are asking",
-      "link": "https://www.tbsnews.net/thoughts/ai-and-automation-real-questions-only-few-are-asking-1523246",
-      "pubDate": "Mon, 24 Aug 2026 13:55:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/24/ai_and_automation.jpg",
-      "snippet": "AI came with a huge number of effects, challenges, and future possibilities for our society, politics, state, and even philosophy. In previous technological revolutions, we saw that the requirement for human labour and human skills in several sectors..."
-    },
-    {
-      "title": "Balance may be the missing piece in healthy aging",
-      "link": "https://www.tbsnews.net/bangladesh/health/balance-may-be-missing-piece-healthy-aging-1523236",
-      "pubDate": "Mon, 24 Aug 2026 13:45:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/24/untitled_design_6.png",
-      "snippet": "The single-leg exercise is designed to test balance, but it may also reveal something about longevity."
-    },
-    {
-      "title": "From heart health to cognition: What tea may do for the body",
-      "link": "https://www.tbsnews.net/bangladesh/health/heart-health-cognition-what-tea-may-do-body-1523216",
-      "pubDate": "Mon, 24 Aug 2026 12:50:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/24/executive_health_tea.jpg",
-      "snippet": "Green, black, white and oolong teas all come from the same plant, Camellia sinensis. Differences in flavour, colour and appearance are largely determined by how the leaves are aged and processed"
-    },
-    {
-      "title": "Dhaka University to hold 54th convocation on 26 January",
-      "link": "https://www.tbsnews.net/bangladesh/education/dhaka-university-hold-its-54th-convocation-26-january-1523156",
-      "pubDate": "Mon, 24 Aug 2026 12:10:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/11/23/du.jpg",
-      "snippet": "The decision came at the university's Academic Council meeting yesterday, Prof Dr Md Mofazzal Hossain, acting dean of the Faculty of Science, told The Business Standard this morning (24 August)."
     },
     {
       "title": "BB adopts 18-month plan to recover default loans",
@@ -815,5 +683,5 @@
       "snippet": "The economist praises Fakhrul’s political, administrative and academic experience."
     }
   ],
-  "updatedAt": "2026-08-24T17:30:25.472Z"
+  "updatedAt": "2026-08-24T18:39:14.261Z"
 }
