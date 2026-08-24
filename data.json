@@ -1,6 +1,94 @@
 {
   "news": [
     {
+      "title": "AI and automation: The real questions that only a few are asking",
+      "link": "https://www.tbsnews.net/thoughts/ai-and-automation-real-questions-only-few-are-asking-1523246",
+      "pubDate": "Mon, 24 Aug 2026 13:55:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/24/ai_and_automation.jpg",
+      "snippet": "AI came with a huge number of effects, challenges, and future possibilities for our society, politics, state, and even philosophy. In previous technological revolutions, we saw that the requirement for human labour and human skills in several sectors..."
+    },
+    {
+      "title": "Maradona's 'Hand of God' ball sells for $3.3m ",
+      "link": "https://www.tbsnews.net/bangladesh/maradonas-hand-god-ball-sells-33m-1523226",
+      "pubDate": "Mon, 24 Aug 2026 13:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/hand_of_god.png",
+      "snippet": "Tunisian Ali Bin Nasser, who refereed the match in 1986, collected the Adidas Azteca ball at full-time and kept it for more than three decades."
+    },
+    {
+      "title": "Nassa Group chairman Nazrul shown arrested in July Uprising attempted murder case",
+      "link": "https://www.tbsnews.net/bangladesh/court/nassa-group-chairman-nazrul-shown-arrested-july-uprising-attempted-murder-case",
+      "pubDate": "Mon, 24 Aug 2026 13:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/24/772888817_2854494861593177_4737316629860150215_n.jpg",
+      "snippet": "According to the investigating officer, Nazrul instructed co-accused to open fire with the intention of killing the victim and provided financial assistance."
+    },
+    {
+      "title": "India eyes stronger business ties with Bangladesh; politics to continue in its own way: Trivedi",
+      "link": "https://www.tbsnews.net/bangladesh/india-eyes-stronger-business-ties-bangladesh-politics-continue-its-own-way-trivedi",
+      "pubDate": "Mon, 24 Aug 2026 13:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/24/screenshot_2026-08-24_130555.png",
+      "snippet": "Dinesh Trivedi highlights importance of peace, prosperity"
+    },
+    {
+      "title": "Nusrat murder: HC upholds death penalty for 2, sentences 4 to life, acquits 10",
+      "link": "https://www.tbsnews.net/bangladesh/court/nusrat-murder-hc-upholds-death-penalty-2-sentences-4-life-acquits-10-1523201",
+      "pubDate": "Mon, 24 Aug 2026 13:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/10/24/nusrat.jpg",
+      "snippet": "A Feni tribunal had sentenced all 16 accused in the case to death on 24 October 2019."
+    },
+    {
+      "title": "Gas-power crisis ripples from food to transport, construction",
+      "link": "https://www.tbsnews.net/bangladesh/energy/gas-power-crisis-ripples-food-transport-construction-1523111",
+      "pubDate": "Mon, 24 Aug 2026 13:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/gas_crisis.jpeg",
+      "snippet": "Powdered milk prices rise by Tk20-120 a kg depending on brand"
+    },
+    {
+      "title": "Ctg headteacher threatened by 'David Jihad' after student handed to police for dragging classmate from school",
+      "link": "https://www.tbsnews.net/bangladesh/ctg-headteacher-threatened-david-jihad-after-student-handed-police-dragging-classmate",
+      "pubDate": "Mon, 24 Aug 2026 12:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/24/ctg_school.jpg",
+      "snippet": "Iqra Abdul Jabbar High School Headteacher Jamal Uddin Sumon said he received the call on Saturday."
+    },
+    {
+      "title": "From heart health to cognition: What tea may do for the body",
+      "link": "https://www.tbsnews.net/bangladesh/health/heart-health-cognition-what-tea-may-do-body-1523216",
+      "pubDate": "Mon, 24 Aug 2026 12:50:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/24/executive_health_tea.jpg",
+      "snippet": "Green, black, white and oolong teas all come from the same plant, Camellia sinensis. Differences in flavour, colour and appearance are largely determined by how the leaves are aged and processed"
+    },
+    {
       "title": "Light to moderate rain likely in parts of country",
       "link": "https://www.tbsnews.net/bangladesh/environment/light-moderate-rain-likely-parts-country-1523186",
       "pubDate": "Mon, 24 Aug 2026 12:45:00 +0600",
@@ -45,7 +133,7 @@
       "snippet": "Sylhet Metropolitan Police Additional Deputy Commissioner (Media) Monjur Ahmed said, “We have recovered the body and sent it to the morgue. Police are working to uncover the circumstances surrounding the incident.”"
     },
     {
-      "title": "Security beefed up at Nusrat’s home ahead of High Court verdict",
+      "title": "Security beefed up at Nusrat's home ahead of High Court verdict",
       "link": "https://www.tbsnews.net/bangladesh/security-beefed-nusrats-home-ahead-high-court-verdict-1523161",
       "pubDate": "Mon, 24 Aug 2026 12:05:00 +0600",
       "category": "Bangladesh",
@@ -166,70 +254,15 @@
       "snippet": "The plan was to move the lathes, metal-cutting operations and toxic fumes from melting iron out of the congested surroundings of Old Dhaka along the Buriganga and bring them together"
     },
     {
-      "title": "Stakeholders oppose cross-subsidy surcharge on merchant power",
-      "link": "https://www.tbsnews.net/bangladesh/energy/stakeholders-oppose-cross-subsidy-surcharge-merchant-power-1522996",
-      "pubDate": "Mon, 24 Aug 2026 00:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/04/05/summit_power_plant-tbs.jpg",
-      "snippet": "Transmission charge of Tk0.37-0.38 per unit recommended."
-    },
-    {
-      "title": "Govt withholds clearance for vessels laying country's first private submarine cable",
-      "link": "https://www.tbsnews.net/bangladesh/govt-withholds-clearance-vessels-laying-countrys-first-private-submarine-cable-1522991",
-      "pubDate": "Mon, 24 Aug 2026 00:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/07/16/submarine_cable.jpg",
-      "snippet": "The Posts and Telecommunications Division has informed the relevant authorities that no objection or clearance should be issued to the private company for the cable-laying operation without a formal recommendation from the division."
-    },
-    {
       "title": "Invest Bangladesh Authority formally begins journey",
       "link": "https://www.tbsnews.net/economy/invest-bangladesh-authority-formally-begins-journey-1522986",
       "pubDate": "Mon, 24 Aug 2026 00:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/investment_bangladesh.jpg",
       "snippet": "Ashik Chowdhury appointed chairman for one year."
-    },
-    {
-      "title": "5 fishermen abducted with trawler in Sundarbans",
-      "link": "https://www.tbsnews.net/bangladesh/5-fishermen-abducted-trawler-sundarbans-1522981",
-      "pubDate": "Mon, 24 Aug 2026 00:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/06/01/bagerhat_sundarbon_pic_1.jpg",
-      "snippet": "The incident took place around 8:30pm on Saturday in the Shylar Char and Narikelbaria areas of the Sharan­khola Range of the Eastern Sundarbans."
-    },
-    {
-      "title": "7 police inspectors transferred in Ctg, new OCs appointed to 5 police stations",
-      "link": "https://www.tbsnews.net/bangladesh/law-order/7-police-inspectors-transferred-ctg-new-ocs-appointed-5-police-stations-1522976",
-      "pubDate": "Sun, 23 Aug 2026 23:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/24/cmp_logo.jpg",
-      "snippet": "CMP Commissioner Hasan Md Showkat Ali issued an office order today."
-    },
-    {
-      "title": "BRTA fines 13 buses in Ctg for overcharging passengers",
-      "link": "https://www.tbsnews.net/bangladesh/transport/brta-fines-13-buses-ctg-overcharging-passengers-1522971",
-      "pubDate": "Sun, 23 Aug 2026 23:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/brta_fine_ctg.jpg",
-      "snippet": "Drivers cite gas shortages and fewer trips as reasons for charging fares above the government-set rates."
     },
     {
       "title": "Bangla QR transactions hit Tk3,578cr in eight weeks",
@@ -692,18 +725,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/11/measles_tbs.jpeg",
       "snippet": "With these, the total number of suspected measles deaths has reached 829, while confirmed deaths from measles have remained the same at 99"
-    },
-    {
-      "title": "Mohammadpur: From a Mughal-era settlement to Dhaka’s crime hotspot",
-      "link": "https://www.tbsnews.net/features/panorama/mohammadpur-mughal-era-settlement-dhakas-crime-hotspot-1521081",
-      "pubDate": "Fri, 21 Aug 2026 13:00:00 +0600",
-      "category": "Analysis",
-      "color": "#5d4037",
-      "bg": "#efebe9",
-      "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/mohammadpur_criminals_panorama_collage_copy.png",
-      "snippet": "Four decades of evolving criminal networks, weak policing and political patronage have shaped Mohammadpur’s crime ecosystem. Breaking the cycle will require strong law enforcement, better public services, jobs and long-term social intervention"
     }
   ],
-  "updatedAt": "2026-08-24T06:57:18.020Z"
+  "updatedAt": "2026-08-24T07:59:56.061Z"
 }
