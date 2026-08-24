@@ -1,7 +1,40 @@
 {
   "news": [
     {
-      "title": "Ctg Customs destroys 3,268 tonnes of substandard, expired goods in 126 containers",
+      "title": "2027 SSC exams to begin on 14 March, practicals to end by 22 April",
+      "link": "https://www.tbsnews.net/bangladesh/education/2027-ssc-exams-begin-14-march-practicals-end-22-april-1523586",
+      "pubDate": "Mon, 24 Aug 2026 17:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/12/08/mohammad_minhaj_uddin.jpg",
+      "snippet": "Written tests are scheduled to end on 15 April."
+    },
+    {
+      "title": "Govt to procure 15,000 pieces of dunnage",
+      "link": "https://www.tbsnews.net/bangladesh/govt-procure-15000-pieces-dunnage-1523501",
+      "pubDate": "Mon, 24 Aug 2026 16:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/24/screenshot_2026-08-24_163657.png",
+      "snippet": "The proposal involves procurement above the price ceiling specified under Rule 99(2) of the Public Procurement Rules, 2025."
+    },
+    {
+      "title": "2026-27 session: No college admission tests; selection entirely based on SSC results",
+      "link": "https://www.tbsnews.net/bangladesh/education/no-college-admission-tests-selection-be-based-entirely-ssc-results-1523511",
+      "pubDate": "Mon, 24 Aug 2026 16:35:00 +0600",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/769838765_1346887494308459_5713235104749675688_n_1.jpg",
+      "snippet": "Online applications will open on 2 September and applicants must confirm their selection by 8pm on 19 September"
+    },
+    {
+      "title": "Ctg customs destroys 3,268 tonnes of substandard, expired goods in 126 containers",
       "link": "https://www.tbsnews.net/bangladesh/ctg-customs-destroys-3268-tonnes-substandard-expired-goods-126-containers-1523476",
       "pubDate": "Mon, 24 Aug 2026 16:20:00 +0600",
       "category": "Bangladesh",
@@ -12,7 +45,7 @@
       "snippet": "Such goods are destroyed when they cannot be legally auctioned or released because they are expired."
     },
     {
-      "title": "US Ambassador meets Moyeen Khan, discusses cooperation in local govt, development sectors",
+      "title": "US ambassador meets Moyeen Khan, discusses cooperation in local govt, development sectors",
       "link": "https://www.tbsnews.net/bangladesh/us-ambassador-meets-moyeen-khan-discusses-cooperation-local-govt-development-sectors",
       "pubDate": "Mon, 24 Aug 2026 16:10:00 +0600",
       "category": "Bangladesh",
@@ -210,17 +243,6 @@
       "snippet": "Water levels in canals and wetlands have also continued to rise."
     },
     {
-      "title": "Govt eyes reopening land ports, border haats to boost India trade: Commerce minister",
-      "link": "https://www.tbsnews.net/foreign-policy/govt-eyes-reopening-land-ports-border-haats-boost-india-trade-commerce-minister",
-      "pubDate": "Mon, 24 Aug 2026 14:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/image-417169-1787455116.jpg",
-      "snippet": "Commerce Minister Khandaker Abdul Muktadir and Indian High Commissioner Dinesh Trivedi also discussed lifting yarn import restrictions and boosting joint investment."
-    },
-    {
       "title": "AI and automation: The real questions that only a few are asking",
       "link": "https://www.tbsnews.net/thoughts/ai-and-automation-real-questions-only-few-are-asking-1523246",
       "pubDate": "Mon, 24 Aug 2026 13:55:00 +0600",
@@ -241,17 +263,6 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/24/untitled_design_6.png",
       "snippet": "The single-leg exercise is designed to test balance, but it may also reveal something about longevity."
-    },
-    {
-      "title": "Maradona's 'Hand of God' ball sells for $3.3m ",
-      "link": "https://www.tbsnews.net/bangladesh/maradonas-hand-god-ball-sells-33m-1523226",
-      "pubDate": "Mon, 24 Aug 2026 13:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/hand_of_god.png",
-      "snippet": "Tunisian Ali Bin Nasser, who refereed the match in 1986, collected the Adidas Azteca ball at full-time and kept it for more than three decades."
     },
     {
       "title": "From heart health to cognition: What tea may do for the body",
@@ -672,15 +683,15 @@
       "snippet": "The gas crisis has disrupted production across major industrial belts, forcing some factories to suspend operations and others to rely on expensive alternative fuels"
     },
     {
-      "title": "Operating profits buried under debt: Why ACI is pumping Tk700cr into Shwapno",
-      "link": "https://www.tbsnews.net/economy/operating-profits-buried-under-debt-why-aci-pumping-tk700cr-shwapno-1521426",
+      "title": "How Tk700cr investment is revealing Shwapno's true potential",
+      "link": "https://www.tbsnews.net/economy/how-tk700cr-investment-revealing-shwapnos-true-potential-1521426",
       "pubDate": "Sat, 22 Aug 2026 07:40:00 +0600",
       "category": "Economy",
       "color": "#2e7d32",
       "bg": "#e8f5e9",
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/aci_shwapno.jpg",
-      "snippet": "For years, Shwapno has been widely perceived as a loss-making concern. Its latest audited financial statements, however, show a more nuanced picture: the retailer is generating operating profit, but heavy financing costs are pushing it deep into the ..."
+      "snippet": "Approved at ACI’s 230th board meeting on 14 July, the investment is to be completed by 15 October, subject to regulatory approvals"
     },
     {
       "title": "Rare to have a personality like Mirza Fakhrul as president: Debapriya",
@@ -716,17 +727,6 @@
       "snippet": "Generative AI is rapidly transforming classrooms, easing teachers’ workloads while challenging traditional ideas of assessment, academic integrity and expertise. The future of education may depend less on restricting AI than on learning to use it wis..."
     },
     {
-      "title": "Beyond sustainability: What do we actually want to sustain?",
-      "link": "https://www.tbsnews.net/thoughts/beyond-sustainability-what-do-we-actually-want-sustain-1521231",
-      "pubDate": "Fri, 21 Aug 2026 18:35:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/panorama_illustration-11.10.2021-01_1.png",
-      "snippet": "True sustainability requires more than green initiatives or economic growth. It means recognising ecological limits, protecting nature’s irreplaceable systems and ensuring today’s development does not undermine future generations."
-    },
-    {
       "title": "Want to prevent capital flight? Build a functioning capital market",
       "link": "https://www.tbsnews.net/thoughts/want-prevent-capital-flight-build-functioning-capital-market-1521236",
       "pubDate": "Fri, 21 Aug 2026 18:35:00 +0600",
@@ -736,6 +736,17 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/stock_broker_dse_0.jpg",
       "snippet": "While healthy capital markets make participation in wealth creation more democratic, it plays a more important role in the economy: keeping Bangladesh’s wealth from ending up elsewhere"
+    },
+    {
+      "title": "Beyond sustainability: What do we actually want to sustain?",
+      "link": "https://www.tbsnews.net/thoughts/beyond-sustainability-what-do-we-actually-want-sustain-1521231",
+      "pubDate": "Fri, 21 Aug 2026 18:35:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/panorama_illustration-11.10.2021-01_1.png",
+      "snippet": "True sustainability requires more than green initiatives or economic growth. It means recognising ecological limits, protecting nature’s irreplaceable systems and ensuring today’s development does not undermine future generations."
     },
     {
       "title": "Why does a woman need a separate bus to feel safe in Dhaka?",
@@ -769,18 +780,7 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/21/mahdi_amin_2.jpg",
       "snippet": "PM’s education adviser Mahdi Amin says the government will support innovation hubs, incubation centres and research initiatives at universities to turn promising ideas into startups and solve local problems."
-    },
-    {
-      "title": "3 more children die with measles-like symptoms",
-      "link": "https://www.tbsnews.net/bangladesh/3-more-children-die-measles-symptoms-1521176",
-      "pubDate": "Fri, 21 Aug 2026 16:40:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/11/measles_tbs.jpeg",
-      "snippet": "With these, the total number of suspected measles deaths has reached 829, while confirmed deaths from measles have remained the same at 99"
     }
   ],
-  "updatedAt": "2026-08-24T10:38:28.350Z"
+  "updatedAt": "2026-08-24T11:27:52.991Z"
 }
