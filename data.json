@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Gas supply to be suspended in parts of Keraniganj for 8 hours",
+      "link": "https://www.tbsnews.net/bangladesh/energy/gas-supply-be-suspended-parts-keraniganj-8-hours-1524146",
+      "pubDate": "Tue, 25 Aug 2026 10:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/09/19/flame-871136_1920.jpg",
+      "snippet": "According to Titas Gas Transmission and Distribution Company Ltd, the gas supply will remain suspended from 11am to 7pm."
+    },
+    {
+      "title": "Beximco now struggles to pay salaries, service debts and revive",
+      "link": "https://www.tbsnews.net/economy/industry/beximco-now-struggles-pay-salaries-service-debts-and-revive-1524126",
+      "pubDate": "Tue, 25 Aug 2026 10:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/25/beximco_struggles-pay_to_salary.jpg",
+      "snippet": "In late 2024, Janata Bank attempted to auction Beximco’s factories, land, and corporate headquarters to satisfy over Tk1,322 crore in overdue obligations."
+    },
+    {
       "title": "BJIM condemns remarks by Kobir over citizenship question",
       "link": "https://www.tbsnews.net/bangladesh/bjim-condemns-remarks-kobir-over-citizenship-question-1524111",
       "pubDate": "Tue, 25 Aug 2026 08:15:00 +0600",
@@ -208,28 +230,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/28/rampura_july_uprising_reuters.jpg",
       "snippet": "The witness says his friend Maruf was shot near Rampura Bridge and died while being taken to Dhaka Medical College Hospital."
-    },
-    {
-      "title": "Our Nazrul is Tarique Rahman: Chief Whip Moni",
-      "link": "https://www.tbsnews.net/bangladesh/our-nazrul-tarique-rahman-chief-whip-moni-1523991",
-      "pubDate": "Mon, 24 Aug 2026 21:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/24/moni_nazrul.jpg",
-      "snippet": "Within a few days of Tarique Rahman coming to power, war broke out between Iran and America. Oil prices increased overnight in 85 countries. Our Nazrul did not increase the price of oil, Moni says."
-    },
-    {
-      "title": "HC denies bail to arms dealer in Hadi murder case",
-      "link": "https://www.tbsnews.net/bangladesh/court/hc-denies-bail-arms-dealer-hadi-murder-case-1523936",
-      "pubDate": "Mon, 24 Aug 2026 21:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/12/osman_hadi_collected.jpg",
-      "snippet": "Court rejects bail plea of prime suspect Md Mazedul Haque Helal"
     },
     {
       "title": "Depositors protest at First Security Islami Bank zonal office in Ctg, demand return of funds",
@@ -769,40 +769,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/measles_gov6months.jpg",
       "snippet": "The Ministry of Health has taken initiatives to expand upazila hospital capacity, recruit doctors and health workers, utilise unused medical equipment, and introduce technology-based healthcare services"
-    },
-    {
-      "title": "TikTok agrees to $400 million settlement with US over children’s privacy",
-      "link": "https://www.tbsnews.net/tech/tiktok-agrees-400-million-settlement-us-over-childrens-privacy-1521501",
-      "pubDate": "Sat, 22 Aug 2026 10:35:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/tiktok.jpg",
-      "snippet": "The lawsuit alleged that TikTok and its Chinese parent company, ByteDance, breached the Children’s Online Privacy Protection Act (COPPA)."
-    },
-    {
-      "title": "Rohingya camps face shrinking healthcare amid funding crunch",
-      "link": "https://www.tbsnews.net/rohingya-crisis/rohingya-camps-face-shrinking-healthcare-amid-funding-crunch-1521466",
-      "pubDate": "Sat, 22 Aug 2026 10:30:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/p5_rohingya_img_7556.jpg",
-      "snippet": "Healthcare funding declined 39% while the population increased by more than 40%."
-    },
-    {
-      "title": "Apparel buyers stay with Bangladesh despite gas crunch – for now",
-      "link": "https://www.tbsnews.net/economy/apparel-buyers-stay-bangladesh-despite-gas-crunch-now-1521446",
-      "pubDate": "Sat, 22 Aug 2026 10:00:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/gas-crunch_0.png",
-      "snippet": "The gas crisis has disrupted production across major industrial belts, forcing some factories to suspend operations and others to rely on expensive alternative fuels"
     }
   ],
-  "updatedAt": "2026-08-25T03:48:02.187Z"
+  "updatedAt": "2026-08-25T04:38:18.369Z"
 }
