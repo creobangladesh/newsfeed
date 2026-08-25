@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "Tax relief on cards for firms with turnover up to Tk2cr",
+      "link": "https://www.tbsnews.net/nbr/tax-relief-cards-firms-turnover-tk2cr-1525146",
+      "pubDate": "Wed, 26 Aug 2026 00:45:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/09/tax_relief.png",
+      "snippet": "Under the proposed structure, businesses and companies with annual turnover of up to Tk2 crore would pay no minimum turnover tax."
+    },
+    {
+      "title": "Farmers face fertiliser squeeze amid distribution failures",
+      "link": "https://www.tbsnews.net/bangladesh/farmers-face-fertiliser-squeeze-amid-distribution-failures-1525141",
+      "pubDate": "Wed, 26 Aug 2026 00:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/09/20/xox0oxag7mebnvovszautfe3ayqzwzfsuavyr7in_1.jpg",
+      "snippet": "Adviser Zahed says no fertiliser shortage, but distribution problems in some areas'"
+    },
+    {
+      "title": "Govt faces Tk2.84 lakh crore G-Sec maturity pressure in FY27 as borrowing rises",
+      "link": "https://www.tbsnews.net/bangladesh/govt-faces-tk284-lakh-crore-g-sec-maturity-pressure-fy27-borrowing-rises-1525136",
+      "pubDate": "Wed, 26 Aug 2026 00:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/debt.png",
+      "snippet": "Of the total, Treasury bills (T-bills) account for Tk1,94,326 crore, and Treasury bonds (T-bonds) Tk71,961 crore."
+    },
+    {
       "title": "Govt plans Tk834cr project to train 50,000 caregivers for overseas jobs",
       "link": "https://www.tbsnews.net/bangladesh/govt-plans-tk834cr-project-train-50000-caregivers-overseas-jobs-1525131",
       "pubDate": "Wed, 26 Aug 2026 00:10:00 +0600",
@@ -173,7 +206,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/01/untitled_design38.png",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/md_asaduzzaman_img.jpg",
       "snippet": "Asaduzzaman insists the government followed constitutional provisions in appointing him."
     },
     {
@@ -221,17 +254,6 @@
       "snippet": ""
     },
     {
-      "title": "Govt appoints 184 more doctors under 48th BCS (Special)",
-      "link": "https://www.tbsnews.net/bangladesh/govt-appoints-184-more-doctors-under-48th-bcs-special-1524876",
-      "pubDate": "Tue, 25 Aug 2026 20:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/25/doc.jpg",
-      "snippet": "The appointed candidates have been asked to join the designated office of the Health Services Division under the Ministry of Health and Family Welfare on 7 September."
-    },
-    {
       "title": "Model canal projects to be implemented in every division: Dulu",
       "link": "https://www.tbsnews.net/bangladesh/model-canal-projects-be-implemented-every-division-dulu-1524896",
       "pubDate": "Tue, 25 Aug 2026 20:05:00 +0600",
@@ -252,17 +274,6 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/25/779864677_28338170779142149_2234261069814616043_n.jpg",
       "snippet": "They also called for tripartite dialogue, meaningful worker participation, reskilling, social protection, employment security, occupational safety, and trade union rights in the transition process."
-    },
-    {
-      "title": "Speakers call for 'front-of-package labelling' to curb diet-related NCDs",
-      "link": "https://www.tbsnews.net/bangladesh/speakers-call-front-package-labelling-curb-diet-related-ncds-1524861",
-      "pubDate": "Tue, 25 Aug 2026 20:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/25/2_picture_day_01_journalist_ws_progga_24-25_august_2026_1.jpeg",
-      "snippet": "They say clear warning labels on packaged foods can help consumers identify health risks and make informed choices as diet-related diseases rise in Bangladesh."
     },
     {
       "title": "Swine flu cases rise sharply in Delhi, emergency meeting called",
@@ -879,18 +890,7 @@
       "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/nvidia.png",
       "snippet": "The price hikes will go into effect on systems shipped early next year and will impact systems including those with the flagship Vera Rubin and Grace Blackwell chips"
-    },
-    {
-      "title": "Govt plans Tk683cr project to train over 50,000 youths in freelancing",
-      "link": "https://www.tbsnews.net/economy/govt-plans-tk683cr-project-train-over-50000-youths-freelancing-1522161",
-      "pubDate": "Sun, 23 Aug 2026 07:20:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/03/12/freelancer.jpg",
-      "snippet": "The Department of Youth Development has prepared a Development Project Proposal “Creating Employment through Freelancing Training for Unemployed Youths in All Metropolitan Cities.”"
     }
   ],
-  "updatedAt": "2026-08-25T18:38:26.694Z"
+  "updatedAt": "2026-08-25T19:31:21.066Z"
 }
