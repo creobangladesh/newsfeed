@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Sri Lanka stays Bangladesh’s top pharma export market in FY26",
+      "link": "https://www.tbsnews.net/infograph/numbers/sri-lanka-stays-bangladeshs-top-pharma-export-market-fy26-1524436",
+      "pubDate": "Tue, 25 Aug 2026 15:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/25/export-medicine.png",
+      "snippet": ""
+    },
+    {
+      "title": "Rain predicted in parts of country",
+      "link": "https://www.tbsnews.net/bangladesh/rain-predicted-parts-country-1524416",
+      "pubDate": "Tue, 25 Aug 2026 14:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/27/rain_bss_img.jpg",
+      "snippet": "Day and night temperatures may remain nearly unchanged over the country."
+    },
+    {
       "title": "Govt to discuss local elections preparations with EC next week",
       "link": "https://www.tbsnews.net/bangladesh/govt-discuss-local-elections-preparations-ec-next-week-1524411",
       "pubDate": "Tue, 25 Aug 2026 14:25:00 +0600",
@@ -241,28 +263,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/24/economic_recovery.png",
       "snippet": "The recovery process has not gained as much momentum over the past six months as it should have, says Debapriya Bhattacharya."
-    },
-    {
-      "title": "GBB Power announces 5MW solar project as shares rally 100%",
-      "link": "https://www.tbsnews.net/economy/stocks/gbb-power-announces-5mw-solar-project-shares-rally-100-1524046",
-      "pubDate": "Mon, 24 Aug 2026 22:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/12/02/gbb_power_logo.jpg",
-      "snippet": "GBB Power holds a 70% stake in Solaron Power, while the remaining 30% is owned by strategic partners."
-    },
-    {
-      "title": "Local polls to be held to same standard as national election: CEC",
-      "link": "https://www.tbsnews.net/bangladesh/local-polls-be-held-same-standard-national-election-cec-1524006",
-      "pubDate": "Mon, 24 Aug 2026 22:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/08/06/cec_0.png",
-      "snippet": "The commission would be able to conduct the local government elections successfully with the cooperation of all concerned, he says."
     },
     {
       "title": "Milon expresses gratitude for Chinese cooperation in education, other sectors",
@@ -782,5 +782,5 @@
       "snippet": "So far, 99 people have died from confirmed measles infections and 831 others with measles-like symptoms, bringing the combined death toll to 930."
     }
   ],
-  "updatedAt": "2026-08-25T08:41:20.985Z"
+  "updatedAt": "2026-08-25T09:34:24.990Z"
 }
