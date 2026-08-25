@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "BAPA calls for immediate crackdown on air, noise, visual, plastic pollution",
+      "link": "https://www.tbsnews.net/bangladesh/environment/bapa-calls-immediate-crackdown-air-noise-visual-plastic-pollution-1525086",
+      "pubDate": "Tue, 25 Aug 2026 22:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/25/a1fd58c94cde9383feaeaebffe38e8c7_0.jpeg",
+      "snippet": "Speaking as chief guest, State Minister for Environment, Forest and Climate Change Sheikh Faridul Islam said that switching off billboard lights across the country after midnight would help reduce visual pollution as well as cut down on electricity w..."
+    },
+    {
       "title": "Actor Fazlur Rahman Babu’s Faridpur home burgled",
       "link": "https://www.tbsnews.net/bangladesh/actor-fazlur-rahman-babus-faridpur-home-burgled-1525081",
       "pubDate": "Tue, 25 Aug 2026 22:15:00 +0600",
@@ -10,6 +21,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/25/4e4ed140622c80b90c35d14e177e5596.jpeg",
       "snippet": "Thieves allegedly stole the main electricity line and air conditioner cables, along with other items, from the actor's residence in West Alipur."
+    },
+    {
+      "title": "RAK Ceramics MD plans to sell 8.85 lakh shares through Mohammed Trading",
+      "link": "https://www.tbsnews.net/economy/stocks/rak-ceramics-md-plans-sell-885-lakh-shares-through-mohammed-trading-1525051",
+      "pubDate": "Tue, 25 Aug 2026 21:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/12/rak_ceramics_logo.jpg",
+      "snippet": "The planned sale comes as RAK Ceramics posts positive EPS of Tk0.18 in the second quarter, against a loss of Tk0.43 a year earlier."
     },
     {
       "title": "Mongla Port, Teesta projects among China-Bangladesh priorities: Yao Wen",
@@ -32,17 +54,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/17/untitled_design_3.jpg",
       "snippet": "There will be a 40-mark written examination."
-    },
-    {
-      "title": "RAK Ceramics MD plans to sell 8.85 lakh shares through Mohammed Trading",
-      "link": "https://www.tbsnews.net/economy/stocks/rak-ceramics-md-plans-sell-885-lakh-shares-through-mohammed-trading-1525051",
-      "pubDate": "Tue, 25 Aug 2026 21:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/12/rak_ceramics_logo.jpg",
-      "snippet": "The planned sale comes as RAK Ceramics posts positive EPS of Tk0.18 in the second quarter, against a loss of Tk0.43 a year earlier."
     },
     {
       "title": "DSE turnover plunges 58% in 15 sessions as liquidity dries up",
@@ -177,17 +188,6 @@
       "snippet": ""
     },
     {
-      "title": "Govt appoints 184 more doctors under 48th BCS (Special)",
-      "link": "https://www.tbsnews.net/bangladesh/govt-appoints-184-more-doctors-under-48th-bcs-special-1524876",
-      "pubDate": "Tue, 25 Aug 2026 20:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/25/doc.jpg",
-      "snippet": "The appointed candidates have been asked to join the designated office of the Health Services Division under the Ministry of Health and Family Welfare on 7 September."
-    },
-    {
       "title": "Model canal projects to be implemented in every division: Dulu",
       "link": "https://www.tbsnews.net/bangladesh/model-canal-projects-be-implemented-every-division-dulu-1524896",
       "pubDate": "Tue, 25 Aug 2026 20:05:00 +0600",
@@ -197,6 +197,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/25/asadul_habib_dulu_.png",
       "snippet": "“We will have model canals in every division. These will be implemented as pilot schemes,” he said."
+    },
+    {
+      "title": "Govt appoints 184 more doctors under 48th BCS (Special)",
+      "link": "https://www.tbsnews.net/bangladesh/govt-appoints-184-more-doctors-under-48th-bcs-special-1524876",
+      "pubDate": "Tue, 25 Aug 2026 20:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/25/doc.jpg",
+      "snippet": "The appointed candidates have been asked to join the designated office of the Health Services Division under the Ministry of Health and Family Welfare on 7 September."
     },
     {
       "title": "Apparel sector needs worker-centred plan for green transition: Stakeholders",
@@ -252,17 +263,6 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/25/h1n1_india.png",
       "snippet": "Delhi has recorded around 3,000 influenza cases this year, including 2,308 H1N1 infections, with isolation wards set up across hospitals."
-    },
-    {
-      "title": "Rohingyas rally across camps demanding swift, safe repatriation to Myanmar",
-      "link": "https://www.tbsnews.net/rohingya-crisis/rohingyas-rally-across-camps-demanding-swift-safe-repatriation-myanmar-1524846",
-      "pubDate": "Tue, 25 Aug 2026 19:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/25/2026-08-25t110057z_282946847_rc2g5na9y895_rtrmadp_3_bangladesh-rohingya-protests.jpg",
-      "snippet": "The rallies were held around 11am at Ukhiya’s Camp 4 Extension, Camp 13 and Camp 9, and at Camp 26 in Teknaf."
     },
     {
       "title": "Dengue: 3 more deaths, 907 hospitalised in 24 hours",
@@ -892,5 +892,5 @@
       "snippet": "Experts call for transparent pricing and stronger state support."
     }
   ],
-  "updatedAt": "2026-08-25T16:36:34.951Z"
+  "updatedAt": "2026-08-25T17:31:18.744Z"
 }
