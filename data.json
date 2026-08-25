@@ -1,39 +1,6 @@
 {
   "news": [
     {
-      "title": "Sri Lanka stays Bangladesh’s top pharma export market in FY26",
-      "link": "https://www.tbsnews.net/infograph/numbers/sri-lanka-stays-bangladeshs-top-pharma-export-market-fy26-1524436",
-      "pubDate": "Tue, 25 Aug 2026 15:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/25/export-medicine.png",
-      "snippet": ""
-    },
-    {
-      "title": "Rain predicted in parts of country",
-      "link": "https://www.tbsnews.net/bangladesh/rain-predicted-parts-country-1524416",
-      "pubDate": "Tue, 25 Aug 2026 14:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/27/rain_bss_img.jpg",
-      "snippet": "Day and night temperatures may remain nearly unchanged over the country."
-    },
-    {
-      "title": "Govt to discuss local elections preparations with EC next week",
-      "link": "https://www.tbsnews.net/bangladesh/govt-discuss-local-elections-preparations-ec-next-week-1524411",
-      "pubDate": "Tue, 25 Aug 2026 14:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/25/local_election.jpg",
-      "snippet": "The state minister said the Election Commission would announce the election schedule and conduct the polls, while the government would provide necessary support as the local government institutions fall under his ministry."
-    },
-    {
       "title": "Ekramul murder case: Ex-MP Bodi, 3 others jailed; Hasina, 6 more ordered to surrender ",
       "link": "https://www.tbsnews.net/bangladesh/court/ekramul-murder-case-ex-mp-bodi-3-others-jailed-hasina-6-more-ordered-surrender",
       "pubDate": "Tue, 25 Aug 2026 14:00:00 +0600",
@@ -43,17 +10,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/12/24/photo_courtesy.jpeg",
       "snippet": "ICT-2 ordered newspaper notifications for seven absconding accused, including ousted prime minister Sheikh Hasina, directing them to surrender by 7 September to face trial."
-    },
-    {
-      "title": "Sleep loss may fuel anxiety by clogging threat adaptation: Study",
-      "link": "https://www.tbsnews.net/bangladesh/health/sleep-loss-may-fuel-anxiety-clogging-threat-adaptation-study-1524366",
-      "pubDate": "Tue, 25 Aug 2026 13:25:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/11/10/befunky-collage_1.jpg",
-      "snippet": "Experts noted that sleep loss triggers an evolutionary survival mechanism"
     },
     {
       "title": "Sammilito Islami Bank depositors can withdraw funds from September  ",
@@ -98,17 +54,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/25/lcs.jpg",
       "snippet": "The Ministry of Commerce gazetted the new policy yesterday (24 August)."
-    },
-    {
-      "title": "Inside the dark web: How the hidden internet works",
-      "link": "https://www.tbsnews.net/explainer/inside-dark-web-how-hidden-internet-works-1524301",
-      "pubDate": "Tue, 25 Aug 2026 12:15:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/02/15/hacker-2300772_1920.jpg",
-      "snippet": "The hidden portion includes both the deep web and the dark web, which are often used interchangeably but have important differences"
     },
     {
       "title": "Gold price hiked again in Bangladesh",
@@ -265,13 +210,35 @@
       "snippet": "The recovery process has not gained as much momentum over the past six months as it should have, says Debapriya Bhattacharya."
     },
     {
+      "title": "GBB Power announces 5MW solar project as shares rally 100%",
+      "link": "https://www.tbsnews.net/economy/stocks/gbb-power-announces-5mw-solar-project-shares-rally-100-1524046",
+      "pubDate": "Mon, 24 Aug 2026 22:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/12/02/gbb_power_logo.jpg",
+      "snippet": "GBB Power holds a 70% stake in Solaron Power, while the remaining 30% is owned by strategic partners."
+    },
+    {
+      "title": "Local polls to be held to same standard as national election: CEC",
+      "link": "https://www.tbsnews.net/bangladesh/local-polls-be-held-same-standard-national-election-cec-1524006",
+      "pubDate": "Mon, 24 Aug 2026 22:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/08/06/cec_0.png",
+      "snippet": "The commission would be able to conduct the local government elections successfully with the cooperation of all concerned, he says."
+    },
+    {
       "title": "Milon expresses gratitude for Chinese cooperation in education, other sectors",
       "link": "https://www.tbsnews.net/bangladesh/education/milon-expresses-gratitude-chinese-cooperation-education-other-sectors-1524011",
       "pubDate": "Mon, 24 Aug 2026 22:00:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/24/chinese_ambassador_yao_wen_and_education_minister_anm_ehsanul_haque_milon.jpg",
       "snippet": "Chinese Ambassador Yao Wen and Education Minister ANM Ehsanul Haque Milon discuss expanding cooperation in technical and vocational education to develop globally competitive human resources."
     },
@@ -747,40 +714,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/investor.png",
       "snippet": "The 86 investment proposals can open a new chapter for 44 state-owned factories—if Bangladesh combines private initiative with transparent selection, firm performance obligations and protection of public assets"
-    },
-    {
-      "title": "From compliance to confidence: Building trust in workplace grievance mechanisms",
-      "link": "https://www.tbsnews.net/thoughts/compliance-confidence-building-trust-workplace-grievance-mechanisms-1521856",
-      "pubDate": "Sat, 22 Aug 2026 16:25:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/rmg.jpg",
-      "snippet": "Bangladesh’s RMG sector has built stronger compliance systems over the past three decades. The next challenge is ensuring workers trust those systems enough to use them."
-    },
-    {
-      "title": "Judges in the crosshairs: The slow erosion of judicial legitimacy ",
-      "link": "https://www.tbsnews.net/thoughts/judges-crosshairs-slow-erosion-judicial-legitimacy-1521841",
-      "pubDate": "Sat, 22 Aug 2026 16:05:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/judiciary_court_law.jpg",
-      "snippet": "Judicial decisions are frequently debated on social media, where some dissatisfied lawyers publicly accuse judges of bias, corruption or political influence without evidence, targeting personal integrity rather than legal reasoning"
-    },
-    {
-      "title": "Measles: Death toll reaches 930 as 2 more children die in 24hrs",
-      "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-930-2-more-children-die-24hrs-1521821",
-      "pubDate": "Sat, 22 Aug 2026 15:55:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/measlessssssss.jpeg",
-      "snippet": "So far, 99 people have died from confirmed measles infections and 831 others with measles-like symptoms, bringing the combined death toll to 930."
     }
   ],
-  "updatedAt": "2026-08-25T09:34:24.990Z"
+  "updatedAt": "2026-08-25T10:32:16.557Z"
 }
