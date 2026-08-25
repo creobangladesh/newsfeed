@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Govt to discuss local elections preparations with EC next week",
+      "link": "https://www.tbsnews.net/bangladesh/govt-discuss-local-elections-preparations-ec-next-week-1524411",
+      "pubDate": "Tue, 25 Aug 2026 14:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/25/local_election.jpg",
+      "snippet": "The state minister said the Election Commission would announce the election schedule and conduct the polls, while the government would provide necessary support as the local government institutions fall under his ministry."
+    },
+    {
+      "title": "Ekramul murder case: Ex-MP Bodi, 3 others jailed; Hasina, 6 more ordered to surrender ",
+      "link": "https://www.tbsnews.net/bangladesh/court/ekramul-murder-case-ex-mp-bodi-3-others-jailed-hasina-6-more-ordered-surrender",
+      "pubDate": "Tue, 25 Aug 2026 14:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/12/24/photo_courtesy.jpeg",
+      "snippet": "ICT-2 ordered newspaper notifications for seven absconding accused, including ousted prime minister Sheikh Hasina, directing them to surrender by 7 September to face trial."
+    },
+    {
       "title": "Sleep loss may fuel anxiety by clogging threat adaptation: Study",
       "link": "https://www.tbsnews.net/bangladesh/health/sleep-loss-may-fuel-anxiety-clogging-threat-adaptation-study-1524366",
       "pubDate": "Tue, 25 Aug 2026 13:25:00 +0600",
@@ -23,7 +45,7 @@
       "snippet": "The governor directed the chairman and managing director of Sammilito Islami Bank to take necessary measures to protect depositors’ interests and resume normal banking operations at the earliest."
     },
     {
-      "title": "Dhaka South adopts Tk 1,904 cr plan to build 'Smart and Green Dhaka'",
+      "title": "Dhaka South adopts Tk1,904cr plan to build 'Smart and Green Dhaka'",
       "link": "https://www.tbsnews.net/bangladesh/dscc-adopts-tk-1904-cr-plan-build-smart-and-green-dhaka-1524321",
       "pubDate": "Tue, 25 Aug 2026 12:45:00 +0600",
       "category": "Bangladesh",
@@ -31,7 +53,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/25/untitled_design_8.jpg",
-      "snippet": "An analysis of the DSCC's development allocation for the fiscal 2026-27 shows that a total of Taka 1,904.42 crore has been allocated for its development. In the fiscal 2025-26, the allocation for this sector was Taka 2,196.40 crore. In the revised bu..."
+      "snippet": "An analysis of the DSCC's development allocation for FY2026-27 shows that a total of Tk1,904.42 crore has been allocated for its development."
     },
     {
       "title": "Dhaka Wasa employee killed in Mirpur road accident",
@@ -246,23 +268,12 @@
       "title": "Milon expresses gratitude for Chinese cooperation in education, other sectors",
       "link": "https://www.tbsnews.net/bangladesh/education/milon-expresses-gratitude-chinese-cooperation-education-other-sectors-1524011",
       "pubDate": "Mon, 24 Aug 2026 22:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/24/chinese_ambassador_yao_wen_and_education_minister_anm_ehsanul_haque_milon.jpg",
       "snippet": "Chinese Ambassador Yao Wen and Education Minister ANM Ehsanul Haque Milon discuss expanding cooperation in technical and vocational education to develop globally competitive human resources."
-    },
-    {
-      "title": "Traditional boat race to return to Brahmanbaria after two-year hiatus",
-      "link": "https://www.tbsnews.net/bangladesh/traditional-boat-race-return-brahmanbaria-after-two-year-hiatus-1523966",
-      "pubDate": "Mon, 24 Aug 2026 21:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/05/11/ctg_sampan_race_photo_2.jpg",
-      "snippet": "The district administration has banned sound systems and dancing on boats to prevent accidents and maintain order."
     },
     {
       "title": "Salinity in drinking water raises heart disease, stroke risk in coastal Bangladesh: icddr,b",
@@ -771,5 +782,5 @@
       "snippet": "So far, 99 people have died from confirmed measles infections and 831 others with measles-like symptoms, bringing the combined death toll to 930."
     }
   ],
-  "updatedAt": "2026-08-25T07:43:01.436Z"
+  "updatedAt": "2026-08-25T08:41:20.985Z"
 }
