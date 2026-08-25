@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Another $350m World Bank guarantee for LNG imports likely in November",
+      "link": "https://www.tbsnews.net/economy/banking/another-350m-world-bank-guarantee-lng-imports-likely-november-1524136",
+      "pubDate": "Tue, 25 Aug 2026 10:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/09/26/world_bank.jpg",
+      "snippet": "Extra financing to raise total guarantee facility to $700m"
+    },
+    {
       "title": "Gas supply to be suspended in parts of Keraniganj for 8 hours",
       "link": "https://www.tbsnews.net/bangladesh/energy/gas-supply-be-suspended-parts-keraniganj-8-hours-1524146",
       "pubDate": "Tue, 25 Aug 2026 10:15:00 +0600",
@@ -219,17 +230,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/09/mine_explosion_.jpg",
       "snippet": "The blast occurred inside Myanmar near Border Pillar 52, about 400 metres from the zero line, according to police."
-    },
-    {
-      "title": "Police, BGB shot people heading towards Rampura Bridge during July Uprising, witness tells ICT",
-      "link": "https://www.tbsnews.net/bangladesh/court/police-bgb-shot-people-heading-towards-rampura-bridge-during-july-uprising-witness",
-      "pubDate": "Mon, 24 Aug 2026 21:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/28/rampura_july_uprising_reuters.jpg",
-      "snippet": "The witness says his friend Maruf was shot near Rampura Bridge and died while being taken to Dhaka Medical College Hospital."
     },
     {
       "title": "Depositors protest at First Security Islami Bank zonal office in Ctg, demand return of funds",
@@ -747,29 +747,7 @@
       "icon": "🔍",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/lng_tanker.jpg",
       "snippet": "Against this backdrop, Petrobangla has signed a 13-year long-term agreement with Gunvor USA LLC for 117 LNG cargoes to be delivered between 2026 and 2038 after several rounds of negotiations."
-    },
-    {
-      "title": "House tutors at DU: Rules exist, enforcement doesn’t, and digital monitoring has failed",
-      "link": "https://www.tbsnews.net/bangladesh/education/house-tutors-du-rules-exist-enforcement-doesnt-and-digital-monitoring-has",
-      "pubDate": "Sat, 22 Aug 2026 11:30:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/sufia_kamal_hall.jpg",
-      "snippet": "After speaking to students, provosts and teachers from the university’s 13 male residential halls, TBS found significant differences in the performance of house tutors across halls."
-    },
-    {
-      "title": "Primary healthcare gets priority; measles, dengue pose challenges",
-      "link": "https://www.tbsnews.net/bangladesh/health/primary-healthcare-gets-priority-measles-dengue-pose-challenges-1521526",
-      "pubDate": "Sat, 22 Aug 2026 10:55:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/measles_gov6months.jpg",
-      "snippet": "The Ministry of Health has taken initiatives to expand upazila hospital capacity, recruit doctors and health workers, utilise unused medical equipment, and introduce technology-based healthcare services"
     }
   ],
-  "updatedAt": "2026-08-25T04:38:18.369Z"
+  "updatedAt": "2026-08-25T05:31:11.231Z"
 }
