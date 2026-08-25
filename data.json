@@ -1,6 +1,50 @@
 {
   "news": [
     {
+      "title": "Govt plans Tk834cr project to train 50,000 caregivers for overseas jobs",
+      "link": "https://www.tbsnews.net/bangladesh/govt-plans-tk834cr-project-train-50000-caregivers-overseas-jobs-1525131",
+      "pubDate": "Wed, 26 Aug 2026 00:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/10/29/caregiving.jpg",
+      "snippet": "The training will include specialised courses for 1,950 candidates seeking overseas employment."
+    },
+    {
+      "title": "Muslims in Bangladesh to observe Eid-e-Miladunnabi today",
+      "link": "https://www.tbsnews.net/bangladesh/muslims-bangladesh-observe-eid-e-miladunnabi-today-1525116",
+      "pubDate": "Wed, 26 Aug 2026 00:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/12/eid_e_milad1.jpg",
+      "snippet": "President, prime minister issue messages marking the occasion"
+    },
+    {
+      "title": "RMG net earnings rebound 10% in April-June amid looming energy, cost pressures",
+      "link": "https://www.tbsnews.net/economy/rmg/rmg-net-earnings-rebound-10-april-june-amid-looming-energy-cost-pressures-1525126",
+      "pubDate": "Wed, 26 Aug 2026 00:00:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/02/20/rmg_tram_group_nidle_3.png",
+      "snippet": "Bangladesh Bank’s latest Quarterly Review of Readymade Garments shows net RMG exports stood at $6.23 billion in April-June, compared with $5.64 billion in January-March."
+    },
+    {
+      "title": "Nine years on, Rohingyas keep crossing into Bangladesh to escape forced labour, hunger",
+      "link": "https://www.tbsnews.net/bangladesh/nine-years-rohingyas-keep-crossing-bangladesh-escape-forced-labour-hunger-1525121",
+      "pubDate": "Tue, 25 Aug 2026 23:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/12/14/rohingya_camp.jpg",
+      "snippet": "Feroza lived with her husband and five children in Jabbar Para village in Buthidaung, near Maungdaw."
+    },
+    {
       "title": "BAPA calls for immediate crackdown on air, noise, visual, plastic pollution",
       "link": "https://www.tbsnews.net/bangladesh/environment/bapa-calls-immediate-crackdown-air-noise-visual-plastic-pollution-1525086",
       "pubDate": "Tue, 25 Aug 2026 22:20:00 +0600",
@@ -34,15 +78,15 @@
       "snippet": "The planned sale comes as RAK Ceramics posts positive EPS of Tk0.18 in the second quarter, against a loss of Tk0.43 a year earlier."
     },
     {
-      "title": "Mongla Port, Teesta projects among China-Bangladesh priorities: Yao Wen",
-      "link": "https://www.tbsnews.net/bangladesh/mongla-port-teesta-projects-among-china-bangladesh-priorities-yao-wen-1525066",
+      "title": "Mongla Port, Teesta River projects among China-Bangladesh priorities: Chinese envoy",
+      "link": "https://www.tbsnews.net/bangladesh/mongla-port-teesta-river-projects-among-china-bangladesh-priorities-chinese-envoy-1525066",
       "pubDate": "Tue, 25 Aug 2026 21:50:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/25/chinese_ambassador_yao_wen.jpeg",
-      "snippet": "Chinese ambassador says Bangladesh’s growing economic ties with China are creating demand for workers with Chinese language and technical skills."
+      "snippet": "Chinese language skills seen as key to overseas jobs."
     },
     {
       "title": "Sports to be compulsory in curriculum from 2027, with 100-mark exam: State minister",
@@ -87,17 +131,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/06/20/enforced_disappearance.jpg",
       "snippet": "Investigators are recording statements from family members and have identified locations from where the victims were allegedly abducted."
-    },
-    {
-      "title": "Call for balanced drug policy to keep medicines affordable, industry sustainable",
-      "link": "https://www.tbsnews.net/bangladesh/health/call-balanced-drug-policy-keep-medicines-affordable-industry-sustainable-1525021",
-      "pubDate": "Tue, 25 Aug 2026 21:30:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/27/medicine.png",
-      "snippet": "Experts say outdated pricing rules and rising production costs risk disrupting supplies of essential medicines, while excessive price controls could undermine the pharmaceutical industry."
     },
     {
       "title": "DMP takes extensive security measures for Eid-e-Miladunnabi",
@@ -188,17 +221,6 @@
       "snippet": ""
     },
     {
-      "title": "Model canal projects to be implemented in every division: Dulu",
-      "link": "https://www.tbsnews.net/bangladesh/model-canal-projects-be-implemented-every-division-dulu-1524896",
-      "pubDate": "Tue, 25 Aug 2026 20:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/25/asadul_habib_dulu_.png",
-      "snippet": "“We will have model canals in every division. These will be implemented as pilot schemes,” he said."
-    },
-    {
       "title": "Govt appoints 184 more doctors under 48th BCS (Special)",
       "link": "https://www.tbsnews.net/bangladesh/govt-appoints-184-more-doctors-under-48th-bcs-special-1524876",
       "pubDate": "Tue, 25 Aug 2026 20:05:00 +0600",
@@ -208,6 +230,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/25/doc.jpg",
       "snippet": "The appointed candidates have been asked to join the designated office of the Health Services Division under the Ministry of Health and Family Welfare on 7 September."
+    },
+    {
+      "title": "Model canal projects to be implemented in every division: Dulu",
+      "link": "https://www.tbsnews.net/bangladesh/model-canal-projects-be-implemented-every-division-dulu-1524896",
+      "pubDate": "Tue, 25 Aug 2026 20:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/25/asadul_habib_dulu_.png",
+      "snippet": "“We will have model canals in every division. These will be implemented as pilot schemes,” he said."
     },
     {
       "title": "Apparel sector needs worker-centred plan for green transition: Stakeholders",
@@ -232,28 +265,6 @@
       "snippet": "They say clear warning labels on packaged foods can help consumers identify health risks and make informed choices as diet-related diseases rise in Bangladesh."
     },
     {
-      "title": "3 journalists 'assaulted' while covering BNP protest in Shariatpur; ex-Juba Dal leader accused",
-      "link": "https://www.tbsnews.net/bangladesh/3-journalists-assaulted-while-covering-bnp-protest-shariatpur-ex-juba-dal-leader-accused",
-      "pubDate": "Tue, 25 Aug 2026 19:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/23/shariatpur_map.jpg",
-      "snippet": "The alleged attack took place amid tensions over the demolition of the Shariatpur Press Club’s boundary wall, following journalists’ subsequent call for the deputy commissioner’s removal."
-    },
-    {
-      "title": "Sri Lanka's tobacco tax model could guide Bangladesh: Experts",
-      "link": "https://www.tbsnews.net/bangladesh/sri-lankas-tobacco-tax-model-could-guide-bangladesh-experts-1524851",
-      "pubDate": "Tue, 25 Aug 2026 19:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/25/unnamed_1.jpg",
-      "snippet": "Experts say shifting from Bangladesh’s ad valorem system to specific taxation could help raise cigarette prices, curb tobacco use and increase government revenue."
-    },
-    {
       "title": "Swine flu cases rise sharply in Delhi, emergency meeting called",
       "link": "https://www.tbsnews.net/world/south-asia/swine-flu-cases-rise-sharply-delhi-emergency-meeting-called-1524866",
       "pubDate": "Tue, 25 Aug 2026 19:50:00 +0600",
@@ -268,10 +279,10 @@
       "title": "Dengue: 3 more deaths, 907 hospitalised in 24 hours",
       "link": "https://www.tbsnews.net/bangladesh/health/dengue-3-more-deaths-907-hospitalised-24-hours-1524841",
       "pubDate": "Tue, 25 Aug 2026 19:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/dengu.jpg",
       "snippet": "The latest fatalities were reported in Dhaka South City Corporation and Dhaka division, while 894 patients were discharged after recovery."
     },
@@ -353,8 +364,8 @@
       "snippet": "Unlike the 2021–2024 order, which provided bond facilities and other benefits for export-oriented industries, the new order explicitly includes central bonded warehouses as part of the country's trade and logistics infrastructure."
     },
     {
-      "title": "Balanced drug policy needed to ensure access, affordability and safety: Experts",
-      "link": "https://www.tbsnews.net/bangladesh/health/balanced-drug-policy-needed-ensure-access-affordability-and-safety-experts-1524471",
+      "title": "Experts call for balanced drug policy to keep medicines affordable",
+      "link": "https://www.tbsnews.net/bangladesh/health/experts-call-balanced-drug-policy-keep-medicines-affordable-1524471",
       "pubDate": "Tue, 25 Aug 2026 15:45:00 +0600",
       "category": "Health",
       "color": "#c2185b",
@@ -397,7 +408,7 @@
       "snippet": "Experts noted that sleep loss triggers an evolutionary survival mechanism"
     },
     {
-      "title": "No haircut on Sammilito Islami Bank deposits; withdrawals to expand from 1 Sept",
+      "title": "Sammilito Islami Bank depositors can withdraw funds from September",
       "link": "https://www.tbsnews.net/economy/banking/sammilito-islami-bank-depositors-can-withdraw-funds-september-1524326",
       "pubDate": "Tue, 25 Aug 2026 13:00:00 +0600",
       "category": "Banking",
@@ -405,7 +416,7 @@
       "bg": "#e0f2f1",
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/30/sammilito_islami_bank.jpg",
-      "snippet": "The governor directed the chairman and managing director of Sammilito Islami Bank to take necessary measures to protect depositors’ interests and resume normal banking operations at the earliest."
+      "snippet": "The decision marks a shift from the earlier plan under which a portion of the profits declared against deposits for 2004 and 2025 would not be paid."
     },
     {
       "title": "Inside the dark web: How the hidden internet works",
@@ -879,18 +890,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/03/12/freelancer.jpg",
       "snippet": "The Department of Youth Development has prepared a Development Project Proposal “Creating Employment through Freelancing Training for Unemployed Youths in All Metropolitan Cities.”"
-    },
-    {
-      "title": "Medicine pricing policy must balance affordability, access and industry growth: Experts",
-      "link": "https://www.tbsnews.net/bangladesh/health/medicine-pricing-policy-must-balance-affordability-access-and-industry-growth",
-      "pubDate": "Sun, 23 Aug 2026 00:35:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/12/04/pharma_mumitm-2299.jpg",
-      "snippet": "Experts call for transparent pricing and stronger state support."
     }
   ],
-  "updatedAt": "2026-08-25T17:31:18.744Z"
+  "updatedAt": "2026-08-25T18:38:26.694Z"
 }
