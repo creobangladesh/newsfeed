@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "DMP appoints new DC for media division after 2.5-month vacancy ",
+      "link": "https://www.tbsnews.net/bangladesh/dmp-appoints-new-dc-media-division-after-25-month-vacancy-1525231",
+      "pubDate": "Wed, 26 Aug 2026 10:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/26/mohammad_akhtar_hossain.jpg",
+      "snippet": "Akhtar previously served as SP of Lakshmipur."
+    },
+    {
       "title": "Govt turns to CNG rationing, oil-fired power to save gas for industries",
       "link": "https://www.tbsnews.net/bangladesh/energy/govt-turns-cng-rationing-oil-fired-power-save-gas-industries-1525176",
       "pubDate": "Wed, 26 Aug 2026 10:00:00 +0600",
@@ -241,17 +252,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/11/03/cpd_logo.jpg",
       "snippet": "The think tank says the figures were based on a media report that had wrongly changed the reporting period."
-    },
-    {
-      "title": "State minister Humaiun Kobir has no dual citizenship: Law minister",
-      "link": "https://www.tbsnews.net/bangladesh/state-minister-humaiun-kobir-has-no-dual-citizenship-law-minister-1524951",
-      "pubDate": "Tue, 25 Aug 2026 20:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/md_asaduzzaman_img.jpg",
-      "snippet": "Asaduzzaman insists the government followed constitutional provisions in appointing him."
     },
     {
       "title": "UGC to set up int'l research office at every university",
@@ -857,18 +857,7 @@
       "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/untitled_design_4.png",
       "snippet": "Tiangong Ultra, developed by the Beijing Humanoid Robot Innovation Center, won its heat at the opening of the games' second edition, organisers said."
-    },
-    {
-      "title": "Are you a 'mosquito magnet'? Your skin chemistry may be to blame",
-      "link": "https://www.tbsnews.net/bangladesh/health/are-you-mosquito-magnet-your-skin-chemistry-may-be-blame-1522266",
-      "pubDate": "Sun, 23 Aug 2026 11:25:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/10/28/mosquitoes_0.jpg",
-      "snippet": "Vector-borne diseases cause more than 700,000 deaths annually, with cases expected to rise as temperatures increase."
     }
   ],
-  "updatedAt": "2026-08-26T04:38:44.031Z"
+  "updatedAt": "2026-08-26T05:33:35.096Z"
 }
