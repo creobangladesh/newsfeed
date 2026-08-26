@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "3rd parliamentary session tomorrow with 5 bills likely to be tabled",
+      "link": "https://www.tbsnews.net/bangladesh/3rd-parliamentary-session-tomorrow-5-bills-likely-be-tabled-1525341",
+      "pubDate": "Wed, 26 Aug 2026 13:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/15/untitled_design_15.jpg",
+      "snippet": "A meeting of the Business Advisory Committee will be held at 2pm tomorrow to determine the duration and agenda of the session."
+    },
+    {
+      "title": "PMO orders reinstatement of Muslim Aid-UK registration, sets conditions",
+      "link": "https://www.tbsnews.net/bangladesh/pmo-orders-reinstatement-muslim-aid-uk-registration-sets-conditions-1525336",
+      "pubDate": "Wed, 26 Aug 2026 13:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/26/muslim_aid_logo.jpg",
+      "snippet": "Muslim Aid-UK’s activities in Bangladesh have previously faced government restrictions."
+    },
+    {
+      "title": "Rain likely in 8 divisions over next 24 hours: BMD",
+      "link": "https://www.tbsnews.net/bangladesh/rain-likely-8-divisions-over-next-24-hours-bmd-1525306",
+      "pubDate": "Wed, 26 Aug 2026 12:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/26/rainfall_0.jpg",
+      "snippet": "The Met Office forecasts light to moderate rain and thundershowers with gusty winds in several divisions, along with isolated moderately heavy rain."
+    },
+    {
       "title": "Holy Eid-e-Miladunnabi being observed",
       "link": "https://www.tbsnews.net/bangladesh/holy-eid-e-miladunnabi-being-observed-1525251",
       "pubDate": "Wed, 26 Aug 2026 12:00:00 +0600",
@@ -210,17 +243,6 @@
       "snippet": "Chinese language skills seen as key to overseas jobs."
     },
     {
-      "title": "Sports to be compulsory in curriculum from 2027, with 100-mark exam: State minister",
-      "link": "https://www.tbsnews.net/bangladesh/sports-be-compulsory-curriculum-2027-100-mark-exam-state-minister-1525071",
-      "pubDate": "Tue, 25 Aug 2026 21:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/17/untitled_design_3.jpg",
-      "snippet": "There will be a 40-mark written examination."
-    },
-    {
       "title": "DSE turnover plunges 58% in 15 sessions as liquidity dries up",
       "link": "https://www.tbsnews.net/economy/stocks/dse-turnover-plunges-58-15-sessions-liquidity-dries-1525061",
       "pubDate": "Tue, 25 Aug 2026 21:50:00 +0600",
@@ -230,28 +252,6 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/07/dse.jpg",
       "snippet": "Weak fresh fund inflows, investor caution, the recent market correction and concerns over the gas and power crisis are weighing on buying activity, leaving investors increasingly selective."
-    },
-    {
-      "title": "Bidisha Ershad arrested in fraud case",
-      "link": "https://www.tbsnews.net/bangladesh/crime/bidisha-ershad-arrested-fraud-case-1525031",
-      "pubDate": "Tue, 25 Aug 2026 21:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/20/bidisha_siddique_0.jpg",
-      "snippet": "She was arrested in Gulshan around 8:30pm after a court issued a warrant in the case."
-    },
-    {
-      "title": "250 missing during AL rule preliminarily found abducted by law enforcers: Chief prosecutor",
-      "link": "https://www.tbsnews.net/bangladesh/crime/250-missing-during-al-rule-preliminarily-found-abducted-law-enforcers-chief",
-      "pubDate": "Tue, 25 Aug 2026 21:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/06/20/enforced_disappearance.jpg",
-      "snippet": "Investigators are recording statements from family members and have identified locations from where the victims were allegedly abducted."
     },
     {
       "title": "UGC to set up int'l research office at every university",
@@ -452,17 +452,6 @@
       "snippet": "Extra financing to raise total guarantee facility to $700m"
     },
     {
-      "title": "Beximco now struggles to pay salaries, service debts and revive",
-      "link": "https://www.tbsnews.net/economy/industry/beximco-now-struggles-pay-salaries-service-debts-and-revive-1524126",
-      "pubDate": "Tue, 25 Aug 2026 10:00:00 +0600",
-      "category": "Industry",
-      "color": "#f57c00",
-      "bg": "#fff3e0",
-      "icon": "🏭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/25/beximco_struggles-pay_to_salary.jpg",
-      "snippet": "In late 2024, Janata Bank attempted to auction Beximco’s factories, land, and corporate headquarters to satisfy over Tk1,322 crore in overdue obligations."
-    },
-    {
       "title": "Low yields, high costs choke Bangladesh’s tea exports",
       "link": "https://www.tbsnews.net/economy/industry/low-yields-high-costs-choke-bangladeshs-tea-exports-1524091",
       "pubDate": "Tue, 25 Aug 2026 07:30:00 +0600",
@@ -472,17 +461,6 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/08/23/ilo_screen_shot_2021-03-21_at_10.46.41_am.png",
       "snippet": "This low yield pushes up the cost of each kilogram of tea, weakening Bangladesh’s competitiveness in international markets. Overall tea production has continued to rise, but the increase in output has failed to translate into higher export earnings"
-    },
-    {
-      "title": "The largest IPO ever",
-      "link": "https://www.tbsnews.net/thoughts/largest-ipo-ever-1524071",
-      "pubDate": "Tue, 25 Aug 2026 01:40:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/25/thoughts_table.jpg",
-      "snippet": "Judged by past records and achievements, SpaceX remains one of the most innovative and forceful companies in the world. However, translating radical ideas and projects into consistent profits at a trillion dollar valuation is indeed quite challenging"
     },
     {
       "title": "Lack of political courage, capacity behind sluggish economic recovery: CPD",
@@ -837,5 +815,5 @@
       "snippet": "Dhaka does not go dark because Bangladesh lacks power. It goes dark because of three decades of policy failures, costly contracts, underinvestment and missed opportunities"
     }
   ],
-  "updatedAt": "2026-08-26T06:48:49.818Z"
+  "updatedAt": "2026-08-26T07:45:42.406Z"
 }
