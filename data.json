@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Biman flight from Jeddah diverted to Muscat after passenger falls ill, dies",
+      "link": "https://www.tbsnews.net/bangladesh/biman-flight-jeddah-diverted-muscat-after-passenger-falls-ill-dies-1525351",
+      "pubDate": "Wed, 26 Aug 2026 14:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/biman_0.jpg",
+      "snippet": "The deceased was a resident of Chattogram."
+    },
+    {
       "title": "3rd parliamentary session tomorrow with 5 bills likely to be tabled",
       "link": "https://www.tbsnews.net/bangladesh/3rd-parliamentary-session-tomorrow-5-bills-likely-be-tabled-1525341",
       "pubDate": "Wed, 26 Aug 2026 13:30:00 +0600",
@@ -23,6 +34,17 @@
       "snippet": "Muslim Aid-UK’s activities in Bangladesh have previously faced government restrictions."
     },
     {
+      "title": "Instagram head Mosseri, at children's addiction trial, says few teenagers knew of safety feature",
+      "link": "https://www.tbsnews.net/world/instagram-head-mosseri-childrens-addiction-trial-says-few-teenagers-knew-safety-feature",
+      "pubDate": "Wed, 26 Aug 2026 12:50:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/26/mosseri_insta.jpg",
+      "snippet": "Mosseri estimated in ​a December 2021 blog post when Take a Break was launched that in early tests more than 90% of teenage users who turned the feature on kept it on"
+    },
+    {
       "title": "Rain likely in 8 divisions over next 24 hours: BMD",
       "link": "https://www.tbsnews.net/bangladesh/rain-likely-8-divisions-over-next-24-hours-bmd-1525306",
       "pubDate": "Wed, 26 Aug 2026 12:30:00 +0600",
@@ -32,6 +54,28 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/26/rainfall_0.jpg",
       "snippet": "The Met Office forecasts light to moderate rain and thundershowers with gusty winds in several divisions, along with isolated moderately heavy rain."
+    },
+    {
+      "title": "Utilising the power of volunteerism for a cleaner Bangladesh",
+      "link": "https://www.tbsnews.net/thoughts/utilising-power-volunteerism-cleaner-bangladesh-1525296",
+      "pubDate": "Wed, 26 Aug 2026 12:25:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/26/bd_clean_3.jpg",
+      "snippet": "Bangladesh’s waste crisis cannot be solved by government action alone. Volunteerism and civic responsibility can help change behaviour, strengthen social norms and build a culture in which keeping public spaces clean becomes everyone’s responsibility"
+    },
+    {
+      "title": "Why Bangladesh must make trust its next competitive advantage",
+      "link": "https://www.tbsnews.net/thoughts/why-bangladesh-must-make-trust-its-next-competitive-advantage-1525276",
+      "pubDate": "Wed, 26 Aug 2026 12:15:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/26/shish_swapnik_copy.png",
+      "snippet": "Bangladesh’s next economic advantage lies not just in producing competitively, but in building trust, reputation and preference so that global buyers, investors and partners choose the country deliberately"
     },
     {
       "title": "Holy Eid-e-Miladunnabi being observed",
@@ -100,15 +144,15 @@
       "snippet": "He previously held the rank of a state minister while serving as executive chairman of the Bangladesh Investment Development Authority (BIDA)"
     },
     {
-      "title": "BSF men flee, leaving behind 2 shotguns, walkie-talkie after scuffle with farmers in Lalmonirhat",
+      "title": "BGB returns 2 BSF shotguns, walkie-talkie left behind in Bangladesh",
       "link": "https://www.tbsnews.net/bangladesh/bsf-men-flee-leaving-behind-2-shotguns-walkie-talkie-after-scuffle-farmers-lalmonirhat",
       "pubDate": "Wed, 26 Aug 2026 09:00:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/26/screenshot_2026-08-26_085718.png",
-      "snippet": "According to the locals, several farmers were working in their fields near the Amjhol border when BSF personnel allegedly entered Bangladesh territory and assaulted them."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/26/bgb_bsf.jpg",
+      "snippet": "According to locals, several farmers were working in a field near Main Pillar No. 907 yesterday afternoon when BSF members entered Bangladeshi territory and assaulted them."
     },
     {
       "title": "2.23cr trees planted in 6 months, 43% of annual target",
@@ -230,17 +274,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/12/rak_ceramics_logo.jpg",
       "snippet": "The planned sale comes as RAK Ceramics posts positive EPS of Tk0.18 in the second quarter, against a loss of Tk0.43 a year earlier."
-    },
-    {
-      "title": "Mongla Port, Teesta River projects among China-Bangladesh priorities: Chinese envoy",
-      "link": "https://www.tbsnews.net/bangladesh/mongla-port-teesta-river-projects-among-china-bangladesh-priorities-chinese-envoy-1525066",
-      "pubDate": "Tue, 25 Aug 2026 21:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/25/chinese_ambassador_yao_wen.jpeg",
-      "snippet": "Chinese language skills seen as key to overseas jobs."
     },
     {
       "title": "DSE turnover plunges 58% in 15 sessions as liquidity dries up",
@@ -452,6 +485,17 @@
       "snippet": "Extra financing to raise total guarantee facility to $700m"
     },
     {
+      "title": "Beximco now struggles to pay salaries, service debts and revive",
+      "link": "https://www.tbsnews.net/economy/industry/beximco-now-struggles-pay-salaries-service-debts-and-revive-1524126",
+      "pubDate": "Tue, 25 Aug 2026 10:00:00 +0600",
+      "category": "Industry",
+      "color": "#f57c00",
+      "bg": "#fff3e0",
+      "icon": "🏭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/25/beximco_struggles-pay_to_salary.jpg",
+      "snippet": "In late 2024, Janata Bank attempted to auction Beximco’s factories, land, and corporate headquarters to satisfy over Tk1,322 crore in overdue obligations."
+    },
+    {
       "title": "Low yields, high costs choke Bangladesh’s tea exports",
       "link": "https://www.tbsnews.net/economy/industry/low-yields-high-costs-choke-bangladeshs-tea-exports-1524091",
       "pubDate": "Tue, 25 Aug 2026 07:30:00 +0600",
@@ -461,6 +505,17 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/08/23/ilo_screen_shot_2021-03-21_at_10.46.41_am.png",
       "snippet": "This low yield pushes up the cost of each kilogram of tea, weakening Bangladesh’s competitiveness in international markets. Overall tea production has continued to rise, but the increase in output has failed to translate into higher export earnings"
+    },
+    {
+      "title": "The largest IPO ever",
+      "link": "https://www.tbsnews.net/thoughts/largest-ipo-ever-1524071",
+      "pubDate": "Tue, 25 Aug 2026 01:40:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/25/thoughts_table.jpg",
+      "snippet": "Judged by past records and achievements, SpaceX remains one of the most innovative and forceful companies in the world. However, translating radical ideas and projects into consistent profits at a trillion dollar valuation is indeed quite challenging"
     },
     {
       "title": "Lack of political courage, capacity behind sluggish economic recovery: CPD",
@@ -815,5 +870,5 @@
       "snippet": "Dhaka does not go dark because Bangladesh lacks power. It goes dark because of three decades of policy failures, costly contracts, underinvestment and missed opportunities"
     }
   ],
-  "updatedAt": "2026-08-26T07:45:42.406Z"
+  "updatedAt": "2026-08-26T08:42:08.028Z"
 }
