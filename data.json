@@ -1,6 +1,61 @@
 {
   "news": [
     {
+      "title": "New Zealand teen remains missing a day after boat sinks off Cox’s Bazar",
+      "link": "https://www.tbsnews.net/bangladesh/new-zealand-teen-remains-missing-day-after-boat-sinks-coxs-bazar-1525521",
+      "pubDate": "Wed, 26 Aug 2026 17:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/25/new_zeland_family_missing_boat_family.jpg",
+      "snippet": "The 16-year-old was travelling with his parents and younger brother when their boat capsized near the Bakkhali River estuary yesterday."
+    },
+    {
+      "title": "Saudi factory fire: Bodies of seven Naogaon victims to arrive tomorrow",
+      "link": "https://www.tbsnews.net/bangladesh/saudi-factory-fire-bodies-seven-naogaon-victims-arrive-tomorrow-1525511",
+      "pubDate": "Wed, 26 Aug 2026 17:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/26/saudi_fire_incident.jpeg",
+      "snippet": "The Bangladesh Embassy in Riyadh confirmed this in a press release"
+    },
+    {
+      "title": "Trade through Benapole port suspended for Eid-e-Miladunnabi holiday",
+      "link": "https://www.tbsnews.net/bangladesh/trade-through-benapole-port-suspended-eid-e-miladunnabi-holiday-1525516",
+      "pubDate": "Wed, 26 Aug 2026 17:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/10/26/benapole.jpg",
+      "snippet": "Passenger movement between Bangladesh and India through the port remains normal, while trade, customs and other port operations will resume tomorrow morning."
+    },
+    {
+      "title": "Power outage not cause of mass fish deaths in Jashore: Probe",
+      "link": "https://www.tbsnews.net/bangladesh/districts/power-outage-not-cause-mass-fish-deaths-jashore-probe-1525501",
+      "pubDate": "Wed, 26 Aug 2026 17:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/26/fish_death.jpg",
+      "snippet": "A committee visited the affected fish farm near Sonamukhi Beel in Bahadurpur Union yesterday to determine the actual cause of the incident."
+    },
+    {
+      "title": "Govt to launch cooked midday meals pilot project soon: Bobby Hajjaj",
+      "link": "https://www.tbsnews.net/bangladesh/govt-launch-cooked-midday-meals-pilot-project-soon-bobby-hajjaj-1525506",
+      "pubDate": "Wed, 26 Aug 2026 17:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/26/image-418241-1787739416.jpg",
+      "snippet": "Head teachers of government primary schools from different upazilas of the district were also present."
+    },
+    {
       "title": "Korea Visa Application Center to open in Dhaka from 2 September",
       "link": "https://www.tbsnews.net/bangladesh/korea-visa-application-center-open-dhaka-2-september-1525476",
       "pubDate": "Wed, 26 Aug 2026 17:05:00 +0600",
@@ -8,7 +63,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/26/korean_visa.jpeg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/08/18/visa.jpg",
       "snippet": "The Embassy will continue to directly accept applications for, and issue passports related to, diplomatic and official visas confirmed through diplomatic notes."
     },
     {
@@ -188,28 +243,6 @@
       "snippet": "The deceased was a resident of Chattogram."
     },
     {
-      "title": "3rd parliamentary session tomorrow with 5 bills likely to be tabled",
-      "link": "https://www.tbsnews.net/bangladesh/3rd-parliamentary-session-tomorrow-5-bills-likely-be-tabled-1525341",
-      "pubDate": "Wed, 26 Aug 2026 13:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/15/untitled_design_15.jpg",
-      "snippet": "A meeting of the Business Advisory Committee will be held at 2pm tomorrow to determine the duration and agenda of the session."
-    },
-    {
-      "title": "PMO orders reinstatement of Muslim Aid-UK registration, sets conditions",
-      "link": "https://www.tbsnews.net/bangladesh/pmo-orders-reinstatement-muslim-aid-uk-registration-sets-conditions-1525336",
-      "pubDate": "Wed, 26 Aug 2026 13:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/26/muslim_aid_logo.jpg",
-      "snippet": "Muslim Aid-UK’s activities in Bangladesh have previously faced government restrictions."
-    },
-    {
       "title": "Instagram head Mosseri, at children's addiction trial, says few teenagers knew of safety feature",
       "link": "https://www.tbsnews.net/world/instagram-head-mosseri-childrens-addiction-trial-says-few-teenagers-knew-safety-feature",
       "pubDate": "Wed, 26 Aug 2026 12:50:00 +0600",
@@ -219,17 +252,6 @@
       "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/26/mosseri_insta.jpg",
       "snippet": "Mosseri estimated in ​a December 2021 blog post when Take a Break was launched that in early tests more than 90% of teenage users who turned the feature on kept it on"
-    },
-    {
-      "title": "Rain likely in 8 divisions over next 24 hours: BMD",
-      "link": "https://www.tbsnews.net/bangladesh/rain-likely-8-divisions-over-next-24-hours-bmd-1525306",
-      "pubDate": "Wed, 26 Aug 2026 12:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/26/rainfall_0.jpg",
-      "snippet": "The Met Office forecasts light to moderate rain and thundershowers with gusty winds in several divisions, along with isolated moderately heavy rain."
     },
     {
       "title": "Utilising the power of volunteerism for a cleaner Bangladesh",
@@ -252,28 +274,6 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/26/shish_swapnik_copy.png",
       "snippet": "Bangladesh’s next economic advantage lies not just in producing competitively, but in building trust, reputation and preference so that global buyers, investors and partners choose the country deliberately"
-    },
-    {
-      "title": "Holy Eid-e-Miladunnabi being observed",
-      "link": "https://www.tbsnews.net/bangladesh/holy-eid-e-miladunnabi-being-observed-1525251",
-      "pubDate": "Wed, 26 Aug 2026 12:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/08/01/moon_sighting_committee.jpg",
-      "snippet": "On the 12th of Rabiul Awal (in 570 AD), Prophet Muhammad (PBUH) was born in Makkah, bringing divine blessings and a message of peace for mankind. He passed away on the same day (in 632 AD)."
-    },
-    {
-      "title": "President Fakhrul meets Bhutanese king during Dhaka stopover",
-      "link": "https://www.tbsnews.net/bangladesh/president-fakhrul-meets-bhutanese-king-during-dhaka-stopover-1525241",
-      "pubDate": "Wed, 26 Aug 2026 11:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/26/c1ff881ede7aac928be4d9024cd472fe_8.jpeg",
-      "snippet": "The two leaders discussed matters of mutual interest and bilateral cooperation, according to a press release issued by Bangabhaban."
     },
     {
       "title": "Tax relief on cards for firms with turnover up to Tk2cr",
@@ -870,5 +870,5 @@
       "snippet": "The policy will clarify the responsibilities of officials and teachers while improving coordination and accountability across the primary education system."
     }
   ],
-  "updatedAt": "2026-08-26T11:29:03.828Z"
+  "updatedAt": "2026-08-26T11:58:55.086Z"
 }
