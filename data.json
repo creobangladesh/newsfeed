@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Chowdhury Ashik Mahmud accorded state minister rank",
+      "link": "https://www.tbsnews.net/bangladesh/chowdhury-ashik-mahmud-accorded-state-minister-rank-1525191",
+      "pubDate": "Wed, 26 Aug 2026 09:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/11/19/picsart_24-11-19_08-55-45-410.jpg",
+      "snippet": "He previously held the rank of a state minister while serving as executive chairman of the Bangladesh Investment Development Authority (BIDA)"
+    },
+    {
+      "title": "BSF men flee, leaving behind 2 shotguns, walkie-talkie after scuffle with farmers in Lalmonirhat",
+      "link": "https://www.tbsnews.net/bangladesh/bsf-men-flee-leaving-behind-2-shotguns-walkie-talkie-after-scuffle-farmers-lalmonirhat",
+      "pubDate": "Wed, 26 Aug 2026 09:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/26/screenshot_2026-08-26_085718.png",
+      "snippet": "According to the locals, several farmers were working in their fields near the Amjhol border when BSF personnel allegedly entered Bangladesh territory and assaulted them."
+    },
+    {
       "title": "2.23cr trees planted in 6 months, 43% of annual target",
       "link": "https://www.tbsnews.net/bangladesh/environment/223cr-trees-planted-6-months-43-annual-target-1525171",
       "pubDate": "Wed, 26 Aug 2026 08:30:00 +0600",
@@ -188,28 +210,6 @@
       "snippet": "As part of the measures, police pickets and checkposts are being operated across the city, while checks and searches have been intensified at all entry points to Dhaka."
     },
     {
-      "title": "17 more senior police officials transferred, including 2 DIGs",
-      "link": "https://www.tbsnews.net/bangladesh/law-order/17-more-senior-police-officials-transferred-including-2-digs-1524916",
-      "pubDate": "Tue, 25 Aug 2026 20:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/25/police_logo.jpg",
-      "snippet": "The transfers were made through three separate notifications issued by the Police-1 Branch of the Ministry of Home Affairs."
-    },
-    {
-      "title": "CPD acknowledges error in factory closure data cited in economic review",
-      "link": "https://www.tbsnews.net/bangladesh/cpd-acknowledges-error-factory-closure-data-cited-economic-review-1524941",
-      "pubDate": "Tue, 25 Aug 2026 20:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/11/03/cpd_logo.jpg",
-      "snippet": "The think tank says the figures were based on a media report that had wrongly changed the reporting period."
-    },
-    {
       "title": "State minister Humaiun Kobir has no dual citizenship: Law minister",
       "link": "https://www.tbsnews.net/bangladesh/state-minister-humaiun-kobir-has-no-dual-citizenship-law-minister-1524951",
       "pubDate": "Tue, 25 Aug 2026 20:35:00 +0600",
@@ -232,15 +232,26 @@
       "snippet": "Chattogram Metropolitan Magistrate Fahmida Sattar passed the order after a hearing today (25 August)."
     },
     {
-      "title": "HC questions legality of displaying national flags behind public servants' chairs, sofas",
-      "link": "https://www.tbsnews.net/bangladesh/court/hc-asks-govt-offices-stop-unlawful-display-national-flag-behind-chairs-sofas",
-      "pubDate": "Tue, 25 Aug 2026 20:20:00 +0600",
+      "title": "17 more senior police officials transferred, including 2 DIGs",
+      "link": "https://www.tbsnews.net/bangladesh/law-order/17-more-senior-police-officials-transferred-including-2-digs-1524916",
+      "pubDate": "Tue, 25 Aug 2026 20:35:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/04/25/hc_0.jpg",
-      "snippet": "Court also directs a three-member committee to investigate whether flags displayed in government offices comply with the National Flag Rules, 1972."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/25/police_logo.jpg",
+      "snippet": "The transfers were made through three separate notifications issued by the Police-1 Branch of the Ministry of Home Affairs."
+    },
+    {
+      "title": "CPD acknowledges error in factory closure data cited in economic review",
+      "link": "https://www.tbsnews.net/bangladesh/cpd-acknowledges-error-factory-closure-data-cited-economic-review-1524941",
+      "pubDate": "Tue, 25 Aug 2026 20:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/11/03/cpd_logo.jpg",
+      "snippet": "The think tank says the figures were based on a media report that had wrongly changed the reporting period."
     },
     {
       "title": "UGC to set up int'l research office at every university",
@@ -252,17 +263,6 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/25/5f88e4c8-9123-40ea-846b-f237e753968b.jpg",
       "snippet": "The proposed offices will facilitate international partnerships, joint research, student-teacher exchanges and access to global research funding, while helping build an academic diaspora network."
-    },
-    {
-      "title": "Abdul Muhith appointed Bangladesh high commissioner to UK",
-      "link": "https://www.tbsnews.net/bangladesh/abdul-muhith-appointed-bangladesh-high-commissioner-uk-1524886",
-      "pubDate": "Tue, 25 Aug 2026 20:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/25/abdul_muhith.jpg",
-      "snippet": ""
     },
     {
       "title": "Apparel sector needs worker-centred plan for green transition: Stakeholders",
@@ -881,5 +881,5 @@
       "snippet": "Commercial banks approaching PayPal, Google Wallet, Payoneer and other global payment platforms to explore partnerships."
     }
   ],
-  "updatedAt": "2026-08-26T02:47:16.265Z"
+  "updatedAt": "2026-08-26T03:52:47.028Z"
 }
