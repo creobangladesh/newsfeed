@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "CU hosts model legislative assembly with students from 50 universities",
+      "link": "https://www.tbsnews.net/bangladesh/cu-hosts-model-legislative-assembly-students-50-universities-1528156",
+      "pubDate": "Sun, 30 Aug 2026 01:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/30/cu_model_legislative.jpg",
+      "snippet": "Students gained hands-on experience in lawmaking and parliamentary debate."
+    },
+    {
       "title": "Kaptai Dam opens 16 gates two hours early as water level rises",
       "link": "https://www.tbsnews.net/bangladesh/kaptai-dam-opens-16-gates-two-hours-early-water-level-rises-1528126",
       "pubDate": "Sun, 30 Aug 2026 00:45:00 +0600",
@@ -219,17 +230,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/29/igp.png",
       "snippet": "He also called for swift investigations into robbery and rape cases."
-    },
-    {
-      "title": "PM for global unity against enforced disappearance ",
-      "link": "https://www.tbsnews.net/bangladesh/pm-global-unity-against-enforced-disappearance-1527916",
-      "pubDate": "Sat, 29 Aug 2026 19:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/pm_tarique_zia_img_2.jpg",
-      "snippet": "The ousted fascist government of Bangladesh resorted to the inhumane practice of enforced disappearances and abductions, PM says."
     },
     {
       "title": "Shama orders crackdown on brokers at Faridpur Medical College Hospital",
@@ -650,5 +650,5 @@
       "snippet": "While an average UK surgeon performs 10 to 20 such operations annually, relying on pre-operative scans, the AI system has been trained on more operations than most surgeons witness in a lifetime."
     }
   ],
-  "updatedAt": "2026-08-29T19:13:39.060Z"
+  "updatedAt": "2026-08-29T21:52:53.529Z"
 }
