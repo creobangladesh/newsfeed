@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Eel fuels 223% surge in Bangladesh’s live fish exports",
+      "link": "https://www.tbsnews.net/economy/eel-fuels-223-surge-bangladeshs-live-fish-exports-1527241",
+      "pubDate": "Sat, 29 Aug 2026 07:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/01/18/export-bd.png",
+      "snippet": "Although domestic demand for eel remains limited, exporters say strong demand in international markets has created opportunities for the fish collected from natural sources to be shipped abroad."
+    },
+    {
       "title": "Chhatra Dal marches at DU protesting 'misinformation' over BNP govt",
       "link": "https://www.tbsnews.net/bangladesh/politics/chhatra-dal-marches-du-protesting-misinformation-over-bnp-govt-1527216",
       "pubDate": "Fri, 28 Aug 2026 22:35:00 +0600",
@@ -252,17 +263,6 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/28/img_5154_16x9.png",
       "snippet": ""
-    },
-    {
-      "title": "Vegetable prices ease, sugar and flour get dearer",
-      "link": "https://www.tbsnews.net/economy/bazaar/veggie-prices-ease-while-sugar-flour-rise-egg-fish-and-chicken-remain-costly-1526891",
-      "pubDate": "Fri, 28 Aug 2026 13:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/28/img_9555.jpeg",
-      "snippet": "Increased supplies have since brought down the prices of some vegetables, although the market has yet to offer full relief."
     },
     {
       "title": "Govt moves to open 24 unused trauma centres across country",
@@ -606,5 +606,5 @@
       "snippet": "Bangladesh’s next economic advantage lies not just in producing competitively, but in building trust, reputation and preference so that global buyers, investors and partners choose the country deliberately"
     }
   ],
-  "updatedAt": "2026-08-28T21:45:23.893Z"
+  "updatedAt": "2026-08-29T03:31:52.922Z"
 }
