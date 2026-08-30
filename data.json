@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "Nationwide measles vaccination will be held again in 3 weeks: Health minister",
+      "link": "https://www.tbsnews.net/bangladesh/health/nationwide-measles-vaccination-will-be-held-again-3-weeks-health-minister-1528196",
+      "pubDate": "Sun, 30 Aug 2026 09:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/20/health_minister_sardar_shakhawat.jpg",
+      "snippet": "Dialysis facilities planned for every district-level hospital"
+    },
+    {
+      "title": "Dhaka records moderate air quality this morning",
+      "link": "https://www.tbsnews.net/bangladesh/dhaka-records-moderate-air-quality-morning-1528191",
+      "pubDate": "Sun, 30 Aug 2026 09:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/04/03/syedzakirhossain_1869.jpg",
+      "snippet": "Dhaka has long struggled with air pollution, with air quality typically worsening in winter and improving during the monsoon season."
+    },
+    {
+      "title": "Bangladesh-made seat-trim covers find way into Japan’s Honda, Suzuki",
+      "link": "https://www.tbsnews.net/economy/bangladesh-made-seat-trim-covers-find-way-japans-honda-suzuki-1528161",
+      "pubDate": "Sun, 30 Aug 2026 07:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/30/p3_lead_20260815_rajibdhar_0598.jpg",
+      "snippet": "The Bangladesh factory currently produces about 206,000 seat-trim cover units a year, and the company plans to maintain roughly the same level of production next year"
+    },
+    {
       "title": "CU hosts model legislative assembly with students from 50 universities",
       "link": "https://www.tbsnews.net/bangladesh/cu-hosts-model-legislative-assembly-students-50-universities-1528156",
       "pubDate": "Sun, 30 Aug 2026 01:30:00 +0600",
@@ -197,39 +230,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/08/31/maersk.jpg",
       "snippet": "Danish shipping giant also discusses potential investment in the country’s ship recycling sector."
-    },
-    {
-      "title": "New plan to make Patenga beach cleaner, safer and more tourist-friendly",
-      "link": "https://www.tbsnews.net/bangladesh/new-plan-make-patenga-beach-cleaner-safer-and-more-tourist-friendly-1527946",
-      "pubDate": "Sat, 29 Aug 2026 20:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/29/img-20260829-wa0068.jpg",
-      "snippet": "Authorities plan to install modern bins and wash blocks, reduce excess shops and tighten safety and hygiene standards."
-    },
-    {
-      "title": "Ctg Port retains 68th global ranking despite 4.1% container growth",
-      "link": "https://www.tbsnews.net/bangladesh/ctg-port-retains-68th-global-ranking-despite-41-container-growth-1527926",
-      "pubDate": "Sat, 29 Aug 2026 19:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/p1_ctg_port_news_photo_1.jpg",
-      "snippet": "Chattogram handled a record 3.41m TEUs in 2025."
-    },
-    {
-      "title": "IGP urges police to stay ahead of crime, take preventive action",
-      "link": "https://www.tbsnews.net/bangladesh/law-order/igp-urges-police-stay-ahead-crime-take-preventive-action-1527931",
-      "pubDate": "Sat, 29 Aug 2026 19:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/29/igp.png",
-      "snippet": "He also called for swift investigations into robbery and rape cases."
     },
     {
       "title": "Shama orders crackdown on brokers at Faridpur Medical College Hospital",
@@ -637,18 +637,7 @@
       "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/27/iphone.jpg",
       "snippet": "Apple is expected to ship more than 17 million foldable iPhones by 2027, according to research firm IDC."
-    },
-    {
-      "title": "World's first live AI-assisted brain surgery successfully removes man's tumour in UK",
-      "link": "https://www.tbsnews.net/bangladesh/health/worlds-first-live-ai-assisted-brain-surgery-successfully-removes-mans-tumour-uk",
-      "pubDate": "Thu, 27 Aug 2026 09:30:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/27/rhys_hibbert.jpg",
-      "snippet": "While an average UK surgeon performs 10 to 20 such operations annually, relying on pre-operative scans, the AI system has been trained on more operations than most surgeons witness in a lifetime."
     }
   ],
-  "updatedAt": "2026-08-29T23:54:36.460Z"
+  "updatedAt": "2026-08-30T03:56:21.464Z"
 }
