@@ -1,7 +1,249 @@
 {
   "news": [
     {
-      "title": "Bangladesh repays over double the foreign loans disbursed in July",
+      "title": "Dhaka sees no risk in 'Mecca Pact', finds it a unique initiative",
+      "link": "https://www.tbsnews.net/bangladesh/dhaka-sees-no-risk-mecca-pact-finds-it-unique-initiative-1528836",
+      "pubDate": "Sun, 30 Aug 2026 20:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/30/humaiun_kobir.jpg",
+      "snippet": "Humaiun Kobir says participation in one security arrangement would not prevent Bangladesh from contributing to other alliances or initiatives."
+    },
+    {
+      "title": "Court frames charges against GK Shamim in Tk75cr CU tender fraud case",
+      "link": "https://www.tbsnews.net/bangladesh/corruption/court-frames-charges-against-gk-shamim-tk75cr-cu-tender-fraud-case-1528826",
+      "pubDate": "Sun, 30 Aug 2026 20:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/12/22/golam_kibria_shamim.jpg",
+      "snippet": "Contractor accused of using forged documents and fabricated experience certificates to secure construction contract."
+    },
+    {
+      "title": "Suspect in headteacher's death near parliament charged in 13 cases: RAB",
+      "link": "https://www.tbsnews.net/bangladesh/crime/suspect-headteachers-death-near-parliament-charged-13-cases-rab-1528816",
+      "pubDate": "Sun, 30 Aug 2026 20:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/30/parliament_mugging_suspect.jpg",
+      "snippet": "RAB seized a Yamaha FZ motorcycle allegedly used in the mugging."
+    },
+    {
+      "title": "TIB urges review of Japan-backed Cox's Bazar beach project over ecological concerns",
+      "link": "https://www.tbsnews.net/bangladesh/environment/tib-urges-review-japan-backed-coxs-bazar-beach-project-over-ecological",
+      "pubDate": "Sun, 30 Aug 2026 20:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/08/13/tib_logo.jpeg",
+      "snippet": "Watchdog calls for independent review and coastal ecosystem restoration."
+    },
+    {
+      "title": "Govt to probe nine aircraft purchase deals: Minister",
+      "link": "https://www.tbsnews.net/economy/aviation/govt-probe-nine-aircraft-purchase-deals-minister-1528806",
+      "pubDate": "Sun, 30 Aug 2026 20:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/30/biman-purchase.jpg",
+      "snippet": "Govt will scrutinise nine Biman aircraft purchase agreements from previous tenure."
+    },
+    {
+      "title": "Measles: Death toll rises to 967 as 4 more die in 24hrs",
+      "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-rises-967-4-more-die-24hrs-1528786",
+      "pubDate": "Sun, 30 Aug 2026 19:20:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/25/measles_tbs.jpg",
+      "snippet": "A total of 365 confirmed measles cases were reported in the past 24 hours, bringing the number of confirmed cases to 19,218 since 15 March."
+    },
+    {
+      "title": "Dengue: 3 more die, 1,097 hospitalised in 24 hours",
+      "link": "https://www.tbsnews.net/bangladesh/health/dengue-3-more-die-1097-hospitalised-24-hours-1528766",
+      "pubDate": "Sun, 30 Aug 2026 19:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/10/27/dengue_ward_rajibdhar_0288.jpg",
+      "snippet": "Latest deaths were reported from Dhaka South, Chattogram and Khulna."
+    },
+    {
+      "title": "Chinese ambassador pays courtesy call on President",
+      "link": "https://www.tbsnews.net/foreign-policy/chinese-ambassador-pays-courtesy-call-president-1528751",
+      "pubDate": "Sun, 30 Aug 2026 18:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/30/chinese_ambassador_call_on_president.jpeg",
+      "snippet": "The Chinese ambassador expressed hope that at least 30 Chinese companies would invest around $500 million in Bangladesh."
+    },
+    {
+      "title": "Govt to adopt China's industry-academia linkage model: Education minister",
+      "link": "https://www.tbsnews.net/bangladesh/govt-adopt-chinas-industry-academia-linkage-model-education-minister-1528741",
+      "pubDate": "Sun, 30 Aug 2026 18:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/09/edu-min-69d758d07f498.jpg",
+      "snippet": "Officials said the initiatives would help create stronger links between education, practical skills, industry demand and future employment opportunities for Bangladeshi youth."
+    },
+    {
+      "title": "Learning from Nepal’s floods: Why Bangladesh’s hydro-diplomacy must be built on risk sharing",
+      "link": "https://www.tbsnews.net/features/panorama/learning-nepals-floods-why-bangladeshs-hydro-diplomacy-must-be-built-risk-sharing",
+      "pubDate": "Sun, 30 Aug 2026 18:45:00 +0600",
+      "category": "Analysis",
+      "color": "#5d4037",
+      "bg": "#efebe9",
+      "icon": "🔍",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/30/images-_11_.jpg",
+      "snippet": "For downstream Bangladesh, preventing the next disaster will require river-level readings, real-time dam data, basin-wide cooperation, and hydro-diplomacy"
+    },
+    {
+      "title": "ACC summons ex-Army chief Shafiuddin",
+      "link": "https://www.tbsnews.net/bangladesh/ex-army-chief-shafiuddin-summoned-acc-1528736",
+      "pubDate": "Sun, 30 Aug 2026 18:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/09/04/2531637_9381818_untitled_design_2.jpg",
+      "snippet": "ACC Deputy Director of the Public Relations Department Md Aktarul Islam confirmed the matter"
+    },
+    {
+      "title": "Govt digs 458km canals, builds 1,070km underground lines for Boro irrigation: Agri minister",
+      "link": "https://www.tbsnews.net/agriculture/govt-digs-458km-canals-builds-1070km-underground-lines-boro-irrigation-agri-minister",
+      "pubDate": "Sun, 30 Aug 2026 18:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/19/amin_ur_rashid.jpg",
+      "snippet": "Measures under 180-day programme also include fertiliser and seed supplies."
+    },
+    {
+      "title": "54 of 196 industries along Buriganga, Shitalakkhya still without ETPs: Minister Mintoo",
+      "link": "https://www.tbsnews.net/bangladesh/environment/54-196-industries-along-buriganga-shitalakkhya-still-without-etps-minister",
+      "pubDate": "Sun, 30 Aug 2026 18:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/04/buriganga_2013_1.jpg",
+      "snippet": "The government has shut down 27 industries over environmental violations and recovered Tk1.32 crore out of nearly Tk3 crore in compensation imposed on them."
+    },
+    {
+      "title": "Third terminal needs extra Tk902cr to become operational: Minister",
+      "link": "https://www.tbsnews.net/economy/aviation/third-terminal-needs-extra-tk902cr-become-operational-minister-1528681",
+      "pubDate": "Sun, 30 Aug 2026 18:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/09/10/dhaka_airport_third_terminal-jica.jpg",
+      "snippet": "Funds will cover unfinished work, contractor dues and agency payments."
+    },
+    {
+      "title": "Govt prepares new Red List as 31 wildlife species go extinct",
+      "link": "https://www.tbsnews.net/bangladesh/environment/govt-prepares-new-red-list-31-wildlife-species-go-extinct-1528661",
+      "pubDate": "Sun, 30 Aug 2026 18:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/06/27/royal_bengal_tiger_sundarbans_3.png",
+      "snippet": "Govt cites poaching, deforestation and climate change as key factors."
+    },
+    {
+      "title": "Padma Barrage key to tackling Bangladesh's seasonal water extremes: Titumir",
+      "link": "https://www.tbsnews.net/bangladesh/padma-barrage-key-tackling-bangladeshs-seasonal-water-extremes-titumir-1528656",
+      "pubDate": "Sun, 30 Aug 2026 18:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/30/titumir.jpg",
+      "snippet": "He called on India to ensure a fair and equitable share of water for Bangladesh."
+    },
+    {
+      "title": "Bangladesh ranks 13th globally in climate vulnerability: Minister",
+      "link": "https://www.tbsnews.net/bangladesh/environment/bangladesh-ranks-13th-globally-climate-vulnerability-minister-1528671",
+      "pubDate": "Sun, 30 Aug 2026 18:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/30/abdul_awal_mintoo_parliament.png",
+      "snippet": "Country targets a 6.39% unconditional emissions cut by 2035."
+    },
+    {
+      "title": "DPP for Gabtoli-Tarabo metro rail project to be sent to ERD",
+      "link": "https://www.tbsnews.net/bangladesh/dpp-gabtoli-tarabo-metro-rail-project-be-sent-erd-1528641",
+      "pubDate": "Sun, 30 Aug 2026 17:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/29/metro_rail_dhaka_5.jpg",
+      "snippet": "One of the key features of the project will bring old Dhaka directly under the metro rail network for the first time."
+    },
+    {
+      "title": "Govt giving highest priority to dengue prevention: Moyeen Khan",
+      "link": "https://www.tbsnews.net/bangladesh/health/govt-giving-highest-priority-dengue-prevention-moyeen-khan-1528636",
+      "pubDate": "Sun, 30 Aug 2026 17:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/30/screenshot_2026-08-30_174257.png",
+      "snippet": "Officials from 11 city corporations outside Dhaka joined the meeting virtually."
+    },
+    {
+      "title": "Govt orders school headmasters to update WhatsApp numbers for live oversight",
+      "link": "https://www.tbsnews.net/bangladesh/govt-orders-school-headmasters-update-whatsapp-numbers-live-oversight-1528626",
+      "pubDate": "Sun, 30 Aug 2026 17:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/30/school-headmaster.jpg",
+      "snippet": "According to the notification, secondary schools are monitored live through WhatsApp using the DMS app."
+    },
+    {
+      "title": "Govt finalising tourism master plan covering 1,498 spots: Minister",
+      "link": "https://www.tbsnews.net/bangladesh/govt-finalising-tourism-master-plan-covering-1498-spots-minister-1528621",
+      "pubDate": "Sun, 30 Aug 2026 17:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/01/rashiduzzaman_millat.png",
+      "snippet": "National Tourism Policy 2026 also being drafted for sustainable development."
+    },
+    {
+      "title": "Khaleda Zia motorcade attack: 'Haatkata Kashem' sent to jail after remand",
+      "link": "https://www.tbsnews.net/bangladesh/court/khaleda-zia-motorcade-attack-haatkata-kashem-sent-jail-after-remand-1528616",
+      "pubDate": "Sun, 30 Aug 2026 17:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/25/786035630_1415835473740617_8725057431958928545_n.jpg",
+      "snippet": "A Dhaka court rejects Kashem's bail plea and sends him to jail after he completes a five-day remand."
+    },
+    {
+      "title": "Bangladesh repays over double the foreign loans received in July",
       "link": "https://www.tbsnews.net/economy/bangladesh-repays-over-double-foreign-loans-disbursed-july-1528521",
       "pubDate": "Sun, 30 Aug 2026 15:45:00 +0600",
       "category": "Economy",
@@ -10,226 +252,6 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/09/27/1000029569_678x452.jpg",
       "snippet": "According to data released by the Economic Relations Division today, foreign loan disbursement stood at $180.18 million in July"
-    },
-    {
-      "title": "DMP reshuffles responsibilities of 3 DCs and 5 ADCs",
-      "link": "https://www.tbsnews.net/bangladesh/dmp-reshuffles-responsibilities-3-dcs-and-5-adcs-1528516",
-      "pubDate": "Sun, 30 Aug 2026 15:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/08/13/dmp-logo-tbs.jpg",
-      "snippet": "Besides, DB-Ramna Division ADC Md Ziaur Rahman Chowdhury has been transferred to POM-East Division, while POM-East Division ADC Md Nazrul Islam has been transferred to the Ramna Zonal Team of the DB-Ramna Division."
-    },
-    {
-      "title": "No corruption in flood relief distribution: Khosru",
-      "link": "https://www.tbsnews.net/bangladesh/no-corruption-flood-relief-distribution-khosru-1528506",
-      "pubDate": "Sun, 30 Aug 2026 15:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/30/khosru_hsbc.jpg",
-      "snippet": "The minister stated that during the initial stage of the floods, the government carried out all necessary emergency work"
-    },
-    {
-      "title": "Pedestrian killed by bus in Jatrabari, driver detained",
-      "link": "https://www.tbsnews.net/bangladesh/pedestrian-killed-bus-jatrabari-driver-detained-1528491",
-      "pubDate": "Sun, 30 Aug 2026 15:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/30/jatrabari_accident.jpg",
-      "snippet": "Jatrabari traffic police handed over Saiful and the bus to the Jatrabari police for further legal action."
-    },
-    {
-      "title": "UK-Bangladesh partnership continues growing stronger: Cooke",
-      "link": "https://www.tbsnews.net/bangladesh/uk-bangladesh-partnership-continues-growing-stronger-cooke-1528496",
-      "pubDate": "Sun, 30 Aug 2026 15:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/30/screenshot_2026-08-30_151853.png",
-      "snippet": "Regional and international issues of mutual interest also figured prominently in their discussions, she said."
-    },
-    {
-      "title": "Former MP Shahjahan shown arrested in local BNP leader Ishaq’s murder case",
-      "link": "https://www.tbsnews.net/bangladesh/former-mp-shahjahan-shown-arrested-local-bnp-leader-ishaqs-murder-case-1528476",
-      "pubDate": "Sun, 30 Aug 2026 14:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/11/30/shajahan-omar_0_0.jpg",
-      "snippet": "Ishaq was shot during the movement on 5 August 2024 near the Shyamoli Club ground in Adabar."
-    },
-    {
-      "title": "Laldia Terminal will lead to Ctg's rise as regional logistics hub: FinMin",
-      "link": "https://www.tbsnews.net/bangladesh/laldia-terminal-will-lead-ctgs-rise-regional-logistics-hub-finmin-1528481",
-      "pubDate": "Sun, 30 Aug 2026 14:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/30/whatsapp_image_2026-08-30_at_12.48.50_1.jpeg",
-      "snippet": "Finance Minister Amir Khosru said the project would be a milestone in the government's ambition to build a $1 trillion economy by 2034"
-    },
-    {
-      "title": "No more 'Aynaghar', perpetrators to face justice: President Fakhrul",
-      "link": "https://www.tbsnews.net/bangladesh/no-more-aynaghar-perpetrators-face-justice-president-fakhrul-1528456",
-      "pubDate": "Sun, 30 Aug 2026 14:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/30/chatgpt_image_aug_30_2026_02_30_34_pm.png",
-      "snippet": "He described enforced disappearance as not an ordinary crime but a crime against humanity and a grave violation of human rights."
-    },
-    {
-      "title": "Policy at final stage to ban battery-run rickshaws from Dhaka's main roads",
-      "link": "https://www.tbsnews.net/bangladesh/battery-powered-rickshaws-be-banned-dhakas-main-roads-1528461",
-      "pubDate": "Sun, 30 Aug 2026 14:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/01/syed_zakir_hossain_1.jpg",
-      "snippet": "Factories producing e-rickshaws according to designs certified by Buet or engineering universities will have to be registered and obtain licences from the relevant city corporation or municipality, says State Minister Mir Shahe Alam."
-    },
-    {
-      "title": "20 years on, Karwan Bazar relocation gets fresh push under new govt",
-      "link": "https://www.tbsnews.net/bangladesh/20-years-karwan-bazar-relocation-gets-fresh-push-under-new-govt-1528466",
-      "pubDate": "Sun, 30 Aug 2026 14:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/07/20/karwan_bazar_4.jpg",
-      "snippet": "After 20 years of plans and repeated postponements, the government has another chance to complete the journey that began in 2006."
-    },
-    {
-      "title": "Govt keen to take Bangladesh-Malaysia relations to new height: LGRD minister",
-      "link": "https://www.tbsnews.net/foreign-policy/govt-keen-take-bangladesh-malaysia-relations-new-height-lgrd-minister-1528446",
-      "pubDate": "Sun, 30 Aug 2026 14:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/30/image-419276-1788077838.jpg",
-      "snippet": "Moyeen Khan made the remarks when Malaysian High Commissioner to Bangladesh Mohd Shuhada Othman called on him at the Secretariat here."
-    },
-    {
-      "title": "Mirza Abbas set to return home on 2 September after treatment abroad",
-      "link": "https://www.tbsnews.net/bangladesh/mirza-abbas-set-return-home-2-september-after-treatment-abroad-1528441",
-      "pubDate": "Sun, 30 Aug 2026 14:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/11/05/mirza_abbas-2108221057.jpg",
-      "snippet": "He also sought prayers for Mirza Abbas’s full recovery and safe return home."
-    },
-    {
-      "title": "Ex-railways minister Nurul Islam Sujon shown arrested in July Uprising murder case",
-      "link": "https://www.tbsnews.net/bangladesh/ex-railways-minister-nurul-islam-sujon-shown-arrested-july-uprising-murder-case-1528431",
-      "pubDate": "Sun, 30 Aug 2026 14:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/30/784540513_1359581505892459_9188862058965668854_n.jpg",
-      "snippet": "In the petition, police said Sujon was involved in the incident and that showing him arrested in the case was necessary."
-    },
-    {
-      "title": "All 16 Kaptai Dam spillway gates opened by 3 feet amid rising water",
-      "link": "https://www.tbsnews.net/bangladesh/all-16-kaptai-dam-spillway-gates-opened-3-feet-amid-rising-water-1528421",
-      "pubDate": "Sun, 30 Aug 2026 14:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/08/22/kaptai-plant.jpg",
-      "snippet": "A total of 90,000 cubic feet of water per second is being discharged into the Karnaphuli River."
-    },
-    {
-      "title": "Teacher's death during mugging attempt: Prime suspect, accomplice arrested",
-      "link": "https://www.tbsnews.net/bangladesh/teachers-death-during-mugging-attempt-prime-suspect-accomplice-arrested-1528416",
-      "pubDate": "Sun, 30 Aug 2026 14:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/05/04/handcuff.jpg",
-      "snippet": "An RAB-2 official said Additional Deputy Inspector General of Police Naimul Hasan, commanding officer of the battalion, will brief the media in the afternoon in this regard."
-    },
-    {
-      "title": "Opposition MPs boycott meeting of parliamentary panel on Human Rights Commission Bill",
-      "link": "https://www.tbsnews.net/bangladesh/opposition-boycott-human-rights-commission-bill-review-1528411",
-      "pubDate": "Sun, 30 Aug 2026 14:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/parliament_house.jpg",
-      "snippet": "The opposition had earlier announced that its members would withdraw from the review of the bill and would not attend further committee meetings concerning it."
-    },
-    {
-      "title": "Sundarbans to reopen 1 Sept as 3-month ban revives flora and fauna",
-      "link": "https://www.tbsnews.net/bangladesh/sundarbans-reopen-1-sept-3-month-ban-revives-flora-and-fauna-1528406",
-      "pubDate": "Sun, 30 Aug 2026 13:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/27/sundarban.jpg",
-      "snippet": "According to the Forest Department, enhanced vigilance during the ban period led to a reduction in forest crimes compared to the previous year, allowing nature to regenerate and wildlife to thrive"
-    },
-    {
-      "title": "Fire breaks out at cotton warehouse in Khilgaon",
-      "link": "https://www.tbsnews.net/bangladesh/fire-breaks-out-cotton-warehouse-khilgaon-1528396",
-      "pubDate": "Sun, 30 Aug 2026 13:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/05/19/fire.jpg",
-      "snippet": "The Fire Service and Civil Defence received the report of the fire at around 11:58am at the tin-shed warehouse."
-    },
-    {
-      "title": "Rain likely in parts of country",
-      "link": "https://www.tbsnews.net/bangladesh/rain-likely-parts-country-1528386",
-      "pubDate": "Sun, 30 Aug 2026 13:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/26/rainfall_0.jpg",
-      "snippet": "Day and night temperatures may fall slightly over the country."
-    },
-    {
-      "title": "Major curriculum overhaul planned for 2028 academic session: Mahdi Amin",
-      "link": "https://www.tbsnews.net/bangladesh/major-curriculum-overhaul-planned-2028-academic-session-mahdi-amin-1528361",
-      "pubDate": "Sun, 30 Aug 2026 13:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/30/mahdi_amin.jpg",
-      "snippet": "As the first step, new subjects on the Fourth Industrial Revolution, artificial intelligence and sports will be included to the curriculum from next year (2027 academic year),"
-    },
-    {
-      "title": "Malaysia to begin recruiting 2 lakh Bangladeshi workers by end of Sept: Shahe Alam",
-      "link": "https://www.tbsnews.net/foreign-policy/malaysia-begin-recruiting-2-lakh-bangladeshi-workers-end-sept-shahe-alam-1528366",
-      "pubDate": "Sun, 30 Aug 2026 13:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/12/30/migrant_workers.jpg",
-      "snippet": "He said Malaysia will also take an additional 10,000 Bangladeshi workers at zero cost, meaning the workers will not have to bear any recruitment-related expenses."
     },
     {
       "title": "Health minister orders transfer of absent official during surprise Faridpur hospital visit",
@@ -471,7 +493,7 @@
       "bg": "#fff3e0",
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/28/img_5154_16x9.png",
-      "snippet": ""
+      "snippet": "All four translators are students of IUB's Department of English and Modern Languages."
     },
     {
       "title": "Govt moves to open 24 unused trauma centres across country",
@@ -571,106 +593,7 @@
       "icon": "🏭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/05/jalil_textile_mills.jpg",
       "snippet": "Former workers of Jalil Textile protest, demanding payment of outstanding dues"
-    },
-    {
-      "title": "UGC to act against universities for ignoring sexual harassment complaints",
-      "link": "https://www.tbsnews.net/bangladesh/education/ugc-act-against-universities-ignoring-sexual-harassment-complaints-1526466",
-      "pubDate": "Thu, 27 Aug 2026 19:30:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/27/ugc_chairman.jpg",
-      "snippet": "The MoU was signed under a European Union-funded project aimed at preventing sexual and gender-based violence in workplaces, public spaces and the higher education institutions."
-    },
-    {
-      "title": "Ecolet to invest $15.91m in Bepza Economic Zone for LED manufacturing",
-      "link": "https://www.tbsnews.net/economy/industry/ecolet-invest-1591m-bepza-economic-zone-led-manufacturing-1526431",
-      "pubDate": "Thu, 27 Aug 2026 18:55:00 +0600",
-      "category": "Industry",
-      "color": "#f57c00",
-      "bg": "#fff3e0",
-      "icon": "🏭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/27/epz_2879.jpg",
-      "snippet": "The Mirsharai facility will produce 6 million LED bulbs and decorative lighting products annually, targeting export markets in the US, UK, EU and Middle East and creating 306 jobs."
-    },
-    {
-      "title": "Three coaches, one broken system: Inside BFF's coaching carousel",
-      "link": "https://www.tbsnews.net/features/panorama/three-coaches-one-broken-system-inside-bffs-coaching-carousel-1526426",
-      "pubDate": "Thu, 27 Aug 2026 18:55:00 +0600",
-      "category": "Analysis",
-      "color": "#5d4037",
-      "bg": "#efebe9",
-      "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/27/whatsapp_image_2026-08-27_at_5.32.41_pm.jpeg",
-      "snippet": "BFF has repeatedly invested in foreign coaches with impressive CVs, only to see familiar problems return. Three recent appointments expose what goes wrong after the contract is signed"
-    },
-    {
-      "title": "DCCI urges businesses to adopt automated revenue management, digital services",
-      "link": "https://www.tbsnews.net/economy/dcci-urges-businesses-adopt-automated-revenue-management-digital-services-1526346",
-      "pubDate": "Thu, 27 Aug 2026 18:15:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/27/dcci_urges_businesses_to_adopt_automated_revenue_management_digital_services.png",
-      "snippet": "The workshop featured two sessions on changes in income tax and VAT."
-    },
-    {
-      "title": "FBCCI seeks stronger institutional ties with China to boost trade, investment",
-      "link": "https://www.tbsnews.net/economy/fbcci-seeks-stronger-institutional-ties-china-boost-trade-investment-1526281",
-      "pubDate": "Thu, 27 Aug 2026 17:50:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/27/1000510543.jpg",
-      "snippet": "The business apex body also urged Chinese firms to invest in Bangladesh’s special economic zones and called for easier visa procedures for Bangladeshi businesspeople."
-    },
-    {
-      "title": "Bangladesh launches first digital raw cotton market to link local mills with US farmers",
-      "link": "https://www.tbsnews.net/economy/bangladeshs-first-digital-raw-cotton-market-launched-boost-us-exports-1526296",
-      "pubDate": "Thu, 27 Aug 2026 17:50:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/27/cottonport_launched.jpeg",
-      "snippet": "AmeriBangla Corporation aims to expand bilateral trade between Bangladesh and the US from the current estimate of nearly $10 billion to $100 billion by 2045 through commodity exports, machinery trade, and capital partnerships."
-    },
-    {
-      "title": "Fahmida Khatun to become CPD Distinguished Fellow after 9yrs as executive director",
-      "link": "https://www.tbsnews.net/bangladesh/fahmida-khatun-become-cpd-distinguished-fellow-after-9yrs-executive-director-1526246",
-      "pubDate": "Thu, 27 Aug 2026 17:35:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/27/fahmida.png",
-      "snippet": "Associated with CPD since 2003, the economist has served as its executive director from February 2017 to August 2026."
-    },
-    {
-      "title": "Sammilito Islami Bank files 10,000 cases so far to recover defaulted loans",
-      "link": "https://www.tbsnews.net/economy/banking/sammilito-islami-bank-files-10000-cases-so-far-recover-defaulted-loans-1526196",
-      "pubDate": "Thu, 27 Aug 2026 17:05:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/30/sammilito_islami_bank.jpg",
-      "snippet": "The bank is pursuing legal action alongside negotiated settlements to recover funds stuck with borrowers and protect depositors’ interests."
-    },
-    {
-      "title": "BB allows banks to issue foreign-currency guarantees for foreign firms' local projects",
-      "link": "https://www.tbsnews.net/economy/banking/bb-allows-banks-issue-foreign-currency-guarantees-foreign-firms-local-projects",
-      "pubDate": "Thu, 27 Aug 2026 16:00:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/03/11/bangladesh_bank.jpg",
-      "snippet": "The circular further states that claims arising from the invocation of the guarantees will ordinarily be settled in taka equivalent."
     }
   ],
-  "updatedAt": "2026-08-30T09:49:03.882Z"
+  "updatedAt": "2026-08-30T14:42:47.660Z"
 }
