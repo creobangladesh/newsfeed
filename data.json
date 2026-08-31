@@ -1,6 +1,72 @@
 {
   "news": [
     {
+      "title": "3 air force personnel killed, 4 injured as pickup falls from Dhaka airport flyover",
+      "link": "https://www.tbsnews.net/bangladesh/3-air-force-personnel-killed-4-injured-pickup-falls-dhaka-airport-flyover-1529891",
+      "pubDate": "Tue, 01 Sep 2026 01:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/01/received_21386722003790062.jpeg",
+      "snippet": "A Bangladesh Air Force pickup lost control and plunged from a flyover on the second floor of Hazrat Shahjalal International Airport’s Third Terminal."
+    },
+    {
+      "title": "United Healthcare begins regular robotic surgery in Bangladesh",
+      "link": "https://www.tbsnews.net/bangladesh/health/united-healthcare-begins-regular-robotic-surgery-bangladesh-1529881",
+      "pubDate": "Tue, 01 Sep 2026 01:20:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/07/09/bmu_robot.gif",
+      "snippet": "The robotic system provides high-definition 3D visualisation and instruments with 360-degree movement, allowing greater precision in confined anatomical areas, less tissue damage and potentially faster recovery."
+    },
+    {
+      "title": "Pay bonanza for govt staff amid inflation, energy crisis",
+      "link": "https://www.tbsnews.net/bangladesh/pay-bonanza-govt-staff-amid-inflation-energy-crisis-1529876",
+      "pubDate": "Tue, 01 Sep 2026 01:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/01/payscale.png",
+      "snippet": "Govt approves 9th National Pay Scale, raising public servants’ salaries by up to 142%."
+    },
+    {
+      "title": "Govt seeking strategic partner in Muslim countries for Sammilito Islami Bank",
+      "link": "https://www.tbsnews.net/economy/banking/govt-seeking-strategic-partner-muslim-countries-sammilito-islami-bank-1529871",
+      "pubDate": "Tue, 01 Sep 2026 00:35:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/30/sammilito_islami_bank.jpg",
+      "snippet": "FDR account holders must remain under scheme to receive profits: BB"
+    },
+    {
+      "title": "Financial Intelligence Unit to form steering committee to prevent trade-based laundering",
+      "link": "https://www.tbsnews.net/economy/financial-intelligence-unit-form-steering-committee-prevent-trade-based-laundering-1529866",
+      "pubDate": "Tue, 01 Sep 2026 00:10:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/11/30/money_laundering_illustration_0.png",
+      "snippet": "The decision was taken at a meeting organised by the BFIU on Sunday with representatives of relevant government agencies and 15 scheduled banks."
+    },
+    {
+      "title": "8 injured as bus overturns on Padma Bridge",
+      "link": "https://www.tbsnews.net/bangladesh/8-injured-bus-overturns-padma-bridge-1529856",
+      "pubDate": "Mon, 31 Aug 2026 23:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/31/padma_bridge_accident.jpeg",
+      "snippet": "The accident disrupted traffic on the Dhaka-bound lane for nearly 45 minutes until the overturned bus was removed and the road cleared."
+    },
+    {
       "title": "Robbery at gunpoint: 3 arrested with firearm, ammunition",
       "link": "https://www.tbsnews.net/bangladesh/crime/robbery-gunpoint-3-arrested-firearm-ammunition-1529851",
       "pubDate": "Mon, 31 Aug 2026 23:50:00 +0600",
@@ -45,7 +111,7 @@
       "snippet": "Mir Helal found officials absent despite attendance being marked during visits to three land offices."
     },
     {
-      "title": "Firms with turnover up to Tk2cr exempted from minimum tax",
+      "title": "NBR exempts firms with turnover up to Tk2cr from minimum tax",
       "link": "https://www.tbsnews.net/economy/industry/firms-turnover-tk2cr-exempted-minimum-tax-1529786",
       "pubDate": "Mon, 31 Aug 2026 21:45:00 +0600",
       "category": "Economy",
@@ -144,18 +210,7 @@
       "snippet": "Vessel services on key routes have remained suspended since Saturday, disrupting medical travel, business and goods supplies."
     },
     {
-      "title": "TBML prevention: BFIU to form public-private steering committee",
-      "link": "https://www.tbsnews.net/economy/tbml-prevention-bfiu-form-public-private-steering-committee-1529711",
-      "pubDate": "Mon, 31 Aug 2026 20:40:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/08/22/bfiu.png",
-      "snippet": "The committee will bring together regulators, law enforcement agencies, customs authorities and banks to strengthen risk detection, information sharing and coordination in tackling trade-based money laundering."
-    },
-    {
-      "title": "Govt to enlist solar service providers to expand rooftop renewable energy",
+      "title": "Govt to enlist solar service providers to expand renewable energy",
       "link": "https://www.tbsnews.net/bangladesh/govt-enlist-solar-service-providers-expand-rooftop-renewable-energy-1529696",
       "pubDate": "Mon, 31 Aug 2026 20:25:00 +0600",
       "category": "Bangladesh",
@@ -265,17 +320,6 @@
       "snippet": "Investigation finds NID details, call records and recent location data being sold through Facebook, Telegram, WhatsApp and websites."
     },
     {
-      "title": "3 remanded for five days over headteacher's death in mugging near parliament",
-      "link": "https://www.tbsnews.net/bangladesh/court/3-remanded-five-days-over-headteachers-death-mugging-near-parliament-1529596",
-      "pubDate": "Mon, 31 Aug 2026 18:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/31/778779227_1366154645231801_8077822527566118864_n.jpg",
-      "snippet": "Police recovered a snatched phone, cash and alleged getaway motorcycle."
-    },
-    {
       "title": "Cabinet approves 9th pay scale: Basic salaries to rise up to 142% in 3 phases",
       "link": "https://www.tbsnews.net/bangladesh/cabinet-approves-9th-pay-scale-govt-employees-1529601",
       "pubDate": "Mon, 31 Aug 2026 18:25:00 +0600",
@@ -285,28 +329,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/01/new-payscale.png",
       "snippet": "The minimum starting basic salary for Grade 20 has been set at Tk20,000, while the maximum prescribed salary for Grade 1 will be Tk1,56,000."
-    },
-    {
-      "title": "Bangladesh buying 14 Boeing aircraft, plans to lease more: Aviation minister",
-      "link": "https://www.tbsnews.net/economy/aviation/bangladesh-buying-14-boeing-aircraft-plans-lease-more-aviation-minister-1529571",
-      "pubDate": "Mon, 31 Aug 2026 18:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/02/15/787-8_2_0.jpg",
-      "snippet": "The government signed a $3.7 billion deal with Boeing in April to buy 14 aircraft for Biman Bangladesh Airlines."
-    },
-    {
-      "title": "Death row convict in Rajbari murder case arrested while planning another contract killing",
-      "link": "https://www.tbsnews.net/bangladesh/crime/death-row-convict-rajbari-murder-case-arrested-while-planning-another-contract",
-      "pubDate": "Mon, 31 Aug 2026 18:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/31/jamal_pattandar.jpg",
-      "snippet": "RAB says Jamal Pattanadar had returned from India two months ago."
     },
     {
       "title": "2027 SSC exams to be held after Ramadan: Education minister",
@@ -705,5 +727,5 @@
       "snippet": "Although domestic demand for eel remains limited, exporters say strong demand in international markets has created opportunities for the fish collected from natural sources to be shipped abroad."
     }
   ],
-  "updatedAt": "2026-08-31T17:55:25.034Z"
+  "updatedAt": "2026-08-31T22:32:40.747Z"
 }
