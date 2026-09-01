@@ -1,6 +1,50 @@
 {
   "news": [
     {
+      "title": "Hydrogen sulphide in ballast water went undetected, triggering shipbreaking yard tragedy: Probes",
+      "link": "https://www.tbsnews.net/bangladesh/hydrogen-sulphide-ballast-water-went-undetected-triggering-shipbreaking-yard-tragedy",
+      "pubDate": "Wed, 02 Sep 2026 01:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/ferdous_ship_yard.jpg",
+      "snippet": "The toxic gas was released when workers pierced the number 3 ballast tank of the MT RASI to drain water before cutting the vessel, the investigations found."
+    },
+    {
+      "title": "Govt turns to NBR as new pay scale adds Tk1.06 lakh crore annually",
+      "link": "https://www.tbsnews.net/nbr/govt-turns-nbr-new-pay-scale-adds-tk106-lakh-crore-annually-1530776",
+      "pubDate": "Wed, 02 Sep 2026 00:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/24/nbr.png",
+      "snippet": "The NBR has a revenue collection target of Tk6.04 lakh crore set for FY27 – nearly 46% higher than the Tk4.15 lakh crore collected in FY26."
+    },
+    {
+      "title": "Cenbank buys $50m from banks after 3-month pause amid falling rate",
+      "link": "https://www.tbsnews.net/economy/banking/cenbank-buys-50m-banks-after-3-month-pause-amid-falling-rate-1530771",
+      "pubDate": "Tue, 01 Sep 2026 23:50:00 +0600",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/12/02/remittance.jpg",
+      "snippet": "The purchase from four commercial banks was the central bank’s first since 20 May."
+    },
+    {
+      "title": "Minister Iqbal Hassan admitted to Ibrahim Cardiac Hospital",
+      "link": "https://www.tbsnews.net/bangladesh/minister-iqbal-hassan-mahmood-admitted-ibrahim-cardiac-1530766",
+      "pubDate": "Tue, 01 Sep 2026 23:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/06/tuku_bnp.png",
+      "snippet": "He was taken to the hospital’s emergency department around 10:30pm."
+    },
+    {
       "title": "An open letter to Messi: Goodbye to the football I grew up with",
       "link": "https://www.tbsnews.net/thoughts/open-letter-messi-goodbye-football-i-grew-1530761",
       "pubDate": "Tue, 01 Sep 2026 22:50:00 +0600",
@@ -111,7 +155,7 @@
       "snippet": "Muktadir said industrialisation is being given priority alongside developing necessary infrastructure and improving the business environment to expand investment."
     },
     {
-      "title": "Bangladesh exports jump 13.14% in August as RMG, other sectors gain",
+      "title": "Exports jump 13% in August as RMG, jute, pharma, leather gain",
       "link": "https://www.tbsnews.net/economy/bangladeshs-exports-jump-1314-august-rmg-non-rmg-sectors-grow-1530616",
       "pubDate": "Tue, 01 Sep 2026 20:10:00 +0600",
       "category": "Economy",
@@ -119,7 +163,7 @@
       "bg": "#e8f5e9",
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/01/18/export-bd.png",
-      "snippet": "RMG exports rose 13.92% in August, while jute, pharmaceuticals, leather and other non-RMG sectors also posted double-digit growth."
+      "snippet": "US imports from Bangladesh grow 26%."
     },
     {
       "title": "Govt focusing on cross-border education to save forex, attract intellectual capital: Edu minister",
@@ -235,34 +279,12 @@
       "title": "Dhaka Board sets 15 November deadline for 2027 SSC test results",
       "link": "https://www.tbsnews.net/bangladesh/education/dhaka-board-sets-15-november-deadline-2027-ssc-test-results-1530461",
       "pubDate": "Tue, 01 Sep 2026 18:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/02/ssc_0.jpg",
       "snippet": "Selection examinations for SSC candidates must begin on 15 October, says board notice."
-    },
-    {
-      "title": "Solar producers to get Tk10.50 per unit under new rooftop incentive scheme",
-      "link": "https://www.tbsnews.net/bangladesh/energy/solar-producers-get-tk1050-unit-under-new-rooftop-incentive-scheme-1530446",
-      "pubDate": "Tue, 01 Sep 2026 18:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/11/28/kepz_rooftop_solar_power_project-_3.jpg",
-      "snippet": "Below Tk10.50 cost will be regarded as an incentive to producers."
-    },
-    {
-      "title": "Dhaka seeks stronger global parliamentary advocacy for early Rohingya repatriation",
-      "link": "https://www.tbsnews.net/foreign-policy/dhaka-seeks-stronger-global-parliamentary-advocacy-early-rohingya-repatriation",
-      "pubDate": "Tue, 01 Sep 2026 18:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/bangladesh_rohingya_refugee.gif",
-      "snippet": "The IPU secretary general welcomed the initiatives undertaken by the present government to strengthen democratic institutions"
     },
     {
       "title": "NTRCA retains teacher recruitment role; registration exam to have 3 stages",
@@ -353,7 +375,7 @@
       "snippet": "Stakeholders urge stronger social protection, reskilling and social dialogue."
     },
     {
-      "title": "FBCCI urges businesses not to hike essential prices citing new pay scale",
+      "title": "Businesses see supply disruptions, not pay scale, driving prices up",
       "link": "https://www.tbsnews.net/economy/fbcci-urges-businesses-not-hike-essential-prices-citing-new-pay-scale-1530121",
       "pubDate": "Tue, 01 Sep 2026 13:50:00 +0600",
       "category": "Economy",
@@ -881,5 +903,5 @@
       "snippet": "Dialysis facilities planned for every district-level hospital"
     }
   ],
-  "updatedAt": "2026-09-01T17:10:40.558Z"
+  "updatedAt": "2026-09-01T20:03:09.024Z"
 }
