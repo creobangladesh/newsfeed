@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Chinese firm begins mass production of portable laser mosquito-control device",
+      "link": "https://www.tbsnews.net/tech/chinese-firm-begins-mass-production-portable-laser-mosquito-control-device-1529901",
+      "pubDate": "Tue, 01 Sep 2026 07:35:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/01/photon_matrix_mosquito_killer.png",
+      "snippet": "Unlike some existing mosquito-detection products, the Photon Matrix device is designed to physically eliminate insects using its laser"
+    },
+    {
       "title": "3 air force personnel killed, 4 injured as pickup falls from Dhaka airport flyover",
       "link": "https://www.tbsnews.net/bangladesh/3-air-force-personnel-killed-4-injured-pickup-falls-dhaka-airport-flyover-1529891",
       "pubDate": "Tue, 01 Sep 2026 01:45:00 +0600",
@@ -320,15 +331,15 @@
       "snippet": "Investigation finds NID details, call records and recent location data being sold through Facebook, Telegram, WhatsApp and websites."
     },
     {
-      "title": "Cabinet approves 9th pay scale: Basic salaries to rise up to 142% in 3 phases",
-      "link": "https://www.tbsnews.net/bangladesh/cabinet-approves-9th-pay-scale-govt-employees-1529601",
+      "title": "3 remanded for five days over headteacher's death in mugging near parliament",
+      "link": "https://www.tbsnews.net/bangladesh/court/3-remanded-five-days-over-headteachers-death-mugging-near-parliament-1529596",
       "pubDate": "Mon, 31 Aug 2026 18:25:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/01/new-payscale.png",
-      "snippet": "The minimum starting basic salary for Grade 20 has been set at Tk20,000, while the maximum prescribed salary for Grade 1 will be Tk1,56,000."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/31/778779227_1366154645231801_8077822527566118864_n.jpg",
+      "snippet": "Police recovered a snatched phone, cash and alleged getaway motorcycle."
     },
     {
       "title": "2027 SSC exams to be held after Ramadan: Education minister",
@@ -714,18 +725,7 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/09/22/china-bd.png",
       "snippet": "Representatives from 19 universities, technical institutions and industries in Jiangxi attended the conference."
-    },
-    {
-      "title": "Eel fuels 223% surge in Bangladesh’s live fish exports",
-      "link": "https://www.tbsnews.net/economy/eel-fuels-223-surge-bangladeshs-live-fish-exports-1527241",
-      "pubDate": "Sat, 29 Aug 2026 07:35:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/29/penebar-eel-563941_1920.jpg",
-      "snippet": "Although domestic demand for eel remains limited, exporters say strong demand in international markets has created opportunities for the fish collected from natural sources to be shipped abroad."
     }
   ],
-  "updatedAt": "2026-08-31T22:32:40.747Z"
+  "updatedAt": "2026-09-01T01:41:10.738Z"
 }
