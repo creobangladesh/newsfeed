@@ -1,6 +1,259 @@
 {
   "news": [
     {
+      "title": "An open letter to Messi: Goodbye to the football I grew up with",
+      "link": "https://www.tbsnews.net/thoughts/open-letter-messi-goodbye-football-i-grew-1530761",
+      "pubDate": "Tue, 01 Sep 2026 22:50:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/messi_lifting_trophy.jpeg",
+      "snippet": "I did not choose Argentina first; I chose Messi. Now that he has walked away from international football, I am left saying goodbye to a part of the childhood I grew up with."
+    },
+    {
+      "title": "Govt cuts import tax on green chillies, tomatoes to 20.5%",
+      "link": "https://www.tbsnews.net/economy/govt-cuts-import-tax-green-chillies-tomatoes-205-1530736",
+      "pubDate": "Tue, 01 Sep 2026 22:00:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/10/14/jonas-ducker-4ijhsbxly0c-unsplash.jpg",
+      "snippet": "Green chilli prices crossed Tk400 a kilogramme in some markets last month amid a sharp rise in vegetable prices."
+    },
+    {
+      "title": "3 Air Force members killed in airport-area crash laid to rest after funeral parade, janaza",
+      "link": "https://www.tbsnews.net/bangladesh/3-air-force-members-killed-airport-area-crash-laid-rest-after-funeral-parade-janaza",
+      "pubDate": "Tue, 01 Sep 2026 21:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/01/792999632_1398481178917537_681018796488869586_n.jpg",
+      "snippet": "The four other members injured in the accident are undergoing treatment at CMH."
+    },
+    {
+      "title": "174 Bangladeshi migrants return home from Libya",
+      "link": "https://www.tbsnews.net/bangladesh/174-bangladeshi-migrants-return-home-libya-1530676",
+      "pubDate": "Tue, 01 Sep 2026 21:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/01/image-420020-1788258417.jpg",
+      "snippet": "They were repatriated from Tajoura Detention Centre with support from Libya and IOM."
+    },
+    {
+      "title": "Woman rescued from moving train after rape allegation, one arrested",
+      "link": "https://www.tbsnews.net/bangladesh/crime/woman-rescued-moving-train-after-rape-allegation-one-arrested-1530671",
+      "pubDate": "Tue, 01 Sep 2026 21:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/01/08/4rx2pqcj2yixzpfgfbsyuevwk7cvx52xteweohjr.jpeg",
+      "snippet": "Victim had mistakenly boarded the Dhaka-Kurigram train while travelling to Sirajganj."
+    },
+    {
+      "title": "N'ganj Krishak Dal leader expelled over criticising country's law and order, power situation",
+      "link": "https://www.tbsnews.net/bangladesh/politics/nganj-krishak-dal-leader-expelled-over-criticising-countrys-law-and-order-power",
+      "pubDate": "Tue, 01 Sep 2026 20:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/01/nganj_krishak_dal_leader_1.jpg",
+      "snippet": "Alamin Iqbal says he was removed after criticising the government."
+    },
+    {
+      "title": "Govt to give tablets to 116,000 SSC GPA-5 achievers: Minister",
+      "link": "https://www.tbsnews.net/bangladesh/education/govt-give-tablets-116000-ssc-gpa-5-achievers-minister-1530666",
+      "pubDate": "Tue, 01 Sep 2026 20:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/01/tablet_pc.png",
+      "snippet": "He said the prime minister will award the GPA-5 achievers and present the tablets to them as a gift in recognition of their outstanding results."
+    },
+    {
+      "title": "BADC employees protest downgrade of salary grades, warn 'complete shutdown'",
+      "link": "https://www.tbsnews.net/bangladesh/badc-employees-protest-downgrade-salary-grades-warn-complete-shutdown-1530636",
+      "pubDate": "Tue, 01 Sep 2026 20:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/01/badc_protest.jpg",
+      "snippet": "The circular sets salary grades and related conditions for 4,699 posts under 91 categories."
+    },
+    {
+      "title": "Syndicate behind importing luxury cars as used spare parts: Customs",
+      "link": "https://www.tbsnews.net/bangladesh/luxury-cars-imported-used-spare-parts-syndicate-customs-1530631",
+      "pubDate": "Tue, 01 Sep 2026 20:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/01/whatsapp_image_2026-09-01_at_19.24.20.jpeg",
+      "snippet": "Customs intercepted luxury vehicle components at Chattogram Port."
+    },
+    {
+      "title": "Govt working to accelerate economic growth, boost investment: Muktadir",
+      "link": "https://www.tbsnews.net/bangladesh/govt-working-accelerate-economic-growth-boost-investment-muktadir-1530626",
+      "pubDate": "Tue, 01 Sep 2026 20:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/01/muktadir_faridpur.jpeg",
+      "snippet": "Muktadir said industrialisation is being given priority alongside developing necessary infrastructure and improving the business environment to expand investment."
+    },
+    {
+      "title": "Bangladesh exports jump 13.14% in August as RMG, other sectors gain",
+      "link": "https://www.tbsnews.net/economy/bangladeshs-exports-jump-1314-august-rmg-non-rmg-sectors-grow-1530616",
+      "pubDate": "Tue, 01 Sep 2026 20:10:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/01/18/export-bd.png",
+      "snippet": "RMG exports rose 13.92% in August, while jute, pharmaceuticals, leather and other non-RMG sectors also posted double-digit growth."
+    },
+    {
+      "title": "Govt focusing on cross-border education to save forex, attract intellectual capital: Edu minister",
+      "link": "https://www.tbsnews.net/bangladesh/education/govt-focusing-cross-border-education-save-forex-attract-intellectual-capital",
+      "pubDate": "Tue, 01 Sep 2026 19:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/26/img_9520.jpeg",
+      "snippet": "Just developing university infrastructure is not enough. We also need to improve the quality of education, Milon says."
+    },
+    {
+      "title": "Police uncover arms factory at CNG workshop in Hathazari, 2 held",
+      "link": "https://www.tbsnews.net/bangladesh/crime/police-uncover-arms-factory-cng-workshop-hathazari-2-held-1530596",
+      "pubDate": "Tue, 01 Sep 2026 19:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/01/ctg_drive_1.jpg",
+      "snippet": "During a raid early today, police recovered five firearms, including a locally made pen gun, 20 rounds of ammunition and various equipment used for making weapons."
+    },
+    {
+      "title": "Decision to cancel AL-related programme in Delhi a 'positive' step: Humaiun Kobir",
+      "link": "https://www.tbsnews.net/bangladesh/decision-cancel-al-related-programme-delhi-positive-step-humaiun-kobir-1530561",
+      "pubDate": "Tue, 01 Sep 2026 19:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/09/humayun_kabir.jpg",
+      "snippet": "He says any possible visit by Prime Minister Tarique Rahman to India would depend on a conducive environment and the availability of both prime ministers."
+    },
+    {
+      "title": "Dengue deaths cross 100 as Bangladesh records highest daily cases this year",
+      "link": "https://www.tbsnews.net/bangladesh/health/dengue-deaths-cross-100-bangladesh-records-highest-daily-cases-year-1530556",
+      "pubDate": "Tue, 01 Sep 2026 19:35:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/14/dengue.jpg",
+      "snippet": "The country recorded 1,324 new hospital admissions in the last 24 hours, surpassing the previous daily high of 1,163."
+    },
+    {
+      "title": "Artist Ruhul Amin Tarek receives UK Global Talent Visa",
+      "link": "https://www.tbsnews.net/bangladesh/artist-ruhul-amin-tarek-receives-uk-global-talent-visa-1530536",
+      "pubDate": "Tue, 01 Sep 2026 19:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/01/ruhul_amin_tarek_.jpg",
+      "snippet": "To mark the achievement, Kaalnee Art Studio is organising a reunion and art gathering at 7:30pm tomorrow."
+    },
+    {
+      "title": "Constitutional reform needed to prevent future dictatorships: Home Minister",
+      "link": "https://www.tbsnews.net/bangladesh/constitutional-reform-needed-prevent-future-dictatorships-home-minister-1530526",
+      "pubDate": "Tue, 01 Sep 2026 19:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/06/23/salahuddin.jpg",
+      "snippet": "Govt working to curb authoritarianism through constitutional changes."
+    },
+    {
+      "title": "BCB suspends three over 'BPL irregularities'",
+      "link": "https://www.tbsnews.net/bangladesh/bcb-suspends-three-over-alleged-bpl-irregularities-1530516",
+      "pubDate": "Tue, 01 Sep 2026 19:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/01/04/bcb_logo.jpg",
+      "snippet": "It gave the accused 15 days to respond to the charges."
+    },
+    {
+      "title": "BSEC to bring back direct listing after 16 years for big firms",
+      "link": "https://www.tbsnews.net/economy/bsec-bring-back-direct-listing-after-16-years-big-firms-1530481",
+      "pubDate": "Tue, 01 Sep 2026 19:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/15/bsec_stock.jpg",
+      "snippet": "Draft rules would allow eligible firms to list without an IPO."
+    },
+    {
+      "title": "Man behind proposed 81-foot Ram idol in Gaibandha shown arrested in flat fraud case, denied bail",
+      "link": "https://www.tbsnews.net/bangladesh/court/man-behind-proposed-81-foot-ram-idol-gaibandha-shown-arrested-flat-fraud-case",
+      "pubDate": "Tue, 01 Sep 2026 19:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/01/haridas_gaibandha.jpg",
+      "snippet": "He has been in jail since July in a Tk9.35 crore money-laundering case filed by the CID."
+    },
+    {
+      "title": "Bangladesh risks falling behind without adapting to global change: Khosru",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-risks-falling-behind-without-adapting-global-change-khosru-1530451",
+      "pubDate": "Tue, 01 Sep 2026 18:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/29/khasru.png",
+      "snippet": "He urged students to strengthen Bangladesh’s research and innovation capacity to keep pace with rapid global changes,"
+    },
+    {
+      "title": "Dhaka Board sets 15 November deadline for 2027 SSC test results",
+      "link": "https://www.tbsnews.net/bangladesh/education/dhaka-board-sets-15-november-deadline-2027-ssc-test-results-1530461",
+      "pubDate": "Tue, 01 Sep 2026 18:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/02/ssc_0.jpg",
+      "snippet": "Selection examinations for SSC candidates must begin on 15 October, says board notice."
+    },
+    {
+      "title": "Solar producers to get Tk10.50 per unit under new rooftop incentive scheme",
+      "link": "https://www.tbsnews.net/bangladesh/energy/solar-producers-get-tk1050-unit-under-new-rooftop-incentive-scheme-1530446",
+      "pubDate": "Tue, 01 Sep 2026 18:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/11/28/kepz_rooftop_solar_power_project-_3.jpg",
+      "snippet": "Below Tk10.50 cost will be regarded as an incentive to producers."
+    },
+    {
       "title": "Dhaka seeks stronger global parliamentary advocacy for early Rohingya repatriation",
       "link": "https://www.tbsnews.net/foreign-policy/dhaka-seeks-stronger-global-parliamentary-advocacy-early-rohingya-repatriation",
       "pubDate": "Tue, 01 Sep 2026 18:30:00 +0600",
@@ -12,81 +265,15 @@
       "snippet": "The IPU secretary general welcomed the initiatives undertaken by the present government to strengthen democratic institutions"
     },
     {
-      "title": "Bangladesh aims to end spice imports within 3-4 years: Agriculture minister",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-aims-end-spice-imports-within-3-4-years-agriculture-minister-1530416",
-      "pubDate": "Tue, 01 Sep 2026 18:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/01/_fisheries_and_livestock_minister_mohammad_amin_ur_rashid.png",
-      "snippet": "The minister said chilli farmers face low prices during harvest despite imports during the rainy season, while assuring that fertiliser supplies are currently adequate."
-    },
-    {
-      "title": "US technology supports Bangladesh railway connectivity: Envoy",
-      "link": "https://www.tbsnews.net/bangladesh/us-technology-supports-bangladesh-railway-connectivity-envoy-1530391",
-      "pubDate": "Tue, 01 Sep 2026 18:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/01/brent_t_christensen_.jpg",
-      "snippet": "During the visit, the ambassador toured the workshop and inspected a locomotive manufactured by US company Progress Rail."
-    },
-    {
-      "title": "Trump says looking forward to meeting PM Tarique soon",
-      "link": "https://www.tbsnews.net/foreign-policy/looking-forward-meeting-pm-tarique-soon-trump-1530386",
-      "pubDate": "Tue, 01 Sep 2026 18:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/01/pm-tarique-and-trump.jpg",
-      "snippet": "The US president has thanked Tarique for his decision to purchase Boeing aircraft, saying Boeing will not let Bangladesh down."
-    },
-    {
-      "title": "Supporting Hasina not a crime unless law criminalises it: Zahed",
-      "link": "https://www.tbsnews.net/bangladesh/supporting-hasina-not-crime-unless-law-criminalises-it-adviser-zahed-1530371",
-      "pubDate": "Tue, 01 Sep 2026 17:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/01/2213693.jpg",
-      "snippet": "Until something is criminalised, criminal charges cannot be brought against anyone. It has to be criminalised through legislation, he says."
-    },
-    {
-      "title": "Jamaat urges EC to allow MPO-listed teachers in local body elections, bar AL leaders",
-      "link": "https://www.tbsnews.net/bangladesh/politics/jamaat-urges-ec-allow-mpo-listed-teachers-local-body-elections-bar-al-leaders",
-      "pubDate": "Tue, 01 Sep 2026 17:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/01/42a3669d-a946-48d8-ba41-d651a6f80613.jpg",
-      "snippet": "Jamaat also questioned EC neutrality and opposed politically affiliated local government administrators."
-    },
-    {
       "title": "NTRCA retains teacher recruitment role; registration exam to have 3 stages",
       "link": "https://www.tbsnews.net/bangladesh/education/ntrca-retains-teacher-recruitment-role-registration-exam-have-3-stages-1530326",
       "pubDate": "Tue, 01 Sep 2026 17:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/organization/logo/ntrca.jpg",
       "snippet": "The new system will take effect only after the education ministry approves the proposals and issues a circular."
-    },
-    {
-      "title": "Legal notice seeks verification of foreign citizenship of Khalilur, Humaiun",
-      "link": "https://www.tbsnews.net/bangladesh/court/legal-notice-seeks-verification-foreign-citizenship-khalilur-humaiun-1530346",
-      "pubDate": "Tue, 01 Sep 2026 17:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/01/khalilur_humaiun.jpg",
-      "snippet": "A Supreme Court lawyer has questioned the constitutional eligibility of the two ministers over alleged foreign citizenship or allegiance."
     },
     {
       "title": "Nothing about us, without us: Rohingya voices must be at the center of decisions that affect their lives and futures",
@@ -100,59 +287,15 @@
       "snippet": "Over the past nine years, countless programs, meetings, and webinars have taken place to discuss Rohingya issues — repatriation, protection, education, livelihoods — often without a single Rohingya participant in the room. When Rohingya representativ..."
     },
     {
-      "title": "August remittance inflow rises 22.5% YoY to $2.97b",
+      "title": "Remittance inflow rises to $2.97b in August",
       "link": "https://www.tbsnews.net/economy/bangladesh-gets-297-billion-remittances-august-1530306",
       "pubDate": "Tue, 01 Sep 2026 17:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/12/02/remittance.jpg",
       "snippet": "The country received $2.68 billion in remittances in August 2025."
-    },
-    {
-      "title": "BNP factions clash in Sitakunda over founding anniversary programme",
-      "link": "https://www.tbsnews.net/bangladesh/bnp-factions-clash-sitakunda-over-founding-anniversary-programme-1530316",
-      "pubDate": "Tue, 01 Sep 2026 17:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/01/sitakunda_clash.jpg",
-      "snippet": "Police deny gunfire allegations, saying only firecrackers were set off."
-    },
-    {
-      "title": "Gulshan flat fraud case: Tulip, ex-Rajuk legal adviser's charge-framing hearing deferred to 11 Jan",
-      "link": "https://www.tbsnews.net/bangladesh/court/gulshan-flat-fraud-case-tulip-ex-rajuk-legal-advisers-charge-framing-hearing",
-      "pubDate": "Tue, 01 Sep 2026 17:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/01/tulip_siddiq_1.jpg",
-      "snippet": "The hearing could not proceed as the High Court has stayed all proceedings in the case for a year following a quashing petition by co-accused Mosharraf Hossain."
-    },
-    {
-      "title": "Hormuz gridlock: QatarEnergy extends LNG supply suspension to Bangladesh till November",
-      "link": "https://www.tbsnews.net/bangladesh/energy/hormuz-gridlock-qatarenergy-extends-lng-supply-suspension-bangladesh-till-november",
-      "pubDate": "Tue, 01 Sep 2026 17:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/06/reuters_lng.jpg",
-      "snippet": "Cargo cancellations continue as shipping through Strait of Hormuz remains restricted."
-    },
-    {
-      "title": "President urges Ansar-VDP to play stronger role in security, nation-building",
-      "link": "https://www.tbsnews.net/bangladesh/president-urges-ansar-vdp-play-stronger-role-security-nation-building-1530296",
-      "pubDate": "Tue, 01 Sep 2026 17:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/01/president_ansar-vdp.jpg",
-      "snippet": "He stresses professionalism, discipline and technology-based training."
     },
     {
       "title": "𝐒𝐨𝐜𝐢𝐚𝐥 𝐌𝐞𝐝𝐢𝐚: 𝐀 s𝐢𝐥𝐞𝐧𝐭 c𝐫𝐢𝐬𝐢𝐬 𝐨𝐟 h𝐮𝐦𝐚𝐧𝐢𝐭𝐲 a𝐦𝐢𝐝 𝐭𝐡𝐞 d𝐢𝐠𝐢𝐭𝐚𝐥 n𝐨𝐢𝐬𝐞",
@@ -166,17 +309,6 @@
       "snippet": "From news and education to business, public awareness, and emergency communication, social media has made many aspects of life faster and more accessible. People who once had little opportunity to express their views publicly can now reach thousands,..."
     },
     {
-      "title": "LGRD minister for further strengthening Bangladesh-India ties",
-      "link": "https://www.tbsnews.net/bangladesh/lgrd-minister-further-strengthening-bangladesh-india-ties-1530276",
-      "pubDate": "Tue, 01 Sep 2026 16:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/01/lgrd_minister_dinesh_trivedi.jpg",
-      "snippet": "The two sides discussed expanding trade and economic cooperation, including a possible free trade arrangement, along with local government training and experience-sharing."
-    },
-    {
       "title": "The Malacca dilemma and Asia’s shifting trade balance of power",
       "link": "https://www.tbsnews.net/thoughts/malacca-dilemma-and-asias-shifting-trade-balance-power-1530281",
       "pubDate": "Tue, 01 Sep 2026 16:50:00 +0600",
@@ -186,17 +318,6 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/01/f5.png",
       "snippet": "As the US and China compete for control of the Indo-Pacific’s strategic waterways, Bangladesh is acquiring new geopolitical significance. The country’s challenge will be to navigate growing superpower pressure without being drawn into their rivalry"
-    },
-    {
-      "title": "Gor's Boeing remarks may have referred to earlier deal, says Shama Obaed",
-      "link": "https://www.tbsnews.net/bangladesh/gors-boeing-remarks-may-have-referred-earlier-deal-says-shama-obaed-1530266",
-      "pubDate": "Tue, 01 Sep 2026 16:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/shama_obayed.jpg",
-      "snippet": "Gor visited Bangladesh from 30 July to 1 August and met with Prime Minister Tarique Rahman to discuss the political and economic dynamics shaping Bangladesh-US relations."
     },
     {
       "title": "Measles: Death toll rises to 979 as 6 more die in 24 hrs",
@@ -219,61 +340,6 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/01/1st_sep_pr_4.jpg",
       "snippet": ""
-    },
-    {
-      "title": "Drones to strengthen security, surveillance along remote borders: Home minister",
-      "link": "https://www.tbsnews.net/bangladesh/drones-strengthen-security-surveillance-along-remote-borders-home-minister-1530241",
-      "pubDate": "Tue, 01 Sep 2026 15:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/01/789623253_1553561323177408_6200248139315116524_n.jpg",
-      "snippet": "Home Minister Salahuddin Ahmed said ensuring security through manpower is extremely difficult in remote and heavily forested border areas"
-    },
-    {
-      "title": "Nepal to overcome challenges with fortitude: State minister",
-      "link": "https://www.tbsnews.net/bangladesh/nepal-overcome-challenges-fortitude-humaiun-kobir-1530216",
-      "pubDate": "Tue, 01 Sep 2026 15:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/27/nepal_flood_3.jpg",
-      "snippet": "On behalf of the Government and people of Bangladesh, State Minister-1 for Foreign Affairs Humaiun Kobir extended heartfelt sympathies and condolences to the Government and friendly people of Nepal."
-    },
-    {
-      "title": "Not under any pressure, Bangladesh to purchase additional aircraft according to needs: Humaiun Kobir",
-      "link": "https://www.tbsnews.net/bangladesh/not-under-any-pressure-bangladesh-purchase-additional-aircraft-according-needs-humaiun",
-      "pubDate": "Tue, 01 Sep 2026 15:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/humaiun_kobir_.jpg",
-      "snippet": "Kobir said Bangladesh has clearly raised its concerns over the sentiments generated in the country following the events of 5 August."
-    },
-    {
-      "title": "Bangladesh's internal politics is not my place to comment on: Dinesh Trivedi",
-      "link": "https://www.tbsnews.net/foreign-policy/bangladeshs-internal-politics-not-my-place-comment-dinesh-trivedi-1530186",
-      "pubDate": "Tue, 01 Sep 2026 15:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/01/untitled_design_21.jpg",
-      "snippet": "He said Bangladesh’s people and their elected government know what is best for the country."
-    },
-    {
-      "title": "Fishermen caught in pirates' net, face up to Tk90,000 in extortion as Sundarbans reopens",
-      "link": "https://www.tbsnews.net/bangladesh/fishermen-caught-pirates-net-face-tk90000-extortion-sundarbans-reopens-1530171",
-      "pubDate": "Tue, 01 Sep 2026 14:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/01/785279967_1058368113708834_4316293644251650920_n.jpg",
-      "snippet": "Fishermen reportedly have to pay each gang Tk25,000–30,000 to obtain permission to enter the Sundarbans. This means paying between Tk75,000 and Tk90,000 per boat."
     },
     {
       "title": "Just transition must put workers at the centre: Experts",
@@ -785,10 +851,10 @@
       "title": "What risks do delayed remittance incentives pose to banks?",
       "link": "https://www.tbsnews.net/economy/banking/what-risks-do-delayed-remittance-incentives-pose-banks-1528261",
       "pubDate": "Sun, 30 Aug 2026 11:20:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/22/remittance-due.png",
       "snippet": "Bankers warn that prolonged arrears could reduce lenders’ willingness to invest in attracting remittances and put additional pressure on smaller and liquidity-constrained banks"
     },
@@ -796,10 +862,10 @@
       "title": "Banks under strain as Tk8,565cr remittance incentive stalls ",
       "link": "https://www.tbsnews.net/economy/banking/banks-under-strain-tk8565cr-remittance-incentive-remains-pending-1528166",
       "pubDate": "Sun, 30 Aug 2026 10:00:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/30/remittance-incentive.png",
       "snippet": "Under government policy, banks disburse a 2.5% cash incentive to expatriate Bangladeshis on incoming remittances on behalf of the state."
     },
@@ -813,29 +879,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/20/health_minister_sardar_shakhawat.jpg",
       "snippet": "Dialysis facilities planned for every district-level hospital"
-    },
-    {
-      "title": "Bangladesh-made seat-trim covers find way into Japan’s Honda, Suzuki",
-      "link": "https://www.tbsnews.net/economy/bangladesh-made-seat-trim-covers-find-way-japans-honda-suzuki-1528161",
-      "pubDate": "Sun, 30 Aug 2026 07:30:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/30/p3_lead_20260815_rajibdhar_0598.jpg",
-      "snippet": "The Bangladesh factory currently produces about 206,000 seat-trim cover units a year, and the company plans to maintain roughly the same level of production next year"
-    },
-    {
-      "title": "Maersk keen to invest in Bangladesh's shipbuilding industry",
-      "link": "https://www.tbsnews.net/economy/industry/maersk-keen-invest-bangladeshs-shipbuilding-industry-1527961",
-      "pubDate": "Sat, 29 Aug 2026 20:45:00 +0600",
-      "category": "Industry",
-      "color": "#f57c00",
-      "bg": "#fff3e0",
-      "icon": "🏭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/08/31/maersk.jpg",
-      "snippet": "Danish shipping giant also discusses potential investment in the country’s ship recycling sector."
     }
   ],
-  "updatedAt": "2026-09-01T12:40:34.466Z"
+  "updatedAt": "2026-09-01T17:10:40.558Z"
 }
