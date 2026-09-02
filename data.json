@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Can a tribunal correct records of alluvion land?",
+      "link": "https://www.tbsnews.net/thoughts/can-tribunal-correct-records-alluvion-land-1530821",
+      "pubDate": "Wed, 02 Sep 2026 05:55:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/02/thoughts_copy.png",
+      "snippet": "A Land Survey Tribunal can resolve alluvion-land disputes and correct survey records by examining historical ownership, possession and statutory compliance"
+    },
+    {
+      "title": "Is gas shortage the only reason behind the electricity crisis?",
+      "link": "https://www.tbsnews.net/thoughts/gas-shortage-only-reason-behind-electricity-crisis-1530816",
+      "pubDate": "Wed, 02 Sep 2026 05:50:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/02/energy_mumitm-4437_0_0_0_1.jpg",
+      "snippet": "A fire at Moheshkhali and a liquid fuel shortage have been blamed for Bangladesh's deepening electricity crisis — but the real problem is a power sector that has spent years building capacity it cannot afford to run, accumulating debt it cannot repay..."
+    },
+    {
       "title": "Hydrogen sulphide in ballast water went undetected, triggering shipbreaking yard tragedy: Probes",
       "link": "https://www.tbsnews.net/bangladesh/hydrogen-sulphide-ballast-water-went-undetected-triggering-shipbreaking-yard-tragedy",
       "pubDate": "Wed, 02 Sep 2026 01:05:00 +0600",
@@ -243,17 +265,6 @@
       "snippet": "It gave the accused 15 days to respond to the charges."
     },
     {
-      "title": "Man behind proposed 81-foot Ram idol in Gaibandha shown arrested in flat fraud case, denied bail",
-      "link": "https://www.tbsnews.net/bangladesh/court/man-behind-proposed-81-foot-ram-idol-gaibandha-shown-arrested-flat-fraud-case",
-      "pubDate": "Tue, 01 Sep 2026 19:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/01/haridas_gaibandha.jpg",
-      "snippet": "He has been in jail since July in a Tk9.35 crore money-laundering case filed by the CID."
-    },
-    {
       "title": "BSEC to bring back direct listing after 16 years for big firms",
       "link": "https://www.tbsnews.net/economy/bsec-bring-back-direct-listing-after-16-years-big-firms-1530481",
       "pubDate": "Tue, 01 Sep 2026 19:00:00 +0600",
@@ -263,6 +274,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/15/bsec_stock.jpg",
       "snippet": "Draft rules would allow eligible firms to list without an IPO."
+    },
+    {
+      "title": "Man behind proposed 81-foot Ram idol in Gaibandha shown arrested in flat fraud case, denied bail",
+      "link": "https://www.tbsnews.net/bangladesh/court/man-behind-proposed-81-foot-ram-idol-gaibandha-shown-arrested-flat-fraud-case",
+      "pubDate": "Tue, 01 Sep 2026 19:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/01/haridas_gaibandha.jpg",
+      "snippet": "He has been in jail since July in a Tk9.35 crore money-laundering case filed by the CID."
     },
     {
       "title": "Bangladesh risks falling behind without adapting to global change: Khosru",
@@ -903,5 +925,5 @@
       "snippet": "Dialysis facilities planned for every district-level hospital"
     }
   ],
-  "updatedAt": "2026-09-01T22:43:48.525Z"
+  "updatedAt": "2026-09-02T00:50:42.552Z"
 }
