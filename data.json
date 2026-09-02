@@ -1,92 +1,246 @@
 {
   "news": [
     {
-      "title": "Ziaul Ahsan had bodies dismembered and weighted with cement bags before dumping in river, witness tells ICT",
-      "link": "https://www.tbsnews.net/bangladesh/court/ziaul-ahsan-had-bodies-dismembered-and-weighted-cement-bags-dumping-river-witness",
-      "pubDate": "Wed, 02 Sep 2026 19:55:00 +0600",
+      "title": "Nahid objects to all 8 questions for PM coming from BNP MPs in parliament",
+      "link": "https://www.tbsnews.net/bangladesh/politics/nahid-objects-all-8-questions-pm-coming-bnp-mps-parliament-1531956",
+      "pubDate": "Wed, 02 Sep 2026 21:55:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/23/ziaul_ahsan.jpg",
-      "snippet": "The prosecution witness described alleged killings at river and said he later lost contact with his brother after the latter was summoned by RAB personnel."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/30/nahid.png",
+      "snippet": "Opposition chief whip says excluding opposition lawmakers from the questions undermines parliamentary accountability."
+    },
+    {
+      "title": "18,000 customers seek to withdraw Tk1,300cr from Sammilito Islami Bank",
+      "link": "https://www.tbsnews.net/economy/banking/18000-customers-seek-tk1300cr-sammilito-islami-bank-1531946",
+      "pubDate": "Wed, 02 Sep 2026 21:55:00 +0600",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/30/sammilito_islami_bank.jpg",
+      "snippet": "Verified depositors can start receiving their principal from 7 September, according to the bank."
+    },
+    {
+      "title": "Sports to be added to Class 4-5 curriculum next year: Bobby Hajjaj",
+      "link": "https://www.tbsnews.net/bangladesh/education/sports-be-added-class-4-5-curriculum-next-year-bobby-hajjaj-1531936",
+      "pubDate": "Wed, 02 Sep 2026 21:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/bobby_hajjaj.jpg",
+      "snippet": "The government plans to fully integrate sports education into the primary curriculum from 2028 and encourage students to pursue sports as a career"
+    },
+    {
+      "title": "Parliamentary committees recommend changes to human rights, enforced disappearance bills",
+      "link": "https://www.tbsnews.net/bangladesh/parliamentary-committees-recommend-changes-human-rights-enforced-disappearance-bills",
+      "pubDate": "Wed, 02 Sep 2026 21:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/parliament_house.jpg",
+      "snippet": "Opposition objects to scrutiny process as committee recommends minority ethnic group representatives in NHRC and changes definition of enforced disappearance."
+    },
+    {
+      "title": "Kamruzzaman appointed public administration secy, Ehsanul moved to Planning Commission",
+      "link": "https://www.tbsnews.net/bangladesh/kamruzzaman-appointed-public-administration-secy-ehsanul-moved-planning-commission",
+      "pubDate": "Wed, 02 Sep 2026 21:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/02/kamruzzaman_and_ehsanul.png",
+      "snippet": "Kamruzzaman was serving as Health Services Division secretary on a contractual basis, while Ehsanul was the public administration ministry’s senior secretary."
+    },
+    {
+      "title": "Police raid several areas of Sitakunda to arrest men seen displaying firearms during BNP clash",
+      "link": "https://www.tbsnews.net/bangladesh/crime/police-raid-several-areas-sitakunda-arrest-men-seen-displaying-firearms-during-bnp",
+      "pubDate": "Wed, 02 Sep 2026 21:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/02/4810d96d-0529-405a-9b84-5377626b6705.jpg",
+      "snippet": "Three people, including two youths seen displaying firearms, have been identified in connection with the incident, police say."
+    },
+    {
+      "title": "President to visit Thakurgaon on 6 Sept",
+      "link": "https://www.tbsnews.net/bangladesh/president-visit-thakurgaon-6-sept-1531916",
+      "pubDate": "Wed, 02 Sep 2026 21:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/27/president_mirza_fakhrul_islam_alamgir.jpg",
+      "snippet": "This will be the president's first visit to his home district since assuming office."
+    },
+    {
+      "title": "Zahid Ahsan resigns as Jatiya Chhatra Shakti president",
+      "link": "https://www.tbsnews.net/bangladesh/politics/zahid-ahsan-resigns-jatiya-chhatra-shakti-president-1531906",
+      "pubDate": "Wed, 02 Sep 2026 21:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/02/zahid_ahsan.jpg",
+      "snippet": "Senior Vice-President Ahsan Labib takes charge as acting president; first council scheduled for 12 September."
+    },
+    {
+      "title": "Speaker annoyed by lawmakers' conversations, mobile phone use in House",
+      "link": "https://www.tbsnews.net/bangladesh/speaker-annoyed-lawmakers-conversations-mobile-phone-use-house-1531901",
+      "pubDate": "Wed, 02 Sep 2026 21:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/02/speaker.png",
+      "snippet": "He urged lawmakers to maintain discipline in the chamber and refrain from talking among themselves while another member speaks."
+    },
+    {
+      "title": "Philippines seeks Bangladesh's cooperation in pharmaceuticals sector  ",
+      "link": "https://www.tbsnews.net/economy/industry/philippines-seeks-bangladeshs-cooperation-pharmaceuticals-sector-1531891",
+      "pubDate": "Wed, 02 Sep 2026 21:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/02/philippines_ambassador_health_minister.jpg",
+      "snippet": "The envoy says they import around 67% of their total medicines from Western countries, so they sought cooperation from Bangladesh in the sector."
+    },
+    {
+      "title": "Govt to sign $1b IsDB loan deal for Eastern Refinery expansion tomorrow",
+      "link": "https://www.tbsnews.net/economy/energy/govt-sign-1b-isdb-loan-deal-eastern-refinery-expansion-tomorrow-1531851",
+      "pubDate": "Wed, 02 Sep 2026 20:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/08/29/eastern.jpg",
+      "snippet": "The loan was approved at a meeting of the Standing Committee on Non-Concessional Loan (SCNCL), chaired by Finance Minister Amir Khosru Mahmud Chowdhury, on 7 July."
+    },
+    {
+      "title": "Tonu murder: Interpol issues Red Notices against two ex-army personnel, police say",
+      "link": "https://www.tbsnews.net/bangladesh/crime/tonu-murder-interpol-issues-red-notices-against-two-former-army-personnel-1531861",
+      "pubDate": "Wed, 02 Sep 2026 20:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/06/ds-29-02-04-2016.jpg",
+      "snippet": "Both suspects remain absconding as PBI pursues DNA match."
+    },
+    {
+      "title": "National Committee on Climate Finance formed with PM as chairman",
+      "link": "https://www.tbsnews.net/bangladesh/environment/national-committee-climate-finance-formed-pm-chairman-1531871",
+      "pubDate": "Wed, 02 Sep 2026 20:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/02/prime_minister_tarique_rahman.jpg",
+      "snippet": "The committee will hold meetings at least twice a year."
+    },
+    {
+      "title": "Law on AI use to be enacted after expert review: Minister",
+      "link": "https://www.tbsnews.net/bangladesh/law-ai-use-be-enacted-after-expert-review-minister-1531836",
+      "pubDate": "Wed, 02 Sep 2026 20:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/13/md._asaduzzaman.jpg",
+      "snippet": "Experts’ recommendations will shape the draft before it is placed before parliament."
+    },
+    {
+      "title": "Tarique still bears scars of torture suffered during 1/11 regime: Rumon",
+      "link": "https://www.tbsnews.net/bangladesh/politics/tarique-still-bears-scars-torture-suffered-during-111-regime-rumon-1531831",
+      "pubDate": "Wed, 02 Sep 2026 20:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/02/rumon.jpg",
+      "snippet": "Our leader Tarique Rahman wants to leave those painful memories behind and move forward with the development of the country, he says."
+    },
+    {
+      "title": "ACC finds complaints of death certificates issued for money during surprise raid at Kushtia General Hospital",
+      "link": "https://www.tbsnews.net/bangladesh/health/acc-conducts-undercover-operation-kushtia-general-hospital-over-irregularities",
+      "pubDate": "Wed, 02 Sep 2026 20:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/02/1000267215.jpg",
+      "snippet": "ACC probe follows complaints of patient harassment, overcharging and hospital irregularities."
+    },
+    {
+      "title": "US team to inspect Bangladesh drug, food makers for GMP compliance: Titumir",
+      "link": "https://www.tbsnews.net/bangladesh/us-team-inspect-bangladesh-drug-food-makers-gmp-compliance-titumir-1531786",
+      "pubDate": "Wed, 02 Sep 2026 20:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/02/for_web_rashed_al_mahmud_titumir.png",
+      "snippet": "Mandatory extortion payments also a form of tax: National Professor Mahbub Ullah."
+    },
+    {
+      "title": "4 more police officers dismissed over prolonged unauthorised absence",
+      "link": "https://www.tbsnews.net/bangladesh/4-more-police-officers-dismissed-over-prolonged-unauthorised-absence-1531766",
+      "pubDate": "Wed, 02 Sep 2026 20:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/25/police_logo.jpg",
+      "snippet": "The orders, issued by order of the president, took immediate effect."
+    },
+    {
+      "title": "Govt intensifies gas exploration, plans to curb system loss: Minister ",
+      "link": "https://www.tbsnews.net/economy/energy/govt-intensifies-gas-exploration-plans-curb-system-loss-minister-1531751",
+      "pubDate": "Wed, 02 Sep 2026 20:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/02/gas_exploration.jpg",
+      "snippet": "Govt plans extensive 2D and 3D seismic surveys to explore domestic gas resources, he says."
+    },
+    {
+      "title": "Rangpur four murders: Police interrogate accused for 2nd day, say mystery close to being solved",
+      "link": "https://www.tbsnews.net/bangladesh/crime/rangpur-four-murders-police-interrogate-accused-2nd-day-say-mystery-close-being",
+      "pubDate": "Wed, 02 Sep 2026 20:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/rangpur_murder.jpg",
+      "snippet": "A three-member Detective Branch (DB) team questioned Siddhartha Das and Mugdha Das at the gate of Rangpur Central Jail for three hours on each of the two days following a court order."
+    },
+    {
+      "title": "4 policemen withdrawn over 'rape' of woman on moving train",
+      "link": "https://www.tbsnews.net/bangladesh/crime/4-policemen-withdrawn-over-rape-woman-moving-train-1531736",
+      "pubDate": "Wed, 02 Sep 2026 20:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/02/42d9bbd0-1078-4c2d-8ffa-edcdafad3ab9.jpg",
+      "snippet": "A two-member committee has been formed to determine whether the officers were involved in the alleged assault, extortion and unauthorised search of the woman."
     },
     {
       "title": "Govt to train Qawmi madrasah students for jobs at home, abroad: PM",
       "link": "https://www.tbsnews.net/bangladesh/education/govt-train-qawmi-madrasah-students-jobs-home-abroad-pm-1531726",
       "pubDate": "Wed, 02 Sep 2026 19:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/prime_minister_tarique_rahman.jpg",
       "snippet": "Religious education is already part of the regular curriculum and may be further developed, PM says."
-    },
-    {
-      "title": "137 fake Facebook accounts using PM Tarique's name, photos identified: State minister",
-      "link": "https://www.tbsnews.net/bangladesh/137-fake-facebook-accounts-using-pm-tariques-name-photos-identified-state-minister",
-      "pubDate": "Wed, 02 Sep 2026 19:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/yasser_khan.png",
-      "snippet": "More than 300 Facebook and 100 X accounts spreading false and misleading information have also been identified, he says."
-    },
-    {
-      "title": "Affected people must be resettled before Phulbari open-pit mining starts: PM",
-      "link": "https://www.tbsnews.net/bangladesh/affected-people-must-be-resettled-phulbari-open-pit-mining-pm-1531666",
-      "pubDate": "Wed, 02 Sep 2026 19:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/03/1659169815-unb_newswire.jpg",
-      "snippet": "Tarique Rahman says the government will weigh livelihoods and environmental concerns before deciding whether to extract Phulbari’s high-quality coal."
-    },
-    {
-      "title": "Training, support to be ensured to make women self-reliant: Zahid",
-      "link": "https://www.tbsnews.net/bangladesh/training-support-be-ensured-make-women-self-reliant-zahid-1531641",
-      "pubDate": "Wed, 02 Sep 2026 19:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/02/dr_a_z_m_zahid_hossain.png",
-      "snippet": "He said that in the future, government assistance would be provided to relevant associations and organizations based on an assessment of field-level performance and efficiency."
-    },
-    {
-      "title": "Hannan Masud questions media freedom, govt says media 'most free'",
-      "link": "https://www.tbsnews.net/bangladesh/politics/hannan-masud-questions-media-freedom-govt-says-media-most-free-1531631",
-      "pubDate": "Wed, 02 Sep 2026 19:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/02/hannan_yasser_khan.png",
-      "snippet": "The Noakhali-6 MP raises concerns over reports being removed and media outlets facing cyberattacks; state minister denies government interference."
-    },
-    {
-      "title": "Power situation expected to improve within next 15 days: State minister",
-      "link": "https://www.tbsnews.net/economy/energy/power-situation-expected-improve-within-next-15-days-state-minister-1531596",
-      "pubDate": "Wed, 02 Sep 2026 18:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/load_shedding_0.jpg",
-      "snippet": "The government is taking several measures to increase power generation, including bringing the Payra and Matarbari power plants back to full capacity and raising generation from furnace oil-based plants to as much as 4,000MW."
-    },
-    {
-      "title": "Andaleeve urges unity beyond political differences for country's progress",
-      "link": "https://www.tbsnews.net/bangladesh/andaleeve-urges-unity-beyond-political-differences-countrys-progress-1531586",
-      "pubDate": "Wed, 02 Sep 2026 18:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/02/andaleeve_rahman.png",
-      "snippet": "\"We have to overcome this situation. So now, rising above party affiliations and differences of opinion, we will take the country forward towards progress,\" he said."
     },
     {
       "title": "Govt cancels contractual appointments of Agrani, BASIC and BDBL MDs",
@@ -98,39 +252,6 @@
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/02/logo_collage_3_banks.jpg",
       "snippet": "The move comes as the government seeks to overhaul management of state-owned banks amid wider financial sector reforms."
-    },
-    {
-      "title": "Writ filed challenging legal protection for July fighters",
-      "link": "https://www.tbsnews.net/bangladesh/court/writ-challenging-legal-protection-july-fighters-1531536",
-      "pubDate": "Wed, 02 Sep 2026 18:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/19/high_courtt.png",
-      "snippet": "The petition seeks an explanation from the court as to why such protection should not be declared illegal when it is given without constitutional reform."
-    },
-    {
-      "title": "Govt appoints panel lawyers in 11 Bangladesh missions to protect migrant workers",
-      "link": "https://www.tbsnews.net/bangladesh/govt-appoints-panel-lawyers-11-bangladesh-missions-protect-migrant-workers-1531516",
-      "pubDate": "Wed, 02 Sep 2026 18:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/02/migrant_worker.png",
-      "snippet": "Welfare services for migrant workers abroad have also been strengthened, says the prime minister."
-    },
-    {
-      "title": "Bangladesh now has 64 GI products: Industries minister",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-now-has-64-gi-products-industries-minister-1531481",
-      "pubDate": "Wed, 02 Sep 2026 18:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/05/muktadir-1771544088.jpg",
-      "snippet": "Savar’s traditional sweet is not among the 64 products registered as geographical indication goods in Bangladesh, he says."
     },
     {
       "title": "Dengue: 5 more deaths, 1,110 hospitalised in 24 hours",
@@ -147,23 +268,12 @@
       "title": "Govt plans to recruit over 30,000 assistant teachers for primary schools: Bobby Hajjaj",
       "link": "https://www.tbsnews.net/bangladesh/education/govt-plans-recruit-over-30000-assistant-teachers-primary-schools-bobby-hajjaj",
       "pubDate": "Wed, 02 Sep 2026 18:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/bobby_hajjaj.jpg",
       "snippet": "The government is also planning a ‘speaking test’ to assess children’s communication skills and strengthen child-centred learning."
-    },
-    {
-      "title": "12kg LPG cylinder price cut by Tk13 to Tk1,585",
-      "link": "https://www.tbsnews.net/economy/energy/12kg-lpg-cylinder-price-cut-tk13-tk1585-1531486",
-      "pubDate": "Wed, 02 Sep 2026 18:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/10/06/sap_8025_1.jpg",
-      "snippet": "The price of autogas used in vehicles has also been cut by Tk0.58 per litre to Tk73.09."
     },
     {
       "title": "Bottled soybean oil price rises Tk5 to Tk204 per litre",
@@ -177,81 +287,15 @@
       "snippet": "Loose soybean and palm oil prices remain unchanged as bottled soybean oil rises to Tk204 per litre."
     },
     {
-      "title": "Govt plans local drone production, reviews military cyber security policy",
-      "link": "https://www.tbsnews.net/bangladesh/govt-plans-local-drone-production-reviews-military-cyber-security-policy-1531406",
-      "pubDate": "Wed, 02 Sep 2026 17:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/04/17/drone-4995487_1920.jpg",
-      "snippet": "The initiatives are part of efforts to strengthen defence preparedness against emerging security threats."
-    },
-    {
       "title": "Minister Iqbal Hassan hospitalised with fever, breathing difficulty; doctors say condition now stable",
       "link": "https://www.tbsnews.net/bangladesh/health/minister-iqbal-hassan-hospitalised-fever-breathing-difficulty-doctors-say",
       "pubDate": "Wed, 02 Sep 2026 17:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/06/tuku_bnp.png",
       "snippet": "The minister needs to remain in the hospital for a few more days for comprehensive treatment and close monitoring, doctors say."
-    },
-    {
-      "title": "Govt planning 10-yr energy, power roadmap to support $1t economy by 2034",
-      "link": "https://www.tbsnews.net/bangladesh/pm-unveils-10-year-energy-power-roadmap-support-1tn-economy-2034-1531376",
-      "pubDate": "Wed, 02 Sep 2026 17:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/01/pm_tarique_rahman.jpg",
-      "snippet": "Tarique says the long-term plan is under review and will be placed in parliament once finalized."
-    },
-    {
-      "title": "Rooftop solar investors may earn up to 45% returns under new govt incentive",
-      "link": "https://www.tbsnews.net/bangladesh/energy/rooftop-solar-investors-may-earn-45-returns-under-new-govt-incentive-1531336",
-      "pubDate": "Wed, 02 Sep 2026 17:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/11/28/kepz_rooftop_solar_power_project-_3.jpg",
-      "snippet": "The government has also set minimum standards for imported lithium batteries."
-    },
-    {
-      "title": "Ziaul Ahsan seeks exemption from handcuffs, helmet during tribunal transfers",
-      "link": "https://www.tbsnews.net/bangladesh/court/ziaul-ahsan-seeks-exemption-handcuffs-helmet-during-tribunal-transfers-1531281",
-      "pubDate": "Wed, 02 Sep 2026 16:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/23/ziaul_ahsan.jpg",
-      "snippet": "Prosecutor says the security measures are under jail authorities’ jurisdiction; tribunal advises him to file a formal application."
-    },
-    {
-      "title": "President urges swift steps to resolve RMG sector problems",
-      "link": "https://www.tbsnews.net/bangladesh/president-urges-swift-steps-resolve-rmg-sector-problems-1531266",
-      "pubDate": "Wed, 02 Sep 2026 16:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/02/president_bgmea.jpg",
-      "snippet": "The government is working to resolve the mismanagement and irregularities that have persisted in the garment industry for a long time, he says."
-    },
-    {
-      "title": "Govt plans 600 mmcfd boost in LNG imports within two years",
-      "link": "https://www.tbsnews.net/bangladesh/energy/govt-plans-600-mmcfd-boost-lng-imports-within-two-years-1531231",
-      "pubDate": "Wed, 02 Sep 2026 16:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/12/lng_supply_1.jpg",
-      "snippet": "A new floating terminal in Maheshkhali is expected to start supplying gas by December 2028."
     },
     {
       "title": "GPA-5 Scouts to get separate scheme; Tk5cr more to be added to budget: Milon",
@@ -262,7 +306,7 @@
       "bg": "#fff3e0",
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/09/edu-min-69d758d07f498.jpg",
-      "snippet": "He said scouting helps students develop leadership, discipline, a sense of justice and patriotism, while also fostering a spirit of sacrifice for the country."
+      "snippet": "Primary-level sports, social activities integrated to curb drug abuse, moral decline."
     },
     {
       "title": "Measles death toll reaches 983 as 4 more children die in 24 hours",
@@ -912,73 +956,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/02/27/foreign-exchange-2-1.jpg",
       "snippet": "The dollar exchange rate rose to Tk123.50 on Thursday from Tk122 ten days earlier, giving businesses that hedged their future payments an advantage, according to treasury officials at several commercial banks"
-    },
-    {
-      "title": "Special allowance planned for teachers in remote areas: Bobby Hajjaj",
-      "link": "https://www.tbsnews.net/bangladesh/education/special-allowance-planned-teachers-remote-areas-bobby-hajjaj-1528971",
-      "pubDate": "Sun, 30 Aug 2026 22:05:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/bobby_hajjaj.jpg",
-      "snippet": "The government plans to introduce a ‘Science Toy’ programme in primary schools on a pilot basis."
-    },
-    {
-      "title": "The Mecca Pact: A new era of strategic defense without division",
-      "link": "https://www.tbsnews.net/thoughts/mecca-pact-new-era-strategic-defense-without-division-1528976",
-      "pubDate": "Sun, 30 Aug 2026 22:05:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/26/untitled_design_7.jpg",
-      "snippet": "The Mecca Pact marks a shift toward regional self-reliance, bringing Saudi Arabia, Pakistan and Turkey closer on defence while reshaping the strategic balance across the Muslim world."
-    },
-    {
-      "title": "58,720 complaints pile up as e-commerce claims reach Tk3,869cr ",
-      "link": "https://www.tbsnews.net/economy/58720-complaints-pile-e-commerce-claims-reach-tk3869cr-1528881",
-      "pubDate": "Sun, 30 Aug 2026 21:10:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/28/most-widely-used-e-commerce-apps-worldwide.png",
-      "snippet": "Muktadir says the government has introduced the National Digital Commerce Policy, Digital Commerce Operation Guidelines and Digital Business Identification (DBID) registration guidelines to strengthen oversight and transparency in the sector."
-    },
-    {
-      "title": "Battery maker JiuZhou Industry accused of Tk318cr VAT evasion",
-      "link": "https://www.tbsnews.net/economy/industry/battery-maker-jiuzhou-industry-accused-tk318cr-vat-evasion-1528901",
-      "pubDate": "Sun, 30 Aug 2026 21:10:00 +0600",
-      "category": "Industry",
-      "color": "#f57c00",
-      "bg": "#fff3e0",
-      "icon": "🏭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/30/784249656_1226928896284337_4992577043340440691_n.jpg",
-      "snippet": "NBR says the company concealed information to evade VAT."
-    },
-    {
-      "title": "Bangladesh Bank net profit rises to Tk25,977cr in FY26",
-      "link": "https://www.tbsnews.net/economy/banking/bangladesh-bank-net-profit-rises-tk25977cr-fy26-1528866",
-      "pubDate": "Sun, 30 Aug 2026 20:50:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/07/30/bangladesh_bank.jpg",
-      "snippet": "Central bank’s earnings increased by Tk3,357 crore year-on-year."
-    },
-    {
-      "title": "Loan interest for Tk13,000cr agri refinancing schemes capped at 7%",
-      "link": "https://www.tbsnews.net/economy/banking/loan-interest-tk13000cr-agri-refinancing-schemes-capped-7-1528861",
-      "pubDate": "Sun, 30 Aug 2026 20:45:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/08/20/bangladesh_paddy_field_4.jpeg",
-      "snippet": "The central bank sets 3% refinancing rate for banks under a Tk10,000cr agriculture scheme and a Tk3,000cr fund for an agriculture-based special economic hub in the north."
     }
   ],
-  "updatedAt": "2026-09-02T14:07:44.879Z"
+  "updatedAt": "2026-09-02T17:58:56.475Z"
 }
