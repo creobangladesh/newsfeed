@@ -1,6 +1,61 @@
 {
   "news": [
     {
+      "title": "OpenAI says upcoming model is so capable it requires stronger guardrails",
+      "link": "https://www.tbsnews.net/tech/openai-says-upcoming-model-so-capable-it-requires-stronger-guardrails-1530901",
+      "pubDate": "Wed, 02 Sep 2026 10:50:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/01/openai.jpg",
+      "snippet": "Astra is the first OpenAI model to trigger the tougher safeguards mandated by the company's safety protocol, a threshold that, until now, had remained theoretical."
+    },
+    {
+      "title": "Why cenbank's special rescheduling package fails to fix default loan problems",
+      "link": "https://www.tbsnews.net/economy/banking/why-cenbanks-special-rescheduling-package-fails-fix-default-loan-problems-1530846",
+      "pubDate": "Wed, 02 Sep 2026 10:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/05/11/bangladesh_bank.jpg",
+      "snippet": "Bangladesh Bank on Monday allows defaulters with loans of over Tk1,000 crore to reschedule their loans for 15 years instead of 10, with a two-year grace period."
+    },
+    {
+      "title": "John Ternus takes over as Apple enters era of AI, foldable phones",
+      "link": "https://www.tbsnews.net/tech/john-ternus-takes-over-apple-enters-era-ai-foldable-phones-1530871",
+      "pubDate": "Wed, 02 Sep 2026 10:00:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/02/john_ternus.jpg",
+      "snippet": "Ternus, 51, joined Apple's design team in 2001 and worked his way up to senior vice president of hardware engineering,"
+    },
+    {
+      "title": "Mecca Pact: A strategic opportunity, only if Dhaka sets the terms ",
+      "link": "https://www.tbsnews.net/features/panorama/mecca-pact-strategic-opportunity-only-if-dhaka-sets-terms-1530856",
+      "pubDate": "Wed, 02 Sep 2026 09:35:00 +0600",
+      "category": "Analysis",
+      "color": "#5d4037",
+      "bg": "#efebe9",
+      "icon": "🔍",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/02/mecca_pact.png",
+      "snippet": "Only with safeguards addressing the risks it brings can the Mecca Pact become a managed strategic asset for Bangladesh rather than a gamble"
+    },
+    {
+      "title": "Daily trips to double by 2050: Chattogram plans Tk3,400cr modern bus, traffic network",
+      "link": "https://www.tbsnews.net/bangladesh/infrastructure/chattogram-city-plans-tk3400cr-bus-rail-waterway-network-1530826",
+      "pubDate": "Wed, 02 Sep 2026 07:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/03/26/ctg_road_7.jpg",
+      "snippet": "To meet the growing demand, the Chattogram Development Authority (CDA) has proposed an integrated public transport system combining around 700 modern buses, commuter rail and water buses instead of costly metro rail"
+    },
+    {
       "title": "Can a tribunal correct records of alluvion land?",
       "link": "https://www.tbsnews.net/thoughts/can-tribunal-correct-records-alluvion-land-1530821",
       "pubDate": "Wed, 02 Sep 2026 05:55:00 +0600",
@@ -274,28 +329,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/15/bsec_stock.jpg",
       "snippet": "Draft rules would allow eligible firms to list without an IPO."
-    },
-    {
-      "title": "Man behind proposed 81-foot Ram idol in Gaibandha shown arrested in flat fraud case, denied bail",
-      "link": "https://www.tbsnews.net/bangladesh/court/man-behind-proposed-81-foot-ram-idol-gaibandha-shown-arrested-flat-fraud-case",
-      "pubDate": "Tue, 01 Sep 2026 19:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/01/haridas_gaibandha.jpg",
-      "snippet": "He has been in jail since July in a Tk9.35 crore money-laundering case filed by the CID."
-    },
-    {
-      "title": "Bangladesh risks falling behind without adapting to global change: Khosru",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-risks-falling-behind-without-adapting-global-change-khosru-1530451",
-      "pubDate": "Tue, 01 Sep 2026 18:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/29/khasru.png",
-      "snippet": "He urged students to strengthen Bangladesh’s research and innovation capacity to keep pace with rapid global changes,"
     },
     {
       "title": "Dhaka Board sets 15 November deadline for 2027 SSC test results",
@@ -890,40 +923,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/30/health_minister_sardar_faridpur.jpg",
       "snippet": "Health Minister Sardar Md Sakhawat Husain toured various wards and spoke directly with admitted patients to check on medical care, drug supplies, food quality, and sanitation at the complex"
-    },
-    {
-      "title": "What risks do delayed remittance incentives pose to banks?",
-      "link": "https://www.tbsnews.net/economy/banking/what-risks-do-delayed-remittance-incentives-pose-banks-1528261",
-      "pubDate": "Sun, 30 Aug 2026 11:20:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/22/remittance-due.png",
-      "snippet": "Bankers warn that prolonged arrears could reduce lenders’ willingness to invest in attracting remittances and put additional pressure on smaller and liquidity-constrained banks"
-    },
-    {
-      "title": "Banks under strain as Tk8,565cr remittance incentive stalls ",
-      "link": "https://www.tbsnews.net/economy/banking/banks-under-strain-tk8565cr-remittance-incentive-remains-pending-1528166",
-      "pubDate": "Sun, 30 Aug 2026 10:00:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/30/remittance-incentive.png",
-      "snippet": "Under government policy, banks disburse a 2.5% cash incentive to expatriate Bangladeshis on incoming remittances on behalf of the state."
-    },
-    {
-      "title": "Nationwide measles vaccination will be held again in 3 weeks: Health minister",
-      "link": "https://www.tbsnews.net/bangladesh/health/nationwide-measles-vaccination-will-be-held-again-3-weeks-health-minister-1528196",
-      "pubDate": "Sun, 30 Aug 2026 09:45:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/20/health_minister_sardar_shakhawat.jpg",
-      "snippet": "Dialysis facilities planned for every district-level hospital"
     }
   ],
-  "updatedAt": "2026-09-02T00:50:42.552Z"
+  "updatedAt": "2026-09-02T05:28:22.060Z"
 }
