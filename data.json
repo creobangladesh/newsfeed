@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "Police constable killed, 10 hurt in Madaripur road accident",
+      "link": "https://www.tbsnews.net/bangladesh/police-constable-killed-10-hurt-madaripur-road-accident-1533056",
+      "pubDate": "Fri, 04 Sep 2026 01:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/28/dead_2.png",
+      "snippet": "The accident occurred around 2.30 pm on the Madaripur-Shariatpur road."
+    },
+    {
+      "title": "Tannery waste: From pollution burden to Tk3,000cr opportunity",
+      "link": "https://www.tbsnews.net/bangladesh/tannery-waste-pollution-burden-tk3000cr-opportunity-1533051",
+      "pubDate": "Fri, 04 Sep 2026 01:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/07/25/dtannery-mumitm-5.jpg",
+      "snippet": "Properly processing tannery waste into value-added products could unlock Tk2,000-3,000 crore in annual revenue, experts say."
+    },
+    {
+      "title": "RAB member among 5 held while 'preparing for robbery' in Banani",
+      "link": "https://www.tbsnews.net/bangladesh/crime/rab-member-among-5-held-while-preparing-robbery-banani-1533046",
+      "pubDate": "Fri, 04 Sep 2026 00:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/04/db_arrests_rab_and_others.jpg",
+      "snippet": "Police also recovered a foreign pistol, police-marked handcuffs, a walkie-talkie and a Hiace from them."
+    },
+    {
       "title": "15,717 children reported missing in seven months; 2,038 still missing",
       "link": "https://www.tbsnews.net/bangladesh/15717-children-reported-missing-seven-months-2038-still-missing-1533041",
       "pubDate": "Fri, 04 Sep 2026 00:40:00 +0600",
@@ -208,39 +241,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/08/irene_khan.png",
       "snippet": "Irene Khan says justice, equality, human rights and women’s leadership are vital to building a lasting culture of peace."
-    },
-    {
-      "title": "TIB wants debate before passage of rights, enforced disappearance bills",
-      "link": "https://www.tbsnews.net/bangladesh/tib-wants-debate-passage-rights-enforced-disappearance-bills-1532911",
-      "pubDate": "Thu, 03 Sep 2026 21:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/07/tib.jpg",
-      "snippet": "The lack of full financial independence would also undermine the commission’s effectiveness, says TIB Executive Director Dr Iftekharuzzaman."
-    },
-    {
-      "title": "Govt signs agreements with 22 law firms of 13 countries to protect women workers: Nurul Haque",
-      "link": "https://www.tbsnews.net/bangladesh/govt-signs-agreements-22-law-firms-13-countries-protect-women-workers-nurul-haque-1532931",
-      "pubDate": "Thu, 03 Sep 2026 21:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/03/speaker_1.png",
-      "snippet": "He said the government operates two \"safe homes\" in Saudi Arabia with funding from the Ministry of Expatriates' Welfare and Overseas Employment to protect women workers."
-    },
-    {
-      "title": "3 bills placed in JS: Opposition objects to proposed RAB replacement",
-      "link": "https://www.tbsnews.net/bangladesh/bill-proposing-creation-srb-replacing-rab-placed-parliament-1532891",
-      "pubDate": "Thu, 03 Sep 2026 21:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/12/15/reuters.png",
-      "snippet": "Opposition Chief Whip Nahid Islam objected to the bill’s introduction, saying RAB had become nationally and internationally controversial."
     },
     {
       "title": "BB widens access to finance against Offshore Banking Unit-held foreign currency deposits",
@@ -1000,18 +1000,7 @@
       "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/01/photon_matrix_mosquito_killer.png",
       "snippet": "Unlike some existing mosquito-detection products, the Photon Matrix device is designed to physically eliminate insects using its laser"
-    },
-    {
-      "title": "United Healthcare begins regular robotic surgery in Bangladesh",
-      "link": "https://www.tbsnews.net/bangladesh/health/united-healthcare-begins-regular-robotic-surgery-bangladesh-1529881",
-      "pubDate": "Tue, 01 Sep 2026 01:20:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/07/09/bmu_robot.gif",
-      "snippet": "The robotic system provides high-definition 3D visualisation and instruments with 360-degree movement, allowing greater precision in confined anatomical areas, less tissue damage and potentially faster recovery."
     }
   ],
-  "updatedAt": "2026-09-03T19:08:02.648Z"
+  "updatedAt": "2026-09-03T21:49:13.213Z"
 }
