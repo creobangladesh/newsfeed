@@ -1,6 +1,50 @@
 {
   "news": [
     {
+      "title": "OpenAI launches new Astra model amid growing scrutiny over agents' safety",
+      "link": "https://www.tbsnews.net/tech/openai-launches-new-astra-model-amid-growing-scrutiny-over-agents-safety-1533691",
+      "pubDate": "Sat, 05 Sep 2026 00:15:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/08/02/photo_reuters.jpg",
+      "snippet": "New model promises faster task execution but raises monitoring concerns"
+    },
+    {
+      "title": "Govt committed to creating sustainable jobs, safe working environment: Mahdi",
+      "link": "https://www.tbsnews.net/bangladesh/politics/govt-committed-creating-sustainable-jobs-safe-working-environment-mahdi-1533706",
+      "pubDate": "Fri, 04 Sep 2026 23:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/05/prime-ministers-labour-and-employment-adviser-mahdi-amin-spoke-at-a-symposium-at-a-city-hotel-on-decent-work-and-social-protection.jpg",
+      "snippet": "Adviser outlines plans for skills, women’s empowerment and labour rights"
+    },
+    {
+      "title": "President mourns death of Tojammel Hossain Khan",
+      "link": "https://www.tbsnews.net/bangladesh/obituary/president-mourns-death-tojammel-hossain-khan-1533681",
+      "pubDate": "Fri, 04 Sep 2026 23:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/president_fakhrul.jpg",
+      "snippet": ""
+    },
+    {
+      "title": "Religious harmony Bangladesh's tradition, no scope for division: Muktadir",
+      "link": "https://www.tbsnews.net/bangladesh/religious-harmony-bangladeshs-tradition-no-scope-division-muktadir-1533671",
+      "pubDate": "Fri, 04 Sep 2026 22:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/04/commerce_industries_textiles_and_jute_minister_khandakar_abdul_muktadir.jpg",
+      "snippet": "Commerce, Industries, Textiles and Jute Minister Khandakar Abdul Muktadir says there is no scope for religious division in Bangladesh and urges people to uphold unity and equal rights."
+    },
+    {
       "title": "7 'members of theft ring' held in Chattogram, Tk15 lakh and gold recovered",
       "link": "https://www.tbsnews.net/bangladesh/7-members-theft-ring-held-chattogram-tk15-lakh-and-gold-recovered-1533626",
       "pubDate": "Fri, 04 Sep 2026 22:00:00 +0600",
@@ -230,39 +274,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/04/a_mother_takes_care_of_her_child.jpg",
       "snippet": "One more suspected measles death and 1,114 new suspected cases were reported in the 24 hours to 8am, according to DGHS data."
-    },
-    {
-      "title": "Asaduzzaman urges Hindu community to unite against injustice, evil forces",
-      "link": "https://www.tbsnews.net/bangladesh/asaduzzaman-urges-hindu-community-unite-against-injustice-evil-forces-1533466",
-      "pubDate": "Fri, 04 Sep 2026 18:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/04/law_justice_and_parliamentary_affairs_minister_md_asaduzzaman.jpg",
-      "snippet": "Law Minister Md Asaduzzaman says the government will ensure citizens can celebrate religious festivals safely and without hindrance, while taking action against attempts to create disorder."
-    },
-    {
-      "title": "No need for minority identities; we are all Bangladeshis: Home minister",
-      "link": "https://www.tbsnews.net/bangladesh/no-need-minority-identities-we-are-all-bangladeshis-home-minister-1533461",
-      "pubDate": "Fri, 04 Sep 2026 18:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/04/home_minister_salahuddin_ahmed.jpg",
-      "snippet": "Salahuddin calls for religious and social harmony"
-    },
-    {
-      "title": "Police attacked in Ctg raid to arrest listed criminal ‘Boga’",
-      "link": "https://www.tbsnews.net/bangladesh/crime/police-attacked-ctg-raid-arrest-listed-criminal-boga-1533441",
-      "pubDate": "Fri, 04 Sep 2026 18:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/04/chittagong.jpg",
-      "snippet": "Police say Boga escaped through a secret tunnel during raid"
     },
     {
       "title": "Edible oil shortage hits consumers as egg, veggie prices soar",
@@ -758,29 +769,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/02/energy_mumitm-4437_0_0_0_1.jpg",
       "snippet": "A fire at Moheshkhali and a liquid fuel shortage have been blamed for Bangladesh's deepening electricity crisis — but the real problem is a power sector that has spent years building capacity it cannot afford to run, accumulating debt it cannot repay..."
-    },
-    {
-      "title": "Cenbank buys $50m from banks after 3-month pause amid falling rate",
-      "link": "https://www.tbsnews.net/economy/banking/cenbank-buys-50m-banks-after-3-month-pause-amid-falling-rate-1530771",
-      "pubDate": "Tue, 01 Sep 2026 23:50:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/12/02/remittance.jpg",
-      "snippet": "The purchase from four commercial banks was the central bank’s first since 20 May."
-    },
-    {
-      "title": "An open letter to Messi: Goodbye to the football I grew up with",
-      "link": "https://www.tbsnews.net/thoughts/open-letter-messi-goodbye-football-i-grew-1530761",
-      "pubDate": "Tue, 01 Sep 2026 22:50:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/messi_lifting_trophy.jpeg",
-      "snippet": "I did not choose Argentina first; I chose Messi. Now that he has walked away from international football, I am left saying goodbye to a part of the childhood I grew up with."
     }
   ],
-  "updatedAt": "2026-09-04T16:44:58.756Z"
+  "updatedAt": "2026-09-04T19:18:46.556Z"
 }
