@@ -1,6 +1,226 @@
 {
   "news": [
     {
+      "title": "3 sent to jail after remand over headteacher's death in mugging near parliament ",
+      "link": "https://www.tbsnews.net/bangladesh/court/3-sent-jail-after-remand-over-headteachers-death-mugging-near-parliament-1534221",
+      "pubDate": "Sat, 05 Sep 2026 20:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/05/778779227_1366154645231801_8077822527566118864_n.jpg",
+      "snippet": "The three suspects were arrested two days after the headteacher died following an snatching attempt near parliament."
+    },
+    {
+      "title": "Dengue: 2 more die, 988 hospitalised in 24 hours",
+      "link": "https://www.tbsnews.net/bangladesh/health/dengue-2-more-die-988-hospitalised-24-hours-1534211",
+      "pubDate": "Sat, 05 Sep 2026 20:10:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/07/dengue.jpg",
+      "snippet": "Dengue death toll reaches 113 as cases cross 41,000."
+    },
+    {
+      "title": "4 killed as covered van collides head-on with CNG-run autorickshaw in Gazipur",
+      "link": "https://www.tbsnews.net/bangladesh/4-killed-covered-van-collides-head-cng-run-autorickshaw-gazipur-1534201",
+      "pubDate": "Sat, 05 Sep 2026 19:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/05/gazipur_kaliakair_road_accident.jpg",
+      "snippet": "A mother and her teenage son were among the dead"
+    },
+    {
+      "title": "Eastern Refinery to be modernised with refining capacity trebling to 45 lakh tonnes",
+      "link": "https://www.tbsnews.net/economy/industry/eastern-refinery-be-modernized-refining-capacity-trebling-45-lakh-tonnes-1534186",
+      "pubDate": "Sat, 05 Sep 2026 19:50:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/08/29/eastern.jpg",
+      "snippet": "Prime Minister Tarique Rahman and IsDB Group Chairman Dr Muhammad Al Jasser were present at the signing ceremony."
+    },
+    {
+      "title": "Beyond seismic zones: Rethinking banking data resilience ",
+      "link": "https://www.tbsnews.net/thoughts/beyond-seismic-zones-rethinking-banking-data-resilience-1534181",
+      "pubDate": "Sat, 05 Sep 2026 19:50:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/05/2tbczh6auzngnalydo4w267adi_1.jpg",
+      "snippet": "Banking regulators need to rethink what “different seismic zones” should mean for data centres and disaster recovery sites, moving beyond building codes to focus on data continuity and operational resilience"
+    },
+    {
+      "title": "Probe body formed against Dr Jahangir Kabir's institution over diabetes patient's death",
+      "link": "https://www.tbsnews.net/bangladesh/probe-body-formed-against-dr-jahangir-kabirs-institution-over-diabetes-patients-death",
+      "pubDate": "Sat, 05 Sep 2026 19:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/05/jahangir_kabir.png",
+      "snippet": "Six-member panel to examine allegations over insulin withdrawal advice."
+    },
+    {
+      "title": "Officials who were with 'fascists' must be removed from the administration: MP Shahjahan",
+      "link": "https://www.tbsnews.net/bangladesh/officials-who-were-fascists-must-be-removed-administration-mp-shahjahan-1534151",
+      "pubDate": "Sat, 05 Sep 2026 19:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/05/jamaat_central_working_committee_member_and_chattogram-15_lawmaker_shahjahan_chowdhury.jpg",
+      "snippet": "The Jamaat leader says reform is impossible while officials accused of repression remain in service."
+    },
+    {
+      "title": "Crude bomb blast at Shariatpur house injures woman, damages three homes",
+      "link": "https://www.tbsnews.net/bangladesh/crude-bomb-blast-shariatpur-house-injures-woman-damages-three-homes-1534136",
+      "pubDate": "Sat, 05 Sep 2026 19:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/05/crude_bomb_shariatpur.jpg",
+      "snippet": "Woman hospitalised after bombs explode inside kitchen"
+    },
+    {
+      "title": "'Don't want to make excuses': PM apologises over energy crisis",
+      "link": "https://www.tbsnews.net/bangladesh/pm-tarique-apologises-ongoing-fuel-crisis-1534126",
+      "pubDate": "Sat, 05 Sep 2026 19:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/05/793899703_1976801846336124_4538292949241436548_n.jpg",
+      "snippet": "The prime minister says the government is working on a plan to prevent future energy shortages."
+    },
+    {
+      "title": "Two Chinese nationals found dead at Uttara residential hotels ",
+      "link": "https://www.tbsnews.net/bangladesh/crime/two-chinese-nationals-found-dead-uttara-residential-hotels-1534121",
+      "pubDate": "Sat, 05 Sep 2026 19:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/28/dead_2.png",
+      "snippet": "Police suspect excessive drinking in one case; second identity unknown"
+    },
+    {
+      "title": "Global uncertainty is reshaping the world. Is Bangladesh ready?",
+      "link": "https://www.tbsnews.net/thoughts/global-uncertainty-reshaping-world-bangladesh-ready-1534116",
+      "pubDate": "Sat, 05 Sep 2026 19:10:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/05/inflation.png",
+      "snippet": "Geopolitical conflict, trade fragmentation, inflation and climate shocks are exposing vulnerabilities across the global economy. For Bangladesh, building resilience will require stronger macroeconomic management, diversified exports, productive inves..."
+    },
+    {
+      "title": "When a man disappears: Miraj Sheikh, state custody and the test of constitutional accountability",
+      "link": "https://www.tbsnews.net/thoughts/when-man-disappears-miraj-sheikh-state-custody-and-test-constitutional-accountability",
+      "pubDate": "Sat, 05 Sep 2026 19:05:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/05/enforced_disappearance.jpg",
+      "snippet": "Miraj Sheikh, 30, was allegedly picked up by a team of Bangladesh Coast Guard personnel on the night of 10 April, which has, however, been denied by the force. The case has become particularly significant in the post-Hasina period. It raises a questi..."
+    },
+    {
+      "title": "Political consensus needed to implement July Charter referendum verdict: Speakers",
+      "link": "https://www.tbsnews.net/bangladesh/political-consensus-needed-implement-july-charter-referendum-verdict-speakers-1534101",
+      "pubDate": "Sat, 05 Sep 2026 18:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/05/speakers_on_july_charter_referendum_verdict.jpg",
+      "snippet": "Speakers call for fundamental constitutional reform and say political parties must take clearer, more effective steps to fulfil the aspirations raised by the July Uprising."
+    },
+    {
+      "title": "Measles: Death toll reaches 991 as 4 more children die in 24hrs",
+      "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-991-4-more-children-die-24hrs-1534081",
+      "pubDate": "Sat, 05 Sep 2026 18:40:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/26/measles.jpg",
+      "snippet": "The country recorded 843 new suspected measles cases during the 24-hour period."
+    },
+    {
+      "title": "Inclusive progress to ensure dignity, fairness for working people: Mahdi Amin",
+      "link": "https://www.tbsnews.net/bangladesh/inclusive-progress-ensure-dignity-fairness-working-people-mahdi-amin-1534076",
+      "pubDate": "Sat, 05 Sep 2026 18:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/05/adviser_to_the_prime_minister_for_labour_and_employment_and_expatriates_welfare_and_overseas_employment_mahdi_amin.jpg",
+      "snippet": "Adviser Mahdi Amin stresses skills development, workplace safety and fair opportunities to improve workers’ welfare and strengthen the economy."
+    },
+    {
+      "title": "Bangladeshi tourists struggle in Kolkata amid mass lodging closure, soaring tariffs",
+      "link": "https://www.tbsnews.net/bangladesh/bangladeshi-tourists-struggle-kolkata-amid-mass-lodging-closure-soaring-tariffs-1534071",
+      "pubDate": "Sat, 05 Sep 2026 18:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/05/kolkata_hotel_fire.jpg",
+      "snippet": "Remaining hotels are reportedly charging up to twice their usual rates, while patients and their families struggle to find affordable accommodation."
+    },
+    {
+      "title": "Hijra community leader’s body recovered in Chattogram",
+      "link": "https://www.tbsnews.net/bangladesh/hijra-community-leaders-body-recovered-chattogram-1534056",
+      "pubDate": "Sat, 05 Sep 2026 18:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/07/9077771.jpg",
+      "snippet": "Mousumi was found unresponsive at her Ambagan residence"
+    },
+    {
+      "title": "271 sued over attack on Ctg police during raid to arrest top criminal 'Boga'",
+      "link": "https://www.tbsnews.net/bangladesh/crime/271-sued-over-attack-ctg-police-during-raid-arrest-top-criminal-boga-1534051",
+      "pubDate": "Sat, 05 Sep 2026 18:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/05/789424283_2586678518460775_5530735077030135432_n.jpg",
+      "snippet": "Five to six police personnel were injured in the clash."
+    },
+    {
+      "title": "IGP urges students to become honest, humane",
+      "link": "https://www.tbsnews.net/bangladesh/igp-urges-students-become-honest-humane-1534041",
+      "pubDate": "Sat, 05 Sep 2026 17:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/05/inspector_general_of_police_md_ali_hossain_fakir.jpg",
+      "snippet": "IGP Md Ali Hossain Fakir says merit can help students advance, but honesty, humanity and moral values make them truly great."
+    },
+    {
+      "title": "11-party alliance plotting to create instability: Swapon",
+      "link": "https://www.tbsnews.net/bangladesh/politics/11-party-alliance-plotting-create-instability-swapon-1534031",
+      "pubDate": "Sat, 05 Sep 2026 17:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/05/prime_ministers_political_adviser_zahir_uddin_swapon.png",
+      "snippet": "Prime Minister’s Political Adviser Zahir Uddin Swapon accuses the Jamaat-led 11-party alliance of seeking to create instability through street programmes and urges political issues to be addressed in Parliament."
+    },
+    {
       "title": "'My wife assaulted me': Narayanganj SI withdrawn after video showing him drunk goes viral",
       "link": "https://www.tbsnews.net/bangladesh/my-wife-assaulted-me-narayanganj-si-withdrawn-after-video-showing-him-drunk-goes-viral",
       "pubDate": "Sat, 05 Sep 2026 17:20:00 +0600",
@@ -8,7 +228,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/05/si_narayanganj.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/05/si_narayanganj2.jpg",
       "snippet": "Police say the officer, who allegedly admitted drinking alcohol, has been suffering from mental-health difficulties due to family problems."
     },
     {
@@ -21,6 +241,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/oli_ahmad.jpg",
       "snippet": "He also recalled his 2022 remarks warning then-prime minister Sheikh Hasina about the consequences of delaying her departure from power."
+    },
+    {
+      "title": "'Mini Bangladesh' eyes revival after two years of closure and neglect",
+      "link": "https://www.tbsnews.net/bangladesh/mini-bangladesh-eyes-revival-after-two-years-closure-and-neglect-1534026",
+      "pubDate": "Sat, 05 Sep 2026 17:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/05/mini_bd-1.jpg",
+      "snippet": "Chattogram district administration begins cleaning drive as authorities discuss repairs and reopening of the long-neglected tourist attraction."
     },
     {
       "title": "PM to champion 'Bangladesh First' agenda at upcoming UNGA: Shama",
@@ -56,156 +287,35 @@
       "snippet": "Earlier, around 8am, workers stopped four Dhaka-bound Desh Travels buses and three National Travels buses at a Natore counter. All seven buses had departed from Rajshahi."
     },
     {
-      "title": "Govt plans multistoried residential complexes for judicial officers",
-      "link": "https://www.tbsnews.net/bangladesh/govt-plans-multistoried-residential-complexes-judicial-officers-1533956",
-      "pubDate": "Sat, 05 Sep 2026 14:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/05/law.jpg",
-      "snippet": "According to the letter, around 30 to 50 judges of different ranks are currently working in civil and criminal courts and various special tribunals in each district."
-    },
-    {
-      "title": "Man killed after being hit by train at Karwan Bazar",
-      "link": "https://www.tbsnews.net/bangladesh/man-killed-after-being-hit-train-karwan-bazar-1533941",
-      "pubDate": "Sat, 05 Sep 2026 14:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/28/dead_2.png",
-      "snippet": "Kader said the man was crossing the railway tracks when he was hit by a moving train."
-    },
-    {
-      "title": "Bangladesh Navy chief leaves for Saudi Arabia on official visit",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-navy-chief-leaves-saudi-arabia-official-visit-1533936",
-      "pubDate": "Sat, 05 Sep 2026 13:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/05/khondkar_misbah_ul_azim.jpg",
-      "snippet": "The visit is expected to further strengthen the existing mutual cooperation and fraternal ties between Bangladesh and Saudi Arabia."
-    },
-    {
-      "title": "No possibility of PM's India visit before UNGA session: State minister",
-      "link": "https://www.tbsnews.net/bangladesh/no-possibility-pms-india-visit-unga-session-state-minister-1533896",
-      "pubDate": "Sat, 05 Sep 2026 13:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/06/9dc4856d-f0ef-4679-a492-8ba5fec05d88.jpg",
-      "snippet": "State Minister for Foreign Affairs Humayun Kabir said that discussions on the visit are ongoing and its dates have not yet been finalised."
-    },
-    {
-      "title": "Early winter vegetables bring new hopes to northern farmers",
-      "link": "https://www.tbsnews.net/agriculture/early-winter-vegetables-bring-new-hopes-northern-farmers-1533861",
-      "pubDate": "Sat, 05 Sep 2026 12:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/05/agri_northern.jpg",
-      "snippet": "Producing vegetables before the peak winter season allows them to target higher prices, but it also exposes their crops to unpredictable rainfall, pests and diseases."
-    },
-    {
-      "title": "Rain likely in parts of the country in next 24 hours",
-      "link": "https://www.tbsnews.net/bangladesh/environment/rain-likely-parts-country-next-24-hours-1533846",
-      "pubDate": "Sat, 05 Sep 2026 12:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/27/rain_bss_img.jpg",
-      "snippet": "The highest temperature recorded yesterday was 34.5 degrees Celsius in Rajshahi, while today's minimum temperature was 23.7 degrees Celsius in Sylhet."
-    },
-    {
-      "title": "Tk3,542cr housing project proposed for govt officials at Sher-e-Bangla Nagar",
-      "link": "https://www.tbsnews.net/bangladesh/infrastructure/tk3542cr-housing-project-proposed-govt-officials-sher-e-bangla-nagar",
-      "pubDate": "Sat, 05 Sep 2026 12:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/05/housing.jpg",
-      "snippet": "According to the meeting documents, the project will involve constructing 1,512 modern flats in 42 buildings of different sizes in Sher-e-Bangla Nagar."
-    },
-    {
       "title": "Four years after opening, Super Specialised Hospital heads for corporate model",
       "link": "https://www.tbsnews.net/bangladesh/health/four-years-after-opening-super-specialised-hospital-heads-corporate-model-1533796",
       "pubDate": "Sat, 05 Sep 2026 10:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/06/hospital_representational_freepik.jpg",
       "snippet": "The 750-bed facility in Dhaka’s Shahbagh was inaugurated in September 2022 to provide advanced treatment to patients who otherwise travel abroad. However, it could not become fully operational due to shortages of doctors and support staff and the abs..."
-    },
-    {
-      "title": "Farmer injured in alleged gunshot along Feni border",
-      "link": "https://www.tbsnews.net/bangladesh/farmer-injured-alleged-gunshot-along-feni-border-1533786",
-      "pubDate": "Sat, 05 Sep 2026 10:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/08/21/screenshot_2025-08-21_072628.png",
-      "snippet": "He was taken to Chattogram Medical College Hospital for treatment."
-    },
-    {
-      "title": "Jamaat's Taher leaves Cumilla Circuit House over termites in allocated room",
-      "link": "https://www.tbsnews.net/bangladesh/jamaats-taher-leaves-cumilla-circuit-house-over-termites-allocated-room-1533776",
-      "pubDate": "Sat, 05 Sep 2026 10:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/01/01/taher.jpg",
-      "snippet": "According to party sources, around 10pm last night, when Taher went to rest in the 'Radhachura-202' room, he found numerous termites throughout it"
-    },
-    {
-      "title": "Movement to continue until 18cr people's rights secured, says Shafiqur, as Jamaat-led alliance begins march towards Ctg",
-      "link": "https://www.tbsnews.net/bangladesh/movement-will-continue-until-rights-18cr-people-are-secured-jamaat-ameer-1533766",
-      "pubDate": "Sat, 05 Sep 2026 10:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/05/jamaat_e_ameer.jpg",
-      "snippet": "The Jamaat-led 11-party alliance began a march from Dhaka to Chattogram at around 8:30am."
     },
     {
       "title": "How Bangladesh became an energy-importing nation despite early warnings",
       "link": "https://www.tbsnews.net/analysis/how-bangladesh-became-energy-importing-nation-despite-early-warnings-1533751",
       "pubDate": "Sat, 05 Sep 2026 10:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Analysis",
+      "color": "#5d4037",
+      "bg": "#efebe9",
+      "icon": "🔍",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/05/p_1_bangladeshs_energy_security.png",
       "snippet": "While fuel imports brought temporary relief and benefited a select group of businesspeople, their prolonged use and lack of focus on long-term solutions failed to ultimately benefit the nation, leaving Bangladesh steadily inching towards its 2030-31 ..."
-    },
-    {
-      "title": "Jamaat-led opposition coalition launches march towards Ctg from Shapla Chattar over 6 demands ",
-      "link": "https://www.tbsnews.net/bangladesh/politics/jamaat-led-opposition-coalition-launches-march-towards-ctg-shapla-chattar-over-6",
-      "pubDate": "Sat, 05 Sep 2026 09:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/05/793901251_1377361060679234_7523163279582266999_n.jpg",
-      "snippet": "The bloc is demanding the implementation of the 12 February referendum verdict, justice for the July killings and action on a range of economic and governance issues."
     },
     {
       "title": "Chattogram Customs revenue jumps 29% in August after July slump",
       "link": "https://www.tbsnews.net/economy/chattogram-customs-revenue-jumps-29-august-after-july-slump-1533756",
       "pubDate": "Sat, 05 Sep 2026 09:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/06/24/ctg_customs.jpg",
       "snippet": "Jul-Aug revenue Tk7,512cr short of target despite rebound."
     },
@@ -213,10 +323,10 @@
       "title": "Financing crunch hits agri-machinery imports, slowing mechanisation",
       "link": "https://www.tbsnews.net/economy/financing-crunch-hits-agri-machinery-imports-slowing-mechanisation-1533711",
       "pubDate": "Sat, 05 Sep 2026 07:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/05/16/ctg_port_2_1.png",
       "snippet": "With more funds tied up in LCs, traders with limited capital say they can no longer import the volumes they need"
     },
@@ -582,62 +692,7 @@
       "icon": "🏭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/02/philippines_ambassador_health_minister.jpg",
       "snippet": "The envoy says they import around 67% of their total medicines from Western countries, so they sought cooperation from Bangladesh in the sector."
-    },
-    {
-      "title": "ACC finds complaints of death certificates issued for money during surprise raid at Kushtia General Hospital",
-      "link": "https://www.tbsnews.net/bangladesh/health/acc-conducts-undercover-operation-kushtia-general-hospital-over-irregularities",
-      "pubDate": "Wed, 02 Sep 2026 20:35:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/02/1000267215.jpg",
-      "snippet": "ACC probe follows complaints of patient harassment, overcharging and hospital irregularities."
-    },
-    {
-      "title": "Govt to train Qawmi madrasah students for jobs at home, abroad: PM",
-      "link": "https://www.tbsnews.net/bangladesh/education/govt-train-qawmi-madrasah-students-jobs-home-abroad-pm-1531726",
-      "pubDate": "Wed, 02 Sep 2026 19:55:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/prime_minister_tarique_rahman.jpg",
-      "snippet": "Religious education is already part of the regular curriculum and may be further developed, PM says."
-    },
-    {
-      "title": "Govt cancels contractual appointments of Agrani, BASIC and BDBL MDs",
-      "link": "https://www.tbsnews.net/economy/banking/govt-cancels-contractual-appointments-agrani-basic-and-bdbl-mds-1531566",
-      "pubDate": "Wed, 02 Sep 2026 18:40:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/02/logo_collage_3_banks.jpg",
-      "snippet": "The move comes as the government seeks to overhaul management of state-owned banks amid wider financial sector reforms."
-    },
-    {
-      "title": "Dengue: 5 more deaths, 1,110 hospitalised in 24 hours",
-      "link": "https://www.tbsnews.net/bangladesh/health/dengue-5-more-deaths-1110-hospitalised-24-hours-1531471",
-      "pubDate": "Wed, 02 Sep 2026 18:10:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/07/dengue.jpg",
-      "snippet": "The latest deaths take the year’s dengue toll to 107."
-    },
-    {
-      "title": "Govt plans to recruit over 30,000 assistant teachers for primary schools: Bobby Hajjaj",
-      "link": "https://www.tbsnews.net/bangladesh/education/govt-plans-recruit-over-30000-assistant-teachers-primary-schools-bobby-hajjaj",
-      "pubDate": "Wed, 02 Sep 2026 18:05:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/bobby_hajjaj.jpg",
-      "snippet": "The government is also planning a ‘speaking test’ to assess children’s communication skills and strengthen child-centred learning."
     }
   ],
-  "updatedAt": "2026-09-05T11:40:27.146Z"
+  "updatedAt": "2026-09-05T14:41:24.411Z"
 }
