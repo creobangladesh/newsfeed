@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Financing crunch hits agri-machinery imports, slowing mechanisation",
+      "link": "https://www.tbsnews.net/economy/financing-crunch-hits-agri-machinery-imports-slowing-mechanisation-1533711",
+      "pubDate": "Sat, 05 Sep 2026 07:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/05/16/ctg_port_2_1.png",
+      "snippet": "With more funds tied up in LCs, traders with limited capital say they can no longer import the volumes they need"
+    },
+    {
       "title": "OpenAI launches new Astra model amid growing scrutiny over agents' safety",
       "link": "https://www.tbsnews.net/tech/openai-launches-new-astra-model-amid-growing-scrutiny-over-agents-safety-1533691",
       "pubDate": "Sat, 05 Sep 2026 00:15:00 +0600",
@@ -268,10 +279,10 @@
       "title": "Bangladesh logs one more suspected measles death",
       "link": "https://www.tbsnews.net/bangladesh/health/bangladesh-logs-one-more-suspected-measles-death-1533471",
       "pubDate": "Fri, 04 Sep 2026 19:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/04/a_mother_takes_care_of_her_child.jpg",
       "snippet": "One more suspected measles death and 1,114 new suspected cases were reported in the 24 hours to 8am, according to DGHS data."
     },
@@ -747,29 +758,7 @@
       "icon": "🔍",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/02/mecca_pact.png",
       "snippet": "Only with safeguards addressing the risks it brings can the Mecca Pact become a managed strategic asset for Bangladesh rather than a gamble"
-    },
-    {
-      "title": "Can a tribunal correct records of alluvion land?",
-      "link": "https://www.tbsnews.net/thoughts/can-tribunal-correct-records-alluvion-land-1530821",
-      "pubDate": "Wed, 02 Sep 2026 05:55:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/02/thoughts_copy.png",
-      "snippet": "A Land Survey Tribunal can resolve alluvion-land disputes and correct survey records by examining historical ownership, possession and statutory compliance"
-    },
-    {
-      "title": "Is gas shortage the only reason behind the electricity crisis?",
-      "link": "https://www.tbsnews.net/thoughts/gas-shortage-only-reason-behind-electricity-crisis-1530816",
-      "pubDate": "Wed, 02 Sep 2026 05:50:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/02/energy_mumitm-4437_0_0_0_1.jpg",
-      "snippet": "A fire at Moheshkhali and a liquid fuel shortage have been blamed for Bangladesh's deepening electricity crisis — but the real problem is a power sector that has spent years building capacity it cannot afford to run, accumulating debt it cannot repay..."
     }
   ],
-  "updatedAt": "2026-09-04T23:45:16.883Z"
+  "updatedAt": "2026-09-05T03:13:20.174Z"
 }
