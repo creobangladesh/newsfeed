@@ -1,7 +1,62 @@
 {
   "news": [
     {
-      "title": "Current govt walking the same path as previous 'fascist' regime: Jamaat Ameer",
+      "title": "Bir Shreshtha Noor Mohammad's 55th martyrdom anniversary observed",
+      "link": "https://www.tbsnews.net/bangladesh/bir-shreshtha-noor-mohammads-55th-martyrdom-anniversary-observed-1534396",
+      "pubDate": "Sun, 06 Sep 2026 00:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/06/1db27d87-97a3-4306-a41a-b0dd0dfec06a.jpg",
+      "snippet": "Noor Mohammad Sheikh embraced martyrdom while fighting Pakistani occupation forces during the Liberation War."
+    },
+    {
+      "title": "Hasan Mahmud stars with seven wickets as Kent beat Worcestershire by 84 runs",
+      "link": "https://www.tbsnews.net/sports/hasan-mahmud-stars-seven-wickets-kent-beat-worcestershire-84-runs-1534401",
+      "pubDate": "Sun, 06 Sep 2026 00:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/06/hasan-mahmud.jpg",
+      "snippet": "Bangladesh pacer takes four wickets in first innings, three in second"
+    },
+    {
+      "title": "Grocery for waste: Initiative seeks to engage citizens in keeping Dhaka clean",
+      "link": "https://www.tbsnews.net/bangladesh/grocery-waste-initiative-seeks-engage-citizens-keeping-dhaka-clean-1534391",
+      "pubDate": "Sat, 05 Sep 2026 23:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/06/797005743_4560061864222989_6634084845459744513_n.jpg",
+      "snippet": "Bidyanondo Foundation earns Tk1cr by selling plastic waste in two years."
+    },
+    {
+      "title": "Six killed in separate CNG-run auto-rickshaw accidents in Gazipur, Chattogram",
+      "link": "https://www.tbsnews.net/bangladesh/six-killed-separate-cng-run-auto-rickshaw-accidents-gazipur-chattogram-1534386",
+      "pubDate": "Sat, 05 Sep 2026 23:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/19/accident.jpg",
+      "snippet": "Four people were killed in Gazipur and two in Chattogram in separate CNG-run auto-rickshaw crashes."
+    },
+    {
+      "title": "Govt plans expansion of National Gastro-Liver Institute",
+      "link": "https://www.tbsnews.net/bangladesh/health/govt-plans-expansion-national-gastro-liver-institute-1534381",
+      "pubDate": "Sat, 05 Sep 2026 23:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/05/1753558106_68852c5ab1619.jpg",
+      "snippet": "He proposed incorporating the expansion into the “Establishment of 500-Bedded Medical College Hospital and Ancillary Building in Jashore, Cox’s Bazar, Pabna and Noakhali (Proposed 2nd Revision)” project."
+    },
+    {
+      "title": "Shafiqur vows movement until people’s rights secured as Jamaat-led alliance completes Dhaka-Ctg march",
       "link": "https://www.tbsnews.net/bangladesh/current-govt-walking-same-path-previous-fascist-regime-jamaat-ameer-1534371",
       "pubDate": "Sat, 05 Sep 2026 22:10:00 +0600",
       "category": "Bangladesh",
@@ -177,14 +232,14 @@
       "snippet": "Banking regulators need to rethink what “different seismic zones” should mean for data centres and disaster recovery sites, moving beyond building codes to focus on data continuity and operational resilience"
     },
     {
-      "title": "Probe body formed against Dr Jahangir Kabir's institution over diabetes patient's death",
-      "link": "https://www.tbsnews.net/bangladesh/probe-body-formed-against-dr-jahangir-kabirs-institution-over-diabetes-patients-death",
+      "title": "Probe launched over alleged malpractice in treatment after diabetic patient dies",
+      "link": "https://www.tbsnews.net/bangladesh/probe-launched-over-alleged-malpractice-treatment-after-diabetic-patient-dies-1534171",
       "pubDate": "Sat, 05 Sep 2026 19:35:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/05/jahangir_kabir.png",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/05/logo-of-health-revolution-ltd.jpg",
       "snippet": "Six-member panel to examine allegations over insulin withdrawal advice."
     },
     {
@@ -218,18 +273,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/05/793899703_1976801846336124_4538292949241436548_n.jpg",
-      "snippet": "The prime minister says the government is working on a plan to prevent future energy shortages."
-    },
-    {
-      "title": "Two Chinese nationals found dead at Uttara residential hotels ",
-      "link": "https://www.tbsnews.net/bangladesh/crime/two-chinese-nationals-found-dead-uttara-residential-hotels-1534121",
-      "pubDate": "Sat, 05 Sep 2026 19:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/28/dead_2.png",
-      "snippet": "Police suspect excessive drinking in one case, while the cause of death of the other man remains unknown."
+      "snippet": "Some political parties trying to create anarchy by exploiting crises, he says"
     },
     {
       "title": "Global uncertainty is reshaping the world. Is Bangladesh ready?",
@@ -254,17 +298,6 @@
       "snippet": "Miraj Sheikh, 30, was allegedly picked up by a team of Bangladesh Coast Guard personnel on the night of 10 April, which has, however, been denied by the force. The case has become particularly significant in the post-Hasina period. It raises a questi..."
     },
     {
-      "title": "Political consensus needed to implement July Charter referendum verdict: Speakers",
-      "link": "https://www.tbsnews.net/bangladesh/political-consensus-needed-implement-july-charter-referendum-verdict-speakers-1534101",
-      "pubDate": "Sat, 05 Sep 2026 18:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/05/speakers_on_july_charter_referendum_verdict.jpg",
-      "snippet": "Speakers call for fundamental constitutional reform and say political parties must take clearer, more effective steps to fulfil the aspirations raised by the July Uprising."
-    },
-    {
       "title": "Measles: Death toll reaches 991 as 4 more children die in 24hrs",
       "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-991-4-more-children-die-24hrs-1534081",
       "pubDate": "Sat, 05 Sep 2026 18:40:00 +0600",
@@ -274,39 +307,6 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/26/measles.jpg",
       "snippet": "The country recorded 843 new suspected measles cases during the 24-hour period."
-    },
-    {
-      "title": "Inclusive progress to ensure dignity, fairness for working people: Mahdi Amin",
-      "link": "https://www.tbsnews.net/bangladesh/inclusive-progress-ensure-dignity-fairness-working-people-mahdi-amin-1534076",
-      "pubDate": "Sat, 05 Sep 2026 18:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/05/adviser_to_the_prime_minister_for_labour_and_employment_and_expatriates_welfare_and_overseas_employment_mahdi_amin.jpg",
-      "snippet": "Adviser Mahdi Amin stresses skills development, workplace safety and fair opportunities to improve workers’ welfare and strengthen the economy."
-    },
-    {
-      "title": "Bangladeshi tourists struggle in Kolkata amid mass lodging closure, soaring tariffs",
-      "link": "https://www.tbsnews.net/bangladesh/bangladeshi-tourists-struggle-kolkata-amid-mass-lodging-closure-soaring-tariffs-1534071",
-      "pubDate": "Sat, 05 Sep 2026 18:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/05/kolkata_hotel_fire.jpg",
-      "snippet": "Remaining hotels are reportedly charging up to twice their usual rates, while patients and their families struggle to find affordable accommodation."
-    },
-    {
-      "title": "Hijra community leader’s body recovered in Chattogram",
-      "link": "https://www.tbsnews.net/bangladesh/hijra-community-leaders-body-recovered-chattogram-1534056",
-      "pubDate": "Sat, 05 Sep 2026 18:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/07/9077771.jpg",
-      "snippet": "Mousumi was found unresponsive at her Ambagan residence"
     },
     {
       "title": "Four years after opening, Super Specialised Hospital heads for corporate model",
@@ -659,29 +659,7 @@
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/01/01/entreprenur_.png",
       "snippet": "The central bank’s board recently approved the programme, which is likely to be announced today."
-    },
-    {
-      "title": "Osmani Hospital warns doctors over late arrivals, early exits",
-      "link": "https://www.tbsnews.net/bangladesh/health/osmani-hospital-warns-doctors-over-late-arrivals-early-exits-1532021",
-      "pubDate": "Thu, 03 Sep 2026 00:55:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/03/osmani_hospital_sylhet.jpg",
-      "snippet": "A review of biometric data found 48% of outpatient doctors and 65% of inpatient doctors arrived after 9am, while 96% and 90%, respectively, left before 2:30pm."
-    },
-    {
-      "title": "Energy and the new wealth of nations: A lesson for Bangladesh",
-      "link": "https://www.tbsnews.net/thoughts/energy-and-new-wealth-nations-lesson-bangladesh-1532001",
-      "pubDate": "Wed, 02 Sep 2026 23:45:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/03/power_2_2.jpg",
-      "snippet": "For Bangladesh, securing competitive energy—and learning to turn electricity into higher-value exports—may determine whether it captures the next economic opportunity"
     }
   ],
-  "updatedAt": "2026-09-05T17:10:34.882Z"
+  "updatedAt": "2026-09-05T19:16:27.949Z"
 }
