@@ -1,15 +1,224 @@
 {
   "news": [
     {
-      "title": "Home minister says Rohingya crisis becoming regional security threat, urges protection, repatriation",
-      "link": "https://www.tbsnews.net/bangladesh/home-minister-says-rohingya-crisis-becoming-regional-security-threat-urges-protection",
-      "pubDate": "Sun, 06 Sep 2026 13:50:00 +0600",
+      "title": "Dengue: Record 1,558 hospitalised in 24 hours, death toll reaches 117",
+      "link": "https://www.tbsnews.net/bangladesh/health/dengue-record-1558-hospitalised-24-hours-death-toll-reaches-117-1534891",
+      "pubDate": "Sun, 06 Sep 2026 18:00:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/25/05_news_copy.png",
+      "snippet": "Four more patients died from dengue in the last 24 hours."
+    },
+    {
+      "title": "Govt to refund Tk4.87cr to 4,341 Hajj pilgrims: Minister",
+      "link": "https://www.tbsnews.net/bangladesh/govt-refund-tk487cr-4341-hajj-pilgrims-minister-1534901",
+      "pubDate": "Sun, 06 Sep 2026 17:55:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/06/796376150_1792921308694190_8639725450152625906_n.jpg",
-      "snippet": "He said there is no alternative to a political solution to create conditions for their safe and sustainable return."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/28/religious_minister_0.jpg",
+      "snippet": "State Minister for Religious Affairs Mohammad Shamim Kaisar was also present."
+    },
+    {
+      "title": "Chinmoy Krishna Das granted bail in 2 cases, remains behind bars",
+      "link": "https://www.tbsnews.net/bangladesh/court/chinmoy-krishna-das-granted-bail-2-cases-remains-behind-bars-1534881",
+      "pubDate": "Sun, 06 Sep 2026 17:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/11/28/chinmoy_iskcon.gif",
+      "snippet": "Chinmoy will not be released immediately because of the other cases against him."
+    },
+    {
+      "title": "Rizvi slams opposition for taking demands to streets instead of parliament",
+      "link": "https://www.tbsnews.net/bangladesh/politics/rizvi-slams-opposition-taking-demands-streets-instead-parliament-1534871",
+      "pubDate": "Sun, 06 Sep 2026 17:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/ruhul_kabir_rizvi_.jpg",
+      "snippet": "BNP acting secretary general says opposition should raise its demands and proposals in parliament rather than through street agitation."
+    },
+    {
+      "title": "Dhaka seeks fitting measures, security in Rakhine to avoid another cycle of displacement",
+      "link": "https://www.tbsnews.net/foreign-policy/dhaka-seeks-fitting-measures-security-rakhine-avoid-another-cycle-displacement",
+      "pubDate": "Sun, 06 Sep 2026 17:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/06/state_minister_for_foreign_affairs_shama_obaed_islam.jpg",
+      "snippet": "State Minister for Foreign Affairs Shama Obaed Islam calls for stronger international engagement to create safe, rights-based conditions for Rohingyas to return to Myanmar."
+    },
+    {
+      "title": "Bangladesh received $82b in foreign loans from 2010 to June 2024: Khosru",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-received-82b-foreign-loans-2010-june-2024-khosru-1534861",
+      "pubDate": "Sun, 06 Sep 2026 17:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/11/amir_khosru_budget.jpeg",
+      "snippet": "The finance minister said the government paid $23.15 billion in principal and interest on foreign debt during the same period."
+    },
+    {
+      "title": "South Korea contributes 15,000 tonnes of rice for Rohingya refugees",
+      "link": "https://www.tbsnews.net/bangladesh/south-korea-contributes-15000-tonnes-rice-rohingya-refugees-1534856",
+      "pubDate": "Sun, 06 Sep 2026 17:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/06/south_korea_hands_over_15000_tonnes_of_rice.jpg",
+      "snippet": "The donation to WFP’s food assistance programme in Cox’s Bazar includes 150 tonnes of fortified rice kernels to improve nutrition."
+    },
+    {
+      "title": "Bangladesh Bank raises annual travel quota to $18,000 from $12,000",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-bank-raises-annual-travel-quota-18000-12000-1534831",
+      "pubDate": "Sun, 06 Sep 2026 17:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/06/bb_travel_qouta.png",
+      "snippet": "The enhanced entitlement will apply on a calendar-year basis."
+    },
+    {
+      "title": "Infant 'gets mother's medication' at Ctg hospital, lands in NICU",
+      "link": "https://www.tbsnews.net/bangladesh/health/infant-gets-mothers-medication-ctg-hospital-lands-nicu-1534846",
+      "pubDate": "Sun, 06 Sep 2026 17:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/06/cscr_ctg.jpg",
+      "snippet": "Baby taken to NICU after the incident; hospital suspends nurse and launches investigation."
+    },
+    {
+      "title": "ACC raids Badda Sub-Registry Office, seizes documents over corruption allegations",
+      "link": "https://www.tbsnews.net/bangladesh/acc-raids-badda-sub-registry-office-seizes-documents-over-corruption-allegations-1534836",
+      "pubDate": "Sun, 06 Sep 2026 17:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/10/acc-tbs_0.jpg",
+      "snippet": "The operation was led by ACC Assistant Director Al-Amin."
+    },
+    {
+      "title": "Measles: Death toll reaches 994 as three more children die in 24hrs",
+      "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-994-three-more-children-die-24hrs-1534816",
+      "pubDate": "Sun, 06 Sep 2026 16:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/measlessssssss.jpeg",
+      "snippet": "The latest DGHS update records 1,043 new suspected cases and 55 laboratory-confirmed infections in 24 hours."
+    },
+    {
+      "title": "Bangladesh begins framing 2nd Women, Peace and Security action plan",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-begins-framing-2nd-women-peace-and-security-action-plan-1534811",
+      "pubDate": "Sun, 06 Sep 2026 16:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/06/798370632_1090545783504213_692024752713013621_n.jpg",
+      "snippet": "Govt begins drafting a new five-year plan on WPS."
+    },
+    {
+      "title": "48 EU non-tariff barriers cleared; 13 more being resolved: Commerce minister",
+      "link": "https://www.tbsnews.net/economy/48-eu-non-tariff-barriers-cleared-13-more-being-resolved-commerce-minister-1534806",
+      "pubDate": "Sun, 06 Sep 2026 16:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/06/untitled-1_0.jpg",
+      "snippet": "EU says FTA and investment protection talks could begin soon."
+    },
+    {
+      "title": "President revokes punishment of 21 NBR officials over 2025 protests",
+      "link": "https://www.tbsnews.net/bangladesh/president-revokes-punishment-21-nbr-officials-over-2025-protests-1534746",
+      "pubDate": "Sun, 06 Sep 2026 15:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/10/02/new_nbr_building_0.jpg",
+      "snippet": "The officials had faced disciplinary action over revenue sector protests last year"
+    },
+    {
+      "title": "Nepal disaster: The fourteen minutes Hollywood cannot sell ",
+      "link": "https://www.tbsnews.net/features/panorama/nepal-disaster-fourteen-minutes-hollywood-cannot-sell-1534736",
+      "pubDate": "Sun, 06 Sep 2026 15:50:00 +0600",
+      "category": "Analysis",
+      "color": "#5d4037",
+      "bg": "#efebe9",
+      "icon": "🔍",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/06/nepal_flood.jpg",
+      "snippet": "Hollywood has taught us to imagine disasters as dramatic stories of last-minute escapes and heroic rescues. However, in Nepal’s recent flash-flood disaster, it was local knowledge, quick action and human courage that saved lives"
+    },
+    {
+      "title": "PM orders nationwide cleanliness drives with public participation to prevent dengue",
+      "link": "https://www.tbsnews.net/bangladesh/pm-orders-nationwide-cleanliness-drives-public-participation-prevent-dengue-1534731",
+      "pubDate": "Sun, 06 Sep 2026 15:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/06/pm_.jpg",
+      "snippet": "Emphasising prevention as the key to combating dengue, he directed the authorities concerned to work in a coordinated manner and undertake extensive awareness campaigns to ensure people's participation in cleanliness activities."
+    },
+    {
+      "title": "Probe report submission deferred for 43rd time in Buet student Sunny murder case",
+      "link": "https://www.tbsnews.net/bangladesh/court/probe-report-submission-deferred-43rd-time-buet-student-sunny-murder-case-1534711",
+      "pubDate": "Sun, 06 Sep 2026 15:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/06/buet.jpg",
+      "snippet": "According to the case statement, Tariquzzaman Sunny, a fifth-year architecture student at Buet, went to Mainot Ghat in Dohar upazila of Dhaka with 15 friends on 14 July 2022 and went missing during the trip."
+    },
+    {
+      "title": "DSEX plunges 103 points amid heavy selling pressure",
+      "link": "https://www.tbsnews.net/economy/stocks/dsex-plunges-103-points-amid-heavy-selling-pressure-1534701",
+      "pubDate": "Sun, 06 Sep 2026 15:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/11/05/dsex.png",
+      "snippet": "The DSEX fell 103 points, or 1.83%, to close at 5,558, while the blue-chip DS30 index dropped 24 points to 2,116."
+    },
+    {
+      "title": "SI beaten to death: One arrested, operations underway to arrest others involved ",
+      "link": "https://www.tbsnews.net/bangladesh/1-arrested-savar-police-officer-beating-death-case-1534706",
+      "pubDate": "Sun, 06 Sep 2026 15:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/06/savar_police_death_zahirul.jpg",
+      "snippet": "The arrested man is Zahirul Islam, 30, son of Moslem Uddin of the Bardeshi area of Aminbazar."
+    },
+    {
+      "title": "Body found on expressway: Bus driver, supervisor, assistant killed passenger after seeing cash, say police  ",
+      "link": "https://www.tbsnews.net/bangladesh/body-found-expressway-bus-driver-supervisor-assistant-killed-passenger-after-seeing-cash",
+      "pubDate": "Sun, 06 Sep 2026 14:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/06/expressway_death.jpg",
+      "snippet": "Police recovered the body and found the victim’s face and hands wrapped in tape, with black marks around his neck."
     },
     {
       "title": "Gold price cut by Tk2,216 per bhori",
@@ -23,202 +232,26 @@
       "snippet": "Under the new rate, per bhori of 22-carat gold jewellery will now cost Tk2,35,146, including VAT."
     },
     {
-      "title": "Humaiun Kobir lauds Japan's efforts for durable Rohingya solution",
-      "link": "https://www.tbsnews.net/foreign-policy/humaiun-kobir-lauds-japans-efforts-durable-rohingya-solution-1534646",
-      "pubDate": "Sun, 06 Sep 2026 13:45:00 +0600",
+      "title": "Home minister says Rohingya crisis becoming regional security threat, urges protection, repatriation",
+      "link": "https://www.tbsnews.net/bangladesh/home-minister-says-rohingya-crisis-becoming-regional-security-threat-urges-protection",
+      "pubDate": "Sun, 06 Sep 2026 13:50:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/06/9146159.jpg",
-      "snippet": "The State Minister said Bangladesh remains firmly committed to working with the international community to resolve this prolonged humanitarian and regional challenge."
-    },
-    {
-      "title": "PM calls for collective action to protect rivers, ensure liveable environment",
-      "link": "https://www.tbsnews.net/bangladesh/environment/pm-calls-collective-action-protect-rivers-ensure-liveable-environment-1534641",
-      "pubDate": "Sun, 06 Sep 2026 13:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/6b8a0530-5bd3-4bda-a951-5daa99fc6fc7.jpg",
-      "snippet": "The prime minister directed the authorities concerned to take effective steps to quickly implement the plans adopted so far."
-    },
-    {
-      "title": "President Fakhrul arrives in Thakurgaon on two-day visit",
-      "link": "https://www.tbsnews.net/bangladesh/president-mirza-fakhrul-arrives-thakurgaon-two-day-visit-1534631",
-      "pubDate": "Sun, 06 Sep 2026 13:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/06/1794773.jpg",
-      "snippet": "After inspecting the guard of honour, Mirza Fakhrul is scheduled to go to Senua graveyard to pay respects to his parents."
-    },
-    {
-      "title": "Dhanmondi robbery: 9 arrested, including 3 retired army personnel",
-      "link": "https://www.tbsnews.net/bangladesh/crime/dhanmondi-robbery-nine-arrested-including-3-retired-army-personnel-1534616",
-      "pubDate": "Sun, 06 Sep 2026 13:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/12/23/arrest-tbs.jpg",
-      "snippet": "Dhaka Metropolitan Police Joint Commissioner (Crime) Md Faruk Hossain disclosed the information at a press briefing at the DMP Media Centre on Minto Road this morning (6 September)."
-    },
-    {
-      "title": "Mohammadpur's 'Laden Group' active member Ripon arrested",
-      "link": "https://www.tbsnews.net/bangladesh/mohammadpurs-laden-group-active-member-ripon-arrested-1534606",
-      "pubDate": "Sun, 06 Sep 2026 13:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/06/ripon_laden_group_arrested.jpg",
-      "snippet": "According to RAB, eight cases have been filed against Ripon with Mohammadpur, Hazaribagh and New Market police stations under the Dhaka Metropolitan Police."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/06/796376150_1792921308694190_8639725450152625906_n.jpg",
+      "snippet": "He said there is no alternative to a political solution to create conditions for their safe and sustainable return."
     },
     {
       "title": "Tk10,000cr fund sought to make private economic zones investment-ready",
       "link": "https://www.tbsnews.net/economy/industry/tk10000cr-fund-sought-make-private-economic-zones-investment-ready-1534556",
       "pubDate": "Sun, 06 Sep 2026 13:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/14/jamalpur_economic_zone.jpg",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/06/private_economic_zones.jpg",
       "snippet": "The Private Economic Zones Association of Bangladesh (Pezab) has proposed initially setting up a Tk5,000 crore fund and gradually increasing it to Tk10,000 crore"
-    },
-    {
-      "title": "Body of Bangladeshi killed in Israeli drone strike in Lebanon reaches Satkhira",
-      "link": "https://www.tbsnews.net/bangladesh/body-bangladeshi-killed-israeli-drone-strike-lebanon-reaches-satkhira-1534596",
-      "pubDate": "Sun, 06 Sep 2026 12:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/06/worker_death_lebanon.jpg",
-      "snippet": "The deceased was identified as Shuvo Das of Shripatipur village in the upazila."
-    },
-    {
-      "title": "Bangladesh reaffirms commitment to climate action, stronger cooperation with Maldives",
-      "link": "https://www.tbsnews.net/foreign-policy/bangladesh-reaffirms-commitment-climate-action-stronger-cooperation-maldives-1534576",
-      "pubDate": "Sun, 06 Sep 2026 12:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/06/795980387_1063242729964317_1080590920354311567_n.jpg",
-      "snippet": "The high commissioner appreciated the enthusiasm, creativity and commitment of the young participants and encouraged them to continue contributing to a more sustainable, resilient and environmentally responsible future."
-    },
-    {
-      "title": "Rain predicted in parts of country",
-      "link": "https://www.tbsnews.net/bangladesh/environment/rain-predicted-parts-country-1534561",
-      "pubDate": "Sun, 06 Sep 2026 12:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/4436048.jpg",
-      "snippet": "The highest temperature yesterday was 34.2 degrees Celsius in Rangpur, while today's minimum temperature is 23.2 degrees Celsius in Tangail."
-    },
-    {
-      "title": "Govt to hire 5,000 doctors, 1 lakh health staff for improved grassroots care ",
-      "link": "https://www.tbsnews.net/bangladesh/govt-hire-5000-doctors-1-lakh-health-staff-improved-grassroots-care-1534541",
-      "pubDate": "Sun, 06 Sep 2026 12:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/01/01/doctor.jpg",
-      "snippet": "Recruitment process for around 900 doctors has begun"
-    },
-    {
-      "title": "Govt halts knit fabric import for RMG; exporters fear blow",
-      "link": "https://www.tbsnews.net/economy/rmg/govt-halts-knit-fabric-import-rmg-exporters-fear-blow-1534466",
-      "pubDate": "Sun, 06 Sep 2026 11:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/02/09/copy_of_rmg_2.jpg",
-      "snippet": "Move is aimed at protecting heavily invested local textile mills"
-    },
-    {
-      "title": "RAB-8 marks 21st founding anniversary in Barishal",
-      "link": "https://www.tbsnews.net/bangladesh/rab-8-marks-21st-founding-anniversary-barishal-1534521",
-      "pubDate": "Sun, 06 Sep 2026 11:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/06/6th_sep_pr_2.jpg",
-      "snippet": ""
-    },
-    {
-      "title": "Salman Shah death mystery remains unresolved after 30 years",
-      "link": "https://www.tbsnews.net/bangladesh/crime/salman-shah-death-mystery-remains-unresolved-after-30-years-1534456",
-      "pubDate": "Sun, 06 Sep 2026 11:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/02/02/salman_shah.jpg",
-      "snippet": "His wife, Samira Haque, told police that she found him hanging from a ceiling fan in the dressing room. He was rushed to Dhaka Medical College Hospital, where doctors declared him dead."
-    },
-    {
-      "title": "Fire breaks out at Badda furniture warehouse, brought under control after 1 hour",
-      "link": "https://www.tbsnews.net/bangladesh/fire-brought-under-control-furniture-warehouse-badda-1534501",
-      "pubDate": "Sun, 06 Sep 2026 11:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/06/untitled_design.jpg",
-      "snippet": "Fire Service received the report at 8:55am, and two units from Baridhara Fire Station reached the scene at 9:19am and joined the firefighting operation."
-    },
-    {
-      "title": "Special Branch SI beaten to death over car parking dispute in Savar; son injured",
-      "link": "https://www.tbsnews.net/bangladesh/crime/special-branch-si-beaten-death-savar-1534511",
-      "pubDate": "Sun, 06 Sep 2026 11:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/06/special_branch_sb_sub-inspector_si_altaf_hossain.jpg",
-      "snippet": "The deceased was identified as Altaf Hossain, 58, who worked in the Malibagh zone of the Special Branch of police in Dhaka"
-    },
-    {
-      "title": "Woman shot through window while watching TV in Dhaka home",
-      "link": "https://www.tbsnews.net/bangladesh/woman-shot-through-window-while-watching-tv-dhaka-home-1534491",
-      "pubDate": "Sun, 06 Sep 2026 10:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/12/08/gunshot.jpg",
-      "snippet": "In-charge of the DMCH police camp Inspector Md Habibur Rahman said the woman suffered gunshot injuries to her right hand."
-    },
-    {
-      "title": "US tariffs push down Bangladesh apparel prices 2.26% in seven months",
-      "link": "https://www.tbsnews.net/economy/rmg/us-tariffs-push-down-bangladesh-apparel-prices-226-seven-months-1534451",
-      "pubDate": "Sun, 06 Sep 2026 10:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/vpcqg4hz5rkqdguigzsaptst2a_1.jpg",
-      "snippet": "Exporters expect prices to rise in coming days"
-    },
-    {
-      "title": "Dhaka eyes deeper trade ties as ministers sit with EU diplomats today",
-      "link": "https://www.tbsnews.net/foreign-policy/dhaka-eyes-deeper-trade-ties-ministers-sit-eu-diplomats-today-1534446",
-      "pubDate": "Sun, 06 Sep 2026 10:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/07/05/eu_bd_.jpg",
-      "snippet": "The discussions will also focus on retaining Bangladesh’s export access to the EU market after the country graduates from the least developed country category, removing trade barriers and attracting more investment from EU member states."
     },
     {
       "title": "Gas crisis pushes ceramics industry to the brink",
@@ -615,40 +648,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/25/05_news_copy.png",
       "snippet": "Dengue deaths rise to 111 this year."
-    },
-    {
-      "title": "Mamdani imposes one-year ban on AI for most NYC students",
-      "link": "https://www.tbsnews.net/world/mamdani-imposes-one-year-ban-ai-most-nyc-students-1532611",
-      "pubDate": "Thu, 03 Sep 2026 17:55:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/03/mamdani.png",
-      "snippet": "Major ⁠AI developers Google, Anthropic and Microsoft did not immediately reply to requests for comment."
-    },
-    {
-      "title": "Measles: Death toll reaches 986 as 3 more children die in 24hrs",
-      "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-986-3-more-children-die-24hrs-1532446",
-      "pubDate": "Thu, 03 Sep 2026 16:30:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/26/measles.jpg",
-      "snippet": "99 people have died from confirmed measles infections and 887others with measles-like symptoms"
-    },
-    {
-      "title": "Cenbank eases foreign remittance rules for Hi-Tech Park firms",
-      "link": "https://www.tbsnews.net/economy/banking/bangladesh-bank-eases-foreign-remittance-rules-hi-tech-park-firms-1532371",
-      "pubDate": "Thu, 03 Sep 2026 15:45:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/03/30/bangladesh_bank_front_unb.gif",
-      "snippet": "Bangladesh Bank said the measure was introduced to facilitate the settlement of foreign payment obligations of industrial enterprises operating in Hi-Tech Parks."
     }
   ],
-  "updatedAt": "2026-09-06T08:03:22.298Z"
+  "updatedAt": "2026-09-06T12:15:06.153Z"
 }
