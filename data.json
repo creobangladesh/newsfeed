@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Kolkata hospitals offer safer stays as Bangladeshi medical travel dips",
+      "link": "https://www.tbsnews.net/world/south-asia/kolkata-hospitals-offer-safer-stays-bangladeshi-medical-travel-dips-1534426",
+      "pubDate": "Sun, 06 Sep 2026 08:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/06/bd_india_flag.jpg",
+      "snippet": "Many Bangladeshi patients travel to Kolkata by road and seek low-cost accommodation, which can leave them staying in unsafe or unapproved budget hotels"
+    },
+    {
+      "title": "Gas crisis pushes ceramics industry to the brink",
+      "link": "https://www.tbsnews.net/economy/industry/gas-crisis-pushes-ceramics-industry-brink-1534416",
+      "pubDate": "Sun, 06 Sep 2026 07:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/gazipur_gas_crisis_factory.jpeg",
+      "snippet": "Five lakh jobs, Tk20,000cr investment at risk as factories struggle to maintain production"
+    },
+    {
       "title": "Bir Shreshtha Noor Mohammad's 55th martyrdom anniversary observed",
       "link": "https://www.tbsnews.net/bangladesh/bir-shreshtha-noor-mohammads-55th-martyrdom-anniversary-observed-1534396",
       "pubDate": "Sun, 06 Sep 2026 00:10:00 +0600",
@@ -122,17 +144,6 @@
       "snippet": "Police say the driver spent part of the stolen cash on renting a new house, furniture, and a mobile phone."
     },
     {
-      "title": "Failure to implement reforms could trigger fresh 'one-point' movement: Patwary",
-      "link": "https://www.tbsnews.net/bangladesh/failure-implement-reforms-could-trigger-fresh-one-point-movement-patwary-1534286",
-      "pubDate": "Sat, 05 Sep 2026 21:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/05/nasiruddin_patwary.jpg",
-      "snippet": "The NCP leader also demanded justice over killings during the July Uprising, accountability for fugitives abroad and an end to persistent power and gas shortages."
-    },
-    {
       "title": "3 arrested after man's body found on Dhaka Elevated Expressway",
       "link": "https://www.tbsnews.net/bangladesh/crime/3-arrested-after-mans-body-found-dhaka-elevated-expressway-1534281",
       "pubDate": "Sat, 05 Sep 2026 21:30:00 +0600",
@@ -142,6 +153,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/07/04/arrest-1579498383.jpg",
       "snippet": "Police and RAB seize a Jamalpur-bound bus as CCTV analysis points to several suspicious vehicles."
+    },
+    {
+      "title": "Failure to implement reforms could trigger fresh 'one-point' movement: Patwary",
+      "link": "https://www.tbsnews.net/bangladesh/failure-implement-reforms-could-trigger-fresh-one-point-movement-patwary-1534286",
+      "pubDate": "Sat, 05 Sep 2026 21:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/05/nasiruddin_patwary.jpg",
+      "snippet": "The NCP leader also demanded justice over killings during the July Uprising, accountability for fugitives abroad and an end to persistent power and gas shortages."
     },
     {
       "title": "7-year-old rescued in Shariatpur after abduction from Kafrul, woman arrested",
@@ -252,28 +274,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/05/jamaat_central_working_committee_member_and_chattogram-15_lawmaker_shahjahan_chowdhury.jpg",
       "snippet": "The Jamaat leader says reform is impossible while officials accused of repression remain in service."
-    },
-    {
-      "title": "Crude bomb blast at Shariatpur house injures woman, damages three homes",
-      "link": "https://www.tbsnews.net/bangladesh/crude-bomb-blast-shariatpur-house-injures-woman-damages-three-homes-1534136",
-      "pubDate": "Sat, 05 Sep 2026 19:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/05/crude_bomb_shariatpur.jpg",
-      "snippet": "Woman hospitalised after bombs explode inside kitchen"
-    },
-    {
-      "title": "'Don't want to make excuses': PM apologises over energy crisis",
-      "link": "https://www.tbsnews.net/bangladesh/pm-tarique-apologises-ongoing-fuel-crisis-1534126",
-      "pubDate": "Sat, 05 Sep 2026 19:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/05/793899703_1976801846336124_4538292949241436548_n.jpg",
-      "snippet": "Some political parties trying to create anarchy by exploiting crises, he says"
     },
     {
       "title": "Global uncertainty is reshaping the world. Is Bangladesh ready?",
@@ -637,18 +637,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/10/27/dengue_ward_rajibdhar_0288.jpg",
       "snippet": "Five people died of dengue across the country in the 24 hours till 8am yesterday, while 1,324 new patients were admitted to hospitals during the same period, according to the Directorate General of Health Services (DGHS)."
-    },
-    {
-      "title": "NBR mulls return to monthly VAT payments amid collection slump",
-      "link": "https://www.tbsnews.net/nbr/nbr-mulls-return-monthly-vat-payments-amid-collection-slump-1532051",
-      "pubDate": "Thu, 03 Sep 2026 07:40:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/28/nbr_vat.jpg",
-      "snippet": "VAT collection drops 20% in July-August, but businesses warn monthly payments to undermine ease of doing business"
     }
   ],
-  "updatedAt": "2026-09-05T23:35:02.546Z"
+  "updatedAt": "2026-09-06T03:12:54.106Z"
 }
