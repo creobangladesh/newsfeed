@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Bangladesh set for full-fledged liver transplants next year, Muhit tells JS",
+      "link": "https://www.tbsnews.net/bangladesh/health/bangladesh-set-full-fledged-liver-transplants-next-year-muhit-tells-js-1535316",
+      "pubDate": "Mon, 07 Sep 2026 00:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/20/ma_muhit.jpeg",
+      "snippet": "According to the health ministry, liver transplants in Bangladesh could cost around Tk 30 lakh, compared to Tk 70 lakh to Tk 1 crore abroad."
+    },
+    {
       "title": "National Bank seeks to appoint Abu Jafar as MD amid ACC probe",
       "link": "https://www.tbsnews.net/economy/banking/national-bank-seeks-appoint-abu-jafar-md-amid-acc-probe-1535296",
       "pubDate": "Sun, 06 Sep 2026 23:55:00 +0600",
@@ -8,8 +19,8 @@
       "color": "#00796b",
       "bg": "#e0f2f1",
       "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/organization/logo/national_bank_limited.jpg",
-      "snippet": ""
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/07/md_abu_jafar.jpg",
+      "snippet": "According to Bangladesh Bank regulations, a person who has been convicted cannot be appointed as a bank's managing director."
     },
     {
       "title": "Measles deaths near 1,000 as infection spreads across all child age groups",
@@ -23,7 +34,7 @@
       "snippet": "The Directorate General of Health Services (DGHS), however, said it has a plan to expand the age range for measles vaccination, although no final decision has been made yet."
     },
     {
-      "title": "10 more parliamentary committees constituted",
+      "title": "10 parliamentary committees formed, none chaired by opposition MPs",
       "link": "https://www.tbsnews.net/bangladesh/10-more-parliamentary-committees-constituted-1535276",
       "pubDate": "Sun, 06 Sep 2026 23:40:00 +0600",
       "category": "Bangladesh",
@@ -155,17 +166,6 @@
       "snippet": "The telecom regulator also seeks a local Google office and payment system in Bangladesh."
     },
     {
-      "title": "Govt wants to reduce dependence on imported gas, boost domestic production: Press secy",
-      "link": "https://www.tbsnews.net/node/1535186",
-      "pubDate": "Sun, 06 Sep 2026 20:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/06/prime_ministers_press_secretary_abu_abdullah_m_saleh.png",
-      "snippet": "We want to find a permanent solution to the country's gas crisis, Abu Abdullah M Saleh says."
-    },
-    {
       "title": "Rangpur Khadem killing: HC upholds death sentenced for 2, acquits 5",
       "link": "https://www.tbsnews.net/bangladesh/court/rangpur-khadem-killing-hc-upholds-death-sentenced-2-acquits-5-1535176",
       "pubDate": "Sun, 06 Sep 2026 20:35:00 +0600",
@@ -186,6 +186,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/06/ec_anowarul.png",
       "snippet": "The commissioner said, like the national parliamentary election, the code of conduct for the local government polls would contain some stricter provisions."
+    },
+    {
+      "title": "Govt wants to reduce dependence on imported gas, boost domestic production: Press secy",
+      "link": "https://www.tbsnews.net/node/1535186",
+      "pubDate": "Sun, 06 Sep 2026 20:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/06/prime_ministers_press_secretary_abu_abdullah_m_saleh.png",
+      "snippet": "We want to find a permanent solution to the country's gas crisis, Abu Abdullah M Saleh says."
     },
     {
       "title": "Biman staffer placed on 5-day remand over smuggling of 14kg gold",
@@ -263,17 +274,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/06/1000220057_16x9.png",
       "snippet": ""
-    },
-    {
-      "title": "Dhaka, Delhi eye strengthening cultural engagement",
-      "link": "https://www.tbsnews.net/foreign-policy/dhaka-delhi-eye-strengthening-cultural-engagement-1535091",
-      "pubDate": "Sun, 06 Sep 2026 20:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/06/1e507f17-b84f-495b-8ec5-ba6ed2d54053.jpg",
-      "snippet": "The discussion highlighted the deep-rooted cultural connections between the peoples of the two countries."
     },
     {
       "title": "What to know about postpartum mental illness",
@@ -661,5 +661,5 @@
       "snippet": "Chattogram Medical College Hospital treating 78 patients; Chattogram dengue tally reaches 2,241"
     }
   ],
-  "updatedAt": "2026-09-06T18:03:24.666Z"
+  "updatedAt": "2026-09-06T20:39:32.670Z"
 }
