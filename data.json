@@ -1,6 +1,138 @@
 {
   "news": [
     {
+      "title": "Summit asks for reconsidering FSRU deal, says it could save $1.10b",
+      "link": "https://www.tbsnews.net/economy/energy/summit-asks-reconsidering-fsru-deal-says-it-could-save-110b-1536371",
+      "pubDate": "Tue, 08 Sep 2026 02:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/11/24/summit_power.jpg",
+      "snippet": "Summit says if the agreement signed in March 2024 is retained, the FSRU, mooring system and subsea pipeline would be handed over to Petrobangla free of cost after 15 years of operation."
+    },
+    {
+      "title": "Customers withdraw Tk250cr as Sammilito Islami Bank begins deposit return",
+      "link": "https://www.tbsnews.net/economy/banking/customers-withdraw-tk250cr-sammilito-islami-bank-begins-deposit-return-1536361",
+      "pubDate": "Tue, 08 Sep 2026 02:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/30/sammilito_islami_bank.jpg",
+      "snippet": "The repayment process began after Bangladesh Bank provided the bank with Tk5,000 crore on 6 September to meet depositors’ withdrawal demands."
+    },
+    {
+      "title": "Guterres meets Khalilur ahead of UNGA 81 opening",
+      "link": "https://www.tbsnews.net/bangladesh/guterres-meets-khalilur-ahead-unga-81-opening-1536356",
+      "pubDate": "Tue, 08 Sep 2026 01:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/08/guteres_khalilur.png",
+      "snippet": "The meeting took place at UN Headquarters in New York."
+    },
+    {
+      "title": "UN rapporteur praises Bangladesh's HC order halting Cox's Bazar sea beach road construction",
+      "link": "https://www.tbsnews.net/bangladesh/un-rapporteur-praises-bangladeshs-hc-order-halting-coxs-bazar-sea-beach-road-construction",
+      "pubDate": "Tue, 08 Sep 2026 01:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/08/astrid_puentes_riano.jpg",
+      "snippet": "Astrid Puentes Riaño says court order helps Bangladesh protect the beach and sea in an ecologically critical area."
+    },
+    {
+      "title": "HC asks why Rajuk-Gulshan Youth Club deal for Gulshan Central Park should not be scrapped",
+      "link": "https://www.tbsnews.net/bangladesh/court/hc-asks-why-rajuk-gulshan-youth-club-deal-gulshan-central-park-should-not-be",
+      "pubDate": "Tue, 08 Sep 2026 01:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/10/18/hc.jpg",
+      "snippet": "Court issues four-week rule over alleged illegal fee collection and construction at the park"
+    },
+    {
+      "title": "Govt targets up to 90% literacy rate by 2031: Bobby Hajjaj",
+      "link": "https://www.tbsnews.net/bangladesh/education/govt-targets-90-literacy-rate-2031-bobby-hajjaj-1536331",
+      "pubDate": "Tue, 08 Sep 2026 00:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/13/bobby_hajjaj.jpg",
+      "snippet": "Nationwide mid-day meals planned for primary schools next year."
+    },
+    {
+      "title": "Jamaat blames govt's 'failed' policy for fertiliser crisis ",
+      "link": "https://www.tbsnews.net/bangladesh/politics/jamaat-blames-govts-failed-policy-fertiliser-crisis-1536341",
+      "pubDate": "Tue, 08 Sep 2026 00:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/23/fertiliser.png",
+      "snippet": "“Farmers are suffering like this due to the government’s failed and shortsighted agricultural policies,” Porwar alleged."
+    },
+    {
+      "title": "PM Tarique has a standing invitation: Dinesh Trivedi",
+      "link": "https://www.tbsnews.net/bangladesh/pm-tarique-has-standing-invitation-dinesh-trivedi-1536311",
+      "pubDate": "Tue, 08 Sep 2026 00:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/01/untitled_design_21.jpg",
+      "snippet": "The high commissioner met with Environment, Forest and Climate Change Minister Abdul Awal Mintoo."
+    },
+    {
+      "title": "Cabinet approves duty-tax waiver for solar power equipment",
+      "link": "https://www.tbsnews.net/bangladesh/cabinet-approves-duty-tax-waiver-solar-power-equipment-1536301",
+      "pubDate": "Tue, 08 Sep 2026 00:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/17/cabinet_meeting.png",
+      "snippet": "The Cabinet also approves a proposal to amend a notification on the minimum price of low-tier cigarettes under the Value Added Tax and Supplementary Duty Act, 2012."
+    },
+    {
+      "title": "UN rights chief calls for independent oversight body for Bangladesh law enforcement",
+      "link": "https://www.tbsnews.net/bangladesh/un-rights-chief-calls-independent-oversight-body-bangladesh-law-enforcement-1536296",
+      "pubDate": "Tue, 08 Sep 2026 00:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/08/volker_turk.jpg",
+      "snippet": "“We have long called for a strong, independent national institution to oversee law enforcement agencies in Bangladesh,” Türk says."
+    },
+    {
+      "title": "Opposition calls for energy taskforce as govt hopes to resolve crisis by 2030",
+      "link": "https://www.tbsnews.net/economy/energy/opposition-calls-energy-taskforce-govt-hopes-resolve-crisis-2030-1536291",
+      "pubDate": "Mon, 07 Sep 2026 23:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/renewable_energy_img.jpg",
+      "snippet": "The government must present the public with a clear picture of the country's electricity shortage, Opposition Leader Shafiqur Rahman says."
+    },
+    {
+      "title": "DSEX stages dramatic 95-point turnaround to end in green",
+      "link": "https://www.tbsnews.net/economy/stocks/dsex-stages-dramatic-95-point-turnaround-end-green-1536366",
+      "pubDate": "Mon, 07 Sep 2026 23:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/03/01/b75a3f43-e8bb-492c-b0a9-88afb324c29c.jpg",
+      "snippet": "Total turnover on the DSE saw a 5% uptick, reaching Tk571 crore."
+    },
+    {
       "title": "Kurigram Express derails at Santahar, train services suspended",
       "link": "https://www.tbsnews.net/bangladesh/kurigram-express-derails-santahar-train-services-suspended-1536276",
       "pubDate": "Mon, 07 Sep 2026 22:15:00 +0600",
@@ -23,17 +155,6 @@
       "snippet": "The rules cover entry-level bank posts that do not require prior work experience, including management trainee, senior, probationary and junior officer positions."
     },
     {
-      "title": "EC bans posters, rallies in local govt election campaigns",
-      "link": "https://www.tbsnews.net/bangladesh/ec-bans-posters-rallies-local-govt-election-campaigns-1536236",
-      "pubDate": "Mon, 07 Sep 2026 22:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/01/04/ec_logo_3.jpg",
-      "snippet": "It issues separate but largely identical codes of conduct for city corporations, district, upazila, municipalities and union councils."
-    },
-    {
       "title": "PM invites opposition leader to Tk150 meal after praise for modest lunch cost",
       "link": "https://www.tbsnews.net/bangladesh/politics/pm-invites-opposition-leader-tk150-meal-after-praise-modest-lunch-cost-1536261",
       "pubDate": "Mon, 07 Sep 2026 22:05:00 +0600",
@@ -43,6 +164,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/07/pm_opposition_leader.png",
       "snippet": "The light-hearted exchange took place during a general discussion under Rule 68."
+    },
+    {
+      "title": "EC bans posters, rallies in local govt election campaigns",
+      "link": "https://www.tbsnews.net/bangladesh/ec-bans-posters-rallies-local-govt-election-campaigns-1536236",
+      "pubDate": "Mon, 07 Sep 2026 22:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/01/04/ec_logo_3.jpg",
+      "snippet": "It issues separate but largely identical codes of conduct for city corporations, district, upazila, municipalities and union councils."
     },
     {
       "title": "CU teacher suspended over derogatory remarks on July Uprising",
@@ -122,138 +254,6 @@
       "snippet": "A15-member new committee formed to determine medicine prices."
     },
     {
-      "title": "US firms 'very interested' in building more FSRUs in Bangladesh: Christensen to Muktadir",
-      "link": "https://www.tbsnews.net/economy/us-firms-keen-build-more-fsrus-bangladesh-1536191",
-      "pubDate": "Mon, 07 Sep 2026 21:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/06/reuters_lng.jpg",
-      "snippet": "A transparent and competitive environment for major infrastructure projects, including FSRU, would boost foreign investors’ confidence, the US ambassador says."
-    },
-    {
-      "title": "Water buses to launch on Dhaka's 110km circular route within 3 months",
-      "link": "https://www.tbsnews.net/bangladesh/water-buses-launch-dhakas-110km-circular-route-within-3-months-1536176",
-      "pubDate": "Mon, 07 Sep 2026 21:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/15/shaikh_rabiul_alam_in_parliament.png",
-      "snippet": "The waterway authority has identified problems behind the previous water bus service, which incurred Tk57 crore in losses over the past decade."
-    },
-    {
-      "title": "Writ petition challenges ban on activities of Awami League, affiliates",
-      "link": "https://www.tbsnews.net/bangladesh/court/writ-challenges-hc-over-ban-awami-league-affiliates-1536171",
-      "pubDate": "Mon, 07 Sep 2026 20:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/05/14/awami-league-banned.png",
-      "snippet": "A petitioner seeks to declare the 12 May 2025 notification banning all activities of the Awami League and its affiliated organisations unlawful."
-    },
-    {
-      "title": "Children forced to swallow 6,615 yaba tablets just for Tk8,000",
-      "link": "https://www.tbsnews.net/bangladesh/crime/children-forced-swallow-6615-yaba-tablets-just-tk8000-1536156",
-      "pubDate": "Mon, 07 Sep 2026 20:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/06/yaba.jpg",
-      "snippet": "RAB says the syndicate used children to evade law enforcement, with a detained woman admitting the same two children had previously been used twice to transport yaba to Chattogram."
-    },
-    {
-      "title": "Investigation report on Hasina, Rehana set for 29 Oct",
-      "link": "https://www.tbsnews.net/bangladesh/investigation-report-hasina-rehana-set-29-oct-1536166",
-      "pubDate": "Mon, 07 Sep 2026 20:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/07/hasina_rehana.png",
-      "snippet": "The Dhaka Metropolitan Senior Special Judge Md Shahjahan Kabir set the date after accepting the first information report (FIR) in the case."
-    },
-    {
-      "title": "Foreign-flagged ships carry 89% of Ctg Port's import cargo",
-      "link": "https://www.tbsnews.net/bangladesh/foreign-flagged-ships-carry-89-ctg-ports-import-cargo-1536141",
-      "pubDate": "Mon, 07 Sep 2026 20:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/08/19/ctg_port1.jpg",
-      "snippet": "Foreign vessels transport 84% of export cargo and 91% of empty export containers in the first half of 2026."
-    },
-    {
-      "title": "Japanese delegation meets state minister for disaster over Rohingya crisis",
-      "link": "https://www.tbsnews.net/bangladesh/japanese-delegation-meets-state-minister-disaster-over-rohingya-crisis-1536151",
-      "pubDate": "Mon, 07 Sep 2026 20:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/07/yohei_sasakawa-led_japanese_delegation_meets_state_minister_for_disaster_management_and_relief_m_iqbal_hossain_2.jpg",
-      "snippet": "Japanese foundations pledge continued support for Rohingya humanitarian programmes as Bangladesh urges stronger international funding amid a worsening aid shortfall."
-    },
-    {
-      "title": "Foreign ministry reviews Bangladesh’s blue economy growth potential",
-      "link": "https://www.tbsnews.net/foreign-policy/foreign-ministry-reviews-bangladeshs-blue-economy-growth-potential-1536126",
-      "pubDate": "Mon, 07 Sep 2026 20:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/07/shama_obaed3.png",
-      "snippet": "Dr Md Saimum Parvez, Special Assistant to the Prime Minister on Environment, Forest and Climate Change, and Foreign Secretary Asad Alam Siam attended the event."
-    },
-    {
-      "title": "Ctg Port workers get Tk16.65cr incentive bonus after record handling",
-      "link": "https://www.tbsnews.net/bangladesh/ctg-port-workers-get-tk1665cr-incentive-bonus-after-record-handling-1536136",
-      "pubDate": "Mon, 07 Sep 2026 20:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/p1_ctg_port_news_photo_1.jpg",
-      "snippet": "The workers received Tk25,000 each from the Chattogram Port Container, Cargo Handling Workers and Employees Welfare Fund."
-    },
-    {
-      "title": "Hajj package cost for country's pilgrims for 2027 reduced: Minister",
-      "link": "https://www.tbsnews.net/bangladesh/hajj-package-cost-countrys-pilgrims-2027-reduced-minister-1536131",
-      "pubDate": "Mon, 07 Sep 2026 20:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/07/religious_affairs_minister_kazi_shah_mofazzal_houssain_kaikobad.jpg",
-      "snippet": "Government lowers the minimum Hajj package cost by Tk28,092 from the amount it would have reached after additional expenses and higher Saudi service charges."
-    },
-    {
-      "title": "Govt adopts 'zero tolerance' policy on smoking, drug abuse",
-      "link": "https://www.tbsnews.net/bangladesh/govt-adopts-zero-tolerance-policy-smoking-drug-abuse-1536116",
-      "pubDate": "Mon, 07 Sep 2026 20:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/06/01/cigarette_tbs.jpg",
-      "snippet": "The government plans to strengthen law enforcement, addiction treatment and anti-drug programmes in educational institutions."
-    },
-    {
-      "title": "Chief whip proposes dropping expelled Jamaat MP Gazi Nazrul from parliamentary committee",
-      "link": "https://www.tbsnews.net/bangladesh/chief-whip-proposes-dropping-expelled-jamaat-mp-gazi-nazrul-parliamentary-committee",
-      "pubDate": "Mon, 07 Sep 2026 20:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/ex-jamaat_mp_gazi_nazrul.png",
-      "snippet": "\"If the opposition objects to his inclusion even there, the government has no objection to removing him,\" he said."
-    },
-    {
       "title": "Bangladesh Bank approves 131 firms to value bank loan collateral",
       "link": "https://www.tbsnews.net/economy/banking/bangladesh-bank-approves-131-firms-value-bank-loan-collateral-1536091",
       "pubDate": "Mon, 07 Sep 2026 19:45:00 +0600",
@@ -317,7 +317,7 @@
       "bg": "#e8f5e9",
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/05/15/ctg_auto_rickshaw_photo7.jpg",
-      "snippet": "Charging battery-run autorickshaws could account for around 5% of Bangladesh’s total electricity generation."
+      "snippet": "Charging battery-run autorickshaws accounts for 5% of Bangladesh’s total electricity generation."
     },
     {
       "title": "Literacy rate rises to 77.9% in Bangladesh: Bobby Hajjaj",
@@ -813,18 +813,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/05/16/ctg_port_2_1.png",
       "snippet": "With more funds tied up in LCs, traders with limited capital say they can no longer import the volumes they need"
-    },
-    {
-      "title": "OpenAI launches new Astra model amid growing scrutiny over agents' safety",
-      "link": "https://www.tbsnews.net/tech/openai-launches-new-astra-model-amid-growing-scrutiny-over-agents-safety-1533691",
-      "pubDate": "Sat, 05 Sep 2026 00:15:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/08/02/photo_reuters.jpg",
-      "snippet": "New model promises faster task execution but raises monitoring concerns"
     }
   ],
-  "updatedAt": "2026-09-07T17:21:08.420Z"
+  "updatedAt": "2026-09-07T20:42:42.387Z"
 }
