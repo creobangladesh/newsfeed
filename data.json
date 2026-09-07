@@ -1,6 +1,61 @@
 {
   "news": [
     {
+      "title": "Bangladesh at a strategic crossroads",
+      "link": "https://www.tbsnews.net/thoughts/bangladesh-strategic-crossroads-1535451",
+      "pubDate": "Mon, 07 Sep 2026 11:35:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/07/collage.jpg",
+      "snippet": "Turning Bangladesh’s demographic and geographic advantages into national power will require capable institutions, political stability, economic discipline, energy security and a clear strategic vision"
+    },
+    {
+      "title": "As grants for routine expenses slashed, primary teachers forced to pay out of pocket ",
+      "link": "https://www.tbsnews.net/bangladesh/education/grants-routine-expenses-slashed-primary-teachers-forced-pay-out-pocket-1535381",
+      "pubDate": "Mon, 07 Sep 2026 11:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/teacher.png",
+      "snippet": "Since students are not allowed to be charged examination fees, teachers say they are struggling to pay for stationery expenses and even minor repairs."
+    },
+    {
+      "title": "BGB, villagers foil BSF's push-in attempt along Dinajpur border",
+      "link": "https://www.tbsnews.net/bangladesh/bgb-villagers-foil-bsfs-push-attempt-along-dinajpur-border-1535391",
+      "pubDate": "Mon, 07 Sep 2026 10:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/07/screenshot_2026-09-07_104657.png",
+      "snippet": "On information, a BGB patrol team from Daudpur BOP rushed to the area."
+    },
+    {
+      "title": "Easier auto loans lift EV and hybrid car demand",
+      "link": "https://www.tbsnews.net/bangladesh/transport/easier-auto-loans-lift-ev-and-hybrid-car-demand-1535356",
+      "pubDate": "Mon, 07 Sep 2026 10:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/07/1.png",
+      "snippet": "Under Bangladesh Bank directives issued in May, banks can lend up to Tk80 lakh to buyers of electric, hybrid and domestically assembled cars, covering up to 80% of the vehicle’s purchase price with a maximum repayment period of eight years."
+    },
+    {
+      "title": "Potato exports halve as Mideast war drives up shipping costs",
+      "link": "https://www.tbsnews.net/economy/potato-exports-halve-mideast-war-drives-shipping-costs-1535341",
+      "pubDate": "Mon, 07 Sep 2026 08:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/05/05/potato_farmer.jpg",
+      "snippet": "Potato shipments through the country’s premier seaport fell by 19,939 tonnes year-on-year, a decline of 49%, according to data from the Plant Quarantine Centre at Chattogram Port"
+    },
+    {
       "title": "Bangladesh set for full-fledged liver transplants next year, Muhit tells JS",
       "link": "https://www.tbsnews.net/bangladesh/health/bangladesh-set-full-fledged-liver-transplants-next-year-muhit-tells-js-1535316",
       "pubDate": "Mon, 07 Sep 2026 00:00:00 +0600",
@@ -100,17 +155,6 @@
       "snippet": "The finance minister said the government has paid Tk1,352.74 crore to banks against the loans of the farmers covered by the waiver programme."
     },
     {
-      "title": "Body found on expressway: 2 accused confess involvement, sent to jail",
-      "link": "https://www.tbsnews.net/bangladesh/court/body-found-expressway-2-accused-confess-involvement-sent-jail-1535231",
-      "pubDate": "Sun, 06 Sep 2026 21:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/court.png",
-      "snippet": "Another accused was placed on 4-day remand."
-    },
-    {
       "title": "Zakat system to become more trustworthy, dynamic: Finance minister",
       "link": "https://www.tbsnews.net/economy/zakat-system-become-more-trustworthy-dynamic-finance-minister-1535226",
       "pubDate": "Sun, 06 Sep 2026 21:40:00 +0600",
@@ -120,6 +164,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/27/_julian_alvarez_1.png",
       "snippet": "He said the government enacted the Zakat Act in 2023."
+    },
+    {
+      "title": "Body found on expressway: 2 accused confess involvement, sent to jail",
+      "link": "https://www.tbsnews.net/bangladesh/court/body-found-expressway-2-accused-confess-involvement-sent-jail-1535231",
+      "pubDate": "Sun, 06 Sep 2026 21:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/court.png",
+      "snippet": "Another accused was placed on 4-day remand."
     },
     {
       "title": "Aamra Networks shares crash 10.6% on negligible 1-paisa payout",
@@ -199,24 +254,13 @@
       "snippet": "We want to find a permanent solution to the country's gas crisis, Abu Abdullah M Saleh says."
     },
     {
-      "title": "Biman staffer placed on 5-day remand over smuggling of 14kg gold",
-      "link": "https://www.tbsnews.net/bangladesh/court/biman-staffer-placed-5-day-remand-over-smuggling-14kg-gold-1535166",
-      "pubDate": "Sun, 06 Sep 2026 20:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/23/magistrate_court.jpg",
-      "snippet": "Police say the Biman staffer was an active member of an international gold smuggling syndicate"
-    },
-    {
       "title": "Companies won't be closed over owners' graft: FinMin",
       "link": "https://www.tbsnews.net/economy/companies-wont-be-closed-over-owners-graft-finmin-1535171",
       "pubDate": "Sun, 06 Sep 2026 20:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/06/campanies-shut.jpg",
       "snippet": "Amir Khosru says corruption cases will be pursued against individuals, while companies' economic impact must be considered before any closure."
     },
@@ -252,28 +296,6 @@
       "icon": "🔍",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/06/copy_of_solar_panel_6_1.jpg",
       "snippet": "The Tk 10.50 rooftop-solar incentive is a timely step towards diversifying Bangladesh’s energy mix, but its success will depend on more than the tariff—financing, grid readiness, consumer protection and responsible waste management will be equally im..."
-    },
-    {
-      "title": "From RAB to SRB: TIB warns of more powerful, unaccountable force under new guise",
-      "link": "https://www.tbsnews.net/bangladesh/rab-srb-tib-warns-more-powerful-unaccountable-force-under-new-guise-1535111",
-      "pubDate": "Sun, 06 Sep 2026 20:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/uploads/2026/06/14/rab.png",
-      "snippet": "The anti-graft watchdog flags concerns over warrantless searches and arrests, use of force, recruitment of former RAB personnel and deployment of military personnel in the proposed unit."
-    },
-    {
-      "title": "BSFIC targets planting 15,000 trees at sugar mills",
-      "link": "https://www.tbsnews.net/bangladesh/bsfic-targets-planting-15000-trees-sugar-mills-1535116",
-      "pubDate": "Sun, 06 Sep 2026 20:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/06/1000220057_16x9.png",
-      "snippet": ""
     },
     {
       "title": "What to know about postpartum mental illness",
@@ -648,18 +670,7 @@
       "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/04/img_9969.jpeg",
       "snippet": "Some data centre operators in Australia and the United States are considering gas-fired power generation to meet their growing energy requirements."
-    },
-    {
-      "title": "Chattogram doctors warn of dengue 'critical phase' as cases rise",
-      "link": "https://www.tbsnews.net/bangladesh/health/chattogram-doctors-warn-dengue-critical-phase-cases-rise-1533161",
-      "pubDate": "Fri, 04 Sep 2026 10:10:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/07/22/dengue-rajib-dhar.jpg",
-      "snippet": "Chattogram Medical College Hospital treating 78 patients; Chattogram dengue tally reaches 2,241"
     }
   ],
-  "updatedAt": "2026-09-07T00:42:53.950Z"
+  "updatedAt": "2026-09-07T05:43:42.364Z"
 }
