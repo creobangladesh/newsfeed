@@ -1,6 +1,116 @@
 {
   "news": [
     {
+      "title": "Opposition proposes special cell to bring Benazir, other fugitives back",
+      "link": "https://www.tbsnews.net/bangladesh/opposition-proposes-special-cell-bring-benazir-other-fugitives-back-1537331",
+      "pubDate": "Wed, 09 Sep 2026 01:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/01/01/taher.jpg",
+      "snippet": "Opposition Deputy Leader Syed Abdullah Mohammad Taher calls for a dedicated unit to track down fugitives abroad and bring them back to face trial."
+    },
+    {
+      "title": "5 new parliamentary committees formed, none chaired by opposition MPs",
+      "link": "https://www.tbsnews.net/bangladesh/5-new-parliamentary-committees-formed-none-chaired-opposition-mps-1537321",
+      "pubDate": "Wed, 09 Sep 2026 01:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/15/untitled_design_15.jpg",
+      "snippet": "Five standing committees were formed and two reconstituted, taking the total number of committees constituted in the 13th parliament to 45."
+    },
+    {
+      "title": "Trade deficit widens to $2b as exports fall, petroleum, fertiliser imports rise",
+      "link": "https://www.tbsnews.net/economy/trade-deficit-widens-2b-exports-fall-petroleum-fertiliser-imports-rise-1537316",
+      "pubDate": "Wed, 09 Sep 2026 00:55:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/06/16/trade_deficit.jpg",
+      "snippet": "According to BoP data, imports grew by 8.6% in July, while exports declined by 1.9%. As imports exceed exports, the trade deficit widens."
+    },
+    {
+      "title": "Bepza Zone-2 makes export debut with $50,000 machinery shipment",
+      "link": "https://www.tbsnews.net/economy/bepza-zone-2-makes-export-debut-50000-machinery-shipment-1537311",
+      "pubDate": "Wed, 09 Sep 2026 00:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/bepza.png",
+      "snippet": "Lee’s Tobacco Machinery Company Ltd, the zone’s first exporting enterprise, shipped the machinery yesterday (8 september) after obtaining its export permission from the Bepza on 3 September."
+    },
+    {
+      "title": "Govt, opposition must unite to ensure justice for AL-era enforced disappearances, killings: Salahuddin",
+      "link": "https://www.tbsnews.net/bangladesh/govt-opposition-must-unite-ensure-justice-al-era-enforced-disappearances-killings",
+      "pubDate": "Wed, 09 Sep 2026 00:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/12/salahuddin_ahmed.jpg",
+      "snippet": "Salahuddin Ahmed says all political parties should work together to bring fugitive accused to justice."
+    },
+    {
+      "title": "Country’s first liver fat quantification machine inaugurated at NINMAS, BMU",
+      "link": "https://www.tbsnews.net/bangladesh/health/countrys-first-liver-fat-quantification-machine-inaugurated-ninmas-bmu-1537296",
+      "pubDate": "Wed, 09 Sep 2026 00:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/08/bmu.jpg",
+      "snippet": "Professor Dr AKM Fazlul Bari says approximately 33% of people in Bangladesh suffer from fatty liver or liver fat-related problems, while around 16% are affected by chronic liver disease and liver cancer, and 2% by thyroid cancer."
+    },
+    {
+      "title": "UNGA President Khalilur Rahman vows open, inclusive presidency",
+      "link": "https://www.tbsnews.net/bangladesh/unga-president-khalilur-rahman-vows-open-inclusive-presidency-1537281",
+      "pubDate": "Tue, 08 Sep 2026 23:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/08/fm_unga.jpg",
+      "snippet": "Khalilur pledges to place place a “high premium on cooperation and dialogue” during his presidency."
+    },
+    {
+      "title": "No official confirmation of Benazir's presence in Saint Lucia: Home minister ",
+      "link": "https://www.tbsnews.net/bangladesh/no-official-confirmation-benazirs-presence-saint-lucia-home-minister-1537266",
+      "pubDate": "Tue, 08 Sep 2026 23:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/05/26/benazir.ahmed_.png",
+      "snippet": "Salahuddin says Bangladesh sent a formal extradition request through diplomatic channels four days later on 16 June, and also sent a copy to NCB Abu Dhabi the same day."
+    },
+    {
+      "title": "Customers withdraw Tk670cr from Sammilito Islami Bank in two days",
+      "link": "https://www.tbsnews.net/economy/banking/customers-withdraw-tk670cr-sammilito-islami-bank-two-days-1537231",
+      "pubDate": "Tue, 08 Sep 2026 22:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/07/sammilito_islami_bank.jpg",
+      "snippet": "Md Abedur Rahman Sikder, managing director of Sammilito Islamic Bank, said the number of customers actually withdrawing money was much lower than the number who had applied."
+    },
+    {
+      "title": "FM Khalilur Rahman begins journey as UNGA president",
+      "link": "https://www.tbsnews.net/bangladesh/fm-khalilur-rahman-begins-journey-unga-president-1537236",
+      "pubDate": "Tue, 08 Sep 2026 22:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/08/fm_unga.jpg",
+      "snippet": "Khalilur Rahman will lead the UN General Assembly, the world’s main multilateral forum, for the next year."
+    },
+    {
       "title": "Bangladesh condemns Houthi attacks on Saudi Arabia",
       "link": "https://www.tbsnews.net/foreign-policy/bangladesh-condemns-houthi-attacks-saudi-arabia-1537211",
       "pubDate": "Tue, 08 Sep 2026 21:55:00 +0600",
@@ -56,7 +166,7 @@
       "snippet": "The minister says initiatives have also been taken to make Dhaka's circular waterways and water bus services more effective."
     },
     {
-      "title": "Bangladesh economy shows resilience as agriculture expands, construction rebounds in August ",
+      "title": "Bangladesh PMI falls to 49.9 in August as manufacturing, services contract",
       "link": "https://www.tbsnews.net/economy/bangladesh-economy-shows-resilience-agriculture-expands-construction-rebounds-august-1537136",
       "pubDate": "Tue, 08 Sep 2026 21:20:00 +0600",
       "category": "Economy",
@@ -136,32 +246,21 @@
       "title": "Govt targets 20% of electricity from renewables by 2030: Amit",
       "link": "https://www.tbsnews.net/economy/energy/govt-targets-20-electricity-renewables-2030-amit-1537066",
       "pubDate": "Tue, 08 Sep 2026 20:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/09/03/solar_power.png",
       "snippet": "Of this, rooftop solar is expected to contribute 5,500 megawatts and ground-mounted solar 4,500 megawatts, while wind, waste-to-energy, hydropower, floating solar and agrivoltaic technologies are projected to contribute a further 450 to 550 megawatts..."
-    },
-    {
-      "title": "Proposal tabled to name parliament entrance after General Osmani, honour legacy in textbooks",
-      "link": "https://www.tbsnews.net/bangladesh/proposal-name-parliament-entrance-after-general-osmani-honour-legacy-textbooks-1537061",
-      "pubDate": "Tue, 08 Sep 2026 20:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/08/mag_osmani.jpg",
-      "snippet": "Lawmaker also proposes state-level observance of the Liberation War commander’s birth and death anniversaries."
     },
     {
       "title": "Political loyalty not prioritised in VC appointments: Milon",
       "link": "https://www.tbsnews.net/bangladesh/education/political-loyalty-not-prioritised-vc-appointments-milon-1537056",
       "pubDate": "Tue, 08 Sep 2026 20:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/08/education_minister_anm_ehsanul_hoque_milon.jpg",
       "snippet": "Education Minister ANM Ehsanul Hoque Milon has rejected allegations that political loyalty influenced the appointment of vice-chancellors at public universities."
     },
@@ -169,67 +268,12 @@
       "title": "PM urges students to maintain cleanliness to prevent dengue",
       "link": "https://www.tbsnews.net/bangladesh/health/pm-urges-students-maintain-cleanliness-prevent-dengue-1537046",
       "pubDate": "Tue, 08 Sep 2026 20:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/08/prime_minister_tarique_rahman.jpg",
       "snippet": "We must also care for helpless and defenceless animals around us, says PM"
-    },
-    {
-      "title": "'Ansar members beat man to death' at BTCL office in Tejgaon",
-      "link": "https://www.tbsnews.net/bangladesh/crime/ansar-members-beat-man-death-btcl-office-tejgaon-1537036",
-      "pubDate": "Tue, 08 Sep 2026 20:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/28/dead_2.png",
-      "snippet": "The deceased, believed to be around 25 years old, has not yet been identified."
-    },
-    {
-      "title": "4 Bangladeshis killed in Saudi Arabia road crash",
-      "link": "https://www.tbsnews.net/bangladesh/4-bangladeshis-killed-saudi-arabia-road-crash-1537021",
-      "pubDate": "Tue, 08 Sep 2026 19:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/dead_body.jpg",
-      "snippet": "Four Bangladeshi expatriates from Sylhet were killed in a road accident in Saudi Arabia while travelling between Taif and Jeddah."
-    },
-    {
-      "title": "BGMEA, BKMEA object to withdrawal of bond facility on yarn imports",
-      "link": "https://www.tbsnews.net/economy/rmg/bgmea-bkmea-object-withdrawal-bond-facility-yarn-imports-1537011",
-      "pubDate": "Tue, 08 Sep 2026 19:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/08/bgmea_and_bkmea.jpg",
-      "snippet": "BGMEA and BKMEA have urged the government to immediately reverse the NBR’s decision to withdraw bonded warehouse facilities for 10–30 count cotton yarn imports, warning it could raise production costs and weaken the RMG sector’s global competitivenes..."
-    },
-    {
-      "title": "'Won't leave Venice without seeing this through': Badhan says getting support from embassy, will file case",
-      "link": "https://www.tbsnews.net/bangladesh/i-wont-leave-venice-until-i-see-through-badhan-1537016",
-      "pubDate": "Tue, 08 Sep 2026 19:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/08/badhan.jpg",
-      "snippet": "The actress says she has evidence of the attack and that some of the alleged attackers have been identified."
-    },
-    {
-      "title": "WHO greets Bangladesh on reducing maternal mortality  ",
-      "link": "https://www.tbsnews.net/bangladesh/who-greets-bangladesh-reducing-maternal-mortality-1536996",
-      "pubDate": "Tue, 08 Sep 2026 19:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/08/who_director_general_.png",
-      "snippet": "The WHO South-East Asia Regional Office also congratulated the Bangladesh government for sustaining maternal and neonatal tetanus elimination for the past 10 years."
     },
     {
       "title": "WB recommends phased tariff reform to boost Bangladesh’s trade competitiveness",
@@ -276,17 +320,6 @@
       "snippet": "The company has already announced a deep overhaul of Siri — ​in part by tapping Google's AI tech behind the scenes — and that may prove to be Ternus' first big success after years of ​delays. A successful revamp by the end of this year could give App..."
     },
     {
-      "title": "Govt plans to introduce mid-day meals in all madrasahs: Education minister",
-      "link": "https://www.tbsnews.net/bangladesh/education/govt-plans-introduce-mid-day-meals-all-madrasahs-education-minister-1536846",
-      "pubDate": "Tue, 08 Sep 2026 17:00:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/08/education_minister.jpg",
-      "snippet": "The minister says the government has introduced the Madrasah Education Excellence Support Program (MEESP) under the Education Ministry’s SEDP to expand support for madrasah students."
-    },
-    {
       "title": "Govt rolls out stipends, school meals to reduce school dropout: State minister",
       "link": "https://www.tbsnews.net/bangladesh/education/govt-rolls-out-stipends-school-meals-reduce-school-dropout-state-minister",
       "pubDate": "Tue, 08 Sep 2026 17:00:00 +0600",
@@ -298,7 +331,18 @@
       "snippet": "Free distribution of school uniforms to government primary school students, alongside efforts to provide bags, shoes and other learning materials are among the measures, he said."
     },
     {
-      "title": "Textile millers hail withdrawal of duty-free bonded import facility for 10-30-count yarn",
+      "title": "Govt plans to introduce mid-day meals in all madrasahs: Education minister",
+      "link": "https://www.tbsnews.net/bangladesh/education/govt-plans-introduce-mid-day-meals-all-madrasahs-education-minister-1536846",
+      "pubDate": "Tue, 08 Sep 2026 17:00:00 +0600",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/08/education_minister.jpg",
+      "snippet": "The minister says the government has introduced the Madrasah Education Excellence Support Program (MEESP) under the Education Ministry’s SEDP to expand support for madrasah students."
+    },
+    {
+      "title": "Govt withdraws bond facility for yarn import",
       "link": "https://www.tbsnews.net/economy/industry/textile-millers-hail-withdrawal-duty-free-bonded-import-facility-10-30-count-yarn",
       "pubDate": "Tue, 08 Sep 2026 16:40:00 +0600",
       "category": "Economy",
@@ -306,7 +350,7 @@
       "bg": "#e8f5e9",
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/06/13/yarn.jpg",
-      "snippet": "Genuine exporters will still be allowed to import these yarn counts by furnishing a 100% bank guarantee."
+      "snippet": "Textile millers hails decision, while garment exporters strongly protest."
     },
     {
       "title": "Measles death toll reaches 999 as 2 more children die in 24 hours",
@@ -848,24 +892,13 @@
       "snippet": "Hollywood has taught us to imagine disasters as dramatic stories of last-minute escapes and heroic rescues. However, in Nepal’s recent flash-flood disaster, it was local knowledge, quick action and human courage that saved lives"
     },
     {
-      "title": "Gold price cut by Tk2,216 per bhori",
-      "link": "https://www.tbsnews.net/economy/gold-price-cut-tk2216-bhori-1534661",
-      "pubDate": "Sun, 06 Sep 2026 13:50:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/06/16/gold_jewellery.jpg",
-      "snippet": "Under the new rate, per bhori of 22-carat gold jewellery will now cost Tk2,35,146, including VAT."
-    },
-    {
       "title": "Tk10,000cr fund sought to make private economic zones investment-ready",
       "link": "https://www.tbsnews.net/economy/industry/tk10000cr-fund-sought-make-private-economic-zones-investment-ready-1534556",
       "pubDate": "Sun, 06 Sep 2026 13:00:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
+      "category": "Industry",
+      "color": "#f57c00",
+      "bg": "#fff3e0",
+      "icon": "🏭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/06/private_economic_zones.jpg",
       "snippet": "The Private Economic Zones Association of Bangladesh (Pezab) has proposed initially setting up a Tk5,000 crore fund and gradually increasing it to Tk10,000 crore"
     },
@@ -879,18 +912,7 @@
       "icon": "🏭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/gazipur_gas_crisis_factory.jpeg",
       "snippet": "Five lakh jobs, Tk20,000cr investment at risk as factories struggle to maintain production"
-    },
-    {
-      "title": "Govt plans expansion of National Gastro-Liver Institute",
-      "link": "https://www.tbsnews.net/bangladesh/health/govt-plans-expansion-national-gastro-liver-institute-1534381",
-      "pubDate": "Sat, 05 Sep 2026 23:30:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/05/1753558106_68852c5ab1619.jpg",
-      "snippet": "He proposed incorporating the expansion into the “Establishment of 500-Bedded Medical College Hospital and Ancillary Building in Jashore, Cox’s Bazar, Pabna and Noakhali (Proposed 2nd Revision)” project."
     }
   ],
-  "updatedAt": "2026-09-08T16:05:28.295Z"
+  "updatedAt": "2026-09-08T19:29:47.089Z"
 }
