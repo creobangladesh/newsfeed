@@ -1,6 +1,138 @@
 {
   "news": [
     {
+      "title": "Rainfall likely to increase over next 5 days: BMD",
+      "link": "https://www.tbsnews.net/bangladesh/rainfall-likely-increase-over-next-5-days-bmd-1536526",
+      "pubDate": "Tue, 08 Sep 2026 12:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/08/5384188.jpg",
+      "snippet": "Day and night temperatures may remain nearly unchanged across the country."
+    },
+    {
+      "title": "Ctg hospital refers newborn to Evercare NICU after infant receives ‘mother's medication'; nurse suspended",
+      "link": "https://www.tbsnews.net/bangladesh/health/ctg-hospital-refers-newborn-evercare-nicu-after-infant-receives-mothers-medication",
+      "pubDate": "Tue, 08 Sep 2026 11:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/06/cscr_ctg.jpg",
+      "snippet": "The decision came from a medical board formed by CSCR after the baby’s condition had deteriorated yesterday (7 September)."
+    },
+    {
+      "title": "Second-hand smoke causes nearly 1.7m deaths globally: Study",
+      "link": "https://www.tbsnews.net/bangladesh/health/second-hand-smoke-causes-nearly-17m-deaths-globally-study-1536501",
+      "pubDate": "Tue, 08 Sep 2026 11:20:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/08/untitled_design_9.jpg",
+      "snippet": "People in close proximity to someone smoking are exposed to both “sidestream smoke” from the burning tobacco product and smoke exhaled by the active smoker, the study explained."
+    },
+    {
+      "title": "When literacy meets financial inclusion, empowerment begins",
+      "link": "https://www.tbsnews.net/thoughts/when-literacy-meets-financial-inclusion-empowerment-begins-1536491",
+      "pubDate": "Tue, 08 Sep 2026 11:15:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/08/sb-01_1.jpeg",
+      "snippet": "Financial literacy is an essential part of modern literacy, shaping how people save, borrow, transact and plan for the future. Through initiatives spanning schools, universities and communities, Prime Bank PLC is working to build a more financially c..."
+    },
+    {
+      "title": "The lesson we pay for twice",
+      "link": "https://www.tbsnews.net/thoughts/lesson-we-pay-twice-1536481",
+      "pubDate": "Tue, 08 Sep 2026 11:10:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/08/15_thoughts_copy_1.png",
+      "snippet": "Failure is inevitable in development work, but repeating it is not. The real test is whether organisations can create the honesty, systems and courage needed to learn from what goes wrong"
+    },
+    {
+      "title": "BNP grassroots fear central directives may be ignored in local elections",
+      "link": "https://www.tbsnews.net/bangladesh/politics/bnp-grassroots-fear-central-directives-may-be-ignored-local-elections-1536461",
+      "pubDate": "Tue, 08 Sep 2026 11:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/symbol/2026/02/03/bangladesh_nationalist_party_bnp.png",
+      "snippet": "The government is preparing to begin local government elections towards the end of this year."
+    },
+    {
+      "title": "Delhi tells Dhaka it will not extradite Hasina, insists on her safety if she returns: Anandabazar",
+      "link": "https://www.tbsnews.net/foreign-policy/delhi-tells-dhaka-it-will-not-extradite-hasina-insists-her-safety-if-she-returns",
+      "pubDate": "Tue, 08 Sep 2026 10:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/04/sheikh_hasina.jpg",
+      "snippet": "New Delhi's position, officials say, rests on the argument that any extradition request can only be approved once the host country is satisfied that the individual has been convicted through due legal process."
+    },
+    {
+      "title": "PRAN-RFL, Walton go big on solar equipment manufacturing amid energy crisis",
+      "link": "https://www.tbsnews.net/economy/energy/pran-rfl-walton-go-big-solar-equipment-manufacturing-amid-energy-crisis-1536411",
+      "pubDate": "Tue, 08 Sep 2026 10:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/08/lead_0.png",
+      "snippet": "Simultaneously, the two groups plan to invest in small, medium, and large-scale solar power projects nationwide under a capex model – supplying equipment while providing operation and maintenance services to public and private sector clients."
+    },
+    {
+      "title": "Actress Badhon alleges harassment, attack by Awami League supporters in Italy",
+      "link": "https://www.tbsnews.net/bangladesh/actress-badhon-alleges-harassment-attack-awami-league-supporters-italy-1536431",
+      "pubDate": "Tue, 08 Sep 2026 09:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/08/badhon.jpg",
+      "snippet": "The actress further alleged that the attackers identified themselves as supporters or \"soldiers of Bangabandhu\" and forced her to chant, \"Joy Bangla, Joy Bangabandhu.\""
+    },
+    {
+      "title": "Dhaka, Chattogram remain among world's least resilient major cities",
+      "link": "https://www.tbsnews.net/bangladesh/dhaka-remains-among-worlds-least-resilient-major-cities-1536401",
+      "pubDate": "Tue, 08 Sep 2026 08:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/12/dhaka_flood_12_july_1.jpeg",
+      "snippet": "Dhaka had a physical risk score of 60, the highest among the 72 major cities assessed in the index"
+    },
+    {
+      "title": "Bangladesh, India plan to resume cross-border passenger trains by October",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-india-plan-resume-cross-border-passenger-trains-october-1536391",
+      "pubDate": "Tue, 08 Sep 2026 08:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/train_unb_img.jpg",
+      "snippet": "The services covered by the planned resumption are the Maitree Express between Dhaka and Kolkata, the Mitali Express and the Bandhan Express"
+    },
+    {
+      "title": "Carew’s distillery profit crosses Tk200cr amid sales boom",
+      "link": "https://www.tbsnews.net/economy/industry/carews-distillery-profit-crosses-tk200cr-amid-sales-boom-1536386",
+      "pubDate": "Tue, 08 Sep 2026 07:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/01/23/carew.jpeg",
+      "snippet": "Liquor sales rose to around Tk500 crore for the first time as well, marking 10% growth from the previous fiscal year, while profit before tax increased 18% to Tk224 crore, according to a company official."
+    },
+    {
       "title": "Tk3cr fabric container 'traceless' at Ctg Port for weeks despite paid charges",
       "link": "https://www.tbsnews.net/bangladesh/tk3cr-fabric-container-traceless-ctg-port-weeks-despite-paid-charges-1536381",
       "pubDate": "Tue, 08 Sep 2026 03:10:00 +0600",
@@ -122,50 +254,6 @@
       "snippet": "The Cabinet also approves a proposal to amend a notification on the minimum price of low-tier cigarettes under the Value Added Tax and Supplementary Duty Act, 2012."
     },
     {
-      "title": "UN rights chief calls for independent oversight body for Bangladesh law enforcement",
-      "link": "https://www.tbsnews.net/bangladesh/un-rights-chief-calls-independent-oversight-body-bangladesh-law-enforcement-1536296",
-      "pubDate": "Tue, 08 Sep 2026 00:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/08/volker_turk.jpg",
-      "snippet": "“We have long called for a strong, independent national institution to oversee law enforcement agencies in Bangladesh,” Türk says."
-    },
-    {
-      "title": "Opposition calls for energy taskforce as govt hopes to resolve crisis by 2030",
-      "link": "https://www.tbsnews.net/economy/energy/opposition-calls-energy-taskforce-govt-hopes-resolve-crisis-2030-1536291",
-      "pubDate": "Mon, 07 Sep 2026 23:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/renewable_energy_img.jpg",
-      "snippet": "The government must present the public with a clear picture of the country's electricity shortage, Opposition Leader Shafiqur Rahman says."
-    },
-    {
-      "title": "DSEX stages dramatic 95-point turnaround to end in green",
-      "link": "https://www.tbsnews.net/economy/stocks/dsex-stages-dramatic-95-point-turnaround-end-green-1536366",
-      "pubDate": "Mon, 07 Sep 2026 23:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/03/01/b75a3f43-e8bb-492c-b0a9-88afb324c29c.jpg",
-      "snippet": "Total turnover on the DSE saw a 5% uptick, reaching Tk571 crore."
-    },
-    {
-      "title": "Kurigram Express derails at Santahar, train services suspended",
-      "link": "https://www.tbsnews.net/bangladesh/kurigram-express-derails-santahar-train-services-suspended-1536276",
-      "pubDate": "Mon, 07 Sep 2026 22:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/07/798487703_1381462527465295_4346484643674823876_n.jpg",
-      "snippet": "The derailed coach was carrying goods at the rear of the Dhaka-bound train, with no casualties reported."
-    },
-    {
       "title": "Cenbank makes entry exams mandatory for private banks",
       "link": "https://www.tbsnews.net/economy/banking/bangladesh-bank-makes-entry-exams-mandatory-private-banks-1536266",
       "pubDate": "Mon, 07 Sep 2026 22:10:00 +0600",
@@ -175,28 +263,6 @@
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/28/bangladesh_bank.jpg",
       "snippet": "The rules cover entry-level bank posts that do not require prior work experience, including management trainee, senior, probationary and junior officer positions."
-    },
-    {
-      "title": "EC bans posters, rallies in local govt election campaigns",
-      "link": "https://www.tbsnews.net/bangladesh/ec-bans-posters-rallies-local-govt-election-campaigns-1536236",
-      "pubDate": "Mon, 07 Sep 2026 22:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/01/04/ec_logo_3.jpg",
-      "snippet": "It issues separate but largely identical codes of conduct for city corporations, district, upazila, municipalities and union councils."
-    },
-    {
-      "title": "PM invites opposition leader to Tk150 meal after praise for modest lunch cost",
-      "link": "https://www.tbsnews.net/bangladesh/politics/pm-invites-opposition-leader-tk150-meal-after-praise-modest-lunch-cost-1536261",
-      "pubDate": "Mon, 07 Sep 2026 22:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/07/pm_opposition_leader.png",
-      "snippet": "The light-hearted exchange took place during a general discussion under Rule 68."
     },
     {
       "title": "CU teacher suspended over derogatory remarks on July Uprising",
@@ -210,28 +276,6 @@
       "snippet": "The authorities have also ordered the formation of an investigation committee to conduct further inquiry into the case."
     },
     {
-      "title": "CVO Petrochemicals shuts factory for maintenance",
-      "link": "https://www.tbsnews.net/economy/stocks/cvo-petrochemicals-shuts-factory-maintenance-1536226",
-      "pubDate": "Mon, 07 Sep 2026 22:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/09/23/81961693_3692022500831682_1600059644871442432_n.jpg",
-      "snippet": "The company’s board decided to suspend operations for around three weeks, with the shutdown period subject to further review."
-    },
-    {
-      "title": "Govt plans standard fees for private hospitals, diagnostic centres ",
-      "link": "https://www.tbsnews.net/bangladesh/govt-plans-standard-fees-private-hospitals-diagnostic-centres-1536241",
-      "pubDate": "Mon, 07 Sep 2026 22:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/23/sardar_sakhawat_husain.jpg",
-      "snippet": "Proposed guidelines will cover fee display, receipts, overcharging, complaints and regulatory action against errant facilities."
-    },
-    {
       "title": "NRBC Bank sponsor to gift 30 lakh shares to brother",
       "link": "https://www.tbsnews.net/economy/stocks/nrbc-bank-sponsor-gift-30-lakh-shares-brother-1536216",
       "pubDate": "Mon, 07 Sep 2026 21:55:00 +0600",
@@ -241,17 +285,6 @@
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/06/25/nrbc_bank_logo_existing-16.png",
       "snippet": "NRBC Bank is currently traded in the “Z” category on the stock exchanges after failing to declare dividends for shareholders for two consecutive years."
-    },
-    {
-      "title": "Containers empty but system shows Tk5.5cr export: Customs foils fake shipment",
-      "link": "https://www.tbsnews.net/bangladesh/crime/containers-empty-system-shows-tk55cr-export-customs-foils-fake-shipment-1536211",
-      "pubDate": "Mon, 07 Sep 2026 21:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/07/empty_container_ctg.png",
-      "snippet": "The five containers, declared to contain a combined 1,21,000kg of goods, had been entered into the customs automated software ASYCUDA World as an export consignment."
     },
     {
       "title": "Govt considers production costs, reasonable profit in setting medicine prices",
@@ -780,51 +813,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/26/measles.jpg",
       "snippet": "The country recorded 843 new suspected measles cases during the 24-hour period."
-    },
-    {
-      "title": "Four years after opening, Super Specialised Hospital heads for corporate model",
-      "link": "https://www.tbsnews.net/bangladesh/health/four-years-after-opening-super-specialised-hospital-heads-corporate-model-1533796",
-      "pubDate": "Sat, 05 Sep 2026 10:55:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/06/hospital_representational_freepik.jpg",
-      "snippet": "The 750-bed facility in Dhaka’s Shahbagh was inaugurated in September 2022 to provide advanced treatment to patients who otherwise travel abroad. However, it could not become fully operational due to shortages of doctors and support staff and the abs..."
-    },
-    {
-      "title": "How Bangladesh became an energy-importing nation despite early warnings",
-      "link": "https://www.tbsnews.net/analysis/how-bangladesh-became-energy-importing-nation-despite-early-warnings-1533751",
-      "pubDate": "Sat, 05 Sep 2026 10:00:00 +0600",
-      "category": "Analysis",
-      "color": "#5d4037",
-      "bg": "#efebe9",
-      "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/05/p_1_bangladeshs_energy_security.png",
-      "snippet": "While fuel imports brought temporary relief and benefited a select group of businesspeople, their prolonged use and lack of focus on long-term solutions failed to ultimately benefit the nation, leaving Bangladesh steadily inching towards its 2030-31 ..."
-    },
-    {
-      "title": "Chattogram Customs revenue jumps 29% in August after July slump",
-      "link": "https://www.tbsnews.net/economy/chattogram-customs-revenue-jumps-29-august-after-july-slump-1533756",
-      "pubDate": "Sat, 05 Sep 2026 09:30:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/06/24/ctg_customs.jpg",
-      "snippet": "Jul-Aug revenue Tk7,512cr short of target despite rebound."
-    },
-    {
-      "title": "Financing crunch hits agri-machinery imports, slowing mechanisation",
-      "link": "https://www.tbsnews.net/economy/financing-crunch-hits-agri-machinery-imports-slowing-mechanisation-1533711",
-      "pubDate": "Sat, 05 Sep 2026 07:45:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/05/16/ctg_port_2_1.png",
-      "snippet": "With more funds tied up in LCs, traders with limited capital say they can no longer import the volumes they need"
     }
   ],
-  "updatedAt": "2026-09-08T01:18:11.326Z"
+  "updatedAt": "2026-09-08T06:17:21.694Z"
 }
