@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "UAE has no information on Benazir leaving country: Humaiun",
+      "link": "https://www.tbsnews.net/bangladesh/uae-has-no-information-benazir-leaving-country-humaiun-1537336",
+      "pubDate": "Wed, 09 Sep 2026 01:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/09/humaiun_benazir_parliament.png",
+      "snippet": "The state minister says this suggests that Benazir may still be in the UAE"
+    },
+    {
       "title": "Opposition proposes special cell to bring Benazir, other fugitives back",
       "link": "https://www.tbsnews.net/bangladesh/opposition-proposes-special-cell-bring-benazir-other-fugitives-back-1537331",
       "pubDate": "Wed, 09 Sep 2026 01:15:00 +0600",
@@ -89,17 +100,6 @@
       "snippet": "Salahuddin says Bangladesh sent a formal extradition request through diplomatic channels four days later on 16 June, and also sent a copy to NCB Abu Dhabi the same day."
     },
     {
-      "title": "Customers withdraw Tk670cr from Sammilito Islami Bank in two days",
-      "link": "https://www.tbsnews.net/economy/banking/customers-withdraw-tk670cr-sammilito-islami-bank-two-days-1537231",
-      "pubDate": "Tue, 08 Sep 2026 22:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/07/sammilito_islami_bank.jpg",
-      "snippet": "Md Abedur Rahman Sikder, managing director of Sammilito Islamic Bank, said the number of customers actually withdrawing money was much lower than the number who had applied."
-    },
-    {
       "title": "FM Khalilur Rahman begins journey as UNGA president",
       "link": "https://www.tbsnews.net/bangladesh/fm-khalilur-rahman-begins-journey-unga-president-1537236",
       "pubDate": "Tue, 08 Sep 2026 22:00:00 +0600",
@@ -109,6 +109,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/08/fm_unga.jpg",
       "snippet": "Khalilur Rahman will lead the UN General Assembly, the world’s main multilateral forum, for the next year."
+    },
+    {
+      "title": "Customers withdraw Tk670cr from Sammilito Islami Bank in two days",
+      "link": "https://www.tbsnews.net/economy/banking/customers-withdraw-tk670cr-sammilito-islami-bank-two-days-1537231",
+      "pubDate": "Tue, 08 Sep 2026 22:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/07/sammilito_islami_bank.jpg",
+      "snippet": "Md Abedur Rahman Sikder, managing director of Sammilito Islamic Bank, said the number of customers actually withdrawing money was much lower than the number who had applied."
     },
     {
       "title": "Bangladesh condemns Houthi attacks on Saudi Arabia",
@@ -232,18 +243,7 @@
       "snippet": "The agreement covers industry-focused research, knowledge and information sharing, and technology transfer to support mineral sand development."
     },
     {
-      "title": "Jamaat MP opposes proposed changes to written, viva marks in govt job recruitment",
-      "link": "https://www.tbsnews.net/bangladesh/jamaat-mp-opposes-proposed-changes-written-viva-marks-govt-job-recruitment-1537081",
-      "pubDate": "Tue, 08 Sep 2026 20:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/12/23/lead_job_0.jpg",
-      "snippet": "Shafiqul Islam Masud warns the changes could undermine transparency and create scope for politicisation, corruption and irregularities."
-    },
-    {
-      "title": "Govt targets 20% of electricity from renewables by 2030: Amit",
+      "title": "Govt to tap idle khas land for large solar plants; eyes 460MW in Rampal, 70MW in Matarbari",
       "link": "https://www.tbsnews.net/economy/energy/govt-targets-20-electricity-renewables-2030-amit-1537066",
       "pubDate": "Tue, 08 Sep 2026 20:40:00 +0600",
       "category": "Economy",
@@ -251,7 +251,7 @@
       "bg": "#e8f5e9",
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/09/03/solar_power.png",
-      "snippet": "Of this, rooftop solar is expected to contribute 5,500 megawatts and ground-mounted solar 4,500 megawatts, while wind, waste-to-energy, hydropower, floating solar and agrivoltaic technologies are projected to contribute a further 450 to 550 megawatts..."
+      "snippet": "The government has received information on about 60,000 acres of unused land from different ministries, State Minister for Power and Energy Anindya Islam Amit says."
     },
     {
       "title": "Political loyalty not prioritised in VC appointments: Milon",
@@ -320,17 +320,6 @@
       "snippet": "The company has already announced a deep overhaul of Siri — ​in part by tapping Google's AI tech behind the scenes — and that may prove to be Ternus' first big success after years of ​delays. A successful revamp by the end of this year could give App..."
     },
     {
-      "title": "Govt rolls out stipends, school meals to reduce school dropout: State minister",
-      "link": "https://www.tbsnews.net/bangladesh/education/govt-rolls-out-stipends-school-meals-reduce-school-dropout-state-minister",
-      "pubDate": "Tue, 08 Sep 2026 17:00:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/08/220b37fe-c1b7-4f04-9c68-80442599e321.jpg",
-      "snippet": "Free distribution of school uniforms to government primary school students, alongside efforts to provide bags, shoes and other learning materials are among the measures, he said."
-    },
-    {
       "title": "Govt plans to introduce mid-day meals in all madrasahs: Education minister",
       "link": "https://www.tbsnews.net/bangladesh/education/govt-plans-introduce-mid-day-meals-all-madrasahs-education-minister-1536846",
       "pubDate": "Tue, 08 Sep 2026 17:00:00 +0600",
@@ -340,6 +329,17 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/08/education_minister.jpg",
       "snippet": "The minister says the government has introduced the Madrasah Education Excellence Support Program (MEESP) under the Education Ministry’s SEDP to expand support for madrasah students."
+    },
+    {
+      "title": "Govt rolls out stipends, school meals to reduce school dropout: State minister",
+      "link": "https://www.tbsnews.net/bangladesh/education/govt-rolls-out-stipends-school-meals-reduce-school-dropout-state-minister",
+      "pubDate": "Tue, 08 Sep 2026 17:00:00 +0600",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/08/220b37fe-c1b7-4f04-9c68-80442599e321.jpg",
+      "snippet": "Free distribution of school uniforms to government primary school students, alongside efforts to provide bags, shoes and other learning materials are among the measures, he said."
     },
     {
       "title": "Govt withdraws bond facility for yarn import",
@@ -914,5 +914,5 @@
       "snippet": "Five lakh jobs, Tk20,000cr investment at risk as factories struggle to maintain production"
     }
   ],
-  "updatedAt": "2026-09-08T19:29:47.089Z"
+  "updatedAt": "2026-09-08T21:59:02.622Z"
 }
