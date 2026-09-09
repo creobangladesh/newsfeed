@@ -1,6 +1,61 @@
 {
   "news": [
     {
+      "title": "3 more arrested over killing of police officer in Savar",
+      "link": "https://www.tbsnews.net/bangladesh/3-more-arrested-over-killing-police-officer-savar-1537411",
+      "pubDate": "Wed, 09 Sep 2026 10:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/06/14/1660100471-four-arrested-with-hoarded-diesel-stock-l.jpg",
+      "snippet": "Md Zakir Al Ahsan, sub-inspector of Savar Model Police Station and the investigating officer in the case, confirmed the arrests."
+    },
+    {
+      "title": "We must make the United Nations fit for the future: Khalilur",
+      "link": "https://www.tbsnews.net/foreign-policy/we-must-make-united-nations-fit-future-khalilur-1537406",
+      "pubDate": "Wed, 09 Sep 2026 10:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/09/img_3379_0.jpeg",
+      "snippet": "He outlined his vision for the new session, stressing the need to restore trust in the world body through deeper reforms."
+    },
+    {
+      "title": "US cotton to reach Bangladesh faster as private warehouse opens in Nov",
+      "link": "https://www.tbsnews.net/economy/rmg/us-cotton-reach-bangladesh-faster-private-warehouse-opens-nov-1537371",
+      "pubDate": "Wed, 09 Sep 2026 10:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/09/us-cotton.png",
+      "snippet": "Formal launch scheduled for 18 November"
+    },
+    {
+      "title": "Youth can help meet Bangladesh's blood demand through regular donation: DU VC",
+      "link": "https://www.tbsnews.net/bangladesh/youth-can-help-meet-bangladeshs-blood-demand-through-regular-donation-du-vc-1537376",
+      "pubDate": "Wed, 09 Sep 2026 09:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/08/09/blood-g4ee419036_1920.jpg",
+      "snippet": "The DU vice-chancellor said recognising voluntary blood donors was a special initiative reflecting the spirit of building a new Bangladesh."
+    },
+    {
+      "title": "From days to minutes: Shanta Life rewrites insurance experience thru digitalisation",
+      "link": "https://www.tbsnews.net/bangladesh/days-minutes-shanta-life-rewrites-insurance-experience-thru-digitalisation-1537366",
+      "pubDate": "Wed, 09 Sep 2026 08:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/09/shanta-life-insurance.png",
+      "snippet": "According to company data, total revenue in the second quarter of 2026 increased by 1,012% year-on-year. Monthly revenue also grew by approximately 167% from June to July."
+    },
+    {
       "title": "UAE has no information on Benazir leaving country: Humaiun",
       "link": "https://www.tbsnews.net/bangladesh/uae-has-no-information-benazir-leaving-country-humaiun-1537336",
       "pubDate": "Wed, 09 Sep 2026 01:25:00 +0600",
@@ -191,56 +246,12 @@
       "title": "Family of infant, now in NICU after getting wrong injection, demands Ctg hospital cover future treatment, warns of legal action",
       "link": "https://www.tbsnews.net/bangladesh/health/infant-receives-mothers-injection-family-demands-ctg-hospital-cover-future",
       "pubDate": "Tue, 08 Sep 2026 21:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/08/infant_die_dtg.jpg",
       "snippet": "Police deny refusing family’s written complaint over incident."
-    },
-    {
-      "title": "Shafiqur urges Nippon Foundation to expand Rohingya support",
-      "link": "https://www.tbsnews.net/bangladesh/shafiqur-urges-nippon-foundation-expand-rohingya-support-1537126",
-      "pubDate": "Tue, 08 Sep 2026 21:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/08/_nippon_foundation.png",
-      "snippet": "He assured the Nippon Foundation of all necessary cooperation in carrying out its humanitarian activities in Bangladesh."
-    },
-    {
-      "title": "Govt working to strengthen energy security: Titumir",
-      "link": "https://www.tbsnews.net/bangladesh/govt-working-strengthen-energy-security-titumir-1537111",
-      "pubDate": "Tue, 08 Sep 2026 21:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/02/for_web_rashed_al_mahmud_titumir.png",
-      "snippet": "Finance Adviser Rashed Al Mahmud Titumir said the government is pursuing new infrastructure and offshore exploration to strengthen Bangladesh's energy security."
-    },
-    {
-      "title": "Opposition MPs submit dissent notes on eight issues in SRB Bill",
-      "link": "https://www.tbsnews.net/bangladesh/opposition-mps-submit-dissent-notes-eight-issues-srb-bill-1537116",
-      "pubDate": "Tue, 08 Sep 2026 21:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/08/parliament.png",
-      "snippet": "According to committee sources, opposition members did not oppose the bill outright but urged that it not be rushed through without consultation with stakeholders."
-    },
-    {
-      "title": "BAEC, Everlast Minerals sign MoU to develop mineral sand industry",
-      "link": "https://www.tbsnews.net/bangladesh/baec-everlast-minerals-sign-mou-develop-mineral-sand-industry-1537101",
-      "pubDate": "Tue, 08 Sep 2026 20:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/08/798289903_1077800161645564_8188262552268942653_n.jpg",
-      "snippet": "The agreement covers industry-focused research, knowledge and information sharing, and technology transfer to support mineral sand development."
     },
     {
       "title": "Govt to tap idle khas land for large solar plants; eyes 460MW in Rampal, 70MW in Matarbari",
@@ -901,18 +912,7 @@
       "icon": "🏭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/06/private_economic_zones.jpg",
       "snippet": "The Private Economic Zones Association of Bangladesh (Pezab) has proposed initially setting up a Tk5,000 crore fund and gradually increasing it to Tk10,000 crore"
-    },
-    {
-      "title": "Gas crisis pushes ceramics industry to the brink",
-      "link": "https://www.tbsnews.net/economy/industry/gas-crisis-pushes-ceramics-industry-brink-1534416",
-      "pubDate": "Sun, 06 Sep 2026 07:35:00 +0600",
-      "category": "Industry",
-      "color": "#f57c00",
-      "bg": "#fff3e0",
-      "icon": "🏭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/gazipur_gas_crisis_factory.jpeg",
-      "snippet": "Five lakh jobs, Tk20,000cr investment at risk as factories struggle to maintain production"
     }
   ],
-  "updatedAt": "2026-09-09T00:02:19.300Z"
+  "updatedAt": "2026-09-09T04:59:42.834Z"
 }
