@@ -1,6 +1,127 @@
 {
   "news": [
     {
+      "title": "Fire breaks out at Apex showroom in Dhanmondi",
+      "link": "https://www.tbsnews.net/bangladesh/fire-breaks-out-apex-showroom-dhanmondi-1538696",
+      "pubDate": "Thu, 10 Sep 2026 11:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/10/att.6u3hbbfbcitzwtq0i0vvd8oepbov3xmsyve6gdfj80o.jpeg",
+      "snippet": "The fire broke out on the fifth and sixth floors of the building housing the Apex showroom."
+    },
+    {
+      "title": "Why every government fails to regulate battery-run autorickshaws ",
+      "link": "https://www.tbsnews.net/features/panorama/why-every-government-fails-regulate-battery-run-autorickshaws-1538706",
+      "pubDate": "Thu, 10 Sep 2026 11:20:00 +0600",
+      "category": "Analysis",
+      "color": "#5d4037",
+      "bg": "#efebe9",
+      "icon": "🔍",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/10/syed_zakir_hossain_1.jpg",
+      "snippet": "Bangladesh’s battery-run autorickshaw crisis shows how the political economy of informal transport governance has endured for decades, with regulation now caught between revenue losses, safety concerns and the livelihoods of millions of drivers"
+    },
+    {
+      "title": "A hawkish Fed, a firmer Dollar: Why Bangladesh should brace for costlier imports",
+      "link": "https://www.tbsnews.net/thoughts/hawkish-fed-firmer-dollar-why-bangladesh-should-brace-costlier-imports-1538671",
+      "pubDate": "Thu, 10 Sep 2026 11:15:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/10/e35d6uoocblptnexhsp4zg2wzm.jpg",
+      "snippet": "A stronger US jobs market has pushed the odds of a September rate hike above 50% and for a country financing much of its trade and energy bill in dollars, the timing could hardly be worse"
+    },
+    {
+      "title": "Bangladesh trapped in a cycle of retribution: When will it end?",
+      "link": "https://www.tbsnews.net/thoughts/bangladesh-trapped-cycle-retribution-when-will-it-end-1538691",
+      "pubDate": "Thu, 10 Sep 2026 11:15:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/10/img-20260909-wa0004.jpg",
+      "snippet": "Bangladesh’s cycle of political retribution has weakened its institutions, unsettled investors and deepened instability. With a new government in place, the country has another chance to break that cycle through lasting political consensus and instit..."
+    },
+    {
+      "title": "Tobacco tax reform must prioritise public health, experts tell PPRC dialogue",
+      "link": "https://www.tbsnews.net/bangladesh/tobacco-tax-reform-must-prioritise-public-health-experts-tell-pprc-dialogue-1538661",
+      "pubDate": "Thu, 10 Sep 2026 11:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/10/img_3440.jpeg",
+      "snippet": "Experts stressed that tax policies need to better account for changes in the tobacco market, product affordability, consumer behaviour and purchasing preferences."
+    },
+    {
+      "title": "From parliament to refugee camps: Rohang centre traces Rohingya history",
+      "link": "https://www.tbsnews.net/bangladesh/parliament-refugee-camps-rohang-centre-traces-rohingya-history-1538626",
+      "pubDate": "Thu, 10 Sep 2026 10:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/10/rohingya_exibition_.jpg",
+      "snippet": "Documents show political, civic and cultural life before displacement"
+    },
+    {
+      "title": "Money gets cheaper, yet takers are hard to get",
+      "link": "https://www.tbsnews.net/economy/money-gets-cheaper-yet-takers-are-hard-get-1538616",
+      "pubDate": "Thu, 10 Sep 2026 10:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/10/money.png",
+      "snippet": "By June 2026, total excess liquidity in the banking sector surged by 39.40% year-on-year to exceed Tk4 lakh crore."
+    },
+    {
+      "title": "Ex-minister Saifuzzaman Chowdhury faces bankruptcy action in UK",
+      "link": "https://www.tbsnews.net/bangladesh/ex-minister-saifuzzaman-chowdhury-faces-bankruptcy-action-uk-1538621",
+      "pubDate": "Thu, 10 Sep 2026 09:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/10/22/land_minister.png",
+      "snippet": "Dhaka-based SBAC Bank Plc has applied to have Chowdhury declared bankrupt, according to a court filing cited in a Bloomberg report published on 7 September."
+    },
+    {
+      "title": "OpenAI's rogue agents used at least 10 more sites for unauthorized comms, researchers say",
+      "link": "https://www.tbsnews.net/tech/openais-rogue-agents-used-least-10-more-sites-unauthorized-comms-researchers-say-1538611",
+      "pubDate": "Thu, 10 Sep 2026 09:10:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/10/_kenneth_russell_degraff_.jpg",
+      "snippet": "OpenAI did not directly address questions about how many different sites its agents used to communicate or say why it kept the activity under wraps for months."
+    },
+    {
+      "title": "How the abuse of Bangla QR threatens the country's MFS ecosystem",
+      "link": "https://www.tbsnews.net/bangladesh/how-abuse-bangla-qr-threatens-countrys-mfs-ecosystem-1538591",
+      "pubDate": "Thu, 10 Sep 2026 08:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/25/bangla_qr.png",
+      "snippet": "Bangla QR misuse is inflating digital payment figures and raising fraud, tax evasion and money laundering concerns."
+    },
+    {
+      "title": "Bangladesh may skip BRICS Summit in New Delhi",
+      "link": "https://www.tbsnews.net/foreign-policy/bangladesh-may-skip-brics-summit-new-delhi-1538571",
+      "pubDate": "Thu, 10 Sep 2026 07:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/prime_minister_tarique_rahman.jpg",
+      "snippet": "India will host the annual BRICS summit in New Delhi on 12 and 13 September, with the meeting expected to deliberate on several pressing global challenges, including the economic fallout of the West Asia crisis"
+    },
+    {
       "title": "Saima Wazed Putul resigns as WHO regional head after fraud allegations",
       "link": "https://www.tbsnews.net/bangladesh/saima-wazed-putul-resigns-who-regional-head-after-fraud-allegations-1538556",
       "pubDate": "Thu, 10 Sep 2026 01:45:00 +0600",
@@ -186,83 +307,6 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/09/women-business-u.jpg",
       "snippet": "According to the report, the 61 scheduled banks had a total workforce of 2,17,818 employees at the end of January-June 2026."
-    },
-    {
-      "title": "SC Bar President Khokon's conduct that led CJ to leave courtroom was not proper: Asaduzzaman",
-      "link": "https://www.tbsnews.net/bangladesh/khokons-conduct-led-cj-leave-courtroom-was-not-proper-asaduzzaman-1538411",
-      "pubDate": "Wed, 09 Sep 2026 21:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/21/law_minister.jpg",
-      "snippet": "Yesterday, the chief justice along with four other judges of the Appellate Division left the courtroom after Khokon commented about lawyers’ \"declining\" incomes during his tenure."
-    },
-    {
-      "title": "Tk4cr embezzled from Bangladesh Commerce Bank as 'hospitality expenses', action ordered against 13 officials",
-      "link": "https://www.tbsnews.net/bangladesh/crime/tk4cr-embezzled-bangladesh-commerce-bank-hospitality-expenses-action-ordered",
-      "pubDate": "Wed, 09 Sep 2026 21:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/organization/logo/bcb.png",
-      "snippet": "A Bangladesh Bank inspection found that the Tk4 crore was credited as “incentives” to the accounts of 13 officials – eight at the head office, four at the principal branch and one at the Dilkusha branch."
-    },
-    {
-      "title": "Killing of police officer in Savar: 3 more remanded, 2 sent to jail",
-      "link": "https://www.tbsnews.net/bangladesh/court/killing-police-officer-savar-3-more-remanded-2-sent-jail-1538391",
-      "pubDate": "Wed, 09 Sep 2026 21:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/09/796457757_4846496798911004_6873337942376442787_n.jpg",
-      "snippet": "The five were produced before a court in connection with the killing of SB Sub-Inspector Altaf Hossain in Aminbazar, Savar."
-    },
-    {
-      "title": "ACC approves charge sheets against former DB chief Harun, brother",
-      "link": "https://www.tbsnews.net/bangladesh/corruption/acc-approves-charge-sheets-against-former-db-chief-harun-brother-1538386",
-      "pubDate": "Wed, 09 Sep 2026 20:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/07/31/db_harun_0.jpg",
-      "snippet": "Probe finds Tk38.27 crore in unexplained assets of Harun, brother."
-    },
-    {
-      "title": "ICT witness recounts rooftop escape while son lay wounded; implicates Quader, Menon",
-      "link": "https://www.tbsnews.net/bangladesh/court/ict-witness-recounts-rooftop-escape-while-son-lay-wounded-implicates-quader-menon",
-      "pubDate": "Wed, 09 Sep 2026 20:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/09/menon_quader.png",
-      "snippet": "The witness's deposition was recorded before the bench of Justice Md Mohitul Haque Enam Chowdhury."
-    },
-    {
-      "title": "PM seeks students' support to build clean, green Bangladesh",
-      "link": "https://www.tbsnews.net/bangladesh/pm-seeks-students-support-build-clean-green-bangladesh-1538351",
-      "pubDate": "Wed, 09 Sep 2026 20:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/09/tarique_students.png",
-      "snippet": "We have taken an initiative to plant 25 crore trees to make our country greener and improve the environment, says PM."
-    },
-    {
-      "title": "Police allege affair dispute behind Ashulia couple, newborn murders; arrest one",
-      "link": "https://www.tbsnews.net/bangladesh/crime/police-allege-affair-dispute-behind-ashulia-couple-newborn-murders-arrest-one",
-      "pubDate": "Wed, 09 Sep 2026 20:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/07/20/woman_arrested.jpg",
-      "snippet": "The argument over the relationship escalated into a physical altercation, with Alamgir allegedly assaulting Hridoy and Nazma hitting him with a broom."
     },
     {
       "title": "Dengue: 3 die as daily hospitalisations hit record 1,463",
@@ -771,17 +815,6 @@
       "snippet": "The enlisted firms will assess mortgaged assets against loans, with 98 placed in Group A and 33 in Group B."
     },
     {
-      "title": "Bepza strengthens cargo monitoring with modern weighbridges at Dhaka EPZ",
-      "link": "https://www.tbsnews.net/economy/bepza-strengthens-cargo-monitoring-modern-weighbridges-dhaka-epz-1536076",
-      "pubDate": "Mon, 07 Sep 2026 19:30:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/07/bepza_epz_2589.jpeg",
-      "snippet": "As part of the initiative, Bepza Executive Chairman Major General Mohammad Moazzem Hossain inaugurated two weighbridges at the old and extension zones of Dhaka EPZ."
-    },
-    {
       "title": "Dengue: 4 die, 1,314 hospitalised in 24 hours",
       "link": "https://www.tbsnews.net/bangladesh/health/dengue-4-die-1314-hospitalised-24-hours-1536066",
       "pubDate": "Mon, 07 Sep 2026 19:30:00 +0600",
@@ -890,29 +923,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/07/nepal_floods_1.jpg",
       "snippet": "During disasters, geospatial data provides information by allowing large amounts of spatial information to be plotted on maps that support informed decision-making"
-    },
-    {
-      "title": "Bangladesh at a strategic crossroads",
-      "link": "https://www.tbsnews.net/thoughts/bangladesh-strategic-crossroads-1535451",
-      "pubDate": "Mon, 07 Sep 2026 11:35:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/07/collage.jpg",
-      "snippet": "Turning Bangladesh’s demographic and geographic advantages into national power will require capable institutions, political stability, economic discipline, energy security and a clear strategic vision"
-    },
-    {
-      "title": "As grants for routine expenses slashed, primary teachers forced to pay out of pocket ",
-      "link": "https://www.tbsnews.net/bangladesh/education/grants-routine-expenses-slashed-primary-teachers-forced-pay-out-pocket-1535381",
-      "pubDate": "Mon, 07 Sep 2026 11:00:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/teacher.png",
-      "snippet": "Since students are not allowed to be charged examination fees, teachers say they are struggling to pay for stationery expenses and even minor repairs."
     }
   ],
-  "updatedAt": "2026-09-10T00:57:39.098Z"
+  "updatedAt": "2026-09-10T05:44:40.141Z"
 }
