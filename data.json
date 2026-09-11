@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "BNP chairman meets with prominent media participants",
+      "link": "https://www.tbsnews.net/bangladesh/bnp-chairman-meets-prominent-media-participants-1540216",
+      "pubDate": "Sat, 12 Sep 2026 02:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/12/pm.jpg",
+      "snippet": "Tarique Rahman exchanges views with regular TV talk show participants on media and the country's current situation"
+    },
+    {
+      "title": "Former Barishal Press Club general secretary found dead",
+      "link": "https://www.tbsnews.net/bangladesh/former-barishal-press-club-general-secretary-found-dead-1540201",
+      "pubDate": "Sat, 12 Sep 2026 01:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/12/journalist-pulak-chatterjee.jpg",
+      "snippet": "Police recover five notes as investigation begins"
+    },
+    {
+      "title": "Anthropic says it blocks attempts to use AI for biological weapons work",
+      "link": "https://www.tbsnews.net/tech/anthropic-says-it-blocks-attempts-use-ai-biological-weapons-work-1540191",
+      "pubDate": "Sat, 12 Sep 2026 01:10:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/12/anthropic.jpg",
+      "snippet": "Five cases reveal growing risks from AI-assisted biological research"
+    },
+    {
       "title": "Utilise Bhola gas to drive industrialisation in southern region: Speakers",
       "link": "https://www.tbsnews.net/economy/industry/utilise-bhola-gas-drive-industrialisation-southern-region-speakers-1540181",
       "pubDate": "Fri, 11 Sep 2026 23:55:00 +0600",
@@ -219,28 +252,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/arrest.jpg",
       "snippet": "Dhaka sees another sweep as police detain 542 in 24-hour anti-crime drive"
-    },
-    {
-      "title": "Govt reviewing 101 MoUs, agreements signed with India: Chief whip",
-      "link": "https://www.tbsnews.net/bangladesh/govt-reviewing-101-mous-agreements-signed-india-chief-whip-1539951",
-      "pubDate": "Fri, 11 Sep 2026 18:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/jatiya_sangsad_chief_whip_nurul_islam_moni.jpg",
-      "snippet": "He says there is no shortage of fertiliser, with 16 lakh tonnes in stock"
-    },
-    {
-      "title": "2 held after crude bombs explode during AL procession in Gulshan",
-      "link": "https://www.tbsnews.net/bangladesh/2-held-after-crude-bombs-explode-during-al-procession-gulshan-1539936",
-      "pubDate": "Fri, 11 Sep 2026 17:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/awami_leauge_arrested_and_bomb.png",
-      "snippet": "Police recover five unexploded crude bombs from scene"
     },
     {
       "title": "Minister finds proof of Mugda hospital patients being pushed outside for diagnostic tests",
@@ -694,5 +705,5 @@
       "snippet": "Women who during pregnancy have used Tylenol - also sold as acetaminophen, or paracetamol outside the US - should not be alarmed by the findings"
     }
   ],
-  "updatedAt": "2026-09-11T19:05:01.939Z"
+  "updatedAt": "2026-09-11T21:50:54.349Z"
 }
