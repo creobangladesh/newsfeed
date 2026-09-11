@@ -1,6 +1,61 @@
 {
   "news": [
     {
+      "title": "Utilise Bhola gas to drive industrialisation in southern region: Speakers",
+      "link": "https://www.tbsnews.net/economy/industry/utilise-bhola-gas-drive-industrialisation-southern-region-speakers-1540181",
+      "pubDate": "Fri, 11 Sep 2026 23:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/07/25/bhola_gas_field.png",
+      "snippet": ""
+    },
+    {
+      "title": "Govt plans 1,600 mmcfd additional LNG capacity by 2030: State minister",
+      "link": "https://www.tbsnews.net/economy/energy/govt-plans-1600mmcfd-additional-lng-capacity-2030-1540106",
+      "pubDate": "Fri, 11 Sep 2026 23:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/lng-capacity.jpg",
+      "snippet": "Maheshkhali and Matarbari terminals to drive expansion"
+    },
+    {
+      "title": "Navy rescues 12 fishermen after engine failure leaves trawler adrift in Bay",
+      "link": "https://www.tbsnews.net/bangladesh/navy-rescues-12-fishermen-after-engine-failure-leaves-trawler-adrift-bay-1540091",
+      "pubDate": "Fri, 11 Sep 2026 22:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/navy_rescues_fisherman.jpg",
+      "snippet": "The Navy found the drifting trawler after hours of searching in rough seas and adverse weather."
+    },
+    {
+      "title": "Padma Barrage construction to begin between Jan-Mar next year: Minister",
+      "link": "https://www.tbsnews.net/bangladesh/padma-barrage-construction-begin-between-jan-mar-next-year-minister-1540101",
+      "pubDate": "Fri, 11 Sep 2026 22:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/water_resources_minister_shahiduddin_chowdhury_anee.png",
+      "snippet": "Seven-year project will divert water from the Padma to the Gorai in the dry season and include a hydropower project"
+    },
+    {
+      "title": "Man killed while trying to save 10-year-old from train in Ctg; child loses hand, leg",
+      "link": "https://www.tbsnews.net/bangladesh/man-killed-while-trying-save-10-year-old-train-ctg-child-loses-hand-leg-1540081",
+      "pubDate": "Fri, 11 Sep 2026 21:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/ctg_train_accident.jpg",
+      "snippet": "The 10-year-old boy survived the accident but lost his right hand and leg and is now receiving treatment at Chattogram Medical College Hospital."
+    },
+    {
       "title": "Deputy speaker off to South Africa to attend 69th Commonwealth Parliamentary Conference",
       "link": "https://www.tbsnews.net/bangladesh/deputy-speaker-south-africa-attend-69th-commonwealth-parliamentary-conference-1540076",
       "pubDate": "Fri, 11 Sep 2026 21:35:00 +0600",
@@ -30,7 +85,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/awami_league_claude_use_fake_info.png",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/al-fake-news-via-ai.jpg",
       "snippet": "Anthropic says some of the fabricated narratives also aligned with pro-Indian geopolitical interests, but found no evidence of state direction or funding"
     },
     {
@@ -133,17 +188,6 @@
       "snippet": "Group was taken back to India after BGB blocked their entry, officials say"
     },
     {
-      "title": "3 held with gold jewellery worth Tk1.37 crore at Dhaka airport",
-      "link": "https://www.tbsnews.net/bangladesh/crime/3-held-gold-jewellery-worth-tk137-crore-dhaka-airport-1539976",
-      "pubDate": "Fri, 11 Sep 2026 18:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/gold_smuggling_arrest_dhaka_airport.jpg",
-      "snippet": "APBn seizes 861.8g of 21- and 22-carat gold jewellery from three alleged smugglers at Hazrat Shahjalal International Airport."
-    },
-    {
       "title": "Gandaria mason murder: Named accused arrested by RAB",
       "link": "https://www.tbsnews.net/bangladesh/crime/gandaria-mason-murder-named-accused-arrested-rab-1539961",
       "pubDate": "Fri, 11 Sep 2026 18:25:00 +0600",
@@ -153,6 +197,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/arrested_accused_in_gendaria_masion_murder_case.jpg",
       "snippet": "Gias was later handed over to Gandaria Police Station for further legal action."
+    },
+    {
+      "title": "3 held with gold jewellery worth Tk1.37 crore at Dhaka airport",
+      "link": "https://www.tbsnews.net/bangladesh/crime/3-held-gold-jewellery-worth-tk137-crore-dhaka-airport-1539976",
+      "pubDate": "Fri, 11 Sep 2026 18:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/gold_smuggling_arrest_dhaka_airport.jpg",
+      "snippet": "APBn seizes 861.8g of 21- and 22-carat gold jewellery from three alleged smugglers at Hazrat Shahjalal International Airport."
     },
     {
       "title": "DMP arrests 542 in 24 hours, files 51 cases",
@@ -166,7 +221,7 @@
       "snippet": "Dhaka sees another sweep as police detain 542 in 24-hour anti-crime drive"
     },
     {
-      "title": "Govt reviewing 101 MoUs, deals signed with India by previous regime: Chief whip",
+      "title": "Govt reviewing 101 MoUs, agreements signed with India: Chief whip",
       "link": "https://www.tbsnews.net/bangladesh/govt-reviewing-101-mous-agreements-signed-india-chief-whip-1539951",
       "pubDate": "Fri, 11 Sep 2026 18:05:00 +0600",
       "category": "Bangladesh",
@@ -174,7 +229,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/jatiya_sangsad_chief_whip_nurul_islam_moni.jpg",
-      "snippet": "Nurul Islam Moni says outcome of the review will be announced soon"
+      "snippet": "He says there is no shortage of fertiliser, with 16 lakh tonnes in stock"
     },
     {
       "title": "2 held after crude bombs explode during AL procession in Gulshan",
@@ -191,10 +246,10 @@
       "title": "Minister finds proof of Mugda hospital patients being pushed outside for diagnostic tests",
       "link": "https://www.tbsnews.net/bangladesh/health/minister-finds-proof-mugda-hospital-patients-being-pushed-outside-diagnostic-tests",
       "pubDate": "Fri, 11 Sep 2026 17:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/health_minister_at_mugda_hospital.jpg",
       "snippet": "Minister warns against sending patients outside for tests."
     },
@@ -208,50 +263,6 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/dwnv6rcr.jpg",
       "snippet": "Dhaka is full of reminders of an animal that once belonged to the city. Today, the names remain, but the elephants are gone."
-    },
-    {
-      "title": "8 hurt as bus overturns in Cumilla",
-      "link": "https://www.tbsnews.net/bangladesh/8-hurt-bus-overturns-cumilla-1539906",
-      "pubDate": "Fri, 11 Sep 2026 17:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/att.ar0l9bk08l1jfral4pyoegms3bg377afrozwe-yd0ye.jpeg",
-      "snippet": "Police, citing locals, said the “Evergreen” bus left Cox's Bazar for Dhaka with 25 passengers on board."
-    },
-    {
-      "title": "Hajj registration for 2027 ends 24 Sept ",
-      "link": "https://www.tbsnews.net/bangladesh/hajj-registration-2027-ends-24-sept-1539866",
-      "pubDate": "Fri, 11 Sep 2026 15:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/10/1.png",
-      "snippet": "Bangladesh has been allocated a quota of 78,500 pilgrims for Hajj 2027, with registration beginning on 27 July."
-    },
-    {
-      "title": "Legal notice seeks withdrawal of ACC official’s graft remarks on Asif Mahmud",
-      "link": "https://www.tbsnews.net/bangladesh/legal-notice-seeks-withdrawal-acc-officials-graft-remarks-asif-mahmud-1539856",
-      "pubDate": "Fri, 11 Sep 2026 15:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/6610826.jpg",
-      "snippet": "The party stated that these remarks were widely circulated across various media outlets and social media platforms afterwards."
-    },
-    {
-      "title": "Dhaka-Ctg Highway set for transformation with AI surveillance, new infrastructure",
-      "link": "https://www.tbsnews.net/bangladesh/dhaka-ctg-highway-set-transformation-ai-surveillance-new-infrastructure-1539861",
-      "pubDate": "Fri, 11 Sep 2026 15:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/image-423430-1789115843.jpg",
-      "snippet": "Within the first 24 hours of launching the system, 449 cases were filed, and fines totalling Tk15.51 lakh were imposed, with speeding accounting for the highest number of violations."
     },
     {
       "title": "Bangladesh's climate plans have a labour blind spot",
@@ -681,51 +692,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/23/tylenol.jpg",
       "snippet": "Women who during pregnancy have used Tylenol - also sold as acetaminophen, or paracetamol outside the US - should not be alarmed by the findings"
-    },
-    {
-      "title": "Trade deficit widens to $2b as exports fall, petroleum, fertiliser import costs rise",
-      "link": "https://www.tbsnews.net/economy/trade-deficit-widens-2b-exports-fall-petroleum-fertiliser-imports-rise-1537316",
-      "pubDate": "Wed, 09 Sep 2026 00:55:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/06/16/trade_deficit.jpg",
-      "snippet": "According to BoP data, imports grew by 8.6% in July, while exports declined by 1.9%. As imports exceed exports, the trade deficit widens."
-    },
-    {
-      "title": "BEPZA Economic Zone-2 makes export debut with $50,000 machinery shipment",
-      "link": "https://www.tbsnews.net/economy/bepza-economic-zone-2-makes-export-debut-50000-machinery-shipment-1537311",
-      "pubDate": "Wed, 09 Sep 2026 00:45:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/bepza.png",
-      "snippet": "Lee’s Tobacco Machinery Company Ltd, the zone’s first exporting enterprise, shipped the machinery yesterday (8 september) after obtaining its export permission from the Bepza on 3 September."
-    },
-    {
-      "title": "Country’s first liver fat quantification machine inaugurated at NINMAS, BMU",
-      "link": "https://www.tbsnews.net/bangladesh/health/countrys-first-liver-fat-quantification-machine-inaugurated-ninmas-bmu-1537296",
-      "pubDate": "Wed, 09 Sep 2026 00:15:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/08/bmu.jpg",
-      "snippet": "Professor Dr AKM Fazlul Bari says approximately 33% of people in Bangladesh suffer from fatty liver or liver fat-related problems, while around 16% are affected by chronic liver disease and liver cancer, and 2% by thyroid cancer."
-    },
-    {
-      "title": "Customers withdraw Tk670cr from Sammilito Islami Bank in two days",
-      "link": "https://www.tbsnews.net/economy/banking/customers-withdraw-tk670cr-sammilito-islami-bank-two-days-1537231",
-      "pubDate": "Tue, 08 Sep 2026 22:00:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/07/sammilito_islami_bank.jpg",
-      "snippet": "Md Abedur Rahman Sikder, managing director of Sammilito Islamic Bank, said the number of customers actually withdrawing money was much lower than the number who had applied."
     }
   ],
-  "updatedAt": "2026-09-11T15:57:37.613Z"
+  "updatedAt": "2026-09-11T19:05:01.939Z"
 }
