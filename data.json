@@ -1,6 +1,182 @@
 {
   "news": [
     {
+      "title": "Deputy speaker off to South Africa to attend 69th Commonwealth Parliamentary Conference",
+      "link": "https://www.tbsnews.net/bangladesh/deputy-speaker-south-africa-attend-69th-commonwealth-parliamentary-conference-1540076",
+      "pubDate": "Fri, 11 Sep 2026 21:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/kayser_kamal.jpg",
+      "snippet": "Five-member parliamentary delegation led by Deputy Speaker Kayser Kamal to attend the 69th Commonwealth Parliamentary Conference in South Africa."
+    },
+    {
+      "title": "Measles: Death toll hits 1012 as 3 more die in 24 hrs",
+      "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-hits-1012-3-more-die-24-hrs-1540071",
+      "pubDate": "Fri, 11 Sep 2026 21:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/measles.png",
+      "snippet": "Three children died with measles-like symptoms in 24 hours, taking the combined confirmed and suspected measles death toll to 1,012 this year."
+    },
+    {
+      "title": "One person used AI to run pro-Awami League 'fake news' in Bangladesh for almost a year: Anthropic ",
+      "link": "https://www.tbsnews.net/bangladesh/one-person-used-ai-run-pro-awami-league-fake-news-bangladesh-almost-year-anthropic",
+      "pubDate": "Fri, 11 Sep 2026 20:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/awami_league_claude_use_fake_info.png",
+      "snippet": "Anthropic says some of the fabricated narratives also aligned with pro-Indian geopolitical interests, but found no evidence of state direction or funding"
+    },
+    {
+      "title": "PM visits injured army officer at CMH, wishes speedy recovery",
+      "link": "https://www.tbsnews.net/bangladesh/pm-visits-injured-army-officer-cmh-wishes-speedy-recovery-1540046",
+      "pubDate": "Fri, 11 Sep 2026 20:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/prime_minister_tarique_rahman_visits_an_injured_army_officer.jpg",
+      "snippet": "PM enquires about the critically injured officer’s condition and directs authorities to ensure proper treatment"
+    },
+    {
+      "title": "PM provides financial assistance to religious institutions in Dhaka-17",
+      "link": "https://www.tbsnews.net/bangladesh/pm-provides-financial-assistance-religious-institutions-dhaka-17-1540041",
+      "pubDate": "Fri, 11 Sep 2026 20:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/prime_minister_tarique_rahman.jpg",
+      "snippet": "Dhaka-17 religious institutions get PM’s support ahead of Durga Puja."
+    },
+    {
+      "title": "Endangered capped leaf monkey dies after being hit on Sreemangal road",
+      "link": "https://www.tbsnews.net/bangladesh/endangered-capped-leaf-monkey-dies-after-being-hit-sreemangal-road-1540026",
+      "pubDate": "Fri, 11 Sep 2026 20:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/capped_leaf_monkey_death.png",
+      "snippet": "A CNG driver tried to save the injured endangered monkey, but it later died at a veterinary hospital."
+    },
+    {
+      "title": "Over 50,000 stranded as Padma swells in Kushtia",
+      "link": "https://www.tbsnews.net/bangladesh/over-50000-stranded-padma-swells-kushtia-1540021",
+      "pubDate": "Fri, 11 Sep 2026 19:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/flood_1.jpg",
+      "snippet": "18 schools suspend classes as floodwaters inundate roads and 350 hectares of farmland"
+    },
+    {
+      "title": "The money is coming home but the prosperity is not",
+      "link": "https://www.tbsnews.net/thoughts/money-coming-home-prosperity-not-1540016",
+      "pubDate": "Fri, 11 Sep 2026 19:40:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/thoughts-9.9.2026-_1_.jpg",
+      "snippet": "Bangladesh’s record remittance inflows are being celebrated as an economic success, but rising food prices, high transfer costs and domestic market distortions suggest the money is doing more to cushion families from economic hardship than to signal ..."
+    },
+    {
+      "title": "Bangladesh needs to stop looking at Myanmar through the Rohingya lens alone",
+      "link": "https://www.tbsnews.net/thoughts/bangladesh-needs-stop-looking-myanmar-through-rohingya-lens-alone-1540006",
+      "pubDate": "Fri, 11 Sep 2026 19:35:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/e5ooyi6ekvkktlwxipgd2erjau.jpg",
+      "snippet": "Bangladesh's Rohingya policy remains too narrowly focused on repatriation, overlooking the deeper political and social forces shaping Myanmar's future"
+    },
+    {
+      "title": "Biman staffer sent to jail after remand over Tk25.2cr gold seizure",
+      "link": "https://www.tbsnews.net/bangladesh/crime/biman-staffer-sent-jail-after-remand-over-tk252cr-gold-seizure-1540001",
+      "pubDate": "Fri, 11 Sep 2026 19:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/10/20/metropolitan_court.jpg",
+      "snippet": "Soaib Kazi Sojib was sent to jail after completing five days in remand in a case over the alleged smuggling of nearly 14kg of gold."
+    },
+    {
+      "title": "Draft cyber law could enable 'unchecked surveillance, impunity and repression': TIB",
+      "link": "https://www.tbsnews.net/bangladesh/draft-cyber-law-could-enable-unchecked-surveillance-impunity-and-repression-tib-1539986",
+      "pubDate": "Fri, 11 Sep 2026 18:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/09/10/freedom-of-speech_0_1.png",
+      "snippet": "TIB calls for an overhaul of the proposed law, warning that vague definitions and broad enforcement powers could be abused against fundamental rights."
+    },
+    {
+      "title": "BGB thwarts BSF attempt to 'illegally push' 10-12 people through Satkhira border",
+      "link": "https://www.tbsnews.net/bangladesh/bgb-thwarts-bsf-attempt-illegally-push-10-12-people-through-satkhira-border-1539981",
+      "pubDate": "Fri, 11 Sep 2026 18:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/border_guard_bangladesh_bgb.jpg",
+      "snippet": "Group was taken back to India after BGB blocked their entry, officials say"
+    },
+    {
+      "title": "3 held with gold jewellery worth Tk1.37 crore at Dhaka airport",
+      "link": "https://www.tbsnews.net/bangladesh/crime/3-held-gold-jewellery-worth-tk137-crore-dhaka-airport-1539976",
+      "pubDate": "Fri, 11 Sep 2026 18:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/gold_smuggling_arrest_dhaka_airport.jpg",
+      "snippet": "APBn seizes 861.8g of 21- and 22-carat gold jewellery from three alleged smugglers at Hazrat Shahjalal International Airport."
+    },
+    {
+      "title": "Gandaria mason murder: Named accused arrested by RAB",
+      "link": "https://www.tbsnews.net/bangladesh/crime/gandaria-mason-murder-named-accused-arrested-rab-1539961",
+      "pubDate": "Fri, 11 Sep 2026 18:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/arrested_accused_in_gendaria_masion_murder_case.jpg",
+      "snippet": "Gias was later handed over to Gandaria Police Station for further legal action."
+    },
+    {
+      "title": "DMP arrests 542 in 24 hours, files 51 cases",
+      "link": "https://www.tbsnews.net/bangladesh/dmp-arrests-542-24-hours-files-51-cases-1539956",
+      "pubDate": "Fri, 11 Sep 2026 18:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/arrest.jpg",
+      "snippet": "Dhaka sees another sweep as police detain 542 in 24-hour anti-crime drive"
+    },
+    {
+      "title": "Govt reviewing 101 MoUs, deals signed with India by previous regime: Chief whip",
+      "link": "https://www.tbsnews.net/bangladesh/govt-reviewing-101-mous-agreements-signed-india-chief-whip-1539951",
+      "pubDate": "Fri, 11 Sep 2026 18:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/jatiya_sangsad_chief_whip_nurul_islam_moni.jpg",
+      "snippet": "Nurul Islam Moni says outcome of the review will be announced soon"
+    },
+    {
       "title": "2 held after crude bombs explode during AL procession in Gulshan",
       "link": "https://www.tbsnews.net/bangladesh/2-held-after-crude-bombs-explode-during-al-procession-gulshan-1539936",
       "pubDate": "Fri, 11 Sep 2026 17:35:00 +0600",
@@ -8,8 +184,19 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/07/04/arrest-1579498383.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/awami_leauge_arrested_and_bomb.png",
       "snippet": "Police recover five unexploded crude bombs from scene"
+    },
+    {
+      "title": "Minister finds proof of Mugda hospital patients being pushed outside for diagnostic tests",
+      "link": "https://www.tbsnews.net/bangladesh/health/minister-finds-proof-mugda-hospital-patients-being-pushed-outside-diagnostic-tests",
+      "pubDate": "Fri, 11 Sep 2026 17:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/health_minister_at_mugda_hospital.jpg",
+      "snippet": "Minister warns against sending patients outside for tests."
     },
     {
       "title": "The city that kept the elephants' names but lost the elephants themselves",
@@ -67,83 +254,6 @@
       "snippet": "Within the first 24 hours of launching the system, 449 cases were filed, and fines totalling Tk15.51 lakh were imposed, with speeding accounting for the highest number of violations."
     },
     {
-      "title": "No cleanup seen along Buriganga bank despite HC order",
-      "link": "https://www.tbsnews.net/bangladesh/no-cleanup-seen-along-buriganga-bank-despite-hc-order-1539851",
-      "pubDate": "Fri, 11 Sep 2026 15:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/2419479.jpg",
-      "snippet": "The HC bench of Justice Ahmed Sohel and Justice SM Iftekhar Uddin Mahamud also directed the authorities concerned to submit a progress report on the implementation of the order within four weeks."
-    },
-    {
-      "title": "Flour, aromatic rice prices spike as edible oil crisis persists in Dhaka",
-      "link": "https://www.tbsnews.net/bangladesh/flour-aromatic-rice-prices-spike-edible-oil-crisis-persists-dhaka-1539826",
-      "pubDate": "Fri, 11 Sep 2026 14:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/2019902.jpg",
-      "snippet": "According to the Bangladesh Bureau of Statistics (BBS), overall inflation stood at 8.26% in August, with food inflation at 7.02%. Though overall inflation eased compared to July, buyers say the relief is not visible in the market."
-    },
-    {
-      "title": "Police crack murder case within 32 hours after body found in Khilgaon canal",
-      "link": "https://www.tbsnews.net/bangladesh/police-crack-murder-case-within-32-hours-after-body-found-khilgaon-canal-1539816",
-      "pubDate": "Fri, 11 Sep 2026 14:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/07/20/death.jpg",
-      "snippet": "During primary interrogation, Abdullah claimed the murder was planned over an alleged extramarital affair between Joj Miah and the wife of an associate."
-    },
-    {
-      "title": "63 foreigners detained over alleged online scamming operation in Ctg",
-      "link": "https://www.tbsnews.net/bangladesh/63-foreigners-detained-over-alleged-online-scamming-operation-ctg-1539796",
-      "pubDate": "Fri, 11 Sep 2026 13:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/795286578_1716774332914997_7682793145472943082_n.jpg",
-      "snippet": "The foreign nationals reportedly rented the building on 27 August, raising suspicions among some local residents about their activities."
-    },
-    {
-      "title": "Adani power supply falls below 800MW as Unit-2 shuts down",
-      "link": "https://www.tbsnews.net/economy/energy/adani-power-supply-falls-below-800mw-unit-2-shuts-down-1539801",
-      "pubDate": "Fri, 11 Sep 2026 13:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/img_0096_0.jpeg",
-      "snippet": "The plant has been vital for Bangladesh in meeting power demand during the summer, with its supply at times exceeding 1,400MW."
-    },
-    {
-      "title": "2 Narayanganj assistant commissioners transferred over late attendance",
-      "link": "https://www.tbsnews.net/bangladesh/2-narayanganj-assistant-commissioners-transferred-over-late-attendance-1539791",
-      "pubDate": "Fri, 11 Sep 2026 13:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/b8f35b522e974d16411318088d6dd25a.jpeg",
-      "snippet": "The transfers were ordered by the ministry following the surprise inspection at the upazila land office."
-    },
-    {
-      "title": "FTA understanding with EU before graduation: Muktadir ",
-      "link": "https://www.tbsnews.net/bangladesh/fta-understanding-eu-graduation-muktadir-1539781",
-      "pubDate": "Fri, 11 Sep 2026 13:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/30/khandaker_abdul_muktadir.jpg",
-      "snippet": "Bangladesh to explore potential for exporting potatoes and onions to Sri Lanka."
-    },
-    {
       "title": "Bangladesh's climate plans have a labour blind spot",
       "link": "https://www.tbsnews.net/thoughts/bangladeshs-climate-plans-have-labour-blind-spot-1539766",
       "pubDate": "Fri, 11 Sep 2026 12:10:00 +0600",
@@ -155,72 +265,6 @@
       "snippet": "Climate change is reshaping not only where Bangladeshis live and work, but also their ability to organise. As displaced workers move into informal jobs, labour risks being left out of the country’s climate transition"
     },
     {
-      "title": "Another newborn's body recovered in Barishal",
-      "link": "https://www.tbsnews.net/bangladesh/another-newborns-body-recovered-barishal-1539746",
-      "pubDate": "Fri, 11 Sep 2026 11:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/img_0092.jpeg",
-      "snippet": "The OC said police requested a post-mortem examination to determine whether any chemical substances were present in the body."
-    },
-    {
-      "title": "2 lemurs stolen from safari park trafficked to India, CID unable to trace location",
-      "link": "https://www.tbsnews.net/bangladesh/2-lemurs-stolen-safari-park-trafficked-india-cid-unable-trace-location-1539736",
-      "pubDate": "Fri, 11 Sep 2026 11:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/04/19/ring-tailed-lemur.jpg",
-      "snippet": "Reports said the lemurs reached Vantara after changing hands, while Vantara says they were legally acquired and welcomes DNA testing."
-    },
-    {
-      "title": "Bangladeshi trader shot dead in South Africa",
-      "link": "https://www.tbsnews.net/bangladesh/bangladeshi-trader-shot-dead-south-africa-1539721",
-      "pubDate": "Fri, 11 Sep 2026 11:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/2481447.jpg",
-      "snippet": "Relatives said a group of armed men stormed into the shop on Wednesday night and opened fire. Jamal died at the scene."
-    },
-    {
-      "title": "47 Bangladeshis return through Benapole after 2 years in Indian prison",
-      "link": "https://www.tbsnews.net/bangladesh/47-bangladeshis-return-through-benapole-after-2-years-indian-prison-1539706",
-      "pubDate": "Fri, 11 Sep 2026 10:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/img_0091.jpeg",
-      "snippet": "Indian Border Security Force (BSF) members handed them over to Benapole Immigration Police and Border Guard Bangladesh (BGB) at around 8 pm."
-    },
-    {
-      "title": "Building-rule violations turn Ctg's approved plans into paper formalities, worsen urban misery",
-      "link": "https://www.tbsnews.net/bangladesh/building-rule-violations-turn-ctgs-approved-plans-paper-formalities-worsen-urban-misery",
-      "pubDate": "Fri, 11 Sep 2026 08:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/p5_ctg_approved_building_news_photo_8.jpg",
-      "snippet": "The violations are worsening congestion and creating fire-safety and emergency-access risks. I"
-    },
-    {
-      "title": "Maitree Express relaunch through Padma Bridge may be considered in India's formal proposal",
-      "link": "https://www.tbsnews.net/bangladesh/maitree-express-relaunch-through-padma-bridge-may-be-considered-indias-formal-proposal",
-      "pubDate": "Fri, 11 Sep 2026 08:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/05/18/a_maitree_express_train.jpg",
-      "snippet": "The IGRM was held to discuss the resumption of cross-border railway services between the two countries, including Maitree, Bandhan and Mitali Express, and to take decisions on related issues."
-    },
-    {
       "title": "Audit firm to be mandatory for loans exceeding Tk500cr",
       "link": "https://www.tbsnews.net/economy/banking/audit-firm-be-mandatory-loans-exceeding-tk500cr-1539571",
       "pubDate": "Fri, 11 Sep 2026 07:40:00 +0600",
@@ -230,28 +274,6 @@
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/01/26/audit_0.jpg",
       "snippet": "For loans of Tk500 crore or more, banks will have to conduct their own verification as well as engage an audit firm listed with the Bangladesh Bank to examine how the funds have been used."
-    },
-    {
-      "title": "63 foreigners held in Ctg as police probe suspected online scam, 187 devices seized",
-      "link": "https://www.tbsnews.net/bangladesh/63-foreigners-held-ctg-police-probe-suspected-online-scam-187-devices-seized-1539561",
-      "pubDate": "Fri, 11 Sep 2026 00:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/794678099_28554208634173031_6289629652691607728_n.jpg",
-      "snippet": "Police seized 131 mobile phones, 56 laptops, foreign currencies and casino-playing equipment during the raid in the city’s Khulshi area."
-    },
-    {
-      "title": "Need visionary, adaptive delta management to tackle urban flooding: Experts",
-      "link": "https://www.tbsnews.net/bangladesh/need-visionary-adaptive-delta-management-tackle-urban-flooding-experts-1539551",
-      "pubDate": "Thu, 10 Sep 2026 23:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/10/tbs_roundtable.jpg",
-      "snippet": "They called for coordinated flood, WASH, waste management and urban planning to address growing waterlogging."
     },
     {
       "title": "Real educational success is defined by standards, not buildings: Bobby Hajjaj",
@@ -703,106 +725,7 @@
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/07/sammilito_islami_bank.jpg",
       "snippet": "Md Abedur Rahman Sikder, managing director of Sammilito Islamic Bank, said the number of customers actually withdrawing money was much lower than the number who had applied."
-    },
-    {
-      "title": "Dream71 wins UNDP contract to develop strategic digital system in Timor-Leste",
-      "link": "https://www.tbsnews.net/tech/dream71-wins-undp-contract-develop-strategic-digital-system-timor-leste-1537176",
-      "pubDate": "Tue, 08 Sep 2026 21:40:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/08/dream_71.jpg",
-      "snippet": "The platform will track progress on Timor-Leste’s development plans, the SDGs and relevant Asean commitments."
-    },
-    {
-      "title": "Bangladesh PMI falls to 49.9 in August as manufacturing, services contract",
-      "link": "https://www.tbsnews.net/economy/bangladesh-economy-shows-resilience-agriculture-expands-construction-rebounds-august-1537136",
-      "pubDate": "Tue, 08 Sep 2026 21:20:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/08/pmi.jpg",
-      "snippet": "The overall PMI stood at 49.9 in August, marking a significant 7.9-point drop from July's reading of 57.8."
-    },
-    {
-      "title": "Family of infant, now in NICU after getting wrong injection, demands Ctg hospital cover future treatment, warns of legal action",
-      "link": "https://www.tbsnews.net/bangladesh/health/infant-receives-mothers-injection-family-demands-ctg-hospital-cover-future",
-      "pubDate": "Tue, 08 Sep 2026 21:15:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/08/infant_die_dtg.jpg",
-      "snippet": "Police deny refusing family’s written complaint over incident."
-    },
-    {
-      "title": "Govt to tap idle khas land for large solar plants; eyes 460MW in Rampal, 70MW in Matarbari",
-      "link": "https://www.tbsnews.net/economy/energy/govt-targets-20-electricity-renewables-2030-amit-1537066",
-      "pubDate": "Tue, 08 Sep 2026 20:40:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/09/03/solar_power.png",
-      "snippet": "The government has received information on about 60,000 acres of unused land from different ministries, State Minister for Power and Energy Anindya Islam Amit says."
-    },
-    {
-      "title": "Political loyalty not prioritised in VC appointments: Milon",
-      "link": "https://www.tbsnews.net/bangladesh/education/political-loyalty-not-prioritised-vc-appointments-milon-1537056",
-      "pubDate": "Tue, 08 Sep 2026 20:30:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/08/education_minister_anm_ehsanul_hoque_milon.jpg",
-      "snippet": "Education Minister ANM Ehsanul Hoque Milon has rejected allegations that political loyalty influenced the appointment of vice-chancellors at public universities."
-    },
-    {
-      "title": "PM urges students to maintain cleanliness to prevent dengue",
-      "link": "https://www.tbsnews.net/bangladesh/health/pm-urges-students-maintain-cleanliness-prevent-dengue-1537046",
-      "pubDate": "Tue, 08 Sep 2026 20:20:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/08/prime_minister_tarique_rahman.jpg",
-      "snippet": "We must also care for helpless and defenceless animals around us, says PM"
-    },
-    {
-      "title": "WB recommends phased tariff reform to boost Bangladesh’s trade competitiveness",
-      "link": "https://www.tbsnews.net/economy/wb-recommends-phased-tariff-reform-boost-bangladeshs-trade-competitiveness-1536971",
-      "pubDate": "Tue, 08 Sep 2026 18:55:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/08/world_bank.jpg",
-      "snippet": "World Bank recommends phased tariff cuts, removal of para-tariffs and deeper trade agreements as Bangladesh prepares for LDC graduation."
-    },
-    {
-      "title": "Highest Dengue death, cases recorded in a single day this year",
-      "link": "https://www.tbsnews.net/bangladesh/health/dengue-deaths-hit-yearly-high-9-day-toll-reaches-130-1536941",
-      "pubDate": "Tue, 08 Sep 2026 18:25:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/25/05_news_copy.png",
-      "snippet": "Bangladesh also recorded a yearly-high 1,571 dengue hospitalisations in the last 24 hours."
-    },
-    {
-      "title": "No tax collection through harassment, promises finance minister",
-      "link": "https://www.tbsnews.net/nbr/govt-will-not-collect-taxes-harassing-businesses-finance-minister-1536926",
-      "pubDate": "Tue, 08 Sep 2026 18:15:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/03/31/panorama_new.png",
-      "snippet": "Amir Khasru says the government will consult taxpayers to build a business-friendly tax system and improve revenue collection."
     }
   ],
-  "updatedAt": "2026-09-11T11:41:44.053Z"
+  "updatedAt": "2026-09-11T15:57:37.613Z"
 }
