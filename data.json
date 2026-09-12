@@ -1,37 +1,246 @@
 {
   "news": [
     {
+      "title": "Bangladesh face Jordan in second U-17 women's friendly tomorrow",
+      "link": "https://www.tbsnews.net/sports/bangladesh-face-jordan-second-u-17-womens-friendly-tomorrow-1540481",
+      "pubDate": "Sat, 12 Sep 2026 13:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/31/football_img_collected.jpg",
+      "snippet": "Following their emphatic 5-0 victory over Jordan in the opening friendly, the Bangladesh team held its third training session at the match venue on yesterday (11 September)."
+    },
+    {
+      "title": "Country's food stock increased by 148,484 MT in six months",
+      "link": "https://www.tbsnews.net/bangladesh/countrys-food-stock-increased-148484-mt-six-months-1540476",
+      "pubDate": "Sat, 12 Sep 2026 13:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/20/image-397844-1781939316.jpg",
+      "snippet": "The total stock comprises 20,36,102 metric tonnes of rice, 2,32,183 metric tonnes of wheat, and 34,070 metric tonnes of paddy."
+    },
+    {
+      "title": "Bangladesh U-20 women's hockey team make history with Malaysia win",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-u-20-womens-hockey-team-make-history-malaysia-win-1540456",
+      "pubDate": "Sat, 12 Sep 2026 13:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/12/screenshot_2026-09-12_131300.png",
+      "snippet": "Kona then doubled Bangladesh's advantage with a field goal in the fourth quarter."
+    },
+    {
+      "title": "Let's work together to build a prosperous Bangladesh: PM",
+      "link": "https://www.tbsnews.net/bangladesh/lets-work-together-build-prosperous-bangladesh-pm-1540471",
+      "pubDate": "Sat, 12 Sep 2026 13:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/29/tarique_rahman.jpg",
+      "snippet": "Highlighting the role of innovators and businesspeople in the country’s overall progress, the prime minister urged everyone to come forward with innovative ideas in response to the present needs of the state and government."
+    },
+    {
+      "title": "Qawmi students demand cancellation of Brahmanbaria college orientation concert",
+      "link": "https://www.tbsnews.net/bangladesh/qawmi-students-demand-cancellation-brahmanbaria-college-orientation-concert-1540446",
+      "pubDate": "Sat, 12 Sep 2026 13:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/12/798261261_1633826274875656_2911172268172921871_n.jpg",
+      "snippet": "The organisation submitted separate memorandums to MP Khaled Hossain Mahboob and Administrator Serajul Islam yesterday, seeking cancellation of the event scheduled for 14 September"
+    },
+    {
+      "title": "Low-lying areas inundated as Chapainawabganj rivers swell, 4,350 families stranded",
+      "link": "https://www.tbsnews.net/bangladesh/low-lying-areas-inundated-chapainawabganj-rivers-swell-4350-families-stranded-1540416",
+      "pubDate": "Sat, 12 Sep 2026 12:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/12/chapainawabaganj_flood.jpg",
+      "snippet": "Water has entered roads, homes, shops and educational institutions in some areas, while croplands have also gone underwater, causing severe hardship to people living in the affected areas."
+    },
+    {
+      "title": "Gold price rises again by Tk1,050 per bhori after three consecutive cuts",
+      "link": "https://www.tbsnews.net/economy/gold-price-rises-again-tk1050-bhori-after-three-consecutive-cuts-1540426",
+      "pubDate": "Sat, 12 Sep 2026 12:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/03/gold_jeewlwers.png",
+      "snippet": "Under the new pricing, per bhori (11.664 grams) of 21-carat gold will cost Tk222,491, 18-carat gold Tk191,056, and traditional (Sanatan) gold Tk156,064, all inclusive of VAT."
+    },
+    {
+      "title": "Education, financial independence key to women's empowerment: Rizvi",
+      "link": "https://www.tbsnews.net/bangladesh/education-financial-independence-key-womens-empowerment-rizvi-1540421",
+      "pubDate": "Sat, 12 Sep 2026 12:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/12/rizvi_1209.jpg",
+      "snippet": "He urged Jatiyatabadi Mohila Dal leaders and activists to learn about the government's programmes and communicate them to the people."
+    },
+    {
+      "title": "Lakshmipur UP official admits making 74 fake birth, death registrations under pressure to meet target",
+      "link": "https://www.tbsnews.net/bangladesh/lakshmipur-official-admits-making-74-fake-birth-death-registrations-under-pressure-meet",
+      "pubDate": "Sat, 12 Sep 2026 12:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/12/messenger_creation_cc490758-2896-421b-85f1-173caba5755f.jpeg",
+      "snippet": "An investigation found that Bacher, who was then serving as the registration assistant, was involved in the registrations."
+    },
+    {
+      "title": "Radio is just lost in the meadow",
+      "link": "https://www.tbsnews.net/features/radio-just-lost-meadow-1540401",
+      "pubDate": "Sat, 12 Sep 2026 12:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/12/06/untitled_0.jpg",
+      "snippet": "Before smartphones and the internet became extensions of our hands, radio was one of the country's most important windows to the outside world."
+    },
+    {
+      "title": "Bangladeshi filmmaker Rubaiyat's 'The Difficult Bride' wins Bisato d'Oro at Venice Film Festival",
+      "link": "https://www.tbsnews.net/splash/bangladeshi-filmmaker-rubaiyats-difficult-bride-wins-bisato-doro-venice-film-festival-1540391",
+      "pubDate": "Sat, 12 Sep 2026 12:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/12/light_blue_white_clean_grid_family_photo_collage_3.png",
+      "snippet": "The film’s team described its selection as the first participation of a Bangladeshi feature film at the Venice International Film Festival."
+    },
+    {
+      "title": "PM opens Bangladesh Innovation Fair 2026",
+      "link": "https://www.tbsnews.net/bangladesh/pm-opens-bangladesh-innovation-fair-2026-1540381",
+      "pubDate": "Sat, 12 Sep 2026 12:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/12/image-423632-1789192195.jpg",
+      "snippet": "Government and private research organisations, 73 public and private universities, independent researchers, students, emerging startups, small and medium enterprises (SMEs) and global investors are participating in the fair."
+    },
+    {
+      "title": "Tk3,482cr Dasherkandi STP runs at 25% capacity due to lack of sewer connections",
+      "link": "https://www.tbsnews.net/bangladesh/infrastructure/tk3482cr-dasherkandi-stp-runs-25-capacity-due-lack-sewer-connections",
+      "pubDate": "Sat, 12 Sep 2026 12:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/12/p5_dasherkandi_dji_20260725145634_0509_d.jpg",
+      "snippet": "A sewer connection links a building’s internal plumbing system to a municipal public main line or private sewage disposal system"
+    },
+    {
+      "title": "Rain, thundershowers likely over 8 divisions",
+      "link": "https://www.tbsnews.net/bangladesh/rain-thundershowers-likely-over-8-divisions-1540351",
+      "pubDate": "Sat, 12 Sep 2026 11:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/19/2917931.jpg",
+      "snippet": "Day and night temperatures may fall slightly over the country."
+    },
+    {
+      "title": "When fiscal stimulus becomes a debt burden",
+      "link": "https://www.tbsnews.net/economy/when-fiscal-stimulus-becomes-debt-burden-1540291",
+      "pubDate": "Sat, 12 Sep 2026 11:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/04/16/debt.jpg",
+      "snippet": "It prescribes that governments should spend more to cushion shocks, sustain demand, and encourage households and businesses to spend and invest. For much of the past century, this approach has helped economies avoid deeper downturns"
+    },
+    {
+      "title": "10,459 Chattogram customs cases leave Tk2,661cr revenue tied up",
+      "link": "https://www.tbsnews.net/bangladesh/court/10459-chattogram-customs-cases-leave-tk2661cr-revenue-tied-1540266",
+      "pubDate": "Sat, 12 Sep 2026 11:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/06/04/ctg_customs.jpg",
+      "snippet": "In FY2025-26 alone, 656 new cases involving Tk1,094.87 crore were filed, adding to a long-standing litigation backlog over imported goods."
+    },
+    {
+      "title": "Asia's oil industry wants Trump to leave the Gulf, but expects he won't",
+      "link": "https://www.tbsnews.net/thoughts/asias-oil-industry-wants-trump-leave-gulf-expects-he-wont-1540296",
+      "pubDate": "Sat, 12 Sep 2026 10:55:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/05/strait_of_hormuz.jpg",
+      "snippet": "Across thousands of conversations at this week's APPEC conference in Singapore, the big issue was how to safely and sustainably reopen the Strait of Hormuz"
+    },
+    {
+      "title": "Six Islami Bank officials forge businessman's signature, leave Tk1cr loan burden",
+      "link": "https://www.tbsnews.net/bangladesh/crime/six-islami-bank-officials-forge-businessmans-signature-leave-tk1cr-loan-burden",
+      "pubDate": "Sat, 12 Sep 2026 10:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/11/islami_bank_logo.jpg",
+      "snippet": "Six Islami Bank officials in Chattogram accused of forging client’s signature and creating the LCs, loan"
+    },
+    {
+      "title": "PM opens three-month nationwide dengue prevention, cleanliness campaign",
+      "link": "https://www.tbsnews.net/bangladesh/pm-opens-three-month-nationwide-dengue-prevention-cleanliness-campaign-1540281",
+      "pubDate": "Sat, 12 Sep 2026 10:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/12/prime_minister_tarique_rahman.jpg",
+      "snippet": "The prime minister formally inaugurated the ‘Dengue Prevention and Cleanliness Campaign-2026’ at 9:30am at the South Plaza of the Jatiya Sangsad Bhaban."
+    },
+    {
+      "title": "Bangladesh envoy plays down tensions over Tarique Rahman's BRICS absence",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-envoy-plays-down-tensions-over-tarique-rahmans-brics-absence-1540276",
+      "pubDate": "Sat, 12 Sep 2026 10:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/12/high_commissioner_to_india_m_riaz_hamidullah.jpg",
+      "snippet": "Hamidullah told India Today channel that Rahman’s absence was not a straightforward rejection of the BRICS invitation"
+    },
+    {
+      "title": "The British-era trade controls Bangladesh never let go",
+      "link": "https://www.tbsnews.net/bangladesh/british-era-trade-controls-bangladesh-never-let-go-1540251",
+      "pubDate": "Sat, 12 Sep 2026 10:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/12/british-control.png",
+      "snippet": "According to a 2022 commerce ministry public notice, importers, exporters and other businesses involved in international trade must obtain as many as 49 certificates and permits from the Office of the Chief Controller of Imports and Exports."
+    },
+    {
       "title": "Electrical, electronics exports hit record growth amid rising EU compliance hurdles",
       "link": "https://www.tbsnews.net/economy/industry/electrical-electronics-exports-hit-record-growth-amid-rising-eu-compliance-hurdles",
       "pubDate": "Sat, 12 Sep 2026 07:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/12/export.png",
       "snippet": "According to the latest Export Promotion Bureau (EPB) data, exports of electrical products increased 23.82% from $166.52 million a year earlier, reaching a record $206.19 million"
-    },
-    {
-      "title": "BNP chairman meets with prominent media participants",
-      "link": "https://www.tbsnews.net/bangladesh/bnp-chairman-meets-prominent-media-participants-1540216",
-      "pubDate": "Sat, 12 Sep 2026 02:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/12/pm.jpg",
-      "snippet": "Tarique Rahman exchanges views with regular TV talk show participants on media and the country's current situation"
-    },
-    {
-      "title": "Former Barishal Press Club general secretary found dead",
-      "link": "https://www.tbsnews.net/bangladesh/former-barishal-press-club-general-secretary-found-dead-1540201",
-      "pubDate": "Sat, 12 Sep 2026 01:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/12/journalist-pulak-chatterjee.jpg",
-      "snippet": "Police recover five notes as investigation begins"
     },
     {
       "title": "Anthropic says it blocks attempts to use AI for biological weapons work",
@@ -45,136 +254,26 @@
       "snippet": "Five cases reveal growing risks from AI-assisted biological research"
     },
     {
-      "title": "Utilise Bhola gas to drive industrialisation in southern region: Speakers",
+      "title": "Calls for utilising Bhola gas to drive industrialisation in Barishal",
       "link": "https://www.tbsnews.net/economy/industry/utilise-bhola-gas-drive-industrialisation-southern-region-speakers-1540181",
       "pubDate": "Fri, 11 Sep 2026 23:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Industry",
+      "color": "#f57c00",
+      "bg": "#fff3e0",
+      "icon": "🏭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/07/25/bhola_gas_field.png",
-      "snippet": ""
-    },
-    {
-      "title": "Govt plans 1,600 mmcfd additional LNG capacity by 2030: State minister",
-      "link": "https://www.tbsnews.net/economy/energy/govt-plans-1600mmcfd-additional-lng-capacity-2030-1540106",
-      "pubDate": "Fri, 11 Sep 2026 23:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/lng-capacity.jpg",
-      "snippet": "Maheshkhali and Matarbari terminals to drive expansion"
-    },
-    {
-      "title": "Navy rescues 12 fishermen after engine failure leaves trawler adrift in Bay",
-      "link": "https://www.tbsnews.net/bangladesh/navy-rescues-12-fishermen-after-engine-failure-leaves-trawler-adrift-bay-1540091",
-      "pubDate": "Fri, 11 Sep 2026 22:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/navy_rescues_fisherman.jpg",
-      "snippet": "The Navy found the drifting trawler after hours of searching in rough seas and adverse weather."
-    },
-    {
-      "title": "Padma Barrage construction to begin between Jan-Mar next year: Minister",
-      "link": "https://www.tbsnews.net/bangladesh/padma-barrage-construction-begin-between-jan-mar-next-year-minister-1540101",
-      "pubDate": "Fri, 11 Sep 2026 22:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/water_resources_minister_shahiduddin_chowdhury_anee.png",
-      "snippet": "Seven-year project will divert water from the Padma to the Gorai in the dry season and include a hydropower project"
-    },
-    {
-      "title": "Man killed while trying to save 10-year-old from train in Ctg; child loses hand, leg",
-      "link": "https://www.tbsnews.net/bangladesh/man-killed-while-trying-save-10-year-old-train-ctg-child-loses-hand-leg-1540081",
-      "pubDate": "Fri, 11 Sep 2026 21:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/ctg_train_accident.jpg",
-      "snippet": "The 10-year-old boy survived the accident but lost his right hand and leg and is now receiving treatment at Chattogram Medical College Hospital."
-    },
-    {
-      "title": "Deputy speaker off to South Africa to attend 69th Commonwealth Parliamentary Conference",
-      "link": "https://www.tbsnews.net/bangladesh/deputy-speaker-south-africa-attend-69th-commonwealth-parliamentary-conference-1540076",
-      "pubDate": "Fri, 11 Sep 2026 21:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/kayser_kamal.jpg",
-      "snippet": "Five-member parliamentary delegation led by Deputy Speaker Kayser Kamal to attend the 69th Commonwealth Parliamentary Conference in South Africa."
+      "snippet": "The recommendations came at a seminar \"Tomorrow's Barishal: Challenges, Prospects and the Way Forward\", organised by the Barishal Divisional Journalists Association in the capital today (11 September)."
     },
     {
       "title": "Measles: Death toll hits 1012 as 3 more die in 24 hrs",
       "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-hits-1012-3-more-die-24-hrs-1540071",
       "pubDate": "Fri, 11 Sep 2026 21:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/measles.png",
       "snippet": "Three children died with measles-like symptoms in 24 hours, taking the combined confirmed and suspected measles death toll to 1,012 this year."
-    },
-    {
-      "title": "One person used AI to run pro-Awami League 'fake news' in Bangladesh for almost a year: Anthropic ",
-      "link": "https://www.tbsnews.net/bangladesh/one-person-used-ai-run-pro-awami-league-fake-news-bangladesh-almost-year-anthropic",
-      "pubDate": "Fri, 11 Sep 2026 20:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/al-fake-news-via-ai.jpg",
-      "snippet": "Anthropic says some of the fabricated narratives also aligned with pro-Indian geopolitical interests, but found no evidence of state direction or funding"
-    },
-    {
-      "title": "PM visits injured army officer at CMH, wishes speedy recovery",
-      "link": "https://www.tbsnews.net/bangladesh/pm-visits-injured-army-officer-cmh-wishes-speedy-recovery-1540046",
-      "pubDate": "Fri, 11 Sep 2026 20:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/prime_minister_tarique_rahman_visits_an_injured_army_officer.jpg",
-      "snippet": "PM enquires about the critically injured officer’s condition and directs authorities to ensure proper treatment"
-    },
-    {
-      "title": "PM provides financial assistance to religious institutions in Dhaka-17",
-      "link": "https://www.tbsnews.net/bangladesh/pm-provides-financial-assistance-religious-institutions-dhaka-17-1540041",
-      "pubDate": "Fri, 11 Sep 2026 20:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/prime_minister_tarique_rahman.jpg",
-      "snippet": "Dhaka-17 religious institutions get PM’s support ahead of Durga Puja."
-    },
-    {
-      "title": "Endangered capped leaf monkey dies after being hit on Sreemangal road",
-      "link": "https://www.tbsnews.net/bangladesh/endangered-capped-leaf-monkey-dies-after-being-hit-sreemangal-road-1540026",
-      "pubDate": "Fri, 11 Sep 2026 20:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/capped_leaf_monkey_death.png",
-      "snippet": "A CNG driver tried to save the injured endangered monkey, but it later died at a veterinary hospital."
-    },
-    {
-      "title": "Over 50,000 stranded as Padma swells in Kushtia",
-      "link": "https://www.tbsnews.net/bangladesh/over-50000-stranded-padma-swells-kushtia-1540021",
-      "pubDate": "Fri, 11 Sep 2026 19:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/flood_1.jpg",
-      "snippet": "18 schools suspend classes as floodwaters inundate roads and 350 hectares of farmland"
     },
     {
       "title": "The money is coming home but the prosperity is not",
@@ -197,61 +296,6 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/e5ooyi6ekvkktlwxipgd2erjau.jpg",
       "snippet": "Bangladesh's Rohingya policy remains too narrowly focused on repatriation, overlooking the deeper political and social forces shaping Myanmar's future"
-    },
-    {
-      "title": "Biman staffer sent to jail after remand over Tk25.2cr gold seizure",
-      "link": "https://www.tbsnews.net/bangladesh/crime/biman-staffer-sent-jail-after-remand-over-tk252cr-gold-seizure-1540001",
-      "pubDate": "Fri, 11 Sep 2026 19:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/10/20/metropolitan_court.jpg",
-      "snippet": "Soaib Kazi Sojib was sent to jail after completing five days in remand in a case over the alleged smuggling of nearly 14kg of gold."
-    },
-    {
-      "title": "Draft cyber law could enable 'unchecked surveillance, impunity and repression': TIB",
-      "link": "https://www.tbsnews.net/bangladesh/draft-cyber-law-could-enable-unchecked-surveillance-impunity-and-repression-tib-1539986",
-      "pubDate": "Fri, 11 Sep 2026 18:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/09/10/freedom-of-speech_0_1.png",
-      "snippet": "TIB calls for an overhaul of the proposed law, warning that vague definitions and broad enforcement powers could be abused against fundamental rights."
-    },
-    {
-      "title": "BGB thwarts BSF attempt to 'illegally push' 10-12 people through Satkhira border",
-      "link": "https://www.tbsnews.net/bangladesh/bgb-thwarts-bsf-attempt-illegally-push-10-12-people-through-satkhira-border-1539981",
-      "pubDate": "Fri, 11 Sep 2026 18:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/border_guard_bangladesh_bgb.jpg",
-      "snippet": "Group was taken back to India after BGB blocked their entry, officials say"
-    },
-    {
-      "title": "Gandaria mason murder: Named accused arrested by RAB",
-      "link": "https://www.tbsnews.net/bangladesh/crime/gandaria-mason-murder-named-accused-arrested-rab-1539961",
-      "pubDate": "Fri, 11 Sep 2026 18:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/arrested_accused_in_gendaria_masion_murder_case.jpg",
-      "snippet": "Gias was later handed over to Gandaria Police Station for further legal action."
-    },
-    {
-      "title": "3 held with gold jewellery worth Tk1.37 crore at Dhaka airport",
-      "link": "https://www.tbsnews.net/bangladesh/crime/3-held-gold-jewellery-worth-tk137-crore-dhaka-airport-1539976",
-      "pubDate": "Fri, 11 Sep 2026 18:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/gold_smuggling_arrest_dhaka_airport.jpg",
-      "snippet": "APBn seizes 861.8g of 21- and 22-carat gold jewellery from three alleged smugglers at Hazrat Shahjalal International Airport."
     },
     {
       "title": "Minister finds proof of Mugda hospital patients being pushed outside for diagnostic tests",
@@ -648,62 +692,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/measlessssssss.jpeg",
       "snippet": "Six months after the outbreak began, measles still remains uncontrolled in the country, with 1,002 confirmed and suspected deaths, including 100 confirmed measles fatalities."
-    },
-    {
-      "title": "Bangladesh fights world's worst measles outbreak as vaccination gaps fuel spread",
-      "link": "https://www.tbsnews.net/bangladesh/health/bangladesh-fights-worlds-worst-measles-outbreak-vaccination-gaps-fuel-spread",
-      "pubDate": "Wed, 09 Sep 2026 12:50:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/09/bangladesh_measles.jpg",
-      "snippet": "The prolonged outbreak, despite a nationwide emergency vaccination campaign launched in April, follows disruption to routine immunisation in 2024 and 2025"
-    },
-    {
-      "title": "Voters in Germany fire a warning shot over Europe",
-      "link": "https://www.tbsnews.net/features/panorama/voters-germany-fire-warning-shot-over-europe-1537561",
-      "pubDate": "Wed, 09 Sep 2026 12:45:00 +0600",
-      "category": "Analysis",
-      "color": "#5d4037",
-      "bg": "#efebe9",
-      "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/09/l3v26luhp5lixincm2hmf6berq.jpg",
-      "snippet": "Given Germany’s flirtation with right-wing ultra-nationalism in the not-too-distant past, and how it spawned a racist monster that devoured the whole of Europe, one could understand the ripple of unease the AfD sent through German society"
-    },
-    {
-      "title": "Keya Group lays off 613 workers at four Gazipur factories",
-      "link": "https://www.tbsnews.net/economy/rmg/keya-group-lays-613-workers-four-gazipur-factories-1537506",
-      "pubDate": "Wed, 09 Sep 2026 12:10:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/09/keya.jpg",
-      "snippet": "Sabina Yasmin, manager of Keya Group’s human resources department, confirmed the authenticity of the notice."
-    },
-    {
-      "title": "Kenyan start-up makes robotic limbs to help deaf kids sign",
-      "link": "https://www.tbsnews.net/bangladesh/health/kenyan-start-makes-robotic-limbs-help-deaf-kids-sign-1537496",
-      "pubDate": "Wed, 09 Sep 2026 12:05:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/09/image-422609-1788931486.jpg",
-      "snippet": "It has built a mechanical hand that can translate a teacher's voice into sign language in real time, allowing deaf children to learn alongside their hearing counterparts."
-    },
-    {
-      "title": "Tylenol use in pregnancy may be linked with uterus, ovary changes in daughters",
-      "link": "https://www.tbsnews.net/bangladesh/health/tylenol-use-pregnancy-may-be-linked-uterus-ovary-changes-daughters-1537466",
-      "pubDate": "Wed, 09 Sep 2026 11:40:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/23/tylenol.jpg",
-      "snippet": "Women who during pregnancy have used Tylenol - also sold as acetaminophen, or paracetamol outside the US - should not be alarmed by the findings"
     }
   ],
-  "updatedAt": "2026-09-12T03:22:51.363Z"
+  "updatedAt": "2026-09-12T08:04:15.785Z"
 }
