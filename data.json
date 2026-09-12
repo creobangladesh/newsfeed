@@ -1,6 +1,83 @@
 {
   "news": [
     {
+      "title": "Anthropic CEO calls for slower pace of AI development",
+      "link": "https://www.tbsnews.net/tech/anthropic-ceo-calls-slower-pace-ai-development-1540916",
+      "pubDate": "Sat, 12 Sep 2026 23:50:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/12/ceo-of-anthropic-dario-amodei-addresses-the-gathering-at-the-ai-impact-summit-in-new-delhi-india-february-19-2026.-reuters.jpg",
+      "snippet": "Amodei warns safeguards are lagging behind AI capabilities."
+    },
+    {
+      "title": "Pistol 'looted' from police station during July Uprising found on mosque shelf in Araihazar",
+      "link": "https://www.tbsnews.net/bangladesh/pistol-looted-police-station-during-july-uprising-found-mosque-shelf-araihazar-1540901",
+      "pubDate": "Sat, 12 Sep 2026 22:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/12/araihazar_pistol.jpg",
+      "snippet": "A 9mm pistol, two magazines and 20 rounds of ammunition were found on a shelf on the second floor of Araihazar Bazar Mosque today."
+    },
+    {
+      "title": "BNP to announce candidate for Mirza Fakhrul's seat on 18 September",
+      "link": "https://www.tbsnews.net/bangladesh/politics/bnp-announce-candidate-mirza-fakhruls-seat-18-september-1540896",
+      "pubDate": "Sat, 12 Sep 2026 22:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/bnp_logo.png",
+      "snippet": "The by-election to the seat is scheduled for 29 October.."
+    },
+    {
+      "title": "Govt targets additional $5b in US investment over five years",
+      "link": "https://www.tbsnews.net/foreign-policy/govt-amcham-target-5b-us-investment-5-years-1540906",
+      "pubDate": "Sat, 12 Sep 2026 22:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/12/amcham_bd.jpg",
+      "snippet": "Bilateral trade between Bangladesh, US currently exceeds $13"
+    },
+    {
+      "title": "'Lured with fake gig': 2 dancers 'gang-raped' on mid-river in Brahmanbaria; 1 held",
+      "link": "https://www.tbsnews.net/bangladesh/crime/lured-fake-gig-2-dancers-gang-raped-mid-river-brahmanbaria-1-held-1540886",
+      "pubDate": "Sat, 12 Sep 2026 22:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/07/child_rape.jpg",
+      "snippet": "The arrestee was identified as Shanto Biswas, 19, from Budda village in Sarail."
+    },
+    {
+      "title": "Regulatory incentives fail to stem foreign capital flight in August",
+      "link": "https://www.tbsnews.net/economy/stocks/regulatory-incentives-fail-stem-foreign-capital-flight-august-1540876",
+      "pubDate": "Sat, 12 Sep 2026 21:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/10/21/thoughts_1-ezgif.com-webp-to-jpg-converter.jpg",
+      "snippet": "Foreign investors stepped up sell-offs in Dhaka stocks in August despite recent measures to attract overseas capital."
+    },
+    {
+      "title": "DSEX plunges 146 points as energy shortages and earnings concerns rattle bourse",
+      "link": "https://www.tbsnews.net/economy/stocks/dsex-plunges-146-points-energy-shortages-and-earnings-concerns-rattle-bourse-1540881",
+      "pubDate": "Sat, 12 Sep 2026 21:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/14/b75a3f43-e8bb-492c-b0a9-88afb324c29c_0.jpg",
+      "snippet": "Overall market capitalisation contracted significantly, wiping out Tk5,400 crore over the week."
+    },
+    {
       "title": "Awareness, cleanliness key to dengue prevention: Tuku",
       "link": "https://www.tbsnews.net/bangladesh/awareness-cleanliness-key-dengue-prevention-tuku-1540831",
       "pubDate": "Sat, 12 Sep 2026 20:45:00 +0600",
@@ -155,59 +232,15 @@
       "snippet": "Officers moved to SB, Tourist and Industrial Police"
     },
     {
-      "title": "Lawyer's semi-decomposed body recovered from rented house in Lalbagh",
-      "link": "https://www.tbsnews.net/bangladesh/lawyers-semi-decomposed-body-recovered-rented-house-lalbagh-1540681",
-      "pubDate": "Sat, 12 Sep 2026 18:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/28/dead_2.png",
-      "snippet": "Police initially suspect the 47-year-old died of a stroke."
-    },
-    {
-      "title": "PM to distribute Farmer Cards to 7,500 farmers in Feni on 17 Sept",
-      "link": "https://www.tbsnews.net/bangladesh/pm-distribute-farmer-cards-7500-farmers-feni-17-sept-1540686",
-      "pubDate": "Sat, 12 Sep 2026 18:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/12/farmer_card.jpg",
-      "snippet": "A total of 1.10 lakh farmers across the country will receive the cards on the day, with 1 lakh set to get Tk2,500 each as cash assistance."
-    },
-    {
-      "title": "Woman's dismembered body parts found in sack in Adabor",
-      "link": "https://www.tbsnews.net/bangladesh/crime/womans-dismembered-body-parts-found-sack-adabor-1540661",
-      "pubDate": "Sat, 12 Sep 2026 18:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/02/representational_deadbody.jpg",
-      "snippet": "Police are yet to identify the deceased or find her legs"
-    },
-    {
       "title": "PM seeks people's cooperation to prevent dengue, build clean Bangladesh",
       "link": "https://www.tbsnews.net/bangladesh/health/pm-seeks-peoples-cooperation-prevent-dengue-build-clean-bangladesh-1540666",
       "pubDate": "Sat, 12 Sep 2026 18:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/12/dengue_tarique.jpg",
       "snippet": "Tarique stressed that preventing mosquito breeding is the safest and easiest way to tackle dengue, as discarded plastic, paper and other waste can collect stagnant water and create breeding grounds for dengue mosquitoes."
-    },
-    {
-      "title": "Police-magistracy conference in Dhaka focuses on faster investigations, timely charge sheets",
-      "link": "https://www.tbsnews.net/bangladesh/police-magistracy-conference-dhaka-focus-faster-investigations-timely-charge-sheets",
-      "pubDate": "Sat, 12 Sep 2026 17:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/12/police_conference.jpg",
-      "snippet": "Only four anti-discrimination cases have reached trial, with delays in medical reports, warrants, and court proceedings also flagged."
     },
     {
       "title": "Where adaptation ends, loss and damage must begin",
@@ -230,17 +263,6 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/12/ultrasound-guided.jpg",
       "snippet": "The infant developed severe sepsis after bronchopneumonia spread to his bloodstream."
-    },
-    {
-      "title": "High-tech parks fail to deliver expected investment, jobs and tech businesses: Experts",
-      "link": "https://www.tbsnews.net/bangladesh/high-tech-parks-fail-deliver-expected-investment-jobs-and-tech-businesses-experts-1540591",
-      "pubDate": "Sat, 12 Sep 2026 16:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/03/gazipur_kaliakoir_hi-tech_park_photo5.jpg",
-      "snippet": "Bangladesh built 39 High-Tech and Software Technology Parks between 2009 and 2023 based on the assumption that physical infrastructure alone would trigger a technology boom and attract investment."
     },
     {
       "title": "Bangladeshi businesses begin testing AI agents that do more than answer questions",
@@ -648,29 +670,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/07/sammilito_islami_bank.jpg",
       "snippet": "Earlier, among customers who applied to withdraw funds on 1 September, 8,125 withdrew a total of Tk319 crore on 7 September."
-    },
-    {
-      "title": "Former bank owners no longer can return to merged banks",
-      "link": "https://www.tbsnews.net/economy/banking/former-bank-owners-no-longer-can-return-merged-banks-1538511",
-      "pubDate": "Wed, 09 Sep 2026 23:45:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/12/distressed_banks.png",
-      "snippet": "Parliament has passed an amendment to the Bank Resolution Act."
-    },
-    {
-      "title": "Trouser Line keen to buy 23.50 lakh Pubali Bank shares worth Tk8.86cr",
-      "link": "https://www.tbsnews.net/economy/stocks/trouser-line-keen-buy-2350-lakh-pubali-bank-shares-worth-tk886cr-1538466",
-      "pubDate": "Wed, 09 Sep 2026 21:50:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/04/18/picsart_24-04-18_11-08-14-838.jpg",
-      "snippet": ""
     }
   ],
-  "updatedAt": "2026-09-12T15:44:10.307Z"
+  "updatedAt": "2026-09-12T18:08:40.772Z"
 }
