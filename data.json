@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Electrical, electronics exports hit record growth amid rising EU compliance hurdles",
+      "link": "https://www.tbsnews.net/economy/industry/electrical-electronics-exports-hit-record-growth-amid-rising-eu-compliance-hurdles",
+      "pubDate": "Sat, 12 Sep 2026 07:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/12/export.png",
+      "snippet": "According to the latest Export Promotion Bureau (EPB) data, exports of electrical products increased 23.82% from $166.52 million a year earlier, reaching a record $206.19 million"
+    },
+    {
       "title": "BNP chairman meets with prominent media participants",
       "link": "https://www.tbsnews.net/bangladesh/bnp-chairman-meets-prominent-media-participants-1540216",
       "pubDate": "Sat, 12 Sep 2026 02:10:00 +0600",
@@ -241,17 +252,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/gold_smuggling_arrest_dhaka_airport.jpg",
       "snippet": "APBn seizes 861.8g of 21- and 22-carat gold jewellery from three alleged smugglers at Hazrat Shahjalal International Airport."
-    },
-    {
-      "title": "DMP arrests 542 in 24 hours, files 51 cases",
-      "link": "https://www.tbsnews.net/bangladesh/dmp-arrests-542-24-hours-files-51-cases-1539956",
-      "pubDate": "Fri, 11 Sep 2026 18:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/arrest.jpg",
-      "snippet": "Dhaka sees another sweep as police detain 542 in 24-hour anti-crime drive"
     },
     {
       "title": "Minister finds proof of Mugda hospital patients being pushed outside for diagnostic tests",
@@ -705,5 +705,5 @@
       "snippet": "Women who during pregnancy have used Tylenol - also sold as acetaminophen, or paracetamol outside the US - should not be alarmed by the findings"
     }
   ],
-  "updatedAt": "2026-09-11T23:53:45.148Z"
+  "updatedAt": "2026-09-12T03:22:51.363Z"
 }
