@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "British Bangladesh Chamber plans London trade centre to boost bilateral business ties",
+      "link": "https://www.tbsnews.net/economy/british-bangladesh-chamber-plans-london-trade-centre-boost-bilateral-business-ties-1540931",
+      "pubDate": "Sun, 13 Sep 2026 00:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/13/bbccci.jpg",
+      "snippet": "Proposed centre will connect businesses, facilitate investment and support market entry in Bangladesh and the UK"
+    },
+    {
+      "title": "IDRA to pay Tk23.03cr insurance claims to 5,868 policyholders ",
+      "link": "https://www.tbsnews.net/economy/idra-pay-tk2303cr-insurance-claims-5868-policyholders-1540926",
+      "pubDate": "Sun, 13 Sep 2026 00:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/13/idra.jpg",
+      "snippet": "Second phase targets long-pending claims from five insurers"
+    },
+    {
+      "title": "110,364 farmers to receive incentives under pilot Farmer Card: Minister",
+      "link": "https://www.tbsnews.net/agriculture/110364-farmers-receive-incentives-under-pilot-farmer-card-minister-1540921",
+      "pubDate": "Sat, 12 Sep 2026 23:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/13/agriculture_minister.jpg",
+      "snippet": "The inauguration programme is scheduled for 17 September."
+    },
+    {
       "title": "Anthropic CEO calls for slower pace of AI development",
       "link": "https://www.tbsnews.net/tech/anthropic-ceo-calls-slower-pace-ai-development-1540916",
       "pubDate": "Sat, 12 Sep 2026 23:50:00 +0600",
@@ -202,34 +235,12 @@
       "title": "2 die of dengue, 1,056 hospitalised in 24hrs",
       "link": "https://www.tbsnews.net/bangladesh/health/2-die-dengue-1056-hospitalised-24hrs-1540701",
       "pubDate": "Sat, 12 Sep 2026 19:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/14/dengue.jpg",
       "snippet": "The death toll from the disease stood at 143 this year."
-    },
-    {
-      "title": "63 foreign nationals arrested in Ctg: Software operation run from single room, no passports found, say police",
-      "link": "https://www.tbsnews.net/bangladesh/crime/63-foreign-nationals-arrested-ctg-software-operation-run-single-room-no-passports",
-      "pubDate": "Sat, 12 Sep 2026 19:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/12/foreign_nationals_arrest.jpeg",
-      "snippet": "The 63 arrested foreigners include 35 citizens of Laos, 21 of Pakistan, five of China, one of Nepal and one of Vietnam."
-    },
-    {
-      "title": "5 senior police officials transferred",
-      "link": "https://www.tbsnews.net/bangladesh/5-senior-police-officials-transferred-1540696",
-      "pubDate": "Sat, 12 Sep 2026 18:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/10/police_bd.jpg",
-      "snippet": "Officers moved to SB, Tourist and Industrial Police"
     },
     {
       "title": "PM seeks people's cooperation to prevent dengue, build clean Bangladesh",
@@ -648,29 +659,7 @@
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/25/bangla_qr.png",
       "snippet": "Bangla QR misuse is inflating digital payment figures and raising fraud, tax evasion and money laundering concerns."
-    },
-    {
-      "title": "Apple joins foldable phone race with $1,999 passport-shaped iPhone Duo",
-      "link": "https://www.tbsnews.net/tech/apple-debuts-1999-passport-shaped-foldable-phone-called-duo-1538551",
-      "pubDate": "Thu, 10 Sep 2026 00:40:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/10/2026-09-09t182625z_1343592699_rc2ufnaiwzx0_rtrmadp_3_apple-event.jpg",
-      "snippet": "iPhone 18 Pro and the 18 Pro Max handsets, the latest versions of Apple's well-known line, have also been unveiled."
-    },
-    {
-      "title": "26,000 Sammilito Islami Bank customers withdraw Tk1,040cr in 3 days",
-      "link": "https://www.tbsnews.net/economy/banking/26000-sammilito-islami-bank-customers-withdraw-tk1040cr-three-days-1538541",
-      "pubDate": "Thu, 10 Sep 2026 00:30:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/07/sammilito_islami_bank.jpg",
-      "snippet": "Earlier, among customers who applied to withdraw funds on 1 September, 8,125 withdrew a total of Tk319 crore on 7 September."
     }
   ],
-  "updatedAt": "2026-09-12T18:08:40.772Z"
+  "updatedAt": "2026-09-12T20:47:41.400Z"
 }
