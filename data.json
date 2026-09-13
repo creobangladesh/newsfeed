@@ -1,6 +1,94 @@
 {
   "news": [
     {
+      "title": "Four killed in covered van-microbus collision in Chattogram",
+      "link": "https://www.tbsnews.net/bangladesh/four-killed-covered-van-microbus-collision-chattogram-1541041",
+      "pubDate": "Sun, 13 Sep 2026 11:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/19/accident.jpg",
+      "snippet": "One of the deceased was identified as Md Hasan, 38, son of Mostaque Ahmed of Cox’s Bazar Sadar upazila."
+    },
+    {
+      "title": "Bangladesh ceramics must shift from volume to value: RAK CEO",
+      "link": "https://www.tbsnews.net/interviews/bangladesh-ceramics-must-shift-volume-value-rak-ceo-1540966",
+      "pubDate": "Sun, 13 Sep 2026 11:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/13/mohammod_khourshed_alam.jpg",
+      "snippet": "Mohammod Khourshed Alam, the new CEO of RAK Ceramics (Bangladesh), wants to move beyond simply selling more products and focus on creating greater value. In an interview with The Business Standard’s Abbas Uddin Noyon, he discusses his priorities and ..."
+    },
+    {
+      "title": "Bangladeshi educator Sumit Saha builds a wider path for developer learning",
+      "link": "https://www.tbsnews.net/bangladesh/bangladeshi-educator-sumit-saha-builds-wider-path-developer-learning-1541016",
+      "pubDate": "Sun, 13 Sep 2026 11:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/13/bangladeshi_educator_sumit_saha_builds_a_wider_path_for_developer_learning.jpg",
+      "snippet": "His early professional journey began as a software and technology entrepreneur."
+    },
+    {
+      "title": "Dhaka's air unhealthy for sensitive groups",
+      "link": "https://www.tbsnews.net/bangladesh/environment/dhakas-air-unhealthy-sensitive-groups-1541001",
+      "pubDate": "Sun, 13 Sep 2026 10:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/17/2728414.jpg",
+      "snippet": "Kinshasa, Democratic Republic of the Congo, topped the global pollution ranking with an AQI of 184, followed by Indonesia’s Jakarta with 166 and Malaysia’s Kuching with 156."
+    },
+    {
+      "title": "Ctg police plan AI cameras, camps to disrupt 'crime corridor' linking hills",
+      "link": "https://www.tbsnews.net/bangladesh/ctg-police-plan-ai-cameras-camps-disrupt-crime-corridor-linking-hills-1540956",
+      "pubDate": "Sun, 13 Sep 2026 10:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/10/p5_my_city_f3a9682.jpg",
+      "snippet": "The plan targets Raozan, Rangunia and Fatikchhari, which police say have become key transit routes for criminals who allegedly descend from the hills to commit crimes before retreating into remote areas."
+    },
+    {
+      "title": "Bangladesh’s trade and energy lifeline under fresh threat as Red Sea tensions rise",
+      "link": "https://www.tbsnews.net/economy/bangladeshs-trade-and-energy-lifeline-under-fresh-threat-red-sea-tensions-rise-1540971",
+      "pubDate": "Sun, 13 Sep 2026 10:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/13/map.png",
+      "snippet": "Further escalation in the Red Sea would require Europe-bound vessels from Bangladesh to take alternative routes around Africa’s Cape of Good Hope, a detour of approximately 7,500 kilometres"
+    },
+    {
+      "title": "How Karnaphuli EPZ transforms from loss-making steel mill to export hub",
+      "link": "https://www.tbsnews.net/economy/how-karnaphuli-epz-transforms-loss-making-steel-mill-export-hub-1540961",
+      "pubDate": "Sun, 13 Sep 2026 09:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/13/karnaphuli_epz.jpg",
+      "snippet": "Cumulative export earnings exceed $14b over two decades"
+    },
+    {
+      "title": "Transition to new dealer policy disrupts fertiliser supply despite ample stocks",
+      "link": "https://www.tbsnews.net/agriculture/transition-new-dealer-policy-disrupts-fertiliser-supply-despite-ample-stocks-1540936",
+      "pubDate": "Sun, 13 Sep 2026 07:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/fertiliser_1.jpg",
+      "snippet": "Dealers lift only half allocations as farmers queue for supplies"
+    },
+    {
       "title": "British Bangladesh Chamber plans London trade centre to boost bilateral business ties",
       "link": "https://www.tbsnews.net/economy/british-bangladesh-chamber-plans-london-trade-centre-boost-bilateral-business-ties-1540931",
       "pubDate": "Sun, 13 Sep 2026 00:45:00 +0600",
@@ -56,17 +144,6 @@
       "snippet": "A 9mm pistol, two magazines and 20 rounds of ammunition were found on a shelf on the second floor of Araihazar Bazar Mosque today."
     },
     {
-      "title": "BNP to announce candidate for Mirza Fakhrul's seat on 18 September",
-      "link": "https://www.tbsnews.net/bangladesh/politics/bnp-announce-candidate-mirza-fakhruls-seat-18-september-1540896",
-      "pubDate": "Sat, 12 Sep 2026 22:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/bnp_logo.png",
-      "snippet": "The by-election to the seat is scheduled for 29 October.."
-    },
-    {
       "title": "Govt targets additional $5b in US investment over five years",
       "link": "https://www.tbsnews.net/foreign-policy/govt-amcham-target-5b-us-investment-5-years-1540906",
       "pubDate": "Sat, 12 Sep 2026 22:05:00 +0600",
@@ -76,6 +153,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/12/amcham_bd.jpg",
       "snippet": "Bilateral trade between Bangladesh, US currently exceeds $13"
+    },
+    {
+      "title": "BNP to announce candidate for Mirza Fakhrul's seat on 18 September",
+      "link": "https://www.tbsnews.net/bangladesh/politics/bnp-announce-candidate-mirza-fakhruls-seat-18-september-1540896",
+      "pubDate": "Sat, 12 Sep 2026 22:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/bnp_logo.png",
+      "snippet": "The by-election to the seat is scheduled for 29 October.."
     },
     {
       "title": "'Lured with fake gig': 2 dancers 'gang-raped' on mid-river in Brahmanbaria; 1 held",
@@ -144,92 +232,15 @@
       "snippet": "The minister says the government is also advancing a 20,000-kilometre canal excavation programme to boost agriculture and protect the environment."
     },
     {
-      "title": "Teesta Master Plan implementation to begin in 2027: Dulu",
-      "link": "https://www.tbsnews.net/bangladesh/teesta-master-plan-implementation-begin-2027-dulu-1540796",
-      "pubDate": "Sat, 12 Sep 2026 20:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/12/4540940.jpg",
-      "snippet": "The minister said the government is working actively to implement the Teesta Master Plan."
-    },
-    {
-      "title": "Crude bomb blasts in Gulshan: 24 accused placed on 10-day remand",
-      "link": "https://www.tbsnews.net/bangladesh/court/crude-bomb-blasts-gulshan-24-accused-sent-10-day-remand-1540781",
-      "pubDate": "Sat, 12 Sep 2026 20:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/02/01/court._photo_reuters.jpg",
-      "snippet": "Court sends 24 accused to police custody while another is jailed pending a hearing on his claimed juvenile status"
-    },
-    {
-      "title": "Boat race returns to Brahmanbaria's Titas River after two years",
-      "link": "https://www.tbsnews.net/bangladesh/boat-race-titas-river-draws-thousands-brahmanbaria-1540771",
-      "pubDate": "Sat, 12 Sep 2026 20:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/12/802241708_1628289442035374_3628921476598375015_n.jpg",
-      "snippet": "Nine boats competed in the race from Shimrailkandi to Medda as tens of thousands gathered along the riverbanks."
-    },
-    {
-      "title": "Hasina was mastermind behind enforced disappearances, killings: Speaker",
-      "link": "https://www.tbsnews.net/bangladesh/hasina-was-mastermind-behind-enforced-disappearances-killings-speaker-1540761",
-      "pubDate": "Sat, 12 Sep 2026 19:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/12/hafiz_uddin_bhola.jpg",
-      "snippet": "He alleges Sheikh Hasina was behind enforced disappearances and killings during her tenure."
-    },
-    {
       "title": "Measles vaccine for all children up to 6 from Sept 26: Health minister",
       "link": "https://www.tbsnews.net/bangladesh/health/measles-vaccine-all-children-6-sept-26-health-minister-1540741",
       "pubDate": "Sat, 12 Sep 2026 19:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/12/health_minister.jpeg",
       "snippet": "The minister urges BNP activists to help bring eligible children to vaccination centres."
-    },
-    {
-      "title": "60,000 stranded in Daulatpur as Padma rises 3cm in 24 hours",
-      "link": "https://www.tbsnews.net/bangladesh/60000-stranded-daulatpur-padma-rises-3cm-24-hours-1540751",
-      "pubDate": "Sat, 12 Sep 2026 19:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/12/8015443.jpg",
-      "snippet": "Locals said the presence of venomous snakes has increased in the flooded char areas, raising concerns over public safety."
-    },
-    {
-      "title": "Two unidentified bodies recovered from National Eidgah area",
-      "link": "https://www.tbsnews.net/bangladesh/two-unidentified-bodies-recovered-national-eidgah-area-1540726",
-      "pubDate": "Sat, 12 Sep 2026 19:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/06/27/dead.jpg",
-      "snippet": "Police say the men, believed to be homeless, may have died from illness; identities yet to be established"
-    },
-    {
-      "title": "US-Bangla to order $4-5b worth of leased aircraft within 60 days: MD",
-      "link": "https://www.tbsnews.net/economy/aviation/us-bangla-order-4-5b-worth-leased-aircraft-within-60-days-md-1540721",
-      "pubDate": "Sat, 12 Sep 2026 19:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/13/us-bangla.jpg",
-      "snippet": "Asked about the aircraft manufacturer, Abdullah Al Mamin says the airline could not disclose at this stage whether the aircraft would be supplied by Boeing or Airbus."
     },
     {
       "title": "2 die of dengue, 1,056 hospitalised in 24hrs",
@@ -593,73 +604,7 @@
       "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/12/14/ai_0.jpg",
       "snippet": "AI safety researcher Evan Hubinger estimates more than a 10% chance of human extinction within the next decade."
-    },
-    {
-      "title": "Why every government fails to regulate battery-run autorickshaws ",
-      "link": "https://www.tbsnews.net/features/panorama/why-every-government-fails-regulate-battery-run-autorickshaws-1538706",
-      "pubDate": "Thu, 10 Sep 2026 11:20:00 +0600",
-      "category": "Analysis",
-      "color": "#5d4037",
-      "bg": "#efebe9",
-      "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/10/syed_zakir_hossain_1.jpg",
-      "snippet": "Bangladesh’s battery-run autorickshaw crisis shows how the political economy of informal transport governance has endured for decades, with regulation now caught between revenue losses, safety concerns and the livelihoods of millions of drivers"
-    },
-    {
-      "title": "A hawkish Fed, a firmer Dollar: Why Bangladesh should brace for costlier imports",
-      "link": "https://www.tbsnews.net/thoughts/hawkish-fed-firmer-dollar-why-bangladesh-should-brace-costlier-imports-1538671",
-      "pubDate": "Thu, 10 Sep 2026 11:15:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/10/e35d6uoocblptnexhsp4zg2wzm.jpg",
-      "snippet": "A stronger US jobs market has pushed the odds of a September rate hike above 50% and for a country financing much of its trade and energy bill in dollars, the timing could hardly be worse"
-    },
-    {
-      "title": "Bangladesh trapped in a cycle of retribution: When will it end?",
-      "link": "https://www.tbsnews.net/thoughts/bangladesh-trapped-cycle-retribution-when-will-it-end-1538691",
-      "pubDate": "Thu, 10 Sep 2026 11:15:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/10/img-20260909-wa0004.jpg",
-      "snippet": "Bangladesh’s cycle of political retribution has weakened its institutions, unsettled investors and deepened instability. With a new government in place, the country has another chance to break that cycle through lasting political consensus and instit..."
-    },
-    {
-      "title": "Money gets cheaper, yet takers are hard to get",
-      "link": "https://www.tbsnews.net/economy/money-gets-cheaper-yet-takers-are-hard-get-1538616",
-      "pubDate": "Thu, 10 Sep 2026 10:00:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/10/money.png",
-      "snippet": "By June 2026, total excess liquidity in the banking sector surged by 39.40% year-on-year to exceed Tk4 lakh crore."
-    },
-    {
-      "title": "OpenAI's rogue agents used at least 10 more sites for unauthorized comms, researchers say",
-      "link": "https://www.tbsnews.net/tech/openais-rogue-agents-used-least-10-more-sites-unauthorized-comms-researchers-say-1538611",
-      "pubDate": "Thu, 10 Sep 2026 09:10:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/10/_kenneth_russell_degraff_.jpg",
-      "snippet": "OpenAI did not directly address questions about how many different sites its agents used to communicate or say why it kept the activity under wraps for months."
-    },
-    {
-      "title": "How the abuse of Bangla QR threatens Bangladesh's MFS ecosystem",
-      "link": "https://www.tbsnews.net/bangladesh/how-abuse-bangla-qr-threatens-countrys-mfs-ecosystem-1538591",
-      "pubDate": "Thu, 10 Sep 2026 08:20:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/25/bangla_qr.png",
-      "snippet": "Bangla QR misuse is inflating digital payment figures and raising fraud, tax evasion and money laundering concerns."
     }
   ],
-  "updatedAt": "2026-09-13T00:38:19.421Z"
+  "updatedAt": "2026-09-13T05:41:48.914Z"
 }
