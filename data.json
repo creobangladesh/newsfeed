@@ -1,6 +1,61 @@
 {
   "news": [
     {
+      "title": "Foreign hilsa sold as 'Padma hilsa' at up to Tk1,800 per kg",
+      "link": "https://www.tbsnews.net/bangladesh/foreign-hilsa-sold-padma-hilsa-tk1800-kg-1541881",
+      "pubDate": "Mon, 14 Sep 2026 00:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/29/hilsha-9_0.jpg",
+      "snippet": "The Benapole land port authorities had recorded imports of 3,52,787kg of hilsa in the first two months of the current fiscal year."
+    },
+    {
+      "title": "8 held over banned Chhatra League flash march, crude bomb blasts in Savar",
+      "link": "https://www.tbsnews.net/bangladesh/8-held-over-banned-chhatra-league-flash-march-crude-bomb-blasts-savar-1541876",
+      "pubDate": "Mon, 14 Sep 2026 00:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/14/bcl_flash_procession.jpg",
+      "snippet": "The identities of those detained could not immediately be confirmed."
+    },
+    {
+      "title": "Capital shortfall in 21 banks hits nearly Tk3 lakh crore",
+      "link": "https://www.tbsnews.net/economy/banking/capital-shortfall-21-banks-hits-nearly-tk3-lakh-crore-1541886",
+      "pubDate": "Mon, 14 Sep 2026 00:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/08/23/bank_0_0.png",
+      "snippet": "Bangladesh Bank data show that the banking sector’s provision shortfall stood at Tk2,05,665 crore in March, up from Tk1,98,260 crore at the end of December 2025. The provision shortfall rose to Tk2,22,357 crore in June."
+    },
+    {
+      "title": "Train services resume on Dhaka-Mymensingh route after six hours",
+      "link": "https://www.tbsnews.net/bangladesh/train-services-resume-dhaka-mymensingh-route-after-six-hours-1541896",
+      "pubDate": "Mon, 14 Sep 2026 00:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/14/dhaka-mymensingh.jpg",
+      "snippet": "The Dhaka-bound freight train derailed at around 5:15pm in the Golabari area, located between Kawraid and Mashakhali railway stations in Dakshin Gafargaon."
+    },
+    {
+      "title": "Dengue may worsen next week in Dhaka, 14 other districts, IEDCR warns",
+      "link": "https://www.tbsnews.net/bangladesh/health/dengue-may-worsen-next-week-dhaka-14-other-districts-iedcr-warns-1541866",
+      "pubDate": "Mon, 14 Sep 2026 00:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/07/22/dengue-rajib-dhar.jpg",
+      "snippet": "Outbreak could remain high for next two to three weeks."
+    },
+    {
       "title": "Commerce ministry suspends 10-30 count yarn import restriction",
       "link": "https://www.tbsnews.net/economy/rmg/commerce-ministry-suspends-10-30-count-yarn-import-restriction-1541836",
       "pubDate": "Sun, 13 Sep 2026 22:05:00 +0600",
@@ -56,7 +111,7 @@
       "snippet": "Five patients died while undergoing treatment at camp-run health facilities, while one died at the Cox's Bazar Sadar Hospital."
     },
     {
-      "title": "Garment accessories makers seek Bangladesh Bank review of back-to-back LC procedures",
+      "title": "Garment accessories makers seek simpler back-to-back LC process",
       "link": "https://www.tbsnews.net/economy/rmg/garment-accessories-makers-seek-bangladesh-bank-review-back-back-lc-procedures-1541801",
       "pubDate": "Sun, 13 Sep 2026 21:40:00 +0600",
       "category": "Economy",
@@ -78,17 +133,6 @@
       "snippet": "The division completed the disposal of these cases over 132 working days, averaging around 84 cases a day."
     },
     {
-      "title": "BB issues guidance on implementing Import Policy Order 2026-2029",
-      "link": "https://www.tbsnews.net/economy/banking/bb-issues-guidance-implementing-import-policy-order-2026-2029-1541761",
-      "pubDate": "Sun, 13 Sep 2026 20:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/06/22/bangladesh_bank_1.jpg",
-      "snippet": "New order allows permissible industrial and commercial imports without LCs, subject to foreign exchange rules"
-    },
-    {
       "title": "South Korea to support skilled workforce development in Bangladesh's ship recycling sector",
       "link": "https://www.tbsnews.net/economy/industry/south-korea-support-skilled-workforce-development-bangladeshs-ship-recycling-sector",
       "pubDate": "Sun, 13 Sep 2026 20:55:00 +0600",
@@ -100,7 +144,18 @@
       "snippet": "$15m Koica project will upgrade training, curriculum and infrastructure for workers in ship recycling, shipbuilding and maintenance"
     },
     {
-      "title": "11-party alliance to hold 5 roadside rallies on Dhaka-Rangpur long march",
+      "title": "BB issues guidance on implementing Import Policy Order 2026-2029",
+      "link": "https://www.tbsnews.net/economy/banking/bb-issues-guidance-implementing-import-policy-order-2026-2029-1541761",
+      "pubDate": "Sun, 13 Sep 2026 20:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/06/22/bangladesh_bank_1.jpg",
+      "snippet": "New order allows permissible industrial and commercial imports without LCs, subject to foreign exchange rules"
+    },
+    {
+      "title": "Jamaat-led 11-party alliance sets 19 Sept long march towards Rangpur",
       "link": "https://www.tbsnews.net/bangladesh/11-party-alliance-hold-5-roadside-rallies-dhaka-rangpur-long-march-1541751",
       "pubDate": "Sun, 13 Sep 2026 20:45:00 +0600",
       "category": "Bangladesh",
@@ -108,7 +163,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/13/11_party_dhaka-rangpur_long_march.png",
-      "snippet": "The Dhaka-Rangpur long march will begin on 19 Sept from Manik Mia Avenue."
+      "snippet": "The Dhaka-Rangpur long march will begin from Manik Mia Avenue in the capital."
     },
     {
       "title": "Jamaat is Awami League's political ally: Rizvi",
@@ -155,39 +210,6 @@
       "snippet": "S.M. Abdullah Al Mamun, General Manager (Commercial) of the factory, said, “The factory has been receiving the necessary gas supply for more than a week. The ammonia plant is now operational.”"
     },
     {
-      "title": "'Let them do it, I am ready': Asif Mahmud on ACC graft probe",
-      "link": "https://www.tbsnews.net/bangladesh/politics/let-them-do-it-i-am-ready-asif-mahmud-acc-graft-probe-1541676",
-      "pubDate": "Sun, 13 Sep 2026 19:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/13/asif.jpg",
-      "snippet": "He alleges the ACC is being used for political purposes."
-    },
-    {
-      "title": "40 bhori gold allegedly seized in fake raid: Constable among two held in Chapainawabganj",
-      "link": "https://www.tbsnews.net/bangladesh/crime/40-bhori-gold-allegedly-seized-fake-raid-constable-among-two-held-chapainawabganj",
-      "pubDate": "Sun, 13 Sep 2026 19:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/13/police.png",
-      "snippet": "They were arrested on Saturday night, ANM Wasim Firoz, additional superintendent of police in Chapainawabganj, said today (13 September)."
-    },
-    {
-      "title": "Bank MDs, CEOs face performance reviews, removal for underperformance",
-      "link": "https://www.tbsnews.net/economy/banking/bb-launches-bi-annual-reviews-bank-mds-ceos-underperformers-may-face-removal-1541691",
-      "pubDate": "Sun, 13 Sep 2026 19:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/13/bangladesh-bank-review.jpg",
-      "snippet": "Evaluation every six months based on 30 indicators, including NPL, capital, liquidity, governance, profitability."
-    },
-    {
       "title": "Tripura begins pilot project for 'smart border' with Bangladesh",
       "link": "https://www.tbsnews.net/foreign-policy/tripura-begins-pilot-project-smart-border-bangladesh-1541666",
       "pubDate": "Sun, 13 Sep 2026 19:50:00 +0600",
@@ -199,37 +221,26 @@
       "snippet": "Technology-driven security plan targets trafficking, smuggling."
     },
     {
-      "title": "Asif named NCP mayor candidate for Dhaka North, Patwary for South",
-      "link": "https://www.tbsnews.net/bangladesh/politics/asif-named-ncp-mayor-candidate-dhaka-north-patwary-south-1541671",
-      "pubDate": "Sun, 13 Sep 2026 19:45:00 +0600",
+      "title": "'Let them do it, I am ready': Asif Mahmud on ACC graft probe",
+      "link": "https://www.tbsnews.net/bangladesh/politics/let-them-do-it-i-am-ready-asif-mahmud-acc-graft-probe-1541676",
+      "pubDate": "Sun, 13 Sep 2026 19:50:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/13/asif_patwary-collage.jpg",
-      "snippet": "Nahid Islam announces city election nominees at party meeting."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/13/asif.jpg",
+      "snippet": "He alleges the ACC is being used for political purposes."
     },
     {
-      "title": "Ctg police seek 7-day remand for 64 arrested in online scam case, hearing Tuesday",
-      "link": "https://www.tbsnews.net/bangladesh/crime/ctg-police-seek-7-day-remand-64-arrested-online-scam-case-hearing-tuesday-1541656",
-      "pubDate": "Sun, 13 Sep 2026 19:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/794678099_28554208634173031_6289629652691607728_n.jpg",
-      "snippet": "The group includes 63 foreign nationals and a Bangladeshi man accused of helping them rent an eight-storey building."
-    },
-    {
-      "title": "Crude bomb blasts in Gulshan: 9 more accused sent to jail",
-      "link": "https://www.tbsnews.net/bangladesh/court/crude-bomb-blasts-gulshan-9-more-accused-sent-jail-1541641",
-      "pubDate": "Sun, 13 Sep 2026 19:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/10/20/metropolitan_court.jpg",
-      "snippet": "Court orders detention pending completion of investigation"
+      "title": "Bank MDs, CEOs face performance reviews, removal for underperformance",
+      "link": "https://www.tbsnews.net/economy/banking/bb-launches-bi-annual-reviews-bank-mds-ceos-underperformers-may-face-removal-1541691",
+      "pubDate": "Sun, 13 Sep 2026 19:50:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/13/bangladesh-bank-review.jpg",
+      "snippet": "Evaluation every six months based on 30 indicators, including NPL, capital, liquidity, governance, profitability."
     },
     {
       "title": "BB launches 'Udyog' to spur youth entrepreneurship with up to Tk20 lakh blended financing",
@@ -650,5 +661,5 @@
       "snippet": "For loans of Tk500 crore or more, banks will have to conduct their own verification as well as engage an audit firm listed with the Bangladesh Bank to examine how the funds have been used."
     }
   ],
-  "updatedAt": "2026-09-13T18:04:17.317Z"
+  "updatedAt": "2026-09-13T21:01:47.855Z"
 }
