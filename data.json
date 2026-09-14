@@ -1,6 +1,127 @@
 {
   "news": [
     {
+      "title": "Oil markets survived the Iran war sprint. Now comes the marathon",
+      "link": "https://www.tbsnews.net/thoughts/oil-markets-survived-iran-war-sprint-now-comes-marathon-1542046",
+      "pubDate": "Mon, 14 Sep 2026 12:40:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/13/saudi_arabia_east-west_pipeline_oil.jpg",
+      "snippet": "With crude oil back above $100 a barrel, markets are adjusting to a new and more volatile phase of the conflict, one in which many of the safeguards that cushioned the initial blow nearly seven months ago have disappeared"
+    },
+    {
+      "title": "Around 2 crore children get measles vaccines in five months",
+      "link": "https://www.tbsnews.net/bangladesh/health/around-2-crore-children-get-measles-vaccines-five-months-1542031",
+      "pubDate": "Mon, 14 Sep 2026 12:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/15/measles.jpg",
+      "snippet": "When the country witnessed a measles outbreak at the end of March this year, the government swiftly launched an emergency vaccination programme on 5 April, covering 30 upazilas in 18 districts in the first phase."
+    },
+    {
+      "title": "55 injured as two groups clash outside Islami Bank",
+      "link": "https://www.tbsnews.net/bangladesh/55-injured-two-groups-clash-outside-islami-bank-1542011",
+      "pubDate": "Mon, 14 Sep 2026 12:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/14/received_1406699324212197.jpeg",
+      "snippet": "Members of both groups were injured in the ensuing clashes, according to claims by both groups."
+    },
+    {
+      "title": "Smart glasses move mainstream, sparking privacy concerns ",
+      "link": "https://www.tbsnews.net/tech/smart-glasses-move-mainstream-sparking-privacy-concerns-1541986",
+      "pubDate": "Mon, 14 Sep 2026 11:30:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/14/glasses.jpg",
+      "snippet": "Meta says it has sold more than seven million pairs of its smart glasses, which cost a few hundred pounds and have built-in cameras"
+    },
+    {
+      "title": "Body of Bangladeshi killed in BSF firing handed over along Thakurgaon border",
+      "link": "https://www.tbsnews.net/bangladesh/body-bangladeshi-killed-bsf-firing-handed-over-along-thakurgaon-border-1541976",
+      "pubDate": "Mon, 14 Sep 2026 11:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/14/bsf_bgb_thakurgaon_.jpg",
+      "snippet": "The deceased was Asadul Haque, 38, son of Abdul Wazed of South Indrail village in Pirganj upazila."
+    },
+    {
+      "title": "Chhatra Dal condemns display of Jinnah's picture at Ducsu archive",
+      "link": "https://www.tbsnews.net/bangladesh/politics/chhatra-dal-condemns-display-jinnahs-picture-ducsu-archive-1541966",
+      "pubDate": "Mon, 14 Sep 2026 11:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/08/26/ducsu.jpeg",
+      "snippet": "Chhatra Dal President Rakibul Islam Rakib and General Secretary Nasir Uddin Nasir issued the statement this morning, protesting the display."
+    },
+    {
+      "title": "Chittagong Board suspends three amid mounting result fraud allegations",
+      "link": "https://www.tbsnews.net/bangladesh/education/chittagong-board-suspends-three-amid-mounting-result-fraud-allegations-1541931",
+      "pubDate": "Mon, 14 Sep 2026 11:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/04/06/bisec.png",
+      "snippet": "Board chairman Professor Abdullah Al Mamun Chowdhury formed a three-member investigation committee on 25 August and asked it to submit its report within seven working days."
+    },
+    {
+      "title": "Dhaka's air quality turns 'unhealthy'",
+      "link": "https://www.tbsnews.net/bangladesh/dhakas-air-quality-turns-unhealthy-1541956",
+      "pubDate": "Mon, 14 Sep 2026 10:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/04/03/syedzakirhossain_1869.jpg",
+      "snippet": "Dhaka has long faced serious air pollution problems, with air quality generally deteriorating during the winter months and improving during the monsoon season."
+    },
+    {
+      "title": "Party discipline essential to overcoming crises: Social Welfare minister",
+      "link": "https://www.tbsnews.net/bangladesh/politics/party-discipline-essential-overcoming-crises-social-welfare-minister-1541951",
+      "pubDate": "Mon, 14 Sep 2026 10:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/14/att.b4whe1ge0nt74jec2dnpemqpsmep6358kvyzdu9zyt4.jpeg",
+      "snippet": "He said BNP's primary responsibility is to provide proper leadership to protect the country and its people during times of crisis."
+    },
+    {
+      "title": "India exports about 500 tonnes of hilsa to Bangladesh for the first time",
+      "link": "https://www.tbsnews.net/world/south-asia/india-exports-about-500-tonnes-hilsa-bangladesh-first-time-1541936",
+      "pubDate": "Mon, 14 Sep 2026 09:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/10/13/hilsa_latest.jpg",
+      "snippet": "The exports came amid reports of lower hilsa production in Bangladesh this year, prompting local fish traders to turn to India to meet domestic demand."
+    },
+    {
+      "title": "SQ Group builds electrical industrial complex in Mirsarai to meet growing local demand",
+      "link": "https://www.tbsnews.net/economy/industry/sq-group-builds-electrical-industrial-complex-mirsarai-meet-growing-local-demand",
+      "pubDate": "Mon, 14 Sep 2026 08:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/14/805215861_2100014367267960_6543485500111907895_n.png",
+      "snippet": "The complex will manufacture cables, transformers and a growing range of electrical products, including busbars, switches, sockets, circuit breakers, smart meters, lighting products, electric fans, submarine cables and super-enameled wires"
+    },
+    {
       "title": "Foreign hilsa sold as 'Padma hilsa' at up to Tk1,800 per kg",
       "link": "https://www.tbsnews.net/bangladesh/foreign-hilsa-sold-padma-hilsa-tk1800-kg-1541881",
       "pubDate": "Mon, 14 Sep 2026 00:35:00 +0600",
@@ -30,7 +151,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/08/23/bank_0_0.png",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/14/bank.png",
       "snippet": "Bangladesh Bank data show that the banking sector’s provision shortfall stood at Tk2,05,665 crore in March, up from Tk1,98,260 crore at the end of December 2025. The provision shortfall rose to Tk2,22,357 crore in June."
     },
     {
@@ -45,7 +166,7 @@
       "snippet": "The Dhaka-bound freight train derailed at around 5:15pm in the Golabari area, located between Kawraid and Mashakhali railway stations in Dakshin Gafargaon."
     },
     {
-      "title": "Dengue may worsen next week in Dhaka, 14 other districts, IEDCR warns",
+      "title": "Dengue spreads to all 64 districts, situation may worsen in Dhaka and 14 districts next week: IEDCR",
       "link": "https://www.tbsnews.net/bangladesh/health/dengue-may-worsen-next-week-dhaka-14-other-districts-iedcr-warns-1541866",
       "pubDate": "Mon, 14 Sep 2026 00:10:00 +0600",
       "category": "Bangladesh",
@@ -136,10 +257,10 @@
       "title": "BB issues guidance on implementing Import Policy Order 2026-2029",
       "link": "https://www.tbsnews.net/economy/banking/bb-issues-guidance-implementing-import-policy-order-2026-2029-1541761",
       "pubDate": "Sun, 13 Sep 2026 20:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/06/22/bangladesh_bank_1.jpg",
       "snippet": "New order allows permissible industrial and commercial imports without LCs, subject to foreign exchange rules"
     },
@@ -147,89 +268,12 @@
       "title": "South Korea to support skilled workforce development in Bangladesh's ship recycling sector",
       "link": "https://www.tbsnews.net/economy/industry/south-korea-support-skilled-workforce-development-bangladeshs-ship-recycling-sector",
       "pubDate": "Sun, 13 Sep 2026 20:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Industry",
+      "color": "#f57c00",
+      "bg": "#fff3e0",
+      "icon": "🏭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/13/ship_recycle1.png",
       "snippet": "$15m Koica project will upgrade training, curriculum and infrastructure for workers in ship recycling, shipbuilding and maintenance"
-    },
-    {
-      "title": "Jamaat-led 11-party alliance sets 19 Sept long march towards Rangpur",
-      "link": "https://www.tbsnews.net/bangladesh/11-party-alliance-hold-5-roadside-rallies-dhaka-rangpur-long-march-1541751",
-      "pubDate": "Sun, 13 Sep 2026 20:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/13/11_party_dhaka-rangpur_long_march.png",
-      "snippet": "The Dhaka-Rangpur long march will begin from Manik Mia Avenue in the capital."
-    },
-    {
-      "title": "Jamaat is Awami League's political ally: Rizvi",
-      "link": "https://www.tbsnews.net/bangladesh/politics/jamaat-political-ally-awami-league-rizvi-1541756",
-      "pubDate": "Sun, 13 Sep 2026 20:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/13/rizvi.jpg",
-      "snippet": "The BNP leader accused Jamaat of exploiting religion for political gain while failing to uphold Islam’s message of serving humanity."
-    },
-    {
-      "title": "Govt working to create new sports movement from grassroots: State minister",
-      "link": "https://www.tbsnews.net/bangladesh/govt-working-create-new-sports-movement-grassroots-state-minister-1541716",
-      "pubDate": "Sun, 13 Sep 2026 20:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/13/state_minister_in_jamalpur.jpg",
-      "snippet": "The government also plans to establish a sports village in every district in phases, Aminul Haque says."
-    },
-    {
-      "title": "Dengue crisis may worsen in coming months: State Minister Tuku",
-      "link": "https://www.tbsnews.net/bangladesh/dengue-crisis-may-worsen-coming-months-state-minister-tuku-1541711",
-      "pubDate": "Sun, 13 Sep 2026 20:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/13/screenshot_2026-09-13_201949.png",
-      "snippet": "The state minister said public representatives, the administration and local residents must work together to combat dengue through cleanliness drives, destruction of mosquito breeding grounds and heightened public awareness."
-    },
-    {
-      "title": "CUFL set to resume urea production after gas supply normalised",
-      "link": "https://www.tbsnews.net/bangladesh/cufl-set-resume-urea-production-after-gas-supply-normalised-1541696",
-      "pubDate": "Sun, 13 Sep 2026 20:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/04/05/cufl.jpg",
-      "snippet": "S.M. Abdullah Al Mamun, General Manager (Commercial) of the factory, said, “The factory has been receiving the necessary gas supply for more than a week. The ammonia plant is now operational.”"
-    },
-    {
-      "title": "Tripura begins pilot project for 'smart border' with Bangladesh",
-      "link": "https://www.tbsnews.net/foreign-policy/tripura-begins-pilot-project-smart-border-bangladesh-1541666",
-      "pubDate": "Sun, 13 Sep 2026 19:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/05/13/indian_border.jpg",
-      "snippet": "Technology-driven security plan targets trafficking, smuggling."
-    },
-    {
-      "title": "'Let them do it, I am ready': Asif Mahmud on ACC graft probe",
-      "link": "https://www.tbsnews.net/bangladesh/politics/let-them-do-it-i-am-ready-asif-mahmud-acc-graft-probe-1541676",
-      "pubDate": "Sun, 13 Sep 2026 19:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/13/asif.jpg",
-      "snippet": "He alleges the ACC is being used for political purposes."
     },
     {
       "title": "Bank MDs, CEOs face performance reviews, removal for underperformance",
@@ -637,29 +681,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/dwnv6rcr.jpg",
       "snippet": "Dhaka is full of reminders of an animal that once belonged to the city. Today, the names remain, but the elephants are gone."
-    },
-    {
-      "title": "Bangladesh's climate plans have a labour blind spot",
-      "link": "https://www.tbsnews.net/thoughts/bangladeshs-climate-plans-have-labour-blind-spot-1539766",
-      "pubDate": "Fri, 11 Sep 2026 12:10:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/1-_online_lead_photo.jpg",
-      "snippet": "Climate change is reshaping not only where Bangladeshis live and work, but also their ability to organise. As displaced workers move into informal jobs, labour risks being left out of the country’s climate transition"
-    },
-    {
-      "title": "Audit firm to be mandatory for loans exceeding Tk500cr",
-      "link": "https://www.tbsnews.net/economy/banking/audit-firm-be-mandatory-loans-exceeding-tk500cr-1539571",
-      "pubDate": "Fri, 11 Sep 2026 07:40:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/01/26/audit_0.jpg",
-      "snippet": "For loans of Tk500 crore or more, banks will have to conduct their own verification as well as engage an audit firm listed with the Bangladesh Bank to examine how the funds have been used."
     }
   ],
-  "updatedAt": "2026-09-14T01:23:34.855Z"
+  "updatedAt": "2026-09-14T06:46:12.134Z"
 }
