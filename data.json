@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "Only those blinded by conventional party politics could do this: Porwar on tearing of Jinnah's photos",
+      "link": "https://www.tbsnews.net/bangladesh/politics/only-those-blinded-conventional-party-politics-could-do-golam-porwar-tearing",
+      "pubDate": "Tue, 15 Sep 2026 02:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/14/porwar.png",
+      "snippet": "The Jamaat-e-Islami secretary general also criticised the government over the opposition’s long march, saying it would remain peaceful."
+    },
+    {
+      "title": "2 Ctg police ASIs closed, AC withdrawn over allegations of extorting cash, crypto from businessman",
+      "link": "https://www.tbsnews.net/bangladesh/2-ctg-police-asis-closed-ac-withdrawn-over-allegations-extorting-cash-crypto-businessman",
+      "pubDate": "Tue, 15 Sep 2026 01:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/24/cmp_logo.jpg",
+      "snippet": "The action follows allegations that a businessman and his friend were picked up in Chattogram and forced to hand over cash and cryptocurrency under threats of being implicated in a gambling case."
+    },
+    {
+      "title": "Round-the-clock coordination among authorities must to fight dengue: LGRD minister",
+      "link": "https://www.tbsnews.net/bangladesh/health/round-clock-coordination-among-authorities-must-fight-dengue-lgrd-minister-1542841",
+      "pubDate": "Tue, 15 Sep 2026 01:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/03/31/bangladesh_bnp_abdul_moyeen_khan.jpg",
+      "snippet": "Eight more die of dengue."
+    },
+    {
       "title": "Bangladesh wants equal ties with India: Speaker",
       "link": "https://www.tbsnews.net/bangladesh/bangladesh-wants-equal-ties-india-speaker-1542836",
       "pubDate": "Tue, 15 Sep 2026 00:50:00 +0600",
@@ -199,35 +232,13 @@
       "snippet": "Police and BGB rescued a 16-year-old boy abducted for trafficking and arrested two suspected traffickers in a joint operation."
     },
     {
-      "title": "Shama seeks increased Canadian investment in Bangladesh",
-      "link": "https://www.tbsnews.net/bangladesh/shama-seeks-increased-canadian-investment-bangladesh-1542646",
-      "pubDate": "Mon, 14 Sep 2026 20:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/14/shama_canadian_delegates.jpg",
-      "snippet": "The BBCC delegation highlighted scope for boosting Bangladeshi exports to Canada in garments, jute, leather and IT services."
-    },
-    {
-      "title": "HC stays circular reducing security for SC judges, attorney general",
-      "link": "https://www.tbsnews.net/bangladesh/hc-stays-circular-reducing-security-sc-judges-attorney-general-1542636",
-      "pubDate": "Mon, 14 Sep 2026 20:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/07/27/screenshot_2023-07-27_at_8.58.36_am.png",
-      "snippet": "The court also issued a rule asking why the 27 August circular should not be declared illegal and cancelled."
-    },
-    {
       "title": "'Pay up or sell assets to pay,' FinMin warns defaulting insurers",
       "link": "https://www.tbsnews.net/economy/pay-or-sell-assets-finmin-warns-defaulting-insurers-1542651",
       "pubDate": "Mon, 14 Sep 2026 20:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/07/khasru_sketch.jpg",
       "snippet": "Around 57% of insurance claims remain unsettled as the government moves to tighten supervision and amend sector laws."
     },
@@ -791,18 +802,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/12/export.png",
       "snippet": "According to the latest Export Promotion Bureau (EPB) data, exports of electrical products increased 23.82% from $166.52 million a year earlier, reaching a record $206.19 million"
-    },
-    {
-      "title": "Anthropic says it blocks attempts to use AI for biological weapons work",
-      "link": "https://www.tbsnews.net/tech/anthropic-says-it-blocks-attempts-use-ai-biological-weapons-work-1540191",
-      "pubDate": "Sat, 12 Sep 2026 01:10:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/12/anthropic.jpg",
-      "snippet": "Five cases reveal growing risks from AI-assisted biological research"
     }
   ],
-  "updatedAt": "2026-09-14T19:03:14.354Z"
+  "updatedAt": "2026-09-14T22:38:43.433Z"
 }
