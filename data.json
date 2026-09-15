@@ -1,6 +1,160 @@
 {
   "news": [
     {
+      "title": "July crimes: Obaidul Quader gets death penalty",
+      "link": "https://www.tbsnews.net/bangladesh/court/july-crimes-obaidul-quader-gets-death-penalty-1543041",
+      "pubDate": "Tue, 15 Sep 2026 12:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/01/28/quader.jpg",
+      "snippet": ""
+    },
+    {
+      "title": "BIMSTEC must look beyond tensions, widen regional engagement: Kobir",
+      "link": "https://www.tbsnews.net/bangladesh/bimstec-must-look-beyond-tensions-widen-regional-engagement-kobir-1543036",
+      "pubDate": "Tue, 15 Sep 2026 12:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/15/bimstec.png",
+      "snippet": "Kobir said Bangladesh would work closely with all member states and the BIMSTEC Secretariat in the coming months to advance implementation across various mechanisms and prepare for the next BIMSTEC Summit, which Bangladesh is expected to host in Dhak..."
+    },
+    {
+      "title": "Fire at Mymensingh Medical College Hospital leaves patients, relatives fearful; probe committee formed",
+      "link": "https://www.tbsnews.net/bangladesh/fire-mymensingh-medical-college-hospital-leaves-patients-relatives-fearful-probe",
+      "pubDate": "Tue, 15 Sep 2026 12:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/09/09/mmmmmmmmmm_1.png",
+      "snippet": "Hospital Deputy Director Zakiul Islam told Prothom Alo that patients and their relatives went downstairs after the fire broke out."
+    },
+    {
+      "title": "BRAC, Prime banks to join govt’s urea import initiative; BCIC seeks Tk1,000cr state guarantee",
+      "link": "https://www.tbsnews.net/agriculture/brac-prime-banks-join-govts-urea-import-initiative-bcic-seeks-tk1000cr-state-guarantee",
+      "pubDate": "Tue, 15 Sep 2026 12:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/15/urea.jpg",
+      "snippet": "Four state-owned banks currently have Tk17,500cr in fertiliser import guarantees"
+    },
+    {
+      "title": "63 foreign nationals remanded for two days in Ctg online scam case",
+      "link": "https://www.tbsnews.net/bangladesh/court/63-foreign-nationals-remanded-two-days-ctg-online-scam-case-1542996",
+      "pubDate": "Tue, 15 Sep 2026 11:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/07/04/arrest-1579498383.jpg",
+      "snippet": "The court also directed the police to submit the investigation report within 20 days."
+    },
+    {
+      "title": "PM meets families of 2 army personnel killed in Ctg tank firing accident",
+      "link": "https://www.tbsnews.net/bangladesh/pm-meets-families-2-army-personnel-killed-ctg-tank-firing-accident-says-nation-will",
+      "pubDate": "Tue, 15 Sep 2026 11:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/15/6224140.jpg",
+      "snippet": "The prime minister expressed his condolences to the bereaved families and assured them that the government and the army would continue to stand by them."
+    },
+    {
+      "title": "Microsoft agrees to stronger AI privacy rules for students",
+      "link": "https://www.tbsnews.net/tech/microsoft-agrees-stronger-ai-privacy-rules-students-1542986",
+      "pubDate": "Tue, 15 Sep 2026 11:30:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/15/microsoft_ai.jpg",
+      "snippet": "As AI becomes increasingly common in classrooms, educators, parents and students are raising concerns about data privacy and the role schools should play in protecting children’s information."
+    },
+    {
+      "title": "Foreign tourist arrivals down 7.6% in 2025 as Indian visitors slump",
+      "link": "https://www.tbsnews.net/bangladesh/foreign-tourist-arrivals-down-76-2025-indian-visitors-slump-1542956",
+      "pubDate": "Tue, 15 Sep 2026 11:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/04/23/kashmir_tourism.jpeg",
+      "snippet": "Apart from India, the United Kingdom, the United States, Canada, Australia, Italy, China, Japan, Germany and Sweden were among Bangladesh’s top 10 source markets last year."
+    },
+    {
+      "title": "Samakal pays Tk10 lakh in arrears three days after Pulak Chatterjee's death",
+      "link": "https://www.tbsnews.net/bangladesh/samakal-pays-tk10-lakh-arrears-three-days-after-pulak-chatterjees-death-1542961",
+      "pubDate": "Tue, 15 Sep 2026 11:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/12/journalist-pulak-chatterjee.jpg",
+      "snippet": "The money was deposited into the bank account of his wife, Priyanka Chatterjee, yesterday, according to Suman Chowdhury, the current Barishal bureau chief of Samakal."
+    },
+    {
+      "title": "Cenbank sells $11.5m from reserves to banks in first open auction ",
+      "link": "https://www.tbsnews.net/economy/banking/cenbank-sells-115m-reserves-banks-first-open-auction-1542966",
+      "pubDate": "Tue, 15 Sep 2026 10:55:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/09/27/1000029569_678x452.jpg",
+      "snippet": "The sale met about 58% of the target, suggesting relatively weak demand."
+    },
+    {
+      "title": "Oman firm to procure EV bikes from Bangladesh for food delivery fleet",
+      "link": "https://www.tbsnews.net/bangladesh/oman-firm-procure-ev-bikes-bangladesh-food-delivery-fleet-1542951",
+      "pubDate": "Tue, 15 Sep 2026 10:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/15/bangladesh_ev_bikes_export_to_oman.jpg",
+      "snippet": "The partnership was announced at the Bangladesh Innovation Fair 2026 at Novo Theatre in Dhaka in the presence of Science and Technology Ministry Secretary Md Anwar Hossain."
+    },
+    {
+      "title": "The case for bringing retired power plants back online",
+      "link": "https://www.tbsnews.net/analysis/case-bringing-retired-power-plants-back-online-1542921",
+      "pubDate": "Tue, 15 Sep 2026 10:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/01/electricity_supply_1.jpg",
+      "snippet": "Generating around 6,000MW from gas-fired power plants, even at a load factor of below 50%, requires at least 1,000 mmcfd of gas."
+    },
+    {
+      "title": "ICT verdict in July crimes case against Quader, 6 others today",
+      "link": "https://www.tbsnews.net/bangladesh/court/ict-verdict-july-crimes-case-against-quader-6-others-today-1542881",
+      "pubDate": "Tue, 15 Sep 2026 09:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/15/quader_nasim_arafat.jpg",
+      "snippet": "All seven accused are currently absconding."
+    },
+    {
+      "title": "New pay scale: Smaller increments for senior officials, house rents lowered for all",
+      "link": "https://www.tbsnews.net/bangladesh/new-pay-scale-smaller-increments-senior-officials-house-rents-lowered-all-1542856",
+      "pubDate": "Tue, 15 Sep 2026 07:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/15/pay-scale.png",
+      "snippet": "However, under the new pay scale, house rent allowances are reduced as basic salaries are set to rise by 100-142%, helping offset the higher cost of living, according to minutes of a cabinet meeting held on 31 August, chaired by the prime minister"
+    },
+    {
       "title": "Only those blinded by conventional party politics could do this: Porwar on tearing of Jinnah's photos",
       "link": "https://www.tbsnews.net/bangladesh/politics/only-those-blinded-conventional-party-politics-could-do-golam-porwar-tearing",
       "pubDate": "Tue, 15 Sep 2026 02:25:00 +0600",
@@ -98,138 +252,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/14/md_ali_afzal.jpg",
       "snippet": "The notification was sent to relevant authorities."
-    },
-    {
-      "title": "PM for people's political, economic empowerment to make democracy sustainable",
-      "link": "https://www.tbsnews.net/bangladesh/pm-peoples-political-economic-empowerment-make-democracy-sustainable-1542786",
-      "pubDate": "Mon, 14 Sep 2026 23:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/06/pm_tarique_rahman.png",
-      "snippet": "Tarique Rahman says his government is committed to restoring the religious, political, social and cultural rights of the people."
-    },
-    {
-      "title": "Rizvi accuses some cultural figures of praising Hasina, joining 'conspiracies'",
-      "link": "https://www.tbsnews.net/bangladesh/politics/rizvi-accuses-some-cultural-figures-praising-hasina-joining-conspiracies-1542781",
-      "pubDate": "Mon, 14 Sep 2026 23:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/10/29/rizvi.jpeg",
-      "snippet": "He says being an artiste does not necessarily mean that someone will be a humanist, and being a cultural personality does not necessarily mean that one will have an open mind or be a humanist."
-    },
-    {
-      "title": "Judge, 2 others sued over gang attack, Tk50 lakh extortion in Ctg",
-      "link": "https://www.tbsnews.net/bangladesh/crime/judge-2-others-sued-over-gang-attack-tk50-lakh-extortion-ctg-1542751",
-      "pubDate": "Mon, 14 Sep 2026 22:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/14/ctg_judge_case.jpg",
-      "snippet": "Court orders PBI probe into allegations against judge."
-    },
-    {
-      "title": "How Jinnah photos at Ducsu archive triggered protests, ultimatum, and probe",
-      "link": "https://www.tbsnews.net/bangladesh/jinnah-photos-ducsu-archive-trigger-protests-ultimatum-and-university-probe-1542756",
-      "pubDate": "Mon, 14 Sep 2026 22:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/14/ducsu.jpg",
-      "snippet": "A DU student tore down the photos, Chhatra Dal issued a 24-hour ultimatum, and the university formed three committees to probe recent Ducsu activities."
-    },
-    {
-      "title": "Man sentenced to life imprisonment for killing wife over extramarital affair in Barishal",
-      "link": "https://www.tbsnews.net/bangladesh/court/man-sentenced-life-imprisonment-killing-wife-over-extramarital-affair-barishal",
-      "pubDate": "Mon, 14 Sep 2026 22:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/14/bangladesh_courts_barishal.jpg",
-      "snippet": "Court jails hotel manager five years in the 2010 murder case involving Zahirul Islam's wife."
-    },
-    {
-      "title": "13th Asian Tourism Fair to begin in Dhaka on 17 September",
-      "link": "https://www.tbsnews.net/bangladesh/13th-asian-tourism-fair-begin-dhaka-17-september-1542736",
-      "pubDate": "Mon, 14 Sep 2026 21:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/14/tourism_fair.jpeg",
-      "snippet": "The three-day fair will run until 19 September and remain open from 10am to 7pm each day."
-    },
-    {
-      "title": "Brahmanbaria college holds fresher concert after 'settlement' with Qawmi students",
-      "link": "https://www.tbsnews.net/bangladesh/brahmanbaria-college-holds-fresher-concert-after-settlement-qawmi-students-1542701",
-      "pubDate": "Mon, 14 Sep 2026 21:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/14/bbaria_concert.jpg",
-      "snippet": "The development came after the Qawmi Chhatra Oikya Parishad submitted a memorandum on Friday night"
-    },
-    {
-      "title": "Ex-army chief Shafiuddin seeks 30 days to appear before ACC",
-      "link": "https://www.tbsnews.net/bangladesh/crime/ex-army-chief-shafiuddin-seeks-30-days-appear-acc-1542706",
-      "pubDate": "Mon, 14 Sep 2026 21:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/09/04/2531637_9381818_untitled_design_2.jpg",
-      "snippet": "He was scheduled to appear and give his statement at the ACC headquarters in Segunbagicha in the capital today."
-    },
-    {
-      "title": "NCP threatens movement over ACC probe against Asif Mahmud",
-      "link": "https://www.tbsnews.net/bangladesh/politics/ncp-threatens-movement-over-acc-probe-against-asif-mahmud-1542696",
-      "pubDate": "Mon, 14 Sep 2026 21:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/14/nahid_akhter.png",
-      "snippet": "It added that the move is designed to “politically harass” the architects of the mass uprising and pave the way for the return of \"fascism.\""
-    },
-    {
-      "title": "DU forms 3 committees to probe recent controversial Ducsu activities",
-      "link": "https://www.tbsnews.net/bangladesh/du-forms-3-committees-probe-recent-controversial-ducsu-activities-1542656",
-      "pubDate": "Mon, 14 Sep 2026 21:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/06/ducsu.jpeg",
-      "snippet": "The committees will investigate the ‘DU Evaluation’ website, ‘Nirbhik July’ memorial and controversial photos displayed at the Ducsu archive."
-    },
-    {
-      "title": "20 'human trafficking hideouts' dismantled in Teknaf, abducted teen rescued",
-      "link": "https://www.tbsnews.net/bangladesh/crime/20-human-trafficking-hideouts-dismantled-teknaf-abducted-teen-rescued-1542661",
-      "pubDate": "Mon, 14 Sep 2026 21:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/14/whatsapp_image_2026-09-14_at_1.18.31_pm.jpeg",
-      "snippet": "Police and BGB rescued a 16-year-old boy abducted for trafficking and arrested two suspected traffickers in a joint operation."
-    },
-    {
-      "title": "Mayoral polls: Jamaat set to field Selim in Dhaka North, Shadik in South",
-      "link": "https://www.tbsnews.net/bangladesh/politics/mayoral-polls-jamaat-set-field-selim-dhaka-north-shadik-south-1542676",
-      "pubDate": "Mon, 14 Sep 2026 21:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/14/city_corporation_election_1.jpg",
-      "snippet": "'We will officially announce the candidates at the appropriate time,' says Mia Golam Porwar."
     },
     {
       "title": "'Pay up or sell assets to pay,' FinMin warns defaulting insurers",
@@ -769,40 +791,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/03/gold_jeewlwers.png",
       "snippet": "Under the new pricing, per bhori (11.664 grams) of 21-carat gold will cost Tk222,491, 18-carat gold Tk191,056, and traditional (Sanatan) gold Tk156,064, all inclusive of VAT."
-    },
-    {
-      "title": "When fiscal stimulus becomes a debt burden",
-      "link": "https://www.tbsnews.net/economy/when-fiscal-stimulus-becomes-debt-burden-1540291",
-      "pubDate": "Sat, 12 Sep 2026 11:30:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/04/16/debt.jpg",
-      "snippet": "It prescribes that governments should spend more to cushion shocks, sustain demand, and encourage households and businesses to spend and invest. For much of the past century, this approach has helped economies avoid deeper downturns"
-    },
-    {
-      "title": "Asia's oil industry wants Trump to leave the Gulf, but expects he won't",
-      "link": "https://www.tbsnews.net/thoughts/asias-oil-industry-wants-trump-leave-gulf-expects-he-wont-1540296",
-      "pubDate": "Sat, 12 Sep 2026 10:55:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/05/strait_of_hormuz.jpg",
-      "snippet": "Across thousands of conversations at this week's APPEC conference in Singapore, the big issue was how to safely and sustainably reopen the Strait of Hormuz"
-    },
-    {
-      "title": "Electrical, electronics exports hit record growth amid rising EU compliance hurdles",
-      "link": "https://www.tbsnews.net/economy/industry/electrical-electronics-exports-hit-record-growth-amid-rising-eu-compliance-hurdles",
-      "pubDate": "Sat, 12 Sep 2026 07:50:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/12/export.png",
-      "snippet": "According to the latest Export Promotion Bureau (EPB) data, exports of electrical products increased 23.82% from $166.52 million a year earlier, reaching a record $206.19 million"
     }
   ],
-  "updatedAt": "2026-09-15T01:11:29.951Z"
+  "updatedAt": "2026-09-15T06:28:01.444Z"
 }
