@@ -1,6 +1,94 @@
 {
   "news": [
     {
+      "title": "Bangladesh slips 55 notches in global gender equality ranking",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-slips-55-notches-global-gender-equality-ranking-1544996",
+      "pubDate": "Thu, 17 Sep 2026 01:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/10/05/20220408.jpg",
+      "snippet": "The country’s score fell 6.2%, with political empowerment recording the biggest decline."
+    },
+    {
+      "title": "Why can't Bangladesh have one framework for valuing work?",
+      "link": "https://www.tbsnews.net/thoughts/why-cant-bangladesh-have-one-framework-valuing-work-1544986",
+      "pubDate": "Thu, 17 Sep 2026 01:10:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/17/19_thoughts_illustration_copy.png",
+      "snippet": "The National Pay Scale 2026 settles what the government pays its own employees — but Bangladesh still has no common framework for judging whether any job, public or private, is fairly valued relative to a comparable one. That is the harder question t..."
+    },
+    {
+      "title": "One bus hits, another runs over college teacher in Khilgaon; driver, helper detained",
+      "link": "https://www.tbsnews.net/bangladesh/one-bus-hits-another-runs-over-college-teacher-khilgaon-driver-helper-detained-1544991",
+      "pubDate": "Thu, 17 Sep 2026 01:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/07/9077771.jpg",
+      "snippet": "The accident occurred around 5:45pm in front of Basumati Hospital on the main road."
+    },
+    {
+      "title": "The Future of Humanitarian Action",
+      "link": "https://www.tbsnews.net/thoughts/future-humanitarian-action-1544976",
+      "pubDate": "Thu, 17 Sep 2026 01:00:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/17/whatsapp_image_2026-09-14_at_4.54.30_pm.jpeg",
+      "snippet": "Bangladesh's humanitarian sector is at a crossroads — where localisation, private-sector partnership, and early investment in preparedness are no longer optional additions to the model but the foundations it must be rebuilt on."
+    },
+    {
+      "title": "EC suspends boat symbol, adds 'No' option for single-candidate races",
+      "link": "https://www.tbsnews.net/bangladesh/ec-suspends-boat-symbol-adds-no-option-single-candidate-races-1544971",
+      "pubDate": "Thu, 17 Sep 2026 00:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/uploads/2023/12/24/election_commission_6.jpg",
+      "snippet": "Revised rules also make some tax information of candidates’ spouses, children and dependents optional."
+    },
+    {
+      "title": "Most solar equipment can be imported at 1% duty under new order",
+      "link": "https://www.tbsnews.net/nbr/most-solar-equipment-can-be-imported-1-duty-under-new-order-1544966",
+      "pubDate": "Thu, 17 Sep 2026 00:45:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/09/02/solar_panel.jpg",
+      "snippet": "Import taxes on those components had previously ranged from 23% to 64%."
+    },
+    {
+      "title": "Ctg customs finds 19 engines, 2 dismantled vehicles in consignment declared as parts",
+      "link": "https://www.tbsnews.net/bangladesh/ctg-customs-finds-19-engines-2-dismantled-vehicles-consignment-declared-parts-1544961",
+      "pubDate": "Wed, 16 Sep 2026 23:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/16/ctg_custom.jpg",
+      "snippet": "NBR flags the consignment as a significant revenue-evasion risk."
+    },
+    {
+      "title": "Nepal PM thanks Bangladesh for relief, humanitarian support",
+      "link": "https://www.tbsnews.net/bangladesh/nepal-pm-thanks-bangladesh-relief-humanitarian-support-1544941",
+      "pubDate": "Wed, 16 Sep 2026 23:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/16/tarique_and_balendra.jpeg",
+      "snippet": "Nepal PM also expresses his sincere appreciation for the adoption of a condolence motion by the Bangladesh National Parliament."
+    },
+    {
       "title": "Local body polls: Election training for police begins at 114 venues",
       "link": "https://www.tbsnews.net/bangladesh/local-body-polls-election-training-police-begins-114-venues-1544916",
       "pubDate": "Wed, 16 Sep 2026 22:15:00 +0600",
@@ -133,7 +221,7 @@
       "snippet": "BNP acting secretary general questions timing of technical fault at Adani Power's Godda plant."
     },
     {
-      "title": "Bangladesh, India discuss open skies policy, air service agreement revision",
+      "title": "Bangladesh, India discuss open sky policy, air service agreement revision",
       "link": "https://www.tbsnews.net/foreign-policy/bangladesh-india-discuss-open-skies-policy-air-service-agreement-revision-1544796",
       "pubDate": "Wed, 16 Sep 2026 21:15:00 +0600",
       "category": "Bangladesh",
@@ -169,56 +257,12 @@
       "title": "Cabinet Committee recommends import of 695,000 tons fuel oil",
       "link": "https://www.tbsnews.net/economy/energy/cabinet-committee-recommends-import-695000t-fuel-oil-1544766",
       "pubDate": "Wed, 16 Sep 2026 19:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/16/8ea1ca4d-1f3d-4485-b757-b496138309f0.jpg",
       "snippet": "The committee also recommended contracts for reopening two BTMC textile mills under the PPP model."
-    },
-    {
-      "title": "Parliamentary body concerned over indiscriminate use of pesticides on crops, soil",
-      "link": "https://www.tbsnews.net/agriculture/parliamentary-body-concerned-over-indiscriminate-use-pesticides-crops-soil-1544746",
-      "pubDate": "Wed, 16 Sep 2026 19:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/12/14/pic_1.jpg",
-      "snippet": "The minister said efforts were made to bring greater transparency into the appointment of fertiliser dealers and, to this end, the Fertiliser Dealer Appointment and Fertiliser Distribution Guidelines 2026 were issued."
-    },
-    {
-      "title": "2 Rumeen Farhana supporters injured in 'BNP attack' in Brahmanbaria",
-      "link": "https://www.tbsnews.net/bangladesh/2-rumeen-farhana-supporters-injured-bnp-attack-brahmanbaria-1544721",
-      "pubDate": "Wed, 16 Sep 2026 19:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/16/ashuganj_brahmanbaria_dispute.jpg",
-      "snippet": "A BNP leader denied the allegation and said the incident stemmed from an argument over drugs."
-    },
-    {
-      "title": "Replacing RAB, SRB begins journey as govt issues gazette",
-      "link": "https://www.tbsnews.net/bangladesh/replacing-rab-srb-begins-journey-govt-issues-gazettes-1544726",
-      "pubDate": "Wed, 16 Sep 2026 19:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/12/15/reuters.png",
-      "snippet": "RAB’s personnel, powers and assets transferred to new unit."
-    },
-    {
-      "title": "Bay of Bengal emerges as central theatre in contemporary Indo-Pacific Strategy: Muniruzzaman",
-      "link": "https://www.tbsnews.net/bangladesh/bay-bengal-emerges-central-theatre-contemporary-indo-pacific-strategy-muniruzzaman",
-      "pubDate": "Wed, 16 Sep 2026 19:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/16/us_ambassador_to_bangladesh_brent_t_christensen_4.png",
-      "snippet": "He argued that the region’s security challenges have become increasingly interconnected rather than isolated."
     },
     {
       "title": "Primary curriculum may add 12 'life-oriented' themes across year: Bobby Hajjaj",
@@ -725,29 +769,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/14/805215861_2100014367267960_6543485500111907895_n.png",
       "snippet": "The complex will manufacture cables, transformers and a growing range of electrical products, including busbars, switches, sockets, circuit breakers, smart meters, lighting products, electric fans, submarine cables and super-enameled wires"
-    },
-    {
-      "title": "Capital shortfall in 21 banks hits nearly Tk3 lakh crore",
-      "link": "https://www.tbsnews.net/economy/banking/capital-shortfall-21-banks-hits-nearly-tk3-lakh-crore-1541886",
-      "pubDate": "Mon, 14 Sep 2026 00:25:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/14/bank.png",
-      "snippet": "Bangladesh Bank data show that the banking sector’s provision shortfall stood at Tk2,05,665 crore in March, up from Tk1,98,260 crore at the end of December 2025. The provision shortfall rose to Tk2,22,357 crore in June."
-    },
-    {
-      "title": "Dengue spreads to all 64 districts, situation may worsen in Dhaka and 14 districts next week: IEDCR",
-      "link": "https://www.tbsnews.net/bangladesh/health/dengue-may-worsen-next-week-dhaka-14-other-districts-iedcr-warns-1541866",
-      "pubDate": "Mon, 14 Sep 2026 00:10:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/07/22/dengue-rajib-dhar.jpg",
-      "snippet": "Outbreak could remain high for next two to three weeks."
     }
   ],
-  "updatedAt": "2026-09-16T17:29:21.301Z"
+  "updatedAt": "2026-09-16T20:23:16.801Z"
 }
