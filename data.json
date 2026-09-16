@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Rethinking Bangladesh’s growth story: Labour market challenges and the future of work",
+      "link": "https://www.tbsnews.net/thoughts/rethinking-bangladeshs-growth-story-labour-market-challenges-and-future-work-1545006",
+      "pubDate": "Thu, 17 Sep 2026 02:40:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/17/panaroma-info_10-september.jpg",
+      "snippet": "Despite decades of economic growth and improvements in human development, Bangladesh continues to struggle to create enough productive and formal jobs, leaving much of its workforce in informal employment and limiting the gains from its demographic d..."
+    },
+    {
+      "title": "Health reform cannot wait, fix the system, not just the symptoms",
+      "link": "https://www.tbsnews.net/thoughts/health-reform-cannot-wait-fix-system-not-just-symptoms-1545001",
+      "pubDate": "Thu, 17 Sep 2026 02:30:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/08/health_0.png",
+      "snippet": "Bangladesh’s health crisis cannot be fixed through inspections, directives or individual blame. Lasting reform requires clear accountability across the system, merit-based leadership, stronger institutions and a permanent body to keep reforms on trac..."
+    },
+    {
       "title": "Bangladesh slips 55 notches in global gender equality ranking",
       "link": "https://www.tbsnews.net/bangladesh/bangladesh-slips-55-notches-global-gender-equality-ranking-1544996",
       "pubDate": "Thu, 17 Sep 2026 01:15:00 +0600",
@@ -771,5 +793,5 @@
       "snippet": "The complex will manufacture cables, transformers and a growing range of electrical products, including busbars, switches, sockets, circuit breakers, smart meters, lighting products, electric fans, submarine cables and super-enameled wires"
     }
   ],
-  "updatedAt": "2026-09-16T20:23:16.801Z"
+  "updatedAt": "2026-09-16T23:09:45.041Z"
 }
