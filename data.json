@@ -1,6 +1,105 @@
 {
   "news": [
     {
+      "title": "Ultra-processed foods linked to hidden thigh muscle fat, possible knee risk",
+      "link": "https://www.tbsnews.net/science/ultra-processed-foods-linked-hidden-thigh-muscle-fat-possible-knee-risk-1544031",
+      "pubDate": "Wed, 16 Sep 2026 12:45:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/16/screenshot_2026-09-16_124940.png",
+      "snippet": "Akkaya and her colleagues examined whether greater consumption of ultra-processed foods was linked to changes in thigh muscle composition."
+    },
+    {
+      "title": "Teacher's death near parliament: DB arrests 2, claims to recover bike used in mugging",
+      "link": "https://www.tbsnews.net/bangladesh/crime/teachers-death-near-parliament-db-arrests-2-claims-recover-bike-used-mugging",
+      "pubDate": "Wed, 16 Sep 2026 12:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/08/09/handcuff_unb.jpg",
+      "snippet": "The development comes after the Rapid Action Battalion (RAB) had earlier arrested two people along with a motorcycle and claimed that they had been involved in the mugging."
+    },
+    {
+      "title": "NCP slams EC as 'spineless', warns of street movement over local polls",
+      "link": "https://www.tbsnews.net/bangladesh/ncp-slams-ec-spineless-warns-street-movement-over-local-polls-1543976",
+      "pubDate": "Wed, 16 Sep 2026 11:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/16/3139314.jpg",
+      "snippet": "EC Secretary Akhtar Ahmed later said the state minister’s remarks would be treated as binding and that he would not “dare” make counter-comments"
+    },
+    {
+      "title": "Mirza Abbas travelling to Malaysia for routine medical check-up",
+      "link": "https://www.tbsnews.net/bangladesh/mirza-abbas-travelling-malaysia-routine-medical-check-1543971",
+      "pubDate": "Wed, 16 Sep 2026 11:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/11/05/mirza_abbas-2108221057.jpg",
+      "snippet": "The lawmaker for Dhaka-8 is scheduled to leave Dhaka for Malaysia on a Biman flight at 11:45am today (16 September), Shairul Kabir Khan, a member of the BNP Media Cell, confirmed."
+    },
+    {
+      "title": "Army chief leaves for Japan to attend Asian Games opening ceremony",
+      "link": "https://www.tbsnews.net/bangladesh/army-chief-leaves-japan-attend-asian-games-opening-ceremony-1543951",
+      "pubDate": "Wed, 16 Sep 2026 10:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/21/army_chief.jpg",
+      "snippet": "As the president of the Bangladesh Olympic Association, the army chief will attend the opening ceremony of the Asian Games to be held in Aichi-Nagoya, Japan."
+    },
+    {
+      "title": "Universal Pension revamp planned: Spouse to get lifetime benefit",
+      "link": "https://www.tbsnews.net/bangladesh/universal-pension-revamp-planned-spouse-get-lifetime-benefit-1543881",
+      "pubDate": "Wed, 16 Sep 2026 10:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/16/pension.png",
+      "snippet": "The government had also sought to bring expatriate Bangladeshis under the universal pension system, partly in view of the country’s dollar shortage and to strengthen their social and economic security."
+    },
+    {
+      "title": "From hallucinating AI chatbots to wiping out humanity: How did we get here?",
+      "link": "https://www.tbsnews.net/tech/hallucinating-ai-chatbots-wiping-out-humanity-how-did-we-get-here-1543931",
+      "pubDate": "Wed, 16 Sep 2026 10:05:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/16/ai_thrate_to_humanity1.jpeg",
+      "snippet": "Central to the field is the idea that an AI system could become capable of improving itself, with little to no help from humans, and allowing each advance to help produce the next one."
+    },
+    {
+      "title": "Ecnec to consider Tk2.5 lakh crore funding for three metro rail projects today",
+      "link": "https://www.tbsnews.net/bangladesh/ecnec-consider-tk25-lakh-crore-funding-three-metro-rail-projects-today-1543906",
+      "pubDate": "Wed, 16 Sep 2026 09:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/01/26/bmrt-salahuddin-ahmed.jpg",
+      "snippet": "The Ecnec meeting, chaired by Prime Minister Tarique Rahman, is scheduled to begin at 10am at the Secretariat."
+    },
+    {
+      "title": "Businesses target bigger share of $5.2t halal market, seek dedicated authority",
+      "link": "https://www.tbsnews.net/economy/industry/businesses-target-bigger-share-52tn-halal-market-seek-dedicated-authority-1543861",
+      "pubDate": "Wed, 16 Sep 2026 07:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/05/16/ctg_port_2_1.png",
+      "snippet": "The Bangladesh Chamber of Industries (BCI) has proposed forming a Bangladesh Halal Development Authority to coordinate certification and other activities related to the sector"
+    },
+    {
       "title": "Bakery product price hike put on hold",
       "link": "https://www.tbsnews.net/bangladesh/bakery-product-price-hike-put-hold-1543851",
       "pubDate": "Wed, 16 Sep 2026 00:45:00 +0600",
@@ -56,17 +155,6 @@
       "snippet": "He says an ICC report had acknowledged security concerns in India and claims Indian authorities made no effort to bring Bangladesh to the country."
     },
     {
-      "title": "Bangladesh National Insurance denies undisclosed price-sensitive info amid 31% surge",
-      "link": "https://www.tbsnews.net/economy/stocks/bangladesh-national-insurance-denies-undisclosed-price-sensitive-info-amid-31-surge",
-      "pubDate": "Tue, 15 Sep 2026 21:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/15/bnic.jpg",
-      "snippet": "For the cumulative January-June 2026 half-year, EPS climbed to Tk3.00 from Tk2.04."
-    },
-    {
       "title": "Over 29 lakh certificates issued through e-Apostille: MoFA",
       "link": "https://www.tbsnews.net/bangladesh/over-29-lakh-certificates-issued-through-e-apostille-mofa-1543816",
       "pubDate": "Tue, 15 Sep 2026 21:50:00 +0600",
@@ -76,6 +164,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/15/shama_obaed4.png",
       "snippet": "State Minister for Foreign Affairs Shama Obaed Islam presided over the meeting, which was attended by senior officials from 26 government ministries, divisions, directorates and agencies."
+    },
+    {
+      "title": "Bangladesh National Insurance denies undisclosed price-sensitive info amid 31% surge",
+      "link": "https://www.tbsnews.net/economy/stocks/bangladesh-national-insurance-denies-undisclosed-price-sensitive-info-amid-31-surge",
+      "pubDate": "Tue, 15 Sep 2026 21:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/15/bnic.jpg",
+      "snippet": "For the cumulative January-June 2026 half-year, EPS climbed to Tk3.00 from Tk2.04."
     },
     {
       "title": "Aamra Technologies' loss widens as sales slump, finance costs rise",
@@ -129,7 +228,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/what-did-bangladesh-export-the-most-to-the-united-states-in-fy25-fea_0.png",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/16/fea-final.png",
       "snippet": "The US is Bangladesh's single largest export market. In the fiscal 2025-26, Bangladesh exported more than $7.74 billion worth of RMG to the country."
     },
     {
@@ -153,83 +252,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/15/2e5a0f9c-5dbe-49a2-9df2-3485d25a05e9.jpg",
       "snippet": "CCTV footage helped investigators identify the two suspects, while police are examining whether the blast was linked to the ICT verdict."
-    },
-    {
-      "title": "Bangladesh sees improvement in state of democracy: Report",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-sees-improvement-state-democracy-report-1543726",
-      "pubDate": "Tue, 15 Sep 2026 21:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/15/international_idea.jpg",
-      "snippet": "Bangladesh achieved measurable progress in the Rule of Law category, moving from a low-performing classification to mid-range performance between 2024 and 2025."
-    },
-    {
-      "title": "Tk49.49cr third terminal immigration system project gets conditional nod",
-      "link": "https://www.tbsnews.net/economy/aviation/tk4949cr-third-terminal-immigration-system-project-gets-conditional-nod-1543711",
-      "pubDate": "Tue, 15 Sep 2026 20:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/12/p1_third_terminal_rkd_0048.jpg",
-      "snippet": "Project evaluation committee calls for scrutiny of the Tk48cr allocation for software and equipment"
-    },
-    {
-      "title": "31 AL leaders, activists arrested in Munshiganj over flash procession attempt, 3 microbuses seized",
-      "link": "https://www.tbsnews.net/bangladesh/31-al-leaders-activists-arrested-munshiganj-over-flash-procession-attempt-3-microbuses",
-      "pubDate": "Tue, 15 Sep 2026 20:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/06/18/arrest-tbs.jpg",
-      "snippet": "Police recovered various political materials, including campaign items bearing the slogan ‘Vote for the boat’, from the vehicles."
-    },
-    {
-      "title": "Protecting democracy is our biggest task now: President",
-      "link": "https://www.tbsnews.net/bangladesh/protecting-democracy-our-biggest-task-now-president-1543661",
-      "pubDate": "Tue, 15 Sep 2026 20:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/15/800992535_1404153951714602_3616782161210875449_n.jpg",
-      "snippet": "Mirza Fakhrul urges govt-opposition cooperation, stronger parliament."
-    },
-    {
-      "title": "Fakhrul's brother among 3 collects BNP nomination forms for Thakurgaon-1 by-election",
-      "link": "https://www.tbsnews.net/bangladesh/fakhruls-brother-among-3-collect-bnp-nomination-forms-thakurgaon-1-election-1543666",
-      "pubDate": "Tue, 15 Sep 2026 20:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/15/7ed3aaf7-53e6-4b11-a978-fb9473010f04.jpg",
-      "snippet": "Mirza Faisal Amin, former Thakurgaon district BNP president and municipality mayor, is among those seeking the party nomination."
-    },
-    {
-      "title": "Chhatra Federation demands probe, action against Ducsu over 'distortion of history'",
-      "link": "https://www.tbsnews.net/bangladesh/chhatra-federation-demands-probe-action-against-ducsu-over-distortion-history-1543671",
-      "pubDate": "Tue, 15 Sep 2026 20:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/15/chhatra_federation_press_conference.jpg",
-      "snippet": "The organisation also called for the restoration of historical photographs and memorabilia removed from the Ducsu archive."
-    },
-    {
-      "title": "No fuel supply crisis expected until December: BPC chairman",
-      "link": "https://www.tbsnews.net/economy/energy/no-fuel-supply-crisis-expected-until-december-bpc-chairman-1543641",
-      "pubDate": "Tue, 15 Sep 2026 20:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/27/fuel.png",
-      "snippet": "BPC steps up procurement and infrastructure measures."
     },
     {
       "title": "Countries where free elections and political accountability remain largely absent",
@@ -703,73 +725,7 @@
       "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/13/obama.jpg",
       "snippet": "The remarks at a recent private fundraising event come as growing numbers of US lawmakers call for tougher rules on AI systems after ​dire warnings from two Anthropic researchers that rapid industry progress ​risks extinction of the human race."
-    },
-    {
-      "title": "Adani power supply rises as Godda plant's Unit-2 synchronised with national grid after 3 days",
-      "link": "https://www.tbsnews.net/economy/energy/adani-unit-2-synchronised-national-grid-after-3-days-power-supply-expected-rise",
-      "pubDate": "Sun, 13 Sep 2026 13:05:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/02/01/adani.png",
-      "snippet": "Power supply rose to 1,046MW as of 2pm, with Unit-1 supplying 756.66MW and Unit-2 290MW."
-    },
-    {
-      "title": "Tension outside Islami Bank as sacked employees demand reinstatement, customers push back",
-      "link": "https://www.tbsnews.net/economy/banking/sacked-islami-bank-staff-demand-reinstatement-customers-stage-rival-sit-1541166",
-      "pubDate": "Sun, 13 Sep 2026 12:55:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/13/802029437_1794194078377364_8558316698538854751_n.jpg",
-      "snippet": "The dismissed officials from the Chattogram region demanded reinstatement, while several hundred customers were protesting against the 'conspiracy of S Alam's looters'"
-    },
-    {
-      "title": "AI, robotics, technical education being added to textbooks for grades 6-10: Mahdi",
-      "link": "https://www.tbsnews.net/bangladesh/education/ai-robotics-technical-education-being-added-textbooks-grades-6-10-mahdi-1541066",
-      "pubDate": "Sun, 13 Sep 2026 11:45:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/13/education_adviser_mahdi_amin.jpg",
-      "snippet": "Mahdi said the government is giving the highest priority to STEM education to keep pace with the rapidly changing, technology-driven global landscape"
-    },
-    {
-      "title": "Bangladesh has enough doctors. Why are hospitals still understaffed? ",
-      "link": "https://www.tbsnews.net/features/panorama/bangladesh-has-enough-doctors-why-are-hospitals-still-understaffed-1541071",
-      "pubDate": "Sun, 13 Sep 2026 11:40:00 +0600",
-      "category": "Analysis",
-      "color": "#5d4037",
-      "bg": "#efebe9",
-      "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/13/doctor_photo_0.jpeg",
-      "snippet": "On paper, Bangladesh has far more doctors than WHO’s recommended requirement. Yet, gaps in recruitment, weak rural retention and an uneven distribution prevent Bangladesh’s doctors from reaching where they are needed most"
-    },
-    {
-      "title": "Bangladesh’s trade and energy lifeline under fresh threat as Red Sea tensions rise",
-      "link": "https://www.tbsnews.net/economy/bangladeshs-trade-and-energy-lifeline-under-fresh-threat-red-sea-tensions-rise-1540971",
-      "pubDate": "Sun, 13 Sep 2026 10:05:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/13/artboard_1_2.png",
-      "snippet": "Further escalation in the Red Sea would require Europe-bound vessels from Bangladesh to take alternative routes around Africa’s Cape of Good Hope, a detour of approximately 7,500 kilometres"
-    },
-    {
-      "title": "How Karnaphuli EPZ transforms from loss-making steel mill to export hub",
-      "link": "https://www.tbsnews.net/economy/how-karnaphuli-epz-transforms-loss-making-steel-mill-export-hub-1540961",
-      "pubDate": "Sun, 13 Sep 2026 09:45:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/13/karnaphuli_epz.jpg",
-      "snippet": "Cumulative export earnings exceed $14b over two decades"
     }
   ],
-  "updatedAt": "2026-09-16T01:32:25.314Z"
+  "updatedAt": "2026-09-16T07:17:59.678Z"
 }
