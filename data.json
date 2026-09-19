@@ -1,13 +1,101 @@
 {
   "news": [
     {
+      "title": "Khulna student 'assaulted over theft suspicion', dies after falling from 5th floor",
+      "link": "https://www.tbsnews.net/bangladesh/khulna-student-assaulted-over-theft-suspicion-dies-after-falling-5th-floor-1547646",
+      "pubDate": "Sun, 20 Sep 2026 00:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/20/cumilla-university-student.jpg",
+      "snippet": "Family says Azmal Hossain was beaten after being accused of theft; police are investigating how he fell from the building."
+    },
+    {
+      "title": "Two crude bombs explode at Kamalapur railway station",
+      "link": "https://www.tbsnews.net/bangladesh/crime/two-crude-bombs-explode-kamalapur-railway-station-1547641",
+      "pubDate": "Sat, 19 Sep 2026 23:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/15/crude_bomb.png",
+      "snippet": "No injuries reported after blasts near platform 2."
+    },
+    {
+      "title": "Pickup catches fire outside South Keraniganj police station",
+      "link": "https://www.tbsnews.net/bangladesh/crime/pickup-catches-fire-outside-south-keraniganj-police-station-1547636",
+      "pubDate": "Sat, 19 Sep 2026 23:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/19/bus-on-fire-keraniganj.jpg",
+      "snippet": "Seized vehicle catches fire amid string of Dhaka blazes."
+    },
+    {
+      "title": "Apratim's death: Comilla University declares day of mourning, suspends classes, exams",
+      "link": "https://www.tbsnews.net/bangladesh/apratims-death-comilla-university-declares-day-mourning-suspends-classes-exams-1547606",
+      "pubDate": "Sat, 19 Sep 2026 22:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/07/02/comilla_university_campus.jpg",
+      "snippet": "Classes and exams suspended on 20 September as the university mourns the death of the 13-year-old son of a faculty member."
+    },
+    {
+      "title": "DSE stocks eke out weekly gain amid renewed buying",
+      "link": "https://www.tbsnews.net/economy/stocks/dse-stocks-eke-out-weekly-gain-amid-renewed-buying-1547591",
+      "pubDate": "Sat, 19 Sep 2026 21:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/07/dse.jpg",
+      "snippet": "Improved expectations for industrial gas supplies and regulatory engagement with leading brokers boosted investor sentiment in the latter half of the week."
+    },
+    {
+      "title": "'Ghontu': The son who was his mother's whole world",
+      "link": "https://www.tbsnews.net/bangladesh/ghontu-son-who-was-his-mothers-whole-world-1547601",
+      "pubDate": "Sat, 19 Sep 2026 21:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/19/us_ambassador_to_bangladesh_brent_t_christensen_10.png",
+      "snippet": "Comilla University Bangla Department Associate Professor Dr Nahida is also a writer, but Apratim was at the centre of her life."
+    },
+    {
+      "title": "New pay scale scraps special benefit, cuts Pohela Boishakh allowance to 15%",
+      "link": "https://www.tbsnews.net/economy/new-pay-scale-scraps-special-benefit-cuts-pohela-boishakh-allowance-15-1547576",
+      "pubDate": "Sat, 19 Sep 2026 21:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/25/08_panorama_new_copy.png",
+      "snippet": "The special benefit has been discontinued from the effective date of the new pay scale, while the Bengali New Year allowance has been reduced to 15% of basic salary from 20%."
+    },
+    {
+      "title": "Shahjalal shrine donation boxes yield record Tk89 lakh",
+      "link": "https://www.tbsnews.net/bangladesh/shahjalal-shrine-donation-boxes-yield-record-tk89-lakh-1547581",
+      "pubDate": "Sat, 19 Sep 2026 21:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/untitled-3.png",
+      "snippet": "Latest count also finds gold and currencies from 15 countries"
+    },
+    {
       "title": "New pay scale: Monthly pension set at Tk18,000 to Tk70,200",
       "link": "https://www.tbsnews.net/economy/new-pay-scale-monthly-pension-set-tk18000-tk70200-1547571",
       "pubDate": "Sat, 19 Sep 2026 21:35:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/01/new-payscale.png",
       "snippet": "Pensioners will receive a 55% to 100% increase under the new pay structure, with higher rates for those currently receiving lower pensions."
     },
@@ -20,7 +108,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/19/unnamed.jpg",
-      "snippet": "A second janaza is likely to be held at Apratim’s father’s home in Chandpur."
+      "snippet": "A second namaz-e-janaza is likely to be held at Apratim’s father’s home in Chandpur."
     },
     {
       "title": "Apratim murder: 3 youths, including one seen with him on CCTV, detained",
@@ -31,7 +119,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/19/cctv_apratim_.jpg",
-      "snippet": "One of the three youths detained over the killing was seen with the 13-year-old on CCTV at Comilla University campus for about an hour."
+      "snippet": "The suspects have been detained for questioning as drive continues, police say."
     },
     {
       "title": "Staff bus catches fire in Dhaka's Badda",
@@ -144,72 +232,6 @@
       "snippet": "Rates vary by grade and location, with Dhaka getting more."
     },
     {
-      "title": "BCPS, Channel i plan Devcom Award for development communication",
-      "link": "https://www.tbsnews.net/bangladesh/bcps-channel-i-plan-devcom-award-development-communication-1547471",
-      "pubDate": "Sat, 19 Sep 2026 19:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/19/devcom_picture.jpeg",
-      "snippet": "Proposed award will recognise outstanding communication work by development-sector organisations."
-    },
-    {
-      "title": "Passenger bus catches fire in Mirpur",
-      "link": "https://www.tbsnews.net/bangladesh/passenger-bus-catches-fire-mirpur-1547456",
-      "pubDate": "Sat, 19 Sep 2026 19:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/19/809978446_2281358622403410_2228815590708327663_n.jpg",
-      "snippet": "Two Fire Service units are working to put out the blaze opposite Jamjam Tower in Mirpur-11."
-    },
-    {
-      "title": "Govt makes 'credible start' on education pledges but risks losing momentum: Citizens Platform for SDGs",
-      "link": "https://www.tbsnews.net/bangladesh/govt-makes-credible-start-education-pledges-risks-losing-momentum-citizens-platform-sdgs",
-      "pubDate": "Sat, 19 Sep 2026 19:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/19/us_ambassador_to_bangladesh_brent_t_christensen_5.png",
-      "snippet": "The findings were presented at a dialogue titled \"Is the Government Delivering? Spotlight on Primary Education,\" organised by the Citizen's Platform for SDGs, at a city hotel in Gulshan."
-    },
-    {
-      "title": "SRB strengthens security across Dhaka after blasts, bus fire",
-      "link": "https://www.tbsnews.net/bangladesh/srb-strengthens-security-across-dhaka-after-blasts-bus-fire-1547446",
-      "pubDate": "Sat, 19 Sep 2026 19:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/19/812195290_1414134144002218_2243955583682285450_n_16x9.png",
-      "snippet": "Checkpoints, patrols and intelligence surveillance intensified."
-    },
-    {
-      "title": "Muslim world will unite to resist any attack on Mecca, Madinah: Religious Affairs Minister",
-      "link": "https://www.tbsnews.net/bangladesh/muslim-world-will-unite-resist-any-attack-mecca-madinah-religious-affairs-minister",
-      "pubDate": "Sat, 19 Sep 2026 19:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/19/us_ambassador_to_bangladesh_brent_t_christensen_4.png",
-      "snippet": "“Any kind of attack, aggression or threat to the security of these two holy cities is completely unacceptable,” he said."
-    },
-    {
-      "title": "Four killed as bus collides with private car in Munshiganj",
-      "link": "https://www.tbsnews.net/bangladesh/four-killed-bus-collides-private-car-munshiganj-1547416",
-      "pubDate": "Sat, 19 Sep 2026 18:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/19/1000554622.jpg",
-      "snippet": "The crash occurred when the Dhaka-bound private car attempted a U-turn after travelling on the wrong side of the Dhaka-Chattogram Highway."
-    },
-    {
       "title": "Govt to issue digital bank licences soon: Finance minister",
       "link": "https://www.tbsnews.net/economy/banking/govt-issue-digital-bank-licences-soon-finance-minister-1547411",
       "pubDate": "Sat, 19 Sep 2026 18:50:00 +0600",
@@ -219,39 +241,6 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/04/khasru_sketch.jpg",
       "snippet": "He says robust digital infrastructure and secure digital services are key to expanding financial inclusion."
-    },
-    {
-      "title": "Gulshan ADC transferred following OC and DC removals",
-      "link": "https://www.tbsnews.net/bangladesh/gulshan-adc-transferred-following-oc-and-dc-removals-1547386",
-      "pubDate": "Sat, 19 Sep 2026 18:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/25/police_logo_new_bss.jpg",
-      "snippet": "Sarwar Hossain has been transferred to the Detective Branch’s Wari division three days after the OC and DC were removed."
-    },
-    {
-      "title": "Apratim murder: Police say multiple clues found, several suspects being questioned",
-      "link": "https://www.tbsnews.net/bangladesh/apratim-murder-police-say-multiple-clues-found-several-suspects-being-questioned-1547346",
-      "pubDate": "Sat, 19 Sep 2026 18:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/19/unnamed.jpg",
-      "snippet": "The body was recovered around noon today from a wooded area in Cumilla’s Kotbari, a day after he went missing."
-    },
-    {
-      "title": "Robbers tie up family, loot 11.5 bhori gold, Tk2.5 lakh, phones in Fatikchhari",
-      "link": "https://www.tbsnews.net/bangladesh/robbers-tie-family-loot-115-bhori-gold-tk25-lakh-phones-fatikchhari-1547361",
-      "pubDate": "Sat, 19 Sep 2026 18:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/19/us_ambassador_to_bangladesh_brent_t_christensen_2.png",
-      "snippet": "At least 10 robbers allegedly broke into the home at around 2:30am and held the family hostage for a long time."
     },
     {
       "title": "Reflecting on the role of NGOs in Bangladesh’s development ",
@@ -818,10 +807,10 @@
       "title": "Govt eyes first sovereign dollar bond by Dec, targets $500m-$1b",
       "link": "https://www.tbsnews.net/economy/banking/govt-eyes-first-sovereign-dollar-bond-dec-targets-500m-1b-1545061",
       "pubDate": "Thu, 17 Sep 2026 11:00:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/27/bangladesh_bank.jpg",
       "snippet": "The upcoming issuance will mark the country’s debut attempt to raise capital through foreign-currency sovereign debt on the global stage."
     },
@@ -892,5 +881,5 @@
       "snippet": "Bangladesh's humanitarian sector is at a crossroads — where localisation, private-sector partnership, and early investment in preparedness are no longer optional additions to the model but the foundations it must be rebuilt on."
     }
   ],
-  "updatedAt": "2026-09-19T15:48:13.710Z"
+  "updatedAt": "2026-09-19T18:26:22.447Z"
 }
