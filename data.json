@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Singapore becomes Bangladesh's 2nd-largest labour market, but tighter controls loom",
+      "link": "https://www.tbsnews.net/bangladesh/migration/singapore-becomes-bangladeshs-2nd-largest-labour-market-tighter-controls-loom",
+      "pubDate": "Sat, 19 Sep 2026 07:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/07/02/singapore_business_district.jpg",
+      "snippet": "But Singapore’s plan to exercise greater control over foreign-worker intake has raised questions about whether the recent surge in Bangladeshi migration can continue"
+    },
+    {
       "title": "Operators claim fewer cargoes being allocated for Ctg port's general berth",
       "link": "https://www.tbsnews.net/economy/operators-claim-fewer-cargoes-being-allocated-ctg-ports-general-berth-1546771",
       "pubDate": "Sat, 19 Sep 2026 00:25:00 +0600",
@@ -208,17 +219,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/18/gorai_boat_race.jpg",
       "snippet": "Nine teams from Kushtia and other districts are taking part, as organisers seek to preserve the tradition and introduce it to the younger generation."
-    },
-    {
-      "title": "Future generation must play role in building drug-free, safe society: Tuku",
-      "link": "https://www.tbsnews.net/bangladesh/future-generation-must-play-role-building-drug-free-safe-society-tuku-1546571",
-      "pubDate": "Fri, 18 Sep 2026 19:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/18/tuku_.png",
-      "snippet": "The meritorious students of today will lead the country and society in the future, Tuku said."
     },
     {
       "title": "Floating hospital 'Shastho Tori' planned for coastal, char areas: Muhit",
@@ -859,5 +859,5 @@
       "snippet": "The Bangladesh Chamber of Industries (BCI) has proposed forming a Bangladesh Halal Development Authority to coordinate certification and other activities related to the sector"
     }
   ],
-  "updatedAt": "2026-09-18T23:35:06.106Z"
+  "updatedAt": "2026-09-19T01:30:25.340Z"
 }
