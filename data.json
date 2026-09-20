@@ -1,26 +1,48 @@
 {
   "news": [
     {
-      "title": "Haor Express coach set on fire at Kamalapur Railway Station, no casualties",
+      "title": "Widows over 50 exempted from annual 'no remarriage' declaration",
+      "link": "https://www.tbsnews.net/bangladesh/widows-over-50-exempted-annual-no-remarriage-declaration-1548646",
+      "pubDate": "Mon, 21 Sep 2026 02:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/21/govt_taka.jpg",
+      "snippet": "Under the previous rule, all widows of deceased government employees had to submit the declaration to the relevant accounts office every year to remain eligible for the pension."
+    },
+    {
+      "title": "RU students block and set fire to tracks, vandalise Rajshahi station after railway staff beat student",
+      "link": "https://www.tbsnews.net/bangladesh/ru-students-block-and-set-fire-tracks-vandalise-rajshahi-station-after-railway-staff-beat",
+      "pubDate": "Mon, 21 Sep 2026 01:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/21/ru_students_at_rajshahi_rail_station.jpg",
+      "snippet": "Students blocked the railway tracks near Rajshahi University station by burning tyres after a university student was allegedly beaten at Rajshahi Railway Station."
+    },
+    {
+      "title": "Train carriage catches fire at Kamalapur station, sabotage suspected",
       "link": "https://www.tbsnews.net/bangladesh/haor-express-coach-set-fire-kamalapur-railway-station-no-casualties-1548626",
       "pubDate": "Sun, 20 Sep 2026 23:40:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/20/haor_express.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/21/haor_express_1.jpg",
       "snippet": "The train was scheduled to leave for Mohanganj at 10:15pm when the fire broke out in one of its coaches."
     },
     {
-      "title": "MP Gazi Nazrul, first wife taken to police station for questioning after second wife's death",
-      "link": "https://www.tbsnews.net/bangladesh/mp-gazi-nazrul-first-wife-taken-police-station-questioning-after-second-wifes-death",
+      "title": "2nd wife's death: MP Gazi Nazrul, first wife arrested in suicide abetment case",
+      "link": "https://www.tbsnews.net/bangladesh/2nd-wifes-death-mp-gazi-nazrul-first-wife-arrested-suicide-abetment-case-1548611",
       "pubDate": "Sun, 20 Sep 2026 23:25:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/20/813320283_1056273103839488_6481592008971797691_n.jpg",
-      "snippet": "Police recovered the hanging body of the lawmaker’s 19-year-old second wife from a NAM Bhaban flat in Dhaka."
+      "snippet": "The case was filed over the death of the MP’s second wife, Mariam Khatun, whose body was recovered from a flat at the NAM Bhaban in Dhaka."
     },
     {
       "title": "Fuel prices hiked by Tk20 per litre",
@@ -31,7 +53,7 @@
       "bg": "#e8f5e9",
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/27/fuel.png",
-      "snippet": "The new prices will be effective from tomorrow."
+      "snippet": "The new prices will be effective from Monday."
     },
     {
       "title": "2 Chittagong University students detained over extortion, assault, harassment",
@@ -74,8 +96,19 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/20/809133404_4510043175914053_4673392811445225647_n.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/21/814952443_1627222352410687_1476892022588445999_n.jpg",
       "snippet": "The fire broke out after cylinders exploded in a gas-cylinder carrying covered van parked in front of the garment factory."
+    },
+    {
+      "title": "Bangladesh, Canada hopeful of high-level engagements on UNGA sidelines",
+      "link": "https://www.tbsnews.net/foreign-policy/bangladesh-canada-hopeful-high-level-engagements-unga-sidelines-1548476",
+      "pubDate": "Sun, 20 Sep 2026 20:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/20/canadian_high_commissioner_to_bangladesh_ajit_singh_meets_state_minister_for_foreign_affairs_humaiun_kobir.jpg",
+      "snippet": "Bangladesh, Canada eye high-level UNGA engagements amid trade, climate talks."
     },
     {
       "title": "Apratim murder case: 3 accused give confessional statements, sent to jail",
@@ -98,17 +131,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/09/05/c.jpg",
       "snippet": "Two trains delayed before services resume around 4pm."
-    },
-    {
-      "title": "Bangladesh, Canada hopeful of high-level engagements on UNGA sidelines",
-      "link": "https://www.tbsnews.net/foreign-policy/bangladesh-canada-hopeful-high-level-engagements-unga-sidelines-1548476",
-      "pubDate": "Sun, 20 Sep 2026 20:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/20/canadian_high_commissioner_to_bangladesh_ajit_singh_meets_state_minister_for_foreign_affairs_humaiun_kobir.jpg",
-      "snippet": "Bangladesh, Canada eye high-level UNGA engagements amid trade, climate talks."
     },
     {
       "title": "Education minister urges schools to help tackle drug abuse",
@@ -241,28 +263,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/10/rab.jpeg",
       "snippet": "RAB’s record raises a fundamental question: can changing the force’s name and legal structure address the institutional conditions that enabled abuse?"
-    },
-    {
-      "title": "Internet, mobile phone use rises in Bangladesh: BBS",
-      "link": "https://www.tbsnews.net/bangladesh/telecom/internet-mobile-phone-use-rises-bangladesh-bbs-1548361",
-      "pubDate": "Sun, 20 Sep 2026 18:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/07/16/mobile_internet_0.jpg",
-      "snippet": "ICT access expands across households and individuals."
-    },
-    {
-      "title": "Rampal plant's 2nd unit resumes power generation after 8-day shutdown",
-      "link": "https://www.tbsnews.net/economy/energy/rampal-power-plants-second-unit-resumes-generation-after-8-day-shutdown-1548351",
-      "pubDate": "Sun, 20 Sep 2026 18:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/20/rampal_power_plant.jpg",
-      "snippet": "The unit resumed generation this morning after being shut down on 13 September due to a mechanical fault."
     },
     {
       "title": "Wife Appreciation Day: She does so much. When was the last time you said thank you?",
@@ -692,40 +692,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/10/27/dengue_ward_rajibdhar_0288.jpg",
       "snippet": "Besides, a total of 22,554 dengue patients were admitted to hospitals across the country in the first 17 days of September, which is also the highest monthly figure so far this year."
-    },
-    {
-      "title": "Before selling Sammilito Islami Bank, the state should retain what’s worth selling",
-      "link": "https://www.tbsnews.net/thoughts/selling-sammilito-islami-bank-state-should-retain-whats-worth-selling-1546031",
-      "pubDate": "Fri, 18 Sep 2026 01:25:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/18/sammilito_islami_bank.jpg",
-      "snippet": "Sammilito Islami Bank’s depositor payouts are also shaping the value of the bank ahead of a possible sale. With the government looking to a strategic investor to help fund repayments, protecting the deposit franchise may matter more than the size of ..."
-    },
-    {
-      "title": "Corporate ownership should include workers' stake to reduce inequality: Rehman Sobhan",
-      "link": "https://www.tbsnews.net/economy/corporate-ownership-should-include-workers-stake-reduce-inequality-rehman-sobhan-1546026",
-      "pubDate": "Fri, 18 Sep 2026 01:15:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/01/20/prof_rehman_sobhan.png",
-      "snippet": "He proposes a model in which workers would have a share in corporate ownership, allowing a wider section of society to participate in wealth creation and ownership."
-    },
-    {
-      "title": "Bangladesh, Turkey explore enhanced energy cooperation",
-      "link": "https://www.tbsnews.net/economy/energy/bangladesh-turkey-explore-enhanced-energy-cooperation-1546011",
-      "pubDate": "Fri, 18 Sep 2026 00:30:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/18/bd_tukey.jpg",
-      "snippet": "The two sides explored potential areas of practical cooperation in the energy and mineral resources sectors and discussed opportunities to further strengthen bilateral collaboration."
     }
   ],
-  "updatedAt": "2026-09-20T18:00:16.149Z"
+  "updatedAt": "2026-09-20T20:43:28.410Z"
 }
