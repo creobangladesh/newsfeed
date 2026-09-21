@@ -1,6 +1,204 @@
 {
   "news": [
     {
+      "title": "Ashulia factory fire: Death toll rises to 8",
+      "link": "https://www.tbsnews.net/bangladesh/ashulia-factory-fire-death-toll-rises-8-1548846",
+      "pubDate": "Mon, 21 Sep 2026 12:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/21/2750395_1.jpg",
+      "snippet": "Three patients were brought to DMCH from Ashulia after the explosion last night, and two of them were declared dead by doctors on duty."
+    },
+    {
+      "title": "NHS trial uses smart sensors to support people living with dementia",
+      "link": "https://www.tbsnews.net/bangladesh/health/nhs-trial-uses-smart-sensors-support-people-living-dementia-1548851",
+      "pubDate": "Mon, 21 Sep 2026 12:10:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/01/18/dementia_1_0.png",
+      "snippet": "The trial, led by the UK Dementia Research Institute and Imperial College London with funding from LifeArc, involves more than 250 families across the UK"
+    },
+    {
+      "title": "How RACE turns to legal tangles to stall enforcement, probe into irregularities  ",
+      "link": "https://www.tbsnews.net/bangladesh/how-race-turns-legal-tangles-stall-enforcement-probe-irregularities-1548776",
+      "pubDate": "Mon, 21 Sep 2026 12:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/21/races.jpg",
+      "snippet": "BSEC finally won the case and moves to enforce the investigation report that recommended revoking the license of RACE and barring its chairman, Nafees Sharafat, and MD and CEO Taher Imam from the securities market."
+    },
+    {
+      "title": "ICAO assures full cooperation for Bangladesh aviation development",
+      "link": "https://www.tbsnews.net/economy/aviation/icao-assures-full-cooperation-bangladesh-aviation-development-1548826",
+      "pubDate": "Mon, 21 Sep 2026 11:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/18/8109534.jpg",
+      "snippet": "ICAO will support Bangladesh in advancing international aviation standards and strengthening safety and security."
+    },
+    {
+      "title": "Rajshahi train services resume after overnight student blockade",
+      "link": "https://www.tbsnews.net/bangladesh/rajshahi-train-services-resume-after-overnight-student-blockade-1548806",
+      "pubDate": "Mon, 21 Sep 2026 11:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/21/ru_students_at_rajshahi_rail_station.jpg",
+      "snippet": "The Titumir Express left Rajshahi for Chilahati at 6:20am, followed by the Bonolota Express for Dhaka at 7am."
+    },
+    {
+      "title": "Gas system at Ashulia factory where six died was illegal, unsafe: Officials",
+      "link": "https://www.tbsnews.net/bangladesh/gas-system-ashulia-factory-where-six-died-was-illegal-unsafe-officials-1548801",
+      "pubDate": "Mon, 21 Sep 2026 11:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/21/814952443_1627222352410687_1476892022588445999_n.jpg",
+      "snippet": "The factory was using specially installed CNG cylinders inside covered vans to transport gas before supplying it to a gas chamber inside the factory for boiler operations, according to officials."
+    },
+    {
+      "title": "ICJ may deliver Rohingya genocide verdict next month ",
+      "link": "https://www.tbsnews.net/bangladesh/court/icj-may-deliver-rohingya-genocide-verdict-next-month-1548711",
+      "pubDate": "Mon, 21 Sep 2026 11:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/09/02/gavel-3577255_960_720.jpg",
+      "snippet": "State Minister for Foreign Affairs Humaiun Kobir informed the Cabinet that Gambian Justice Minister and Attorney General Dawda A Jallow conveyed the information during a meeting on the sidelines of the Organisation of Islamic Cooperation conference i..."
+    },
+    {
+      "title": "Stocks dip in early trade after fuel price hike",
+      "link": "https://www.tbsnews.net/economy/stocks/stocks-dip-early-trade-after-fuel-price-hike-1548751",
+      "pubDate": "Mon, 21 Sep 2026 11:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/21/red_downward_arrow_resized.jpg",
+      "snippet": "Investor participation stayed moderate, with turnover hitting Tk200 crore during the session."
+    },
+    {
+      "title": "Govt moves to fill 5.2 lakh vacant posts to speed up activities",
+      "link": "https://www.tbsnews.net/bangladesh/govt-moves-fill-52-lakh-vacant-posts-speed-activities-1548706",
+      "pubDate": "Mon, 21 Sep 2026 11:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/04/21/16_pursuit_10_january_2023_copy_0.png",
+      "snippet": "The initiative follows a review of documents from several government bodies, including the Microcredit Regulatory Authority and the Office of the Comptroller and Auditor General."
+    },
+    {
+      "title": "2 juvenile suspects to be sent to correctional centre in Apratim murder case",
+      "link": "https://www.tbsnews.net/bangladesh/2-juvenile-suspects-be-sent-correctional-centre-apratim-murder-case-1548746",
+      "pubDate": "Mon, 21 Sep 2026 10:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/21/apratim_murder.jpg",
+      "snippet": "“Two of them, both juveniles, will be sent to the Tongi Juvenile Development Centre in Gazipur today,” he said."
+    },
+    {
+      "title": "StanChart Bangladesh plans to close retail banking operation by selling portfolio",
+      "link": "https://www.tbsnews.net/economy/banking/stanchart-bangladesh-plans-close-retail-banking-operation-selling-portfolio-1548741",
+      "pubDate": "Mon, 21 Sep 2026 10:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/21/813804266_2047225876666303_2123854374973384758_n.png",
+      "snippet": "The bank approached some banks informally and asked them to prepare for a formal process to acquire the business"
+    },
+    {
+      "title": "Bangladesh to open consulates in Guangzhou, Frankfurt, São Paulo",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-open-consulates-guangzhou-frankfurt-sao-paulo-1548701",
+      "pubDate": "Mon, 21 Sep 2026 10:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/21/af38462d-a54c-4ed0-8a02-7a9954cd8f92.png",
+      "snippet": "The foreign ministry has written to the finance ministry, explaining the rationale and seeking approval for establishing the three consulates."
+    },
+    {
+      "title": "Fuel price hike to push up transport and production costs, worsen inflationary pressure: Selim Raihan",
+      "link": "https://www.tbsnews.net/economy/fuel-price-hike-push-transport-and-production-costs-worsen-inflationary-pressure-selim",
+      "pubDate": "Mon, 21 Sep 2026 10:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/21/selim_raihan_sanem_latest.jpg",
+      "snippet": "Economist Selim Raihan identifies three major concerns facing the country’s economy."
+    },
+    {
+      "title": "Govt seeks ADR with big firms to unlock Tk90,000cr in revenue disputes",
+      "link": "https://www.tbsnews.net/bangladesh/govt-seeks-adr-big-firms-unlock-tk90000cr-revenue-disputes-1548696",
+      "pubDate": "Mon, 21 Sep 2026 10:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/21/adr.png",
+      "snippet": "Move aimed at achieving 45% collection growth in FY27."
+    },
+    {
+      "title": "Costs to cool Bangladesh garment factories can be recovered within four years: Study",
+      "link": "https://www.tbsnews.net/economy/rmg/costs-cool-bangladesh-garment-factories-can-be-recovered-within-four-years-study-1548686",
+      "pubDate": "Mon, 21 Sep 2026 08:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/04/rmg_1_1.jpg",
+      "snippet": "Cooling investments at factories in Bangladesh, from reflective paint and roof insulation to airflow ventilation, are commercially viable and pay back within four years, researchers at Cornell University's Global Labor Institute found. The report urg..."
+    },
+    {
+      "title": "PM Tarique leading 38-member delegation to UNGA",
+      "link": "https://www.tbsnews.net/bangladesh/pm-tarique-leading-38-member-delegation-unga-1548681",
+      "pubDate": "Mon, 21 Sep 2026 08:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/21/bangladesh_tarique_rahman_unga.png",
+      "snippet": "Heads of government had in the past travelled to the UNGA with delegations comprising more than 100 members"
+    },
+    {
+      "title": "PM off to New York to attend UNGA with 38-member delegation",
+      "link": "https://www.tbsnews.net/bangladesh/pm-new-york-attend-unga-1548676",
+      "pubDate": "Mon, 21 Sep 2026 07:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/21/bangladesh_tarique_rahman_unga_01.png",
+      "snippet": "The flight is scheduled to reach Istanbul Airport around 11:35am local time. After a brief transit, the Prime Minister will continue his journey to New York’s John F Kennedy International Airport"
+    },
+    {
+      "title": "Investor hurdles drag Bangladesh startup funding to 5-year low in Jan-Jun",
+      "link": "https://www.tbsnews.net/economy/investor-hurdles-drag-bangladesh-startup-funding-5-year-low-jan-jun-1548671",
+      "pubDate": "Mon, 21 Sep 2026 07:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/11/startup_1.png",
+      "snippet": "Bangladeshi startups raised just $6 million in January-June, down 95% from $120 million in the same period last year, according to LightCastle Partners’ Bangladesh Startup Investment Report H1 2026"
+    },
+    {
       "title": "Widows over 50 exempted from annual 'no remarriage' declaration",
       "link": "https://www.tbsnews.net/bangladesh/widows-over-50-exempted-annual-no-remarriage-declaration-1548646",
       "pubDate": "Mon, 21 Sep 2026 02:20:00 +0600",
@@ -20,7 +218,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/21/ru_students_at_rajshahi_rail_station.jpg",
-      "snippet": "Four railway employees were suspended over the alleged assault, while the Dhumketu Express was cancelled following the overnight unrest at the station."
+      "snippet": "Four railway employees were suspended over the alleged assault."
     },
     {
       "title": "Train carriage catches fire at Kamalapur station, sabotage suspected",
@@ -34,17 +232,6 @@
       "snippet": "The train was scheduled to leave for Mohanganj at 10:15pm when the fire broke out in one of its coaches."
     },
     {
-      "title": "2nd wife's death: MP Gazi Nazrul, first wife arrested in suicide abetment case",
-      "link": "https://www.tbsnews.net/bangladesh/2nd-wifes-death-mp-gazi-nazrul-first-wife-arrested-suicide-abetment-case-1548611",
-      "pubDate": "Sun, 20 Sep 2026 23:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/20/813320283_1056273103839488_6481592008971797691_n.jpg",
-      "snippet": "The case was filed over the death of the MP’s second wife, Mariam Khatun, whose body was recovered from a flat at the NAM Bhaban in Dhaka."
-    },
-    {
       "title": "Fuel prices hiked by Tk20 per litre",
       "link": "https://www.tbsnews.net/economy/energy/fuel-prices-hiked-tk20-litre-1548591",
       "pubDate": "Sun, 20 Sep 2026 22:45:00 +0600",
@@ -54,17 +241,6 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/27/fuel.png",
       "snippet": "The new prices will be effective from Monday."
-    },
-    {
-      "title": "2 Chittagong University students detained over extortion, assault, harassment",
-      "link": "https://www.tbsnews.net/bangladesh/2-chittagong-university-students-detained-over-extortion-assault-harassment-1548576",
-      "pubDate": "Sun, 20 Sep 2026 21:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/20/cu_students_detained.jpg",
-      "snippet": "Six complaints prompt university action against two students."
     },
     {
       "title": "BAFFA urges NBR to bar fully foreign-owned firms from freight forwarding",
@@ -78,79 +254,13 @@
       "snippet": "The freight forwarders’ body says local participation is needed to protect domestic entrepreneurs, while Investment Bangladesh Authority officials favour greater foreign participation."
     },
     {
-      "title": "Eastern Bank tops DSE turnover board with Tk36.94cr trade",
-      "link": "https://www.tbsnews.net/economy/stocks/eastern-bank-tops-dse-turnover-board-tk3694cr-trade-1548516",
-      "pubDate": "Sun, 20 Sep 2026 21:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/organization/logo/eastern_bank_ltd.png",
-      "snippet": "EBL shares closed unchanged at Tk22.90, the same as the previous session."
-    },
-    {
-      "title": "Gas cylinder blast, fire at Ashulia factory compound kills 6, at least 24 injured",
-      "link": "https://www.tbsnews.net/bangladesh/gas-cylinder-explosion-triggers-fire-garment-factory-compound-ashulia-1548496",
-      "pubDate": "Sun, 20 Sep 2026 20:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/21/814952443_1627222352410687_1476892022588445999_n.jpg",
-      "snippet": "The fire broke out after cylinders exploded in a gas-cylinder carrying covered van parked in front of the garment factory."
-    },
-    {
-      "title": "Bangladesh, Canada hopeful of high-level engagements on UNGA sidelines",
-      "link": "https://www.tbsnews.net/foreign-policy/bangladesh-canada-hopeful-high-level-engagements-unga-sidelines-1548476",
-      "pubDate": "Sun, 20 Sep 2026 20:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/20/canadian_high_commissioner_to_bangladesh_ajit_singh_meets_state_minister_for_foreign_affairs_humaiun_kobir.jpg",
-      "snippet": "Bangladesh, Canada eye high-level UNGA engagements amid trade, climate talks."
-    },
-    {
-      "title": "Apratim murder case: 3 accused give confessional statements, sent to jail",
-      "link": "https://www.tbsnews.net/bangladesh/court/apratim-murder-case-4-accused-express-willingness-give-confessional-statements",
-      "pubDate": "Sun, 20 Sep 2026 20:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/20/comilla_apratim.jpg",
-      "snippet": "Tuhin, Fahad and Kamrul confess to beating the seventh-grade student to death, while the fourth accused, Siam, remains under questioning."
-    },
-    {
-      "title": "2 killed as train hits auto-rickshaw in Ctg's Satkania; locals block railway line in protest",
-      "link": "https://www.tbsnews.net/bangladesh/crime/2-killed-train-hits-auto-rickshaw-ctgs-satkania-locals-block-railway-line-protest",
-      "pubDate": "Sun, 20 Sep 2026 20:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/09/05/c.jpg",
-      "snippet": "Two trains delayed before services resume around 4pm."
-    },
-    {
-      "title": "Education minister urges schools to help tackle drug abuse",
-      "link": "https://www.tbsnews.net/bangladesh/education-minister-urges-schools-help-tackle-drug-abuse-1548466",
-      "pubDate": "Sun, 20 Sep 2026 20:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/15/anm_ehsanul_hoque_milon.jpg",
-      "snippet": "Milon says teachers, parents and community leaders must work together to address the problem."
-    },
-    {
       "title": "Bangladesh airports improve scores in latest UK security audit",
       "link": "https://www.tbsnews.net/economy/aviation/bangladesh-airports-improve-scores-latest-uk-security-audit-1548461",
       "pubDate": "Sun, 20 Sep 2026 20:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/12/23/dhaka_airport_0.jpeg",
       "snippet": "Shahjalal scored 94% and Osmani 98%, while cargo security achieved 100% compliance in the latest assessment."
     },
@@ -166,72 +276,6 @@
       "snippet": "NBR officials found imported mobile chargers and branded headphones prepared for supply during a raid at the company's Dhamrai factory."
     },
     {
-      "title": "MP Gazi Nazrul's second wife found dead in NAM Bhaban flat",
-      "link": "https://www.tbsnews.net/node/1548446",
-      "pubDate": "Sun, 20 Sep 2026 19:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/20/nam-bhaban_0.jpg",
-      "snippet": "Her body was recovered from Flat 203 on the third floor of Building 5 of NAM Bhaban this evening."
-    },
-    {
-      "title": "UGC plans to allow foreign universities to open branches in Bangladesh",
-      "link": "https://www.tbsnews.net/bangladesh/ugc-plans-allow-foreign-universities-open-branches-bangladesh-1548441",
-      "pubDate": "Sun, 20 Sep 2026 19:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/12/pursuit_illustration_6_7_22.png",
-      "snippet": "Policy will also facilitate overseas expansion by local universities."
-    },
-    {
-      "title": "July Charter to be implemented as signed, including dissenting notes: Home minister",
-      "link": "https://www.tbsnews.net/bangladesh/july-charter-be-implemented-signed-including-dissenting-notes-home-minister-1548436",
-      "pubDate": "Sun, 20 Sep 2026 19:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/22/salahuddin_ahmed.png",
-      "snippet": "He says govt wants to place the constitutional amendment bill in parliament as soon as possible."
-    },
-    {
-      "title": "Family members of July martyr Mugdho meets president",
-      "link": "https://www.tbsnews.net/bangladesh/family-members-july-martyr-mugdho-meets-president-1548396",
-      "pubDate": "Sun, 20 Sep 2026 19:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/20/family_members_of_july_martyr_mugdho_meets_president.jpg",
-      "snippet": "Mugdho’s family briefed the president on government measures for the welfare and rehabilitation of families of July Mass Uprising martyrs and the injured."
-    },
-    {
-      "title": "ASK raises concern over child safety as 36 missing children found dead after going missing in 8 months",
-      "link": "https://www.tbsnews.net/bangladesh/ask-raises-concern-over-child-safety-36-missing-children-found-dead-after-going-missing-8",
-      "pubDate": "Sun, 20 Sep 2026 19:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/23/untitled_design_1.png",
-      "snippet": "Police recorded 15,717 missing-child cases from January to July, with 2,038 children still unaccounted for, though data may be outdated."
-    },
-    {
-      "title": "Humaiun seeks Algeria's fertiliser cooperation for food security",
-      "link": "https://www.tbsnews.net/foreign-policy/humaiun-seeks-algerias-fertilizer-cooperation-food-security-1548386",
-      "pubDate": "Sun, 20 Sep 2026 18:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/20/a_russain_voter_1.png",
-      "snippet": "He also sought enhanced cooperation with Algeria in the energy sector to help ensure Bangladesh's long-term energy security."
-    },
-    {
       "title": "MEP Group plans Tk200cr investment to expand market",
       "link": "https://www.tbsnews.net/economy/industry/mep-group-plans-tk200cr-investment-expand-market-1548376",
       "pubDate": "Sun, 20 Sep 2026 18:50:00 +0600",
@@ -243,24 +287,13 @@
       "snippet": "The proposed Mirsarai plant is expected to boost production capacity, improve product quality and diversify MEP’s electrical product range."
     },
     {
-      "title": "Speakers call for Satkhira safe-water project to be replicated in other coastal areas",
-      "link": "https://www.tbsnews.net/bangladesh/speakers-call-satkhira-safe-water-project-be-replicated-other-coastal-areas-1548371",
-      "pubDate": "Sun, 20 Sep 2026 18:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/20/safe_water.jpg",
-      "snippet": "The Satkhira project has provided safe water to more than 41,000 people, including over 16,000 children, since August 2023."
-    },
-    {
       "title": "Why was RAB accused of violence and corruption – and can SRB avoid the same fate?",
       "link": "https://www.tbsnews.net/analysis/why-was-rab-accused-violence-and-corruption-and-can-srb-avoid-same-fate-1548426",
       "pubDate": "Sun, 20 Sep 2026 18:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Analysis",
+      "color": "#5d4037",
+      "bg": "#efebe9",
+      "icon": "🔍",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/10/rab.jpeg",
       "snippet": "RAB’s record raises a fundamental question: can changing the force’s name and legal structure address the institutional conditions that enabled abuse?"
     },
@@ -394,7 +427,7 @@
       "bg": "#e8f5e9",
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/02/29/industriall_logo.png",
-      "snippet": ""
+      "snippet": "IBC demands reconstitution of the wage board by 30 September and a new minimum wage for garment workers by 30 November."
     },
     {
       "title": "New pay scale scraps special benefit, cuts Pohela Boishakh allowance to 15%",
@@ -584,17 +617,6 @@
       "snippet": "The hacks occurred in May during a cybersecurity test conducted by Irregular, an independent company that conducts cybersecurity evaluations."
     },
     {
-      "title": "Operators claim fewer cargoes being allocated for Ctg port's general berth",
-      "link": "https://www.tbsnews.net/economy/operators-claim-fewer-cargoes-being-allocated-ctg-ports-general-berth-1546771",
-      "pubDate": "Sat, 19 Sep 2026 00:25:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/12/ctg_port_photo2.jpg",
-      "snippet": "Operators say lower-than-expected traffic is leaving workers idle and fixed costs unrecovered; they prefer more cargo over higher handling rates."
-    },
-    {
       "title": "Health Minister stresses strengthening health cooperation with China",
       "link": "https://www.tbsnews.net/bangladesh/health/health-minister-stresses-strengthening-health-cooperation-china-1546721",
       "pubDate": "Fri, 18 Sep 2026 21:50:00 +0600",
@@ -681,18 +703,7 @@
       "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/18/oneplus-15-0998.jpg",
       "snippet": "The company has not announced an exact launch date, but it is widely expected to arrive in China in October 2026."
-    },
-    {
-      "title": "79 deaths in first 17 days of Sept as dengue situation takes turn for worse",
-      "link": "https://www.tbsnews.net/bangladesh/health/79-deaths-first-17-days-sept-dengue-situation-takes-turn-worse-1546146",
-      "pubDate": "Fri, 18 Sep 2026 10:35:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/10/27/dengue_ward_rajibdhar_0288.jpg",
-      "snippet": "Besides, a total of 22,554 dengue patients were admitted to hospitals across the country in the first 17 days of September, which is also the highest monthly figure so far this year."
     }
   ],
-  "updatedAt": "2026-09-21T01:22:13.457Z"
+  "updatedAt": "2026-09-21T06:48:26.151Z"
 }
