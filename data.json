@@ -1,6 +1,105 @@
 {
   "news": [
     {
+      "title": "PM Tarique meets Haiti counterpart, discusses bilateral ties",
+      "link": "https://www.tbsnews.net/foreign-policy/pm-tarique-meets-haiti-counterpart-discusses-bilateral-ties-1551081",
+      "pubDate": "Wed, 23 Sep 2026 00:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/23/pm_at_unga.jpg",
+      "snippet": "They also exchanged views on ways to further strengthen cooperation for the mutual benefit of the two countries and explore opportunities to expand bilateral ties in various fields."
+    },
+    {
+      "title": "Woman killed after being run over by DNCC-hired garbage truck in Korail",
+      "link": "https://www.tbsnews.net/bangladesh/woman-killed-after-being-run-over-dncc-hired-garbage-truck-korail-1551071",
+      "pubDate": "Wed, 23 Sep 2026 00:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/28/dead_2.png",
+      "snippet": "The truck was hired by DNCC from a contractor under an outsourcing arrangement, says a city corporation official."
+    },
+    {
+      "title": "Yunus highlights social business, youth and technology at 81st UNGA",
+      "link": "https://www.tbsnews.net/bangladesh/prof-yunus-highlights-social-business-youth-and-technology-81st-unga-1551076",
+      "pubDate": "Wed, 23 Sep 2026 00:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/23/yunus.jpg",
+      "snippet": "He reflected on the 50-year journey of microfinance, the work of Grameen America and the role of social business in addressing various challenges facing society, particularly in healthcare."
+    },
+    {
+      "title": "Uttara-Ashulia CNG stations to halt gas supply to vehicles with unauthorised cylinders",
+      "link": "https://www.tbsnews.net/economy/energy/uttara-ashulia-cng-stations-halt-gas-supply-vehicles-unauthorised-cylinders-1551061",
+      "pubDate": "Wed, 23 Sep 2026 00:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/23/cng_station.jpg",
+      "snippet": "Titas formally prohibits gas supplies to the vehicles but has always verbally instructed stations to supply them with gas, says joint secretary of the Bangladesh CNG Association."
+    },
+    {
+      "title": "Stakeholders call for greater competition in Bangladesh’s international bandwidth market",
+      "link": "https://www.tbsnews.net/economy/industry/stakeholders-call-greater-competition-bangladeshs-international-bandwidth-market",
+      "pubDate": "Wed, 23 Sep 2026 00:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/07/25/internet.jpg",
+      "snippet": "They recommend private investment in submarine cables, open access to landing stations and stable policies to make internet services more affordable."
+    },
+    {
+      "title": "France seeks deeper Bangladesh ties without excluding other partners",
+      "link": "https://www.tbsnews.net/foreign-policy/france-seeks-deeper-bangladesh-ties-without-excluding-other-partners-1551041",
+      "pubDate": "Tue, 22 Sep 2026 23:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/03/12/france_bd_flag.png",
+      "snippet": "France, Europe, we never say to Bangladesh, 'you choose between us and them'. We build partnership. Partnership is not excluding. It is involving, French Ambassador to Bangladesh Jean-Marc Séré-Charlet says."
+    },
+    {
+      "title": "PM holds separate talks with Bhutanese PM, Maldives vice president",
+      "link": "https://www.tbsnews.net/foreign-policy/pm-holds-separate-talks-bhutanese-pm-maldives-vice-president-1551046",
+      "pubDate": "Tue, 22 Sep 2026 23:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/22/pm_with_bhutan_pm.png",
+      "snippet": "The leaders also exchanged views on expanding existing areas of cooperation for the mutual benefit of the countries and the welfare of their peoples."
+    },
+    {
+      "title": "WB ready to support Bangladesh amid external economic shocks: Khosru",
+      "link": "https://www.tbsnews.net/foreign-policy/wb-ready-support-bangladesh-amid-external-economic-shocks-khosru-1551036",
+      "pubDate": "Tue, 22 Sep 2026 23:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/22/khosru_at_unga.jpg",
+      "snippet": "Bangladesh and the World Bank agreed to work together to ensure that supply-chain disruptions do not hamper the country’s development trajectory, says the minister."
+    },
+    {
+      "title": "PM, WB president discuss development priorities, support for Bangladesh",
+      "link": "https://www.tbsnews.net/foreign-policy/pm-wb-president-discuss-development-priorities-support-bangladesh-1551031",
+      "pubDate": "Tue, 22 Sep 2026 23:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/22/pm_with_wb_president.png",
+      "snippet": "Earlier in the day, Prime Minister Tarique Rahman attended a welcome breakfast hosted by UN Secretary-General António Guterres for heads of delegation and their spouses."
+    },
+    {
       "title": "If my son was targeted for my action against drug dealers, I won't accept it: Apratim's mother",
       "link": "https://www.tbsnews.net/bangladesh/if-my-son-was-targeted-my-action-against-drug-dealers-i-wont-accept-it-apratims-mother",
       "pubDate": "Tue, 22 Sep 2026 22:00:00 +0600",
@@ -122,83 +221,6 @@
       "snippet": "The state may appoint lawyers for the accused if no private lawyer agrees to represent them, says Public Prosecutor Kaimul Haque Rinku."
     },
     {
-      "title": "Some Dhaka bus routes charge Tk5 more as new fares await rollout",
-      "link": "https://www.tbsnews.net/bangladesh/transport/some-dhaka-bus-routes-charge-tk5-more-new-fares-await-rollout-1550886",
-      "pubDate": "Tue, 22 Sep 2026 20:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/11/10/local_bus_0.jpg",
-      "snippet": "Passengers on some routes report being charged Tk5 more, while others continue to pay the old fares as operators await the revised fare structure"
-    },
-    {
-      "title": "Dhaka airport scuffle: Caab says man tried to enter through exit gate",
-      "link": "https://www.tbsnews.net/bangladesh/dhaka-airport-scuffle-caab-says-man-tried-enter-through-exit-gate-1550806",
-      "pubDate": "Tue, 22 Sep 2026 19:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/01/14/dhaka_airport_0.jpeg",
-      "snippet": "The man had gone to the airport to receive an arriving passenger and attempted to enter through the exit gate."
-    },
-    {
-      "title": "PM mourns death of Sheikh Ahmed bin Rashid Al Maktoum",
-      "link": "https://www.tbsnews.net/foreign-policy/pm-mourns-death-sheikh-ahmed-bin-rashid-al-maktoum-1550816",
-      "pubDate": "Tue, 22 Sep 2026 19:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/22/pm-sheikh_ahmed_bin_rashid_al_maktoum.png",
-      "snippet": ""
-    },
-    {
-      "title": "How can Gazi Nazrul retain MP status amid allegations, arrest? TIB asks",
-      "link": "https://www.tbsnews.net/bangladesh/how-can-gazi-nazrul-retain-mp-status-amid-allegations-arrest-tib-asks-1550801",
-      "pubDate": "Tue, 22 Sep 2026 19:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/ex-jamaat_mp_gazi_nazrul.png",
-      "snippet": "The anti-corruption watchdog calls for an impartial and independent investigation into Mariam's death and allegations of sextortion or sexual blackmail preceding it."
-    },
-    {
-      "title": "Sultanul Afreen Zunaid appointed new Fire Service DG",
-      "link": "https://www.tbsnews.net/bangladesh/sultanul-afreen-zunaid-appointed-new-fire-service-dg-1550781",
-      "pubDate": "Tue, 22 Sep 2026 19:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/11/05/fire_service.jpg",
-      "snippet": "He will replace Brigadier General Muhammad Jahed Kamal, who is returning to the Bangladesh Army after nearly two years at Fire Service."
-    },
-    {
-      "title": "PM joins opening session of 81st UN General Assembly",
-      "link": "https://www.tbsnews.net/foreign-policy/pm-joins-opening-session-81st-un-general-assembly-1550776",
-      "pubDate": "Tue, 22 Sep 2026 19:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/22/prime_minister_tarique_rahman_.png",
-      "snippet": "He participated in the opening session around 9am, following a welcome breakfast hosted by UN Secretary-General António Guterres for heads of delegation and their spouses."
-    },
-    {
-      "title": "Rajuk plans to approve building plans within 24 days: Housing minister",
-      "link": "https://www.tbsnews.net/bangladesh/rajuk-plans-approve-building-plans-within-24-days-housing-minister-1550771",
-      "pubDate": "Tue, 22 Sep 2026 19:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/22/housing_minister.jpg",
-      "snippet": "A separate master plan will also be prepared for Narayanganj alongside Rajuk’s existing master plan, says Zakaria Taher Sumon."
-    },
-    {
       "title": "AI must not become the newest form of resource extraction",
       "link": "https://www.tbsnews.net/thoughts/ai-must-not-become-newest-form-resource-extraction-1550766",
       "pubDate": "Tue, 22 Sep 2026 19:25:00 +0600",
@@ -224,23 +246,12 @@
       "title": "Dengue claims 5 more lives in 24hrs, daily hospital admissions hit record 1,872",
       "link": "https://www.tbsnews.net/bangladesh/health/dengue-claims-5-more-lives-24hrs-daily-hospital-admissions-hit-record-1872-1550721",
       "pubDate": "Tue, 22 Sep 2026 19:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/06/dengue.jpg",
       "snippet": "The country’s dengue death toll has reached 195, while 65,499 dengue cases have been reported so far this year."
-    },
-    {
-      "title": "UN reform essential for restoring trust: Japan tells UNGA President",
-      "link": "https://www.tbsnews.net/foreign-policy/un-reform-essential-restoring-trust-japan-tells-unga-president-1550746",
-      "pubDate": "Tue, 22 Sep 2026 19:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/22/khalil_japan_minister.jpg",
-      "snippet": "At the outset, Minister Motegi congratulated President Rahman on his assumption of the presidency of the General Assembly and stated his intention to cooperate to help build more resilient and effective United Nations."
     },
     {
       "title": "Samajtantrik Chhatra Front demands Ducsu election after reforms",
@@ -265,17 +276,6 @@
       "snippet": "A Tk10.50 buyback rate can put solar panels on rooftops. Whether it also reaches renters, survives a strained grid and outlasts the next fiscal squeeze depends on choices the government makes now"
     },
     {
-      "title": "Welding electrode makers seek duty relief on imported wire rod",
-      "link": "https://www.tbsnews.net/economy/welding-electrode-makers-seek-duty-relief-imported-wire-rod-1550676",
-      "pubDate": "Tue, 22 Sep 2026 18:30:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/22/welding_representational.jpeg",
-      "snippet": "Industry body says 88.51% duty on key raw material threatens local manufacturers, holds up consignments at Chattogram Port"
-    },
-    {
       "title": "From smart glasses to AI pins, privacy fears challenge tech's next big bet",
       "link": "https://www.tbsnews.net/tech/smart-glasses-ai-pins-privacy-fears-challenge-techs-next-big-bet-1550601",
       "pubDate": "Tue, 22 Sep 2026 17:40:00 +0600",
@@ -298,29 +298,7 @@
       "snippet": "A total of 1,257 new suspected measles cases were reported during the 24-hour period."
     },
     {
-      "title": "Consumers feel the pinch as oil, garlic, vegetable prices surge after fuel price hike",
-      "link": "https://www.tbsnews.net/economy/bazaar/loose-soybean-oil-garlic-and-vegetable-prices-surge-after-fuel-price-hike-1550261",
-      "pubDate": "Tue, 22 Sep 2026 14:20:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/07/30/kitchen_market_photo.1_1.jpg",
-      "snippet": "Egg prices have increased by Tk5 a dozen, while prices of various types of fish have increased by Tk20-50 per kg."
-    },
-    {
-      "title": "Govt decides to raise long-route, city bus fares by 17 poisha per km",
-      "link": "https://www.tbsnews.net/bangladesh/transport/govt-decides-raise-long-route-metropolitan-bus-fares-17-paisa-1550246",
-      "pubDate": "Tue, 22 Sep 2026 14:15:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/08/27/bus_transport_dhaka_road_1.jpg",
-      "snippet": "In April this year, following the fuel price hike at the time, bus fares were increased by 11 poisha per km after diesel prices were raised by Tk15 per litre."
-    },
-    {
-      "title": "Six lives find new beginnings through BMU's free liver transplant programme",
+      "title": "Super Specialized Hospital BMU completes 6 liver transplants, targets 24 annually",
       "link": "https://www.tbsnews.net/bangladesh/health/super-specialized-hospital-bmu-completes-6-free-liver-transplants-targets-24",
       "pubDate": "Tue, 22 Sep 2026 14:10:00 +0600",
       "category": "Health",
@@ -329,17 +307,6 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/22/811962258_1608068594377548_2915735660399288592_n.jpg",
       "snippet": "The vice-chancellor said BMU performed one liver transplant each in 2019 and 2023, but the procedures were not conducted regularly."
-    },
-    {
-      "title": "DSE to start compensating 17,332 affected investors from 28 September",
-      "link": "https://www.tbsnews.net/economy/stocks/dse-start-compensating-17332-affected-investors-28-september-1550221",
-      "pubDate": "Tue, 22 Sep 2026 13:45:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/07/dse.jpg",
-      "snippet": "Each affected investor will receive a maximum of Tk5 lakh against their validated claims, Maminul Islam said."
     },
     {
       "title": "Global Goal on Adaptation: What Nepal could have gained from earlier action ",
@@ -364,17 +331,6 @@
       "snippet": "Bangladesh today has stronger reserves and remittance flows, recovering gas supplies and meaningful policy room. Preparing for worst-case scenarios in the Middle East war will help protect the country as that room narrows"
     },
     {
-      "title": "How a Bangladeshi garment-maker is fighting the Middle East energy crunch",
-      "link": "https://www.tbsnews.net/economy/rmg/how-bangladeshi-garment-maker-fighting-middle-east-energy-crunch-1550181",
-      "pubDate": "Tue, 22 Sep 2026 13:00:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/22/bangladesh_rmg_yarn_dyeing_limited.jpg",
-      "snippet": "Since 2019, 4A has generated its own power, including through solar panels, making it an exception in Bangladesh's garment industry, the world's second-biggest exporter after China"
-    },
-    {
       "title": "Google fined $463m by EU regulator over location data breaches",
       "link": "https://www.tbsnews.net/tech/google-fined-463m-eu-regulator-over-location-data-breaches-1550116",
       "pubDate": "Tue, 22 Sep 2026 12:25:00 +0600",
@@ -397,17 +353,6 @@
       "snippet": "Four bird flu infections, all children, this year renew concerns over poultry exposure"
     },
     {
-      "title": "From bus fares to farming: Tk20 fuel hike spreads pain across economy",
-      "link": "https://www.tbsnews.net/economy/energy/bus-fares-farming-tk20-fuel-hike-spreads-pain-across-economy-1549851",
-      "pubDate": "Tue, 22 Sep 2026 00:35:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/22/fuel.png",
-      "snippet": "The adjustment marks the second fuel price hike since the BNP-led administration took office eight months ago."
-    },
-    {
       "title": "BB lets offshore banking units buy, sell forex directly, conduct currency swaps",
       "link": "https://www.tbsnews.net/economy/banking/bb-lets-offshore-banking-units-buy-sell-forex-directly-conduct-currency-swaps",
       "pubDate": "Mon, 21 Sep 2026 22:00:00 +0600",
@@ -422,23 +367,12 @@
       "title": "MD, anti-money laundering chief must jointly sign inspection reports, show-cause replies: BB",
       "link": "https://www.tbsnews.net/economy/banking/md-anti-money-laundering-chief-must-jointly-sign-inspection-reports-show-cause",
       "pubDate": "Mon, 21 Sep 2026 20:25:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/04/29/bangladesh_bank_bb_central_bank_2.jpg",
       "snippet": "Bangladesh Bank has recently found that compliance reports and explanations on such matters were being submitted without the signatures of the institutions’ chief executives."
-    },
-    {
-      "title": "Private ICDs raise container handling charges by 9.85% after diesel price hike",
-      "link": "https://www.tbsnews.net/economy/private-icds-raise-container-handling-charges-985-after-diesel-price-hike-1549606",
-      "pubDate": "Mon, 21 Sep 2026 20:05:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/13/ctg_port_4_1.jpg",
-      "snippet": "The revised rates took effect today after diesel prices rose by 17.4% to Tk135 per litre."
     },
     {
       "title": "AI safety measures failing to keep pace with technology: UN experts",
@@ -474,46 +408,24 @@
       "snippet": "The latest deaths take the country’s dengue death toll to 190 this year."
     },
     {
-      "title": "ADP implementation falls to record low 1.85% in first two months of FY27",
-      "link": "https://www.tbsnews.net/economy/adp-implementation-falls-record-low-185-first-two-months-fy27-1549391",
-      "pubDate": "Mon, 21 Sep 2026 18:00:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/13/adp.png",
-      "snippet": "Govt agencies spent Tk5,709.70 crore from the Tk3.09 lakh crore development budget during July-August."
-    },
-    {
       "title": "Govt lifts permission requirement for yarn, fabric imports",
       "link": "https://www.tbsnews.net/economy/industry/govt-lifts-permission-requirement-yarn-fabric-imports-knitwear-exporters-1549351",
       "pubDate": "Mon, 21 Sep 2026 17:45:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
+      "category": "Industry",
+      "color": "#f57c00",
+      "bg": "#fff3e0",
+      "icon": "🏭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/06/13/yarn.jpg",
       "snippet": "The permission requirement ran counter to ease of doing business, exporters say."
-    },
-    {
-      "title": "Fuel price hikes raise fears of higher essential costs",
-      "link": "https://www.tbsnews.net/economy/fuel-price-hike-raises-fears-further-rise-essentials-1549216",
-      "pubDate": "Mon, 21 Sep 2026 17:05:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/04/16/kitchen_market.jpg",
-      "snippet": "Prices of most essentials remain unchanged for now, but traders and consumers fear higher transport and supply costs could push them up in the coming days."
     },
     {
       "title": "Experts call for stronger IP framework as Bangladesh post-LDC graduation",
       "link": "https://www.tbsnews.net/economy/experts-call-stronger-ip-framework-bangladesh-post-ldc-graduation-1549196",
       "pubDate": "Mon, 21 Sep 2026 16:45:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
+      "category": "Industry",
+      "color": "#f57c00",
+      "bg": "#fff3e0",
+      "icon": "🏭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/21/813975670_1613046710261270_4948017701377199064_n.jpg",
       "snippet": "Stakeholders urge institutional reforms to protect industries."
     },
@@ -521,10 +433,10 @@
       "title": "Sonali Bank's H1 profit jumps 193% to Tk1,878cr on treasury gains, lower provisions",
       "link": "https://www.tbsnews.net/economy/banking/sonali-banks-h1-profit-jumps-193-tk1878cr-treasury-gains-lower-provisions-1549191",
       "pubDate": "Mon, 21 Sep 2026 16:40:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/21/sonali_bank_motijheel_facebook.jpg",
       "snippet": "The bank’s consolidated earnings per share (EPS) jumped to Tk41.47 in H1 2026, up significantly from Tk14.14 in the corresponding period last year."
     },
@@ -551,17 +463,6 @@
       "snippet": "The JnU vice-chancellor briefed the President on the university's overall academic activities."
     },
     {
-      "title": "DCCI calls for stronger IPR framework after LDC graduation",
-      "link": "https://www.tbsnews.net/economy/dcci-calls-stronger-ipr-framework-after-ldc-graduation-1549056",
-      "pubDate": "Mon, 21 Sep 2026 15:05:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/21/dcci.jpg",
-      "snippet": "DCCI President called for a shift from production volume to innovation, branding, technology transfer and value addition."
-    },
-    {
       "title": "Sammilito Islami Bank customers apply to withdraw Tk6,975cr in 20 days; Tk3,245cr disbursed so far",
       "link": "https://www.tbsnews.net/economy/banking/sammilito-islami-bank-customers-apply-withdraw-tk6975cr-20-days-tk3245cr-disbursed",
       "pubDate": "Mon, 21 Sep 2026 13:35:00 +0600",
@@ -571,50 +472,6 @@
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/07/sammilito_islami_bank.jpg",
       "snippet": "32,074 new accounts opened, bringing in Tk378 crore in new deposits."
-    },
-    {
-      "title": "Costlier fuel to burden businesses, hit export competitiveness: Shams Mahmud",
-      "link": "https://www.tbsnews.net/economy/costlier-fuel-burden-businesses-hit-export-competitiveness-shams-mahmud-1548966",
-      "pubDate": "Mon, 21 Sep 2026 13:30:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/08/29/shams-mahmud.png",
-      "snippet": "The per-litre prices of diesel, octane, petrol, and kerosene have been raised to Tk135, Tk165, Tk160, and Tk155, respectively."
-    },
-    {
-      "title": "Fuel rate jump will create extra pressure across all sectors, trigger job losses: Parvez",
-      "link": "https://www.tbsnews.net/economy/fuel-price-hike-will-create-extra-pressure-across-all-sectors-trigger-job-losses-parvez",
-      "pubDate": "Mon, 21 Sep 2026 13:20:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/12/anwar-ul-alam-chowdhury-president-bci.jpg",
-      "snippet": "The fuel price hike will raise industrial and transport costs while putting businesses under further pressure, he said."
-    },
-    {
-      "title": "Fuel price hike to intensify inflation, squeeze households: Fahmida Khatun",
-      "link": "https://www.tbsnews.net/economy/fuel-price-hike-intensify-inflation-squeeze-households-fahmida-khatun-1548916",
-      "pubDate": "Mon, 21 Sep 2026 13:00:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/27/fahmida.png",
-      "snippet": "\"Poor and lower-middle-income families will suffer disproportionately because most of their income is spent on daily necessities,\" says the economist."
-    },
-    {
-      "title": "For every 100 educated Bangladeshi youths entering job market, 36 remain unemployed: IMF",
-      "link": "https://www.tbsnews.net/economy/every-100-educated-bangladeshi-youths-entering-job-market-36-remain-unemployed-imf-1548881",
-      "pubDate": "Mon, 21 Sep 2026 12:40:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/10/26/unemployment.jpg",
-      "snippet": "Youth unemployment is elevated across Asia, but it is often highest among those with the most advanced education, according to the IMF."
     },
     {
       "title": "NHS trial uses smart sensors to support people living with dementia",
@@ -631,23 +488,12 @@
       "title": "StanChart Bangladesh plans to close retail banking operation",
       "link": "https://www.tbsnews.net/economy/banking/stanchart-bangladesh-plans-close-retail-banking-operation-selling-portfolio-1548741",
       "pubDate": "Mon, 21 Sep 2026 10:45:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/21/813804266_2047225876666303_2123854374973384758_n.png",
       "snippet": "The bank approached some banks informally and asked them to prepare for a formal process to acquire the business"
-    },
-    {
-      "title": "Fuel price hike to push up transport and production costs, worsen inflationary pressure: Selim Raihan",
-      "link": "https://www.tbsnews.net/economy/fuel-price-hike-push-transport-and-production-costs-worsen-inflationary-pressure-selim",
-      "pubDate": "Mon, 21 Sep 2026 10:05:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/21/selim_raihan_sanem_latest.jpg",
-      "snippet": "Economist Selim Raihan identifies three major concerns facing the country’s economy."
     },
     {
       "title": "MEP Group plans Tk200cr investment to expand market",
@@ -749,5 +595,5 @@
       "snippet": "Astra accounted for about 13% of enterprise AI spending tracked by corporate expense platform Ramp, compared with about 8% for Anthropic’s Claude Fable, according to the latest data."
     }
   ],
-  "updatedAt": "2026-09-22T17:09:15.517Z"
+  "updatedAt": "2026-09-22T20:23:05.219Z"
 }
