@@ -1,6 +1,72 @@
 {
   "news": [
     {
+      "title": "Woman 'attacked, beaten' while feeding street dogs in Banasree",
+      "link": "https://www.tbsnews.net/bangladesh/woman-attacked-beaten-while-feeding-street-dogs-banasree-1552171",
+      "pubDate": "Thu, 24 Sep 2026 01:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/24/819375519_1566088181306677_2336721368992051698_n.jpg",
+      "snippet": "She says several people beat and harassed her for about half an hour, followed by further questioning when she returned with police."
+    },
+    {
+      "title": "Battery-run autorickshaw driver 'assaults' Ctg traffic cop, bites sergeant before fleeing",
+      "link": "https://www.tbsnews.net/bangladesh/battery-run-autorickshaw-driver-assaults-ctg-traffic-cop-bites-sergeant-fleeing-1552166",
+      "pubDate": "Thu, 24 Sep 2026 01:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/24/ctg_autorickshaw.jpg",
+      "snippet": "Driver allegedly grabbed a traffic policeman by the collar and bit Sergeant Arman Hossain when he intervened"
+    },
+    {
+      "title": "Bangladesh, Croatia seek to deepen trade, investment ties",
+      "link": "https://www.tbsnews.net/foreign-policy/bangladesh-croatia-seek-deepen-trade-investment-ties-1552161",
+      "pubDate": "Thu, 24 Sep 2026 00:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/24/820501037_2837480097450424_6847912268008745351_n.jpg",
+      "snippet": "The two leaders also discussed cooperation in skilled manpower, education, technology and multilateral forums."
+    },
+    {
+      "title": "Rohingya crisis, bilateral trade, diplomacy feature PM Tarique's UNGA engagements",
+      "link": "https://www.tbsnews.net/bangladesh/rohingya-crisis-bilateral-trade-diplomacy-feature-pm-tariques-unga-engagements-1552151",
+      "pubDate": "Thu, 24 Sep 2026 00:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/22/prime_minister_tarique_rahman_.png",
+      "snippet": "PM to deliver his address at UNGA today"
+    },
+    {
+      "title": "Govt to shut illegal autorickshaw charging points, tighten roadwork rules to ease traffic ",
+      "link": "https://www.tbsnews.net/bangladesh/govt-shut-illegal-autorickshaw-charging-points-tighten-roadwork-rules-ease-traffic",
+      "pubDate": "Wed, 23 Sep 2026 23:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/01/syed_zakir_hossain_1.jpg",
+      "snippet": "The decisions were taken at an inter-ministerial meeting chaired by Home Minister Salahuddin Ahmed on 15 September, attended by representatives of relevant agencies."
+    },
+    {
+      "title": "EC resumes voter transfer activities",
+      "link": "https://www.tbsnews.net/bangladesh/ec-resumes-voter-transfer-activities-1552136",
+      "pubDate": "Wed, 23 Sep 2026 23:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/election_commission_img.jpg",
+      "snippet": "The release instructed field-level offices to receive applications for voter transfers as before,conduct necessary verification and issue and settle the applications accordingly. The letter has been sent to all upazila and thana election officers."
+    },
+    {
       "title": "UP elections: Chairman candidates' security deposit set at Tk25,000",
       "link": "https://www.tbsnews.net/bangladesh/elections-chairman-candidates-security-deposit-set-tk25000-1552111",
       "pubDate": "Wed, 23 Sep 2026 22:10:00 +0600",
@@ -34,15 +100,15 @@
       "snippet": "Teen was earlier detained by people at the scene and handed over to police, who released him after questioning"
     },
     {
-      "title": "NBR foils Tk16.44cr revenue evasion bid",
+      "title": "Cigarette raw material imported in name of non-existent company",
       "link": "https://www.tbsnews.net/nbr/nbr-foils-tk1644cr-revenue-evasion-bid-1552086",
       "pubDate": "Wed, 23 Sep 2026 22:00:00 +0600",
       "category": "Economy",
       "color": "#2e7d32",
       "bg": "#e8f5e9",
       "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/05/25/tax_1.jpg",
-      "snippet": "Cigarette raw materials being imported in the name of non-existent firms to dodge customs."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/11/bat_tobacco_cigarette.jpg",
+      "snippet": "According to the NBR, 3,63,000kg of Acetate Tow was imported in the name of the company within just one year and had already been cleared from customs, raising concerns within the revenue administration."
     },
     {
       "title": "Five shot in clash between two groups in Narail",
@@ -177,70 +243,15 @@
       "snippet": "Police detained the truck driver involved in the crash."
     },
     {
-      "title": " Ctg Port authority takes six initiatives to digitise port services",
-      "link": "https://www.tbsnews.net/bangladesh/ctg-port-authority-takes-six-initiatives-digitise-port-services-1551996",
-      "pubDate": "Wed, 23 Sep 2026 21:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/23/ctg_port.png",
-      "snippet": "The One-Stop Service Center will also provide real-time document verification, bill generation and confirmation, along with ICD integration."
-    },
-    {
-      "title": "Bangladesh can cut energy import risks through electrification: IEA",
-      "link": "https://www.tbsnews.net/economy/energy/bangladesh-can-cut-energy-import-risks-through-electrification-iea-1551986",
-      "pubDate": "Wed, 23 Sep 2026 21:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/20/chatgpt-image-aug-20-2026-01_52_27-pm.jpg",
-      "snippet": "Transport, textiles, food processing and agriculture offer major opportunities, but a stronger power grid is key"
-    },
-    {
-      "title": "ACC approves legal action against 36, including former MPs, mayors over wealth, graft allegations",
-      "link": "https://www.tbsnews.net/bangladesh/corruption/acc-approves-legal-action-against-32-including-former-mps-mayors-over-wealth",
-      "pubDate": "Wed, 23 Sep 2026 20:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/08/17/acc-tbs.jpg",
-      "snippet": "ACC Secretary Md Saidur Rahman Khan disclosed the decisions at the commission’s regular media briefing"
-    },
-    {
-      "title": "Govt to provide AI training for primary school teachers: Bobby Hajjaj",
-      "link": "https://www.tbsnews.net/bangladesh/govt-provide-ai-training-primary-school-teachers-bobby-hajjaj-1551971",
-      "pubDate": "Wed, 23 Sep 2026 20:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/20/bobby_hajjaj.jpg",
-      "snippet": "Teachers need technology skills and innovative capacity to make learning more effective and inclusive, he says."
-    },
-    {
       "title": "Is Rangpur emerging as a new anthrax cluster?",
       "link": "https://www.tbsnews.net/bangladesh/health/rangpur-emerging-new-anthrax-cluster-1551966",
       "pubDate": "Wed, 23 Sep 2026 20:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/01/anthrax.jpg",
       "snippet": "IEDCR has sent a team to investigate 34 infections linked to meat from a sick cow, amid anthrax outbreaks reported in several northern districts this year and last year."
-    },
-    {
-      "title": "Biman to buy 11 more aircraft from Boeing, US envoy welcomes deal to be signed in New York",
-      "link": "https://www.tbsnews.net/bangladesh/biman-buy-11-more-aircraft-boeing-us-envoy-welcomes-deal-be-signed-new-york-1551956",
-      "pubDate": "Wed, 23 Sep 2026 20:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/23/biman_boeing_deal.jpg",
-      "snippet": "The ambassador also said he was looking forward to watching the signing ceremony in New York."
     },
     {
       "title": "Prioritise technical, vocational education: Minister",
@@ -353,7 +364,7 @@
       "snippet": "The central bank will assess the impact of domestic and global shocks on inflation and economic growth before adjusting the rate."
     },
     {
-      "title": "Measles: Death toll reaches 1,076 as 11 more children die in 24hrs",
+      "title": "11 more die from measles ",
       "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-1076-5-more-children-die-24hrs-1551551",
       "pubDate": "Wed, 23 Sep 2026 16:45:00 +0600",
       "category": "Health",
@@ -361,7 +372,7 @@
       "bg": "#fce4ec",
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/15/measles.jpg",
-      "snippet": "Of the total, 975 deaths are suspected measles-related deaths, while 101 have been confirmed through laboratory tests."
+      "snippet": "Dengue death toll crosses 200 mark."
     },
     {
       "title": "Mongla Port earns record Tk387.95cr revenue in FY26",
@@ -848,5 +859,5 @@
       "snippet": "The bank approached some banks informally and asked them to prepare for a formal process to acquire the business"
     }
   ],
-  "updatedAt": "2026-09-23T17:43:50.386Z"
+  "updatedAt": "2026-09-23T21:09:38.225Z"
 }
