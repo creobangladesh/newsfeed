@@ -1,147 +1,257 @@
 {
   "news": [
     {
-      "title": "PM discusses Middle East tensions, safety of Bangladeshi workers with Iran president",
-      "link": "https://www.tbsnews.net/foreign-policy/pm-tarique-rahman-meets-iran-president-pezeshkian-unga-sidelines-1552201",
-      "pubDate": "Thu, 24 Sep 2026 07:45:00 +0600",
+      "title": "President releases fish fingerlings into Bangabhaban's Singha Pond",
+      "link": "https://www.tbsnews.net/bangladesh/president-releases-fish-fingerlings-bangabhabans-singha-pond-1552536",
+      "pubDate": "Thu, 24 Sep 2026 14:30:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/24/un_unga_pezeshkian_tarique_rahman.png",
-      "snippet": "State Minister for Foreign Affairs Humaiun Kobir and Prime Minister’s Adviser Mahdi Amin briefed journalists on the meeting at a press briefing later in the day at the Hyatt Grand Central New York hotel."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/30/chatgpt_image_aug_30_2026_02_30_34_pm.png",
+      "snippet": "At the time, Mirza Fakhrul Islam released 160 kilograms of Rui, 120 kilograms of Catla, 80 kilograms of Mrigal and 40 kilograms of Kalibaus fish fingerlings in the Singha Pond, a press release from the President's Press Wing said."
+    },
+    {
+      "title": "Bangladesh yet to fully utilise maritime sector's potential: Shipping minister ",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-yet-fully-utilise-maritime-sectors-potential-shipping-minister-1552516",
+      "pubDate": "Thu, 24 Sep 2026 14:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/24/received_1127472653272836_0.jpeg",
+      "snippet": "The minister also said the government had already identified several obstacles in the sector and would take steps to remove them."
+    },
+    {
+      "title": "Chinese banks interested in financing Dhaka elevated expressways ",
+      "link": "https://www.tbsnews.net/bangladesh/chinese-banks-interested-financing-dhaka-elevated-expressways-1552501",
+      "pubDate": "Thu, 24 Sep 2026 13:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/24/image-427787-1790236003.jpg",
+      "snippet": "He directed the concerned authorities to complete construction of the up-ramp adjacent to Panthakunja Park by December 2026 and open it to traffic. He requested the delegation and other concerned parties to take the necessary measures accordingly."
+    },
+    {
+      "title": "Trawler sinks in rough sea, 9 fishermen rescued",
+      "link": "https://www.tbsnews.net/bangladesh/trawler-sinks-rough-sea-9-fishermen-rescued-1552491",
+      "pubDate": "Thu, 24 Sep 2026 13:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/11/09/ctg_weather_photos_6.jpg",
+      "snippet": "18 stranded after engine failure"
+    },
+    {
+      "title": "Complete shutdown continues at Cuet for 3rd day, students demand reinstate of VC Sayem",
+      "link": "https://www.tbsnews.net/bangladesh/education/complete-shutdown-continues-cuet-3rd-day-students-demand-reinstate-vc-sayem",
+      "pubDate": "Thu, 24 Sep 2026 13:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/24/cuet_protest_1.jpg",
+      "snippet": "The students also continued a mass signature campaign that began yesterday."
+    },
+    {
+      "title": "Xiaomi 18 Fold takes aim at iPhone with lighter build, bigger battery",
+      "link": "https://www.tbsnews.net/tech/xiaomi-18-fold-takes-aim-iphone-lighter-build-bigger-battery-1552486",
+      "pubDate": "Thu, 24 Sep 2026 13:45:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/24/xiaomi_folded_.jpg",
+      "snippet": "The device features a 5.4-inch cover display that unfolds into a 7.6-inch inner screen."
+    },
+    {
+      "title": "No storm can hold back forward march of Dhaka-Beijing relations: Ambassador Yao",
+      "link": "https://www.tbsnews.net/foreign-policy/no-storm-can-hold-back-forward-march-dhaka-beijing-relations-ambassador-yao-1552471",
+      "pubDate": "Thu, 24 Sep 2026 13:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/24/6967562.jpg",
+      "snippet": "This year also marks the 51st anniversary of the establishment of diplomatic ties between Bangladesh and China, as well as the 10th anniversary of China-Bangladesh Belt and Road cooperation."
+    },
+    {
+      "title": "DNCC opens Aftabnagar-Banasree Tk13.29cr footbridge ",
+      "link": "https://www.tbsnews.net/bangladesh/dncc-opens-aftabnagar-banasree-tk1329cr-footbridge-1552456",
+      "pubDate": "Thu, 24 Sep 2026 13:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/24/813911499_1436931941213767_2085980369668382718_n.jpg",
+      "snippet": "“Following the prime minister’s directive, the bridge is being formally inaugurated today,” he said."
+    },
+    {
+      "title": "PM to address UNGA in Bangla at 3am on Friday ",
+      "link": "https://www.tbsnews.net/bangladesh/pm-address-unga-bangla-3am-friday-1552446",
+      "pubDate": "Thu, 24 Sep 2026 13:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/24/9012371.jpg",
+      "snippet": "This will be Tarique Rahman’s first address to the UN General Assembly since he became prime minister on 17 February after the BNP won."
+    },
+    {
+      "title": "Worker’s body recovered from elevator shaft in Demra ",
+      "link": "https://www.tbsnews.net/bangladesh/workers-body-recovered-elevator-shaft-demra-1552421",
+      "pubDate": "Thu, 24 Sep 2026 12:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/14/1725601968-unb_newswire.jpg",
+      "snippet": "The body was sent to the morgue of Dhaka Medical College Hospital for autopsy yesterday (23 September) afternoon."
+    },
+    {
+      "title": "Dhaka calls for collective action to make right to development a reality",
+      "link": "https://www.tbsnews.net/foreign-policy/dhaka-calls-collective-action-make-right-development-reality-1552431",
+      "pubDate": "Thu, 24 Sep 2026 12:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/24/2247663.jpg",
+      "snippet": "It marked the 40th anniversary of the adoption of the UN Declaration on the Right to Development, which recognises development as an inalienable human right and calls for inclusive, sustainable, and participatory development."
+    },
+    {
+      "title": "2.75kg hilsa sells for Tk13,250 in Lakshmipur",
+      "link": "https://www.tbsnews.net/bangladesh/275kg-hilsa-sells-tk13250-lakshmipur-1552416",
+      "pubDate": "Thu, 24 Sep 2026 12:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/24/img_20260924_124021.jpg",
+      "snippet": "Bahar Mia, who bought the fish, said he would take the fish along to the Dhaka market."
+    },
+    {
+      "title": "22 teens break out of police station; 624 detained across Cumilla in anti-gang drive",
+      "link": "https://www.tbsnews.net/bangladesh/crime/22-teens-break-out-police-station-624-detained-across-cumilla-anti-gang-drive",
+      "pubDate": "Thu, 24 Sep 2026 12:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/24/cumilla_teen.jpg",
+      "snippet": "They later gathered in front of the station and chanted “Bhua Bhua” slogans."
+    },
+    {
+      "title": "Faqir Mahbub urges vigilance to maintain peace, democratic environment",
+      "link": "https://www.tbsnews.net/bangladesh/faqir-mahbub-urges-vigilance-maintain-peace-democratic-environment-1552401",
+      "pubDate": "Thu, 24 Sep 2026 12:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/24/24th_sep_pr_1.jpg",
+      "snippet": ""
+    },
+    {
+      "title": "Justice Debasish Roy Chowdhury sworn in as HC permanent judge",
+      "link": "https://www.tbsnews.net/bangladesh/justice-debasish-roy-chowdhury-sworn-hc-permanent-judge-1552386",
+      "pubDate": "Thu, 24 Sep 2026 12:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/24/image-427768-1790229300.jpg",
+      "snippet": "The President appointed Additional Judge of the High Court Division Justice Debasish Roy Chowdhury as a permanent judge of the same division."
+    },
+    {
+      "title": "11th Ayurveda Day celebrated at IGCC Dhaka",
+      "link": "https://www.tbsnews.net/bangladesh/11th-ayurveda-day-celebrated-igcc-dhaka-1552366",
+      "pubDate": "Thu, 24 Sep 2026 11:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/24/7628960.jpg",
+      "snippet": "High Commissioner of India Dinesh Trivedi highlighted Ayurveda as part of the shared knowledge traditions of India and Bangladesh."
+    },
+    {
+      "title": "Saimum Parvez calls for climate justice, fair climate finance at UNGA 81",
+      "link": "https://www.tbsnews.net/environment/climate-change/saimum-parvez-calls-climate-justice-fair-climate-finance-unga-81-1552311",
+      "pubDate": "Thu, 24 Sep 2026 11:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/24/818583184_1766900474534763_7857374902203998363_n.jpg",
+      "snippet": "He also stressed the need to strengthen the voice of vulnerable countries in international climate and development decision-making."
+    },
+    {
+      "title": "Defeated forces of 1971, 2024 trying to destabilise govt: Amit",
+      "link": "https://www.tbsnews.net/bangladesh/defeated-forces-1971-2024-trying-destabilise-govt-amit-1552306",
+      "pubDate": "Thu, 24 Sep 2026 11:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/24/image-427755-1790223899.jpg",
+      "snippet": "The state minister made the remarks while addressing a meeting organized by the Kushtia district unit of the BNP at the Disha Tower auditorium last night."
+    },
+    {
+      "title": "Tk1,459cr project to revamp Chattogram's highway connectivity, ease travel",
+      "link": "https://www.tbsnews.net/bangladesh/tk1459cr-project-revamp-chattograms-highway-connectivity-ease-travel-1552301",
+      "pubDate": "Thu, 24 Sep 2026 10:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/24/dhk_ctg_highway.jpg",
+      "snippet": "The roads will be widened, reconstructed, and strengthened, while drains, culverts, and road-protection structures will also be built."
+    },
+    {
+      "title": "Coast Guard seizes Indian sarees, Punjabis worth Tk7cr in Barguna",
+      "link": "https://www.tbsnews.net/bangladesh/coast-guard-seizes-indian-sarees-punjabis-worth-tk7cr-barguna-1552276",
+      "pubDate": "Thu, 24 Sep 2026 10:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/07/image-358542-1770456409.jpg",
+      "snippet": "During the operation, Coast Guard personnel searched a suspicious fishing boat and a covered van and recovered the Indian clothing items, which had allegedly been brought into the country by evading customs duties."
+    },
+    {
+      "title": "Banglalink gets nod to launch Starlink-powered satellite service to connect phones in remote areas",
+      "link": "https://www.tbsnews.net/bangladesh/banglalink-gets-nod-launch-starlink-powered-satellite-service-connect-phones-remote-areas",
+      "pubDate": "Thu, 24 Sep 2026 10:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/24/banglalink_starlink.jpg",
+      "snippet": "Banglalink’s move follows a two-month proof-of-concept trial conducted in areas including Bandarban and Sandwip."
+    },
+    {
+      "title": "Meta bets on wearable AI, new AI agent as Zuckerberg pushes back against AI doom",
+      "link": "https://www.tbsnews.net/tech/meta-bets-wearable-ai-new-ai-agent-zuckerberg-pushes-back-against-ai-doom-1552251",
+      "pubDate": "Thu, 24 Sep 2026 09:50:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/11/28/mark_zuckerberg.jpg",
+      "snippet": "Zuckerberg has distanced himself and Meta from recent calls by rival companies for a coordinated slowdown in the development of advanced artificial intelligence, arguing that individual AI labs can and should ensure their technologies are safe."
     },
     {
       "title": "Biman signs Boeing deal for 11 more aircraft",
       "link": "https://www.tbsnews.net/economy/aviation/biman-signs-boeing-deal-11-more-aircraft-1552196",
       "pubDate": "Thu, 24 Sep 2026 07:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/24/unga_biman_boeing_purchase.jpg",
       "snippet": "Airline's second purchase this year raises planned Boeing acquisitions to 25 Dreamliner and 737 MAX jets"
-    },
-    {
-      "title": "Saudi skill test gets costlier, but low-paid Bangladeshi workers see no wage gain",
-      "link": "https://www.tbsnews.net/bangladesh/migration/saudi-skill-test-gets-costlier-low-paid-bangladeshi-workers-see-no-wage-gain",
-      "pubDate": "Thu, 24 Sep 2026 07:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/12/24/migrant_workers_final_0.jpeg",
-      "snippet": "The increase comes despite Bangladesh’s efforts to reduce the testing fee, adding to costs migrant workers already bear for visas, medical tests, training and other procedures"
-    },
-    {
-      "title": "PM seeks collective actions to build sustainable future for next generations",
-      "link": "https://www.tbsnews.net/foreign-policy/pm-seeks-collective-actions-build-sustainable-future-next-generations-1552181",
-      "pubDate": "Thu, 24 Sep 2026 06:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/24/un_unga_tarique_rahman_01.png",
-      "snippet": "“Let us act together to build a safer and more sustainable future for generations to come,” the prime minister said while addressing a high-level meeting on “Climate Action and the Just Transition” at the United Nations Headquarters here"
-    },
-    {
-      "title": "Woman 'attacked, beaten' while feeding street dogs in Banasree",
-      "link": "https://www.tbsnews.net/bangladesh/woman-attacked-beaten-while-feeding-street-dogs-banasree-1552171",
-      "pubDate": "Thu, 24 Sep 2026 01:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/24/819375519_1566088181306677_2336721368992051698_n.jpg",
-      "snippet": "She says several people beat and harassed her for about half an hour, followed by further questioning when she returned with police."
-    },
-    {
-      "title": "Battery-run autorickshaw driver 'assaults' Ctg traffic cop, bites sergeant before fleeing",
-      "link": "https://www.tbsnews.net/bangladesh/battery-run-autorickshaw-driver-assaults-ctg-traffic-cop-bites-sergeant-fleeing-1552166",
-      "pubDate": "Thu, 24 Sep 2026 01:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/24/ctg_autorickshaw.jpg",
-      "snippet": "Driver allegedly grabbed a traffic policeman by the collar and bit Sergeant Arman Hossain when he intervened"
-    },
-    {
-      "title": "Bangladesh, Croatia seek to deepen trade, investment ties",
-      "link": "https://www.tbsnews.net/foreign-policy/bangladesh-croatia-seek-deepen-trade-investment-ties-1552161",
-      "pubDate": "Thu, 24 Sep 2026 00:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/24/820501037_2837480097450424_6847912268008745351_n.jpg",
-      "snippet": "The two leaders also discussed cooperation in skilled manpower, education, technology and multilateral forums."
-    },
-    {
-      "title": "Rohingya crisis, bilateral trade, diplomacy feature PM Tarique's UNGA engagements",
-      "link": "https://www.tbsnews.net/bangladesh/rohingya-crisis-bilateral-trade-diplomacy-feature-pm-tariques-unga-engagements-1552151",
-      "pubDate": "Thu, 24 Sep 2026 00:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/22/prime_minister_tarique_rahman_.png",
-      "snippet": "PM to deliver his address at UNGA today"
-    },
-    {
-      "title": "Govt to shut illegal autorickshaw charging points, tighten roadwork rules to ease traffic ",
-      "link": "https://www.tbsnews.net/bangladesh/govt-shut-illegal-autorickshaw-charging-points-tighten-roadwork-rules-ease-traffic",
-      "pubDate": "Wed, 23 Sep 2026 23:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/01/syed_zakir_hossain_1.jpg",
-      "snippet": "The decisions were taken at an inter-ministerial meeting chaired by Home Minister Salahuddin Ahmed on 15 September, attended by representatives of relevant agencies."
-    },
-    {
-      "title": "EC resumes voter transfer activities",
-      "link": "https://www.tbsnews.net/bangladesh/ec-resumes-voter-transfer-activities-1552136",
-      "pubDate": "Wed, 23 Sep 2026 23:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/election_commission_img.jpg",
-      "snippet": "The release instructed field-level offices to receive applications for voter transfers as before,conduct necessary verification and issue and settle the applications accordingly. The letter has been sent to all upazila and thana election officers."
-    },
-    {
-      "title": "UP elections: Chairman candidates' security deposit set at Tk25,000",
-      "link": "https://www.tbsnews.net/bangladesh/elections-chairman-candidates-security-deposit-set-tk25000-1552111",
-      "pubDate": "Wed, 23 Sep 2026 22:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/election_commission_img.jpg",
-      "snippet": "The provisions were incorporated into the Union Parishad (Election Conduct) Rules, 2026, which were published in a gazette notification today."
-    },
-    {
-      "title": "Tk 500cr compensation cheques distributed for Sirajganj-Bogura railway project",
-      "link": "https://www.tbsnews.net/bangladesh/transport/tk-500cr-compensation-cheques-distributed-sirajganj-bogura-railway-project",
-      "pubDate": "Wed, 23 Sep 2026 22:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/04/04/bangladesh_railway.jpg_2.jpg",
-      "snippet": "Since late 2025, around Tk500 crore has been paid to landowners in the Sirajganj section, officials said."
-    },
-    {
-      "title": "Worker killed in Baridhara crash: Teen taken into custody after CCTV evidence",
-      "link": "https://www.tbsnews.net/bangladesh/crime/worker-killed-baridhara-crash-teen-taken-custody-after-cctv-evidence-1552101",
-      "pubDate": "Wed, 23 Sep 2026 22:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/23/819559600_1793924384941189_8102530621777147466_n.jpg",
-      "snippet": "Teen was earlier detained by people at the scene and handed over to police, who released him after questioning"
     },
     {
       "title": "Cigarette raw material imported in name of non-existent company",
@@ -155,50 +265,6 @@
       "snippet": "According to the NBR, 3,63,000kg of Acetate Tow was imported in the name of the company within just one year and had already been cleared from customs, raising concerns within the revenue administration."
     },
     {
-      "title": "Five shot in clash between two groups in Narail",
-      "link": "https://www.tbsnews.net/bangladesh/crime/five-shot-clash-between-two-groups-narail-1552071",
-      "pubDate": "Wed, 23 Sep 2026 21:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/23/narial.png",
-      "snippet": "The injured were initially taken to Kalia Upazila Health Complex. After receiving primary treatment, they were referred to Khulna Medical College Hospital for better treatment."
-    },
-    {
-      "title": "'Covert forces' supporting Sheikh Hasina's conspiracy: Rizvi",
-      "link": "https://www.tbsnews.net/bangladesh/politics/covert-forces-supporting-sheikh-hasinas-conspiracy-rizvi-1552076",
-      "pubDate": "Wed, 23 Sep 2026 21:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/21/a_russain_voter_5.png",
-      "snippet": "The programme was organised against what the organisers described as planned violence and arson in the country."
-    },
-    {
-      "title": "PM proposes 5 urgent measures at UNGA to resolve Rohingya crisis",
-      "link": "https://www.tbsnews.net/bangladesh/pm-tarique-joins-high-level-un-meeting-rohingya-crisis-1552056",
-      "pubDate": "Wed, 23 Sep 2026 21:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/23/pm_at_unga_0.jpg",
-      "snippet": "He made the proposal as he highlighted the plight of over 1.2 million Rohingyas sheltered in Bangladesh and called upon the international community to shoulder its responsibility with conviction to create conditions for their safe and dignified retur..."
-    },
-    {
-      "title": "Commerce minister calls for unified action plan to cut cargo clearance time, costs",
-      "link": "https://www.tbsnews.net/bangladesh/commerce-minister-calls-unified-action-plan-cut-cargo-clearance-time-costs-1552066",
-      "pubDate": "Wed, 23 Sep 2026 21:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/06/commerce_minister.jpg",
-      "snippet": "Muktadir made the call while presiding over the 10th meeting of the National Trade Facilitation Committee at the Ministry of Commerce conference room today (23 September)."
-    },
-    {
       "title": "RU expels 19 students for a year over ragging, forgery and assault",
       "link": "https://www.tbsnews.net/bangladesh/education/ru-expels-19-students-year-over-ragging-forgery-and-assault-1552061",
       "pubDate": "Wed, 23 Sep 2026 21:50:00 +0600",
@@ -208,39 +274,6 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/12/22/rajshahi_university.jpg",
       "snippet": "The university also issued warning letters to another 80 students over ragging allegations and informed their families."
-    },
-    {
-      "title": "9 jailed for slaughtering 13 horses, packaging meat in Manikganj",
-      "link": "https://www.tbsnews.net/bangladesh/crime/9-jailed-slaughtering-13-horses-packaging-meat-manikganj-1552051",
-      "pubDate": "Wed, 23 Sep 2026 21:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/23/horse.png",
-      "snippet": "During the raid, officials found 13 horses slaughtered at the site and another horse alive. Nine people were subsequently detained."
-    },
-    {
-      "title": "Two Prime Bank directors to buy nearly 49 lakh shares worth Tk14cr",
-      "link": "https://www.tbsnews.net/economy/stocks/two-prime-bank-directors-buy-nearly-49-lakh-shares-worth-tk14cr-1552041",
-      "pubDate": "Wed, 23 Sep 2026 21:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/23/stocks_and_shares_1.jpg",
-      "snippet": "The directors will buy the shares through the Dhaka Stock Exchange’s block market at the prevailing market price by 29 October."
-    },
-    {
-      "title": "Uncle of MP Nazrul's 2nd wife sent to jail in suicide abetment case",
-      "link": "https://www.tbsnews.net/bangladesh/court/gazi-nazrul-islams-2nd-wifes-death-uncle-obaidur-sent-jail-suicide-abetment-case",
-      "pubDate": "Wed, 23 Sep 2026 21:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/18/jailed_representational_image.jpg",
-      "snippet": "Obaidur Rahman was arrested from Dhaka earlier in the day and produced before a court, which ordered him to be sent to jail."
     },
     {
       "title": "Is Rangpur emerging as a new anthrax cluster?",
@@ -824,40 +857,7 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/21/screenshot_2026-09-21_162628.png",
       "snippet": "The JnU vice-chancellor briefed the President on the university's overall academic activities."
-    },
-    {
-      "title": "Sammilito Islami Bank customers apply to withdraw Tk6,975cr in 20 days; Tk3,245cr disbursed so far",
-      "link": "https://www.tbsnews.net/economy/banking/sammilito-islami-bank-customers-apply-withdraw-tk6975cr-20-days-tk3245cr-disbursed",
-      "pubDate": "Mon, 21 Sep 2026 13:35:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/07/sammilito_islami_bank.jpg",
-      "snippet": "32,074 new accounts opened, bringing in Tk378 crore in new deposits."
-    },
-    {
-      "title": "NHS trial uses smart sensors to support people living with dementia",
-      "link": "https://www.tbsnews.net/bangladesh/health/nhs-trial-uses-smart-sensors-support-people-living-dementia-1548851",
-      "pubDate": "Mon, 21 Sep 2026 12:10:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/01/18/dementia_1_0.png",
-      "snippet": "The trial, led by the UK Dementia Research Institute and Imperial College London with funding from LifeArc, involves more than 250 families across the UK"
-    },
-    {
-      "title": "StanChart Bangladesh plans to close retail banking operation",
-      "link": "https://www.tbsnews.net/economy/banking/stanchart-bangladesh-plans-close-retail-banking-operation-selling-portfolio-1548741",
-      "pubDate": "Mon, 21 Sep 2026 10:45:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/21/813804266_2047225876666303_2123854374973384758_n.png",
-      "snippet": "The bank approached some banks informally and asked them to prepare for a formal process to acquire the business"
     }
   ],
-  "updatedAt": "2026-09-24T03:25:29.239Z"
+  "updatedAt": "2026-09-24T08:40:35.863Z"
 }
