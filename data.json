@@ -1,6 +1,171 @@
 {
   "news": [
     {
+      "title": "Spanish businesses see trade, investment opportunities in Bangladesh",
+      "link": "https://www.tbsnews.net/economy/spanish-businesses-see-trade-investment-opportunities-bangladesh-1553716",
+      "pubDate": "Fri, 25 Sep 2026 21:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/spanish_and_bangladeshi_business_representatives_attend_a_seminar_on_trade_and_investment_opportunities_in_bangladesh_in_madrid.jpg",
+      "snippet": "Madrid Chamber president identifies potential in textiles, pharmaceuticals, infrastructure, renewable energy and other sectors."
+    },
+    {
+      "title": " Govt plans to turn Teknaf's Sabrang Park into world-class tourism hub",
+      "link": "https://www.tbsnews.net/bangladesh/govt-plans-turn-teknafs-sabrang-park-world-class-tourism-hub-1553711",
+      "pubDate": "Fri, 25 Sep 2026 21:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/whatsapp_image_2026-09-25_at_7.23.08_pm.jpeg",
+      "snippet": "Around 500 acres of the planned 1,000-acre park have been lost to the sea, while a jetty is expected to be completed in about two years."
+    },
+    {
+      "title": "LNG unloading resumes, pressure normalizes: Amit",
+      "link": "https://www.tbsnews.net/bangladesh/lng-unloading-resumes-pressure-normalizes-amit-1553701",
+      "pubDate": "Fri, 25 Sep 2026 20:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/state_minister_for_power_energy_and_mineral_resources_anindya_islam_amit_2.png",
+      "snippet": "LNG unloading resumes as govt expects gas pressure to normalise."
+    },
+    {
+      "title": "Bangladesh reaffirms support for independent Palestine at UN meeting",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-reaffirms-support-independent-palestine-un-meeting-1553696",
+      "pubDate": "Fri, 25 Sep 2026 19:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/state_minister_for_foreign_affairs_shama_obaed_islam_2.jpg",
+      "snippet": "Shama Obaed urges concrete action towards Palestinian statehood."
+    },
+    {
+      "title": "Jubo League leader arrested over Jatrabari blast; 9,000 masks, bomb-making materials seized",
+      "link": "https://www.tbsnews.net/bangladesh/jubo-league-leader-arrested-over-jatrabari-blast-9000-masks-bomb-making-materials-seized",
+      "pubDate": "Fri, 25 Sep 2026 19:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/819920724_1821732005660283_3748804092934314008_n.jpg",
+      "snippet": "Police allege Emon supplied materials for recent attacks."
+    },
+    {
+      "title": "What Bangladesh’s Overton window reveals about social attitude",
+      "link": "https://www.tbsnews.net/thoughts/what-bangladeshs-overton-window-reveals-about-social-attitude-1553686",
+      "pubDate": "Fri, 25 Sep 2026 19:35:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://via.placeholder.com/400x200?text=No+Image",
+      "snippet": "Bangladeshis strongly favour religious and traditional social norms, yet the survey shows that public opinion is more selective and internally complex than a simple liberal–conservative divide suggests"
+    },
+    {
+      "title": "Fuel price hike ripples through markets, driving up daily essentials",
+      "link": "https://www.tbsnews.net/bangladesh/fuel-price-hike-ripples-through-markets-driving-daily-essentials-1553681",
+      "pubDate": "Fri, 25 Sep 2026 19:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/03/18/coronavirus_commodity_market_2.jpg",
+      "snippet": "Vegetables, eggs, fish, chicken, flour and milk have become costlier, with traders blaming higher transport costs following the fuel price hike."
+    },
+    {
+      "title": "Rooftop solar in Bangladesh: The missing link in domestic billing",
+      "link": "https://www.tbsnews.net/thoughts/rooftop-solar-bangladesh-missing-link-domestic-billing-1553676",
+      "pubDate": "Fri, 25 Sep 2026 19:25:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/solar_photo_tbs_1.jpg",
+      "snippet": "Bangladesh's rooftop solar policy needs a billing mechanism that ensures apartment building owners can receive fair value for solar electricity consumed by residents through separate meters"
+    },
+    {
+      "title": "Chattogram Port committee rejects minister's 'stagnant management' claim",
+      "link": "https://www.tbsnews.net/bangladesh/chattogram-port-committee-rejects-ministers-stagnant-management-claim-1553666",
+      "pubDate": "Fri, 25 Sep 2026 19:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/02/ctg_port_feb_2026.jpg",
+      "snippet": "Committee backs local workforce and opposes long-term foreign leases."
+    },
+    {
+      "title": "Shama urges safeguards for AI use in mediation",
+      "link": "https://www.tbsnews.net/bangladesh/shama-urges-safeguards-ai-use-mediation-1553651",
+      "pubDate": "Fri, 25 Sep 2026 19:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/state_minister_for_foreign_affairs_shama_obaed_islam.jpg",
+      "snippet": "Bangladesh pushes for guardrails as AI enters mediation talks."
+    },
+    {
+      "title": "Cox's Bazar Airport new terminal set to open next week",
+      "link": "https://www.tbsnews.net/bangladesh/coxs-bazar-airport-new-terminal-set-open-next-week-1553636",
+      "pubDate": "Fri, 25 Sep 2026 18:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/coxs_bazar_airport.jpg",
+      "snippet": "Cox's Bazar airport new terminal to open for domestic flights next week"
+    },
+    {
+      "title": "Patwary should be questioned over crude bomb remark: DMP",
+      "link": "https://www.tbsnews.net/bangladesh/law-order/patwary-should-be-questioned-over-crude-bomb-remark-dmp-1553626",
+      "pubDate": "Fri, 25 Sep 2026 18:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/819920724_1821732005660283_3748804092934314008_n.jpg",
+      "snippet": "Police say senior officials will decide on questioning."
+    },
+    {
+      "title": "BIFFL provides solar home systems to 10 vulnerable households in Khulna",
+      "link": "https://www.tbsnews.net/bangladesh/biffl-provides-solar-home-systems-10-vulnerable-households-khulna-1553586",
+      "pubDate": "Fri, 25 Sep 2026 17:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/1_16x9.png",
+      "snippet": ""
+    },
+    {
+      "title": "PM delivered message of peace, humanity, equality and dignity in his UN speech: Rizvi ",
+      "link": "https://www.tbsnews.net/bangladesh/politics/pm-delivered-message-peace-humanity-equality-and-dignity-his-un-speech-rizvi",
+      "pubDate": "Fri, 25 Sep 2026 16:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/rizvi.jpg",
+      "snippet": "Tarique Rahman reiterated the demand for the establishment of an independent Palestinian state which is a demand of people across the world, says BNP acting secretary general."
+    },
+    {
+      "title": "Measles: Death toll reaches 1,084 as three more children die in 24hrs",
+      "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-1084-three-more-die-24hrs-1553561",
+      "pubDate": "Fri, 25 Sep 2026 16:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/11/measles_tbs.jpeg",
+      "snippet": "The latest DGHS update records 1,201 new suspected cases and 64 laboratory-confirmed infections in 24 hours."
+    },
+    {
       "title": "Agrani Bank official on the run after 'embezzling Tk1cr' in Munshiganj, ACC to probe",
       "link": "https://www.tbsnews.net/bangladesh/corruption/agrani-bank-official-run-after-embezzling-tk1cr-munshiganj-acc-probe-1553546",
       "pubDate": "Fri, 25 Sep 2026 16:15:00 +0600",
@@ -81,144 +246,12 @@
       "title": "Gas supply improves as LNG transfer at Moheshkhali resumes",
       "link": "https://www.tbsnews.net/economy/energy/gas-supply-starts-recovering-lng-transfer-resumes-petrobangla-1553466",
       "pubDate": "Fri, 25 Sep 2026 13:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/07/05/gas_0.jpeg",
       "snippet": "By 2pm, the total gas supply rose to 2,525 mmcfd. Of that, 1,607 mmcfd was domestic, while 918 mmcfd was RLNG."
-    },
-    {
-      "title": "Bangladesh seeks stronger global action against digital violence targeting women",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-seeks-stronger-global-action-against-digital-violence-targeting-women-1553451",
-      "pubDate": "Fri, 25 Sep 2026 13:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/9673629.jpg",
-      "snippet": "Shama also referred to the recently launched women-only Pink Bus service in Bangladesh to promote safer public transport."
-    },
-    {
-      "title": "Palmyra Fruit Festival celebrates Bengal's food, culture, and environment",
-      "link": "https://www.tbsnews.net/bangladesh/palmyra-fruit-festival-celebrates-bengals-food-culture-and-environment-1553446",
-      "pubDate": "Fri, 25 Sep 2026 13:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/1000301835.jpg",
-      "snippet": "The Palmyra Fruit Festival 2026 was organised by the Environmental Sciences Club and Green Bangle Project of AUW’s Department of Environmental Sciences, in collaboration with the AUW Art Club, at Tale Space, Sun Valley Campus."
-    },
-    {
-      "title": "A mariner's distress call on the eve of World Maritime Day",
-      "link": "https://www.tbsnews.net/bangladesh/mariners-distress-call-eve-world-maritime-day-1553436",
-      "pubDate": "Fri, 25 Sep 2026 12:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/817531239_3969583516511305_7057039019330360899_n.jpg",
-      "snippet": "As the world prepared to celebrate seafarers, Bangladeshi mariner Sakib Aman heard his mariner father describe the horror of a missile attack at sea."
-    },
-    {
-      "title": "Man hacked with machete in Ctg after protesting drug sale",
-      "link": "https://www.tbsnews.net/bangladesh/man-hacked-machete-ctg-after-protesting-drug-sale-1553421",
-      "pubDate": "Fri, 25 Sep 2026 12:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/25/cmch_1.jpg",
-      "snippet": "The incident took place around 7pm in the Masterhat area of Shikalbaha Union."
-    },
-    {
-      "title": "'A state can never become strong by keeping citizens powerless': PM sounds out Bangladesh’s return to democracy",
-      "link": "https://www.tbsnews.net/bangladesh/state-can-never-become-strong-keeping-citizens-powerless-pm-sounds-out-bangladeshs-return",
-      "pubDate": "Fri, 25 Sep 2026 12:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/6b8a0530-5bd3-4bda-a951-5daa99fc6fc7.jpg",
-      "snippet": "As Bangladesh prepares to graduate from the UN's Least Developed Countries category, he sought continued international support in financing, market access, technology transfer and capacity building to make the transition sustainable."
-    },
-    {
-      "title": "Kaavish Live in Dhaka postponed, new date to be announced",
-      "link": "https://www.tbsnews.net/splash/kaavish-live-dhaka-postponed-new-date-be-announced-1553396",
-      "pubDate": "Fri, 25 Sep 2026 11:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/photo-output_1.jpeg",
-      "snippet": "All previously purchased tickets will remain valid for the rescheduled show."
-    },
-    {
-      "title": "Tarique presents Bangladesh's policy priorities, global role at UNGA",
-      "link": "https://www.tbsnews.net/bangladesh/tarique-presents-bangladeshs-policy-priorities-global-role-unga-1553386",
-      "pubDate": "Fri, 25 Sep 2026 11:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/3872114.jpg",
-      "snippet": "During the meeting with Shehbaz Sharif, the two sides discussed the situation in the Middle East and Pakistan’s initiatives for a peaceful resolution of the conflict."
-    },
-    {
-      "title": "Lavrov meets Khalilur Rahman in New York",
-      "link": "https://www.tbsnews.net/bangladesh/lavrov-meets-khalilur-rahman-new-york-1553381",
-      "pubDate": "Fri, 25 Sep 2026 11:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/screenshot_2026-09-25_113101.png",
-      "snippet": "Lavrov expressed hope that the General Assembly’s work during the current session would be conducted professionally and without politicisation"
-    },
-    {
-      "title": "President congratulates PM on UNGA address",
-      "link": "https://www.tbsnews.net/bangladesh/president-congratulates-pm-unga-address-1553391",
-      "pubDate": "Fri, 25 Sep 2026 11:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/untitled_design.png",
-      "snippet": "He also called for resolving global conflicts through dialogue and diplomacy while urging stronger international action on the Rohingya crisis, climate change, disarmament, migration, and equitable access to technology."
-    },
-    {
-      "title": "Dhaka urges OIC members to work towards early return of Rohingyas",
-      "link": "https://www.tbsnews.net/foreign-policy/dhaka-urges-oic-members-work-towards-early-return-rohingyas-1553371",
-      "pubDate": "Fri, 25 Sep 2026 11:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/image-428056-1790277951.jpg",
-      "snippet": "The State Minister said their energy potential can similarly drive intra-OIC energy partnerships and renewable investment, said the Ministry of Foreign Affairs."
-    },
-    {
-      "title": "Launch fares rise by up to 7.5% as gazette issued",
-      "link": "https://www.tbsnews.net/bangladesh/launch-fares-rise-75-gazette-issued-1553376",
-      "pubDate": "Fri, 25 Sep 2026 11:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/01/04/sandwip-ferry_tbs_1.jpg",
-      "snippet": "The notification said the revised fares must be displayed prominently at the terminals of all river ports and in visible locations on vessels."
-    },
-    {
-      "title": "Additional time required for LDC graduation: Humaiun Kobir ",
-      "link": "https://www.tbsnews.net/bangladesh/additional-time-required-ldc-graduation-humaiun-kobir-1553366",
-      "pubDate": "Fri, 25 Sep 2026 11:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/5431517.jpg",
-      "snippet": "Looking ahead to the midterm review, the state minister proposed six priorities."
     },
     {
       "title": "Capital machinery imports fall 45% in four years as industrial growth stagnates",
@@ -681,84 +714,7 @@
       "icon": "🏭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/07/25/internet.jpg",
       "snippet": "They recommend private investment in submarine cables, open access to landing stations and stable policies to make internet services more affordable."
-    },
-    {
-      "title": "AI must not become the newest form of resource extraction",
-      "link": "https://www.tbsnews.net/thoughts/ai-must-not-become-newest-form-resource-extraction-1550766",
-      "pubDate": "Tue, 22 Sep 2026 19:25:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/22/6vddtya45nnkbei2umyufkwe24.jpg",
-      "snippet": "The right question is not whether data centres are good or bad. It is whether the host country receives a fair share of the value and retains the authority to protect its people"
-    },
-    {
-      "title": "For Bangladesh, energy and food security are inseparable",
-      "link": "https://www.tbsnews.net/thoughts/bangladesh-energy-and-food-security-are-inseparable-1550756",
-      "pubDate": "Tue, 22 Sep 2026 19:10:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/22/paddy_field.jpg",
-      "snippet": "Bangladesh can reduce how much of an external energy shock becomes a domestic food-security shock. That requires treating energy security, fertiliser security, and food security not as separate policy problems, but as parts of the same system"
-    },
-    {
-      "title": "Dengue claims 5 more lives in 24hrs, daily hospital admissions hit record 1,872",
-      "link": "https://www.tbsnews.net/bangladesh/health/dengue-claims-5-more-lives-24hrs-daily-hospital-admissions-hit-record-1872-1550721",
-      "pubDate": "Tue, 22 Sep 2026 19:00:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/06/dengue.jpg",
-      "snippet": "The country’s dengue death toll has reached 195, while 65,499 dengue cases have been reported so far this year."
-    },
-    {
-      "title": "Samajtantrik Chhatra Front demands Ducsu election after reforms",
-      "link": "https://www.tbsnews.net/bangladesh/education/samajtantrik-chhatra-front-demands-ducsu-election-after-reforms-1550696",
-      "pubDate": "Tue, 22 Sep 2026 18:50:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/22/samajtantrik_chhatra_front_0.jpg",
-      "snippet": "The organisation calls for limits on the vice-chancellor’s powers and greater authority and independence for elected student representatives."
-    },
-    {
-      "title": "Bangladesh's rooftop solar push: Lessons before the rollout",
-      "link": "https://www.tbsnews.net/thoughts/bangladeshs-rooftop-solar-push-lessons-rollout-1550686",
-      "pubDate": "Tue, 22 Sep 2026 18:40:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/09/02/solar_panel.jpg",
-      "snippet": "A Tk10.50 buyback rate can put solar panels on rooftops. Whether it also reaches renters, survives a strained grid and outlasts the next fiscal squeeze depends on choices the government makes now"
-    },
-    {
-      "title": "Welding electrode makers seek duty relief on imported wire rod",
-      "link": "https://www.tbsnews.net/economy/welding-electrode-makers-seek-duty-relief-imported-wire-rod-1550676",
-      "pubDate": "Tue, 22 Sep 2026 18:30:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/22/welding_representational.jpeg",
-      "snippet": "Industry body says 88.51% duty on key raw material threatens local manufacturers, holds up consignments at Chattogram Port"
-    },
-    {
-      "title": "From smart glasses to AI pins, privacy fears challenge tech's next big bet",
-      "link": "https://www.tbsnews.net/tech/smart-glasses-ai-pins-privacy-fears-challenge-techs-next-big-bet-1550601",
-      "pubDate": "Tue, 22 Sep 2026 17:40:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/22/smart_glasses.png",
-      "snippet": "Samsung plans to enter the smart-glasses market later this year through partnerships with Gentle Monster and Warby Parker ​but does not view the devices as replacements for smartphones."
     }
   ],
-  "updatedAt": "2026-09-25T10:25:15.957Z"
+  "updatedAt": "2026-09-25T15:26:08.732Z"
 }
