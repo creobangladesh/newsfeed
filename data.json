@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "PM shares 3-R repair strategy, pledges to build a prosperous Bangladesh in 1st address to 81st UNGA",
+      "link": "https://www.tbsnews.net/bangladesh/pm-shares-repair-strategy-hopes-better-bangladesh-peaceful-world-first-address-81st-unga",
+      "pubDate": "Fri, 25 Sep 2026 04:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/pm_tarique_unga_speech_screengrab.jpg",
+      "snippet": "Tarique Rahman started delivering his 21-minute-long speech in Bangla around 4:15am Bangladesh time on Friday."
+    },
+    {
       "title": "Bangladesh, UN pledge continued cooperation to address global challenges",
       "link": "https://www.tbsnews.net/bangladesh/bangladesh-un-pledge-continued-co-op-address-global-challenges-1553226",
       "pubDate": "Fri, 25 Sep 2026 03:20:00 +0600",
@@ -219,17 +230,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/29/farakka_barrage.jpeg",
       "snippet": "Water resources minister says Dhaka wants guarantee clauses to ensure its due share during the dry season and prevent excessive flows during the monsoon."
-    },
-    {
-      "title": "Ex-Cantonment OC Rakibul remanded for 5 days in sedition case",
-      "link": "https://www.tbsnews.net/bangladesh/crime/ex-cantonment-oc-rakibul-arrested-sedition-case-police-seek-7-day-remand-1553006",
-      "pubDate": "Thu, 24 Sep 2026 20:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/24/cantonment_oc_court.jpg",
-      "snippet": "Dhaka Metropolitan Magistrate Didarul Alam passed the order after a hearing."
     },
     {
       "title": "Bangladesh's inflation puzzle: A crisis deeper than monetary policy",
@@ -826,5 +826,5 @@
       "snippet": "Four bird flu infections, all children, this year renew concerns over poultry exposure"
     }
   ],
-  "updatedAt": "2026-09-24T22:00:17.731Z"
+  "updatedAt": "2026-09-25T00:28:14.779Z"
 }
