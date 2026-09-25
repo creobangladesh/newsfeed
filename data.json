@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "US hopes Bangladesh, India will agree on Sheikh Hasina’s fate",
+      "link": "https://www.tbsnews.net/foreign-policy/us-hopes-bangladesh-india-will-agree-sheikh-hasinas-fate-1553811",
+      "pubDate": "Sat, 26 Sep 2026 01:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/26/us-expects.jpg",
+      "snippet": "Washington says Hasina’s presence strains bilateral ties."
+    },
+    {
       "title": "Apratim's parents file GD over phone harassment, cyberbullying",
       "link": "https://www.tbsnews.net/bangladesh/crime/apratims-parents-file-gd-over-phone-harassment-cyberbullying-1553806",
       "pubDate": "Sat, 26 Sep 2026 01:10:00 +0600",
@@ -241,17 +252,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/coxs_bazar_new_terminal_tbs.jpeg",
       "snippet": "Cox's Bazar airport new terminal to open for domestic flights next week"
-    },
-    {
-      "title": "Patwary should be questioned over crude bomb remark: DMP",
-      "link": "https://www.tbsnews.net/bangladesh/law-order/patwary-should-be-questioned-over-crude-bomb-remark-dmp-1553626",
-      "pubDate": "Fri, 25 Sep 2026 18:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/819920724_1821732005660283_3748804092934314008_n.jpg",
-      "snippet": "Police say senior officials will decide on questioning."
     },
     {
       "title": "11 Bangladeshi apparel firms join Saudi Arabia fashion and textiles expo",
@@ -738,5 +738,5 @@
       "snippet": "The researchers identified what they described as an internal “pain direction” or vector in the models. They found that the activation was distinct from general fear or negative emotional valence and was triggered specifically when harm was directed ..."
     }
   ],
-  "updatedAt": "2026-09-25T19:26:58.149Z"
+  "updatedAt": "2026-09-25T22:41:41.865Z"
 }
