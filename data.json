@@ -1,8 +1,129 @@
 {
   "news": [
     {
-      "title": "Spanish businesses see trade, investment opportunities in Bangladesh",
-      "link": "https://www.tbsnews.net/economy/spanish-businesses-see-trade-investment-opportunities-bangladesh-1553716",
+      "title": "Apratim's parents file GD over phone harassment, cyberbullying",
+      "link": "https://www.tbsnews.net/bangladesh/crime/apratims-parents-file-gd-over-phone-harassment-cyberbullying-1553806",
+      "pubDate": "Sat, 26 Sep 2026 01:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/20/apratim.jpg",
+      "snippet": "Murder probe also gets a new investigating officer."
+    },
+    {
+      "title": "Tarique, IPI president discuss making UN-centred multilateral system more effective, inclusive",
+      "link": "https://www.tbsnews.net/foreign-policy/tarique-ipi-president-discuss-making-un-centred-multilateral-system-more-effective",
+      "pubDate": "Sat, 26 Sep 2026 00:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/26/pm_tarique_and_ipi_president.jpg",
+      "snippet": ""
+    },
+    {
+      "title": " Tarique, Kuwait Crown Prince agree to deepen manpower, trade and investment ties",
+      "link": "https://www.tbsnews.net/foreign-policy/tarique-kuwait-crown-prince-agree-deepen-manpower-trade-and-investment-ties-1553786",
+      "pubDate": "Sat, 26 Sep 2026 00:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/26/pm_tarique_and_kuwait_crown_prince.jpg",
+      "snippet": "Leaders agree to deepen long-standing bilateral cooperation."
+    },
+    {
+      "title": "Are policymakers understanding the warning from investment?",
+      "link": "https://www.tbsnews.net/thoughts/are-policymakers-understanding-warning-investment-1553771",
+      "pubDate": "Sat, 26 Sep 2026 00:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/21/selim_raihan_sanem_latest.jpg",
+      "snippet": "Stagnation has been evident in the country’s investment climate for a long time, creating considerable uncertainty about future growth and employment."
+    },
+    {
+      "title": "Three killed in Madaripur road accident ",
+      "link": "https://www.tbsnews.net/bangladesh/three-killed-madaripur-road-accident-1553801",
+      "pubDate": "Fri, 25 Sep 2026 23:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/26/accident.jpg",
+      "snippet": "Legal proceedings in connection with the incident are underway."
+    },
+    {
+      "title": "Coast Guard seizes 48 tonnes of urea fertiliser, arrests 3 over smuggling attempt",
+      "link": "https://www.tbsnews.net/bangladesh/crime/coast-guard-seizes-48-tonnes-urea-fertiliser-arrests-3-over-smuggling-attempt",
+      "pubDate": "Fri, 25 Sep 2026 22:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/825312105_2349682145841711_6616057789181127045_n.jpg",
+      "snippet": "Four trucks and a fishing boat were also seized during the operation at Ichakhali Ghat in Chattogram’s Mirsharai."
+    },
+    {
+      "title": "From pledges to progress: Bangladesh's COP-31 climate strategy",
+      "link": "https://www.tbsnews.net/thoughts/pledges-progress-bangladeshs-cop-31-climate-strategy-1553746",
+      "pubDate": "Fri, 25 Sep 2026 22:05:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/2026-11-9to20-banner_cop31.png",
+      "snippet": "The real measure of success in Antalya will not be the pledges made at COP-31, but the finance, investment, technology and resilience that reach Bangladesh afterwards."
+    },
+    {
+      "title": "Chhatra Shakti protests govt's alleged politicisation of teacher recruitment at primary level",
+      "link": "https://www.tbsnews.net/bangladesh/chhatra-shakti-protests-govts-alleged-politicisation-teacher-recruitment-primary-level",
+      "pubDate": "Fri, 25 Sep 2026 22:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/members_of_jatiya_chhatra_shakti.jpg",
+      "snippet": "Chhatra Shakti stages 'Red Card to BNPization' protest over teacher recruitment."
+    },
+    {
+      "title": " Cuet teachers announce full strike demanding ex-VC's reinstatement",
+      "link": "https://www.tbsnews.net/bangladesh/cuet-teachers-announce-full-strike-demanding-ex-vcs-reinstatement-1553736",
+      "pubDate": "Fri, 25 Sep 2026 21:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/day_at_cuet_111.jpg",
+      "snippet": "Hall and emergency activities will remain operational during the strike, the teachers' association says."
+    },
+    {
+      "title": "NGO clinic in Mirpur 'demolished' in midnight raid; case filed",
+      "link": "https://www.tbsnews.net/bangladesh/ngo-clinic-mirpur-demolished-midnight-raid-case-filed-1553726",
+      "pubDate": "Fri, 25 Sep 2026 21:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/d4103f5d-8de1-4d36-aa4f-017025d87b30.png",
+      "snippet": "Clinic operator alleges 200-250 masked people vandalised, looted and demolished the facility; traders' cooperative says the land was legally allotted to it"
+    },
+    {
+      "title": "Two more dengue deaths take toll to 211",
+      "link": "https://www.tbsnews.net/bangladesh/health/two-more-dengue-deaths-take-toll-211-1553731",
+      "pubDate": "Fri, 25 Sep 2026 21:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/dengue.jpg",
+      "snippet": "Dengue death toll reaches 211 as 955 new cases reported."
+    },
+    {
+      "title": "Spain business community sees huge trade, investment potential in Bangladesh",
+      "link": "https://www.tbsnews.net/economy/spain-business-community-sees-huge-trade-investment-potential-bangladesh-1553716",
       "pubDate": "Fri, 25 Sep 2026 21:10:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
@@ -23,8 +144,8 @@
       "snippet": "Around 500 acres of the planned 1,000-acre park have been lost to the sea, while a jetty is expected to be completed in about two years."
     },
     {
-      "title": "LNG unloading resumes, pressure normalizes: Amit",
-      "link": "https://www.tbsnews.net/bangladesh/lng-unloading-resumes-pressure-normalizes-amit-1553701",
+      "title": "LNG unloading resumes, pressure normalise: Amit",
+      "link": "https://www.tbsnews.net/bangladesh/lng-unloading-resumes-pressure-normalise-amit-1553701",
       "pubDate": "Fri, 25 Sep 2026 20:40:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
@@ -118,7 +239,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/coxs_bazar_airport.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/coxs_bazar_new_terminal_tbs.jpeg",
       "snippet": "Cox's Bazar airport new terminal to open for domestic flights next week"
     },
     {
@@ -133,114 +254,37 @@
       "snippet": "Police say senior officials will decide on questioning."
     },
     {
-      "title": "BIFFL provides solar home systems to 10 vulnerable households in Khulna",
-      "link": "https://www.tbsnews.net/bangladesh/biffl-provides-solar-home-systems-10-vulnerable-households-khulna-1553586",
-      "pubDate": "Fri, 25 Sep 2026 17:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/1_16x9.png",
-      "snippet": ""
-    },
-    {
-      "title": "PM delivered message of peace, humanity, equality and dignity in his UN speech: Rizvi ",
-      "link": "https://www.tbsnews.net/bangladesh/politics/pm-delivered-message-peace-humanity-equality-and-dignity-his-un-speech-rizvi",
-      "pubDate": "Fri, 25 Sep 2026 16:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/rizvi.jpg",
-      "snippet": "Tarique Rahman reiterated the demand for the establishment of an independent Palestinian state which is a demand of people across the world, says BNP acting secretary general."
+      "title": "11 Bangladeshi apparel firms join Saudi Arabia fashion and textiles expo",
+      "link": "https://www.tbsnews.net/economy/rmg/11-bangladeshi-apparel-firms-join-saudi-arabia-fashion-and-textiles-expo-1553581",
+      "pubDate": "Fri, 25 Sep 2026 17:05:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/818291026_1618187666508056_5583544633441236860_n.jpg",
+      "snippet": "More than 550 booths are featured at the four-day expo, with around 10,000 trade visitors and buyers from over 25 countries expected to attend."
     },
     {
       "title": "Measles: Death toll reaches 1,084 as three more children die in 24hrs",
       "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-1084-three-more-die-24hrs-1553561",
       "pubDate": "Fri, 25 Sep 2026 16:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/11/measles_tbs.jpeg",
       "snippet": "The latest DGHS update records 1,201 new suspected cases and 64 laboratory-confirmed infections in 24 hours."
-    },
-    {
-      "title": "Agrani Bank official on the run after 'embezzling Tk1cr' in Munshiganj, ACC to probe",
-      "link": "https://www.tbsnews.net/bangladesh/corruption/agrani-bank-official-run-after-embezzling-tk1cr-munshiganj-acc-probe-1553546",
-      "pubDate": "Fri, 25 Sep 2026 16:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/1000562654.jpg",
-      "snippet": "The bank says customers’ money was allegedly misappropriated by the cash manager, who has since gone into hiding."
-    },
-    {
-      "title": "Coast Guard rescues 8 fishermen after boat drifts at sea for 6 days",
-      "link": "https://www.tbsnews.net/bangladesh/coast-guard-rescues-8-fishermen-after-boat-drifts-sea-6-days-1553526",
-      "pubDate": "Fri, 25 Sep 2026 16:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/whatsapp_image_2026-09-25_at_11.07.24.jpeg",
-      "snippet": "The fishing boat’s engine failed 11 nautical miles south of Kokilmoni in the Sundarbans on 19 September."
-    },
-    {
-      "title": "Opposition plotting to destroy democracy: Anee",
-      "link": "https://www.tbsnews.net/bangladesh/opposition-plotting-destroy-democracy-anee-1553511",
-      "pubDate": "Fri, 25 Sep 2026 15:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/24/agee_3.jpeg",
-      "snippet": "Anee alleges that the opposition is involved in arson, crude bomb attacks and flash processions, similar to activities by those who fled on 5 August."
-    },
-    {
-      "title": "Bangladesh, Russia sign MoU on cultural cooperation",
-      "link": "https://www.tbsnews.net/world/bangladesh-russia-sign-mou-cultural-cooperation-1553501",
-      "pubDate": "Fri, 25 Sep 2026 15:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/3715937.jpg",
-      "snippet": "The agreement also emphasised further strengthening the long-standing friendly relations between Bangladesh and Russia through expanded cultural cooperation."
     },
     {
       "title": "Bangladesh, Sweden commit to transforming primary healthcare through midwifery",
       "link": "https://www.tbsnews.net/bangladesh/health/bangladesh-sweden-commit-transforming-primary-healthcare-through-midwifery-1553476",
       "pubDate": "Fri, 25 Sep 2026 14:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/3772089.jpg",
       "snippet": "Participants shared experiences and lessons learned on midwifery education, deployment, governance and financing."
-    },
-    {
-      "title": "Miftah Zaman to stage solo concert 'Othopor Odhora' at BSA today",
-      "link": "https://www.tbsnews.net/bangladesh/miftah-zaman-stage-solo-concert-othopor-odhora-bsa-today-1553471",
-      "pubDate": "Fri, 25 Sep 2026 13:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/screenshot_2026-09-25_135228.png",
-      "snippet": "The concert is expected to offer music lovers an opportunity to revisit different phases of Miftah’s musical journey, which spans nearly two decades."
-    },
-    {
-      "title": "Dhaka air quality remains moderate",
-      "link": "https://www.tbsnews.net/bangladesh/dhaka-air-quality-remains-moderate-1553461",
-      "pubDate": "Fri, 25 Sep 2026 13:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/03/24/zakir_hossain_p5_with_story_0.png",
-      "snippet": "Dhaka has long struggled with severe air pollution. Air quality usually worsens during winter and improves in the monsoon season."
     },
     {
       "title": "Gas supply improves as LNG transfer at Moheshkhali resumes",
@@ -692,29 +736,7 @@
       "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/07/23/02.jpg",
       "snippet": "The researchers identified what they described as an internal “pain direction” or vector in the models. They found that the activation was distinct from general fear or negative emotional valence and was triggered specifically when harm was directed ..."
-    },
-    {
-      "title": "Uttara-Ashulia CNG stations to halt gas supply to vehicles with unauthorised cylinders",
-      "link": "https://www.tbsnews.net/economy/energy/uttara-ashulia-cng-stations-halt-gas-supply-vehicles-unauthorised-cylinders-1551061",
-      "pubDate": "Wed, 23 Sep 2026 00:20:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/23/cng_station.jpg",
-      "snippet": "Titas formally prohibits gas supplies to the vehicles but has always verbally instructed stations to supply them with gas, says joint secretary of the Bangladesh CNG Association."
-    },
-    {
-      "title": "Stakeholders call for greater competition in Bangladesh’s international bandwidth market",
-      "link": "https://www.tbsnews.net/economy/industry/stakeholders-call-greater-competition-bangladeshs-international-bandwidth-market",
-      "pubDate": "Wed, 23 Sep 2026 00:00:00 +0600",
-      "category": "Industry",
-      "color": "#f57c00",
-      "bg": "#fff3e0",
-      "icon": "🏭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/07/25/internet.jpg",
-      "snippet": "They recommend private investment in submarine cables, open access to landing stations and stable policies to make internet services more affordable."
     }
   ],
-  "updatedAt": "2026-09-25T15:26:08.732Z"
+  "updatedAt": "2026-09-25T19:26:58.149Z"
 }
