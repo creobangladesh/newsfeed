@@ -1,7 +1,150 @@
 {
   "news": [
     {
-      "title": "US hopes Bangladesh, India will agree on Sheikh Hasina’s fate",
+      "title": "Humaiun seeks stronger Brazil ties thru South-South cooperation",
+      "link": "https://www.tbsnews.net/bangladesh/humaiun-seeks-stronger-brazil-ties-thru-south-south-cooperation-1553931",
+      "pubDate": "Sat, 26 Sep 2026 11:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/09/humayun_kabir.jpg",
+      "snippet": "They expressed satisfaction with the growing momentum in Bangladesh-Brazil relations and discussed expanding cooperation in trade, investment and other areas of economic engagement."
+    },
+    {
+      "title": "Cancer patients face long waits amid radiotherapy machine shortage",
+      "link": "https://www.tbsnews.net/bangladesh/health/cancer-patients-face-long-waits-amid-radiotherapy-machine-shortage-1553881",
+      "pubDate": "Sat, 26 Sep 2026 11:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/26/radiotherapy_machine.jpeg",
+      "snippet": "At the Cancer Institute, patients begin gathering outside the LINAC-2 room from 8am. Between 200 and 300 new patients seek radiotherapy there every day, while 6,500-7,000 are currently on the waiting list, according to hospital authorities."
+    },
+    {
+      "title": "Chief Whip Moni returns home from Malaysia",
+      "link": "https://www.tbsnews.net/bangladesh/chief-whip-moni-returns-home-malaysia-1553921",
+      "pubDate": "Sat, 26 Sep 2026 10:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/26/6895602.jpg",
+      "snippet": "Moni arrived at Hazrat Shahjalal International Airport at 12:55am today (26 September) on a Malaysia Airlines flight."
+    },
+    {
+      "title": "As private jobs dry up, 21 lakh chase 1,485 govt posts",
+      "link": "https://www.tbsnews.net/bangladesh/private-jobs-dry-21-lakh-chase-1485-govt-posts-1553871",
+      "pubDate": "Sat, 26 Sep 2026 10:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/26/private-jobs.png",
+      "snippet": "Sluggish investment and global market uncertainties have constrained private sector hiring and wage growth+"
+    },
+    {
+      "title": "PM Tarique heads home after five-day UNGA visit",
+      "link": "https://www.tbsnews.net/bangladesh/pm-tarique-heads-home-after-five-day-unga-visit-1553896",
+      "pubDate": "Sat, 26 Sep 2026 10:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/26/8076919.jpg",
+      "snippet": "The flight is scheduled to reach Dubai at 8pm today (26 September) and depart for Dhaka at 2am tomorrow (27 September)."
+    },
+    {
+      "title": "BB directs KPI framework for bank CEOs, spurs regulatory overreach concerns",
+      "link": "https://www.tbsnews.net/economy/banking/bb-directs-kpi-framework-bank-ceos-spurs-regulatory-overreach-concerns-1553876",
+      "pubDate": "Sat, 26 Sep 2026 10:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/13/bangladesh-bank-review.jpg",
+      "snippet": "The framework includes indicators such as return on investment (ROI), return on equity (ROE), interest and non-interest income, and operating expenses."
+    },
+    {
+      "title": "Climate shocks hit salt production, push prices up 50%",
+      "link": "https://www.tbsnews.net/economy/climate-shocks-hit-salt-production-push-prices-50-1553886",
+      "pubDate": "Sat, 26 Sep 2026 09:25:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/26/salt.jpg",
+      "snippet": "The impact was particularly severe in FY26, when adverse weather caused salt production to fall 28% below the target."
+    },
+    {
+      "title": "PDB plans Tk870cr project to restore 20-30MW at Kaptai power plant",
+      "link": "https://www.tbsnews.net/economy/energy/pdb-plans-tk870cr-project-restore-20-30mw-kaptai-power-plant-1553851",
+      "pubDate": "Sat, 26 Sep 2026 08:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/08/22/kaptai-plant.jpg",
+      "snippet": "Each unit has a generation capacity of 50MW but currently produces only 35-40MW because of extensive damage to structural components, ageing foundations, and outdated control systems"
+    },
+    {
+      "title": "UN human rights chief Volker Türk meets PM",
+      "link": "https://www.tbsnews.net/foreign-policy/un-human-rights-chief-volker-turk-meets-pm-1553846",
+      "pubDate": "Sat, 26 Sep 2026 08:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/26/un_unga_pezeshkian_tarique_rahman_volker_turk.png",
+      "snippet": "The meeting was held at Hotel Grand Hyatt in New York on Friday afternoon local time, said Prime Minister’s Assistant Press Secretary K M Nazmul Haque"
+    },
+    {
+      "title": "PM, UAE foreign minister discuss stronger economic partnership, wider cooperation",
+      "link": "https://www.tbsnews.net/foreign-policy/pm-uae-foreign-minister-discuss-stronger-economic-partnership-wider-cooperation",
+      "pubDate": "Sat, 26 Sep 2026 07:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/26/unga_tarique_rahman_uae_fm.png",
+      "snippet": "The two leaders also exchanged views on regional and international issues of mutual interest at the meeting held at the UAE Mission in New York."
+    },
+    {
+      "title": "Tarique, Saudi FM discuss deepening bilateral ties, expanding investment",
+      "link": "https://www.tbsnews.net/foreign-policy/tarique-saudi-fm-discuss-deepening-bilateral-ties-expanding-investment-1553841",
+      "pubDate": "Sat, 26 Sep 2026 07:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/26/unga_tarique_rahman_saudi_fm.png",
+      "snippet": "The meeting was held at the UN Bilateral Booth (GAL-7) at the United Nations Headquarters on the sidelines of the 81st session of the UN General Assembly"
+    },
+    {
+      "title": "Bangladesh is open for business: PM to Wall Street",
+      "link": "https://www.tbsnews.net/foreign-policy/pm-wall-street-bangladesh-open-business-1553831",
+      "pubDate": "Sat, 26 Sep 2026 07:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/07/30/wall_street.jpg",
+      "snippet": "The Prime Minister also stressed the importance of deepening Bangladesh's economic relationship with the United States."
+    },
+    {
+      "title": "PM held 30 programmes, including bilateral meetings with 11 countries, during NY visit: Mahdi",
+      "link": "https://www.tbsnews.net/foreign-policy/pm-held-30-programmes-including-bilateral-meetings-11-countries-during-ny-visit-mahdi",
+      "pubDate": "Sat, 26 Sep 2026 07:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/22/image-426931-1790013066.jpg",
+      "snippet": "He said Bangladesh’s national interests, trade and investment, manpower export, energy security, regional cooperation, the Rohingya crisis, healthcare, climate change and global peace featured prominently in the meetings and programmes"
+    },
+    {
+      "title": "US hopes Bangladesh, India will agree on Sheikh Hasina's fate",
       "link": "https://www.tbsnews.net/foreign-policy/us-hopes-bangladesh-india-will-agree-sheikh-hasinas-fate-1553811",
       "pubDate": "Sat, 26 Sep 2026 01:20:00 +0600",
       "category": "Bangladesh",
@@ -103,32 +246,21 @@
       "title": " Cuet teachers announce full strike demanding ex-VC's reinstatement",
       "link": "https://www.tbsnews.net/bangladesh/cuet-teachers-announce-full-strike-demanding-ex-vcs-reinstatement-1553736",
       "pubDate": "Fri, 25 Sep 2026 21:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/day_at_cuet_111.jpg",
       "snippet": "Hall and emergency activities will remain operational during the strike, the teachers' association says."
-    },
-    {
-      "title": "NGO clinic in Mirpur 'demolished' in midnight raid; case filed",
-      "link": "https://www.tbsnews.net/bangladesh/ngo-clinic-mirpur-demolished-midnight-raid-case-filed-1553726",
-      "pubDate": "Fri, 25 Sep 2026 21:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/d4103f5d-8de1-4d36-aa4f-017025d87b30.png",
-      "snippet": "Clinic operator alleges 200-250 masked people vandalised, looted and demolished the facility; traders' cooperative says the land was legally allotted to it"
     },
     {
       "title": "Two more dengue deaths take toll to 211",
       "link": "https://www.tbsnews.net/bangladesh/health/two-more-dengue-deaths-take-toll-211-1553731",
       "pubDate": "Fri, 25 Sep 2026 21:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/14/dengue.jpg",
       "snippet": "Dengue death toll reaches 211 as 955 new cases reported."
     },
@@ -136,56 +268,12 @@
       "title": "Spain business community sees huge trade, investment potential in Bangladesh",
       "link": "https://www.tbsnews.net/economy/spain-business-community-sees-huge-trade-investment-potential-bangladesh-1553716",
       "pubDate": "Fri, 25 Sep 2026 21:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/spanish_and_bangladeshi_business_representatives_attend_a_seminar_on_trade_and_investment_opportunities_in_bangladesh_in_madrid.jpg",
       "snippet": "Madrid Chamber president identifies potential in textiles, pharmaceuticals, infrastructure, renewable energy and other sectors."
-    },
-    {
-      "title": " Govt plans to turn Teknaf's Sabrang Park into world-class tourism hub",
-      "link": "https://www.tbsnews.net/bangladesh/govt-plans-turn-teknafs-sabrang-park-world-class-tourism-hub-1553711",
-      "pubDate": "Fri, 25 Sep 2026 21:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/whatsapp_image_2026-09-25_at_7.23.08_pm.jpeg",
-      "snippet": "Around 500 acres of the planned 1,000-acre park have been lost to the sea, while a jetty is expected to be completed in about two years."
-    },
-    {
-      "title": "LNG unloading resumes, pressure normalise: Amit",
-      "link": "https://www.tbsnews.net/bangladesh/lng-unloading-resumes-pressure-normalise-amit-1553701",
-      "pubDate": "Fri, 25 Sep 2026 20:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/state_minister_for_power_energy_and_mineral_resources_anindya_islam_amit_2.png",
-      "snippet": "LNG unloading resumes as govt expects gas pressure to normalise."
-    },
-    {
-      "title": "Bangladesh reaffirms support for independent Palestine at UN meeting",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-reaffirms-support-independent-palestine-un-meeting-1553696",
-      "pubDate": "Fri, 25 Sep 2026 19:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/state_minister_for_foreign_affairs_shama_obaed_islam_2.jpg",
-      "snippet": "Shama Obaed urges concrete action towards Palestinian statehood."
-    },
-    {
-      "title": "Jubo League leader arrested over Jatrabari blast; 9,000 masks, bomb-making materials seized",
-      "link": "https://www.tbsnews.net/bangladesh/jubo-league-leader-arrested-over-jatrabari-blast-9000-masks-bomb-making-materials-seized",
-      "pubDate": "Fri, 25 Sep 2026 19:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/819920724_1821732005660283_3748804092934314008_n.jpg",
-      "snippet": "Police allege Emon supplied materials for recent attacks."
     },
     {
       "title": "What Bangladesh’s Overton window reveals about social attitude",
@@ -199,17 +287,6 @@
       "snippet": "Bangladeshis strongly favour religious and traditional social norms, yet the survey shows that public opinion is more selective and internally complex than a simple liberal–conservative divide suggests"
     },
     {
-      "title": "Fuel price hike ripples through markets, driving up daily essentials",
-      "link": "https://www.tbsnews.net/bangladesh/fuel-price-hike-ripples-through-markets-driving-daily-essentials-1553681",
-      "pubDate": "Fri, 25 Sep 2026 19:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/03/18/coronavirus_commodity_market_2.jpg",
-      "snippet": "Vegetables, eggs, fish, chicken, flour and milk have become costlier, with traders blaming higher transport costs following the fuel price hike."
-    },
-    {
       "title": "Rooftop solar in Bangladesh: The missing link in domestic billing",
       "link": "https://www.tbsnews.net/thoughts/rooftop-solar-bangladesh-missing-link-domestic-billing-1553676",
       "pubDate": "Fri, 25 Sep 2026 19:25:00 +0600",
@@ -219,39 +296,6 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/solar_photo_tbs_1.jpg",
       "snippet": "Bangladesh's rooftop solar policy needs a billing mechanism that ensures apartment building owners can receive fair value for solar electricity consumed by residents through separate meters"
-    },
-    {
-      "title": "Chattogram Port committee rejects minister's 'stagnant management' claim",
-      "link": "https://www.tbsnews.net/bangladesh/chattogram-port-committee-rejects-ministers-stagnant-management-claim-1553666",
-      "pubDate": "Fri, 25 Sep 2026 19:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/02/ctg_port_feb_2026.jpg",
-      "snippet": "Committee backs local workforce and opposes long-term foreign leases."
-    },
-    {
-      "title": "Shama urges safeguards for AI use in mediation",
-      "link": "https://www.tbsnews.net/bangladesh/shama-urges-safeguards-ai-use-mediation-1553651",
-      "pubDate": "Fri, 25 Sep 2026 19:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/state_minister_for_foreign_affairs_shama_obaed_islam.jpg",
-      "snippet": "Bangladesh pushes for guardrails as AI enters mediation talks."
-    },
-    {
-      "title": "Cox's Bazar Airport new terminal set to open next week",
-      "link": "https://www.tbsnews.net/bangladesh/coxs-bazar-airport-new-terminal-set-open-next-week-1553636",
-      "pubDate": "Fri, 25 Sep 2026 18:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/coxs_bazar_new_terminal_tbs.jpeg",
-      "snippet": "Cox's Bazar airport new terminal to open for domestic flights next week"
     },
     {
       "title": "11 Bangladeshi apparel firms join Saudi Arabia fashion and textiles expo",
@@ -681,62 +725,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/20/islami_bank_pano_copy.png",
       "snippet": "This has exposed some of the bank’s long-standing corporate customers to business risks."
-    },
-    {
-      "title": "CV boxes, no exams, no circulars: Fresh probe exposes S Alam-era Islami Bank hiring scam",
-      "link": "https://www.tbsnews.net/economy/banking/cv-boxes-no-exams-no-circulars-fresh-probe-exposes-s-alam-era-islami-bank-hiring",
-      "pubDate": "Wed, 23 Sep 2026 12:15:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/08/30/s-alam-group.png",
-      "snippet": "Bangladesh Bank re-investigated the recruitment process following protests by sacked Islami Bank officials over dismissals and statements made in Parliament regarding the issue."
-    },
-    {
-      "title": "ADB approves $200m loan to modernise Bangladesh power distribution network",
-      "link": "https://www.tbsnews.net/economy/banking/adb-approves-200m-loan-modernise-bangladesh-power-distribution-network-1551236",
-      "pubDate": "Wed, 23 Sep 2026 12:00:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/09/adb.jpg",
-      "snippet": "The project will install 1,150 megavolt-amperes of new transformer capacity across 52 substations and increase the capacity of 12 existing substations by 115 megavolt-amperes."
-    },
-    {
-      "title": "Govt doctors barred from practising at clinics within 1km of govt hospitals",
-      "link": "https://www.tbsnews.net/bangladesh/health/govt-doctors-barred-practising-clinics-within-1km-govt-hospitals-1551226",
-      "pubDate": "Wed, 23 Sep 2026 11:50:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/07/28/health.jpg",
-      "snippet": "The directive, signed by DGHS Hospital and Clinics Department Director Dr Md Nurul Islam, said the decision was taken in line with Decision No 6 of the minutes of a 17 August meeting chaired by the prime minister on improving healthcare quality."
-    },
-    {
-      "title": "ADB cuts Bangladesh’s GDP growth forecast to 4%, warns inflation will hit 9% in FY27",
-      "link": "https://www.tbsnews.net/economy/adb-cuts-bangladeshs-gdp-growth-forecast-4-warns-inflation-will-hit-9-fy27-1551156",
-      "pubDate": "Wed, 23 Sep 2026 10:25:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/23/814816190_1128141879781316_5169644558831025435_n.jpg",
-      "snippet": "The latest forecast is also well below the government’s 6.5% GDP growth target for the current fiscal year."
-    },
-    {
-      "title": "Study finds AI models can represent 'pain' and act to avoid it",
-      "link": "https://www.tbsnews.net/tech/study-finds-ai-models-can-represent-pain-and-act-avoid-it-1551106",
-      "pubDate": "Wed, 23 Sep 2026 08:30:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/07/23/02.jpg",
-      "snippet": "The researchers identified what they described as an internal “pain direction” or vector in the models. They found that the activation was distinct from general fear or negative emotional valence and was triggered specifically when harm was directed ..."
     }
   ],
-  "updatedAt": "2026-09-26T01:13:02.545Z"
+  "updatedAt": "2026-09-26T06:26:55.978Z"
 }
