@@ -1,6 +1,94 @@
 {
   "news": [
     {
+      "title": "3 college students killed as bus hits motorcycle in Barishal",
+      "link": "https://www.tbsnews.net/bangladesh/districts/3-college-students-killed-bus-hits-motorcycle-barishal-1556861",
+      "pubDate": "Tue, 29 Sep 2026 01:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/29/bus_accident_barishal.jpg",
+      "snippet": "The accident occurred around 6:30pm in the Atipara area of the Dhaka-Barishal Highway, police said."
+    },
+    {
+      "title": "Sylhet Engineering College teachers freed after 33hrs amid student protest",
+      "link": "https://www.tbsnews.net/bangladesh/education/sylhet-engineering-college-teachers-freed-after-33hrs-amid-student-protest",
+      "pubDate": "Tue, 29 Sep 2026 01:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/29/sylhet_engineering_clg_students_protest.jpg",
+      "snippet": "Students demand separation from the Directorate of Technical Education and affiliation with SUST."
+    },
+    {
+      "title": "Cigarettes get cheaper in real terms despite price hikes: PPRC",
+      "link": "https://www.tbsnews.net/bangladesh/cigarettes-get-cheaper-real-terms-despite-price-hikes-pprc-1556851",
+      "pubDate": "Tue, 29 Sep 2026 01:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/03/29/bat_tobacco_cigarette.jpg",
+      "snippet": "Inflation-adjusted cigarette prices declined across most tiers by August 2026, while low-tier market share fell below 49%, according to PPRC analysis."
+    },
+    {
+      "title": "RCEP: The door is opening, but is the house ready?",
+      "link": "https://www.tbsnews.net/analysis/rcep-door-opening-house-ready-1556846",
+      "pubDate": "Tue, 29 Sep 2026 00:55:00 +0600",
+      "category": "Analysis",
+      "color": "#5d4037",
+      "bg": "#efebe9",
+      "icon": "🔍",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/21/selim_raihan_sanem_latest.jpg",
+      "snippet": "The recommendation was later approved at the fifth RCEP Ministerial Meeting held in Manila, the capital of the Philippines."
+    },
+    {
+      "title": "Bangladesh issues caution about travelling Nepal",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-issues-caution-about-travelling-nepal-1556841",
+      "pubDate": "Tue, 29 Sep 2026 00:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/06/nepal_flood.jpg",
+      "snippet": "Bangladeshis have been advised to avoid Pisang, Chame, Manang and nearby tourist destinations amid worsening weather conditions in Nepal."
+    },
+    {
+      "title": "Another suspect arrested over attack on New Gini Properties",
+      "link": "https://www.tbsnews.net/bangladesh/crime/another-suspect-arrested-over-attack-new-gini-properties-1556836",
+      "pubDate": "Tue, 29 Sep 2026 00:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/29/mizanur_rahman.jpg",
+      "snippet": "He was arrested from the Matikata area of Mirpur around 5pm today."
+    },
+    {
+      "title": "Export diversification strategy for 18 key markets being prepared: Commerce secy",
+      "link": "https://www.tbsnews.net/economy/export-diversification-strategy-18-key-markets-being-prepared-commerce-secy-1556831",
+      "pubDate": "Tue, 29 Sep 2026 00:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/05/16/ctg_port_2_1.png",
+      "snippet": "Commerce Secretary Md Ataur Rahman Khan disclosed the plan while chairing a workshop “Bangladesh Export Diversification Strategy: Product and Market Diversification Across 18 Key Trading Destinations” at the Secretariat today (28 September)."
+    },
+    {
+      "title": "Bangladesh Missions abroad go offline due to technical issues with DIP server",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-missions-abroad-go-offline-due-technical-issues-dip-server-1556821",
+      "pubDate": "Mon, 28 Sep 2026 23:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/04/75c23941b5d402026e1ea1c7_1.jpg",
+      "snippet": "The Department of Immigration and Passports (DIP), Bangladesh, is working to resolve the technical issues and restore the central system at the earliest possible time."
+    },
+    {
       "title": "Missing madrasah student found after 6 days, family duped of Tk10,000",
       "link": "https://www.tbsnews.net/bangladesh/missing-madrasah-student-found-after-6-days-family-duped-tk10000-1556796",
       "pubDate": "Mon, 28 Sep 2026 22:15:00 +0600",
@@ -56,7 +144,7 @@
       "snippet": "LPG operators assure govt of adequate supply amid rising demand."
     },
     {
-      "title": "17 crude, petrol bombs recovered in Sher-e-Bangla Nagar, Rayer Bazar",
+      "title": "17 crude, petrol bombs recovered in Sher-e-Bangla Nagar; Rayer Bazar memorial cordoned off after similar like objects found",
       "link": "https://www.tbsnews.net/bangladesh/crime/17-crude-petrol-bombs-recovered-sher-e-bangla-nagar-rayer-bazar-1556721",
       "pubDate": "Mon, 28 Sep 2026 21:35:00 +0600",
       "category": "Bangladesh",
@@ -100,7 +188,7 @@
       "snippet": "Nearly 7 lakh trainees have received NSDA certificates, but weak industry links and skills mismatches continue to limit employment prospects."
     },
     {
-      "title": "Container deliveries halted at Ctg Port after clash over gate pass fees",
+      "title": "Ctg Port container deliveries suffer brief halt after clash over gate pass fees",
       "link": "https://www.tbsnews.net/bangladesh/container-deliveries-halted-ctg-port-after-clash-over-gate-pass-fees-1556636",
       "pubDate": "Mon, 28 Sep 2026 20:40:00 +0600",
       "category": "Bangladesh",
@@ -142,83 +230,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/26/8076919.jpg",
       "snippet": "The Tk1,542.16 crore project will rehabilitate flood-control embankments, protect riverbanks and improve irrigation infrastructure in Feni."
-    },
-    {
-      "title": "President urges businesses to tap Saudi Arabia's manpower, infrastructure opportunities",
-      "link": "https://www.tbsnews.net/foreign-policy/president-urges-businesses-tap-saudi-arabias-manpower-infrastructure-opportunities",
-      "pubDate": "Mon, 28 Sep 2026 20:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/28/president_mirza_fakhrul_islam_alamgir.jpg",
-      "snippet": "The delegation briefed the president on opportunities emerging from Saudi Arabia's Vision 2030, World Expo and preparations for the 2034 Fifa World Cup, including major infrastructure projects and rising demand for skilled workers."
-    },
-    {
-      "title": "ACI, Ichinen join hands for motorcycle finance, Japan jobs and sweet potato exports",
-      "link": "https://www.tbsnews.net/bangladesh/aci-ichinen-join-hands-motorcycle-finance-japan-jobs-and-sweet-potato-exports-1556581",
-      "pubDate": "Mon, 28 Sep 2026 19:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/28/aci_logo_ichinen_holdings_co_ltd_logo.png",
-      "snippet": "The joint venture will finance Yamaha motorcycle sales, facilitate skilled worker migration to Japan and export Bangladeshi sweet potatoes."
-    },
-    {
-      "title": "2 more sent to jail over attack, vandalism at New Gini Properties",
-      "link": "https://www.tbsnews.net/bangladesh/court/two-more-sent-jail-over-attack-salman-muqtadirs-studio-1556586",
-      "pubDate": "Mon, 28 Sep 2026 19:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/18/jailed_representational_image.jpg",
-      "snippet": "The court rejected bail pleas from the two accused, bringing the number of people jailed in the case to five."
-    },
-    {
-      "title": "Jamaat announces Tk50 lakh donation for Radda clinic",
-      "link": "https://www.tbsnews.net/bangladesh/politics/jamaat-announces-tk-50-lakh-donation-radda-health-centre-1556576",
-      "pubDate": "Mon, 28 Sep 2026 19:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/28/shafiqur.png",
-      "snippet": "Dr Shafiqur Rahman further assistance would be provided, if necessary, to ensure healthcare services for people in the area."
-    },
-    {
-      "title": "Other ministries trying to render environment ministry ineffective: Anu Muhammad",
-      "link": "https://www.tbsnews.net/bangladesh/environment/other-ministries-trying-render-environment-ministry-ineffective-anu-muhammad",
-      "pubDate": "Mon, 28 Sep 2026 19:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/28/anu_muhammad.jpg",
-      "snippet": "He says there is little interest or initiative to comply with environmental laws, while a tendency has emerged to view them as obstacles to development."
-    },
-    {
-      "title": "Bangladesh-Malaysia tourism, arts network launched to strengthen cultural ties",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-malaysia-tourism-arts-network-launched-strengthen-cultural-ties-1556561",
-      "pubDate": "Mon, 28 Sep 2026 19:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/28/mbtacn.png",
-      "snippet": "MBTACN aims to bring together stakeholders from tourism, culture, arts, education, healthcare, business and youth sectors while promoting stronger people-to-people connections between Bangladesh and Malaysia."
-    },
-    {
-      "title": "HAAB seeks more 20,000 Hajj quotas ",
-      "link": "https://www.tbsnews.net/bangladesh/haab-seeks-more-20000-hajj-quotas-1556541",
-      "pubDate": "Mon, 28 Sep 2026 19:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/14/hajj.jpg",
-      "snippet": "More than 20,000 Bangladeshis are still waiting to register for the 2027 Hajj after the 78,500 quota was filled."
     },
     {
       "title": "Dengue claims 8 more lives, 2,036 hospitalised in 24 hrs",
@@ -780,18 +791,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/08/22/kaptai-plant.jpg",
       "snippet": "Each unit has a generation capacity of 50MW but currently produces only 35-40MW because of extensive damage to structural components, ageing foundations, and outdated control systems"
-    },
-    {
-      "title": "Are policymakers understanding the warning from investment?",
-      "link": "https://www.tbsnews.net/thoughts/are-policymakers-understanding-warning-investment-1553771",
-      "pubDate": "Sat, 26 Sep 2026 00:05:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/21/selim_raihan_sanem_latest.jpg",
-      "snippet": "Stagnation has been evident in the country’s investment climate for a long time, creating considerable uncertainty about future growth and employment."
     }
   ],
-  "updatedAt": "2026-09-28T16:54:43.996Z"
+  "updatedAt": "2026-09-28T22:25:17.502Z"
 }
