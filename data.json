@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Lubricant prices climb as Middle East crisis squeezes Bangladesh market",
+      "link": "https://www.tbsnews.net/economy/lubricant-prices-climb-middle-east-crisis-squeezes-bangladesh-market-1555701",
+      "pubDate": "Mon, 28 Sep 2026 07:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/09/29/lub-rref_lubricant_factory_1.jpg",
+      "snippet": "The latest increase in domestic fuel prices is adding to costs for vehicle owners, but industry insiders say lubricant prices are not directly linked to the government’s fuel-price adjustment"
+    },
+    {
       "title": "Mechanical fault shuts Kumaragaon power plant, worsens load shedding in Sylhet",
       "link": "https://www.tbsnews.net/bangladesh/mechanical-fault-shuts-kumaragaon-power-plant-worsens-load-shedding-sylhet-1555681",
       "pubDate": "Mon, 28 Sep 2026 00:50:00 +0600",
@@ -241,17 +252,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/26/jasad_office_raid.jpeg",
       "snippet": "Home minister says Awami League leaders and activists were planning sabotage inside Jasad office."
-    },
-    {
-      "title": "We want a liveable Dhaka, not to turn it into Canada, Australia or Singapore: Shahe Alam",
-      "link": "https://www.tbsnews.net/bangladesh/we-want-liveable-dhaka-not-turn-it-canada-australia-or-singapore-shahe-alam-1555426",
-      "pubDate": "Sun, 27 Sep 2026 20:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/27/non-surgical_3.png",
-      "snippet": "State minister says canals will be restored, encroachments removed and walkways developed."
     },
     {
       "title": "BB offers incentives to boost Bangla QR transactions",
@@ -758,18 +758,7 @@
       "icon": "🏭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/06/08/fortune_shoes.jpg",
       "snippet": "The company had decided to invest in both Vietnam and Bangladesh at the same time. However, investing in Bangladesh paid off, as the footwear industry requires far more workers than electronics manufacturing, Tony Hsieh, operations manager of the com..."
-    },
-    {
-      "title": "Zubaida stresses role of midwives in preventing maternal, newborn deaths",
-      "link": "https://www.tbsnews.net/bangladesh/health/zubaida-stresses-role-midwives-preventing-maternal-newborn-deaths-1553291",
-      "pubDate": "Fri, 25 Sep 2026 07:45:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/9916956.jpg",
-      "snippet": "Zubaida said Bangladesh’s vision of a “Healthy Bangladesh” is to move from a treatment-centered system to one that emphasises prevention, early identification, and continuity of care, with services closer to people’s homes."
     }
   ],
-  "updatedAt": "2026-09-27T23:16:26.304Z"
+  "updatedAt": "2026-09-28T01:52:18.840Z"
 }
