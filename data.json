@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Poultry feed prices jump twice in a month as raw material costs rise 27%",
+      "link": "https://www.tbsnews.net/economy/poultry-feed-prices-jump-twice-month-raw-material-costs-rise-27-1556866",
+      "pubDate": "Tue, 29 Sep 2026 07:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/03/23/broiler-chicken-696x464.jpg",
+      "snippet": "Feed manufacturers say they are still incurring losses of more than Tk3 per kg as finished-feed prices have not fully reflected rising raw-material costs"
+    },
+    {
       "title": "3 college students killed as bus hits motorcycle in Barishal",
       "link": "https://www.tbsnews.net/bangladesh/districts/3-college-students-killed-bus-hits-motorcycle-barishal-1556861",
       "pubDate": "Tue, 29 Sep 2026 01:40:00 +0600",
@@ -219,17 +230,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/28/officials_from_bangladesh_ifad_and_denmark.jpg",
       "snippet": "Bangladesh, IFAD and Denmark launch $112m climate resilience project."
-    },
-    {
-      "title": "PM to inaugurate Tk1,542cr Muhuri-Kohua project in Feni on 1 Oct",
-      "link": "https://www.tbsnews.net/bangladesh/pm-inaugurate-tk1542cr-muhuri-kohua-project-feni-1-oct-1556596",
-      "pubDate": "Mon, 28 Sep 2026 20:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/26/8076919.jpg",
-      "snippet": "The Tk1,542.16 crore project will rehabilitate flood-control embankments, protect riverbanks and improve irrigation infrastructure in Feni."
     },
     {
       "title": "Dengue claims 8 more lives, 2,036 hospitalised in 24 hrs",
@@ -793,5 +793,5 @@
       "snippet": "Each unit has a generation capacity of 50MW but currently produces only 35-40MW because of extensive damage to structural components, ageing foundations, and outdated control systems"
     }
   ],
-  "updatedAt": "2026-09-28T22:25:17.502Z"
+  "updatedAt": "2026-09-29T02:11:02.790Z"
 }
