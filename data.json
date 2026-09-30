@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "City Group faces default risk as banks balk at Tk6,000cr fresh funding",
+      "link": "https://www.tbsnews.net/economy/banking/city-group-faces-default-risk-banks-balk-tk6000cr-fresh-funding-1558021",
+      "pubDate": "Wed, 30 Sep 2026 09:40:00 +0600",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/30/city_group.jpg",
+      "snippet": "With the September deadline approaching, the lenders have yet to reach an agreement and have sought Bangladesh Bank’s approval to extend the deferral period for loan classification."
+    },
+    {
+      "title": "Govt borrows Tk16,601cr from banks in first two months of FY27",
+      "link": "https://www.tbsnews.net/economy/govt-borrows-tk16601cr-banks-first-two-months-fy27-1558011",
+      "pubDate": "Wed, 30 Sep 2026 08:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/07/27/debt.png",
+      "snippet": "Only Tk463cr borrowed during same time last year"
+    },
+    {
+      "title": "Private sector credit growth stays below 5% for six months",
+      "link": "https://www.tbsnews.net/economy/private-sector-credit-growth-stays-below-5-six-months-1557971",
+      "pubDate": "Wed, 30 Sep 2026 07:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/08/31/credit-growth.jpg",
+      "snippet": "Bankers and economists attributed the slowdown to weak business and investment demand, sluggish domestic consumption and economic activity, and an energy crisis that has increased operating costs"
+    },
+    {
       "title": "38 eminent citizens express concern over politically backed violence, land grabbing and extortion",
       "link": "https://www.tbsnews.net/bangladesh/38-eminent-citizens-express-concern-over-politically-backed-violence-land-grabbing-and",
       "pubDate": "Wed, 30 Sep 2026 00:55:00 +0600",
@@ -208,28 +241,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/29/global_innovation_index.jpg",
       "snippet": "Bangladesh ranks 105th among 139 economies, one place behind Nepal."
-    },
-    {
-      "title": "Local govt elections to begin in January, end by 6 June: Shahe Alam",
-      "link": "https://www.tbsnews.net/bangladesh/lgis-elections-will-be-fair-govt-wont-shoulder-any-stigma-shahe-alam-1557786",
-      "pubDate": "Tue, 29 Sep 2026 21:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/29/lgis_elections_will_be_fair-mir_shahe_alam.jpg",
-      "snippet": "The state minister says the government will not accept any stigma associated with the electoral process and is committed to ensuring free, fair and impartial polls."
-    },
-    {
-      "title": "35 injured as two BNP factions clash in Cumilla",
-      "link": "https://www.tbsnews.net/bangladesh/35-injured-two-bnp-factions-clash-cumilla-1557781",
-      "pubDate": "Tue, 29 Sep 2026 21:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/29/cumilla.png",
-      "snippet": "The clash reportedly stemmed from a long-standing dispute over establishing political dominance in Meghna’s Nalchar village."
     },
     {
       "title": "Cenbank issues first Islamic credit card guidelines",
@@ -780,18 +791,7 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/01/11/school_textbook.jpg",
       "snippet": "New books and revised historical content coming in 2027"
-    },
-    {
-      "title": "Parjatan Corporation proposes Tk19,000cr projects to revamp tourist spots",
-      "link": "https://www.tbsnews.net/economy/parjatan-corporation-proposes-tk19000cr-projects-revamp-tourist-spots-1554691",
-      "pubDate": "Sun, 27 Sep 2026 07:15:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/09/01/parjatan.jpg",
-      "snippet": "The projects cover the Chattogram Hill Tracts, Cox’s Bazar and Chattogram, Sylhet, coastal islands, Rajshahi and northern districts, the Khulna-Sundarbans region, and Dhaka and its surrounding areas"
     }
   ],
-  "updatedAt": "2026-09-29T23:53:13.447Z"
+  "updatedAt": "2026-09-30T04:15:47.074Z"
 }
