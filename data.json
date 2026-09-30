@@ -1,6 +1,72 @@
 {
   "news": [
     {
+      "title": "Customs seize drones worth Tk1 crore misdeclared as toys",
+      "link": "https://www.tbsnews.net/bangladesh/crime/customs-seize-drones-worth-tk1-crore-misdeclared-toys-1559111",
+      "pubDate": "Thu, 01 Oct 2026 01:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/01/0ee8d425-a88f-4339-9422-c730e53e52a0.jpg",
+      "snippet": ""
+    },
+    {
+      "title": "Experts call for fair water-sharing agreements amid South Asia's water tensions",
+      "link": "https://www.tbsnews.net/bangladesh/experts-call-fair-water-sharing-agreements-amid-south-asias-water-tensions-1559106",
+      "pubDate": "Thu, 01 Oct 2026 01:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/01/water_share_seminar_ctg.jpeg",
+      "snippet": "Speakers at a Chittagong University seminar urge research-based, people-oriented agreements, information sharing and joint river management to ensure equitable water rights in the region."
+    },
+    {
+      "title": "Plug and Play sees potential to mobilise over $500m FDI for Bangladesh",
+      "link": "https://www.tbsnews.net/bangladesh/plug-and-play-sees-potential-mobilise-over-500m-fdi-bangladesh-1559091",
+      "pubDate": "Thu, 01 Oct 2026 00:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/01/plug_and_play.png",
+      "snippet": "A strategic partnership proposal outlines the potential FDI, with specific investments subject to further engagement, due diligence, financing arrangements and necessary approvals."
+    },
+    {
+      "title": "Police, city officials under attack during Mirpur eviction drive; Salahuddin cites coordination gap",
+      "link": "https://www.tbsnews.net/bangladesh/police-city-officials-under-attack-during-mirpur-eviction-drive-salahuddin-cites",
+      "pubDate": "Thu, 01 Oct 2026 00:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/30/825261534_1128011939680262_1165965130937623511_n.jpg",
+      "snippet": "Police said eight to nine personnel were injured and around 30 people were detained in connection with the clashes."
+    },
+    {
+      "title": "No separate notification for MPO teachers under new pay scale: Education secretary",
+      "link": "https://www.tbsnews.net/bangladesh/education/no-separate-notification-mpo-teachers-under-new-pay-scale-education-secretary",
+      "pubDate": "Wed, 30 Sep 2026 23:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/30/edu_secy.png",
+      "snippet": "Existing government gazette will cover salaries and allowances"
+    },
+    {
+      "title": "Schoolteacher detained in Kushtia over 'derogatory remarks' about PM",
+      "link": "https://www.tbsnews.net/bangladesh/schoolteacher-detained-kushtia-over-derogatory-remarks-about-pm-1559066",
+      "pubDate": "Wed, 30 Sep 2026 23:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/30/kushtia_teacher_detain.jpeg",
+      "snippet": "Police say the incident triggered discussion and tension in the area."
+    },
+    {
       "title": "ICB at 50: State investment bank charts recovery plan to tackle crisis",
       "link": "https://www.tbsnews.net/economy/stocks/icb-50-state-investment-bank-charts-recovery-plan-tackle-crisis-1559051",
       "pubDate": "Wed, 30 Sep 2026 22:10:00 +0600",
@@ -78,17 +144,6 @@
       "snippet": "IDRA is preparing to file a GD over the misuse of its name, while BSEC says it is monitoring the issue for any suspicious trading linked to the fake documents."
     },
     {
-      "title": "Govt pledges policy support for youth research in AI, semiconductors and robotics",
-      "link": "https://www.tbsnews.net/bangladesh/govt-pledges-policy-support-youth-research-ai-semiconductors-and-robotics-1558986",
-      "pubDate": "Wed, 30 Sep 2026 21:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/30/zahir_uddin_swapan.png",
-      "snippet": "Prime minister’s political adviser Zahir Uddin Swapon urges young technologists to develop AI platforms and datasets tailored to Bangladesh’s needs."
-    },
-    {
       "title": "49th BCS gazette leaves out 57 names from PSC-recommended list",
       "link": "https://www.tbsnews.net/bangladesh/49th-bcs-gazette-leaves-out-57-names-psc-recommended-list-1558991",
       "pubDate": "Wed, 30 Sep 2026 21:40:00 +0600",
@@ -98,6 +153,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/01/27/bcs_0.jpeg",
       "snippet": "The government appointed 611 candidates to the general education cadre, while the PSC had earlier recommended 668 candidates for final appointment."
+    },
+    {
+      "title": "Govt pledges policy support for youth research in AI, semiconductors and robotics",
+      "link": "https://www.tbsnews.net/bangladesh/govt-pledges-policy-support-youth-research-ai-semiconductors-and-robotics-1558986",
+      "pubDate": "Wed, 30 Sep 2026 21:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/30/zahir_uddin_swapan.png",
+      "snippet": "Prime minister’s political adviser Zahir Uddin Swapon urges young technologists to develop AI platforms and datasets tailored to Bangladesh’s needs."
     },
     {
       "title": "Home minister to unveil plaque for new Ansar Headquarters tomorrow",
@@ -155,28 +221,6 @@
       "snippet": "He instructed the Local Government Engineering Department (LGED) authorities to formulate a project for constructing paved roads across the entire border area of Kurigram to strengthen security and patrol systems and improve connectivity."
     },
     {
-      "title": "Attempts to create instability will be dealt with firmly: Mahdi Amin",
-      "link": "https://www.tbsnews.net/bangladesh/attempts-create-instability-will-be-dealt-firmly-mahdi-amin-1558906",
-      "pubDate": "Wed, 30 Sep 2026 20:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/30/pmo_mahdi_amin.jpg",
-      "snippet": "The prime minister’s office spokesperson says the government is not considering the political identity of anyone involved in criminal activities."
-    },
-    {
-      "title": "Home minister to announce dedicated cyber police unit tomorrow",
-      "link": "https://www.tbsnews.net/bangladesh/home-minister-announce-dedicated-cyber-police-unit-tomorrow-1558931",
-      "pubDate": "Wed, 30 Sep 2026 20:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/30/6626774.jpg",
-      "snippet": "A permanent and integrated cyber security structure is needed to improve coordination and ensure more effective investigation of cybercrimes."
-    },
-    {
       "title": "Seven banks dropped from CSE50 benchmark index",
       "link": "https://www.tbsnews.net/economy/stocks/seven-banks-dropped-cse50-index-bi-annual-review-1558901",
       "pubDate": "Wed, 30 Sep 2026 20:40:00 +0600",
@@ -186,50 +230,6 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/15/cse-bd.jpg",
       "snippet": "The revised CSE50 index will take effect on 11 October 2026."
-    },
-    {
-      "title": "Woman among 2 jailed for 'misbehaving' with traffic sergeant",
-      "link": "https://www.tbsnews.net/bangladesh/crime/woman-among-2-jailed-misbehaving-traffic-sergeant-1558821",
-      "pubDate": "Wed, 30 Sep 2026 19:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/30/11e6fd8d-bc9f-48a1-9a97-1c1e6168f132.jpg",
-      "snippet": "A video circulated on social media reportedly showed the two arguing with the traffic official."
-    },
-    {
-      "title": "PM Tarique upheld Bangladesh's national interests at UN: Mahdi",
-      "link": "https://www.tbsnews.net/bangladesh/pm-tarique-upheld-bangladeshs-national-interests-un-mahdi-1558836",
-      "pubDate": "Wed, 30 Sep 2026 19:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/30/pmo_mahdi_amin.jpg",
-      "snippet": "After a long time, the head of a government elected by the people represented Bangladesh on the global stage, says Mahdi."
-    },
-    {
-      "title": "ACC files case against PK Halder, 14 others over alleged Tk43.56cr embezzlement",
-      "link": "https://www.tbsnews.net/bangladesh/corruption/acc-files-case-against-pk-halder-14-others-over-alleged-tk4356cr-embezzlement",
-      "pubDate": "Wed, 30 Sep 2026 19:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/11/19/pk_haldar.jpg",
-      "snippet": "ACC also files separate case against former International Leasing director Nowsherul Islam."
-    },
-    {
-      "title": "New Gini Properties project vandalism: 3 accused placed on 3-day remand",
-      "link": "https://www.tbsnews.net/bangladesh/court/new-gini-properties-project-vandalism-3-accused-placed-3-day-remand-1558761",
-      "pubDate": "Wed, 30 Sep 2026 19:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/09/02/gavel-3577255_960_720.jpg",
-      "snippet": "The accused were arrested on 27 September."
     },
     {
       "title": "Bangladesh's new quarterly monetary policy: Is taking a cautious stance enough?  ",
@@ -760,5 +760,5 @@
       "snippet": "The latest increase in domestic fuel prices is adding to costs for vehicle owners, but industry insiders say lubricant prices are not directly linked to the government’s fuel-price adjustment"
     }
   ],
-  "updatedAt": "2026-09-30T16:40:44.693Z"
+  "updatedAt": "2026-09-30T21:13:50.555Z"
 }
