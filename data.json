@@ -20,7 +20,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/02/police_van.png",
-      "snippet": "On 5 August, 2024, around 3:00 pm, police shot five people dead and critically injured another in front of Ashulia Police Station."
+      "snippet": "On 5 August 2024, around 3pm, police shot five people dead and critically injured another in front of the Ashulia Police Station."
     },
     {
       "title": "27-case accused 'Pichchi Al Amin' arrested with two associates from capital's Rampura",
@@ -166,17 +166,6 @@
       "snippet": "They do politics only for their own interests and have no programmes unlike BNP for changing people’s lives, he says."
     },
     {
-      "title": "Some parties trying to create anarchy by exploiting untoward incidents: PM",
-      "link": "https://www.tbsnews.net/bangladesh/politics/some-parties-trying-create-anarchy-exploiting-untoward-incidents-pm-1560021",
-      "pubDate": "Thu, 01 Oct 2026 21:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/01/tarique_rahman.jpeg",
-      "snippet": "Tarique Rahman says those political forces won some seats in the last parliamentary elections by misleading people, but claimed that they are now treating the achievement as if they had achieved everything."
-    },
-    {
       "title": "Yunus launches gpay with focus on youth empowerment, entrepreneurship",
       "link": "https://www.tbsnews.net/bangladesh/yunus-launches-gpay-focus-youth-empowerment-entrepreneurship-1560041",
       "pubDate": "Thu, 01 Oct 2026 21:20:00 +0600",
@@ -186,6 +175,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/01/gpay_muhammad_yunus.jpg",
       "snippet": "He says gpay would focus on addressing various technological and financial transaction-related problems faced by people."
+    },
+    {
+      "title": "Some parties trying to create anarchy by exploiting untoward incidents: PM",
+      "link": "https://www.tbsnews.net/bangladesh/politics/some-parties-trying-create-anarchy-exploiting-untoward-incidents-pm-1560021",
+      "pubDate": "Thu, 01 Oct 2026 21:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/01/tarique_rahman.jpeg",
+      "snippet": "Tarique Rahman says those political forces won some seats in the last parliamentary elections by misleading people, but claimed that they are now treating the achievement as if they had achieved everything."
     },
     {
       "title": "Indefinite transport strike begins in Habiganj",
@@ -892,5 +892,5 @@
       "snippet": "Anthropic unveils the Claude 4.5 AI model, saying the newest version can code for longer uninterrupted stretches and handle finance and scientific tasks better."
     }
   ],
-  "updatedAt": "2026-10-01T19:41:46.543Z"
+  "updatedAt": "2026-10-01T23:42:22.276Z"
 }
