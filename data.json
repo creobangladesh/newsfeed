@@ -1,6 +1,50 @@
 {
   "news": [
     {
+      "title": "Special cargo flight carrying Rooppur nuclear fuel lands in Dhaka",
+      "link": "https://www.tbsnews.net/economy/energy/special-cargo-flight-carrying-rooppur-nuclear-fuel-lands-dhaka-1560881",
+      "pubDate": "Sat, 03 Oct 2026 02:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/28/rooppur_a_0.jpeg",
+      "snippet": "The uranium shipment for the first unit of the Rooppur Nuclear Power Plant arrived at Hazrat Shahjalal International Airport around 11:43pm after a delay caused by an airspace clearance issue."
+    },
+    {
+      "title": "Aviation minister makes surprise inspection of Dhaka airport",
+      "link": "https://www.tbsnews.net/bangladesh/aviation-minister-makes-surprise-inspection-dhaka-airport-1560876",
+      "pubDate": "Fri, 02 Oct 2026 23:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/12/14/hazrat_shahjalal_international_airport_hsia.jpeg",
+      "snippet": "During the late-night inspection, M Rashiduzzaman Millat spoke to passengers waiting for their luggage and directed officials to further improve passenger services and increase the number of trolleys."
+    },
+    {
+      "title": "Eggs, vegetables rise as sugar, oil supplies tighten",
+      "link": "https://www.tbsnews.net/economy/bazaar/eggs-vegetables-rise-sugar-oil-supplies-tighten-1560871",
+      "pubDate": "Fri, 02 Oct 2026 23:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/09/18/essential-commodities_0.jpg",
+      "snippet": "The situation was observed during visits to New Market, Karwan Bazar and Hatirpool kitchen market today."
+    },
+    {
+      "title": "2 held over cable trader's death after fall from Hazaribagh rooftop",
+      "link": "https://www.tbsnews.net/bangladesh/2-held-over-cable-traders-death-after-fall-hazaribagh-rooftop-1560866",
+      "pubDate": "Fri, 02 Oct 2026 23:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/27/image-428779-1790493006.jpg",
+      "snippet": "Salek Khan, 35, was allegedly pushed off a building’s rooftop following a dispute over cable installation, according to his family’s complaint."
+    },
+    {
       "title": "Jamaat chief demands immediate release of Jamaat leader Major (retd) Akhtaruzzaman",
       "link": "https://www.tbsnews.net/bangladesh/jamaat-chief-demands-immediate-release-jamaat-leader-major-retd-akhtaruzzaman-1560851",
       "pubDate": "Fri, 02 Oct 2026 21:55:00 +0600",
@@ -23,7 +67,7 @@
       "snippet": "He also called upon all concerned to play a responsible role in maintaining a democratic environment and stability."
     },
     {
-      "title": "Fire breaks out in railway's abandoned coach in Sadarghat",
+      "title": "Fire breaks out in railway's abandoned coach in Ctg",
       "link": "https://www.tbsnews.net/bangladesh/fire-breaks-out-railways-abandoned-coach-sadarghat-1560811",
       "pubDate": "Fri, 02 Oct 2026 21:20:00 +0600",
       "category": "Bangladesh",
@@ -188,28 +232,6 @@
       "snippet": "Seven carriages were stranded inside Lawachara National Park for nearly four hours after a hook connecting the train’s carriages broke; services have since resumed."
     },
     {
-      "title": "'Bring our sons home alive': Faridpur families seek govt action over 24 missing youths in Libya",
-      "link": "https://www.tbsnews.net/bangladesh/bring-our-sons-home-alive-faridpur-families-seek-govt-action-over-24-missing-youths-libya",
-      "pubDate": "Fri, 02 Oct 2026 18:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/02/missing.png",
-      "snippet": "The families say the youths went to Libya through a local broker after being promised good jobs but have had no contact with them for nearly three years."
-    },
-    {
-      "title": "Dhaka-Chattogram rail link resumes after 2-hour disruption in Akhaura",
-      "link": "https://www.tbsnews.net/bangladesh/dhaka-chattogram-rail-link-resumes-after-2-hour-disruption-akhaura-1560601",
-      "pubDate": "Fri, 02 Oct 2026 17:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/02/img-20261002-wa0006.jpg",
-      "snippet": "A rescue train trolley derailed at Akhaura station, injuring a railway employee; a three-member committee has been formed to investigate the incident."
-    },
-    {
       "title": "Bangladesh's football obsession is real. Our football culture isn't",
       "link": "https://www.tbsnews.net/analysis/bangladeshs-football-obsession-real-our-football-culture-isnt-1560606",
       "pubDate": "Fri, 02 Oct 2026 17:35:00 +0600",
@@ -219,28 +241,6 @@
       "icon": "🔍",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/02/825311337_950732921425403_3675297832194472374_n1.png",
       "snippet": "Bangladesh can generate enormous excitement around international football, but inconsistent domestic competitions, inaccessible venues, and weak continuity have made that enthusiasm difficult to sustain locally."
-    },
-    {
-      "title": "Bangladesh seeks South Korean investment, wider defence cooperation",
-      "link": "https://www.tbsnews.net/foreign-policy/bangladesh-seeks-south-korean-investment-wider-defence-cooperation-1560536",
-      "pubDate": "Fri, 02 Oct 2026 17:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/02/829725766_1418627430440451_4141133223905500855_n.jpg",
-      "snippet": "The state minister also sought wider market access for Bangladeshi products and greater South Korean investment in high-value sectors."
-    },
-    {
-      "title": "Mirpur clinic vandalism: Ex-Jubo Dal leader among 16 arrested",
-      "link": "https://www.tbsnews.net/bangladesh/crime/mirpur-clinic-vandalism-ex-jubo-dal-leader-among-16-arrested-1560531",
-      "pubDate": "Fri, 02 Oct 2026 16:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/02/radda_clinic_vandalism.jpg",
-      "snippet": "The former Jubo Dal leader was expelled from all party posts last month over alleged disciplinary violations."
     },
     {
       "title": "Measles: Death toll reaches 1,114 as 3 more children die in 24hrs",
@@ -747,18 +747,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/08/31/credit-growth.jpg",
       "snippet": "Bankers and economists attributed the slowdown to weak business and investment demand, sluggish domestic consumption and economic activity, and an energy crisis that has increased operating costs"
-    },
-    {
-      "title": "The regulation delusion of Bangladesh’s pharmaceutical industry",
-      "link": "https://www.tbsnews.net/thoughts/regulation-delusion-bangladeshs-pharmaceutical-industry-1557906",
-      "pubDate": "Tue, 29 Sep 2026 23:35:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/29/10_thoughts_pharmacy_copy.png",
-      "snippet": "Bangladesh built one of the developing world’s most successful pharmaceutical industries by stepping back and letting prices find their own level. However, 30 years on, the industry is being quietly strangled by the people who should be protecting it"
     }
   ],
-  "updatedAt": "2026-10-02T16:30:47.571Z"
+  "updatedAt": "2026-10-02T21:10:30.297Z"
 }
