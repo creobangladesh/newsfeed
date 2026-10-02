@@ -1,7 +1,249 @@
 {
   "news": [
     {
-      "title": "Measles: Death toll reaches 1,114 as 4 more children die in 24hrs",
+      "title": "Jamaat chief demands immediate release of Jamaat leader Major (retd) Akhtaruzzaman",
+      "link": "https://www.tbsnews.net/bangladesh/jamaat-chief-demands-immediate-release-jamaat-leader-major-retd-akhtaruzzaman-1560851",
+      "pubDate": "Fri, 02 Oct 2026 21:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/22/jamaat_ameer.jpg",
+      "snippet": "The opposition leader says the case against Akhtaruzzaman is fabricated and alleges that he was protesting passenger harassment and irregularities at the airport."
+    },
+    {
+      "title": "Govt welcomes constructive criticism: Moyeen",
+      "link": "https://www.tbsnews.net/bangladesh/govt-welcomes-constructive-criticism-moyeen-1560816",
+      "pubDate": "Fri, 02 Oct 2026 21:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/02/1111.jpg",
+      "snippet": "He also called upon all concerned to play a responsible role in maintaining a democratic environment and stability."
+    },
+    {
+      "title": "Fire breaks out in railway's abandoned coach in Sadarghat",
+      "link": "https://www.tbsnews.net/bangladesh/fire-breaks-out-railways-abandoned-coach-sadarghat-1560811",
+      "pubDate": "Fri, 02 Oct 2026 21:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/02/rail_coach_fire.jpg",
+      "snippet": "Three fire service units brought the blaze under control in about an hour; no significant damage was reported."
+    },
+    {
+      "title": "Social welfare minister Dr Zahid provides medical services in his constituency",
+      "link": "https://www.tbsnews.net/bangladesh/social-welfare-minister-dr-zahid-provides-medical-services-his-constituency-1560806",
+      "pubDate": "Fri, 02 Oct 2026 21:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/02/azm_zahid.png",
+      "snippet": "He personally examined patients who had come from four upazilas of his constituency to receive healthcare services."
+    },
+    {
+      "title": "Corn Square to become symbol of Lalmonirhat: Relief minister",
+      "link": "https://www.tbsnews.net/bangladesh/corn-square-become-symbol-lalmonirhat-relief-minister-1560796",
+      "pubDate": "Fri, 02 Oct 2026 20:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/02/asadul_habib_dulu.png",
+      "snippet": "The minister made the remarks while addressing a gathering after inaugurating the construction of Corn Square in Lalmonirhat town in the afternoon."
+    },
+    {
+      "title": "Jamaat to launch dengue awareness week on 4 Oct",
+      "link": "https://www.tbsnews.net/bangladesh/jamaat-launch-dengue-awareness-week-4-oct-1560751",
+      "pubDate": "Fri, 02 Oct 2026 20:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/23/tbs_0.jpg",
+      "snippet": "The campaign, titled “Dengue Prevention Public Awareness Week”, will be observed from 4 to 10 October."
+    },
+    {
+      "title": "Action to be taken against anyone bringing disrepute to party: Ishraque",
+      "link": "https://www.tbsnews.net/bangladesh/politics/action-be-taken-against-anyone-bringing-disrepute-party-ishraque-1560736",
+      "pubDate": "Fri, 02 Oct 2026 20:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/02/ishraque.png",
+      "snippet": "The state minister urged party leaders and activists to remain vigilant so that anyone committing wrongdoing by using the party identity could be identified and action taken against them."
+    },
+    {
+      "title": "Hindu Mohajote voices safety concerns ahead of Durga Puja, polls",
+      "link": "https://www.tbsnews.net/bangladesh/hindu-mohajote-voices-safety-concerns-ahead-durga-puja-polls-1560726",
+      "pubDate": "Fri, 02 Oct 2026 20:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/02/hindu_mohajote.png",
+      "snippet": "He alleged that temples and idols had been vandalised and members of the Hindu community threatened in several districts ahead of this year's Durga Puja."
+    },
+    {
+      "title": "Radda is Bangladesh’s chance to show the world what kind of country it is",
+      "link": "https://www.tbsnews.net/thoughts/radda-bangladeshs-chance-show-world-what-kind-country-it-1560721",
+      "pubDate": "Fri, 02 Oct 2026 20:10:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/02/653705856_35558226763776587_7909173814938053316_n_1.jpg",
+      "snippet": "The state should compensate Radda in full and without delay, while recovering the cost from those responsible through the courts. Its long-term lease on government land should also be formally secured to prevent future attempts to seize it"
+    },
+    {
+      "title": "bdnews24.com Editor Toufique Imrose Khalidi passes away",
+      "link": "https://www.tbsnews.net/bangladesh/obituary/bdnews24com-editor-toufique-imrose-khalidi-passes-away-1560706",
+      "pubDate": "Fri, 02 Oct 2026 20:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/02/toufique_imrose_khalidi.jpg",
+      "snippet": "The senior journalist had collapsed at a hotel between 8pm and 9pm on 1 October (London time)."
+    },
+    {
+      "title": "Labour minister inspects working women's hostel in Kalurghat",
+      "link": "https://www.tbsnews.net/bangladesh/labour-minister-inspects-working-womens-hostel-kalurghat-1560701",
+      "pubDate": "Fri, 02 Oct 2026 20:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/02/ariful_haque_chowdhury1.png",
+      "snippet": "The minister said all relevant stakeholders will coordinate to quickly make the ‘Women's Hostel and Labour Welfare Centre’ in the Kalurghat Industrial area operational."
+    },
+    {
+      "title": "Nitai Roy urges youth to unite against communalism, social degradation",
+      "link": "https://www.tbsnews.net/bangladesh/nitai-roy-urges-youth-unite-against-communalism-social-degradation-1560696",
+      "pubDate": "Fri, 02 Oct 2026 19:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/02/nitai_roy_chowdhury1.png",
+      "snippet": "The minister said police are not only friends of the people and protectors of their security, but also play a leading role in implementing various public welfare programmes of the government."
+    },
+    {
+      "title": "Juvenile gang activities will be eliminated within 3 months: Chief whip",
+      "link": "https://www.tbsnews.net/bangladesh/juvenile-gang-activities-will-be-eliminated-within-3-months-chief-whip-1560681",
+      "pubDate": "Fri, 02 Oct 2026 19:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/07/chief_whip.jpg",
+      "snippet": "Moni says the government is working to identify those backing juvenile gangs and will take action against people involved in mob violence and misinformation."
+    },
+    {
+      "title": "Jamaat needs more time to prepare before seeking to govern the country: Rashed Khan",
+      "link": "https://www.tbsnews.net/bangladesh/politics/jamaat-needs-more-time-prepare-seeking-govern-country-rashed-khan-1560671",
+      "pubDate": "Fri, 02 Oct 2026 19:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/02/rahsed.png",
+      "snippet": "The PM’s political assistant says the government and opposition should work together on rebuilding the state, urging political parties not to launch anti-government movements amid the energy crisis."
+    },
+    {
+      "title": "Dengue: One more die, 1,163 hospitalised in 24 hours",
+      "link": "https://www.tbsnews.net/bangladesh/health/dengue-one-more-die-1163-hospitalised-24-hours-1560661",
+      "pubDate": "Fri, 02 Oct 2026 19:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/15/dengue.jpg",
+      "snippet": "The latest death was reported in Dhaka division outside the city corporation areas, taking this year’s dengue death toll to 250."
+    },
+    {
+      "title": "Jamaat leader Major (retd) Akhtaruzzaman arrested over disorder, obstruction at Dhaka airport",
+      "link": "https://www.tbsnews.net/bangladesh/crime/jamaat-leader-major-retd-akhtaruzzaman-arrested-over-disorder-obstruction-dhaka",
+      "pubDate": "Fri, 02 Oct 2026 18:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/02/untitled_design_6.png",
+      "snippet": "He was arrested from his residence at House 35 on Road 10 in the Dhamal Kot area near the cantonment in the capital this evening."
+    },
+    {
+      "title": "Paharika Express resumes after 4-hour disruption in Lawachara",
+      "link": "https://www.tbsnews.net/bangladesh/transport/paharika-express-resumes-after-4-hour-disruption-lawachara-1560621",
+      "pubDate": "Fri, 02 Oct 2026 18:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/02/830562400_1842661083440495_755538475548717011_n.jpg",
+      "snippet": "Seven carriages were stranded inside Lawachara National Park for nearly four hours after a hook connecting the train’s carriages broke; services have since resumed."
+    },
+    {
+      "title": "'Bring our sons home alive': Faridpur families seek govt action over 24 missing youths in Libya",
+      "link": "https://www.tbsnews.net/bangladesh/bring-our-sons-home-alive-faridpur-families-seek-govt-action-over-24-missing-youths-libya",
+      "pubDate": "Fri, 02 Oct 2026 18:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/02/missing.png",
+      "snippet": "The families say the youths went to Libya through a local broker after being promised good jobs but have had no contact with them for nearly three years."
+    },
+    {
+      "title": "Dhaka-Chattogram rail link resumes after 2-hour disruption in Akhaura",
+      "link": "https://www.tbsnews.net/bangladesh/dhaka-chattogram-rail-link-resumes-after-2-hour-disruption-akhaura-1560601",
+      "pubDate": "Fri, 02 Oct 2026 17:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/02/img-20261002-wa0006.jpg",
+      "snippet": "A rescue train trolley derailed at Akhaura station, injuring a railway employee; a three-member committee has been formed to investigate the incident."
+    },
+    {
+      "title": "Bangladesh's football obsession is real. Our football culture isn't",
+      "link": "https://www.tbsnews.net/analysis/bangladeshs-football-obsession-real-our-football-culture-isnt-1560606",
+      "pubDate": "Fri, 02 Oct 2026 17:35:00 +0600",
+      "category": "Analysis",
+      "color": "#5d4037",
+      "bg": "#efebe9",
+      "icon": "🔍",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/02/825311337_950732921425403_3675297832194472374_n1.png",
+      "snippet": "Bangladesh can generate enormous excitement around international football, but inconsistent domestic competitions, inaccessible venues, and weak continuity have made that enthusiasm difficult to sustain locally."
+    },
+    {
+      "title": "Bangladesh seeks South Korean investment, wider defence cooperation",
+      "link": "https://www.tbsnews.net/foreign-policy/bangladesh-seeks-south-korean-investment-wider-defence-cooperation-1560536",
+      "pubDate": "Fri, 02 Oct 2026 17:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/02/829725766_1418627430440451_4141133223905500855_n.jpg",
+      "snippet": "The state minister also sought wider market access for Bangladeshi products and greater South Korean investment in high-value sectors."
+    },
+    {
+      "title": "Mirpur clinic vandalism: Ex-Jubo Dal leader among 16 arrested",
+      "link": "https://www.tbsnews.net/bangladesh/crime/mirpur-clinic-vandalism-ex-jubo-dal-leader-among-16-arrested-1560531",
+      "pubDate": "Fri, 02 Oct 2026 16:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/02/radda_clinic_vandalism.jpg",
+      "snippet": "The former Jubo Dal leader was expelled from all party posts last month over alleged disciplinary violations."
+    },
+    {
+      "title": "Measles: Death toll reaches 1,114 as 3 more children die in 24hrs",
       "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-1114-4-more-children-die-24hrs-1560526",
       "pubDate": "Fri, 02 Oct 2026 16:25:00 +0600",
       "category": "Health",
@@ -12,81 +254,15 @@
       "snippet": "The latest DGHS update records 1,221 new suspected cases and 21 laboratory-confirmed infections in 24 hours."
     },
     {
-      "title": "1.049kg gold seized from Biman employee at Dhaka airport",
-      "link": "https://www.tbsnews.net/bangladesh/crime/1049kg-gold-seized-biman-employee-dhaka-airport-1560506",
-      "pubDate": "Fri, 02 Oct 2026 15:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/02/seized_gold_dhaka_airport.jpg",
-      "snippet": "The gold, estimated to be worth around Tk2.10 crore."
-    },
-    {
-      "title": "Jubo Dal leader released after brief detention over assault of constable at Sitakunda police station",
-      "link": "https://www.tbsnews.net/bangladesh/jubo-dal-leader-released-after-brief-detention-over-assault-constable-sitakunda-police",
-      "pubDate": "Fri, 02 Oct 2026 15:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/02/828894878_1856849192348176_5942905444751307085_n.jpg",
-      "snippet": "Around 50 BNP and Jubo Dal leaders and activists later gathered at the police station seeking Ismail’s release, claiming the incident stemmed from a minor argument and was a misunderstanding."
-    },
-    {
       "title": "Human Diagnostic Medical Centre sealed over unauthorised tests on Malaysia-bound workers",
       "link": "https://www.tbsnews.net/bangladesh/health/human-diagnostic-medical-centre-sealed-over-unauthorised-tests-malaysia-bound",
       "pubDate": "Fri, 02 Oct 2026 15:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/02/human-diagonostic-021026-01.jpg",
       "snippet": "Mobile court finds 14 workers underwent medical tests without government approval"
-    },
-    {
-      "title": "Bagerhat jail inmate dies after choking on food",
-      "link": "https://www.tbsnews.net/bangladesh/bagerhat-jail-inmate-dies-after-choking-food-1560496",
-      "pubDate": "Fri, 02 Oct 2026 15:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/02/2869494.jpg",
-      "snippet": "Prison officials immediately took him to Bagerhat Sadar Hospital, where he died while undergoing treatment."
-    },
-    {
-      "title": "65 Malaysia-bound victims rescued, 11 suspected traffickers detained: ISPR",
-      "link": "https://www.tbsnews.net/bangladesh/crime/65-malaysia-bound-victims-rescued-11-suspected-traffickers-detained-ispr-1560501",
-      "pubDate": "Fri, 02 Oct 2026 15:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/02/navy_drive.jpg",
-      "snippet": "The rescue was carried out on Wednesday night (30 September) during a routine patrol in the Saint Martin's area."
-    },
-    {
-      "title": "11 live bombs recovered in Chapainawabganj after two blasts",
-      "link": "https://www.tbsnews.net/bangladesh/11-live-crude-bombs-recovered-chapainawabganj-after-two-blasts-1560481",
-      "pubDate": "Fri, 02 Oct 2026 15:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/02/4159934.jpg",
-      "snippet": "They alleged that the crude bombs were stockpiled to be used in clashes arising from the dispute."
-    },
-    {
-      "title": "7 killed as bus collides with auto-rickshaw in Mymensingh",
-      "link": "https://www.tbsnews.net/bangladesh/7-killed-bus-collides-auto-rickshaw-mymensingh-1560471",
-      "pubDate": "Fri, 02 Oct 2026 15:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/02/msing_accident.jpg",
-      "snippet": "Police said a Dhaka-bound bus of Rajib Paribahan from Jamalpur collided with an auto-rickshaw heading for Muktagacha in the Gandrapa area of Akua Bypass Road around 1:30pm."
     },
     {
       "title": "Digital identity is becoming the infrastructure of governance",
@@ -100,17 +276,6 @@
       "snippet": "Across South Asia, digital ID systems are reshaping how people access public services, making inclusion, privacy and accountability increasingly important"
     },
     {
-      "title": "Lift falls at govt housing complex in Mirpur, 3 injured",
-      "link": "https://www.tbsnews.net/bangladesh/lift-falls-govt-housing-complex-mirpur-3-injured-1560456",
-      "pubDate": "Fri, 02 Oct 2026 15:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/02/untitled_design_7.png",
-      "snippet": "Hearing the sound, the building’s security guard went to the lift and heard people screaming inside. Nearby residents then arrived and rescued them, taking them to the hospital, confirmed Darus Salam Police Station Officer-in-Charge Dulal Hossain."
-    },
-    {
       "title": "How can Bangladesh rebuild its investment story?",
       "link": "https://www.tbsnews.net/thoughts/how-can-bangladesh-rebuild-its-investment-story-1560441",
       "pubDate": "Fri, 02 Oct 2026 14:25:00 +0600",
@@ -120,138 +285,6 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/02/photo_tbs.jpg",
       "snippet": "The next investment story has to rest on three things: goods that move quickly, rules that stay put, and workers who can do more. None of these ideas is new. What has changed is that they are no longer optional."
-    },
-    {
-      "title": "70kg brass bell stolen from Mohammadpur church recovered beside garbage bin",
-      "link": "https://www.tbsnews.net/bangladesh/crime/70kg-brass-bell-stolen-mohammadpur-church-recovered-beside-garbage-bin-1560431",
-      "pubDate": "Fri, 02 Oct 2026 14:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/02/photo-output.jpeg",
-      "snippet": "The unidentified thief or thieves took the bell from an open area on the second floor sometime after 12:03am yesterday (1 October)."
-    },
-    {
-      "title": "PM returns to Dhaka after daylong Feni visit",
-      "link": "https://www.tbsnews.net/bangladesh/pm-returns-dhaka-after-daylong-feni-visit-1560401",
-      "pubDate": "Fri, 02 Oct 2026 13:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/01/pm_tarique_rahman.jpeg",
-      "snippet": "During the visit, the Prime Minister inaugurated the Muhuri-Kohua Flood Control, Drainage, and Irrigation Project Rehabilitation (Phase I) in Parshuram and launched canal excavation, river dredging, and embankment construction activities."
-    },
-    {
-      "title": "Shipping ministry moves to appoint Saudi RSGT as Chattogram Container Terminal operator",
-      "link": "https://www.tbsnews.net/bangladesh/shipping-ministry-moves-appoint-saudi-rsgt-chattogram-container-terminal-operator-1560386",
-      "pubDate": "Fri, 02 Oct 2026 13:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/02/ctg_port_feb_2026.jpg",
-      "snippet": "Ministry has not specified CCT’s tenure, financial terms or investment obligations."
-    },
-    {
-      "title": "Jamaat leader Maj (retd) Akhtar sued over 'will drag you out by the neck' threat at airport",
-      "link": "https://www.tbsnews.net/bangladesh/jamaat-leader-major-retd-akhtar-sued-over-drag-you-out-neck-threat-airport-1560391",
-      "pubDate": "Fri, 02 Oct 2026 13:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/02/untitled_design_6.png",
-      "snippet": "According to the case statement, passengers of Biman Bangladesh Airlines flight BG-338, which arrived from Medina at around 10:40am yesterday (1 October), faced a shortage of trolleys while collecting their luggage at baggage belt No 8."
-    },
-    {
-      "title": "48-metre stretch of Padma embankment develops cracks, threatening local fish market",
-      "link": "https://www.tbsnews.net/bangladesh/48-metre-stretch-padma-embankment-develops-cracks-threatening-local-fish-market-1560371",
-      "pubDate": "Fri, 02 Oct 2026 12:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/02/830094441_4681598302165907_3225325696623030235_n.jpg",
-      "snippet": "At least 48 businesses face erosion risks; six have been relocated as BWDB places geobags to prevent further damage."
-    },
-    {
-      "title": "Tourism Board names 16 recipients for Tourism Awards 2026",
-      "link": "https://www.tbsnews.net/bangladesh/tourism-board-names-16-recipients-tourism-awards-2026-1560366",
-      "pubDate": "Fri, 02 Oct 2026 12:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/06/13/bangladesh_tourism.jpg",
-      "snippet": "The awards ceremony will take place on 3 October at the Bangladesh-China Friendship Conference Centre."
-    },
-    {
-      "title": "4 Toss Bond warehouses sealed over unauthorised storage of duty-free liquor, goods",
-      "link": "https://www.tbsnews.net/bangladesh/4-toss-bond-warehouses-sealed-over-unauthorised-storage-duty-free-goods-1560361",
-      "pubDate": "Fri, 02 Oct 2026 12:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/02/80adef7c1b1bba35eef597d8d0ebc21b.jpeg",
-      "snippet": "All four warehouses were sealed to prevent the unauthorised transfer or removal of duty-free goods imported under bonded warehouse facilities and to ensure a proper investigation, the statement adds."
-    },
-    {
-      "title": "Illegal stone extraction allegedly damages ‘Kazi Farms’ land in Tetulia",
-      "link": "https://www.tbsnews.net/bangladesh/crime/illegal-stone-extraction-allegedly-damages-kazi-farms-land-tetulia-1560341",
-      "pubDate": "Fri, 02 Oct 2026 11:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/02/images.png",
-      "snippet": "Kazi Farms has filed a case against 40 named individuals, along with 70 unnamed people, accusing them of damaging the company’s land while transporting illegally extracted sand and stones."
-    },
-    {
-      "title": "11 suspected human traffickers held as navy rescues 65 Malaysia-bound victims",
-      "link": "https://www.tbsnews.net/bangladesh/11-suspected-human-traffickers-held-navy-rescues-65-malaysia-bound-victims-1560336",
-      "pubDate": "Fri, 02 Oct 2026 11:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/02/untitled.jpg",
-      "snippet": "The navy said its operation has not only led to the detention of suspected traffickers but also prevented a potentially serious accident and loss of life."
-    },
-    {
-      "title": "Tk720cr land compensation trapped in Chattogram litigation maze",
-      "link": "https://www.tbsnews.net/bangladesh/tk720cr-land-compensation-trapped-chattogram-litigation-maze-1560301",
-      "pubDate": "Fri, 02 Oct 2026 11:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/02/litigation1.png",
-      "snippet": "The Chattogram district administration’s Land Acquisition branch has been unable to disburse the compensation to landowners because of litigation over properties in Patenga and Halishahar."
-    },
-    {
-      "title": "Fatullah madrasah electrical accident: Death toll rises to 3 as another student dies",
-      "link": "https://www.tbsnews.net/bangladesh/narayanganj-madrasah-electrical-accident-death-toll-rises-3-another-student-dies-1560321",
-      "pubDate": "Fri, 02 Oct 2026 10:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/08/10/image-300429-1754824093_1.jpg",
-      "snippet": "Lamia Akter Shapla, 13, died at around 9:45pm yesterday (1 October) while undergoing treatment in the Intensive Care Unit (ICU) of the National Institute of Burn and Plastic Surgery."
-    },
-    {
-      "title": "AQI: Dhaka ranks 5th among world’s most polluted cities",
-      "link": "https://www.tbsnews.net/bangladesh/aqi-dhaka-ranks-5th-among-worlds-most-polluted-cities-1560316",
-      "pubDate": "Fri, 02 Oct 2026 10:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/03/24/zakir_hossain_p5_with_story_0.png",
-      "snippet": "Pakistan's Lahore topped the list with an AQI score of 236."
     },
     {
       "title": "Cucsu term draws to close with most pledges still unmet",
@@ -725,117 +758,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/29/10_thoughts_pharmacy_copy.png",
       "snippet": "Bangladesh built one of the developing world’s most successful pharmaceutical industries by stepping back and letting prices find their own level. However, 30 years on, the industry is being quietly strangled by the people who should be protecting it"
-    },
-    {
-      "title": "Bangladesh delegation discusses education, AI cooperation with Google",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-delegation-discusses-education-ai-cooperation-google-1557811",
-      "pubDate": "Tue, 29 Sep 2026 21:30:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/29/meeting_at_google.png",
-      "snippet": "Shama Obaed Islam stresses the importance of a long-term Bangladesh-Google partnership in skills development, institutional capacity and responsible technology use, particularly for the country’s young population."
-    },
-    {
-      "title": "Cenbank issues first Islamic credit card guidelines",
-      "link": "https://www.tbsnews.net/economy/banking/cenbank-issues-first-islamic-credit-card-guidelines-1557746",
-      "pubDate": "Tue, 29 Sep 2026 20:45:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/28/bangladesh_bank.jpg",
-      "snippet": "No booze, bets, pork or interest-based finance on Islamic cards"
-    },
-    {
-      "title": "Sylhet Engineering College teachers still unable to leave campus as protest continues",
-      "link": "https://www.tbsnews.net/bangladesh/education/sylhet-engineering-college-teachers-still-unable-leave-campus-protest-continues",
-      "pubDate": "Tue, 29 Sep 2026 19:15:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/29/press_breifing_sylhet_engineering_college.jpg",
-      "snippet": "Students have boycotted classes and exams for three consecutive days, demanding that full control of the college be transferred to SUST."
-    },
-    {
-      "title": "One bed, three children: Dengue pressure grows at Suhrawardy Hospital",
-      "link": "https://www.tbsnews.net/bangladesh/health/one-bed-three-children-dengue-pressure-grows-suhrawardy-hospital-1557596",
-      "pubDate": "Tue, 29 Sep 2026 19:00:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/29/dengue.png",
-      "snippet": "Hospital treating 45 children against 30 designated dengue beds."
-    },
-    {
-      "title": "China's AI agents can lie and scheme - just like their US rivals",
-      "link": "https://www.tbsnews.net/tech/chinas-ai-agents-can-lie-and-scheme-just-their-us-rivals-1557546",
-      "pubDate": "Tue, 29 Sep 2026 18:20:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/29/a_deepseek_ai_sign.png",
-      "snippet": "Chinese AI agents show deception, rule-bypassing risks in tests."
-    },
-    {
-      "title": "Building a culture of energy conservation",
-      "link": "https://www.tbsnews.net/thoughts/building-culture-energy-conservation-1557516",
-      "pubDate": "Tue, 29 Sep 2026 18:05:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/29/energy_mumitm-4437_0.jpg",
-      "snippet": "Bangladesh's energy security depends not only on infrastructure and fuel supply but also on how people use energy. Behavioural science shows why awareness campaigns often fail to change habits – and how social norms, personal motivation and easier ch..."
-    },
-    {
-      "title": "Dengue: 6 more die, 1,942 hospitalized in 24hrs",
-      "link": "https://www.tbsnews.net/bangladesh/health/dengue-6-more-die-1942-hospitalized-24hrs-1557491",
-      "pubDate": "Tue, 29 Sep 2026 17:45:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/25/05_news_copy.png",
-      "snippet": "September records 142 dengue deaths so far, the highest monthly toll this year."
-    },
-    {
-      "title": "OpenAI shelves new AI model release over safety concerns",
-      "link": "https://www.tbsnews.net/tech/openai-shelves-new-ai-model-release-over-safety-concerns-1557486",
-      "pubDate": "Tue, 29 Sep 2026 17:40:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/29/a_man_walks_past_an_openai.png",
-      "snippet": "OpenAI scraps GPT-6.1 Astra launch after safety tests raise concerns."
-    },
-    {
-      "title": "Bangladesh remains exempted from US tariffs on specialised medicines",
-      "link": "https://www.tbsnews.net/bangladesh/health/bangladesh-among-20-nations-exempt-us-tariffs-specialty-drugs-1557511",
-      "pubDate": "Tue, 29 Sep 2026 17:30:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/24/medicine.jpg",
-      "snippet": "The zero-tariff treatment applies to specified specialty pharmaceuticals and their ingredients, not all medicines"
-    },
-    {
-      "title": "Wearable tech that can help take care of your heart",
-      "link": "https://www.tbsnews.net/bangladesh/health/wearable-tech-can-help-take-care-your-heart-1557391",
-      "pubDate": "Tue, 29 Sep 2026 16:45:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/29/wearabledevicex.jpg",
-      "snippet": "As the world marks World Heart Day today (29 September), wearable technology is giving people a simple way to keep a closer eye on some of the factors linked to cardiovascular health."
     }
   ],
-  "updatedAt": "2026-10-02T10:39:48.035Z"
+  "updatedAt": "2026-10-02T16:30:47.571Z"
 }
