@@ -1,7 +1,73 @@
 {
   "news": [
     {
-      "title": "'We will sacrifice lives, not New Mooring Terminal': Ctg port workers vow to resist foreign operator",
+      "title": "Charting ICB's comeback: Debt relief, capital reform and market innovation",
+      "link": "https://www.tbsnews.net/economy/stocks/charting-icbs-comeback-debt-relief-capital-reform-and-market-innovation-1561616",
+      "pubDate": "Sat, 03 Oct 2026 23:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/28/icb.jpg",
+      "snippet": "The framework reflects ICB’s efforts to strengthen its financial and operational sustainability in line with the broader objectives of the government’s 3R strategy."
+    },
+    {
+      "title": "Saudi expatriate returning home after six years robbed by men posing as 'law enforcers'",
+      "link": "https://www.tbsnews.net/bangladesh/saudi-expatriate-returning-home-after-six-years-robbed-men-posing-law-enforcers-1561606",
+      "pubDate": "Sat, 03 Oct 2026 23:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/robbery.jpeg",
+      "snippet": "The incident took place around 5:15am today (3 October) in the Zia Udyan area under Sher-e-Bangla Nagar Police Station in Dhaka."
+    },
+    {
+      "title": "Unauthorised visitors rise at Secretariat despite pass system",
+      "link": "https://www.tbsnews.net/bangladesh/unauthorised-entry-rises-secretariat-cabinet-division-review-system-1561586",
+      "pubDate": "Sat, 03 Oct 2026 22:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/24/secretariat_6.jpeg",
+      "snippet": "A cabinet meeting scheduled to be held on Sunday (4 OCtober) to review the visitor entry system."
+    },
+    {
+      "title": "Action against wrongdoers has long been a culture in BNP: Alal",
+      "link": "https://www.tbsnews.net/bangladesh/politics/action-against-wrongdoers-has-long-been-culture-bnp-alal-1561561",
+      "pubDate": "Sat, 03 Oct 2026 21:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/syed_moazzem_hossain_alal.jpeg",
+      "snippet": "Recalling BNP’s past, Alal said former president Shaheed Ziaur Rahman had spoken about taking action against corrupt elements and “weeds” within the party at a meeting of the central committee of Jatiyatabadi Jubo Dal in Dhaka before his death."
+    },
+    {
+      "title": "Bangladesh must become technology producer, exporter: Minister",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-must-become-technology-producer-exporter-minister-1561576",
+      "pubDate": "Sat, 03 Oct 2026 21:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/24/faqir_mahbub_anam.jpeg",
+      "snippet": "A total of 355 projects were submitted for this year’s awards, with 44 innovations recognised after evaluation by 40 judges from industry, academia, banking, public administration and startups."
+    },
+    {
+      "title": "World Bank team in Bangladesh to discuss energy financing, infrastructure reforms",
+      "link": "https://www.tbsnews.net/economy/world-bank-team-bangladesh-discuss-energy-financing-infrastructure-reforms-1561581",
+      "pubDate": "Sat, 03 Oct 2026 21:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/28/wb_bd.jpg",
+      "snippet": "A four-member delegation will meet government officials from 3 to 7 October to discuss energy financing, supply security, renewable energy and infrastructure investment."
+    },
+    {
+      "title": "'We will sacrifice lives, not New Mooring Terminal': Ctg Port workers vow to resist foreign operator",
       "link": "https://www.tbsnews.net/bangladesh/we-will-sacrifice-lives-not-new-mooring-terminal-ctg-port-workers-vow-resist-foreign",
       "pubDate": "Sat, 03 Oct 2026 21:30:00 +0600",
       "category": "Bangladesh",
@@ -12,7 +78,7 @@
       "snippet": "Workers’ leaders give the government five days to open negotiations and announce a torch procession for 7 October."
     },
     {
-      "title": "BTMA seeks action against importer after seizure of bonded yarn in Narsingdi, Narayanganj",
+      "title": "Bonded yarn seized: BTMA seeks identification of importer, legal action",
       "link": "https://www.tbsnews.net/economy/rmg/btma-seeks-action-against-importer-after-seizure-bonded-yarn-narsingdi-narayanganj",
       "pubDate": "Sat, 03 Oct 2026 21:30:00 +0600",
       "category": "Economy",
@@ -21,6 +87,17 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/11/yarn-4601270_1280.jpg",
       "snippet": "The yarn was seized from several warehouses in Araihazar of Narayanganj and Madhabdi of Narsingdi"
+    },
+    {
+      "title": "Energy minister sits with LPG importers amid supply crisis, price hike",
+      "link": "https://www.tbsnews.net/economy/energy/energy-minister-meets-lpg-importers-amid-supply-crisis-price-hike-1561526",
+      "pubDate": "Sat, 03 Oct 2026 21:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/energy_minister.jpeg",
+      "snippet": "The meeting came amid widespread consumer complaints about the unavailability of LPG cylinders in various parts of the country."
     },
     {
       "title": "Man's body recovered in Tongi after alleged beating over theft suspicion",
@@ -43,17 +120,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/palm_civet.jpg",
       "snippet": "Locals claim jungle fowl and rabbits are also frequently hunted in the area."
-    },
-    {
-      "title": "Energy minister meets LPG importers amid supply crisis, price hike",
-      "link": "https://www.tbsnews.net/economy/energy/energy-minister-meets-lpg-importers-amid-supply-crisis-price-hike-1561526",
-      "pubDate": "Sat, 03 Oct 2026 21:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/energy_minister.jpeg",
-      "snippet": "The meeting came amid widespread consumer complaints about the unavailability of LPG cylinders in various parts of the country."
     },
     {
       "title": "Dhaka wants cooperation; doesn't want to be a chessboard for other players to play: Shama",
@@ -177,70 +243,15 @@
       "snippet": "The latest deaths take this year’s dengue toll to 256, while total cases rise to 84,369."
     },
     {
-      "title": "Dinesh Trivedi stresses dialogue, trust to address Dhaka-Delhi issues",
-      "link": "https://www.tbsnews.net/foreign-policy/dinesh-trivedi-stresses-dialogue-trust-address-dhaka-delhi-issues-1561391",
-      "pubDate": "Sat, 03 Oct 2026 18:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/01/untitled_design_21.jpg",
-      "snippet": "Bangladesh understands its own security interests, has the right to make its own decisions, Trivedi says."
-    },
-    {
       "title": "Restoring confidence in banking sector a priority: Finance minister",
       "link": "https://www.tbsnews.net/economy/banking/restoring-confidence-banking-sector-priority-finance-minister-1561396",
       "pubDate": "Sat, 03 Oct 2026 18:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/khosru_uiu.jpg",
       "snippet": "Uncertainty in the global economy had become a normal reality, with Bangladesh facing the effects of global inflation, trade protectionism, climate change and exchange rate volatility, Khosru says."
-    },
-    {
-      "title": "3 arrested for allegedly posing as DGFI members to extort Tk10 lakh from Uttara flat owner",
-      "link": "https://www.tbsnews.net/bangladesh/crime/3-arrested-allegedly-posing-dgfi-members-extort-tk10-lakh-uttara-flat-owner-1561351",
-      "pubDate": "Sat, 03 Oct 2026 17:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/fraud_possing_as_dgfi.png",
-      "snippet": "The flat owner paid Tk1.59 lakh before becoming suspicious and calling 999, after which police recovered a fake DGFI ID, walkie-talkie, and handcuffs."
-    },
-    {
-      "title": "Gazipur garment factory fire brought under control, 70 rescued",
-      "link": "https://www.tbsnews.net/bangladesh/garment-factory-catches-fire-gazipur-1561311",
-      "pubDate": "Sat, 03 Oct 2026 16:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/gazipur_garments_factory_fire.png",
-      "snippet": "The blaze at Matrix Garments was brought under control around 6pm, with nine Fire Service units deployed"
-    },
-    {
-      "title": "PMO releases photo showing Tarique, Zubaida at Trump-hosted dinner for world leaders",
-      "link": "https://www.tbsnews.net/bangladesh/pmo-releases-photo-showing-tarique-zubaida-trump-hosted-dinner-world-leaders-1561306",
-      "pubDate": "Sat, 03 Oct 2026 16:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/830700118_1717819689308135_5983561015809352895_n.jpg",
-      "snippet": "Zubaida also attended a meeting of first ladies hosted by Melania Trump on the sidelines of the UNGA."
-    },
-    {
-      "title": "9 containers of hazardous chemicals being removed from Ctg Port",
-      "link": "https://www.tbsnews.net/bangladesh/9-containers-hazardous-chemicals-being-removed-ctg-port-1561296",
-      "pubDate": "Sat, 03 Oct 2026 16:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/chemichal_containers_ctg_port.jpeg",
-      "snippet": "The containers hold 150.89 tonnes of sulphuric acid, nitric acid, methanol and thinner that have remained at the port for more than two decades."
     },
     {
       "title": "Going grey may help remove damaged cells linked to cancer, study finds",
@@ -320,7 +331,7 @@
       "snippet": "Under the medium-term strategy spanning 2028-30, the government plans to add 12,940MW of generation capacity to the national grid to accommodate projected peak demand of 20,000–25,000MW."
     },
     {
-      "title": "Uranium fuel reaches Rooppur under tight security",
+      "title": "Uranium for Rooppur power plant arrives; remaining shipment likely within 10 days",
       "link": "https://www.tbsnews.net/economy/energy/uranium-fuel-leaves-dhaka-airport-rooppur-under-tight-security-1560961",
       "pubDate": "Sat, 03 Oct 2026 10:20:00 +0600",
       "category": "Economy",
@@ -328,7 +339,7 @@
       "bg": "#e8f5e9",
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/rooppur_uranium_pabna.jpg",
-      "snippet": "The fuel was transported to Rooppur in three lorries under tight security provided by the Bangladesh Army."
+      "snippet": "First unit expected to begin power generation in December-January"
     },
     {
       "title": "Uncertified LED bulbs grab half of Tk3,000cr market, squeezing compliant manufacturers",
@@ -736,29 +747,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/01/biman_2.png",
       "snippet": "Biman has set its exchange rate at Tk123.65 per dollar for export cargo from 8 September, while Sonali Bank’s TT Clean rate was Tk122.50 on the same day, Baffa said."
-    },
-    {
-      "title": "No separate notification for MPO teachers under new pay scale: Education secretary",
-      "link": "https://www.tbsnews.net/bangladesh/education/no-separate-notification-mpo-teachers-under-new-pay-scale-education-secretary",
-      "pubDate": "Wed, 30 Sep 2026 23:50:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/30/edu_secy.png",
-      "snippet": "Existing government gazette will cover salaries and allowances"
-    },
-    {
-      "title": "JUST again tops Bangladesh among science and technology universities in Times Higher Education ranking",
-      "link": "https://www.tbsnews.net/bangladesh/education/just-again-tops-bangladesh-among-science-and-technology-universities-times",
-      "pubDate": "Wed, 30 Sep 2026 22:00:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/30/just.png",
-      "snippet": "Gazipur Agricultural University jointly ranks second nationally."
     }
   ],
-  "updatedAt": "2026-10-03T15:48:38.020Z"
+  "updatedAt": "2026-10-03T19:01:23.344Z"
 }
