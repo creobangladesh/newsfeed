@@ -1,7 +1,216 @@
 {
   "news": [
     {
-      "title": "Fire breaks out at Gazipur garment factory, 69 rescued",
+      "title": "'We will sacrifice lives, not New Mooring Terminal': Ctg port workers vow to resist foreign operator",
+      "link": "https://www.tbsnews.net/bangladesh/we-will-sacrifice-lives-not-new-mooring-terminal-ctg-port-workers-vow-resist-foreign",
+      "pubDate": "Sat, 03 Oct 2026 21:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/ctg_workers.jpg",
+      "snippet": "Workers’ leaders give the government five days to open negotiations and announce a torch procession for 7 October."
+    },
+    {
+      "title": "BTMA seeks action against importer after seizure of bonded yarn in Narsingdi, Narayanganj",
+      "link": "https://www.tbsnews.net/economy/rmg/btma-seeks-action-against-importer-after-seizure-bonded-yarn-narsingdi-narayanganj",
+      "pubDate": "Sat, 03 Oct 2026 21:30:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/11/yarn-4601270_1280.jpg",
+      "snippet": "The yarn was seized from several warehouses in Araihazar of Narayanganj and Madhabdi of Narsingdi"
+    },
+    {
+      "title": "Man's body recovered in Tongi after alleged beating over theft suspicion",
+      "link": "https://www.tbsnews.net/bangladesh/mans-body-recovered-tongi-after-alleged-beating-over-theft-suspicion-1561536",
+      "pubDate": "Sat, 03 Oct 2026 21:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/28/dead_2.png",
+      "snippet": "The deceased was identified as Mohammad Rana, 35."
+    },
+    {
+      "title": "Rare Himalayan palm civet allegedly beaten to death in Khagrachari",
+      "link": "https://www.tbsnews.net/bangladesh/rare-himalayan-palm-civet-allegedly-beaten-death-khagrachari-1561541",
+      "pubDate": "Sat, 03 Oct 2026 21:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/palm_civet.jpg",
+      "snippet": "Locals claim jungle fowl and rabbits are also frequently hunted in the area."
+    },
+    {
+      "title": "Energy minister meets LPG importers amid supply crisis, price hike",
+      "link": "https://www.tbsnews.net/economy/energy/energy-minister-meets-lpg-importers-amid-supply-crisis-price-hike-1561526",
+      "pubDate": "Sat, 03 Oct 2026 21:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/energy_minister.jpeg",
+      "snippet": "The meeting came amid widespread consumer complaints about the unavailability of LPG cylinders in various parts of the country."
+    },
+    {
+      "title": "Dhaka wants cooperation; doesn't want to be a chessboard for other players to play: Shama",
+      "link": "https://www.tbsnews.net/bangladesh/dhaka-wants-cooperation-doesnt-want-be-chessboard-other-players-play-shama-1561521",
+      "pubDate": "Sat, 03 Oct 2026 21:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/shama_obaed.jpeg",
+      "snippet": "Shama Obaed seeks global cooperation to resolve Rohingya crisis, address AI-related risks"
+    },
+    {
+      "title": "Farakka treaty to be renewed following Ziaur Rahman's approach: Forhad",
+      "link": "https://www.tbsnews.net/bangladesh/farakka-treaty-be-renewed-following-ziaur-rahmans-approach-forhad-1561506",
+      "pubDate": "Sat, 03 Oct 2026 20:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/image-430869-1791033884_1.jpg",
+      "snippet": "The state minister also highlighted the government initiatives to renew the Farakka Treaty with India."
+    },
+    {
+      "title": "Zahid calls for quality education, keep campus free from politics",
+      "link": "https://www.tbsnews.net/bangladesh/zahid-calls-quality-education-keep-campus-free-politics-1561486",
+      "pubDate": "Sat, 03 Oct 2026 20:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/image-430855-1791030088.jpg",
+      "snippet": "The minister sports allowances had been introduced to retain talented athletes."
+    },
+    {
+      "title": "Govt to train imams, muezzins to raise awareness about safe food production: Aminur",
+      "link": "https://www.tbsnews.net/bangladesh/govt-train-imams-muezzins-raise-awareness-about-safe-food-production-aminur-1561471",
+      "pubDate": "Sat, 03 Oct 2026 20:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/image-430833-1791028976.jpg",
+      "snippet": "The minister said generally agriculture officers regularly advise farmers on modern agricultural technologies and production methods."
+    },
+    {
+      "title": "Customs intelligence raids 4 restaurants and bars in Dhaka, including one linked to Salman Muqtadir's father-in-law",
+      "link": "https://www.tbsnews.net/bangladesh/customs-intelligence-raids-4-restaurants-and-bars-dhaka-including-one-linked-salman",
+      "pubDate": "Sat, 03 Oct 2026 20:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/ciid_raid.jpg",
+      "snippet": "The establishments are being inspected for alcohol stocks, import and purchase documents, and payment of customs duties, VAT and taxes"
+    },
+    {
+      "title": "Dhaka North forms monitoring team to prevent footpath encroachment in Mirpur-10",
+      "link": "https://www.tbsnews.net/bangladesh/dhaka-north-forms-monitoring-team-prevent-footpath-encroachment-mirpur-10-1561466",
+      "pubDate": "Sat, 03 Oct 2026 19:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/01/20/dhaka_north.jpg",
+      "snippet": "The team will regularly inspect the area and seize goods and equipment if shops or structures are found occupying footpaths."
+    },
+    {
+      "title": "Govt working to make agricultural products major export items: Agri minister",
+      "link": "https://www.tbsnews.net/bangladesh/govt-working-make-agricultural-products-major-export-items-agri-minister-1561456",
+      "pubDate": "Sat, 03 Oct 2026 19:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/image-430849-1791029062.jpg",
+      "snippet": "The minister said Bangladesh has highly favourable conditions for agricultural production."
+    },
+    {
+      "title": "Inflation puts pressure on people's purchasing power: Khosru",
+      "link": "https://www.tbsnews.net/economy/inflation-puts-pressure-peoples-purchasing-power-khosru-1561451",
+      "pubDate": "Sat, 03 Oct 2026 19:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/04/khasru_sketch.jpg",
+      "snippet": "Restoring confidence in the banking sector is essential. At the same time, increasing investment and employment is now one of the country's biggest priorities, he says."
+    },
+    {
+      "title": "Solar panel on PM's Gulshan residence supplies 1200 unit power to national grid",
+      "link": "https://www.tbsnews.net/bangladesh/solar-panel-pms-gulshan-residence-supplies-1200-unit-power-national-grid-1561441",
+      "pubDate": "Sat, 03 Oct 2026 19:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/image-430840-1791027293.jpg",
+      "snippet": "The state minister said that the government's important projects are being implemented at the field level under the supervision of the UNOs."
+    },
+    {
+      "title": "Jatiyatabadi Cyber Dal vice-president arrested over Radda health centre attack",
+      "link": "https://www.tbsnews.net/bangladesh/crime/jatiyatabadi-cyber-dal-vice-president-arrested-over-radda-health-centre-attack",
+      "pubDate": "Sat, 03 Oct 2026 18:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/02/radda_clinic_vandalism.jpg",
+      "snippet": "The number of arrests in the case has now risen to 17."
+    },
+    {
+      "title": "Dengue claims 6 more lives in 24 hours, 1,608 hospitalised",
+      "link": "https://www.tbsnews.net/bangladesh/health/dengue-claims-6-more-lives-24-hours-1608-hospitalised-1561406",
+      "pubDate": "Sat, 03 Oct 2026 18:40:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/10/27/dengue_ward_rajibdhar_0288.jpg",
+      "snippet": "The latest deaths take this year’s dengue toll to 256, while total cases rise to 84,369."
+    },
+    {
+      "title": "Dinesh Trivedi stresses dialogue, trust to address Dhaka-Delhi issues",
+      "link": "https://www.tbsnews.net/foreign-policy/dinesh-trivedi-stresses-dialogue-trust-address-dhaka-delhi-issues-1561391",
+      "pubDate": "Sat, 03 Oct 2026 18:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/01/untitled_design_21.jpg",
+      "snippet": "Bangladesh understands its own security interests, has the right to make its own decisions, Trivedi says."
+    },
+    {
+      "title": "Restoring confidence in banking sector a priority: Finance minister",
+      "link": "https://www.tbsnews.net/economy/banking/restoring-confidence-banking-sector-priority-finance-minister-1561396",
+      "pubDate": "Sat, 03 Oct 2026 18:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/khosru_uiu.jpg",
+      "snippet": "Uncertainty in the global economy had become a normal reality, with Bangladesh facing the effects of global inflation, trade protectionism, climate change and exchange rate volatility, Khosru says."
+    },
+    {
+      "title": "3 arrested for allegedly posing as DGFI members to extort Tk10 lakh from Uttara flat owner",
+      "link": "https://www.tbsnews.net/bangladesh/crime/3-arrested-allegedly-posing-dgfi-members-extort-tk10-lakh-uttara-flat-owner-1561351",
+      "pubDate": "Sat, 03 Oct 2026 17:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/fraud_possing_as_dgfi.png",
+      "snippet": "The flat owner paid Tk1.59 lakh before becoming suspicious and calling 999, after which police recovered a fake DGFI ID, walkie-talkie, and handcuffs."
+    },
+    {
+      "title": "Gazipur garment factory fire brought under control, 70 rescued",
       "link": "https://www.tbsnews.net/bangladesh/garment-factory-catches-fire-gazipur-1561311",
       "pubDate": "Sat, 03 Oct 2026 16:55:00 +0600",
       "category": "Bangladesh",
@@ -9,7 +218,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/gazipur_garments_factory_fire.png",
-      "snippet": "Nine Fire Service units are working to bring the blaze under control at Matrix Garments in Degir Chala"
+      "snippet": "The blaze at Matrix Garments was brought under control around 6pm, with nine Fire Service units deployed"
     },
     {
       "title": "PMO releases photo showing Tarique, Zubaida at Trump-hosted dinner for world leaders",
@@ -56,50 +265,6 @@
       "snippet": "Bangladesh has made substantial progress in putting girls in classrooms and women in political institutions. But it has been far less successful in translating those gains into jobs, income, assets, professional advancement and economic decision-maki..."
     },
     {
-      "title": "Measles outbreak: Death toll reaches 1,122 as 8 more die",
-      "link": "https://www.tbsnews.net/bangladesh/measles-outbreak-death-toll-reaches-1122-8-more-die-1561246",
-      "pubDate": "Sat, 03 Oct 2026 15:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/11/measles_tbs.jpeg",
-      "snippet": "1,109 new suspected measles cases have been reported"
-    },
-    {
-      "title": "10 crude bomb-like objects found in Gazipur; police cordon off area",
-      "link": "https://www.tbsnews.net/bangladesh/10-crude-bomb-objects-found-gazipur-police-cordon-area-1561236",
-      "pubDate": "Sat, 03 Oct 2026 15:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/blurred-frame_3.jpg",
-      "snippet": "According to police and local sources, residents spotted the crude bomb-like objects inside a sack in front of the residence of one Hridoy, a leader of the activities-banned Chhatra League, in the Andarul area."
-    },
-    {
-      "title": "Bangladesh wants to serve as bridge for cooperation between Asean and Saarc: PM's special assistant ",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-wants-serve-bridge-cooperation-between-asean-and-saarc-pms-special-assistant",
-      "pubDate": "Sat, 03 Oct 2026 15:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/img_20261003_145755.jpg",
-      "snippet": "Young people are not only the leaders of tomorrow; they are leaders of today, he said."
-    },
-    {
-      "title": "Foreigners find tourism in rural Bangladesh",
-      "link": "https://www.tbsnews.net/features/panorama/foreigners-find-tourism-rural-bangladesh-1561226",
-      "pubDate": "Sat, 03 Oct 2026 15:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/555922871_767406979454992_8293006682025524719_n.jpg",
-      "snippet": "From village homestays to building businesses and raising families, a growing number of foreign visitors are finding reasons to venture beyond the usual tourist trail"
-    },
-    {
       "title": "Bangladesh needs digital banking, but does it need more banks?",
       "link": "https://www.tbsnews.net/thoughts/bangladesh-needs-digital-banking-does-it-need-more-banks-1561206",
       "pubDate": "Sat, 03 Oct 2026 14:50:00 +0600",
@@ -109,50 +274,6 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/digital_banking_0.png",
       "snippet": "The key question is whether digital banks can bring more people and businesses into formal finance, and provide credit more efficiently and lower banking costs. If they simply repeat the weaknesses of conventional banks, the five new licences will on..."
-    },
-    {
-      "title": "Minister urges quick LCs to boost fruit imports, orders action against any unjustified malta price hike",
-      "link": "https://www.tbsnews.net/bangladesh/minister-urges-quick-lcs-boost-fruit-imports-orders-action-against-any-unjustified-malta",
-      "pubDate": "Sat, 03 Oct 2026 14:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/825348443_1101119588991029_751353695864615066_n.jpg",
-      "snippet": "The minister assured traders that the issue of duties on malta would be reviewed and urged them to explore alternative sources and open LCs quickly to increase supplies in the coming weeks."
-    },
-    {
-      "title": "'We had hardly any choice': Trivedi on Hasina's arrival in India",
-      "link": "https://www.tbsnews.net/bangladesh/legal-process-there-place-says-dinesh-trivedi-hasina-extradition-1561181",
-      "pubDate": "Sat, 03 Oct 2026 14:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/28fb34fe-2be9-470f-9e99-17d931d4365d.jpg",
-      "snippet": "India’s Ministry of External Affairs subsequently said that Bangladesh’s extradition request was being examined in line with established procedures."
-    },
-    {
-      "title": "Jamaat leader Akhtaruzzaman throws away helmet, says will not obey 'illegal' govt orders",
-      "link": "https://www.tbsnews.net/bangladesh/jamaat-leader-akhtaruzzaman-throws-helmet-says-he-will-not-obey-illegal-government-orders",
-      "pubDate": "Sat, 03 Oct 2026 14:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/825311183_1128346002955748_7479545852461456556_n.jpg",
-      "snippet": "A Dhaka court has granted a one-day remand of Akhtaruzzaman in a case filed over allegations of creating disorder and obstructing government work amid a shortage of luggage and trolleys at Hazrat Shahjalal International Airport."
-    },
-    {
-      "title": "18-year-old stabbed to death over dispute at tea shop in Satkhira, one held",
-      "link": "https://www.tbsnews.net/bangladesh/18-year-old-stabbed-death-over-dispute-tea-shop-satkhira-one-held-1561161",
-      "pubDate": "Sat, 03 Oct 2026 13:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/zakaria_khan_satkhira_stabbed_to_death.jpg",
-      "snippet": "Police detained Muhid Hasan Boni, 19, in connection with the incident."
     },
     {
       "title": "Preparing Bangladesh’s capital market for AI",
@@ -166,101 +287,24 @@
       "snippet": "Artificial intelligence can strengthen financial analysis, transparency, governance and investor confidence. But Bangladesh must first build the data, infrastructure, skills and institutional culture required for responsible adoption"
     },
     {
-      "title": "Ctg Port Protection Committee demands cancellation of NCT, CCT lease processes",
-      "link": "https://www.tbsnews.net/bangladesh/port-protection-committee-demands-cancellation-nct-cct-lease-processes-1561151",
-      "pubDate": "Sat, 03 Oct 2026 13:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/nct_cct_lease.jpeg",
-      "snippet": "The committee announces daylong sit-in at Ctg port’s main gate on 5 October."
-    },
-    {
       "title": "From crude to rice: The long tail of US sanctions ",
       "link": "https://www.tbsnews.net/analysis/crude-rice-long-tail-us-sanctions-1560956",
       "pubDate": "Sat, 03 Oct 2026 13:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Analysis",
+      "color": "#5d4037",
+      "bg": "#efebe9",
+      "icon": "🔍",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/20/us-bangladesh-trade.png",
       "snippet": "A US law threatens tariffs of up to 100% on buyers of Russian energy. Even countries that never trade with Moscow or Tehran will feel it in fuel, fertiliser and food prices"
-    },
-    {
-      "title": "Radda clinic vandalism: Former Chhatra Dal leader arrested ",
-      "link": "https://www.tbsnews.net/bangladesh/radda-clinic-vandalism-cyber-dal-leader-arrested-1561116",
-      "pubDate": "Sat, 03 Oct 2026 12:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/02/radda_clinic_vandalism.jpg",
-      "snippet": "With this arrest, the total number of people arrested in connection with the incident has now risen to 17."
-    },
-    {
-      "title": "Golden dreams in Barendra sun: Solar irrigation brings fallow lands back to life",
-      "link": "https://www.tbsnews.net/bangladesh/golden-dreams-barendra-sun-solar-irrigation-brings-fallow-lands-back-life-1561121",
-      "pubDate": "Sat, 03 Oct 2026 12:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/image-430784-1791010106.jpg",
-      "snippet": "The technology is helping farmers in Rajshahi's Mohanpur upazila grow paddy, brinjal, tomato, cauliflower, cabbage, and chilli, with some farmers now cultivating paddy three times a year."
-    },
-    {
-      "title": "Restaurants struggle as costs surge, sales drop by up to 30%, owners say, seek govt action",
-      "link": "https://www.tbsnews.net/bangladesh/restaurants-struggle-costs-surge-sales-drop-30-owners-say-seek-govt-action-1561101",
-      "pubDate": "Sat, 03 Oct 2026 12:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/broa.jpg",
-      "snippet": "Restaurants are struggling to remain viable because they cannot fully adjust food prices to match rising costs, they said."
-    },
-    {
-      "title": "Disorder, obstruction at Dhaka airport: Jamaat leader Major (retd) Akhtaruzzaman placed on 1-day remand",
-      "link": "https://www.tbsnews.net/bangladesh/police-seek-five-day-remand-major-retd-akhtaruzzaman-1561096",
-      "pubDate": "Sat, 03 Oct 2026 12:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/825311344_4524563954479427_6162356432680949124_n.jpg",
-      "snippet": "Earlier, the investigating officer, Airport Police Station Sub-Inspector Majedul Islam, produced the accused in court and sought a five-day remand."
-    },
-    {
-      "title": "Rain likely in parts of country",
-      "link": "https://www.tbsnews.net/bangladesh/rain-likely-parts-country-1561086",
-      "pubDate": "Sat, 03 Oct 2026 12:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/09/rain.jpg",
-      "snippet": "The highest temperature on Friday was recorded at 35.4 degrees Celsius in Tangail and Jashore, while today's minimum temperature was 23.2 degrees Celsius in Sylhet."
-    },
-    {
-      "title": "Tension flares between Khulna University students, locals over Facebook post",
-      "link": "https://www.tbsnews.net/bangladesh/tension-flares-between-khulna-university-students-locals-over-facebook-post-1561071",
-      "pubDate": "Sat, 03 Oct 2026 12:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/29/khulna_university.jpg",
-      "snippet": "Locals said a number of KU students assaulted Sajal, a local youth, over his Facebook posts on the drug situation inside the university and alleged immoral activities at some houses on Hall Road."
     },
     {
       "title": "Govt hospital test cutoff at 2pm pushes patients to costlier private centres",
       "link": "https://www.tbsnews.net/bangladesh/health/govt-hospital-test-cutoff-2pm-pushes-patients-costlier-private-centres-1560946",
       "pubDate": "Sat, 03 Oct 2026 12:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/savar_hospital.jpg",
       "snippet": "Most government hospitals run regular diagnostic services for about six hours, from 8am to 2pm. The Directorate General of Health Services (DGHS) says a shortage of manpower prevents hospitals from operating diagnostic services in two shifts"
     },
@@ -714,29 +758,7 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/30/just.png",
       "snippet": "Gazipur Agricultural University jointly ranks second nationally."
-    },
-    {
-      "title": "Seven banks dropped from CSE50 benchmark index",
-      "link": "https://www.tbsnews.net/economy/stocks/seven-banks-dropped-cse50-index-bi-annual-review-1558901",
-      "pubDate": "Wed, 30 Sep 2026 20:40:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/15/cse-bd.jpg",
-      "snippet": "The revised CSE50 index will take effect on 11 October 2026."
-    },
-    {
-      "title": "Bangladesh's new quarterly monetary policy: Is taking a cautious stance enough?  ",
-      "link": "https://www.tbsnews.net/analysis/bangladeshs-new-quarterly-monetary-policy-taking-cautious-stance-enough-1558746",
-      "pubDate": "Wed, 30 Sep 2026 19:00:00 +0600",
-      "category": "Analysis",
-      "color": "#5d4037",
-      "bg": "#efebe9",
-      "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/21/selim_raihan_sanem_latest.jpg",
-      "snippet": "Bangladesh Bank’s shift to quarterly monetary policy reviews offers greater flexibility, but weak credit transmission and deep banking-sector vulnerabilities could limit the impact of a cautious interest-rate stance."
     }
   ],
-  "updatedAt": "2026-10-03T11:53:41.889Z"
+  "updatedAt": "2026-10-03T15:48:38.020Z"
 }
