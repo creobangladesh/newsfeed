@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Why private sector turns away from foreign loans",
+      "link": "https://www.tbsnews.net/economy/why-private-sector-turns-away-foreign-loans-1561686",
+      "pubDate": "Sun, 04 Oct 2026 07:40:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/08/private_sector.jpg",
+      "snippet": "The shift is most visible in short-term debt, which includes buyer’s credit, deferred import payments and other trade facilities. It fell 42.48% to $10.21 billion between the second quarter of 2022 and July 2026"
+    },
+    {
       "title": "DSEX posts shallowest decline among regional peers in Sept amid global volatility",
       "link": "https://www.tbsnews.net/economy/stocks/dsex-posts-shallowest-decline-among-regional-peers-sept-amid-global-volatility",
       "pubDate": "Sun, 04 Oct 2026 01:50:00 +0600",
@@ -56,17 +67,6 @@
       "snippet": "Tensions flare after rival protest programmes at the same venue."
     },
     {
-      "title": "Saudi expatriate returning home after six years robbed by men posing as 'law enforcers'",
-      "link": "https://www.tbsnews.net/bangladesh/saudi-expatriate-returning-home-after-six-years-robbed-men-posing-law-enforcers-1561606",
-      "pubDate": "Sat, 03 Oct 2026 23:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/robbery.jpeg",
-      "snippet": "The incident took place around 5:15am today (3 October) in the Zia Udyan area under Sher-e-Bangla Nagar Police Station in Dhaka."
-    },
-    {
       "title": "CVO Petrochemical resumes regular operations after emergency maintenance",
       "link": "https://www.tbsnews.net/economy/stocks/cvo-petrochemical-resumes-regular-operations-after-emergency-maintenance-1561626",
       "pubDate": "Sat, 03 Oct 2026 23:45:00 +0600",
@@ -76,6 +76,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/09/23/81961693_3692022500831682_1600059644871442432_n.jpg",
       "snippet": "CVOPRL had informed the DSE on 7 September that it would temporarily suspend factory operations for emergency maintenance."
+    },
+    {
+      "title": "Saudi expatriate returning home after six years robbed by men posing as 'law enforcers'",
+      "link": "https://www.tbsnews.net/bangladesh/saudi-expatriate-returning-home-after-six-years-robbed-men-posing-law-enforcers-1561606",
+      "pubDate": "Sat, 03 Oct 2026 23:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/robbery.jpeg",
+      "snippet": "The incident took place around 5:15am today (3 October) in the Zia Udyan area under Sher-e-Bangla Nagar Police Station in Dhaka."
     },
     {
       "title": "Confidence Power to kick off IPO roadshow on 18 October",
@@ -747,18 +758,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/10/20/rooppur_nuclear_power_plant.jpeg",
       "snippet": "The test began on the night of 29 September, and was conducted from both the Main Control Room (MCR) and the Emergency Control Room (ECR), according to the Nuclear Power Plant Company Bangladesh Limited (NPCBL)."
-    },
-    {
-      "title": "Biman's high dollar rate squeezes freight forwarders, favours foreign carriers",
-      "link": "https://www.tbsnews.net/economy/aviation/bimans-high-dollar-rate-squeezes-freight-forwarders-favours-foreign-carriers",
-      "pubDate": "Thu, 01 Oct 2026 07:35:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/01/biman_2.png",
-      "snippet": "Biman has set its exchange rate at Tk123.65 per dollar for export cargo from 8 September, while Sonali Bank’s TT Clean rate was Tk122.50 on the same day, Baffa said."
     }
   ],
-  "updatedAt": "2026-10-03T22:19:28.461Z"
+  "updatedAt": "2026-10-04T01:49:47.616Z"
 }
