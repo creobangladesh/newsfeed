@@ -1,6 +1,248 @@
 {
   "news": [
     {
+      "title": "14 deaths a day as 423 killed in road crashes in September: RSF",
+      "link": "https://www.tbsnews.net/bangladesh/14-deaths-day-423-killed-road-crashes-september-rsf-1561926",
+      "pubDate": "Sun, 04 Oct 2026 13:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/04/munshiganj_road_accident.jpg",
+      "snippet": "Motorcycle crashes accounted for 154 of the accidents, or 34.84%, killing 139 people, or 32.86% of the total fatalities."
+    },
+    {
+      "title": "Chinese national among 3 dead after furnace blast at Mirsharai steel factory",
+      "link": "https://www.tbsnews.net/bangladesh/chinese-national-among-3-dead-after-furnace-blast-mirsharai-steel-factory-1561931",
+      "pubDate": "Sun, 04 Oct 2026 13:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/28/dead_2.png",
+      "snippet": "The authorities are yet to establish the precise circumstances behind the furnace blast or determine responsibility for the accident."
+    },
+    {
+      "title": "Dry weather likely over country",
+      "link": "https://www.tbsnews.net/bangladesh/dry-weather-likely-over-country-1561921",
+      "pubDate": "Sun, 04 Oct 2026 13:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/01/17/abhawa_office_0.png",
+      "snippet": "The highest temperature on Saturday was 35.4 degrees Celsius in Chuadanga, while today's minimum temperature is 22.4 degrees Celsius in Sylhet."
+    },
+    {
+      "title": "SRB warrant officer killed as truck crashes into Feni checkpoint",
+      "link": "https://www.tbsnews.net/bangladesh/srb-warrant-officer-killed-truck-crashes-feni-checkpoint-1561901",
+      "pubDate": "Sun, 04 Oct 2026 13:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/04/srb_death.jpg",
+      "snippet": "The truck driver is undergoing treatment at the hospital."
+    },
+    {
+      "title": "How can Bangladesh make 24/7 customs clearance actually work?",
+      "link": "https://www.tbsnews.net/bangladesh/how-can-bangladesh-make-247-customs-clearance-actually-work-1561881",
+      "pubDate": "Sun, 04 Oct 2026 12:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/06/04/ctg_customs.jpg",
+      "snippet": "Business stakeholders say keeping customs open alone cannot ensure faster clearance, as payments, shipping, transport and other services must also operate during weekends and holidays"
+    },
+    {
+      "title": "9.34kg of gold bars worth Tk16.25cr recovered from shoes of 2 crew members at Dhaka airport",
+      "link": "https://www.tbsnews.net/bangladesh/934kg-gold-bars-worth-tk1625cr-recovered-shoes-2-crew-members-dhaka-airport-1561861",
+      "pubDate": "Sun, 04 Oct 2026 12:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/04/831165586_1851704936202932_2583201300479695809_n.jpg",
+      "snippet": "Each gold bar weighed approximately 117 grams, with an estimated market value of Tk16.25 crore."
+    },
+    {
+      "title": "Army chief off to Australia, US on 9-day official visit",
+      "link": "https://www.tbsnews.net/bangladesh/army-chief-australia-us-9-day-official-visit-1561851",
+      "pubDate": "Sun, 04 Oct 2026 12:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/04/screenshot_2026-10-04_120556.png",
+      "snippet": "The Army Chief will later travel to Washington, DC, to attend the Association of the US Army’s 2026 Annual Meeting and Exposition."
+    },
+    {
+      "title": "India demonstrates first free-space quantum link for secure communications",
+      "link": "https://www.tbsnews.net/tech/india-demonstrates-first-free-space-quantum-link-secure-communications-1561846",
+      "pubDate": "Sun, 04 Oct 2026 12:00:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/04/36b3ae32-8b8f-11eb-af96-ff2673230aac_1616473432794.jpg",
+      "snippet": "The trial, conducted on the night of 27-28 September, established a secure quantum communication channel between BISAG-N and IIT Gandhinagar."
+    },
+    {
+      "title": "Akhtaruzzaman has become leader of persecuted people: Jamaat chief",
+      "link": "https://www.tbsnews.net/bangladesh/akhtaruzzaman-has-become-leader-persecuted-people-jamaat-chief-1561886",
+      "pubDate": "Sun, 04 Oct 2026 11:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/04/jamaat_shafiqur-rahman.jpg",
+      "snippet": "Major (retd) Akhtaruzzaman was placed on a one-day remand yesterday in a case filed over alleged disorder and obstruction of government work at Hazrat Shahjalal International Airport."
+    },
+    {
+      "title": "Bangladesh needs stronger economic integration with emerging Asia: Rehman Sobhan",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-needs-stronger-economic-integration-emerging-asia-rehman-sobhan-1561831",
+      "pubDate": "Sun, 04 Oct 2026 11:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/04/7165388.jpg",
+      "snippet": "The CPD chairman said one of the major challenges for the future of Asia is the “still uncomfortable relationship” between India and China."
+    },
+    {
+      "title": "Govt working to develop sports as profession: Dulu",
+      "link": "https://www.tbsnews.net/bangladesh/govt-working-develop-sports-profession-dulu-1561811",
+      "pubDate": "Sun, 04 Oct 2026 11:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/04/screenshot_2026-10-04_112944.png",
+      "snippet": "\"Engaging young people in sports will help them lead healthy and fulfilling lives while creating a positive environment in society,\" he said."
+    },
+    {
+      "title": "Doctors warn energy drinks pose risks to children",
+      "link": "https://www.tbsnews.net/bangladesh/health/doctors-warn-energy-drinks-pose-risks-children-1561816",
+      "pubDate": "Sun, 04 Oct 2026 11:30:00 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/04/2708286.jpg",
+      "snippet": "The American Beverage Association said its members voluntarily disclose caffeine levels on labels and do not sell or market energy drinks in K-12 schools."
+    },
+    {
+      "title": "Kaliganga boat race part of Manikganj's tradition and folk culture: Afroza",
+      "link": "https://www.tbsnews.net/bangladesh/kaliganga-boat-race-part-manikganjs-tradition-and-folk-culture-afroza-1561796",
+      "pubDate": "Sun, 04 Oct 2026 11:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/04/screenshot_2026-10-04_111937.png",
+      "snippet": "Thousands of people, including men, women and children, gathered along both banks of the river to watch the competition."
+    },
+    {
+      "title": "Poor roads, waterlogging add to Naogaon residents' woes ",
+      "link": "https://www.tbsnews.net/bangladesh/poor-roads-waterlogging-add-naogaon-residents-woes-1561776",
+      "pubDate": "Sun, 04 Oct 2026 11:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/04/7771939.jpg",
+      "snippet": "A recent visit to Tajer Mor, Kalitala, Palpara, Sultanpara, Gosthati Mor, Ukilpara, Chakbaria, and Doyaler Mor showed the extent of the problem."
+    },
+    {
+      "title": "Bangladesh condemns Houthi attack on Madinah power infrastructure",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-condemns-houthi-attack-madinah-power-infrastructure-1561766",
+      "pubDate": "Sun, 04 Oct 2026 11:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/04/ministry_of_foreign_affairs_.jpg",
+      "snippet": "The government of Bangladesh said it stands in full solidarity with the Kingdom of Saudi Arabia in defending its security and sovereignty."
+    },
+    {
+      "title": "Govt plans $300m fast-track project to turn Chattogram airport into regional air hub",
+      "link": "https://www.tbsnews.net/bangladesh/govt-plans-300m-fast-track-project-turn-chattogram-airport-regional-air-hub-1561751",
+      "pubDate": "Sun, 04 Oct 2026 11:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/04/aviation_0.png",
+      "snippet": "Estimated at $280-$300 million, the project aims to increase passenger and cargo capacity while improving Shah Amanat International Airport’s connectivity with South Asia, Southeast Asia, the Middle East, and China."
+    },
+    {
+      "title": "Major cracks, subsidence hit Dhaka Bypass in Sonargaon",
+      "link": "https://www.tbsnews.net/bangladesh/major-cracks-subsidence-hit-dhaka-bypass-sonargaon-1561771",
+      "pubDate": "Sun, 04 Oct 2026 11:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/04/193992.jpg",
+      "snippet": "Authorities suspend traffic on affected section amid fears of further subsidence and accidents."
+    },
+    {
+      "title": "Van carrying hazardous chemical drums from Ctg port catches fire",
+      "link": "https://www.tbsnews.net/bangladesh/van-carrying-hazardous-chemical-drums-ctg-port-catches-fire-1561761",
+      "pubDate": "Sun, 04 Oct 2026 10:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/04/untitled-1.jpg",
+      "snippet": "The drums were being transported to Wata Chemicals Limited in Narayanganj for destruction, according to officials."
+    },
+    {
+      "title": "Online gambling money laundered abroad in four stages, masterminds remain at large",
+      "link": "https://www.tbsnews.net/bangladesh/online-gambling-money-laundered-abroad-four-stages-masterminds-remain-large-1561746",
+      "pubDate": "Sun, 04 Oct 2026 10:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/10/03/20230920_rajibdhar_6564_1.jpg",
+      "snippet": "According to the Criminal Investigation Department, money generated through online gambling changes hands through four layers before being sent abroad: the gambler, local agent, super agent and, finally, the mastermind."
+    },
+    {
+      "title": "Payment bottlenecks, holiday lull hold back 24/7 customs services at ports ",
+      "link": "https://www.tbsnews.net/economy/payment-bottlenecks-holiday-lull-hold-back-247-customs-services-ports-1561731",
+      "pubDate": "Sun, 04 Oct 2026 10:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/04/lead-1.png",
+      "snippet": "Stakeholders point out that critical financial infrastructure, specifically the RTGS system, remains offline during non-banking hours, weekends, and public holidays."
+    },
+    {
+      "title": "Dhaka ranks world's third most polluted city this morning",
+      "link": "https://www.tbsnews.net/bangladesh/dhaka-ranks-worlds-third-most-polluted-city-morning-1561736",
+      "pubDate": "Sun, 04 Oct 2026 09:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/04/7846473.jpg",
+      "snippet": "India's capital Delhi, topped the list with an AQI score of 235, followed by Kolkata with a score of 186."
+    },
+    {
+      "title": "Govt plans to turn more raw jute into high-value products: Commerce minister",
+      "link": "https://www.tbsnews.net/bangladesh/govt-plans-turn-more-raw-jute-high-value-products-commerce-minister-1561726",
+      "pubDate": "Sun, 04 Oct 2026 09:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/30/khandaker_abdul_muktadir.jpg",
+      "snippet": "Move aims to boost foreign exchange earnings and revenue."
+    },
+    {
       "title": "Why private sector turns away from foreign loans",
       "link": "https://www.tbsnews.net/economy/why-private-sector-turns-away-foreign-loans-1561686",
       "pubDate": "Sun, 04 Oct 2026 07:40:00 +0600",
@@ -8,184 +250,19 @@
       "color": "#2e7d32",
       "bg": "#e8f5e9",
       "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/08/private_sector.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/04/debt.png",
       "snippet": "The shift is most visible in short-term debt, which includes buyer’s credit, deferred import payments and other trade facilities. It fell 42.48% to $10.21 billion between the second quarter of 2022 and July 2026"
-    },
-    {
-      "title": "DSEX posts shallowest decline among regional peers in Sept amid global volatility",
-      "link": "https://www.tbsnews.net/economy/stocks/dsex-posts-shallowest-decline-among-regional-peers-sept-amid-global-volatility",
-      "pubDate": "Sun, 04 Oct 2026 01:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/06/09/stock-exchange-tbs.jpg",
-      "snippet": "The DSEX, the benchmark index of the Dhaka Stock Exchange (DSE), fell 47 points, or 0.85%, month-on-month (MoM), to close at 5,550 at the end of September."
-    },
-    {
-      "title": "Charting ICB's comeback: Debt relief, capital reform and market innovation",
-      "link": "https://www.tbsnews.net/economy/stocks/charting-icbs-comeback-debt-relief-capital-reform-and-market-innovation-1561616",
-      "pubDate": "Sat, 03 Oct 2026 23:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/28/icb.jpg",
-      "snippet": "The framework reflects ICB’s efforts to strengthen its financial and operational sustainability in line with the broader objectives of the government’s 3R strategy."
-    },
-    {
-      "title": "Ibn Sina Pharma to buy Tk57cr commercial space in Dhanmondi",
-      "link": "https://www.tbsnews.net/economy/stocks/ibn-sina-pharma-buy-tk57cr-commercial-space-dhanmondi-1561636",
-      "pubDate": "Sat, 03 Oct 2026 23:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/30/ibn_sina_pharma_logo.jpg",
-      "snippet": "The company's board approved the purchase at its 342nd meeting on 30 September."
-    },
-    {
-      "title": "39 LPG cylinder sellers fined Tk4.26 lakh in 16 districts",
-      "link": "https://www.tbsnews.net/bangladesh/39-lpg-cylinder-sellers-fined-tk426-lakh-16-districts-1561646",
-      "pubDate": "Sat, 03 Oct 2026 23:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/04/cylinder_.jpg",
-      "snippet": "The drives were conducted simultaneously by 23 teams of the directorate in Dhaka city and 16 districts today (3 October), targeting LPG cylinder dealers, wholesalers and retailers."
-    },
-    {
-      "title": "Cop among 2 injured in scuffle over BNP-Jamaat programmes in Kushtia",
-      "link": "https://www.tbsnews.net/bangladesh/politics/cop-among-2-injured-scuffle-over-bnp-jamaat-programmes-kushtia-1561671",
-      "pubDate": "Sat, 03 Oct 2026 23:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/04/kushtia_bnp_jamaat.jpg",
-      "snippet": "Tensions flare after rival protest programmes at the same venue."
-    },
-    {
-      "title": "CVO Petrochemical resumes regular operations after emergency maintenance",
-      "link": "https://www.tbsnews.net/economy/stocks/cvo-petrochemical-resumes-regular-operations-after-emergency-maintenance-1561626",
-      "pubDate": "Sat, 03 Oct 2026 23:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/09/23/81961693_3692022500831682_1600059644871442432_n.jpg",
-      "snippet": "CVOPRL had informed the DSE on 7 September that it would temporarily suspend factory operations for emergency maintenance."
-    },
-    {
-      "title": "Saudi expatriate returning home after six years robbed by men posing as 'law enforcers'",
-      "link": "https://www.tbsnews.net/bangladesh/saudi-expatriate-returning-home-after-six-years-robbed-men-posing-law-enforcers-1561606",
-      "pubDate": "Sat, 03 Oct 2026 23:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/robbery.jpeg",
-      "snippet": "The incident took place around 5:15am today (3 October) in the Zia Udyan area under Sher-e-Bangla Nagar Police Station in Dhaka."
-    },
-    {
-      "title": "Confidence Power to kick off IPO roadshow on 18 October",
-      "link": "https://www.tbsnews.net/economy/stocks/confidence-power-kick-ipo-roadshow-18-october-1561621",
-      "pubDate": "Sat, 03 Oct 2026 23:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/11/25/1519709776.png",
-      "snippet": "According to company sources, the roadshow, aimed at institutional investors, will begin at 7pm at the Radisson Blu Water Garden Hotel in Dhaka."
-    },
-    {
-      "title": "Bangladesh's innovative ideas struggle to reach implementation",
-      "link": "https://www.tbsnews.net/bangladesh/bangladeshs-innovative-ideas-struggle-reach-implementation-1561666",
-      "pubDate": "Sat, 03 Oct 2026 23:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/04/innovative_.jpeg",
-      "snippet": "Weak industry-academia links and limited funding remain key barriers."
-    },
-    {
-      "title": "3 killed in three-way collision involving 2 motorcycles, three-wheeler in Bagerhat",
-      "link": "https://www.tbsnews.net/bangladesh/3-killed-three-way-collision-involving-2-motorcycles-three-wheeler-bagerhat-1561656",
-      "pubDate": "Sat, 03 Oct 2026 23:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/28/dead_2.png",
-      "snippet": "The accident occurred in front of Dona Government Primary School on the Signboard-Bogi regional highway in Morelganj."
-    },
-    {
-      "title": "Child's body recovered from pond six hours after going missing in Shariatpur; suspect detained",
-      "link": "https://www.tbsnews.net/bangladesh/childs-body-recovered-pond-six-hours-after-going-missing-shariatpur-suspect-detained",
-      "pubDate": "Sat, 03 Oct 2026 23:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/02/representational_deadbody.jpg",
-      "snippet": "Relatives allege child was killed over dispute with neighbours."
-    },
-    {
-      "title": "Unauthorised visitors rise at Secretariat despite pass system",
-      "link": "https://www.tbsnews.net/bangladesh/unauthorised-entry-rises-secretariat-cabinet-division-review-system-1561586",
-      "pubDate": "Sat, 03 Oct 2026 22:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/24/secretariat_6.jpeg",
-      "snippet": "A cabinet meeting scheduled to be held on Sunday (4 OCtober) to review the visitor entry system."
-    },
-    {
-      "title": "Action against wrongdoers has long been a culture in BNP: Alal",
-      "link": "https://www.tbsnews.net/bangladesh/politics/action-against-wrongdoers-has-long-been-culture-bnp-alal-1561561",
-      "pubDate": "Sat, 03 Oct 2026 21:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/syed_moazzem_hossain_alal.jpeg",
-      "snippet": "Recalling BNP’s past, Alal said former president Shaheed Ziaur Rahman had spoken about taking action against corrupt elements and “weeds” within the party at a meeting of the central committee of Jatiyatabadi Jubo Dal in Dhaka before his death."
-    },
-    {
-      "title": "Bangladesh must become technology producer, exporter: Minister",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-must-become-technology-producer-exporter-minister-1561576",
-      "pubDate": "Sat, 03 Oct 2026 21:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/24/faqir_mahbub_anam.jpeg",
-      "snippet": "A total of 355 projects were submitted for this year’s awards, with 44 innovations recognised after evaluation by 40 judges from industry, academia, banking, public administration and startups."
     },
     {
       "title": "World Bank team in Bangladesh to discuss energy financing, infrastructure reforms",
       "link": "https://www.tbsnews.net/economy/world-bank-team-bangladesh-discuss-energy-financing-infrastructure-reforms-1561581",
       "pubDate": "Sat, 03 Oct 2026 21:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/28/wb_bd.jpg",
       "snippet": "A four-member delegation will meet government officials from 3 to 7 October to discuss energy financing, supply security, renewable energy and infrastructure investment."
-    },
-    {
-      "title": "'We will sacrifice lives, not New Mooring Terminal': Ctg Port workers vow to resist foreign operator",
-      "link": "https://www.tbsnews.net/bangladesh/we-will-sacrifice-lives-not-new-mooring-terminal-ctg-port-workers-vow-resist-foreign",
-      "pubDate": "Sat, 03 Oct 2026 21:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/ctg_workers.jpg",
-      "snippet": "Workers’ leaders give the government five days to open negotiations and announce a torch procession for 7 October."
     },
     {
       "title": "Bonded yarn seized: BTMA seeks identification of importer, legal action",
@@ -197,50 +274,6 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/11/yarn-4601270_1280.jpg",
       "snippet": "The yarn was seized from several warehouses in Araihazar of Narayanganj and Madhabdi of Narsingdi"
-    },
-    {
-      "title": "Energy minister sits with LPG importers amid supply crisis, price hike",
-      "link": "https://www.tbsnews.net/economy/energy/energy-minister-meets-lpg-importers-amid-supply-crisis-price-hike-1561526",
-      "pubDate": "Sat, 03 Oct 2026 21:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/energy_minister.jpeg",
-      "snippet": "The meeting came amid widespread consumer complaints about the unavailability of LPG cylinders in various parts of the country."
-    },
-    {
-      "title": "Man's body recovered in Tongi after alleged beating over theft suspicion",
-      "link": "https://www.tbsnews.net/bangladesh/mans-body-recovered-tongi-after-alleged-beating-over-theft-suspicion-1561536",
-      "pubDate": "Sat, 03 Oct 2026 21:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/28/dead_2.png",
-      "snippet": "The deceased was identified as Mohammad Rana, 35."
-    },
-    {
-      "title": "Rare Himalayan palm civet allegedly beaten to death in Khagrachari",
-      "link": "https://www.tbsnews.net/bangladesh/rare-himalayan-palm-civet-allegedly-beaten-death-khagrachari-1561541",
-      "pubDate": "Sat, 03 Oct 2026 21:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/palm_civet.jpg",
-      "snippet": "Locals claim jungle fowl and rabbits are also frequently hunted in the area."
-    },
-    {
-      "title": "Dhaka wants co-op; doesn't want to be a chessboard for other players to play: Shama",
-      "link": "https://www.tbsnews.net/bangladesh/dhaka-wants-cooperation-doesnt-want-be-chessboard-other-players-play-shama-1561521",
-      "pubDate": "Sat, 03 Oct 2026 21:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/shama_obaed.jpeg",
-      "snippet": "Shama Obaed seeks global cooperation to resolve Rohingya crisis, address AI-related risks"
     },
     {
       "title": "Inflation puts pressure on people's purchasing power: Khosru",
@@ -298,15 +331,15 @@
       "snippet": "Bangladesh has made substantial progress in putting girls in classrooms and women in political institutions. But it has been far less successful in translating those gains into jobs, income, assets, professional advancement and economic decision-maki..."
     },
     {
-      "title": "Bangladesh needs digital banking, but does it need more banks?",
-      "link": "https://www.tbsnews.net/thoughts/bangladesh-needs-digital-banking-does-it-need-more-banks-1561206",
+      "title": "Bangladesh needs digital banking, but not more banks",
+      "link": "https://www.tbsnews.net/thoughts/bangladesh-needs-digital-banking-not-more-banks-1561206",
       "pubDate": "Sat, 03 Oct 2026 14:50:00 +0600",
       "category": "Thoughts",
       "color": "#455a64",
       "bg": "#eceff1",
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/digital_banking_0.png",
-      "snippet": "The key question is whether digital banks can bring more people and businesses into formal finance, and provide credit more efficiently and lower banking costs. If they simply repeat the weaknesses of conventional banks, the five new licences will on..."
+      "snippet": "The key question is whether digital banks can bring more people and businesses into the formal financial system and provide credit more efficiently and at lower cost. Otherwise, the five new licences will simply create more banks competing for the sa..."
     },
     {
       "title": "Preparing Bangladesh’s capital market for AI",
@@ -681,84 +714,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/01/reuters.jpg",
       "snippet": "More than a decade after winning its maritime boundary cases in the Bay of Bengal, Bangladesh is yet to turn its hard-won ocean territory into economic value"
-    },
-    {
-      "title": "What does it say about men when no man came forward?",
-      "link": "https://www.tbsnews.net/thoughts/what-does-it-say-about-men-when-no-man-came-forward-1559366",
-      "pubDate": "Thu, 01 Oct 2026 13:30:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/01/f3031d05-79bd-41e3-a651-2bf9a6dfded9.jpg",
-      "snippet": "The Cornell sexual assault allegations raise a difficult issue beyond the alleged acts themselves: what happens when men witness, suspect or learn that a friend is crossing a line, yet choose loyalty, silence or indifference over intervention."
-    },
-    {
-      "title": "Bangla QR is a secure platform with no scope for transaction irregularities: Finance minister",
-      "link": "https://www.tbsnews.net/economy/banking/bangla-qr-secure-platform-no-scope-transaction-irregularities-finance-minister",
-      "pubDate": "Thu, 01 Oct 2026 11:45:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/01/825257208_28914780894877197_3268255396716704958_n.jpg",
-      "snippet": "Finance Minister Amir Khosru says the encrypted system will make digital transactions safer and help reduce reliance on cash"
-    },
-    {
-      "title": "Is Claude conscious? Anthropic turns to religious scholars for answers",
-      "link": "https://www.tbsnews.net/tech/claude-conscious-anthropic-turns-religious-scholars-answers-1559226",
-      "pubDate": "Thu, 01 Oct 2026 11:30:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/29/anthropic_logo.jpg",
-      "snippet": "Anthropic’s interest in consciousness is linked to its broader effort to ensure that its AI models behave according to moral principles."
-    },
-    {
-      "title": "Banks face compliance hurdles under BB's new nominated director rules",
-      "link": "https://www.tbsnews.net/bangladesh/banks-face-compliance-hurdles-under-bbs-new-nominated-director-rules-1559186",
-      "pubDate": "Thu, 01 Oct 2026 10:30:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/28/bangladesh_bank.jpg",
-      "snippet": "According to central bank sources, the new provision regarding the appointment of representative directors will not apply to BRAC Bank, Community Bank, Shimanto Bank, and Trust Bank, as the majority of their shares are held by non-profit organisation..."
-    },
-    {
-      "title": "Four months on, Tk20,000cr factory revival scheme disburses just Tk110cr",
-      "link": "https://www.tbsnews.net/bangladesh/four-months-tk20000cr-factory-revival-scheme-disburses-just-tk110cr-1559161",
-      "pubDate": "Thu, 01 Oct 2026 10:00:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/01/bank-four-month.png",
-      "snippet": "The slow pace underscores a structural bottleneck: while the central bank offers low-cost liquidity, commercial banks bear the full credit risk and remain solely responsible for evaluating borrower viability."
-    },
-    {
-      "title": "China tightens AI rules as digital companions challenge human relationships",
-      "link": "https://www.tbsnews.net/tech/china-tightens-ai-rules-digital-companions-challenge-human-relationships-1559201",
-      "pubDate": "Thu, 01 Oct 2026 09:55:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/01/ai_chat_relationship_china__0.jpg",
-      "snippet": "On 10 September, California Governor Gavin Newsom signed Adam’s Law, which regulates how children use AI."
-    },
-    {
-      "title": "Rooppur Unit-1 clears 16 MPa high-pressure test of Pressure Operated Relief Valve",
-      "link": "https://www.tbsnews.net/economy/energy/rooppur-unit-1-clears-16-mpa-porv-test-18-mpa-phase-next-1559181",
-      "pubDate": "Thu, 01 Oct 2026 09:30:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/10/20/rooppur_nuclear_power_plant.jpeg",
-      "snippet": "The test began on the night of 29 September, and was conducted from both the Main Control Room (MCR) and the Emergency Control Room (ECR), according to the Nuclear Power Plant Company Bangladesh Limited (NPCBL)."
     }
   ],
-  "updatedAt": "2026-10-04T01:49:47.616Z"
+  "updatedAt": "2026-10-04T07:49:15.652Z"
 }
