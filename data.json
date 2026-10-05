@@ -1,6 +1,138 @@
 {
   "news": [
     {
+      "title": "Woman found dead in Dhaka Medical bathroom",
+      "link": "https://www.tbsnews.net/bangladesh/woman-found-dead-dhaka-medical-bathroom-1562986",
+      "pubDate": "Mon, 05 Oct 2026 11:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/dead_body.jpg",
+      "snippet": "Police are conducting a detailed investigation into the circumstances surrounding her death, he said."
+    },
+    {
+      "title": "What steps has cenbank taken to tackle banking sector crisis?",
+      "link": "https://www.tbsnews.net/economy/banking/bb-steps-supervision-legal-reforms-tackle-banking-sector-crisis-1562956",
+      "pubDate": "Mon, 05 Oct 2026 11:30:00 +0600",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/28/bangladesh_bank.jpg",
+      "snippet": "The central bank is also working on the Distress Asset Management Act 2026, which is aimed at addressing distressed assets in the banking sector."
+    },
+    {
+      "title": "World Habitat Day being observed",
+      "link": "https://www.tbsnews.net/bangladesh/world-habitat-day-being-observed-1562941",
+      "pubDate": "Mon, 05 Oct 2026 11:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/05/image-431345-1791175896_1.jpg",
+      "snippet": "In a message issued yesterday (4 October), Prime Minister Tarique Rahman said his government is committed to ensuring safe, affordable, environmentally friendly and dignified housing for all."
+    },
+    {
+      "title": "Elephant corridors in Chunati disrupted by infrastructure works",
+      "link": "https://www.tbsnews.net/bangladesh/elephant-corridors-chunati-disrupted-infrastructure-works-1562836",
+      "pubDate": "Mon, 05 Oct 2026 11:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/05/p5_ctg_elephant_overpass_ctg_-coxs_bazar_railway_line_photo_2_0.jpg",
+      "snippet": "A key route at the Satghar corridor has been effectively blocked for nearly two months as a 900-metre section of the Chattogram-Cox’s Bazar highway is widened to four lanes, preventing elephants from crossing between forest habitats on either side."
+    },
+    {
+      "title": "World Teachers' Day being observed",
+      "link": "https://www.tbsnews.net/bangladesh/world-teachers-day-being-observed-1562926",
+      "pubDate": "Mon, 05 Oct 2026 11:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/05/image-431346-1791176022.jpg",
+      "snippet": "This year’s theme is 'Standing with Teachers: Sixty Years of Protecting the Profession, Advancing its Status, Shaping Our Futures'."
+    },
+    {
+      "title": "Man living in South Korea secures bail using proxy in Khulna; court sues lawyer",
+      "link": "https://www.tbsnews.net/bangladesh/crime/man-currently-south-korea-secures-bail-using-proxy-khulna-court-sues-lawyer-1562911",
+      "pubDate": "Mon, 05 Oct 2026 10:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/05/shaon.jpg",
+      "snippet": "The court filed a forgery case against the accused and his lawyer after being informed that the accused had been living in South Korea and had not returned to Bangladesh."
+    },
+    {
+      "title": "PM inaugurates World Habitat Day 2026",
+      "link": "https://www.tbsnews.net/bangladesh/pm-inaugurates-world-habitat-day-2026-1562901",
+      "pubDate": "Mon, 05 Oct 2026 10:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/05/screenshot_2026-10-05_104836.png",
+      "snippet": "The three-day housing fair features 157 stalls."
+    },
+    {
+      "title": "Constable critically injured after minibus rams into motorcycle during chase for suspected robbers; 2 arrested",
+      "link": "https://www.tbsnews.net/bangladesh/constable-critically-injured-after-minibus-rams-motorcycle-during-chase-suspected-robbers",
+      "pubDate": "Mon, 05 Oct 2026 10:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/07/01/cmch.jpg",
+      "snippet": "The constable, Md Al Amin Sardar, sustained severe injuries to his head and both legs and was admitted to the intensive care unit (ICU) of Chittagong Medical College Hospital in critical condition."
+    },
+    {
+      "title": "BB to limit borrower's sector-wide exposure, target each bank's top defaulters to tame bad loans",
+      "link": "https://www.tbsnews.net/economy/banking/bb-limit-borrowers-sector-wide-exposure-target-each-banks-top-defaulters-tame-bad",
+      "pubDate": "Mon, 05 Oct 2026 10:10:00 +0600",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/05/img_6707.png",
+      "snippet": "No overall shortage of liquidity in banking sector, says BB"
+    },
+    {
+      "title": "JCD forms committee to probe attack on RU journalists",
+      "link": "https://www.tbsnews.net/bangladesh/jcd-forms-committee-probe-attack-ru-journalists-1562841",
+      "pubDate": "Mon, 05 Oct 2026 09:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/05/5742104.jpg",
+      "snippet": "A press release signed by JCD Office Secretary Jahangir Alam, who holds the rank of vice-president, confirmed the formation of the committee last night (4 October)."
+    },
+    {
+      "title": "Islami Bank Hospital faces vandalism, assault and extortion allegations after teenager’s death",
+      "link": "https://www.tbsnews.net/bangladesh/islami-bank-hospital-faces-vandalism-assault-and-extortion-allegations-after-teenagers",
+      "pubDate": "Mon, 05 Oct 2026 09:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/05/834961694_1831079924742619_8052945713706746855_n.jpg",
+      "snippet": "A journalist covering the incident also claimed that he was assaulted and his mobile phone was taken away."
+    },
+    {
+      "title": "Overseas jobs fall 29% in September YoY",
+      "link": "https://www.tbsnews.net/bangladesh/migration/overseas-jobs-fall-29-september-yoy-1562796",
+      "pubDate": "Mon, 05 Oct 2026 07:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/12/24/migrant_workers_final_0.jpeg",
+      "snippet": "A total of 70,304 workers received country clearance for overseas employment in September, down from 99,024 in the same month last year, according to data from the Bureau of Manpower, Employment and Training (BMET)"
+    },
+    {
       "title": "Govts changed, but fight for press freedom remains: Matiur Rahman",
       "link": "https://www.tbsnews.net/bangladesh/govts-changed-fight-press-freedom-remains-matiur-rahman-1562791",
       "pubDate": "Mon, 05 Oct 2026 01:10:00 +0600",
@@ -120,116 +252,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/04/journalists_attacked_ru_1.jpg",
       "snippet": "Four journalists were among at least 10 people injured in the incident outside Shaheed Ziaur Rahman Hall tonight."
-    },
-    {
-      "title": "5th meeting of Special Committee on Constitutional Amendment held",
-      "link": "https://www.tbsnews.net/bangladesh/politics/5th-meeting-special-committee-constitutional-amendment-held-1562701",
-      "pubDate": "Sun, 04 Oct 2026 22:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/15/untitled_design_15.jpg",
-      "snippet": "The committee requested participants to submit any additional written proposals they might have beyond those raised during the meeting."
-    },
-    {
-      "title": "102 businesses fined Tk10.31 lakh in nationwide essential goods, LPG market drives",
-      "link": "https://www.tbsnews.net/bangladesh/102-businesses-fined-tk1031-lakh-nationwide-essential-goods-lpg-market-drives-1562696",
-      "pubDate": "Sun, 04 Oct 2026 22:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/09/11/lpg.jpg",
-      "snippet": "Consumer rights authorities conducted inspections in 30 districts, seizing equipment allegedly used to manipulate LPG cylinder weights in Savar."
-    },
-    {
-      "title": "Investigating officer testifies in Tk25cr embezzlement case against Saifuzzaman Chowdhury",
-      "link": "https://www.tbsnews.net/bangladesh/court/investigating-officer-testifies-tk25cr-embezzlement-case-against-saifuzzaman",
-      "pubDate": "Sun, 04 Oct 2026 22:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/08/16/land_minister_saifuzzaman_chowdhury.jpg",
-      "snippet": "Defence cross-examination set for 25 October."
-    },
-    {
-      "title": "Nasiruddin Patwary attacked, car vandalised at Lalon Shah shrine in Kushtia",
-      "link": "https://www.tbsnews.net/bangladesh/nasiruddin-patwari-attacked-car-vandalised-lalon-shah-shrine-kushtia-1562676",
-      "pubDate": "Sun, 04 Oct 2026 21:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/04/830485428_1399188055155729_1713935965741084319_n.jpg",
-      "snippet": "Locals allege that a group led by Chhatra Dal leaders Sangram and Papon attacked the NCP leader and vandalised his vehicle during his visit to the shrine."
-    },
-    {
-      "title": "Parliamentary caucus on climate change, displacement holds first meeting",
-      "link": "https://www.tbsnews.net/bangladesh/parliamentary-caucus-climate-change-displacement-holds-first-meeting-1562656",
-      "pubDate": "Sun, 04 Oct 2026 21:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/08/parliament.png",
-      "snippet": "Members of the parliamentary caucus were also invited to a workshop on climate change and displacement held during the meeting."
-    },
-    {
-      "title": "Employment Exchange to be launched by December: Minister Ariful",
-      "link": "https://www.tbsnews.net/bangladesh/employment-exchange-be-launched-december-minister-ariful-1562661",
-      "pubDate": "Sun, 04 Oct 2026 21:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/17/untitled_design_10.jpg",
-      "snippet": "The minister expressed optimism about organising these job fairs within the current year."
-    },
-    {
-      "title": "Medical Value Travel Summit to be held in Chattogram on 14 Nov",
-      "link": "https://www.tbsnews.net/bangladesh/medical-value-travel-summit-be-held-chattogram-14-nov-1562671",
-      "pubDate": "Sun, 04 Oct 2026 21:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/04/non-surgical_26.png",
-      "snippet": "Hospitals and healthcare organisations from Bangladesh, India, China, Thailand, Malaysia and Iran are expected to participate in the day-long summit."
-    },
-    {
-      "title": "Govt plans transport, insurance benefits for sports card holders: Aminul",
-      "link": "https://www.tbsnews.net/bangladesh/govt-plans-transport-insurance-benefits-sports-card-holders-aminul-1562646",
-      "pubDate": "Sun, 04 Oct 2026 21:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/04/screenshot_2026-10-04_143515.png",
-      "snippet": "The proposed facilities include discounted fares on public transport, special healthcare support, life insurance and risk insurance coverage for sports card holders, according to the ministry."
-    },
-    {
-      "title": "Restoring investor confidence biggest challenge: DSE chairman",
-      "link": "https://www.tbsnews.net/economy/stocks/restoring-investor-confidence-biggest-challenge-dse-chairman-1562686",
-      "pubDate": "Sun, 04 Oct 2026 21:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/11/28/ipdc_md_ceo.jpg",
-      "snippet": "There is no alternative to regaining investor confidence to overcome the situation created by past irregularities and inefficiencies, he says."
-    },
-    {
-      "title": "Deputy speaker urges accountability for failure to enforce child laws",
-      "link": "https://www.tbsnews.net/bangladesh/deputy-speaker-urges-accountability-failure-enforce-child-laws-1562651",
-      "pubDate": "Sun, 04 Oct 2026 21:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/04/non-surgical_25.png",
-      "snippet": "He called for stronger coordination among Parliament, relevant Ministries, law enforcement agencies and NGOs working on child labour and child rights."
     },
     {
       "title": "IPO drought to end as quality companies enter capital market soon: BSEC chief",
@@ -648,29 +670,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/02/photo_tbs.jpg",
       "snippet": "The next investment story has to rest on three things: goods that move quickly, rules that stay put, and workers who can do more. None of these ideas is new. What has changed is that they are no longer optional."
-    },
-    {
-      "title": "Cucsu term draws to close with most pledges still unmet",
-      "link": "https://www.tbsnews.net/bangladesh/education/cucsu-term-draws-close-most-pledges-still-unmet-1560286",
-      "pubDate": "Fri, 02 Oct 2026 10:00:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/23/cucsu.jpg",
-      "snippet": "Only 10 of its 33 manifesto pledges have been fully implemented, while four have been partially implemented."
-    },
-    {
-      "title": "Finance ministry softens bank law reforms aimed at curbing family control",
-      "link": "https://www.tbsnews.net/economy/banking/finance-ministry-softens-bank-law-reforms-aimed-curbing-family-control-1560276",
-      "pubDate": "Fri, 02 Oct 2026 09:15:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/02/p1_lead_bank_law_infograph-2_copy.png",
-      "snippet": "In its latest draft, the Bangladesh Bank had proposed cutting the number of directors from one family to two and the maximum consecutive tenure from 12 years to six. The Financial Institutions Division of the finance ministry has rejected both propos..."
     }
   ],
-  "updatedAt": "2026-10-05T00:04:14.935Z"
+  "updatedAt": "2026-10-05T06:02:48.952Z"
 }
