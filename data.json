@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "150 Bangladeshi nationals airlifted from Jammu and Kashmir for deportation",
+      "link": "https://www.tbsnews.net/bangladesh/150-bangladeshi-nationals-airlifted-jammu-and-kashmir-deportation-1563871",
+      "pubDate": "Tue, 06 Oct 2026 07:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/04/24/india_kashmir.jpg",
+      "snippet": "The 150 people are among around 500 individuals, mostly from Bangladesh, detained during a recent police survey across the Union Territory"
+    },
+    {
+      "title": "Govt plans to cut business-startup process to 14 days with a single ID",
+      "link": "https://www.tbsnews.net/economy/govt-plans-cut-business-startup-process-14-days-single-id-1563856",
+      "pubDate": "Tue, 06 Oct 2026 07:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/03/07/011.jpg",
+      "snippet": "The commerce ministry and Invest Bangladesh are jointly working on the reform. Currently, it takes an average of 355 days for a company to obtain the licences, clearances and approvals needed to start operations after registration"
+    },
+    {
       "title": "Mass arrest of Jasad activists is assault on civil, political rights in Bangladesh: HRW",
       "link": "https://www.tbsnews.net/bangladesh/mass-arrest-jasad-activists-assault-civil-political-rights-bangladesh-hrw-1563846",
       "pubDate": "Tue, 06 Oct 2026 00:20:00 +0600",
@@ -213,23 +235,12 @@
       "title": "Bonded firm in Ctg found short of 1,335 tonnes of raw materials",
       "link": "https://www.tbsnews.net/economy/bonded-firm-ctg-found-short-1335-tonnes-raw-materials-1563656",
       "pubDate": "Mon, 05 Oct 2026 20:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/05/bonded_firm_raw_materials.jpg",
       "snippet": "The discrepancy could put around Tk9.10 crore in customs duties and taxes at risk."
-    },
-    {
-      "title": "RU journalists, journalism students stage sit-in demanding attackers' arrest",
-      "link": "https://www.tbsnews.net/bangladesh/ru-journalists-journalism-students-stage-sit-demanding-attackers-arrest-1563646",
-      "pubDate": "Mon, 05 Oct 2026 20:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/05/836211009_2038096270206370_4221489884817247876_n.jpg",
-      "snippet": "The protesters demand legal action against those accused of attacking four journalists and expulsion of the alleged perpetrators from Chhatra Dal."
     },
     {
       "title": "Rancon Lubricants to invest $19.65m in Mirsarai blending plant",
@@ -747,18 +758,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/rooppur_uranium_pabna.jpg",
       "snippet": "First unit expected to begin power generation in December-January"
-    },
-    {
-      "title": "Uncertified LED bulbs grab half of Tk3,000cr market, squeezing compliant manufacturers",
-      "link": "https://www.tbsnews.net/economy/industry/uncertified-led-bulbs-grab-half-tk3000cr-market-squeezing-compliant-manufacturers",
-      "pubDate": "Sat, 03 Oct 2026 07:25:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/led_bulb.png",
-      "snippet": "Sajib Ahmed returned to the shop hoping to replace the defective 20-watt bulb, but a shop employee told him that such non-branded products came without any guarantee or warranty"
     }
   ],
-  "updatedAt": "2026-10-05T22:07:11.857Z"
+  "updatedAt": "2026-10-06T02:23:49.918Z"
 }
