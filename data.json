@@ -1,6 +1,138 @@
 {
   "news": [
     {
+      "title": "bdnews24.com Editor Toufique's body to arrive in Bangladesh on 10 October",
+      "link": "https://www.tbsnews.net/bangladesh/toufique-imrose-khalidis-body-arrive-bangladesh-saturday-1564891",
+      "pubDate": "Wed, 07 Oct 2026 01:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/02/toufique_imrose_khalidi.jpg",
+      "snippet": "The family will announce details of the janaza and burial in Bangladesh after his body arrives."
+    },
+    {
+      "title": "4 arrested for demanding extortion from Jatrabari autorickshaw garage while posing as police",
+      "link": "https://www.tbsnews.net/bangladesh/crime/4-arrested-demanding-extortion-jatrabari-autorickshaw-garage-while-posing-police",
+      "pubDate": "Wed, 07 Oct 2026 01:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/07/police_extortion.jpg",
+      "snippet": "The arrestees are Md Parvez Munshi, 32, Md Imran Hossain, 38, Md Junaid Hossain Kurban, 27, and Md Asif Islam, 33."
+    },
+    {
+      "title": "Shoes hung on Bir Sreshtha Hamidur Rahman sculpture in Jhenaidah, sparking outrage",
+      "link": "https://www.tbsnews.net/bangladesh/shoes-hung-bir-sreshtha-hamidur-rahman-sculpture-jhenaidah-sparking-outrage-1564881",
+      "pubDate": "Wed, 07 Oct 2026 01:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/07/hamidur-rahman-square.jpg",
+      "snippet": "The incident comes amid earlier vandalism of the sculpture, while police have launched an investigation to identify those responsible."
+    },
+    {
+      "title": "1,100 yaba tablets seized from grocery shop in Korail slum, youth arrested",
+      "link": "https://www.tbsnews.net/bangladesh/crime/1100-yaba-tablets-seized-grocery-shop-korail-slum-youth-arrested-1564876",
+      "pubDate": "Wed, 07 Oct 2026 01:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/07/arrest_yaba.jpg",
+      "snippet": "The DNC also recovered Tk1.9 lakh in cash, which it said was suspected to be proceeds from drug sales, during a raid at the shop on Tuesday (6 October)."
+    },
+    {
+      "title": "Biman to sign deal with Airbus for 10 aircraft today",
+      "link": "https://www.tbsnews.net/economy/aviation/biman-sign-deal-airbus-10-aircraft-today-1564866",
+      "pubDate": "Wed, 07 Oct 2026 00:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/05/26/airbus.jpg",
+      "snippet": "The proposed package includes four A350-900 widebody and six A321neo narrowbody aircraft."
+    },
+    {
+      "title": "How a Russian contract dispute brought down Bangladesh's digital payment",
+      "link": "https://www.tbsnews.net/economy/banking/how-russian-contract-dispute-brought-down-bangladeshs-digital-payment-1564861",
+      "pubDate": "Wed, 07 Oct 2026 00:15:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/20/digital_banking_cover_copy.png",
+      "snippet": "The crisis stems from a row over a software migration between local payment processor Information Technology Consultants Ltd (ITCL), operator of the Q-Cash network, and Russian vendor Compass Plus."
+    },
+    {
+      "title": "Businesses seek faster loans from Tk20,000cr factory revival fund",
+      "link": "https://www.tbsnews.net/economy/businesses-seek-faster-loans-tk20000cr-factory-revival-fund-1564856",
+      "pubDate": "Wed, 07 Oct 2026 00:00:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/01/bank-four-month.png",
+      "snippet": "Business representatives said delays in bank board meetings were slowing down the processing of loan and support applications."
+    },
+    {
+      "title": "Govt Hajj pilgrims drop 56% in 3 years; quota rises to 6,000",
+      "link": "https://www.tbsnews.net/bangladesh/govt-hajj-pilgrims-drop-56-3-years-quota-rises-6000-1564851",
+      "pubDate": "Tue, 06 Oct 2026 23:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/10/1.png",
+      "snippet": "Saudi Arabia has set Bangladesh’s total Hajj quota at 78,500 for 2027."
+    },
+    {
+      "title": "Global tax avoidance reforms shifting how nations compete for foreign investment: IMF",
+      "link": "https://www.tbsnews.net/economy/global-tax-avoidance-reforms-shifting-how-nations-compete-foreign-investment-imf-1564846",
+      "pubDate": "Tue, 06 Oct 2026 23:35:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/05/image-431372-1791180302.jpg",
+      "snippet": "In an analytical insight following its latest (October 2026) global outlook, the IMF highlighted that international tax reforms."
+    },
+    {
+      "title": "PM recalls childhood memory of fresh Royal Bengal Tiger pugmark in Sundarbans",
+      "link": "https://www.tbsnews.net/bangladesh/pm-recalls-childhood-memory-fresh-royal-bengal-tiger-pugmark-sundarbans-1564836",
+      "pubDate": "Tue, 06 Oct 2026 23:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/06/personal_info.png",
+      "snippet": "Asked what he had dreamed of becoming when he was a child, Tarique Rahman said he did not have any particular ambition at that age."
+    },
+    {
+      "title": "Nationwide market monitoring drive: Consumer rights directorate fines 95 businesses Tk5.6 lakh",
+      "link": "https://www.tbsnews.net/bangladesh/nationwide-market-monitoring-drive-consumer-rights-directorate-fines-95-businesses-tk56",
+      "pubDate": "Tue, 06 Oct 2026 22:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/06/833093021_1030316490021732_5269334740031054807_n.jpg",
+      "snippet": "The drive was conducted by 51 teams across 38 districts, including Dhaka, to keep essential commodity prices stable and supplies normal."
+    },
+    {
+      "title": "Ctg Port warns media against publishing information, photos without permission",
+      "link": "https://www.tbsnews.net/bangladesh/ctg-port-warns-media-against-publishing-information-photos-without-permission-1564806",
+      "pubDate": "Tue, 06 Oct 2026 21:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/p1_ctg_port_news_photo_1.jpg",
+      "snippet": "The CPA cited security concerns and threatened legal action, while experts questioned the blanket restriction’s legal basis and proportionality."
+    },
+    {
       "title": "Jahrat Adib Chowdhury elected to IPU executive committee",
       "link": "https://www.tbsnews.net/bangladesh/jahrat-adib-chowdhury-elected-ipu-executive-committee-1564781",
       "pubDate": "Tue, 06 Oct 2026 21:50:00 +0600",
@@ -23,7 +155,7 @@
       "snippet": "Public prosecutor Abul Kalam Azad Zakir says he was injured in the altercation, while BNP leader Sakhawat Hossain Khan calls the incident embarrassing."
     },
     {
-      "title": "Toyota to launch HEV manufacturing plant in Bangladesh",
+      "title": "Toyota to start hybrid electric vehicle production in Bangladesh next year",
       "link": "https://www.tbsnews.net/economy/industry/toyota-launch-hev-manufacturing-plant-bangladesh-1564796",
       "pubDate": "Tue, 06 Oct 2026 21:40:00 +0600",
       "category": "Bangladesh",
@@ -31,7 +163,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/06/838351728_861804733622271_1524564666892646094_n.jpg",
-      "snippet": "Production is expected to begin by 2029."
+      "snippet": "Full-scale production is expected to begin by 2029."
     },
     {
       "title": "Cenbank summons Q-Cash operator over disrupted services",
@@ -42,7 +174,18 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/28/bangladesh_bank.jpg",
-      "snippet": "Bangladesh Bank orders urgent restoration of affected services."
+      "snippet": "However, Q-Cash network services resumed at 10pm today."
+    },
+    {
+      "title": "Editors' Council condemns attacks on journalists, places 5-point demands",
+      "link": "https://www.tbsnews.net/bangladesh/editors-council-condemns-attacks-journalists-places-5-point-demands-1564716",
+      "pubDate": "Tue, 06 Oct 2026 21:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/20/editors_council.jpg",
+      "snippet": "Council seeks impartial probes and stronger journalist protection."
     },
     {
       "title": "6 Comilla University teachers' posts declared vacant after they fail to rejoin after study leave",
@@ -65,17 +208,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/17/untitled_design_10.jpg",
       "snippet": "Ariful Haque Choudhury says jobs, recruitment costs and other conditions must be ensured before workers are sent."
-    },
-    {
-      "title": "Editors' Council condemns attacks on journalists, places 5-point demands",
-      "link": "https://www.tbsnews.net/bangladesh/editors-council-condemns-attacks-journalists-places-5-point-demands-1564716",
-      "pubDate": "Tue, 06 Oct 2026 21:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/20/editors_council.jpg",
-      "snippet": "Council seeks impartial probes and stronger journalist protection."
     },
     {
       "title": "Bangla Academy launches eponymous font",
@@ -122,103 +254,26 @@
       "snippet": "The agency disclosed the figures in a statement Tuesday, saying it also monitored 1,307 food establishments during the month and issued health certificates for three export-quality products."
     },
     {
-      "title": "DMP vows to ensure tight security for Durga Puja across Dhaka",
-      "link": "https://www.tbsnews.net/bangladesh/dmp-vows-ensure-tight-security-durga-puja-across-dhaka-1564676",
-      "pubDate": "Tue, 06 Oct 2026 20:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/06/img_0513.jpeg",
-      "snippet": "Representatives of various puja celebration committees sought full cooperation from the DMP to ensure security at the puja mandaps and smooth traffic management during the festival."
-    },
-    {
-      "title": "Man arrested over 'attempted rape' of RMG worker in Savar",
-      "link": "https://www.tbsnews.net/bangladesh/crime/man-arrested-over-attempted-rape-rmg-worker-savar-1564661",
-      "pubDate": "Tue, 06 Oct 2026 20:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/27/image-428779-1790493006.jpg",
-      "snippet": "The incident took place near a mini zoo in the C&B area of Savar around 6:30pm yesterday."
-    },
-    {
-      "title": "Cuet students take protest to Chattogram city after 14 days over ex-VC's reinstatement",
-      "link": "https://www.tbsnews.net/bangladesh/cuet-students-take-protest-chattogram-city-after-14-days-over-ex-vcs-reinstatement",
-      "pubDate": "Tue, 06 Oct 2026 20:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/06/cuest_protest.jpg",
-      "snippet": "The ongoing shutdown has halted Cuet’s academic and administrative activities."
-    },
-    {
-      "title": "Discrepancy between actual population and birth registry must be corrected: LGRD minister",
-      "link": "https://www.tbsnews.net/bangladesh/discrepancy-between-actual-population-and-birth-registry-must-be-corrected-lgrd-minister",
-      "pubDate": "Tue, 06 Oct 2026 20:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/06/personal_info_1.png",
-      "snippet": "Technology alone cannot ensure public service, the minister said, stressing that the people behind it must be accountable."
-    },
-    {
-      "title": "Market syndicates hurt ordinary consumers: Food minister",
-      "link": "https://www.tbsnews.net/bangladesh/market-syndicates-hurt-ordinary-consumers-food-minister-1564611",
-      "pubDate": "Tue, 06 Oct 2026 20:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/06/6208481389829624246.jpg.jpeg",
-      "snippet": "Govt monitoring markets, foodgrain stocks and supply chains to prevent major disruptions, says Afroza Khanom."
-    },
-    {
       "title": "Foreign aid cuts put funding at risk for 2,200 NGOs: BIDS",
       "link": "https://www.tbsnews.net/economy/foreign-aid-cuts-put-funding-risk-2200-ngos-bids-1564591",
       "pubDate": "Tue, 06 Oct 2026 19:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/06/gemini_generated_image_3bds6i3bds6i3bds.jpg",
       "snippet": "Two-thirds of NGOs relying solely on foreign grants reported major financial losses, with their budgets falling by an average of 40%, a BIDS study finds."
-    },
-    {
-      "title": "Rangamati cyclist Bir Kumar conquers Everest region’s 3 highest passes",
-      "link": "https://www.tbsnews.net/bangladesh/rangamati-cyclist-bir-kumar-conquers-everest-regions-3-highest-passes-1564581",
-      "pubDate": "Tue, 06 Oct 2026 19:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/06/img_0510.jpeg",
-      "snippet": "In the final stage of the expedition, Bir Kumar conquered Renjo La Pass, located at an altitude of 5,360 metres, at 4.26 pm local time in Nepal on Monday."
     },
     {
       "title": "T-bonds: Why is govt buying back costly debt before maturity?",
       "link": "https://www.tbsnews.net/explainer/t-bonds-why-govt-buying-back-costly-debt-maturity-1564586",
       "pubDate": "Tue, 06 Oct 2026 19:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/06/gemini_generated_image_89dmle89dmle89dm.jpg",
       "snippet": "T-bonds are generally used for longer-term government borrowing, while Treasury bills are normally used for shorter periods."
-    },
-    {
-      "title": "Sifat murder case: Court orders further PBI probe against Hasina, 25 others",
-      "link": "https://www.tbsnews.net/bangladesh/court/sifat-murder-case-court-orders-further-pbi-probe-against-hasina-25-others-1564541",
-      "pubDate": "Tue, 06 Oct 2026 19:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/02/01/court._photo_reuters.jpg",
-      "snippet": "The court ordered a further investigation after Sifat’s father challenged the chargesheet, alleging the probe was not properly conducted and was biased in favour of the accused"
     },
     {
       "title": "'Wait and see,' says FinMin on WB's 3.4% growth forecast for FY27",
@@ -243,7 +298,7 @@
       "snippet": "Nearly 30,000 schools, madrasas and technical education institutions across the country are taking part, with students from Classes VI to X participating in four events at the preliminary stage."
     },
     {
-      "title": "Bangladesh to see lowest GDP growth in South Asia, after Afghanistan: WB",
+      "title": "Bangladesh GDP projected to grow at 3.4%, second lowest in South Asia",
       "link": "https://www.tbsnews.net/economy/bangladesh-see-lowest-gdp-growth-south-asia-after-afghanistan-wb-1564406",
       "pubDate": "Tue, 06 Oct 2026 17:55:00 +0600",
       "category": "Economy",
@@ -251,7 +306,7 @@
       "bg": "#e8f5e9",
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/03/gdp-ezgif.com-webp-to-jpg-converter.jpg",
-      "snippet": "The World Bank cut Bangladesh’s FY27 growth forecast by 1.2 percentage points to 3.4%, citing mounting economic headwinds."
+      "snippet": "The update shows Bangladesh’s projected growth is the lowest in South Asia after Afghanistan."
     },
     {
       "title": "Dengue claims 10 more lives in 24hrs, toll hits 281",
@@ -879,18 +934,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/04/lead-1.png",
       "snippet": "Stakeholders point out that critical financial infrastructure, specifically the RTGS system, remains offline during non-banking hours, weekends, and public holidays."
-    },
-    {
-      "title": "Why private sector turns away from foreign loans",
-      "link": "https://www.tbsnews.net/economy/why-private-sector-turns-away-foreign-loans-1561686",
-      "pubDate": "Sun, 04 Oct 2026 07:40:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/04/debt.png",
-      "snippet": "The shift is most visible in short-term debt, which includes buyer’s credit, deferred import payments and other trade facilities. It fell 42.48% to $10.21 billion between the second quarter of 2022 and July 2026"
     }
   ],
-  "updatedAt": "2026-10-06T16:07:40.196Z"
+  "updatedAt": "2026-10-06T21:06:50.300Z"
 }
