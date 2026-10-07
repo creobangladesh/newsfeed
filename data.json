@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Why strategic neutrality is Bangladesh’s only viable compass",
+      "link": "https://www.tbsnews.net/thoughts/why-strategic-neutrality-bangladeshs-only-viable-compass-1564901",
+      "pubDate": "Wed, 07 Oct 2026 02:55:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/07/15_thoughts_copy_1.png",
+      "snippet": "Bangladesh faces a complex foreign policy landscape shaped by competing regional and global powers. As tensions with India, deeper ties with China, growing economic dependence on Western markets and instability in Myanmar converge, Dhaka must pursue ..."
+    },
+    {
       "title": "bdnews24.com Editor Toufique's body to arrive in Bangladesh on 10 October",
       "link": "https://www.tbsnews.net/bangladesh/toufique-imrose-khalidis-body-arrive-bangladesh-saturday-1564891",
       "pubDate": "Wed, 07 Oct 2026 01:20:00 +0600",
@@ -177,17 +188,6 @@
       "snippet": "However, Q-Cash network services resumed at 10pm today."
     },
     {
-      "title": "Editors' Council condemns attacks on journalists, places 5-point demands",
-      "link": "https://www.tbsnews.net/bangladesh/editors-council-condemns-attacks-journalists-places-5-point-demands-1564716",
-      "pubDate": "Tue, 06 Oct 2026 21:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/20/editors_council.jpg",
-      "snippet": "Council seeks impartial probes and stronger journalist protection."
-    },
-    {
       "title": "6 Comilla University teachers' posts declared vacant after they fail to rejoin after study leave",
       "link": "https://www.tbsnews.net/bangladesh/6-comilla-university-teachers-posts-declared-vacant-after-they-fail-rejoin-after-study",
       "pubDate": "Tue, 06 Oct 2026 21:30:00 +0600",
@@ -208,6 +208,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/17/untitled_design_10.jpg",
       "snippet": "Ariful Haque Choudhury says jobs, recruitment costs and other conditions must be ensured before workers are sent."
+    },
+    {
+      "title": "Editors' Council condemns attacks on journalists, places 5-point demands",
+      "link": "https://www.tbsnews.net/bangladesh/editors-council-condemns-attacks-journalists-places-5-point-demands-1564716",
+      "pubDate": "Tue, 06 Oct 2026 21:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/20/editors_council.jpg",
+      "snippet": "Council seeks impartial probes and stronger journalist protection."
     },
     {
       "title": "Bangla Academy launches eponymous font",
@@ -936,5 +947,5 @@
       "snippet": "Stakeholders point out that critical financial infrastructure, specifically the RTGS system, remains offline during non-banking hours, weekends, and public holidays."
     }
   ],
-  "updatedAt": "2026-10-06T21:06:50.300Z"
+  "updatedAt": "2026-10-07T00:54:35.881Z"
 }
