@@ -1,29 +1,271 @@
 {
   "news": [
     {
-      "title": "Better project pipeline key to securing climate finance: Environment minister",
-      "link": "https://www.tbsnews.net/bangladesh/environment/better-project-pipeline-key-securing-climate-finance-environment-minister",
+      "title": "UCB attaches Nassa-owned land housing City Bank HQ over Tk150cr loan default",
+      "link": "https://www.tbsnews.net/economy/banking/ucb-attaches-nassa-owned-land-housing-city-bank-hq-over-tk150cr-loan-default-1565896",
+      "pubDate": "Thu, 08 Oct 2026 01:15:00 +0600",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/08/ucb_city_bank.jpg",
+      "snippet": "The one-bigha Gulshan property, which houses City Bank’s head office, was attached following a court order issued on 14 September."
+    },
+    {
+      "title": "Khulshi OC transferred hours after Ctg mayor questions his role over 'Bihari Boga' arrest attempt",
+      "link": "https://www.tbsnews.net/bangladesh/khulshi-oc-transferred-hours-after-ctg-mayor-questions-his-role-over-bihari-boga-arrest",
+      "pubDate": "Thu, 08 Oct 2026 01:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/08/oc_ctg.jpg",
+      "snippet": "The transfer order cites “public interest” but gives no specific reason."
+    },
+    {
+      "title": "BGMEA urges WB to scale up funding, scope for RMG water management",
+      "link": "https://www.tbsnews.net/economy/rmg/bgmea-urges-wb-scale-funding-scope-rmg-water-management-1565891",
+      "pubDate": "Thu, 08 Oct 2026 01:00:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/08/bgmea_wb.jpeg",
+      "snippet": "Although BGMEA initially submitted a list of 31 factories, the World Bank selected eight factories for the initial rollout."
+    },
+    {
+      "title": "Govt seeks $6.47b foreign loans for 13 projects, including Dhaka-Ctg 6-lane, MRT-2",
+      "link": "https://www.tbsnews.net/bangladesh/infrastructure/govt-seeks-647b-foreign-loans-13-projects-including-dhaka-ctg-6-lane-mrt-2",
+      "pubDate": "Thu, 08 Oct 2026 00:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/08/foreign_loan.jpeg",
+      "snippet": "The projects have a combined estimated cost of Tk1,06,439 crore, of which Tk79,583.47 crore has been proposed as foreign financing."
+    },
+    {
+      "title": "US space tracking alert helps Bangladesh's satellite avoid Indian satellite debris",
+      "link": "https://www.tbsnews.net/tech/us-space-tracking-alert-helps-bangladeshs-satellite-avoid-indian-satellite-debris-1565871",
+      "pubDate": "Thu, 08 Oct 2026 00:10:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/08/satelite.jpg",
+      "snippet": "An alert from the US space surveillance network helped Bangladesh Satellite Company engineers manoeuvre BS-1 away from debris from India’s defunct INSAT-1A, which came within 852 metres of the satellite."
+    },
+    {
+      "title": "'Abrar Fahad' a unique, bright symbol of the country's nationalist forces: Rizvi",
+      "link": "https://www.tbsnews.net/bangladesh/politics/abrar-fahad-unique-bright-symbol-countrys-nationalist-forces-rizvi-1565876",
+      "pubDate": "Thu, 08 Oct 2026 00:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/08/rizvi_at_du.jpeg",
+      "snippet": "Abrar Fahad was not merely a victim of a homicide. He protested against anti-national agreements and stood up for the country's sovereignty, says Rizvi."
+    },
+    {
+      "title": "3 held over Tk10 lakh extortion bid while posing as CID officials: Court sets 11 Oct for remand hearing",
+      "link": "https://www.tbsnews.net/bangladesh/court/3-held-over-tk10-lakh-extortion-bid-while-posing-cid-officials-court-sets-11-oct",
+      "pubDate": "Wed, 07 Oct 2026 21:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/court.png",
+      "snippet": "A retired police inspector and a serving CID constable are among those arrested after allegedly entering a jewellery shop in Old Dhaka and threatening the owner’s family"
+    },
+    {
+      "title": "BKMEA urges faster renewable energy adoption, decarbonisation to protect RMG exports",
+      "link": "https://www.tbsnews.net/economy/rmg/bkmea-urges-faster-renewable-energy-adoption-decarbonisation-protect-rmg-exports-1565846",
+      "pubDate": "Wed, 07 Oct 2026 21:55:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/07/bkmea.jpg",
+      "snippet": "Industry leaders say energy transition is critical to meeting changing global market requirements and maintaining Bangladesh’s competitiveness."
+    },
+    {
+      "title": "Workers stage torch procession against leasing out Ctg Port's NCT to foreign operator",
+      "link": "https://www.tbsnews.net/economy/workers-stage-torch-procession-against-leasing-out-ctg-ports-nct-foreign-operator-1565856",
+      "pubDate": "Wed, 07 Oct 2026 21:55:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/08/torch_procession.jpg",
+      "snippet": "Protesters warn of tougher movement if the process to hand over NCT and overflow yard to a foreign operator is not scrapped."
+    },
+    {
+      "title": "Shama urges actionable international support for Rohingya crisis",
+      "link": "https://www.tbsnews.net/bangladesh/shama-urges-actionable-international-support-rohingya-crisis-1565836",
+      "pubDate": "Wed, 07 Oct 2026 21:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/07/837918474_1102171835527964_3673121185505892215_n.jpg",
+      "snippet": "She also highlighted the formation of a National Strategy Formulation Committee to guide the Rohingyas’ safe and dignified return."
+    },
+    {
+      "title": "Writ challenges govt decision to reintroduce school admission tests",
+      "link": "https://www.tbsnews.net/bangladesh/court/writ-challenges-govt-decision-reintroduce-school-admission-tests-1565831",
+      "pubDate": "Wed, 07 Oct 2026 21:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/02/high_courtt.png",
+      "snippet": "The petitioner says the decision to scrap the lottery system was taken without adequate research or consultation and could increase inequality, coaching business and pressure on children."
+    },
+    {
+      "title": "Unesco, Windmill partner to promote rickshaw art globally",
+      "link": "https://www.tbsnews.net/bangladesh/unesco-windmill-partner-promote-rickshaw-art-globally-1565821",
+      "pubDate": "Wed, 07 Oct 2026 21:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/02/12/rickshaw_art_0.png",
+      "snippet": "The two organisations will implement a project titled “Rickshaw Painting: Expanding the Canvas”, focusing on skills development, new income opportunities and expanding the commercial potential of rickshaw art."
+    },
+    {
+      "title": "Biman signs Airbus deal to buy 10 aircraft",
+      "link": "https://www.tbsnews.net/economy/aviation/biman-signs-deal-airbus-10-aircraft-1565811",
+      "pubDate": "Wed, 07 Oct 2026 21:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/07/biman_airbus.jpg",
+      "snippet": "Package includes four A350-900 widebody and six A321neo narrowbody jets."
+    },
+    {
+      "title": "Over 30 injured, houses vandalised as people from 5 Sunamganj villages clash over cricket ball hitting three-wheeler ",
+      "link": "https://www.tbsnews.net/bangladesh/over-30-injured-people-five-sunamganj-villages-clash-over-cricket-ball-dispute-1565816",
+      "pubDate": "Wed, 07 Oct 2026 21:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/07/sunamganj.jpg",
+      "snippet": "Several houses and four shops were vandalised, while a house was set on fire during the hour-long clash in the district’s Tahirpur Upazila."
+    },
+    {
+      "title": "ADB lends Bangladesh $275m for affordable housing, hill tracts power projects",
+      "link": "https://www.tbsnews.net/economy/bangladesh-signs-275m-adb-loan-deals-housing-power-projects-1565786",
+      "pubDate": "Wed, 07 Oct 2026 21:10:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/07/bd_adb_loan_deal.png",
+      "snippet": "ADB provides $2.72m grant for electricity distribution in Chittagong Hill Tracts."
+    },
+    {
+      "title": "Bangladesh urges ICRC to step up advocacy for early Rohingya repatriation",
+      "link": "https://www.tbsnews.net/foreign-policy/bangladesh-urges-icrc-step-advocacy-early-rohingya-repatriation-1565781",
+      "pubDate": "Wed, 07 Oct 2026 21:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/07/humaiun_kobir_1.jpg",
+      "snippet": "He made the call when the Head of the Delegation of the ICRC in Bangladesh, Nicolas Fleury, met him at the Ministry of Foreign Affairs."
+    },
+    {
+      "title": "Bangladesh eyes investment from global tech giants: Bobby Hajjaj",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-eyes-investment-global-tech-giants-bobby-hajjaj-1565741",
+      "pubDate": "Wed, 07 Oct 2026 20:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/bobby_hajjaj.jpg",
+      "snippet": "The Primary and Mass Education State Minister says high-tech investment, innovation and skilled manpower will be key to the government's goal of building a $1 trillion economy by 2034."
+    },
+    {
+      "title": "Bangladesh-Germany relations deepen with renewed commitment to partnership, stability, sustainable progress",
+      "link": "https://www.tbsnews.net/foreign-policy/bangladesh-germany-relations-deepen-renewed-commitment-partnership-stability",
+      "pubDate": "Wed, 07 Oct 2026 20:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/07/humaiun_kobir.jpg",
+      "snippet": "The two sides also exchanged views on the broadening Bangladesh-EU partnership and reaffirmed their commitment to cooperation in relevant international fora."
+    },
+    {
+      "title": "Religion, identity must not stand in way of citizens' rights: PM",
+      "link": "https://www.tbsnews.net/bangladesh/religion-identity-must-not-stand-way-citizens-rights-pm-1565731",
+      "pubDate": "Wed, 07 Oct 2026 20:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/07/pm_meeting_with_hindu_buddho.png",
+      "snippet": "The prime minister also handed over Tk5 crore to the Hindu Religious Welfare Trust for Durga Puja and Tk3 crore to the Buddhist Religious Welfare Trust for a Buddhist festival."
+    },
+    {
+      "title": "Industry growth accelerates in Q4, agriculture, services slow",
+      "link": "https://www.tbsnews.net/economy/industry-growth-accelerates-q4-agriculture-services-slow-1565736",
+      "pubDate": "Wed, 07 Oct 2026 20:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/03/05/bangladesh_jute_mills_1.jpg",
+      "snippet": "The services sector, too, posted stronger growth in the fourth quarter, rising to 4.28% in FY2025–26 from 2.26% in the same quarter a year earlier."
+    },
+    {
+      "title": "Fine Foods recommends 40.5% cash dividend for general shareholders",
+      "link": "https://www.tbsnews.net/economy/stocks/fine-foods-recommends-405-cash-dividend-general-shareholders-1565726",
+      "pubDate": "Wed, 07 Oct 2026 20:40:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/07/fine-foods.jpg",
+      "snippet": "Fine Foods’ share price fell 0.44% to Tk471.40 on the Dhaka Stock Exchange (DSE) today (7 October)."
+    },
+    {
+      "title": "3 arrested in UK over alleged fake gay asylum claims involving Bangladeshi men",
+      "link": "https://www.tbsnews.net/bangladesh/3-arrested-uk-over-alleged-fake-gay-asylum-claims-involving-bangladeshi-men-1565711",
+      "pubDate": "Wed, 07 Oct 2026 20:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/07/04/arrest-1579498383.jpg",
+      "snippet": "Home Office alleges migrants were sold fabricated evidence."
+    },
+    {
+      "title": "Cox's Bazar to host three-month tourism carnival from 1 November",
+      "link": "https://www.tbsnews.net/bangladesh/coxs-bazar-host-three-month-tourism-carnival-1-november-1565701",
+      "pubDate": "Wed, 07 Oct 2026 20:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/07/image-432236-1791370777.jpg",
+      "snippet": "Shamimuzzaman said the three-month event would allow tourists to enjoy the sea while taking part in sports and entertainment programmes during both day and night."
+    },
+    {
+      "title": "Bangladesh needs better climate projects to unlock global finance: Environment minister",
+      "link": "https://www.tbsnews.net/bangladesh/environment/bangladesh-needs-better-climate-projects-unlock-global-finance-environment",
       "pubDate": "Wed, 07 Oct 2026 19:50:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/06/29/abdul_awal_mintoo.png",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/07/environment_forest_and_climate_change_minister_abdul_awal_mintoo_addressed_the_opening_of_the_bangladesh_climate_development_partnership_bcdp_knowledge_conference_2026_in_dhaka_on_7_october_2026.jpeg",
       "snippet": "The National Adaptation Plan 2023–2050, Bangladesh Delta Plan and NDC 3.0 now need to be translated into implementable programmes and projects, he says."
     },
     {
-      "title": "'Classroom to Newsroom' MoJo training held at Rajshahi University",
-      "link": "https://www.tbsnews.net/bangladesh/education/classroom-newsroom-mojo-training-held-rajshahi-university-1565636",
-      "pubDate": "Wed, 07 Oct 2026 19:35:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/07/mojo_programme.jpg",
-      "snippet": "MoU signed between RU Journalism Department and The Business Standard to connect students with professional newsroom."
-    },
-    {
-      "title": "Prove Boga was in my car, I’ll quit politics: Ctg Mayor Shahadat",
+      "title": "Prove Boga was in my car, I'll quit politics: Ctg Mayor Shahadat",
       "link": "https://www.tbsnews.net/bangladesh/prove-boga-was-my-car-ill-quit-politics-ctg-mayor-shahadat-1565626",
       "pubDate": "Wed, 07 Oct 2026 19:30:00 +0600",
       "category": "Bangladesh",
@@ -34,7 +276,7 @@
       "snippet": "Mayor denies sheltering wanted criminal at city corporation."
     },
     {
-      "title": "Bangladesh's GDP growth rises to 4.60% in FY26 Q4",
+      "title": "Industry powers Bangladesh’s GDP growth to 4.60% in FY26 Q4",
       "link": "https://www.tbsnews.net/economy/bangladeshs-gdp-growth-rises-460-q4-205-1565621",
       "pubDate": "Wed, 07 Oct 2026 19:25:00 +0600",
       "category": "Bangladesh",
@@ -42,7 +284,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/11/gdp.jpg",
-      "snippet": "At current prices, the country’s GDP stood at Tk16,11,674 crore in the fourth quarter of FY2025-26, up from Tk14,38,527 crore in the corresponding quarter of FY2024-25."
+      "snippet": "At current prices, the size of the country’s GDP stood at Tk16,117 billion in the fourth quarter, compared with Tk14,385 billion in the same quarter of FY25."
     },
     {
       "title": "1,471 recommended for primary school jobs fail to join",
@@ -67,103 +309,15 @@
       "snippet": "The total procurement cost has been estimated at around Tk 427.81 crore for the 40,000 tonnes."
     },
     {
-      "title": "Bangladesh outperforms rivals as US apparel imports fall, but scope for gains remains",
+      "title": "Bangladesh weathers US apparel import downturn better than peers",
       "link": "https://www.tbsnews.net/economy/bangladesh-outperforms-rivals-us-apparel-imports-fall-scope-gains-remains-1565601",
       "pubDate": "Wed, 07 Oct 2026 18:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/16/fea-final.png",
       "snippet": "Tariff advantage cushions exports amid weaker US demand."
-    },
-    {
-      "title": "Charge-framing hearing against Hasina, 40 others over Shapla Chattar killings on 1 Nov",
-      "link": "https://www.tbsnews.net/bangladesh/court/charge-framing-hearing-against-hasina-40-others-over-shapla-chattar-killings-1-nov",
-      "pubDate": "Wed, 07 Oct 2026 18:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/08/22/sheikh_hasina_caricature_1.jpg",
-      "snippet": ""
-    },
-    {
-      "title": "Cabinet body recommends G2G fuel imports, shorter bidding period for 2027",
-      "link": "https://www.tbsnews.net/economy/energy/cabinet-body-recommends-g2g-fuel-imports-shorter-bidding-period-2027-1565586",
-      "pubDate": "Wed, 07 Oct 2026 18:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/07/cabinet_committee_meeting.jpg",
-      "snippet": "Crude oil will be imported through the direct procurement method under the G2G process for processing at Eastern Refinery PLC (ERPLC) during the 2027 calendar year."
-    },
-    {
-      "title": "Ex-UP chair Salim Khan, son Shanto's bodies exhumed for autopsy",
-      "link": "https://www.tbsnews.net/bangladesh/ex-chair-salim-khan-son-shantos-bodies-exhumed-autopsy-1565596",
-      "pubDate": "Wed, 07 Oct 2026 18:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/07/salim_khan_shanto_khan.jpg",
-      "snippet": "Court order prompts exhumation nearly two years after deaths."
-    },
-    {
-      "title": "Bangladesh to present homegrown reform agenda at WB-IMF annual meeting: Titumir",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-present-homegrown-reform-agenda-wb-imf-annual-meeting-titumir-1565546",
-      "pubDate": "Wed, 07 Oct 2026 18:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/08/titumir.jpg",
-      "snippet": "Rashed Al Mahmud Titumir says Dhaka will showcase reforms driven by domestic priorities, alongside measures to stabilise the banking sector, raise revenue and revive private investment."
-    },
-    {
-      "title": "President identifies drug abuse as major obstacle for nation's progress",
-      "link": "https://www.tbsnews.net/bangladesh/president-identifies-drug-abuse-major-obstacle-nations-progress-1565536",
-      "pubDate": "Wed, 07 Oct 2026 18:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/07/efa04291-7c63-4b98-bff4-0fc1cb6609e6.jpg",
-      "snippet": "The President said a stronger social campaign was needed to prevent the phenomenon and sought effective engagement of country’s social and voluntary organizations against drug abuse."
-    },
-    {
-      "title": "Govt plans 10-year urban development strategy for cities, upazilas: Minister",
-      "link": "https://www.tbsnews.net/bangladesh/urbanisation/govt-plans-10-year-urban-development-strategy-cities-upazilas-minister",
-      "pubDate": "Wed, 07 Oct 2026 18:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/07/urban-development_0.jpg",
-      "snippet": "Zakaria Taher says master plans will initially target metropolitan cities before expanding to large cities and upazilas."
-    },
-    {
-      "title": "Gazette issued declaring 3-day holiday for Durga Puja",
-      "link": "https://www.tbsnews.net/bangladesh/gazette-issued-declaring-3-day-holiday-durga-puja-1565486",
-      "pubDate": "Wed, 07 Oct 2026 18:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/05/durga_puja.jpg",
-      "snippet": "As 23 and 24 October are Friday and Saturday, the weekly holidays, people will be able to enjoy five consecutive days off from 20 to 24 October."
-    },
-    {
-      "title": "Jet fuel prices rise for second straight month",
-      "link": "https://www.tbsnews.net/economy/energy/jet-fuel-prices-rise-second-straight-month-1565506",
-      "pubDate": "Wed, 07 Oct 2026 18:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/24/jet_fuel.png",
-      "snippet": "Domestic jet fuel price rises 10.3% to Tk182.71 per litre, while international rate reaches $1.1882."
     },
     {
       "title": "BB governor, Singapore envoy discuss trade expansion, economic cooperation",
@@ -177,17 +331,6 @@
       "snippet": "Bangladesh Bank and Singaporean authorities also agree to form a working committee to advance foreign trade digitalisation through TradeTrust."
     },
     {
-      "title": "Parliamentary committee suggests measures to keep youth away from drugs",
-      "link": "https://www.tbsnews.net/bangladesh/parliamentary-committee-suggests-measures-keep-youth-away-drugs-1565466",
-      "pubDate": "Wed, 07 Oct 2026 17:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/07/parliamentary_committee_ministry_of_youth_and_sports_.jpg",
-      "snippet": "It was also informed about various activities undertaken by the ministry under the government’s 180-day programme."
-    },
-    {
       "title": "Dengue claims 8 more lives, 1,860 hospitalised in 24 hrs",
       "link": "https://www.tbsnews.net/bangladesh/health/dengue-claims-8-more-lives-1860-hospitalised-24-hrs-1565461",
       "pubDate": "Wed, 07 Oct 2026 17:50:00 +0600",
@@ -199,29 +342,7 @@
       "snippet": "With the latest fatalities, the dengue death toll has risen to 289 in the country this year."
     },
     {
-      "title": "Multiple members of same family cannot get fertiliser dealerships: Apex court",
-      "link": "https://www.tbsnews.net/bangladesh/court/multiple-members-same-family-cannot-get-fertiliser-dealerships-chamber-court",
-      "pubDate": "Wed, 07 Oct 2026 17:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/fertiliser_1.jpg",
-      "snippet": "The provision was revised to prevent family monopolies in fertiliser dealerships and ensure transparency, accountability and proper distribution to farmers."
-    },
-    {
-      "title": "DCCI, ERF sign MoU to deepen economic research cooperation",
-      "link": "https://www.tbsnews.net/bangladesh/dcci-erf-sign-mou-deepen-economic-research-cooperation-1565451",
-      "pubDate": "Wed, 07 Oct 2026 17:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/07/20261007162623.jpg",
-      "snippet": "Agreement will expand joint research and professional development."
-    },
-    {
-      "title": "Fair Electronics resumes Samsung refrigerator production after two-year hiatus",
+      "title": "Fair Electronics restarts Samsung refrigerator manufacturing in Narsingdi after two years ",
       "link": "https://www.tbsnews.net/tech/fair-electronics-resumes-samsung-refrigerator-production-after-two-year-hiatus-1565441",
       "pubDate": "Wed, 07 Oct 2026 17:40:00 +0600",
       "category": "Economy",
@@ -235,10 +356,10 @@
       "title": "Govt to buy 17 radiotherapy machines for hospitals across Bangladesh",
       "link": "https://www.tbsnews.net/bangladesh/health/govt-buy-17-radiotherapy-machines-hospitals-across-bangladesh-1565436",
       "pubDate": "Wed, 07 Oct 2026 17:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/11/shakhawat_husain.jpeg",
       "snippet": "The government is also planning to procure five robotic surgery machines for major hospitals to strengthen the country's capacity to perform complex surgeries, says health minister."
     },
@@ -246,15 +367,15 @@
       "title": "Ecnec approves 13 projects involving Tk16,207.55cr",
       "link": "https://www.tbsnews.net/bangladesh/ecnec-approves-13-projects-involving-tk-1620755cr-1565431",
       "pubDate": "Wed, 07 Oct 2026 17:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/07/736033eb-38a2-4e93-a0da-fde206ae42a5.jpg",
       "snippet": "The Power Sector Development Fund loan would carry a 2% interest rate, with a one-year grace period and a 16-year repayment period."
     },
     {
-      "title": "Bangladesh Bank allows foreign currency accounts to retain approved external loan proceeds",
+      "title": "Cenbank allows foreign currency accounts to retain external loan proceeds",
       "link": "https://www.tbsnews.net/economy/banking/bangladesh-bank-allows-foreign-currency-accounts-retain-approved-external-loan",
       "pubDate": "Wed, 07 Oct 2026 17:25:00 +0600",
       "category": "Banking",
@@ -262,7 +383,7 @@
       "bg": "#e0f2f1",
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/28/bangladesh_bank.jpg",
-      "snippet": "The FC accounts can be used to retain proceeds from approved foreign loans in the respective foreign currency."
+      "snippet": "Under the new arrangement, private-sector industrial enterprises may obtain medium- and long-term external financing with approval from the competent authorities."
     },
     {
       "title": "Chinese doctors shrink unborn baby's lung tumour without surgery",
@@ -274,28 +395,6 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/07/a-medical-team-from-shenzhen-and-hong-kong-recently-completed-the-challenging-precise-removal-of-the-foetal-chest-tumour.jpg",
       "snippet": "Minimally invasive treatment offers hope for severe CPAM cases."
-    },
-    {
-      "title": "Year-long family planning campaign to begin 1 December",
-      "link": "https://www.tbsnews.net/bangladesh/year-long-family-planning-campaign-begin-1-december-1565391",
-      "pubDate": "Wed, 07 Oct 2026 17:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/07/841574464_1749573829648033_819149080481804625_n.jpg",
-      "snippet": "Govt to combine awareness with doorstep services."
-    },
-    {
-      "title": "CUJ calls Ctg Port media restrictions unprecedented, unlawful",
-      "link": "https://www.tbsnews.net/bangladesh/cuj-calls-ctg-port-media-restrictions-unprecedented-unlawful-1565376",
-      "pubDate": "Wed, 07 Oct 2026 16:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/05/25/ctg_port_container_congestion.jpg",
-      "snippet": "Demands immediate withdrawal."
     },
     {
       "title": "Partial production resumes at nine closed state-run jute mills ",
@@ -331,7 +430,7 @@
       "snippet": "A total of 1,280 new suspected measles cases were reported in the 24-hour period, bringing the cumulative nationwide total to 2,00,293."
     },
     {
-      "title": "September inflation rises slightly to 8.34% ",
+      "title": "September inflation edges up to 8.34% as wage growth slows further",
       "link": "https://www.tbsnews.net/economy/september-inflation-rises-slightly-834-1565311",
       "pubDate": "Wed, 07 Oct 2026 16:25:00 +0600",
       "category": "Economy",
@@ -339,7 +438,18 @@
       "bg": "#e8f5e9",
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/27/inflation.png",
-      "snippet": "Food inflation increased by 0.20 percentage points month-on-month, while non-food inflation edged down slightly."
+      "snippet": "Food inflation also rose in September to 7.22%, up from 7.02% in August, a rise of 0.20 percentage points."
+    },
+    {
+      "title": "$3.3b hard loans approved for fuel imports, power network upgrades",
+      "link": "https://www.tbsnews.net/economy/govt-approves-33b-hard-term-foreign-loans-power-fuel-imports-1565246",
+      "pubDate": "Wed, 07 Oct 2026 15:35:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/07/fuel.jpg",
+      "snippet": "Of the total, $200 million is for a new power distribution project, while $3.1 billion has been retrospectively approved for emergency fuel imports."
     },
     {
       "title": "Holding the line: Monetary policy under asymmetric uncertainty",
@@ -474,17 +584,6 @@
       "snippet": "T-bonds are generally used for longer-term government borrowing, while Treasury bills are normally used for shorter periods."
     },
     {
-      "title": "'Wait and see,' says FinMin on WB's 3.4% growth forecast for FY27",
-      "link": "https://www.tbsnews.net/economy/wait-and-see-says-finmin-wbs-34-growth-forecast-fy27-1564491",
-      "pubDate": "Tue, 06 Oct 2026 18:40:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/02/01/1535454973_886486.jpg",
-      "snippet": "Amir Khosru Mahmud Chowdhury gives a brief response as the World Bank cuts its Bangladesh growth projection by 1.2 percentage points."
-    },
-    {
       "title": "Govt prioritising sports alongside education: Mahdi Amin",
       "link": "https://www.tbsnews.net/bangladesh/education/govt-prioritising-sports-alongside-education-mahdi-amin-1564431",
       "pubDate": "Tue, 06 Oct 2026 18:15:00 +0600",
@@ -494,17 +593,6 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/27/image-428792-1790497228.jpg",
       "snippet": "Nearly 30,000 schools, madrasas and technical education institutions across the country are taking part, with students from Classes VI to X participating in four events at the preliminary stage."
-    },
-    {
-      "title": "Bangladesh GDP projected to grow at 3.4%, second lowest in South Asia",
-      "link": "https://www.tbsnews.net/economy/bangladesh-see-lowest-gdp-growth-south-asia-after-afghanistan-wb-1564406",
-      "pubDate": "Tue, 06 Oct 2026 17:55:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/07/gdp-race.png",
-      "snippet": "The update shows Bangladesh’s projected growth is the lowest in South Asia after Afghanistan."
     },
     {
       "title": "Dengue claims 10 more lives in 24hrs, toll hits 281",
@@ -573,17 +661,6 @@
       "snippet": "Despite years of anti-corruption drives and institutional reforms, bribery remains deeply embedded in Bangladesh’s public services, imposing a heavy burden on citizens and the economy"
     },
     {
-      "title": "Adani Power, Bhutan utility sign pact for 770MW hydropower project",
-      "link": "https://www.tbsnews.net/world/south-asia/adani-power-bhutan-utility-sign-pact-770mw-hydropower-project-1564231",
-      "pubDate": "Tue, 06 Oct 2026 15:25:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/12/02/adani_power.jpg",
-      "snippet": "The project will supply power to Bhutan during winter and allow surplus to be exported to India in summer."
-    },
-    {
       "title": "180 Directorate of Primary Education officials asked to inspect schools",
       "link": "https://www.tbsnews.net/bangladesh/180-directorate-primary-education-officials-asked-inspect-schools-1564191",
       "pubDate": "Tue, 06 Oct 2026 15:00:00 +0600",
@@ -606,17 +683,6 @@
       "snippet": "Prime Bank’s support helped sustain free TB services at an icddr,b-run centre in Sylhet, where 1,843 people were diagnosed over a year"
     },
     {
-      "title": "Banking woes, energy shortages, low revenue threaten Bangladesh's growth: World Bank",
-      "link": "https://www.tbsnews.net/economy/banking-woes-energy-shortages-low-revenue-threaten-bangladeshs-growth-world-bank-1564136",
-      "pubDate": "Tue, 06 Oct 2026 13:20:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/09/26/world_bank.jpg",
-      "snippet": "The World Bank projects GDP growth at 3.4% in FY27, unchanged from FY26 and significantly below the 5.6% average recorded over the past decade."
-    },
-    {
       "title": "Loans stall, prices rise: Where are interest rates headed?",
       "link": "https://www.tbsnews.net/thoughts/loans-stall-prices-rise-where-are-interest-rates-headed-1564066",
       "pubDate": "Tue, 06 Oct 2026 12:30:00 +0600",
@@ -637,17 +703,6 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/06/eib-labour-market.png",
       "snippet": "Bangladesh’s model employment code offers workplace protections but leaves major gaps. It should become a binding, enforceable minimum standard that protects all employees while balancing employers’ legitimate interests"
-    },
-    {
-      "title": "World Bank says Bangladesh economic rebound falls short, cuts growth outlook",
-      "link": "https://www.tbsnews.net/economy/bangladesh-gdp-growth-rise-39-fy28-world-bank-1564016",
-      "pubDate": "Tue, 06 Oct 2026 12:00:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/07/07/gdp.jpg",
-      "snippet": "The World Bank slashed its FY27 GDP growth forecast for Bangladesh by 1.2 percentage points to 3.4%, from 4.6% projected in April, the second-steepest downgrade among South Asian economies."
     },
     {
       "title": "Islamic banks' CSR spending halves to Tk18.36cr; only Tk5 lakh from profit",
@@ -694,17 +749,6 @@
       "snippet": "The administration says those found responsible will face preliminary suspension and be named in the charge sheet of a case it filed over the attack."
     },
     {
-      "title": "Govt plans to cut business-startup process to 14 days with a single ID",
-      "link": "https://www.tbsnews.net/economy/govt-plans-cut-business-startup-process-14-days-single-id-1563856",
-      "pubDate": "Tue, 06 Oct 2026 07:20:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/06/business-id.png",
-      "snippet": "The commerce ministry and Invest Bangladesh are jointly working on the reform. Currently, it takes an average of 355 days for a company to obtain the licences, clearances and approvals needed to start operations after registration"
-    },
-    {
       "title": "Tannery waste could unlock $100m import substitution opportunity: BUILD",
       "link": "https://www.tbsnews.net/economy/industry/tannery-waste-could-unlock-100m-import-substitution-opportunity-build-1563831",
       "pubDate": "Mon, 05 Oct 2026 23:50:00 +0600",
@@ -725,17 +769,6 @@
       "icon": "📊",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/03/20/shopping_mall.jpg",
       "snippet": "The revised schedule will remain in effect until 22 October, after which shops and markets will return to the regular 8pm closing time."
-    },
-    {
-      "title": "Exporters seek clarity as supply-chain traceability guidelines remain pending",
-      "link": "https://www.tbsnews.net/economy/exporters-seek-clarity-supply-chain-traceability-guidelines-remain-pending-1563796",
-      "pubDate": "Mon, 05 Oct 2026 22:05:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/05/export.png",
-      "snippet": "They called for shared responsibility among stakeholders to ensure a smooth and sustainable transition."
     },
     {
       "title": "Birth, death registrations stall below 50% in Bangladesh: Experts",
@@ -901,18 +934,7 @@
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/05/img_6707.png",
       "snippet": "No overall shortage of liquidity in banking sector, says BB"
-    },
-    {
-      "title": "Cuet paralysed for 13 days as new VC runs office from Circuit House",
-      "link": "https://www.tbsnews.net/bangladesh/education/cuet-paralysed-13-days-new-vc-runs-office-circuit-house-1562766",
-      "pubDate": "Mon, 05 Oct 2026 00:15:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/day_at_cuet_111.jpg",
-      "snippet": "Teachers, officers and employees have also joined the movement through work stoppages and sit-ins."
     }
   ],
-  "updatedAt": "2026-10-07T14:14:19.008Z"
+  "updatedAt": "2026-10-07T20:03:55.502Z"
 }
