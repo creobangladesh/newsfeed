@@ -1,6 +1,83 @@
 {
   "news": [
     {
+      "title": "Sincerity from both sides needed to resolve water-sharing issues with India: Kobir",
+      "link": "https://www.tbsnews.net/bangladesh/sincerity-both-sides-needed-resolve-water-sharing-issues-india-kobir-1566046",
+      "pubDate": "Thu, 08 Oct 2026 12:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/09/humayun_kabir.jpg",
+      "snippet": "The state minister said meaningful progress would be possible if there is sincerity between the two countries at all relevant levels, including senior officials, political leadership and water negotiators."
+    },
+    {
+      "title": "Govt warns of legal action over Ctg Port disruption as DP World NCT deal looms",
+      "link": "https://www.tbsnews.net/bangladesh/govt-warns-legal-action-over-ctg-port-disruption-dp-world-nct-deal-looms-1566036",
+      "pubDate": "Thu, 08 Oct 2026 12:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/01/09/ctg_port.jpg",
+      "snippet": "Shipping Ministry asks Chattogram Port officials to ensure uninterrupted operations ahead of today’s agreement signing"
+    },
+    {
+      "title": "Two more arrested over forcing Rajshahi Medical University VC to resign",
+      "link": "https://www.tbsnews.net/bangladesh/two-more-arrested-over-forcing-rajshahi-medical-university-vc-resign-1566001",
+      "pubDate": "Thu, 08 Oct 2026 11:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/07/rajshahi_medical_university.jpg",
+      "snippet": "With the latest arrests, three people have been arrested in connection with the incident."
+    },
+    {
+      "title": "Arrest warrants issued for doctor, 5 others over patient's death in Naogaon",
+      "link": "https://www.tbsnews.net/bangladesh/arrest-warrants-issued-doctor-5-others-over-patients-death-naogaon-1565996",
+      "pubDate": "Thu, 08 Oct 2026 10:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/08/1549083.jpg",
+      "snippet": "According to the case details, Rahee Muni, a resident of the South Sultanpur area in Naogaon town, went to Naogaon 250-bed General Hospital on 6 April for childbirth."
+    },
+    {
+      "title": "Bangladesh, DP World to sign 15-year New Mooring terminal deal today",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-dp-world-sign-15-year-new-mooring-terminal-deal-today-1565976",
+      "pubDate": "Thu, 08 Oct 2026 10:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/08/21/ctg_port1.jpg",
+      "snippet": "The signing ceremony is scheduled for 3pm today at the Invest Bangladesh Auditorium in Dhaka, according to an invitation issued by the governments of Bangladesh and the UAE."
+    },
+    {
+      "title": "Tk36 tax on Tk135 diesel: How govt's revenue drive fuels inflationary fire",
+      "link": "https://www.tbsnews.net/economy/energy/tk36-tax-tk135-diesel-how-govts-revenue-drive-fuels-inflationary-fire-1565966",
+      "pubDate": "Thu, 08 Oct 2026 09:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/08/fuel.png",
+      "snippet": "The tax load on fuel has escalated significantly since June 2025, when the interim government replaced the fixed “Tariff Value” tax regime with a variable “Invoice Value” system."
+    },
+    {
+      "title": "Not to please its friends, Bangladesh makes deals based on country's needs, interests: Kobir",
+      "link": "https://www.tbsnews.net/bangladesh/not-please-its-friends-bangladesh-makes-deals-based-countrys-needs-interests-kobir",
+      "pubDate": "Thu, 08 Oct 2026 08:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/08/att.wsaer-fwt9kqmgqkxs7xpoheyyqp714sxczoa4rj8b4.jpeg",
+      "snippet": "Kobir said the government, led by Prime Minister Tarique Rahman, did not sign the Airbus deal to make ambassadors or friends happy, but because it meets Bangladesh's aviation needs."
+    },
+    {
       "title": "Corporate rush is outrunning AI readiness",
       "link": "https://www.tbsnews.net/thoughts/corporate-rush-outrunning-ai-readiness-1565906",
       "pubDate": "Thu, 08 Oct 2026 04:30:00 +0600",
@@ -232,17 +309,6 @@
       "snippet": "The prime minister also handed over Tk5 crore to the Hindu Religious Welfare Trust for Durga Puja and Tk3 crore to the Buddhist Religious Welfare Trust for a Buddhist festival."
     },
     {
-      "title": "Industry growth accelerates in Q4, agriculture, services slow",
-      "link": "https://www.tbsnews.net/economy/industry-growth-accelerates-q4-agriculture-services-slow-1565736",
-      "pubDate": "Wed, 07 Oct 2026 20:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/03/05/bangladesh_jute_mills_1.jpg",
-      "snippet": "The services sector, too, posted stronger growth in the fourth quarter, rising to 4.28% in FY2025–26 from 2.26% in the same quarter a year earlier."
-    },
-    {
       "title": "Fine Foods recommends 40.5% cash dividend for general shareholders",
       "link": "https://www.tbsnews.net/economy/stocks/fine-foods-recommends-405-cash-dividend-general-shareholders-1565726",
       "pubDate": "Wed, 07 Oct 2026 20:40:00 +0600",
@@ -254,57 +320,24 @@
       "snippet": "Fine Foods’ share price fell 0.44% to Tk471.40 on the Dhaka Stock Exchange (DSE) today (7 October)."
     },
     {
-      "title": "3 arrested in UK over alleged fake gay asylum claims involving Bangladeshi men",
-      "link": "https://www.tbsnews.net/bangladesh/3-arrested-uk-over-alleged-fake-gay-asylum-claims-involving-bangladeshi-men-1565711",
-      "pubDate": "Wed, 07 Oct 2026 20:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/07/04/arrest-1579498383.jpg",
-      "snippet": "Home Office alleges migrants were sold fabricated evidence."
-    },
-    {
-      "title": "Cox's Bazar to host three-month tourism carnival from 1 November",
-      "link": "https://www.tbsnews.net/bangladesh/coxs-bazar-host-three-month-tourism-carnival-1-november-1565701",
-      "pubDate": "Wed, 07 Oct 2026 20:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/07/image-432236-1791370777.jpg",
-      "snippet": "Shamimuzzaman said the three-month event would allow tourists to enjoy the sea while taking part in sports and entertainment programmes during both day and night."
-    },
-    {
-      "title": "Bangladesh needs better climate projects to unlock global finance: Environment minister",
-      "link": "https://www.tbsnews.net/bangladesh/environment/bangladesh-needs-better-climate-projects-unlock-global-finance-environment",
-      "pubDate": "Wed, 07 Oct 2026 19:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/07/environment_forest_and_climate_change_minister_abdul_awal_mintoo_addressed_the_opening_of_the_bangladesh_climate_development_partnership_bcdp_knowledge_conference_2026_in_dhaka_on_7_october_2026.jpeg",
-      "snippet": "The National Adaptation Plan 2023–2050, Bangladesh Delta Plan and NDC 3.0 now need to be translated into implementable programmes and projects, he says."
-    },
-    {
-      "title": "Prove Boga was in my car, I'll quit politics: Ctg Mayor Shahadat",
-      "link": "https://www.tbsnews.net/bangladesh/prove-boga-was-my-car-ill-quit-politics-ctg-mayor-shahadat-1565626",
-      "pubDate": "Wed, 07 Oct 2026 19:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/07/ctg_mayor.jpg",
-      "snippet": "Mayor denies sheltering wanted criminal at city corporation."
+      "title": "Industry growth accelerates in Q4, agriculture, services slow",
+      "link": "https://www.tbsnews.net/economy/industry-growth-accelerates-q4-agriculture-services-slow-1565736",
+      "pubDate": "Wed, 07 Oct 2026 20:40:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/03/05/bangladesh_jute_mills_1.jpg",
+      "snippet": "The services sector, too, posted stronger growth in the fourth quarter, rising to 4.28% in FY2025–26 from 2.26% in the same quarter a year earlier."
     },
     {
       "title": "Industry powers Bangladesh’s GDP growth to 4.60% in FY26 Q4",
       "link": "https://www.tbsnews.net/economy/bangladeshs-gdp-growth-rises-460-q4-205-1565621",
       "pubDate": "Wed, 07 Oct 2026 19:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/11/gdp.jpg",
       "snippet": "At current prices, the size of the country’s GDP stood at Tk16,117 billion in the fourth quarter, compared with Tk14,385 billion in the same quarter of FY25."
     },
@@ -318,17 +351,6 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/07/primary_school_teacher.jpg",
       "snippet": "According to DPE sources, the large number of candidates failing to join has created a need for fresh recruitment of primary school teachers."
-    },
-    {
-      "title": "Govt approves import of 40,000 tonnes of DAP fertiliser from Morocco",
-      "link": "https://www.tbsnews.net/bangladesh/govt-approves-import-40000-tonnes-dap-fertiliser-morocco-1565606",
-      "pubDate": "Wed, 07 Oct 2026 19:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/07/image-432296-1791375925.jpg",
-      "snippet": "The total procurement cost has been estimated at around Tk 427.81 crore for the 40,000 tonnes."
     },
     {
       "title": "Bangladesh weathers US apparel import downturn better than peers",
@@ -582,17 +604,6 @@
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/28/bangladesh_bank.jpg",
       "snippet": "However, Q-Cash network services resumed at 10pm today."
-    },
-    {
-      "title": "Foreign aid cuts put funding at risk for 2,200 NGOs: BIDS",
-      "link": "https://www.tbsnews.net/economy/foreign-aid-cuts-put-funding-risk-2200-ngos-bids-1564591",
-      "pubDate": "Tue, 06 Oct 2026 19:50:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/06/gemini_generated_image_3bds6i3bds6i3bds.jpg",
-      "snippet": "Two-thirds of NGOs relying solely on foreign grants reported major financial losses, with their budgets falling by an average of 40%, a BIDS study finds."
     },
     {
       "title": "T-bonds: Why is govt buying back costly debt before maturity?",
@@ -934,29 +945,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/05/s2pir7wjmjp63pltfwh732nvju.jpg",
       "snippet": "The goal should not simply be to send more workers abroad or receive more remittances, but to raise the productivity and lifetime earnings of Bangladeshi workers, wherever they work"
-    },
-    {
-      "title": "What steps has cenbank taken to tackle banking sector crisis?",
-      "link": "https://www.tbsnews.net/economy/banking/bb-steps-supervision-legal-reforms-tackle-banking-sector-crisis-1562956",
-      "pubDate": "Mon, 05 Oct 2026 11:30:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/28/bangladesh_bank.jpg",
-      "snippet": "The central bank is also working on the Distressed Asset Management Act 2026, which is aimed at addressing distressed assets in the banking sector."
-    },
-    {
-      "title": "BB to limit borrower's sector-wide exposure, target each bank's top defaulters to tame bad loans",
-      "link": "https://www.tbsnews.net/economy/banking/bb-limit-borrowers-sector-wide-exposure-target-each-banks-top-defaulters-tame-bad",
-      "pubDate": "Mon, 05 Oct 2026 10:10:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/05/img_6707.png",
-      "snippet": "No overall shortage of liquidity in banking sector, says BB"
     }
   ],
-  "updatedAt": "2026-10-08T00:18:59.520Z"
+  "updatedAt": "2026-10-08T06:28:24.110Z"
 }
