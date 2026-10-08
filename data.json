@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Corporate rush is outrunning AI readiness",
+      "link": "https://www.tbsnews.net/thoughts/corporate-rush-outrunning-ai-readiness-1565906",
+      "pubDate": "Thu, 08 Oct 2026 04:30:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/08/photo_collected.png",
+      "snippet": "As businesses rush to adopt artificial intelligence, deploying AI without proper oversight, clean data and human governance can create serious operational, financial and reputational risks"
+    },
+    {
+      "title": "The Q-Cash crisis: Why banking resilience cannot be outsourced",
+      "link": "https://www.tbsnews.net/thoughts/q-cash-crisis-why-banking-resilience-cannot-be-outsourced-1565901",
+      "pubDate": "Thu, 08 Oct 2026 04:15:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/08/15_thoughts_atm_error_copy.png",
+      "snippet": "The Q-Cash outage has exposed the vulnerabilities created by heavy reliance on third-party infrastructure. For Bangladesh’s banking sector, it is a reminder that resilient technology is not simply an operating cost but a strategic investment"
+    },
+    {
       "title": "UCB attaches Nassa-owned land housing City Bank HQ over Tk150cr loan default",
       "link": "https://www.tbsnews.net/economy/banking/ucb-attaches-nassa-owned-land-housing-city-bank-hq-over-tk150cr-loan-default-1565896",
       "pubDate": "Thu, 08 Oct 2026 01:15:00 +0600",
@@ -936,5 +958,5 @@
       "snippet": "No overall shortage of liquidity in banking sector, says BB"
     }
   ],
-  "updatedAt": "2026-10-07T20:03:55.502Z"
+  "updatedAt": "2026-10-08T00:18:59.520Z"
 }
