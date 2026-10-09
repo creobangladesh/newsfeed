@@ -1,6 +1,94 @@
 {
   "news": [
     {
+      "title": "BNP to pick local govt election candidates on four criteria",
+      "link": "https://www.tbsnews.net/bangladesh/politics/bnp-pick-local-govt-election-candidates-four-criteria-1567101",
+      "pubDate": "Fri, 09 Oct 2026 12:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/05/bnp_leaders_in_panic.png",
+      "snippet": "In September, the committee met leaders from the Chattogram, Barishal, Khulna, Rangpur, and Mymensingh divisions and sought opinions from grassroots leaders. Similar meetings with leaders from other divisions are expected soon."
+    },
+    {
+      "title": "DIU student dies after falling from second floor in Vatara",
+      "link": "https://www.tbsnews.net/bangladesh/diu-student-dies-after-falling-second-floor-vatara-1567161",
+      "pubDate": "Fri, 09 Oct 2026 11:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/05/05/death.jpg",
+      "snippet": "His roommates and classmates took him to Dhaka Medical College Hospital, where doctors declared him dead around 8:15am."
+    },
+    {
+      "title": "With dengue surging, experts push for QDENGA vaccine access, private imports",
+      "link": "https://www.tbsnews.net/bangladesh/health/dengue-surging-experts-push-qdenga-vaccine-access-private-imports-1567096",
+      "pubDate": "Fri, 09 Oct 2026 11:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/13/dengue.jpg",
+      "snippet": "Dengue claims 5 more lives; 1,935 are hospitalised in 24 hours."
+    },
+    {
+      "title": "Habiganj student leader Mahdi stopped at Dhaka airport over travel ban",
+      "link": "https://www.tbsnews.net/bangladesh/habiganj-student-leader-mahdi-stopped-dhaka-airport-over-travel-ban-1567141",
+      "pubDate": "Fri, 09 Oct 2026 11:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/09/837918471_1640146671000971_5451499464505444052_n.jpg",
+      "snippet": "Mahdi and several other activists of the Students Against Discrimination movement had gone to Shayestaganj Police Station to secure the release of a former Chhatra League leader who had been detained."
+    },
+    {
+      "title": "Police inspector hacked by 'muggers' in Khulna",
+      "link": "https://www.tbsnews.net/bangladesh/police-inspector-hacked-muggers-khulna-1567131",
+      "pubDate": "Fri, 09 Oct 2026 10:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/09/9983087.jpg",
+      "snippet": "The attackers took away his mobile phone and money before hacking him above both wrists with machetes, leaving him seriously injured."
+    },
+    {
+      "title": "ASI detained at 'drug den' escapes from Barishal police station",
+      "link": "https://www.tbsnews.net/bangladesh/asi-detained-drug-den-escapes-barishal-police-station-1567126",
+      "pubDate": "Fri, 09 Oct 2026 10:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/09/6061685.jpg",
+      "snippet": "Members of the Department of Narcotics Control (DNC) arrested Delwar and the three others during a raid on a house in the South Korapur area under the Airport Police Station around 6:30am yesterday."
+    },
+    {
+      "title": "Tax filings jump 77% as early rebate drives returns",
+      "link": "https://www.tbsnews.net/nbr/tax-filings-jump-77-early-rebate-drives-returns-1567086",
+      "pubDate": "Fri, 09 Oct 2026 10:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/12/20/tax_payment_tbs.png",
+      "snippet": "Around 3 lakh taxpayers availed incentive."
+    },
+    {
+      "title": "Interbank dollar transactions exceed $200m, highest in 5 years",
+      "link": "https://www.tbsnews.net/economy/banking/interbank-dollar-transactions-exceed-200m-highest-5-years-1567091",
+      "pubDate": "Fri, 09 Oct 2026 09:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/08/02/dollar_0.jpg",
+      "snippet": "Bangladesh Bank data show that $101 million was traded in the interbank market on the 7th of this month."
+    },
+    {
       "title": "Bangladeshi student killed in Australia road crash",
       "link": "https://www.tbsnews.net/bangladesh/bangladeshi-student-killed-australia-road-crash-1566966",
       "pubDate": "Fri, 09 Oct 2026 01:00:00 +0600",
@@ -133,17 +221,6 @@
       "snippet": "Experts call for better policy coordination, agricultural diversification and nutrition-sensitive social protection"
     },
     {
-      "title": "Bangladesh, Türkiye discuss cost-effective power solutions",
-      "link": "https://www.tbsnews.net/foreign-policy/bangladesh-turkiye-discuss-cost-effective-power-solutions-1566886",
-      "pubDate": "Thu, 08 Oct 2026 21:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/08/aminul_haque_7.png",
-      "snippet": "The meeting focused on strengthening bilateral relations, particularly cooperation in the power and energy sector, according to a press release from the ministry."
-    },
-    {
       "title": "Schoolgirl's body recovered from Cumilla crop field",
       "link": "https://www.tbsnews.net/bangladesh/crime/schoolgirls-body-recovered-cumilla-crop-field-1566881",
       "pubDate": "Thu, 08 Oct 2026 21:55:00 +0600",
@@ -153,83 +230,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/28/dead_2.png",
       "snippet": "Abandoned CNG-run auto-rickshaw found nearby"
-    },
-    {
-      "title": "PM pledges support for Abrar Fahad case, bridge in his name",
-      "link": "https://www.tbsnews.net/bangladesh/pm-pledges-support-abrar-fahad-case-bridge-his-name-1566861",
-      "pubDate": "Thu, 08 Oct 2026 21:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/09/abrar_fahad_pm.jpg",
-      "snippet": "During the meeting, father Barkat Ullah sought the prime minister’s cooperation in expediting the judicial process in the murder case and executing the verdict."
-    },
-    {
-      "title": "Shariatpur's Naria municipality faces Tk31 lakh payment irregularity allegations",
-      "link": "https://www.tbsnews.net/bangladesh/corruption/shariatpurs-naria-municipality-faces-tk31-lakh-payment-irregularity",
-      "pubDate": "Thu, 08 Oct 2026 21:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/21/races.jpg",
-      "snippet": "Four projects worth Tk21 lakh were allegedly paid for without being implemented, out of 22 projects undertaken under the revenue budget over the past two fiscal years."
-    },
-    {
-      "title": "Winning public trust biggest challenge: IGP tells new police officers",
-      "link": "https://www.tbsnews.net/bangladesh/winning-public-trust-biggest-challenge-igp-tells-new-police-officers-1566836",
-      "pubDate": "Thu, 08 Oct 2026 21:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/08/igp_ali_hossain_fakir.jpg",
-      "snippet": "He says the police force must chart a new course following the August 5 mass uprising and the resulting changes in the country's social and national circumstances."
-    },
-    {
-      "title": "Bangladesh hosts OIC workshop on heritage preservation, sustainable tourism",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-hosts-oic-workshop-heritage-preservation-sustainable-tourism-1566841",
-      "pubDate": "Thu, 08 Oct 2026 21:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/08/aminul_haque_6.png",
-      "snippet": "Experts from OIC member states discuss quality standards and sustainability indicators for heritage site management."
-    },
-    {
-      "title": "ACC approves four cases against two ex-vice-chancellors, six ex-university officials",
-      "link": "https://www.tbsnews.net/bangladesh/corruption/acc-approves-four-cases-against-two-ex-vice-chancellors-six-ex-university",
-      "pubDate": "Thu, 08 Oct 2026 21:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/08/acc_logo.jpg",
-      "snippet": "The inquiry also found allegations that important documents related to the recruitment and promotions were concealed or destroyed."
-    },
-    {
-      "title": "Cumilla doctor who told patients to 'go to journalists when labour pain starts' faces probe over newborn's death",
-      "link": "https://www.tbsnews.net/bangladesh/cumilla-doctor-who-told-patients-go-journalists-when-labour-pain-starts-faces-probe-over",
-      "pubDate": "Thu, 08 Oct 2026 21:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/08/d481a9dc-9665-4f3b-91a2-5a2ac6d23ca6.jpg",
-      "snippet": "A five-member committee was formed after a newborn died following a deep head injury during an attempted normal delivery at a Chauddagram hospital"
-    },
-    {
-      "title": "3 gold eggs worth Tk1.74cr recovered from passenger's rectum at Dhaka airport",
-      "link": "https://www.tbsnews.net/bangladesh/3-gold-eggs-worth-tk174cr-recovered-passengers-rectum-dhaka-airport-1566796",
-      "pubDate": "Thu, 08 Oct 2026 20:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/08/gold_egg.jpg",
-      "snippet": "Each of the three gold paste pieces weighed 430g and was wrapped in white tape, according to Dhaka Customs House."
     },
     {
       "title": "Give girls opportunities to compete internationally: Hajjaj",
@@ -835,62 +835,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/06/monetary_policy_1.png",
       "snippet": "Weak loan demand may push Bangladesh’s interest rates lower in the short term, but persistent inflation, government borrowing and rising import costs could drive them higher in the long run"
-    },
-    {
-      "title": "Bangladesh’s model employment code needs stronger safeguards ",
-      "link": "https://www.tbsnews.net/thoughts/bangladeshs-model-employment-code-needs-stronger-safeguards-1564051",
-      "pubDate": "Tue, 06 Oct 2026 12:20:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/06/eib-labour-market.png",
-      "snippet": "Bangladesh’s model employment code offers workplace protections but leaves major gaps. It should become a binding, enforceable minimum standard that protects all employees while balancing employers’ legitimate interests"
-    },
-    {
-      "title": "Islamic banks' CSR spending halves to Tk18.36cr; only Tk5 lakh from profit",
-      "link": "https://www.tbsnews.net/economy/banking/islamic-banks-csr-spending-halves-tk1836cr-only-tk5-lakh-profit-1563911",
-      "pubDate": "Tue, 06 Oct 2026 11:00:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/06/untitled_design.jpg",
-      "snippet": "Banking sector’s CSR spending falls Tk78cr in six months."
-    },
-    {
-      "title": "Dengue surges beyond Dhaka as hospitals struggle with rising cases",
-      "link": "https://www.tbsnews.net/bangladesh/health/dengue-surges-beyond-dhaka-hospitals-struggle-rising-cases-1563901",
-      "pubDate": "Tue, 06 Oct 2026 10:30:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/20/dengue_8.jpg",
-      "snippet": "Experts call for stronger mosquito-control measures, expanded treatment facilities outside Dhaka."
-    },
-    {
-      "title": "Exit costly T-bonds: Govt's new plan to ease interest burden",
-      "link": "https://www.tbsnews.net/economy/banking/exit-costly-t-bonds-govts-new-plan-ease-interest-burden-1563896",
-      "pubDate": "Tue, 06 Oct 2026 10:00:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/06/treasury-bonds.png",
-      "snippet": "Govt to buy back Tk6,667cr Treasury bonds before maturity."
-    },
-    {
-      "title": "RU hall provost relieved of duties over attack on journalists; probe panel given 72hrs to submit report",
-      "link": "https://www.tbsnews.net/bangladesh/education/rajshahi-university-hall-provost-relieved-duties-over-attack-journalists",
-      "pubDate": "Tue, 06 Oct 2026 09:20:00 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/04/journalists_attacked_ru_1.jpg",
-      "snippet": "The administration says those found responsible will face preliminary suspension and be named in the charge sheet of a case it filed over the attack."
     }
   ],
-  "updatedAt": "2026-10-09T00:09:25.090Z"
+  "updatedAt": "2026-10-09T06:29:40.272Z"
 }
