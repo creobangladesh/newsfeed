@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "33,000 acres of land, only 16 factories: Why Special Economic Zone fails to deliver",
+      "link": "https://www.tbsnews.net/economy/33000-acres-land-only-16-factories-why-special-economic-zone-fails-deliver-1567806",
+      "pubDate": "Sat, 10 Oct 2026 07:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/14/nsez.jpg",
+      "snippet": "NSEZ faces Infrastructure delays, utility shortages, missing support network for workers"
+    },
+    {
       "title": "Bangladesh seeks end to India's land-port export curbs",
       "link": "https://www.tbsnews.net/foreign-policy/bangladesh-seeks-end-indias-land-port-export-curbs-1567801",
       "pubDate": "Sat, 10 Oct 2026 00:30:00 +0600",
@@ -241,17 +252,6 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/15/dengue.jpg",
       "snippet": "Bangladesh’s dengue death toll has reached 295 this year, while the cumulative number of cases has risen to 95,451."
-    },
-    {
-      "title": "Bangladesh condemns Houthi attacks on Saudi Arabia",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-condemns-houthi-attacks-saudi-arabia-1567566",
-      "pubDate": "Fri, 09 Oct 2026 19:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/01/20/foreign_ministry.jpg",
-      "snippet": "Dhaka expresses solidarity with Riyadh after strikes on civilian infrastructure, including airports, kill three people."
     },
     {
       "title": "Hannibal Directive: How Israel sacrificed its own citizens to manufacture consent for the Gaza Genocide",
@@ -683,17 +683,6 @@
       "snippet": ""
     },
     {
-      "title": "Industry powers Bangladesh’s GDP growth to 4.60% in FY26 Q4",
-      "link": "https://www.tbsnews.net/economy/bangladeshs-gdp-growth-rises-460-q4-205-1565621",
-      "pubDate": "Wed, 07 Oct 2026 19:25:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/11/gdp.jpg",
-      "snippet": "At current prices, the size of the country’s GDP stood at Tk16,117 billion in the fourth quarter, compared with Tk14,385 billion in the same quarter of FY25."
-    },
-    {
       "title": "1,471 recommended for primary school jobs fail to join",
       "link": "https://www.tbsnews.net/bangladesh/education/1471-recommended-primary-school-jobs-fail-join-1565616",
       "pubDate": "Wed, 07 Oct 2026 19:15:00 +0600",
@@ -826,5 +815,5 @@
       "snippet": "Bangladesh’s energy planning documents must move beyond sitting on desks as theoretical guides. The 10-year energy and power-sector strategic documents should transform static energy plans into legally binding execution mandates"
     }
   ],
-  "updatedAt": "2026-10-09T23:24:19.861Z"
+  "updatedAt": "2026-10-10T02:33:56.167Z"
 }
