@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Fresh FDI falls 5% amid credit, banking woes",
+      "link": "https://www.tbsnews.net/economy/fresh-fdi-falls-5-amid-credit-banking-woes-1569771",
+      "pubDate": "Mon, 12 Oct 2026 04:00:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/fdi.png",
+      "snippet": "Economists say downgrades to Bangladesh’s sovereign credit ratings discouraging foreign investment."
+    },
+    {
       "title": "German tourist's stolen MacBook recovered in Natore after 4 days, camera still missing",
       "link": "https://www.tbsnews.net/bangladesh/german-tourists-stolen-macbook-recovered-natore-after-4-days-camera-still-missing-1569746",
       "pubDate": "Mon, 12 Oct 2026 00:10:00 +0600",
@@ -661,5 +672,5 @@
       "snippet": "Bangladesh Bank data show that $101 million was traded in the interbank market on the 7th of this month."
     }
   ],
-  "updatedAt": "2026-10-11T19:56:24.762Z"
+  "updatedAt": "2026-10-11T23:30:09.718Z"
 }
