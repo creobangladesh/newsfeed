@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Chattogram Customs revenue rises 11% in Q1, still Tk9,949cr short of target",
+      "link": "https://www.tbsnews.net/economy/chattogram-customs-revenue-rises-11-q1-still-tk9949cr-short-target-1568681",
+      "pubDate": "Sun, 11 Oct 2026 07:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/05/21/chattogram_customs_house.jpg",
+      "snippet": "The customs house collected Tk22,083 crore in July-September of FY27, up from Tk19,902 crore a year earlier, according to data from the Asycuda World system. However, the collection was 31% below the quarterly target of Tk32,032 crore"
+    },
+    {
       "title": "BNP seeks more time to prepare for local government elections",
       "link": "https://www.tbsnews.net/bangladesh/politics/bnp-seeks-more-time-prepare-local-government-elections-1568656",
       "pubDate": "Sun, 11 Oct 2026 01:25:00 +0600",
@@ -219,17 +230,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/08/17/ruhul_kabir_rizvi_1.jpg",
       "snippet": "BNP leader highlights financing, energy and compliance challenges."
-    },
-    {
-      "title": "Sheltering Hasina, allowing her to do politics a major obstacle towards better Dhaka-Delhi ties: Mushfiqul",
-      "link": "https://www.tbsnews.net/bangladesh/sheltering-hasina-allowing-her-do-politics-major-obstacle-towards-better-dhaka-delhi-ties",
-      "pubDate": "Sat, 10 Oct 2026 20:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/10/7610391.jpg",
-      "snippet": "Mushfiqul said lasting friendship must be built with a country's people rather than being confined to a particular leader or political party."
     },
     {
       "title": "Match professor's expertise to student's research to win MEXT, says Japan Embassy",
@@ -738,5 +738,5 @@
       "snippet": "The tax load on fuel has escalated significantly since June 2025, when the interim government replaced the fixed “Tariff Value” tax regime with a variable “Invoice Value” system."
     }
   ],
-  "updatedAt": "2026-10-10T23:17:08.062Z"
+  "updatedAt": "2026-10-11T02:03:25.507Z"
 }
