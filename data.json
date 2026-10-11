@@ -1,6 +1,72 @@
 {
   "news": [
     {
+      "title": "German tourist's stolen MacBook recovered in Natore after 4 days, camera still missing",
+      "link": "https://www.tbsnews.net/bangladesh/german-tourists-stolen-macbook-recovered-natore-after-4-days-camera-still-missing-1569746",
+      "pubDate": "Mon, 12 Oct 2026 00:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/12/german_tourist.png",
+      "snippet": "A local resident’s tip-off leads police to the laptop."
+    },
+    {
+      "title": "Extortionists, land grabbers have no place in BNP: Chief whip",
+      "link": "https://www.tbsnews.net/bangladesh/extortionists-land-grabbers-have-no-place-bnp-chief-whip-1569736",
+      "pubDate": "Mon, 12 Oct 2026 00:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/11/pm_meeting.jpg",
+      "snippet": "BNP will seek consensus on single candidates for upcoming local government elections and has instructed its leaders not to interfere in the polls, says Chief Whip Nurul Islam Moni."
+    },
+    {
+      "title": "Senior secretary to represent Bangladesh at first-ever BIMSTEC home ministers' meeting in Delhi",
+      "link": "https://www.tbsnews.net/foreign-policy/senior-secretary-represent-bangladesh-first-ever-bimstec-home-ministers-meeting-delhi",
+      "pubDate": "Sun, 11 Oct 2026 23:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/organization/logo/bimstec_secretariat.jpg",
+      "snippet": "The meeting will bring together ministers and representatives from the seven BIMSTEC member states."
+    },
+    {
+      "title": "3 arrested over Tk50 lakh monthly extortion demand at Gulshan Society office",
+      "link": "https://www.tbsnews.net/bangladesh/3-arrested-over-tk50-lakh-monthly-extortion-demand-gulshan-society-office-1569731",
+      "pubDate": "Sun, 11 Oct 2026 22:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/07/20/woman_arrested.jpg",
+      "snippet": "The suspects allegedly threatened workers and demanded waste collection payments."
+    },
+    {
+      "title": "Cumilla teacher among 2 Bangladeshis killed in Riyadh airport strike",
+      "link": "https://www.tbsnews.net/bangladesh/cumilla-teacher-among-2-bangladeshis-killed-riyadh-airport-strike-1569681",
+      "pubDate": "Sun, 11 Oct 2026 21:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/11/cumilla_teacher.jpg",
+      "snippet": "He was escorting 45 fellow madrasah staff on an Umrah pilgrimage."
+    },
+    {
+      "title": "Economic interconnectedness has increased, but so has vulnerability: German Ambassador",
+      "link": "https://www.tbsnews.net/foreign-policy/economic-interconnectedness-has-increased-so-has-vulnerability-german-ambassador",
+      "pubDate": "Sun, 11 Oct 2026 21:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/11/aminul_haque_13.png",
+      "snippet": "The cohort comprised 32 participants, including 26 officers from Bangladesh’s Ministry of Foreign Affairs and six diplomats from Botswana, Guyana, Kenya, Nepal, Rwanda and Tanzania."
+    },
+    {
       "title": "BSEC fines trio Tk73.76 lakh for manipulating Trust Islami Life shares",
       "link": "https://www.tbsnews.net/economy/stocks/bsec-fines-trio-tk7376-lakh-manipulating-trust-islami-life-shares-1569671",
       "pubDate": "Sun, 11 Oct 2026 21:45:00 +0600",
@@ -15,10 +81,10 @@
       "title": "Econo ball pen maker returns to profit after 9 years, shares jump 6.65%",
       "link": "https://www.tbsnews.net/economy/stocks/econo-ball-pen-maker-returns-profit-after-9-years-shares-jump-665-1569686",
       "pubDate": "Sun, 11 Oct 2026 21:45:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/11/gq-ball-pen.jpg",
       "snippet": "The company last reported a profit of Tk1.55 crore in 2016."
     },
@@ -32,6 +98,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/11/843314917_2205267193353100_8610519081439528913_n.png",
       "snippet": "Excess bank liquidity and private-sector credit growth below 5% for six consecutive months have eased pressure on short-term government borrowing costs."
+    },
+    {
+      "title": "Livestreaming an execution: The barbaric spectacle America once condemned is now its own ",
+      "link": "https://www.tbsnews.net/features/panorama/livestreaming-execution-barbaric-spectacle-america-once-condemned-now-its-own",
+      "pubDate": "Sun, 11 Oct 2026 21:40:00 +0600",
+      "category": "Analysis",
+      "color": "#5d4037",
+      "bg": "#efebe9",
+      "icon": "🔍",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/11/images_18.jpeg",
+      "snippet": "The Pentagon has decided to livestream the execution of Fort Hood shooter Nidal Malik Hasan by firing squad. In seeking to project strength, the executive branch is embracing a form of punitive theatre that could erode America’s standing as a global ..."
     },
     {
       "title": "PM chairs meeting of ruling party MPs",
@@ -155,92 +232,15 @@
       "snippet": "Experts call for independent medical negligence investigations, stronger patient rights and legal safeguards for healthcare workers against attacks and harassment."
     },
     {
-      "title": "No girl's dreams should be cut short by child marriage, insecurity: PM",
-      "link": "https://www.tbsnews.net/bangladesh/no-girls-dreams-should-be-cut-short-child-marriage-insecurity-pm-1569476",
-      "pubDate": "Sun, 11 Oct 2026 19:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/26/non-surgical_3.png",
-      "snippet": "The Prime Minister made the remarks in a message issued on the occasion of National Girl Child Day 2026."
-    },
-    {
       "title": "Dhaka University to hold its 54th convocation on  26 January",
       "link": "https://www.tbsnews.net/bangladesh/education/dhaka-university-hold-its-54th-convocation-26-january-1569481",
       "pubDate": "Sun, 11 Oct 2026 19:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/11/aminul_haque_6.png",
       "snippet": "Applications for participation will be accepted from 1 to 30 November, 2026."
-    },
-    {
-      "title": "Mintoo urges REHAB to promote eco-friendly construction",
-      "link": "https://www.tbsnews.net/bangladesh/mintoo-urges-rehab-promote-eco-friendly-construction-1569471",
-      "pubDate": "Sun, 11 Oct 2026 19:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/11/mintu.png",
-      "snippet": "The minister stressed spraying water at construction sites and surrounding areas at least twice a day, and more often depending on the level of dust."
-    },
-    {
-      "title": "July Museum holds global significance: Dutch vice minister",
-      "link": "https://www.tbsnews.net/bangladesh/july-museum-holds-global-significance-dutch-vice-minister-1569461",
-      "pubDate": "Sun, 11 Oct 2026 19:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/11/steven_collet.png",
-      "snippet": "“The July Museum is the most impressive museum I have ever seen,” he said during a visit to the July Mass Uprising Memorial Museum in the city this afternoon, according to a press release."
-    },
-    {
-      "title": "Three pairs of special trains to operate during Durga Puja",
-      "link": "https://www.tbsnews.net/bangladesh/three-pairs-special-trains-operate-during-durga-puja-1569446",
-      "pubDate": "Sun, 11 Oct 2026 19:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/11/aminul_haque_4.png",
-      "snippet": "Chattogram Special-4 will operate on the Dhaka–Chattogram route on 24 October."
-    },
-    {
-      "title": "Bangladesh seeks regional alliance to ensure sustainable Rohingya repatriation: Home minister",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-seeks-regional-alliance-ensure-sustainable-rohingya-repatriation-home-minister",
-      "pubDate": "Sun, 11 Oct 2026 19:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/11/rohingya_hm.jpg",
-      "snippet": "Salahuddin Ahmed says China, Asean, the UN and Japan must coordinate efforts, as Dhaka explores diplomatic channels amid changing power dynamics in Rakhine."
-    },
-    {
-      "title": "BGB foils BSF push-in attempt at Kushtia border",
-      "link": "https://www.tbsnews.net/bangladesh/bgb-foils-bsf-push-attempt-kushtia-border-1569441",
-      "pubDate": "Sun, 11 Oct 2026 19:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/11/unnamed_3.jpg",
-      "snippet": "Four people were taken back into India after BGB personnel blocked the attempt, according to the border force."
-    },
-    {
-      "title": "Livestreaming an execution: The barbaric spectacle America once condemned is now its own ",
-      "link": "https://www.tbsnews.net/features/panorama/livestreaming-execution-barbaric-spectacle-america-once-condemned-now-its-own",
-      "pubDate": "Sun, 11 Oct 2026 18:20:00 +0600",
-      "category": "Analysis",
-      "color": "#5d4037",
-      "bg": "#efebe9",
-      "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/11/images_18.jpeg",
-      "snippet": "The Pentagon has decided to livestream the execution of Fort Hood shooter Nidal Malik Hasan by firing squad. In seeking to project strength, the executive branch is embracing a form of punitive theatre that could erode America’s standing as a global ..."
     },
     {
       "title": "Mental health protection requires social attitude shift, not just laws: Speakers",
@@ -659,51 +659,7 @@
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/08/02/dollar_0.jpg",
       "snippet": "Bangladesh Bank data show that $101 million was traded in the interbank market on the 7th of this month."
-    },
-    {
-      "title": "What's in the DP World deal for NCT?",
-      "link": "https://www.tbsnews.net/economy/whats-dp-world-deal-nct-1566961",
-      "pubDate": "Fri, 09 Oct 2026 00:35:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/08/834248567_4496882743960010_5430580343752157529_n.jpg",
-      "snippet": "DP World will pay the CPA around Tk600 crore at the beginning of the agreement."
-    },
-    {
-      "title": "National Bank to start disbursing deposits from 15 Oct",
-      "link": "https://www.tbsnews.net/economy/banking/national-bank-start-disbursing-deposits-15-oct-1566951",
-      "pubDate": "Fri, 09 Oct 2026 00:10:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/05/28/national_bank.png",
-      "snippet": "Withdrawal applications open on 11 Oct; BB to provide up to Tk10,000cr support via other banks as guarantor."
-    },
-    {
-      "title": "Govt repurchases Tk1,716cr bonds in first-ever treasury buyback",
-      "link": "https://www.tbsnews.net/economy/banking/govt-repurchases-tk1716cr-bonds-first-ever-treasury-buyback-1566911",
-      "pubDate": "Thu, 08 Oct 2026 22:10:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/06/treasury-bonds.png",
-      "snippet": "The Bangladesh Bank conducted the buyback auction on behalf of the Finance Division."
-    },
-    {
-      "title": "25m Bangladeshis cannot afford nutritious diets, experts flag policy-financing gaps",
-      "link": "https://www.tbsnews.net/bangladesh/health/25m-bangladeshis-cannot-afford-nutritious-diets-experts-flag-policy-financing-gaps",
-      "pubDate": "Thu, 08 Oct 2026 22:00:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/08/cmy.png",
-      "snippet": "Experts call for better policy coordination, agricultural diversification and nutrition-sensitive social protection"
     }
   ],
-  "updatedAt": "2026-10-11T15:52:33.239Z"
+  "updatedAt": "2026-10-11T19:56:24.762Z"
 }
