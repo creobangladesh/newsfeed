@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Consumer rights directorate fines 87 businesses Tk 7.71 lakh in nationwide LPG, edible oil market crackdown",
+      "link": "https://www.tbsnews.net/bangladesh/consumer-rights-directorate-fines-87-businesses-tk-771-lakh-nationwide-lpg-edible-oil",
+      "pubDate": "Mon, 12 Oct 2026 08:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/03/19/dncrp.jpg",
+      "snippet": "A total of 46 monitoring teams of the directorate simultaneously conducted the drives at wholesale and retail markets in Dhaka metropolitan area and 31 districts"
+    },
+    {
+      "title": "Bangladesh eyes currency swap to facilitate remittances from Maldives",
+      "link": "https://www.tbsnews.net/economy/bangladesh-eyes-currency-swap-facilitate-remittances-maldives-1569781",
+      "pubDate": "Mon, 12 Oct 2026 07:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/29/fitch_taka.jpg",
+      "snippet": "$118m in remittances came from Maldives in FY26, down from $141.1m in FY25"
+    },
+    {
       "title": "Fresh FDI falls 5% amid credit, banking woes",
       "link": "https://www.tbsnews.net/economy/fresh-fdi-falls-5-amid-credit-banking-woes-1569771",
       "pubDate": "Mon, 12 Oct 2026 04:00:00 +0600",
@@ -221,24 +243,13 @@
       "snippet": "Sports association also demands safe rescheduling and accountability."
     },
     {
-      "title": "Osmani Udyan to open for the public on 19 Oct: Mir Shahe Alam",
-      "link": "https://www.tbsnews.net/bangladesh/osmani-udyan-open-public-19-oct-mir-shahe-alam-1569501",
-      "pubDate": "Sun, 11 Oct 2026 20:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/11/aminul_haque_7.png",
-      "snippet": "The State Minister made these remarks while speaking at a preparatory meeting regarding the inauguration of the udyan and the newly built ‘July Memorial’ in his ministry at Bangladesh Secretariat here."
-    },
-    {
       "title": "Proposed health law should protect patients and healthcare workers: Experts ",
       "link": "https://www.tbsnews.net/bangladesh/health/proposed-health-law-should-protect-patients-and-healthcare-workers-experts-1569486",
       "pubDate": "Sun, 11 Oct 2026 20:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/11/843396480_1781595359617049_922371272260123597_n.jpg",
       "snippet": "Experts call for independent medical negligence investigations, stronger patient rights and legal safeguards for healthcare workers against attacks and harassment."
     },
@@ -672,5 +683,5 @@
       "snippet": "Bangladesh Bank data show that $101 million was traded in the interbank market on the 7th of this month."
     }
   ],
-  "updatedAt": "2026-10-11T23:30:09.718Z"
+  "updatedAt": "2026-10-12T02:36:57.127Z"
 }
