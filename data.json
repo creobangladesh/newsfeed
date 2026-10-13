@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Chinese, Turkish firms collect offshore bid documents; ExxonMobil, BP in talks",
+      "link": "https://www.tbsnews.net/economy/energy/chinese-turkish-firms-collect-offshore-bid-documents-exxonmobil-bp-talks-1570951",
+      "pubDate": "Tue, 13 Oct 2026 07:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/03/05/offshore_0.jpg",
+      "snippet": "Bangladesh launched the offshore bidding round for a second time on 24 May, offering 26 hydrocarbon blocks – 11 in shallow waters and 15 in deep-water areas of the Bay of Bengal – to international oil companies for exploration"
+    },
+    {
       "title": "Govt takes nine decisions to tighten security at Secretariat",
       "link": "https://www.tbsnews.net/bangladesh/govt-takes-nine-decisions-tighten-security-secretariat-1570941",
       "pubDate": "Tue, 13 Oct 2026 00:45:00 +0600",
@@ -166,17 +177,6 @@
       "snippet": "Prime Minister's Cultural Affairs Adviser Dr. Zahed Ur Rahman and the museum's Director General Ehsan Mahmud were present at the event."
     },
     {
-      "title": "Dutch delegation eyes green cooperation with Bangladesh's apparel sector",
-      "link": "https://www.tbsnews.net/foreign-policy/dutch-delegation-eyes-green-cooperation-bangladeshs-apparel-sector-1570766",
-      "pubDate": "Mon, 12 Oct 2026 21:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/12/dutch_delegation.jpeg",
-      "snippet": "Post-LDC trade, decarbonisation and EU rules feature in discussions."
-    },
-    {
       "title": "JS body recommends transparency in management of 3 seaports",
       "link": "https://www.tbsnews.net/bangladesh/js-body-recommends-transparency-management-3-seaports-1570771",
       "pubDate": "Mon, 12 Oct 2026 21:10:00 +0600",
@@ -186,6 +186,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/12/aminul_haque_8.png",
       "snippet": "The committee made the recommendations at its fifth meeting, chaired by Chief Whip Nurul Islam Moni at the Jatiya Sangsad Bhaban."
+    },
+    {
+      "title": "Dutch delegation eyes green cooperation with Bangladesh's apparel sector",
+      "link": "https://www.tbsnews.net/foreign-policy/dutch-delegation-eyes-green-cooperation-bangladeshs-apparel-sector-1570766",
+      "pubDate": "Mon, 12 Oct 2026 21:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/12/dutch_delegation.jpeg",
+      "snippet": "Post-LDC trade, decarbonisation and EU rules feature in discussions."
     },
     {
       "title": "NCP activists lock Godagari UNO office over fertiliser dealer appointments",
@@ -230,17 +241,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/organization/logo/community_bank_bangladesh_limited_0.jpg",
       "snippet": "The funding will support Bangladesh’s participation in the 23rd International Junior Science Olympiad in Bulgaria in December."
-    },
-    {
-      "title": "Rights, security of all citizens irrespective of religion my responsibility, says PM",
-      "link": "https://www.tbsnews.net/bangladesh/rights-security-all-citizens-irrespective-religion-my-responsibility-says-pm-1570666",
-      "pubDate": "Mon, 12 Oct 2026 20:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/12/tarique.png",
-      "snippet": "The prime minister made the remarks during an exchange of views with Hindu community leaders from the Dhaka-17 constituency at the Cabinet Division of the Bangladesh Secretariat."
     },
     {
       "title": "NGOs now dominate rural lending; agriculture's share of loans shrinks",
@@ -804,5 +804,5 @@
       "snippet": "Among 4,984 female adolescents surveyed, 8% reported experiencing cyberbullying in the previous 12 months, while 12% had MDD."
     }
   ],
-  "updatedAt": "2026-10-12T19:56:56.718Z"
+  "updatedAt": "2026-10-13T01:54:27.803Z"
 }
