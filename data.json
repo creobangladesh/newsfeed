@@ -1,6 +1,83 @@
 {
   "news": [
     {
+      "title": "Sylhet stone trader detained over Facebook post criticising expatriates minister",
+      "link": "https://www.tbsnews.net/bangladesh/sylhet-stone-trader-detained-over-facebook-post-criticising-expatriates-minister-1572201",
+      "pubDate": "Wed, 14 Oct 2026 10:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/14/blurred-frame_1.jpg",
+      "snippet": "Two days after the post, Companiganj upazila BNP Secretary Ali Akbar and Senior Vice-President Shawkat Ali Babul called Zubayer to the police station and handed him over to the police."
+    },
+    {
+      "title": "Confidence Group eyes Tk4,000cr fresh investment in solar by 2028",
+      "link": "https://www.tbsnews.net/economy/energy/confidence-group-eyes-tk4000cr-fresh-investment-solar-2028-1572161",
+      "pubDate": "Wed, 14 Oct 2026 10:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/14/solar_0.jpeg",
+      "snippet": "The company aims to raise Tk400cr through an IPO."
+    },
+    {
+      "title": "Satkhira man beaten to death over alleged religious remarks, family cites mental illness",
+      "link": "https://www.tbsnews.net/bangladesh/satkhira-man-beaten-death-over-alleged-religious-remarks-family-cites-mental-illness",
+      "pubDate": "Wed, 14 Oct 2026 09:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/14/photo-output.jpeg",
+      "snippet": "Religious speaker Fazlul Haque Amini of Debhata accused Shamim of hurting religious sentiments during a Facebook Live broadcast and called on people to gather."
+    },
+    {
+      "title": "Saudi flight cancellations hit over 13,000 migrant workers, Umrah pilgrims",
+      "link": "https://www.tbsnews.net/bangladesh/saudi-flight-cancellations-hit-over-13000-migrant-workers-umrah-pilgrims-1572171",
+      "pubDate": "Wed, 14 Oct 2026 09:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/11/dhaka_airport.jpeg",
+      "snippet": "Biman Bangladesh Airlines has suspended flights from Dhaka to Dammam and Riyadh until 17 October, citing passenger safety concerns."
+    },
+    {
+      "title": "Bangladesh e-waste holds $500m worth of recoverable metals: Study",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-e-waste-holds-500m-worth-recoverable-metals-study-1572151",
+      "pubDate": "Wed, 14 Oct 2026 09:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/14/p5_yed8715.jpg",
+      "snippet": "The 2017 study estimated that only 3% of e-waste was formally recycled and exported, leaving valuable materials such as gold, silver, copper and tin unrecovered alongside hazardous waste."
+    },
+    {
+      "title": "India sends first batch of 18 coaches to Bangladesh, with baby care rooms and prayer spaces",
+      "link": "https://www.tbsnews.net/bangladesh/indian-railways-exports-first-batch-18-coaches-bangladesh-1572136",
+      "pubDate": "Wed, 14 Oct 2026 08:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/19/train_unb_img.jpg",
+      "snippet": "The first batch comprises 11 non-air-conditioned Shovan chair cars, three air-conditioned chair cars, two air-conditioned sleeper coaches and two air-conditioned power cars equipped with a guard room and luggage accommodation"
+    },
+    {
+      "title": "Bangladesh to seek special concessional loans from Japan until 2029",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-seek-special-concessional-loans-japan-until-2029-1572121",
+      "pubDate": "Wed, 14 Oct 2026 07:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/08/foreign_loan.jpeg",
+      "snippet": "The request is set to be placed at a meeting between Finance and Planning Minister Amir Khosru Mahmud Chowdhury and Japan International Cooperation Agency (Jica) Senior Vice-President Shohei Hara"
+    },
+    {
       "title": "Bangladesh Air Force takes part in multinational exercise in India",
       "link": "https://www.tbsnews.net/bangladesh/bangladesh-air-force-takes-part-multinational-exercise-india-1572116",
       "pubDate": "Wed, 14 Oct 2026 01:25:00 +0600",
@@ -19,7 +96,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/28/wb_bd.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/14/bangladesh-world-bank.png",
       "snippet": "The additional funding will cushion the economy against global shocks by financing critical energy and fertiliser subsidies."
     },
     {
@@ -111,6 +188,17 @@
       "snippet": "Salahuddin says consensus remains preferred route for constitutional changes."
     },
     {
+      "title": "Ctg Port adds payment verification numbers to e-challan system",
+      "link": "https://www.tbsnews.net/bangladesh/ctg-port-adds-payment-verification-numbers-e-challan-system-1572006",
+      "pubDate": "Tue, 13 Oct 2026 21:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/01/ctg_port_photo2.jpg",
+      "snippet": "The updated system will allow port officials to verify customs duty, tax and port charge payments before cargo-carrying vehicles leave the port."
+    },
+    {
       "title": "Pakistani man settles in Kushtia after marrying Bangladeshi woman",
       "link": "https://www.tbsnews.net/bangladesh/pakistani-man-settles-kushtia-after-after-marrying-bangladeshi-woman-1571991",
       "pubDate": "Tue, 13 Oct 2026 21:50:00 +0600",
@@ -131,17 +219,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/13/chawkbazar_fire_0.jpg",
       "snippet": "Poor ventilation, intense heat, narrow lanes, water shortages hamper firefighting."
-    },
-    {
-      "title": "Ctg Port adds payment verification numbers to e-challan system",
-      "link": "https://www.tbsnews.net/bangladesh/ctg-port-adds-payment-verification-numbers-e-challan-system-1572006",
-      "pubDate": "Tue, 13 Oct 2026 21:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/01/ctg_port_photo2.jpg",
-      "snippet": "The updated system will allow port officials to verify customs duty, tax and port charge payments before cargo-carrying vehicles leave the port."
     },
     {
       "title": "Experts seek clarity on judiciary’s jurisdiction in constitutional amendments",
@@ -175,83 +252,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/13/gulshan_dog_accident.jpg",
       "snippet": "The dog’s owner, Ipsha Nazia Adiba, filed a case on Monday, citing the vehicle’s registration number."
-    },
-    {
-      "title": "Govt eyes increasing exportable egg production after Nigeria success: Tuku",
-      "link": "https://www.tbsnews.net/bangladesh/govt-eyes-increasing-exportable-egg-production-after-nigeria-success-tuku-1571946",
-      "pubDate": "Tue, 13 Oct 2026 21:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/08/tuku_1.png",
-      "snippet": "He urged stakeholders not to use antibiotics in poultry feed under any circumstances."
-    },
-    {
-      "title": "Prioritise news importance, not party balance in BTV coverage: JS body",
-      "link": "https://www.tbsnews.net/bangladesh/prioritise-news-importance-not-party-balance-btv-coverage-js-body-1571931",
-      "pubDate": "Tue, 13 Oct 2026 21:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/13/andaleev_rahman.png",
-      "snippet": "The committee stressed that BTV should fulfil its responsibilities as a public service broadcaster accountable to the state and society, rather than seeking to become a commercial television channel."
-    },
-    {
-      "title": "Actor Somu Chowdhury injured in attack over garbage disposal in Jashore",
-      "link": "https://www.tbsnews.net/bangladesh/actor-somu-chowdhury-injured-attack-over-garbage-disposal-jashore-1571926",
-      "pubDate": "Tue, 13 Oct 2026 21:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/13/somu.png",
-      "snippet": "The actor received four stitches to his head after allegedly being struck with a brick by a motorcycle garage owner and a mechanic."
-    },
-    {
-      "title": "Railway land under illegal occupation to be identified, reclaimed: Railway minister",
-      "link": "https://www.tbsnews.net/bangladesh/railway-land-under-illegal-occupation-be-identified-reclaimed-railway-minister-1571916",
-      "pubDate": "Tue, 13 Oct 2026 21:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/13/rabi.png",
-      "snippet": "The issue was discussed at a meeting with the Upazila Nirbahi Officer (UNO) and other relevant officials, he said."
-    },
-    {
-      "title": "ICJ ruling sets historic precedent: Saudi envoy ",
-      "link": "https://www.tbsnews.net/foreign-policy/icj-ruling-sets-historic-precedent-saudi-envoy-1571911",
-      "pubDate": "Tue, 13 Oct 2026 21:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/13/saudi2.png",
-      "snippet": "During the meeting, Saudi envoy also assured Bangladesh of Saudi Arabia’s continued support for the repatriation of the Rohingyas to Myanmar."
-    },
-    {
-      "title": "Solar power, solar irrigation top govt priority in clean energy push: State minister",
-      "link": "https://www.tbsnews.net/economy/energy/solar-power-solar-irrigation-top-govt-priority-clean-energy-push-state-minister",
-      "pubDate": "Tue, 13 Oct 2026 21:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/13/faridul.png",
-      "snippet": "The meeting was organised as part of the EU's outreach programme on clean energy, climate priorities and COP31."
-    },
-    {
-      "title": "Land grabbers, drug dealers to face strict action: DMP chief",
-      "link": "https://www.tbsnews.net/bangladesh/land-grabbers-drug-dealers-face-strict-action-dmp-chief-1571896",
-      "pubDate": "Tue, 13 Oct 2026 21:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/13/dmp_cheif.png",
-      "snippet": "The DMP chief stressed the need to strengthen communication and cooperation between the police and the public to prevent crime."
     },
     {
       "title": "Starlink India launch: Why Elon Musk is still waiting ",
@@ -298,17 +298,6 @@
       "snippet": "National Bank has secured the three-month loan at 10% interest against a 100% Bangladesh Bank guarantee, while around 7,500 withdrawal requests were submitted in three days."
     },
     {
-      "title": "Govt cautious on mass dengue vaccination as death rate falls 40%, claims state minister",
-      "link": "https://www.tbsnews.net/bangladesh/health/govt-cautious-mass-dengue-vaccination-death-rate-falls-40-claims-state-minister",
-      "pubDate": "Tue, 13 Oct 2026 19:30:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/13/ma_muhit.jpg",
-      "snippet": "Globally, two to three dengue vaccines have passed through various stages of clinical trials and received approval for use in around 30 countries, he says."
-    },
-    {
       "title": "Cuet VC leaves campus after 30-hour standoff, students demand he never return",
       "link": "https://www.tbsnews.net/bangladesh/education/cuet-students-let-vc-shariful-leave-campus-after-30-hr-confinement-condition-he",
       "pubDate": "Tue, 13 Oct 2026 19:10:00 +0600",
@@ -331,17 +320,6 @@
       "snippet": "The commission decided that approval for the reappointment of existing independent directors will now be granted upon receiving an updated clean Credit Information Bureau (CIB) report from Bangladesh Bank."
     },
     {
-      "title": "Dengue claims 9 more lives, annual cases cross 103,000",
-      "link": "https://www.tbsnews.net/bangladesh/health/dengue-claims-9-more-lives-annual-cases-cross-103000-1571571",
-      "pubDate": "Tue, 13 Oct 2026 16:45:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/15/dengue.jpg",
-      "snippet": "The latest deaths take the nationwide toll to 316, while 1,954 patients were hospitalised in the 24 hours to 13 October."
-    },
-    {
       "title": "HSC results likely between 25 and 29 October",
       "link": "https://www.tbsnews.net/bangladesh/education/hsc-results-likely-between-25-29-october-1571516",
       "pubDate": "Tue, 13 Oct 2026 16:20:00 +0600",
@@ -351,17 +329,6 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/07/18/hsc.png",
       "snippet": "Education boards have proposed a date within the five-day window to the education ministry for publication of the results."
-    },
-    {
-      "title": "Measles death toll reaches 1,170 as 6 more children die in 24 hours",
-      "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-1170-6-more-children-die-24-hours-1571466",
-      "pubDate": "Tue, 13 Oct 2026 16:10:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/28/measles_like_child_and_mother.png",
-      "snippet": "Meanwhile, 139 new laboratory-confirmed cases were recorded, bringing the total number of confirmed infections to 22,712."
     },
     {
       "title": "DU to hold 'Research and Innovation Fair' annually",
@@ -584,17 +551,6 @@
       "snippet": "Dhaka wants to translate development funding into jobs, investment."
     },
     {
-      "title": "Dengue cases cross 1 lakh in Bangladesh this year",
-      "link": "https://www.tbsnews.net/bangladesh/health/dengue-cases-cross-1-lakh-bangladesh-year-1570591",
-      "pubDate": "Mon, 12 Oct 2026 19:20:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/15/dengue.jpg",
-      "snippet": "Four more deaths take the toll to 307, while 2,167 patients were hospitalised in the last 24 hours."
-    },
-    {
       "title": "Benapole-Petrapole trade to remain suspended for 8 days from 17 October",
       "link": "https://www.tbsnews.net/economy/benapole-petrapole-trade-remain-suspended-8-days-17-october-1570526",
       "pubDate": "Mon, 12 Oct 2026 18:45:00 +0600",
@@ -639,17 +595,6 @@
       "snippet": ""
     },
     {
-      "title": "Govt employees hospital issues health card registration guidelines",
-      "link": "https://www.tbsnews.net/bangladesh/govt-employees-hospital-issues-health-card-registration-guidelines-1570331",
-      "pubDate": "Mon, 12 Oct 2026 16:40:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/10/15_thoughts.jpg1_.jpg",
-      "snippet": "The notice also stated that doctor appointments must be booked online through the hospital's HSMS software."
-    },
-    {
       "title": "Girls outnumber boys in colleges, but lose ground at universities",
       "link": "https://www.tbsnews.net/bangladesh/education/girls-outnumber-boys-colleges-lose-ground-universities-1569836",
       "pubDate": "Mon, 12 Oct 2026 13:00:00 +0600",
@@ -672,17 +617,6 @@
       "snippet": "In an exclusive interview with TBS, Prashant Thakker, Managing Director and Head of Corporate Banking, Asia South at Citi, said that reforms, sustainable finance and global partnerships will shape Bangladesh’s next phase of growth"
     },
     {
-      "title": "Chittagong Medical's dialysis contract expiry raises concern over treatment gap ",
-      "link": "https://www.tbsnews.net/bangladesh/health/chittagong-medicals-dialysis-contract-expiry-raises-concern-over-treatment-gap",
-      "pubDate": "Mon, 12 Oct 2026 12:00:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/12/p5_img-20261011-wa0091.jpg",
-      "snippet": "Replacement services may take until March."
-    },
-    {
       "title": "Bangladesh-Spain ties eye new prospects amid Spain’s global prominence",
       "link": "https://www.tbsnews.net/thoughts/bangladesh-spain-ties-eye-new-prospects-amid-spains-global-prominence-1570016",
       "pubDate": "Mon, 12 Oct 2026 12:00:00 +0600",
@@ -703,17 +637,6 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/12/social-robotics_hackathon_championship-2_16x9.png",
       "snippet": ""
-    },
-    {
-      "title": "Price freeze drives saline makers to cut output, triggering shortages ",
-      "link": "https://www.tbsnews.net/bangladesh/health/price-freeze-drives-saline-makers-cut-output-triggering-shortages-1569821",
-      "pubDate": "Mon, 12 Oct 2026 11:15:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/07/26/insung-yoon-mj6c32u_1xa-unsplash_1.jpg",
-      "snippet": "Behind the shortage is a mismatch between a regulated price and rising costs."
     },
     {
       "title": "Excess liquidity, weak credit demand push Treasury bill yields below 8%",
@@ -760,17 +683,6 @@
       "snippet": "Education Minister Dr ANM Ehsanul Hoque Milon attended the convocation as the chief guest, while educationist Prof Mohammad Kaykobad was also present as a convocation speaker."
     },
     {
-      "title": "Proposed health law should protect patients and healthcare workers: Experts ",
-      "link": "https://www.tbsnews.net/bangladesh/health/proposed-health-law-should-protect-patients-and-healthcare-workers-experts-1569486",
-      "pubDate": "Sun, 11 Oct 2026 20:00:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/11/843396480_1781595359617049_922371272260123597_n.jpg",
-      "snippet": "Experts call for independent medical negligence investigations, stronger patient rights and legal safeguards for healthcare workers against attacks and harassment."
-    },
-    {
       "title": "Dhaka University to hold its 54th convocation on  26 January",
       "link": "https://www.tbsnews.net/bangladesh/education/dhaka-university-hold-its-54th-convocation-26-january-1569481",
       "pubDate": "Sun, 11 Oct 2026 19:50:00 +0600",
@@ -793,17 +705,6 @@
       "snippet": ""
     },
     {
-      "title": "Mental health protection requires social attitude shift, not just laws: Speakers",
-      "link": "https://www.tbsnews.net/bangladesh/health/mental-health-protection-requires-social-attitude-shift-not-just-laws-speakers",
-      "pubDate": "Sun, 11 Oct 2026 18:05:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/10/mental_health_feature_3.jpg",
-      "snippet": "They called for addressing the root causes of psychological crises through long-term solutions, alongside immediate treatment for those affected."
-    },
-    {
       "title": "Japanese academic Atsushi Sunami to address DU’s 54th convocation",
       "link": "https://www.tbsnews.net/bangladesh/education/japanese-academic-atsushi-sunami-address-dus-54th-convocation-1569266",
       "pubDate": "Sun, 11 Oct 2026 18:00:00 +0600",
@@ -815,39 +716,6 @@
       "snippet": "Sunami will receive an honorary Doctor of Laws degree, while Professor Muhammad Harunur Rashid will be awarded an honorary Doctor of Science degree."
     },
     {
-      "title": "Dengue cases near 1 lakh, death toll reaches 303",
-      "link": "https://www.tbsnews.net/bangladesh/health/dengue-cases-near-1-lakh-death-toll-reaches-303-1569251",
-      "pubDate": "Sun, 11 Oct 2026 17:55:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/15/dengue.jpg",
-      "snippet": "Transmission may be relatively lower in Dhaka because the virus has circulated there for a long time, potentially leaving many people infected more than once."
-    },
-    {
-      "title": "Govt commits to recruiting 25,000 midwives: Health minister",
-      "link": "https://www.tbsnews.net/bangladesh/health/govt-commits-recruiting-25000-midwives-health-minister-1569261",
-      "pubDate": "Sun, 11 Oct 2026 17:55:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/11/health_and_welfare_minister.jpg",
-      "snippet": "Government considers investment in midwifery not an expense but an effective national investment that can reduce maternal and newborn deaths."
-    },
-    {
-      "title": "Measles: Death toll reaches 1,162 as 7 more children die",
-      "link": "https://www.tbsnews.net/bangladesh/measles-death-toll-reaches-1162-7-more-children-die-1569096",
-      "pubDate": "Sun, 11 Oct 2026 15:55:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/26/measles.jpg",
-      "snippet": "A total of 1,180 new suspected measles cases were reported during the 24-hour period, bringing the cumulative number of suspected cases nationwide to 205,028."
-    },
-    {
       "title": "Four Bangladeshi universities place in Times Higher Education global 801-1000 bracket",
       "link": "https://www.tbsnews.net/bangladesh/education/four-bangladeshi-universities-place-times-higher-education-global-801-1000",
       "pubDate": "Sun, 11 Oct 2026 13:15:00 +0600",
@@ -857,18 +725,7 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/11/560036745_844057211524270_9015944270914173310_n.jpg",
       "snippet": "Bangladesh had 35 institutions on the list, of which 25 received direct rankings, and 10 were listed as 'reporters'."
-    },
-    {
-      "title": "Experts say stigma delays breast cancer care, call for early diagnosis",
-      "link": "https://www.tbsnews.net/bangladesh/health/experts-say-stigma-delays-breast-cancer-care-call-early-diagnosis-1568741",
-      "pubDate": "Sun, 11 Oct 2026 10:05:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/11/80019.jpg",
-      "snippet": "The discussion brought together public health experts, oncologists and representatives of organisations working on cancer awareness and healthcare."
     }
   ],
-  "updatedAt": "2026-10-14T00:54:51.303Z"
+  "updatedAt": "2026-10-14T05:52:19.255Z"
 }
