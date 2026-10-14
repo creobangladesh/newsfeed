@@ -1,6 +1,83 @@
 {
   "news": [
     {
+      "title": "Jamaat factions clash over committee formation in Cumilla, unit secretary's jeep vandalised",
+      "link": "https://www.tbsnews.net/bangladesh/politics/jamaat-factions-clash-over-committee-formation-cumilla-unit-secretarys-jeep",
+      "pubDate": "Thu, 15 Oct 2026 00:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/15/cumilla_jamaat_accident.png",
+      "snippet": "The clash broke out during a meeting to form the new city committee, with police citing a dispute over party positions."
+    },
+    {
+      "title": "Growth trap, 16-year high inflation signal deepening crisis for Bangladesh, economists warn",
+      "link": "https://www.tbsnews.net/economy/growth-trap-16-year-high-inflation-signal-deepening-crisis-bangladesh-economists-warn",
+      "pubDate": "Thu, 15 Oct 2026 00:10:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/22/08_panorama_final_copy.png",
+      "snippet": "According to the International Monetary Fund’s (IMF) latest World Economic Outlook on Tuesday, Bangladesh is projected to become South Asia’s slowest-growing economy through 2031."
+    },
+    {
+      "title": "Court clears legal hurdle for Moghbazar expressway, railway work after nearly 7yrs",
+      "link": "https://www.tbsnews.net/bangladesh/court/court-clears-legal-hurdle-moghbazar-expressway-railway-work-after-nearly-7yrs",
+      "pubDate": "Wed, 14 Oct 2026 23:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/19/high_courtt.png",
+      "snippet": "The chamber court has lifted a High Court status quo order that had stalled development work on the Dhaka Elevated Expressway and a four-lane railway line beneath it."
+    },
+    {
+      "title": "Govt reshuffles over 2,000 officials in 8 months, sends 32 into forced retirement",
+      "link": "https://www.tbsnews.net/bangladesh/govt-reshuffles-over-2000-officials-8-months-sends-32-forced-retirement-1573321",
+      "pubDate": "Wed, 14 Oct 2026 23:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/14/administrative_gear_repair_illustration.png",
+      "snippet": "746 officials were promoted from senior assistant secretary to secretary and equivalent positions, according to the report."
+    },
+    {
+      "title": "Foreign banks' net profit falls 38% in H1",
+      "link": "https://www.tbsnews.net/economy/banking/foreign-banks-net-profit-falls-38-h1-1573306",
+      "pubDate": "Wed, 14 Oct 2026 23:35:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/bank-1_2.png",
+      "snippet": "Their net profit declined by Tk1,417 crore from Tk3,738 crore in July-December 2025, according to a Bangladesh Bank report."
+    },
+    {
+      "title": "Man assaulted in Dhanmondi: ASI withdrawn over alleged negligence, one detained",
+      "link": "https://www.tbsnews.net/bangladesh/man-assaulted-dhanmondi-asi-withdrawn-over-alleged-negligence-one-detained-1573291",
+      "pubDate": "Wed, 14 Oct 2026 22:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/14/man_detained.jpg",
+      "snippet": "A video showing a man being beaten and made to do sit-ups while holding his ears has surfaced on social media."
+    },
+    {
+      "title": "Development partners confident in govt's economic recovery strategy: Titumir",
+      "link": "https://www.tbsnews.net/economy/development-partners-confident-govts-economic-recovery-strategy-titumir-1573276",
+      "pubDate": "Wed, 14 Oct 2026 21:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/02/for_web_rashed_al_mahmud_titumir.png",
+      "snippet": "The adviser made the remarks while speaking to journalists on the sidelines of the annual meetings of the International Monetary Fund (IMF) and the World Bank Group here."
+    },
+    {
       "title": "PM urges people to spend 30-60 minutes twice a week cleaning to prevent dengue",
       "link": "https://www.tbsnews.net/bangladesh/pm-urges-people-spend-30-60-minutes-twice-week-cleaning-prevent-dengue-1573261",
       "pubDate": "Wed, 14 Oct 2026 21:45:00 +0600",
@@ -10,6 +87,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/pm_tarique_rahman.png",
       "snippet": "He said people of different ages are falling ill and dying from dengue, adding that those who have lost loved ones understood the pain of such a loss."
+    },
+    {
+      "title": "Govt approves 9 LNG cargoes, drops Kutubjom terminal plan",
+      "link": "https://www.tbsnews.net/economy/energy/govt-approves-9-lng-cargoes-drops-kutubjom-terminal-plan-1573271",
+      "pubDate": "Wed, 14 Oct 2026 21:40:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/12/lng_supply_1.jpg",
+      "snippet": "Approves Tk1,466cr fertiliser imports from Saudi Arabia, UAE, Russia, Canada."
     },
     {
       "title": "Two journalists 'assaulted' while filming clash between Chhatra Dal factions in Kushtia",
@@ -173,7 +261,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/14/economy_energy.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/14/us_china_support.png",
       "snippet": "Beijing signals interest in expanding power and energy investment, while Washington offers cooperation on debt management."
     },
     {
@@ -186,72 +274,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/07/tib.jpg",
       "snippet": "More than 90% of e-waste collection in Bangladesh is carried out by informal-sector workers."
-    },
-    {
-      "title": "Bangladesh needs 'balanced, diversified' energy mix to address challenges: ICCB ",
-      "link": "https://www.tbsnews.net/economy/energy/bangladesh-needs-balanced-diversified-energy-mix-address-challenges-iccb-1573016",
-      "pubDate": "Wed, 14 Oct 2026 19:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/14/aminul_haque_3.png",
-      "snippet": "Accelerating exploration, particularly through a stronger BAPEX alongside capable international partners, should remain a national priority."
-    },
-    {
-      "title": "Jamaat chief calls for joint efforts to protect Hindu citizens' rights",
-      "link": "https://www.tbsnews.net/bangladesh/politics/jamaat-chief-calls-joint-efforts-protect-hindu-citizens-rights-1572906",
-      "pubDate": "Wed, 14 Oct 2026 19:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/14/jamaat_hindu.jpg",
-      "snippet": "Shafiqur Rahman says concerns over security, discrimination and deprivation should be addressed collectively ahead of Durga Puja."
-    },
-    {
-      "title": "PM Tarique Rahman meets three inspiring people making a difference in society",
-      "link": "https://www.tbsnews.net/bangladesh/pm-tarique-rahman-meets-three-inspiring-people-making-difference-society-1572951",
-      "pubDate": "Wed, 14 Oct 2026 19:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/14/pm_met_3_people.png",
-      "snippet": "The prime minister praises their contributions to education and the environment, saying people like them are vital to nation-building and promising support for their initiatives."
-    },
-    {
-      "title": "LPG traders withdraw planned 15–16 Oct nationwide strike",
-      "link": "https://www.tbsnews.net/economy/energy/lpg-traders-withdraw-planned-15-16-oct-nationwide-strike-1572846",
-      "pubDate": "Wed, 14 Oct 2026 18:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/10/06/sap_8025_1.jpg",
-      "snippet": "Their demands include an end to alleged administrative harassment, a review of operators’ commission rates and the release of thousands of unused gas cylinders into the domestic supply chain."
-    },
-    {
-      "title": "UNDP can help strengthen parliamentary democracy: JS Speaker",
-      "link": "https://www.tbsnews.net/bangladesh/undp-can-help-strengthen-parliamentary-democracy-js-speaker-1572781",
-      "pubDate": "Wed, 14 Oct 2026 17:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/14/undp_speaker.jpg",
-      "snippet": "During a meeting with UNDP Resident Representative Stephen Rodriques, the Speaker also sought support for Rohingya repatriation and discussed training for new MPs, gender equality and an e-parliament system."
-    },
-    {
-      "title": "Sonali Bank services to remain suspended for 48hrs from tomorrow midnight",
-      "link": "https://www.tbsnews.net/economy/banking/sonali-bank-services-remain-suspended-48hrs-tomorrow-midnight-1572841",
-      "pubDate": "Wed, 14 Oct 2026 17:50:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/06/18/picsart_24-06-18_11-18-21-026.jpg",
-      "snippet": "Bangladesh Bank approved the scheduled downtime through a circular issued today (14 October)."
     },
     {
       "title": "Bangladesh's exports to UK could reach $10b with 1% market share",
@@ -397,7 +419,7 @@
       "snippet": "Those who fail again may enter technical or vocational education."
     },
     {
-      "title": "Sonali Bank lends National Bank Tk7,000cr amid rush of withdrawal requests",
+      "title": "Sonali Bank lends National Bank Tk7,000cr as withdrawal requests hit same amount in 3 days",
       "link": "https://www.tbsnews.net/economy/banking/sonali-bank-lends-national-bank-tk7000cr-withdrawal-requests-hit-similar-amount-3",
       "pubDate": "Tue, 13 Oct 2026 20:05:00 +0600",
       "category": "Banking",
@@ -405,7 +427,7 @@
       "bg": "#e0f2f1",
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/13/gemini_generated_image_lmzn62lmzn62lmzn.jpg",
-      "snippet": "National Bank has secured the three-month loan at 10% interest against a 100% Bangladesh Bank guarantee, while around 7,500 withdrawal requests were submitted in three days."
+      "snippet": "National Bank has received the three-month loan at 10% interest against a 100% Bangladesh Bank guarantee, while depositors have sought to withdraw nearly Tk7,000 crore over three days."
     },
     {
       "title": "Govt cautious on mass dengue vaccination as death rate falls 40%, claims state minister",
@@ -419,7 +441,7 @@
       "snippet": "Globally, two to three dengue vaccines have passed through various stages of clinical trials and received approval for use in around 30 countries, he says."
     },
     {
-      "title": "Cuet VC leaves campus after 30-hour standoff, students demand he never return",
+      "title": "Cuet students let VC Shariful leave campus after 30-hr confinement on condition he never returns",
       "link": "https://www.tbsnews.net/bangladesh/education/cuet-students-let-vc-shariful-leave-campus-after-30-hr-confinement-condition-he",
       "pubDate": "Tue, 13 Oct 2026 19:10:00 +0600",
       "category": "Education",
@@ -427,7 +449,7 @@
       "bg": "#fff3e0",
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/12/received_28772739945753139.jpeg",
-      "snippet": "The crisis began on 22 September, when students launched a shutdown demanding the reinstatement of former vice-chancellor Professor Abu Sadaat Muhammad Sayem."
+      "snippet": "Students declare he will not be allowed back on campus."
     },
     {
       "title": "BSEC toughens rules on cash dividend accounts, eases independent director hiring",
@@ -606,48 +628,15 @@
       "snippet": "LC openings rose 22.37% year-on-year from $6.62 billion in September last year."
     },
     {
-      "title": "Bangladesh must tap marine resources to achieve $1 trillion economy by 2034: Saki",
-      "link": "https://www.tbsnews.net/economy/bangladesh-must-tap-marine-resources-achieve-1-trillion-economy-2034-saki-1570906",
-      "pubDate": "Mon, 12 Oct 2026 23:55:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/30/saki.jpg",
-      "snippet": "The Prime Minister’s Office has a dedicated Blue Economy Cell to improve coordination among institutions working in the sector."
-    },
-    {
-      "title": "DSE extends losses as gas, power shortages weigh on sentiment; DSEX falls 46 points",
-      "link": "https://www.tbsnews.net/economy/stocks/dse-extends-losses-gas-power-shortages-weigh-sentiment-dsex-falls-46-points-1570831",
-      "pubDate": "Mon, 12 Oct 2026 21:45:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/07/dse.jpg",
-      "snippet": "The benchmark DSEX index lost 46.2 points, or about 0.85%, to close at 5,404, down from 5,451 in the previous session."
-    },
-    {
       "title": "BRAC Bank allowed to appoint up to three directors from a single shareholder",
       "link": "https://www.tbsnews.net/economy/banking/brac-bank-allowed-appoint-three-directors-single-shareholder-1570806",
       "pubDate": "Mon, 12 Oct 2026 21:35:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/23/brac_bank_logo_16x9.png",
       "snippet": "Shareholder companies holding 10% to 50% of a bank’s shares can appoint up to three representative directors to its board."
-    },
-    {
-      "title": "Thai business leaders discuss trade, investment with Khosru in Bangkok",
-      "link": "https://www.tbsnews.net/economy/thai-business-leaders-discuss-trade-investment-khosru-bangkok-1570761",
-      "pubDate": "Mon, 12 Oct 2026 21:00:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/12/aminul_haque_7.png",
-      "snippet": "Thai Chamber of Commerce and Board of Trade delegation meets with Finance Minister Amir Khosru Mahmud Chowdhury to explore cooperation in agriculture, healthcare, and manufacturing."
     },
     {
       "title": "Experts call for gender-sensitive chemical safety in textile sector",
@@ -782,5 +771,5 @@
       "snippet": "Behind the shortage is a mismatch between a regulated price and rising costs."
     }
   ],
-  "updatedAt": "2026-10-14T15:54:48.281Z"
+  "updatedAt": "2026-10-14T20:00:27.641Z"
 }
