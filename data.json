@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Bangladesh’s garment industry at a crossroads: Technology and green manufacturing are the way forward",
+      "link": "https://www.tbsnews.net/thoughts/bangladeshs-garment-industry-crossroads-technology-and-green-manufacturing-are-way-forward",
+      "pubDate": "Thu, 15 Oct 2026 03:55:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/15/photo_salahuddin_ahmed.jpg",
+      "snippet": "Bangladesh’s garment industry must embrace automation, green manufacturing and workforce development to improve productivity and compete in a rapidly changing apparel market."
+    },
+    {
+      "title": "Govt to seek nominations for garment wage board as workers protest for Tk30,000 minimum wage",
+      "link": "https://www.tbsnews.net/economy/rmg/govt-seek-nominations-garment-wage-board-workers-protest-tk30000-minimum-wage-1573356",
+      "pubDate": "Thu, 15 Oct 2026 01:20:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/07/20/rmg_rajib-dhar.png",
+      "snippet": "The Department of Labour will seek nominations from garment factory owners and workers today."
+    },
+    {
       "title": "Jamaat factions clash over committee formation in Cumilla, unit secretary's jeep vandalised",
       "link": "https://www.tbsnews.net/bangladesh/politics/jamaat-factions-clash-over-committee-formation-cumilla-unit-secretarys-jeep",
       "pubDate": "Thu, 15 Oct 2026 00:10:00 +0600",
@@ -56,7 +78,18 @@
       "snippet": "Their net profit declined by Tk1,417 crore from Tk3,738 crore in July-December 2025, according to a Bangladesh Bank report."
     },
     {
-      "title": "Man assaulted in Dhanmondi: ASI withdrawn over alleged negligence, one detained",
+      "title": "Bangladesh, Bhutan discuss bilateral cooperation on sidelines of IMF-WB meetings",
+      "link": "https://www.tbsnews.net/economy/banking/bangladesh-bhutan-discuss-bilateral-cooperation-sidelines-imf-wb-meetings-1573301",
+      "pubDate": "Wed, 14 Oct 2026 22:05:00 +0600",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/14/bb.png",
+      "snippet": "Bangladesh Bank Deputy Governor Dr Md Habibur Rahman and RMA Deputy Governor Ms Uygen Choden were also present at the meeting."
+    },
+    {
+      "title": "Man assaulted in Dhanmondi; ASI withdrawn over alleged negligence, one jailed for 15 days",
       "link": "https://www.tbsnews.net/bangladesh/man-assaulted-dhanmondi-asi-withdrawn-over-alleged-negligence-one-detained-1573291",
       "pubDate": "Wed, 14 Oct 2026 22:00:00 +0600",
       "category": "Bangladesh",
@@ -276,6 +309,17 @@
       "snippet": "More than 90% of e-waste collection in Bangladesh is carried out by informal-sector workers."
     },
     {
+      "title": "Sonali Bank services to remain suspended for 48hrs from tomorrow midnight",
+      "link": "https://www.tbsnews.net/economy/banking/sonali-bank-services-remain-suspended-48hrs-tomorrow-midnight-1572841",
+      "pubDate": "Wed, 14 Oct 2026 17:50:00 +0600",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/06/18/picsart_24-06-18_11-18-21-026.jpg",
+      "snippet": "Bangladesh Bank approved the scheduled downtime through a circular issued today (14 October)."
+    },
+    {
       "title": "Bangladesh's exports to UK could reach $10b with 1% market share",
       "link": "https://www.tbsnews.net/economy/bangladeshs-exports-uk-could-reach-10b-1-market-share-1572751",
       "pubDate": "Wed, 14 Oct 2026 17:35:00 +0600",
@@ -419,7 +463,7 @@
       "snippet": "Those who fail again may enter technical or vocational education."
     },
     {
-      "title": "Sonali Bank lends National Bank Tk7,000cr as withdrawal requests hit same amount in 3 days",
+      "title": "Sonali Bank lends National Bank Tk7,000cr amid rush of withdrawal requests",
       "link": "https://www.tbsnews.net/economy/banking/sonali-bank-lends-national-bank-tk7000cr-withdrawal-requests-hit-similar-amount-3",
       "pubDate": "Tue, 13 Oct 2026 20:05:00 +0600",
       "category": "Banking",
@@ -427,7 +471,7 @@
       "bg": "#e0f2f1",
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/13/gemini_generated_image_lmzn62lmzn62lmzn.jpg",
-      "snippet": "National Bank has received the three-month loan at 10% interest against a 100% Bangladesh Bank guarantee, while depositors have sought to withdraw nearly Tk7,000 crore over three days."
+      "snippet": "National Bank has secured the three-month loan at 10% interest against a 100% Bangladesh Bank guarantee, while around 7,500 withdrawal requests were submitted in three days."
     },
     {
       "title": "Govt cautious on mass dengue vaccination as death rate falls 40%, claims state minister",
@@ -441,7 +485,7 @@
       "snippet": "Globally, two to three dengue vaccines have passed through various stages of clinical trials and received approval for use in around 30 countries, he says."
     },
     {
-      "title": "Cuet students let VC Shariful leave campus after 30-hr confinement on condition he never returns",
+      "title": "Cuet VC leaves campus after 30-hour standoff, students demand he never return",
       "link": "https://www.tbsnews.net/bangladesh/education/cuet-students-let-vc-shariful-leave-campus-after-30-hr-confinement-condition-he",
       "pubDate": "Tue, 13 Oct 2026 19:10:00 +0600",
       "category": "Education",
@@ -449,7 +493,7 @@
       "bg": "#fff3e0",
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/12/received_28772739945753139.jpeg",
-      "snippet": "Students declare he will not be allowed back on campus."
+      "snippet": "The crisis began on 22 September, when students launched a shutdown demanding the reinstatement of former vice-chancellor Professor Abu Sadaat Muhammad Sayem."
     },
     {
       "title": "BSEC toughens rules on cash dividend accounts, eases independent director hiring",
@@ -617,17 +661,6 @@
       "snippet": "The forecast is lower than those of other international organisations. The World Bank has projected growth of 3.4% for FY2026-27, while the Asian Development Bank has forecast 4%."
     },
     {
-      "title": "Import LCs rise 22% YoY in Sep as fuel, raw material become costlier",
-      "link": "https://www.tbsnews.net/economy/import-lcs-rise-22-yoy-sep-fuel-raw-material-become-costlier-1570931",
-      "pubDate": "Tue, 13 Oct 2026 00:25:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/09/lc-settlement.png",
-      "snippet": "LC openings rose 22.37% year-on-year from $6.62 billion in September last year."
-    },
-    {
       "title": "BRAC Bank allowed to appoint up to three directors from a single shareholder",
       "link": "https://www.tbsnews.net/economy/banking/brac-bank-allowed-appoint-three-directors-single-shareholder-1570806",
       "pubDate": "Mon, 12 Oct 2026 21:35:00 +0600",
@@ -771,5 +804,5 @@
       "snippet": "Behind the shortage is a mismatch between a regulated price and rising costs."
     }
   ],
-  "updatedAt": "2026-10-14T20:00:27.641Z"
+  "updatedAt": "2026-10-14T23:21:16.263Z"
 }
