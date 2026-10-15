@@ -1,6 +1,61 @@
 {
   "news": [
     {
+      "title": "Fiscal year shift to April-March: Govt seeks time-bound plans to revise laws, regulations, and systems",
+      "link": "https://www.tbsnews.net/economy/fiscal-year-shift-april-march-govt-seeks-time-bound-plans-revise-laws-regulations-and",
+      "pubDate": "Fri, 16 Oct 2026 01:35:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/16/fiscal_year_shift.jpg",
+      "snippet": "The shift from July-June to April-March will require changes to laws, regulations and government systems, with ministries asked to submit time-bound plans by 25 October."
+    },
+    {
+      "title": "AI, power, and the new logic of war",
+      "link": "https://www.tbsnews.net/thoughts/ai-power-and-new-logic-war-1574396",
+      "pubDate": "Fri, 16 Oct 2026 01:35:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/16/11_sci-tech_0_0.jpg",
+      "snippet": "Legal systems must remain capable of scrutiny, explanation, and redress, even when technology advances faster than legislation"
+    },
+    {
+      "title": "Bangladesh seeks $4.5b IMF loan in 6 instalments through 2029",
+      "link": "https://www.tbsnews.net/economy/bangladesh-seeks-45b-imf-loan-6-instalments-through-2029-1574386",
+      "pubDate": "Fri, 16 Oct 2026 00:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/10/12/imf-bd.png",
+      "snippet": "Bangladesh hopes to reach an IMF loan agreement by year-end, with revenue mobilisation and banking reforms among the key priorities in ongoing discussions."
+    },
+    {
+      "title": "6 arrested over 'question leak' in Department of Youth Development recruitment exam",
+      "link": "https://www.tbsnews.net/bangladesh/crime/6-arrested-over-question-leak-department-youth-development-recruitment-exam-1574381",
+      "pubDate": "Thu, 15 Oct 2026 23:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/09/01/1660100471-four-arrested-with-hoarded-diesel-stock-l.jpg",
+      "snippet": "Large number of admit cards, stamps and bank cheques recovered; SRB-3 to brief the media tomorrow."
+    },
+    {
+      "title": "Sajek Valley travel ban lifted, tourists allowed from 16 Oct",
+      "link": "https://www.tbsnews.net/bangladesh/sajek-valley-travel-ban-lifted-tourists-allowed-16-oct-1574376",
+      "pubDate": "Thu, 15 Oct 2026 23:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/15/rangamati_sajek-01.jpg",
+      "snippet": "The restriction came amid concerns over a possible deterioration in law and order following an announced blockade in Sajek."
+    },
+    {
       "title": "'Taking sides in other parties' internal disputes goes against principles': AB Party suspends Cumilla convener over Jamaat office clash",
       "link": "https://www.tbsnews.net/bangladesh/politics/taking-sides-other-parties-internal-disputes-goes-against-principles-ab-party",
       "pubDate": "Thu, 15 Oct 2026 22:05:00 +0600",
@@ -185,7 +240,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/07/14/hunger.jpg",
-      "snippet": "In Bangladesh, 8.2% of the population is undernourished, while 24% of children under five suffer from stunting, or low height for their age."
+      "snippet": "Despite the slowdown, Bangladesh outperformed India and Pakistan, which scored 24.1 and 25.5, respectively, both falling in the 'serious' hunger category."
     },
     {
       "title": "Durga Puja: BGB setting up 18 base camps to secure 1,800 border-area puja mandaps",
@@ -197,39 +252,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/15/bgb_puja.jpg",
       "snippet": "More than 6,000 SRB members and 2,12,818 Ansar-VDP personnel have been deployed nationwide, with thousands assigned to patrols and emergency response teams on standby."
-    },
-    {
-      "title": "Panchabati-Muktarpur elevated road to open by December: Minister",
-      "link": "https://www.tbsnews.net/bangladesh/panchabati-muktarpur-elevated-road-open-december-minister-1574186",
-      "pubDate": "Thu, 15 Oct 2026 20:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/15/840515481_1675566247457119_6187132237753057281_n.jpg",
-      "snippet": "Shaikh Robiul Alam says the project is nearing completion, with authorities also considering adjustments to tolls on the Muktarpur Bridge."
-    },
-    {
-      "title": "Court freezes Tk19.47cr in 83 bank accounts of ex-SB chief Monirul, family",
-      "link": "https://www.tbsnews.net/bangladesh/court/court-freezes-tk1947cr-83-bank-accounts-ex-sb-chief-monirul-family-1574176",
-      "pubDate": "Thu, 15 Oct 2026 20:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/03/14/monirul_islam.jpg",
-      "snippet": "The former SB chief allegedly took over two NGOs after labelling them militant-linked and siphoned off Tk25 crore."
-    },
-    {
-      "title": "5 arrested over robbery at former ASP's house in Mirsarai",
-      "link": "https://www.tbsnews.net/bangladesh/crime/5-arrested-over-robbery-former-asps-house-mirsarai-1574161",
-      "pubDate": "Thu, 15 Oct 2026 20:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/15/arrested.jpg",
-      "snippet": "Police seized a locally made firearm, four cartridges, two large machetes and a truck allegedly used in the robbery, in which valuables worth Tk16.4 lakh were looted."
     },
     {
       "title": "Dhaka Medical College Hospital performs 100 cataract surgeries with Chinese support",
@@ -419,7 +441,7 @@
       "snippet": "Bangladesh’s garment industry must embrace automation, green manufacturing and workforce development to improve productivity and compete in a rapidly changing apparel market."
     },
     {
-      "title": "Govt to seek nominations for garment wage board as workers protest for Tk30,000 minimum wage",
+      "title": "Govt moves to form RMG wage board amid Tk30,000 minimum pay demand",
       "link": "https://www.tbsnews.net/economy/rmg/govt-seek-nominations-garment-wage-board-workers-protest-tk30000-minimum-wage-1573356",
       "pubDate": "Thu, 15 Oct 2026 01:20:00 +0600",
       "category": "Economy",
@@ -427,7 +449,7 @@
       "bg": "#e8f5e9",
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/07/20/rmg_rajib-dhar.png",
-      "snippet": "The Department of Labour will seek nominations from garment factory owners and workers today."
+      "snippet": "Garment owners suspect sabotage behind sudden worker protests, roadblocks"
     },
     {
       "title": "Growth trap, 16-year high inflation signal deepening crisis for Bangladesh, economists warn",
@@ -813,29 +835,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/13/848525017_1670674534705919_380682218665118279_n.jpg",
       "snippet": "The next stage is testing the reactor at various power levels, followed by connection of the unit to the national power grid, says the Embassy of Russia in Bangladesh."
-    },
-    {
-      "title": "Gold prices fall by Tk3,266 per bhori in Bangladesh",
-      "link": "https://www.tbsnews.net/economy/gold-prices-fall-tk3266-bhori-bangladesh-1571191",
-      "pubDate": "Tue, 13 Oct 2026 12:45:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/29/6701854.jpg",
-      "snippet": "Bajus has also lowered silver ornament prices. A bhori of 22-carat silver will now cost Tk4,199, down Tk117."
-    },
-    {
-      "title": "IMF cites AI slowdown, spiking yields as looming global market risks",
-      "link": "https://www.tbsnews.net/economy/imf-cites-ai-slowdown-spiking-yields-looming-global-market-risks-1571176",
-      "pubDate": "Tue, 13 Oct 2026 12:40:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/13/rf6hie3mhbndpg6mwcxft2ybhi.jpg",
-      "snippet": "The IMF said AI investment had so far helped offset economic headwinds from the war in the Middle East and broader policy uncertainty."
     }
   ],
-  "updatedAt": "2026-10-15T17:37:45.454Z"
+  "updatedAt": "2026-10-15T20:59:14.525Z"
 }
