@@ -1,6 +1,83 @@
 {
   "news": [
     {
+      "title": "Rajshahi University student’s car kills autorickshaw driver, injures 3",
+      "link": "https://www.tbsnews.net/bangladesh/rajshahi-university-students-car-kills-autorickshaw-driver-injures-3-1574976",
+      "pubDate": "Sat, 17 Oct 2026 01:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/06/dead_2.jpg",
+      "snippet": "The accident occurred around 2:30pm near the Shaheed Minar in the city's Talaimari area, police said."
+    },
+    {
+      "title": "Only 6 of 15 attend Cuet VC's emergency syndicate meeting",
+      "link": "https://www.tbsnews.net/bangladesh/education/only-6-15-attend-cuet-vcs-emergency-syndicate-meeting-1574971",
+      "pubDate": "Sat, 17 Oct 2026 01:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/17/cuet-vc.jpg",
+      "snippet": "University recommends high-powered committee to resolve campus impasse."
+    },
+    {
+      "title": "Former additional secretary found dead at Officers' Club construction site",
+      "link": "https://www.tbsnews.net/bangladesh/former-additional-secretary-found-dead-officers-club-construction-site-1574966",
+      "pubDate": "Sat, 17 Oct 2026 01:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/28/dead_2.png",
+      "snippet": "Police say he may have fallen from the third floor."
+    },
+    {
+      "title": "Ctg restaurants continue Foodpanda boycott over charges of up to 35%; riders in trouble ",
+      "link": "https://www.tbsnews.net/bangladesh/ctg-restaurants-continue-foodpanda-boycott-over-charges-35-riders-trouble-1574961",
+      "pubDate": "Sat, 17 Oct 2026 01:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/17/foodpanda.jpg",
+      "snippet": ""
+    },
+    {
+      "title": "BNP sells 67 nomination forms for Mishti's vacant reserved seat",
+      "link": "https://www.tbsnews.net/bangladesh/politics/bnp-sells-67-nomination-forms-mishtis-vacant-reserved-seat-1574956",
+      "pubDate": "Sat, 17 Oct 2026 00:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/17/bnp-reserved-seat.jpg",
+      "snippet": "By-election scheduled for 12 November after Mishti's resignation"
+    },
+    {
+      "title": "KNS Canada suspends FibroScan services with Popular Diagnostic",
+      "link": "https://www.tbsnews.net/bangladesh/health/kns-canada-suspends-fibroscan-services-popular-diagnostic-1574951",
+      "pubDate": "Fri, 16 Oct 2026 23:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/17/popular-diagonestic.jpg",
+      "snippet": "Company cites concerns over equipment, calibration and operator qualifications."
+    },
+    {
+      "title": "4 out of 5 secondary English, math teachers lack subject-specific degrees",
+      "link": "https://www.tbsnews.net/bangladesh/education/4-out-5-secondary-english-math-teachers-lack-subject-specific-degrees-1574941",
+      "pubDate": "Fri, 16 Oct 2026 23:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/16/secondary_education.png",
+      "snippet": "According to Bangladesh Education Statistics 2025, only 12,893 of the 64,253 English teachers and 9,918 of the 67,697 mathematics teachers hold higher degrees in their respective subjects."
+    },
+    {
       "title": "Durga Puja carries an eternal call for justice and humanity: President",
       "link": "https://www.tbsnews.net/bangladesh/durga-puja-carries-eternal-call-justice-and-humanity-president-1574936",
       "pubDate": "Fri, 16 Oct 2026 22:10:00 +0600",
@@ -19,7 +96,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/15/dengue.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/17/smart-trap.jpg",
       "snippet": "Named MAST-CloudNet, the device attracts mosquitoes using sound, photographs captured insects and uses AI to determine whether they belong to the Aedes genus."
     },
     {
@@ -133,46 +210,24 @@
       "snippet": "Iftekharuzzaman criticised the repeal of ordinances concerning the Supreme Court Secretariat and judicial appointments, saying the moves undermined judicial independence."
     },
     {
-      "title": "Govt to take steps to bring dengue vaccine, Dhaka South administrator says",
-      "link": "https://www.tbsnews.net/bangladesh/govt-take-steps-bring-dengue-vaccine-dhaka-south-administrator-says-1574841",
-      "pubDate": "Fri, 16 Oct 2026 19:50:00 +0600",
+      "title": "Durga Puja begins with invocation of Goddess ",
+      "link": "https://www.tbsnews.net/bangladesh/durga-puja-begins-invocation-goddess-1574981",
+      "pubDate": "Fri, 16 Oct 2026 19:55:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/16/dhaka_south_admin.jpg",
-      "snippet": "The administrator also proposed using fines collected during dengue prevention drives to support families of people who die from the disease."
-    },
-    {
-      "title": "Satkhira fish farm owner beaten to death on suspicion of stealing fish",
-      "link": "https://www.tbsnews.net/bangladesh/satkhira-fish-farm-owner-beaten-death-suspicion-stealing-fish-1574806",
-      "pubDate": "Fri, 16 Oct 2026 19:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/16/tala_upazila_health.jpg",
-      "snippet": "The victim’s cousin alleged that attackers tied him to a tree, broke his limbs and hacked him on the head; police said legal action would follow."
-    },
-    {
-      "title": "PM urges Hindu community to celebrate Durga Puja with sense of security",
-      "link": "https://www.tbsnews.net/bangladesh/pm-urges-hindu-community-celebrate-durga-puja-sense-security-1574811",
-      "pubDate": "Fri, 16 Oct 2026 19:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/26/8076919.jpg",
-      "snippet": "The prayers for the destruction of malevolent forces and the devotion to truth and beauty have given a unique significance to the Sharadiya Durga Puja, he says."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/17/durga-puja.jpg",
+      "snippet": "The six-day festival will continue till October 21."
     },
     {
       "title": "29% of highly educated Bangladeshi youth unemployed, half work below qualifications: IMF",
       "link": "https://www.tbsnews.net/bangladesh/29-highly-educated-bangladeshi-youth-unemployed-half-work-below-qualifications-imf",
       "pubDate": "Fri, 16 Oct 2026 19:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/10/26/unemployment.jpg",
       "snippet": "The IMF warns that skills mismatches, limited quality jobs and AI-driven changes in hiring are compounding employment challenges for young Bangladeshis."
     },
@@ -186,50 +241,6 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/16/teesta_solar_plant_project_1.jpg",
       "snippet": "Public money should concentrate on things no individual entrepreneur can sensibly provide, and it should anticipate how the market it helps create may change"
-    },
-    {
-      "title": "Jubo Dal leader hacked to death in Cumilla over land dispute",
-      "link": "https://www.tbsnews.net/bangladesh/jubo-dal-leader-hacked-death-cumilla-1574786",
-      "pubDate": "Fri, 16 Oct 2026 18:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/16/cumilla_jobo_dal.jpg",
-      "snippet": "An auto-rickshaw driver was also seriously injured in the attack, while angry locals vandalised and set fire to the house of a man accused of involvement in the killing."
-    },
-    {
-      "title": "Youth Development exam question leak: All involved will face action, says Aminul",
-      "link": "https://www.tbsnews.net/bangladesh/youth-development-exam-question-leak-all-involved-will-face-action-says-aminul-1574771",
-      "pubDate": "Fri, 16 Oct 2026 18:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/16/aminul_sate_minister.jpg",
-      "snippet": "The state minister says he will personally oversee the recruitment process until results are published, after six people were arrested over the alleged question-paper leak."
-    },
-    {
-      "title": "Former Shahjalal Islami Bank chairman arrested in Gulshan",
-      "link": "https://www.tbsnews.net/bangladesh/former-shahjalal-islami-bank-chairman-arrested-gulshan-1574816",
-      "pubDate": "Fri, 16 Oct 2026 18:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/16/shahjalal_islami_bank_formar_chairman.jpg",
-      "snippet": "Jumma had an arrest warrant against him and was detained accordingly."
-    },
-    {
-      "title": "'We must focus on the struggle of life': Anee urges unity to overcome poverty, hardship",
-      "link": "https://www.tbsnews.net/bangladesh/we-must-focus-struggle-life-anee-urges-unity-overcome-poverty-hardship-1574756",
-      "pubDate": "Fri, 16 Oct 2026 18:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/16/water_anee.jpg",
-      "snippet": "The water resources minister says the country must preserve its return to normal life and strengthen democracy through unity and cooperation."
     },
     {
       "title": "Dengue: Death toll rises to 335 as 4 more die in 24hrs",
@@ -714,18 +725,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/14/house_crow_2_0.jpg",
       "snippet": "As waste management drives intensify, birds that have adapted to urban life are struggling to readapt to their natural habitats. Dhaka is becoming cleaner and healthier for people, but less hospitable to many bird species"
-    },
-    {
-      "title": "Bangladesh pledges faster project delivery to secure $10b in WB loans",
-      "link": "https://www.tbsnews.net/economy/bangladesh-pledges-faster-project-delivery-secure-10b-wb-loans-1572111",
-      "pubDate": "Wed, 14 Oct 2026 01:15:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/14/bangladesh-world-bank.png",
-      "snippet": "The additional funding will cushion the economy against global shocks by financing critical energy and fertiliser subsidies."
     }
   ],
-  "updatedAt": "2026-10-16T17:37:53.730Z"
+  "updatedAt": "2026-10-16T20:34:16.611Z"
 }
