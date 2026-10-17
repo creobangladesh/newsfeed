@@ -1,6 +1,94 @@
 {
   "news": [
     {
+      "title": "Suspected criminal shot dead in Rajbari ",
+      "link": "https://www.tbsnews.net/bangladesh/criminal-shot-dead-rajbari-1575116",
+      "pubDate": "Sat, 17 Oct 2026 11:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/05/05/death.jpg",
+      "snippet": "Later, he was taken to Rajbari Sadar Hospital, where the doctors declared him dead."
+    },
+    {
+      "title": "PM visits hospitals and educational institutions to assess the dengue situation",
+      "link": "https://www.tbsnews.net/bangladesh/pm-visits-hospitals-and-educational-institutions-assess-dengue-situation-1575076",
+      "pubDate": "Sat, 17 Oct 2026 11:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/17/hospital_visit.jpg",
+      "snippet": "On 12 September, the prime minister launched a three-month special campaign to prevent dengue, featuring cleanliness drives and public awareness activities."
+    },
+    {
+      "title": "27,000 fires annually: Poor infrastructure, electrical faults cost Bangladesh Tk600cr",
+      "link": "https://www.tbsnews.net/bangladesh/27000-fires-annually-poor-infrastructure-electrical-faults-cost-bangladesh-tk600cr",
+      "pubDate": "Sat, 17 Oct 2026 10:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/04/df836903-4069-40d0-9e1c-4273cc975e59.jpeg",
+      "snippet": "The capital and its surrounding areas bear the heaviest burden, with Dhaka division recording the highest number of fires, while March is the most fire-prone month."
+    },
+    {
+      "title": "6 dead as fire destroys Cox's Bazar resort, more casualties feared",
+      "link": "https://www.tbsnews.net/bangladesh/five-bodies-recovered-after-fire-resort-coxs-bazar-1575056",
+      "pubDate": "Sat, 17 Oct 2026 10:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/17/whatsapp_image_2026-10-17_at_11.04.52_am.jpeg",
+      "snippet": "The fire broke out around 7am at the resort in the Patuartek beach area along Marine Drive, leaving the resort in ruins."
+    },
+    {
+      "title": "Health ministry directs hospitals, medical colleges to buy books on Zia, Khaleda",
+      "link": "https://www.tbsnews.net/bangladesh/politics/health-ministry-directs-hospitals-medical-colleges-buy-books-zia-khaleda-1575046",
+      "pubDate": "Sat, 17 Oct 2026 10:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/17/ziaur_rahman_khaleda_zia.jpg",
+      "snippet": "The Health Services Division issued the directive on 27 September, instructing departmental heads under the ministry to take immediate action."
+    },
+    {
+      "title": "Transport, tech, energy: Bangladesh to seek $14b investment from Japan during PM's visit",
+      "link": "https://www.tbsnews.net/foreign-policy/transport-tech-energy-bangladesh-seek-14b-investment-japan-during-pms-visit-1575021",
+      "pubDate": "Sat, 17 Oct 2026 10:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/17/pm_bd_japan.jpg",
+      "snippet": "The initiatives seek to deepen bilateral ties through a mix of concessional loans, private investment, and public-private partnerships."
+    },
+    {
+      "title": "Bangladesh is battling measles. It's a 'real warning' to other nations",
+      "link": "https://www.tbsnews.net/bangladesh/health/bangladesh-battling-measles-its-real-warning-other-nations-1575006",
+      "pubDate": "Sat, 17 Oct 2026 08:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/17/bangaldesh_measles.png",
+      "snippet": "Bangladesh is battling to contain the world’s worst measles outbreak, a crisis exacerbated by weak data, inadequate outreach and vaccination gaps that experts say offer a warning to other nations about the deadly risk of falling immunisation rates"
+    },
+    {
+      "title": "EV demand rises, but charging and support networks lag behind",
+      "link": "https://www.tbsnews.net/bangladesh/ev-demand-rises-charging-and-support-networks-lag-behind-1574986",
+      "pubDate": "Sat, 17 Oct 2026 07:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/06/02/ezgif-5-eb275714f676.jpg",
+      "snippet": "EV sales started gaining momentum in 2025, although vehicle registration started in September 2022, according to officials at the Bangladesh Road Transport Authority (BRTA)"
+    },
+    {
       "title": "Rajshahi University student’s car kills autorickshaw driver, injures 3",
       "link": "https://www.tbsnews.net/bangladesh/rajshahi-university-students-car-kills-autorickshaw-driver-injures-3-1574976",
       "pubDate": "Sat, 17 Oct 2026 01:50:00 +0600",
@@ -133,92 +221,15 @@
       "snippet": "A visit to the kitchen markets in Hatirpool, New Market and Lalbagh on Friday (16 October) found Chinese ginger selling at Tk190 per kg, up from Tk130-140 last Wednesday."
     },
     {
-      "title": "CCC conducts eviction drive to preserve beauty of Patenga Sea Beach",
-      "link": "https://www.tbsnews.net/bangladesh/ccc-conducts-eviction-drive-preserve-beauty-patenga-sea-beach-1574906",
-      "pubDate": "Fri, 16 Oct 2026 21:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/16/ccc.jpg",
-      "snippet": "Officials stated that such eviction drives would continue to preserve the natural beauty and environment of Patenga Sea Beach."
-    },
-    {
-      "title": "Jamaat dissolves Cumilla city unit in aftermath of after two faction’s clash",
-      "link": "https://www.tbsnews.net/bangladesh/politics/jamaat-dissolves-cumilla-city-unit-aftermath-after-two-factions-clash-1574911",
-      "pubDate": "Fri, 16 Oct 2026 21:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/05/13/tbs_0.jpg",
-      "snippet": "Probe body formed."
-    },
-    {
-      "title": "Govt to fund young talents to attend UN conference: Mahdi Amin",
-      "link": "https://www.tbsnews.net/bangladesh/govt-fund-young-talents-attend-un-conference-mahdi-amin-1574901",
-      "pubDate": "Fri, 16 Oct 2026 21:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/16/mahdi_amin_2.jpg",
-      "snippet": "The adviser says winners of a nationwide competition will receive government funding to attend an international conference at the UN headquarters in New York from next year."
-    },
-    {
-      "title": "SRB recovers 8 crude bomb-like objects in Jashore; suspects flee",
-      "link": "https://www.tbsnews.net/bangladesh/crime/srb-recovers-8-crude-bomb-objects-jashore-suspects-flee-1574896",
-      "pubDate": "Fri, 16 Oct 2026 21:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/16/crude-bomb-like.jpg",
-      "snippet": "An SRB-6 commander suspects the objects may have been intended for sabotage during the upcoming Durga Puja celebrations."
-    },
-    {
       "title": "Zero tolerance for health sector corruption: State minister",
       "link": "https://www.tbsnews.net/bangladesh/health/zero-tolerance-health-sector-corruption-state-minister-1574891",
       "pubDate": "Fri, 16 Oct 2026 21:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/16/state_minister_for_health.jpg",
       "snippet": "Government pledges transparent spending on doctors, nurses, medicines and treatment."
-    },
-    {
-      "title": "'Questions photographed at dawn, answers ready by morning': 5 govt employees among 7 held over youth dev exam paper leak",
-      "link": "https://www.tbsnews.net/bangladesh/crime/questions-photographed-dawn-answers-ready-morning-5-govt-employees-among-7-arrested",
-      "pubDate": "Fri, 16 Oct 2026 20:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/16/qusetion_leak.jpg",
-      "snippet": "Candidates were charged Tk8 lakh to Tk10 lakh each for leaked questions, SRB said."
-    },
-    {
-      "title": "Power politics, bureaucratic resistance hold state reforms hostage: TIB",
-      "link": "https://www.tbsnews.net/bangladesh/power-politics-bureaucratic-resistance-hold-state-reforms-hostage-tib-1574871",
-      "pubDate": "Fri, 16 Oct 2026 20:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/16/tib.jpg",
-      "snippet": "Iftekharuzzaman criticised the repeal of ordinances concerning the Supreme Court Secretariat and judicial appointments, saying the moves undermined judicial independence."
-    },
-    {
-      "title": "Durga Puja begins with invocation of Goddess ",
-      "link": "https://www.tbsnews.net/bangladesh/durga-puja-begins-invocation-goddess-1574981",
-      "pubDate": "Fri, 16 Oct 2026 19:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/17/durga-puja.jpg",
-      "snippet": "The six-day festival will continue till October 21."
     },
     {
       "title": "29% of highly educated Bangladeshi youth unemployed, half work below qualifications: IMF",
@@ -727,5 +738,5 @@
       "snippet": "As waste management drives intensify, birds that have adapted to urban life are struggling to readapt to their natural habitats. Dhaka is becoming cleaner and healthier for people, but less hospitable to many bird species"
     }
   ],
-  "updatedAt": "2026-10-17T01:25:10.181Z"
+  "updatedAt": "2026-10-17T05:55:41.883Z"
 }
