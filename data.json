@@ -1,7 +1,117 @@
 {
   "news": [
     {
-      "title": "Cenbank flags 22 unlicensed payment platforms over data theft, fraud risks",
+      "title": "BGB sepoy arrested with yaba pills in Brahmanbaria",
+      "link": "https://www.tbsnews.net/bangladesh/bgb-sepoy-arrested-yaba-pills-brahmanbaria-1577021",
+      "pubDate": "Mon, 19 Oct 2026 00:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/07/04/arrest-1579498383.jpg",
+      "snippet": "Police are preparing a case under the Narcotics Control Act."
+    },
+    {
+      "title": "Citizen Land Service Centre opens in Paltan to offer free assistance",
+      "link": "https://www.tbsnews.net/bangladesh/citizen-land-service-centre-opens-paltan-offer-free-assistance-1577011",
+      "pubDate": "Mon, 19 Oct 2026 00:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/19/citizen_land_service_centre.jpg",
+      "snippet": "The assistance will be free, though applicable government fees for individual services may still apply."
+    },
+    {
+      "title": "Padma Oil's rejoinder, our reply",
+      "link": "https://www.tbsnews.net/bangladesh/padma-oils-rejoinder-our-reply-1577006",
+      "pubDate": "Mon, 19 Oct 2026 00:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/04/26/padma.jpg",
+      "snippet": "In its rejoinder, the state-owned company said its dollar transactions complied with applicable laws, rules and government directives and caused no financial loss to the state."
+    },
+    {
+      "title": "Citizenship, not religion, should guide nation-building: PM",
+      "link": "https://www.tbsnews.net/bangladesh/citizenship-not-religion-should-guide-nation-building-pm-1577001",
+      "pubDate": "Mon, 19 Oct 2026 00:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/19/852600408_933455472963621_5186132788918293747_n.jpg",
+      "snippet": "“Muslims, Hindus, Buddhists and Christians — all those who love this country joined together to liberate it,” he said."
+    },
+    {
+      "title": "Cabinet approves renaming of 'Ministry of Women and Children Affairs'",
+      "link": "https://www.tbsnews.net/bangladesh/cabinet-approves-renaming-ministry-women-and-children-affairs-1576991",
+      "pubDate": "Sun, 18 Oct 2026 23:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/screenshot_2026-10-18_235700.png",
+      "snippet": "The ministry was established as the Ministry of Women’s Affairs on 9 November 1989, and was renamed the Ministry of Women and Children Affairs on 5 May 1994."
+    },
+    {
+      "title": "Cabinet approves draft ordinance to boost rooftop solar power installations",
+      "link": "https://www.tbsnews.net/bangladesh/cabinet-approves-draft-ordinance-boost-rooftop-solar-power-installations-1576981",
+      "pubDate": "Sun, 18 Oct 2026 23:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/screenshot_2026-10-18_234958.png",
+      "snippet": "Cabinet Secretary Nasimul Ghani briefed reporters after the meeting."
+    },
+    {
+      "title": "PM to participate in World Leaders' Summit in Turkiye in November",
+      "link": "https://www.tbsnews.net/bangladesh/pm-participate-world-leaders-summit-turkiye-november-1576986",
+      "pubDate": "Sun, 18 Oct 2026 23:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/shama_obaed.jpg",
+      "snippet": "Shama Obaed also congratulates Türkiye on hosting COP31, which is scheduled to be held in Antalya from November 9-20."
+    },
+    {
+      "title": "Ishraque's armed antics during anti-drug drive put BNP in awkward position",
+      "link": "https://www.tbsnews.net/bangladesh/ishraques-armed-antics-during-anti-drug-drive-put-bnp-awkward-position-1576971",
+      "pubDate": "Sun, 18 Oct 2026 23:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/17/38454539-caa0-415c-a511-5f2257d6fe0f.jpg",
+      "snippet": "Although there is support for efforts to curb drug trafficking, the minister’s actions have reportedly put the government in an uncomfortable position."
+    },
+    {
+      "title": "20 special committees formed to implement PM's directives in Dhaka",
+      "link": "https://www.tbsnews.net/bangladesh/20-special-committees-formed-implement-pms-directives-dhaka-1576966",
+      "pubDate": "Sun, 18 Oct 2026 23:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/screenshot_2026-10-18_233703.png",
+      "snippet": "Executive magistrates will also be assigned to the committees."
+    },
+    {
+      "title": "Report claims PM ordered Ishraque to resign; state minister says not true",
+      "link": "https://www.tbsnews.net/bangladesh/pm-orders-state-minister-ishraque-resign-after-anti-drug-raid-gun-1576946",
+      "pubDate": "Sun, 18 Oct 2026 22:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/850871215_1113103444408423_2441205060982729532_n.png",
+      "snippet": "The reported directive came a day after a video of the state minister carrying a firearm during an anti-drug operation sparked controversy."
+    },
+    {
+      "title": "Cenbank warns against 22 unlicensed payment platforms, unauthorised loan apps",
       "link": "https://www.tbsnews.net/economy/banking/cenbank-flags-22-unlicensed-payment-platforms-over-data-theft-fraud-risks-1576931",
       "pubDate": "Sun, 18 Oct 2026 22:00:00 +0600",
       "category": "Bangladesh",
@@ -89,8 +199,8 @@
       "snippet": "The benchmark DSEX index fell 10 points to 5,422, while the blue-chip DS30 index shed 4 points to 2,085."
     },
     {
-      "title": "Tuptup Resort fire: 10 victims' DNA samples sent to Dhaka",
-      "link": "https://www.tbsnews.net/bangladesh/tuptup-resort-fire-10-victims-dna-samples-sent-dhaka-1576886",
+      "title": "DNA tests may take 3-4 weeks to identify 10 Cox’s Bazar resort fire victims",
+      "link": "https://www.tbsnews.net/bangladesh/dna-tests-may-take-3-4-weeks-identify-10-coxs-bazar-resort-fire-victims-1576886",
       "pubDate": "Sun, 18 Oct 2026 21:35:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
@@ -100,7 +210,7 @@
       "snippet": "Tests expected to help identify victims of Cox’s Bazar blaze."
     },
     {
-      "title": "WB president warns of 800 million global job gap, champions smart development and private capital",
+      "title": "1.2 billion jobseekers, 400 million jobs: WB chief warns of gap",
       "link": "https://www.tbsnews.net/economy/wb-president-warns-80-cr-global-job-gap-champions-smart-development-and-private-capital",
       "pubDate": "Sun, 18 Oct 2026 21:25:00 +0600",
       "category": "Economy",
@@ -125,111 +235,34 @@
       "title": "State minister vows full support for Muslin research, urges tech handover to entrepreneurs",
       "link": "https://www.tbsnews.net/economy/state-minister-vows-full-support-muslin-research-urges-tech-handover-entrepreneurs-1576846",
       "pubDate": "Sun, 18 Oct 2026 21:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/4672611.jpg",
       "snippet": "He said one of the key responsibilities now is to take the technology for producing the revived Muslin to private entrepreneurs."
-    },
-    {
-      "title": "BTMA seeks continuation of bank guarantee system for yarn imports",
-      "link": "https://www.tbsnews.net/bangladesh/btma-seeks-continuation-bank-guarantee-system-yarn-imports-1576826",
-      "pubDate": "Sun, 18 Oct 2026 20:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/yarn.jpg",
-      "snippet": "The association said implementing the proposals would help protect investment and production capacity in the domestic spinning industry, create jobs, facilitate bank loan recovery, and support export growth."
-    },
-    {
-      "title": "AI integration vital to boost youth participation, financial inclusion in capital market: BSEC commissioner",
-      "link": "https://www.tbsnews.net/bangladesh/ai-integration-vital-boost-youth-participation-financial-inclusion-capital-market-bsec",
-      "pubDate": "Sun, 18 Oct 2026 20:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/5314347.jpg",
-      "snippet": "Highlighting the shifting consumer landscape, Tarik pointed out that the financial needs and lifestyles of Generation Z and upcoming generations are evolving rapidly."
     },
     {
       "title": "Measles: Death toll at 1,196 as 7 more children die",
       "link": "https://www.tbsnews.net/bangladesh/measles-death-toll-1196-7-more-children-die-1576816",
       "pubDate": "Sun, 18 Oct 2026 20:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/11/measles_tbs.jpeg",
       "snippet": "1,258 new suspected cases reported in the latest 24-hour period."
-    },
-    {
-      "title": "Govt treading previous autocratic path: Jamaat ameer",
-      "link": "https://www.tbsnews.net/bangladesh/govt-treading-previous-autocratic-path-jamaat-ameer-1576806",
-      "pubDate": "Sun, 18 Oct 2026 20:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/shafiqur_jamat.jpg",
-      "snippet": "Jamaat chief alleges political interference in constitutional institutions, preferential allocations for ruling party MPs, and a reversal of the July Revolution’s goals."
-    },
-    {
-      "title": "Ekushey Book Fair to begin on 7 January",
-      "link": "https://www.tbsnews.net/bangladesh/ekushey-book-fair-begin-7-january-1576761",
-      "pubDate": "Sun, 18 Oct 2026 19:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/20240220_rajibdhar_0745_0_1.jpg",
-      "snippet": "Publishers’ representatives unanimously agree on the 2027 fair dates."
-    },
-    {
-      "title": "MyTV chairman shown arrested in July uprising killing case",
-      "link": "https://www.tbsnews.net/bangladesh/mytv-chairman-shown-arrested-july-uprising-killing-case-1576776",
-      "pubDate": "Sun, 18 Oct 2026 19:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/847006126_2121921991748860_3025779448580967180_n_1.jpg",
-      "snippet": "Pappu Chowdhury was shot during a demonstration in front of Donia College in Dhaka on 4 August 2024 and died in hospital the following day."
     },
     {
       "title": "Dengue claims 6 more lives, 2,088 hospitalised in 24 hours",
       "link": "https://www.tbsnews.net/bangladesh/dengue-claims-6-more-lives-2088-hospitalised-24-hours-1576741",
       "pubDate": "Sun, 18 Oct 2026 19:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/25/05_news_copy.png",
       "snippet": "The latest fatalities take the country’s dengue death toll to 348 this year, with total cases reaching 1,12,400."
-    },
-    {
-      "title": "Secretariat to move to Sher-e-Bangla Nagar by 2029",
-      "link": "https://www.tbsnews.net/bangladesh/secretariat-move-sher-e-bangla-nagar-2029-1576746",
-      "pubDate": "Sun, 18 Oct 2026 19:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/24/secretariat_1.jpeg",
-      "snippet": "The proposed complex will cover around 31.58 acres and comprise 14 12-storey buildings, each with three basement levels, providing approximately 3.316 million square feet of office space. It will have parking facilities for 3,800 vehicles."
-    },
-    {
-      "title": "Shariful pledges support for muslin research, technology transfer",
-      "link": "https://www.tbsnews.net/bangladesh/shariful-pledges-support-muslin-research-technology-transfer-1576726",
-      "pubDate": "Sun, 18 Oct 2026 19:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/image-436323-1792329444.jpg",
-      "snippet": "Shariful said one of the key responsibilities now was to make the technology for producing revived muslin available to private entrepreneurs."
     },
     {
       "title": "Tk560cr disbursed under factory revival scheme, but BGMEA units still await funds",
@@ -639,5 +672,5 @@
       "snippet": "Legal systems must remain capable of scrutiny, explanation, and redress, even when technology advances faster than legislation"
     }
   ],
-  "updatedAt": "2026-10-18T16:22:06.703Z"
+  "updatedAt": "2026-10-18T18:47:18.589Z"
 }
