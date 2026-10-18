@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "COP31: Bangladesh’s test of climate diplomacy ",
+      "link": "https://www.tbsnews.net/thoughts/cop31-bangladeshs-test-climate-diplomacy-1577046",
+      "pubDate": "Mon, 19 Oct 2026 01:35:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/19/uncc.jpg",
+      "snippet": "Bangladesh no longer needs to prove its climate vulnerability. The next challenge is to prove that it can turn vulnerability into evidence, evidence into alliances, and alliances into finance and action"
+    },
+    {
       "title": "BGB sepoy arrested with yaba pills in Brahmanbaria",
       "link": "https://www.tbsnews.net/bangladesh/bgb-sepoy-arrested-yaba-pills-brahmanbaria-1577021",
       "pubDate": "Mon, 19 Oct 2026 00:40:00 +0600",
@@ -67,17 +78,6 @@
       "snippet": "Cabinet Secretary Nasimul Ghani briefed reporters after the meeting."
     },
     {
-      "title": "PM to participate in World Leaders' Summit in Turkiye in November",
-      "link": "https://www.tbsnews.net/bangladesh/pm-participate-world-leaders-summit-turkiye-november-1576986",
-      "pubDate": "Sun, 18 Oct 2026 23:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/shama_obaed.jpg",
-      "snippet": "Shama Obaed also congratulates Türkiye on hosting COP31, which is scheduled to be held in Antalya from November 9-20."
-    },
-    {
       "title": "Ishraque's armed antics during anti-drug drive put BNP in awkward position",
       "link": "https://www.tbsnews.net/bangladesh/ishraques-armed-antics-during-anti-drug-drive-put-bnp-awkward-position-1576971",
       "pubDate": "Sun, 18 Oct 2026 23:45:00 +0600",
@@ -87,6 +87,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/17/38454539-caa0-415c-a511-5f2257d6fe0f.jpg",
       "snippet": "Although there is support for efforts to curb drug trafficking, the minister’s actions have reportedly put the government in an uncomfortable position."
+    },
+    {
+      "title": "PM to attend World Leaders' Summit in Türkiye in Nov",
+      "link": "https://www.tbsnews.net/bangladesh/pm-participate-world-leaders-summit-turkiye-november-1576986",
+      "pubDate": "Sun, 18 Oct 2026 23:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/shama_obaed.jpg",
+      "snippet": "Shama Obaed also congratulates Türkiye on hosting COP31, which is scheduled to be held in Antalya from November 9-20."
     },
     {
       "title": "20 special committees formed to implement PM's directives in Dhaka",
@@ -122,26 +133,15 @@
       "snippet": "Bangladesh Bank warns borrowers could face blackmail and threats to expose private photos, while transactions through unlicensed payment services carry legal and financial risks."
     },
     {
-      "title": "Secretaries reshuffled across 9 ministries and government offices",
-      "link": "https://www.tbsnews.net/bangladesh/secretaries-reshuffled-across-9-ministries-and-government-offices-1576926",
+      "title": "Govt reshuffles nine senior officials, appoints new commerce, shipping secretaries",
+      "link": "https://www.tbsnews.net/bangladesh/govt-reshuffles-nine-senior-officials-appoints-new-commerce-shipping-secretaries-1576926",
       "pubDate": "Sun, 18 Oct 2026 21:55:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/secretariat_6.jpg",
-      "snippet": "According to the orders, Commerce Secretary Md Ataur Rahman Khan has been transferred to the Ministry of Shipping, while Textiles and Jute Secretary Sharaf Uddin Ahmed Chowdhury has been moved to the Ministry of Commerce."
-    },
-    {
-      "title": "BSEC closes proceedings against investor Zhuang Lifeng",
-      "link": "https://www.tbsnews.net/economy/stocks/bsec-closes-proceedings-against-investor-zhuang-lifeng-1576916",
-      "pubDate": "Sun, 18 Oct 2026 21:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/bsec_stock.jpg",
-      "snippet": "A Dhaka Stock Exchange (DSE) probe found that CBC Capital operated an interconnected network of BO accounts alongside Zhuang Lifeng, owner of Liz Fashion Industry Ltd."
+      "snippet": "One additional secretary promoted, two given acting secretary roles."
     },
     {
       "title": "ACC files 2 cases against former Lakshmipur MP Nayan, wife over alleged illegal wealth",
@@ -153,6 +153,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/chbi_sngrhit_.jpeg",
       "snippet": "ACC alleges Nayan accumulated Tk79.99 lakh in assets beyond his known sources of income, while investigators found no acceptable source of income to justify his wife's Tk1.62 crore in assets."
+    },
+    {
+      "title": "BSEC closes proceedings against investor Zhuang Lifeng",
+      "link": "https://www.tbsnews.net/economy/stocks/bsec-closes-proceedings-against-investor-zhuang-lifeng-1576916",
+      "pubDate": "Sun, 18 Oct 2026 21:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/bsec_stock.jpg",
+      "snippet": "A Dhaka Stock Exchange (DSE) probe found that CBC Capital operated an interconnected network of BO accounts alongside Zhuang Lifeng, owner of Liz Fashion Industry Ltd."
     },
     {
       "title": "Walton High-Tech sets unique precedent in cash dividend distribution",
@@ -184,7 +195,7 @@
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/bangladeshi_banks_architectural_collage.png",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/19/collage.jpg",
       "snippet": "BRAC Bank leads the recommendations, with a target price of Tk117.45 against its closing price of Tk65 on 5 October 2026."
     },
     {
@@ -659,18 +670,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/16/43c32398-54cb-4ad7-8644-a67c956d38f0.jpg",
       "snippet": "Bangladesh must conserve its natural fisheries while harnessing science, breeding and responsible aquaculture to make nutritious fish available"
-    },
-    {
-      "title": "AI, power, and the new logic of war",
-      "link": "https://www.tbsnews.net/thoughts/ai-power-and-new-logic-war-1574396",
-      "pubDate": "Fri, 16 Oct 2026 01:35:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/16/11_sci-tech_0_0.jpg",
-      "snippet": "Legal systems must remain capable of scrutiny, explanation, and redress, even when technology advances faster than legislation"
     }
   ],
-  "updatedAt": "2026-10-18T18:47:18.589Z"
+  "updatedAt": "2026-10-18T21:17:18.176Z"
 }
