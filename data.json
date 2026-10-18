@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "foodpanda’s business model: What restaurants earn and customers pay",
+      "link": "https://www.tbsnews.net/economy/foodpandas-business-model-what-restaurants-earn-and-customers-payv-1576006",
+      "pubDate": "Sun, 18 Oct 2026 07:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/17/foodpanda.jpg",
+      "snippet": "Restaurant owners say multiple deductions are squeezing their profit margins, while consumers complain that food prices on the platform can be significantly higher than at physical outlets."
+    },
+    {
       "title": "IGP warns of rumours as Durga Puja celebrations continue at 33,000 mandaps",
       "link": "https://www.tbsnews.net/bangladesh/igp-warns-rumours-durga-puja-celebrations-continue-33000-mandaps-1575996",
       "pubDate": "Sun, 18 Oct 2026 01:20:00 +0600",
@@ -111,17 +122,6 @@
       "snippet": "He said the country can progress faster by harnessing young people's talent, innovative thinking and enthusiasm."
     },
     {
-      "title": "Ashulia garment worker dies after collapsing at work; CCTV shows confrontation",
-      "link": "https://www.tbsnews.net/bangladesh/ashulia-garment-worker-dies-after-collapsing-work-cctv-shows-confrontation-1575871",
-      "pubDate": "Sat, 17 Oct 2026 21:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/17/ashulia_cctv.jpg",
-      "snippet": "Agami Apparels suspends line supervisor after reviewing footage; police send worker’s body for autopsy as her husband seeks justice."
-    },
-    {
       "title": "Energy price hike weighs on Linde Bangladesh's Q3 profit",
       "link": "https://www.tbsnews.net/economy/stocks/energy-price-hike-weighs-linde-bangladeshs-q3-profit-1575876",
       "pubDate": "Sat, 17 Oct 2026 21:50:00 +0600",
@@ -131,6 +131,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/organization/logo/linde_bangladesh_limited.png",
       "snippet": "Consequently, earnings per share (EPS) fell to Tk5.23 for the quarter from Tk6.48 in Q3 2025."
+    },
+    {
+      "title": "Ashulia garment worker dies after collapsing at work; CCTV shows confrontation",
+      "link": "https://www.tbsnews.net/bangladesh/ashulia-garment-worker-dies-after-collapsing-work-cctv-shows-confrontation-1575871",
+      "pubDate": "Sat, 17 Oct 2026 21:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/17/ashulia_cctv.jpg",
+      "snippet": "Agami Apparels suspends line supervisor after reviewing footage; police send worker’s body for autopsy as her husband seeks justice."
     },
     {
       "title": "Bepza attracts $3m investment per acre, generates Tk13.82cr annual return",
@@ -213,10 +224,10 @@
       "title": "18,444 young entrepreneurs apply for BB's 'Udyog' funding from 8 districts",
       "link": "https://www.tbsnews.net/economy/18444-young-entrepreneurs-apply-bbs-udyog-funding-8-districts-1575716",
       "pubDate": "Sat, 17 Oct 2026 20:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/17/852100108_1450324470524956_751402661241712421_n.jpg",
       "snippet": "According to the press release, the programme's activities will begin in all upazilas of the remaining 56 districts from 1 November, 2026."
     },
@@ -639,17 +650,6 @@
       "snippet": "A medical team from China’s Yunnan province carried out the procedures over three days under the “Yunnan Hand in Hand” programme."
     },
     {
-      "title": "China Exim Bank eyes financing for Bangladesh power projects, grid upgrades",
-      "link": "https://www.tbsnews.net/economy/china-exim-bank-eyes-financing-bangladesh-power-projects-grid-upgrades-1574116",
-      "pubDate": "Thu, 15 Oct 2026 19:25:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/15/china_exim_bank_payra_thermal_power_plant.jpg",
-      "snippet": "Discussions covered the Payra Thermal Power Plant, power grid strengthening under the G2G arrangement, and network expansion in DPDC areas."
-    },
-    {
       "title": "How should we prepare our students in the age of AI? ",
       "link": "https://www.tbsnews.net/thoughts/how-should-we-prepare-our-students-age-ai-1574076",
       "pubDate": "Thu, 15 Oct 2026 18:35:00 +0600",
@@ -782,5 +782,5 @@
       "snippet": "Attorneys general from the states, which include Iowa, ​Kansas and Arizona, filed the lawsuits independently in state courts, claiming ​ChatGPT is designed to be agreeable and engaging to earn ⁠the trust of users."
     }
   ],
-  "updatedAt": "2026-10-17T23:46:30.398Z"
+  "updatedAt": "2026-10-18T03:17:32.482Z"
 }
