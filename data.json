@@ -1,227 +1,249 @@
 {
   "news": [
     {
-      "title": "Editors' Council proposes 12 safeguards for journalists in cyber law",
-      "link": "https://www.tbsnews.net/bangladesh/editors-council-proposes-12-safeguards-journalists-cyber-law-1576666",
-      "pubDate": "Sun, 18 Oct 2026 18:30:00 +0600",
+      "title": "Cenbank flags 22 unlicensed payment platforms over data theft, fraud risks",
+      "link": "https://www.tbsnews.net/economy/banking/cenbank-flags-22-unlicensed-payment-platforms-over-data-theft-fraud-risks-1576931",
+      "pubDate": "Sun, 18 Oct 2026 22:00:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/silenced_by_the_news_cycle.png",
-      "snippet": "Recommendations seek judicial oversight, source protection and safeguards for public-interest reporting."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/08/bangladesh_bank.jpg",
+      "snippet": "Bangladesh Bank warns borrowers could face blackmail and threats to expose private photos, while transactions through unlicensed payment services carry legal and financial risks."
     },
     {
-      "title": "ACC sues Inu, Hasan Mahmud, 6 others over alleged Tk6.65cr embezzlement in Bangladesh Betar's mural project",
-      "link": "https://www.tbsnews.net/bangladesh/acc-sues-inu-hasan-mahmud-6-others-over-alleged-tk665cr-embezzlement-bangladesh-betars",
-      "pubDate": "Sun, 18 Oct 2026 18:25:00 +0600",
+      "title": "Secretaries reshuffled across 9 ministries and government offices",
+      "link": "https://www.tbsnews.net/bangladesh/secretaries-reshuffled-across-9-ministries-and-government-offices-1576926",
+      "pubDate": "Sun, 18 Oct 2026 21:55:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/beige_brown_aesthetic_photo_collage_2.png",
-      "snippet": "The ACC says it found no trace of the Bangabandhu bronze mural at Bangladesh Betar’s Agargaon centre, despite the contractor receiving Tk6.65 crore."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/secretariat_6.jpg",
+      "snippet": "According to the orders, Commerce Secretary Md Ataur Rahman Khan has been transferred to the Ministry of Shipping, while Textiles and Jute Secretary Sharaf Uddin Ahmed Chowdhury has been moved to the Ministry of Commerce."
     },
     {
-      "title": "Proposed Cyber Security law could backfire on govt, warn editors, civil society",
-      "link": "https://www.tbsnews.net/bangladesh/proposed-cyber-security-law-could-backfire-govt-warn-editors-civil-society-1576636",
-      "pubDate": "Sun, 18 Oct 2026 18:20:00 +0600",
+      "title": "BSEC closes proceedings against investor Zhuang Lifeng",
+      "link": "https://www.tbsnews.net/economy/stocks/bsec-closes-proceedings-against-investor-zhuang-lifeng-1576916",
+      "pubDate": "Sun, 18 Oct 2026 21:50:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/capture.jpg",
-      "snippet": "Noab President Matiur Rahman Chowdhury and TIB Executive Director Iftekharuzzaman warn against restrictions on press freedom and freedom of expression."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/bsec_stock.jpg",
+      "snippet": "A Dhaka Stock Exchange (DSE) probe found that CBC Capital operated an interconnected network of BO accounts alongside Zhuang Lifeng, owner of Liz Fashion Industry Ltd."
     },
     {
-      "title": "Bangladesh Bank's Tk20,000cr scheme: Loans to closed factories rise by Tk450cr in 18 days",
+      "title": "ACC files 2 cases against former Lakshmipur MP Nayan, wife over alleged illegal wealth",
+      "link": "https://www.tbsnews.net/bangladesh/acc-files-2-cases-against-former-lakshmipur-mp-nayan-wife-over-alleged-illegal-wealth",
+      "pubDate": "Sun, 18 Oct 2026 21:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/chbi_sngrhit_.jpeg",
+      "snippet": "ACC alleges Nayan accumulated Tk79.99 lakh in assets beyond his known sources of income, while investigators found no acceptable source of income to justify his wife's Tk1.62 crore in assets."
+    },
+    {
+      "title": "Walton High-Tech sets unique precedent in cash dividend distribution",
+      "link": "https://www.tbsnews.net/economy/stocks/walton-high-tech-sets-unique-precedent-cash-dividend-distribution-1576891",
+      "pubDate": "Sun, 18 Oct 2026 21:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/walton_picture.jpg",
+      "snippet": "The disclosure came after Walton High-Tech successfully conducted its 20th AGM on a digital platform on 15 October 2026, where shareholders unanimously approved the board’s proposal for a 180% cash dividend and a 10% stock dividend."
+    },
+    {
+      "title": "BSEC proposes 50% IPO debt repayment cap, mandatory escrow accounts",
+      "link": "https://www.tbsnews.net/economy/stocks/bsec-proposes-50-ipo-debt-repayment-cap-mandatory-escrow-accounts-1576896",
+      "pubDate": "Sun, 18 Oct 2026 21:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/15/bsec_stock.jpg",
+      "snippet": "The proposal would prohibit the use of IPO or RPO proceeds to repay loans classified as defaulted or loans that have been rescheduled."
+    },
+    {
+      "title": "CAL Bangladesh recommends five banks with up to 81% share price upside",
+      "link": "https://www.tbsnews.net/economy/stocks/cal-bangladesh-recommends-five-banks-81-share-price-upside-1576911",
+      "pubDate": "Sun, 18 Oct 2026 21:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/bangladeshi_banks_architectural_collage.png",
+      "snippet": "BRAC Bank leads the recommendations, with a target price of Tk117.45 against its closing price of Tk65 on 5 October 2026."
+    },
+    {
+      "title": "DSEX edges down as sell-off continues for second session",
+      "link": "https://www.tbsnews.net/economy/stocks/dsex-edges-down-sell-continues-second-session-1576906",
+      "pubDate": "Sun, 18 Oct 2026 21:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/11/05/dsex.png",
+      "snippet": "The benchmark DSEX index fell 10 points to 5,422, while the blue-chip DS30 index shed 4 points to 2,085."
+    },
+    {
+      "title": "Tuptup Resort fire: 10 victims' DNA samples sent to Dhaka",
+      "link": "https://www.tbsnews.net/bangladesh/tuptup-resort-fire-10-victims-dna-samples-sent-dhaka-1576886",
+      "pubDate": "Sun, 18 Oct 2026 21:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/40f7a4f0-5cf2-490d-b9a0-06a341f40135.jpg",
+      "snippet": "Tests expected to help identify victims of Cox’s Bazar blaze."
+    },
+    {
+      "title": "WB president warns of 800 million global job gap, champions smart development and private capital",
+      "link": "https://www.tbsnews.net/economy/wb-president-warns-80-cr-global-job-gap-champions-smart-development-and-private-capital",
+      "pubDate": "Sun, 18 Oct 2026 21:25:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/08/world_bank.jpg",
+      "snippet": "He emphasized that addressing this crisis is vital not only for economic stability but for human dignity, noting that a job represents \"the difference between a young person who can build a future; and a young person awaiting one\"."
+    },
+    {
+      "title": "Cox's Bazar resort fire: Jashore family of 4 feared dead as relatives await DNA results",
+      "link": "https://www.tbsnews.net/bangladesh/coxs-bazar-resort-fire-jashore-family-4-feared-dead-relatives-await-dna-results-1576851",
+      "pubDate": "Sun, 18 Oct 2026 21:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/17/tuptup.jpg",
+      "snippet": "Nahidur Rahman Tuhin, his wife and their daughters, aged seven and three, have been missing since a fire at TupTup Restro and Resort in Ukhiya that killed 10 people."
+    },
+    {
+      "title": "State minister vows full support for Muslin research, urges tech handover to entrepreneurs",
+      "link": "https://www.tbsnews.net/economy/state-minister-vows-full-support-muslin-research-urges-tech-handover-entrepreneurs-1576846",
+      "pubDate": "Sun, 18 Oct 2026 21:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/4672611.jpg",
+      "snippet": "He said one of the key responsibilities now is to take the technology for producing the revived Muslin to private entrepreneurs."
+    },
+    {
+      "title": "BTMA seeks continuation of bank guarantee system for yarn imports",
+      "link": "https://www.tbsnews.net/bangladesh/btma-seeks-continuation-bank-guarantee-system-yarn-imports-1576826",
+      "pubDate": "Sun, 18 Oct 2026 20:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/yarn.jpg",
+      "snippet": "The association said implementing the proposals would help protect investment and production capacity in the domestic spinning industry, create jobs, facilitate bank loan recovery, and support export growth."
+    },
+    {
+      "title": "AI integration vital to boost youth participation, financial inclusion in capital market: BSEC commissioner",
+      "link": "https://www.tbsnews.net/bangladesh/ai-integration-vital-boost-youth-participation-financial-inclusion-capital-market-bsec",
+      "pubDate": "Sun, 18 Oct 2026 20:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/5314347.jpg",
+      "snippet": "Highlighting the shifting consumer landscape, Tarik pointed out that the financial needs and lifestyles of Generation Z and upcoming generations are evolving rapidly."
+    },
+    {
+      "title": "Measles: Death toll at 1,196 as 7 more children die",
+      "link": "https://www.tbsnews.net/bangladesh/measles-death-toll-1196-7-more-children-die-1576816",
+      "pubDate": "Sun, 18 Oct 2026 20:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/11/measles_tbs.jpeg",
+      "snippet": "1,258 new suspected cases reported in the latest 24-hour period."
+    },
+    {
+      "title": "Govt treading previous autocratic path: Jamaat ameer",
+      "link": "https://www.tbsnews.net/bangladesh/govt-treading-previous-autocratic-path-jamaat-ameer-1576806",
+      "pubDate": "Sun, 18 Oct 2026 20:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/shafiqur_jamat.jpg",
+      "snippet": "Jamaat chief alleges political interference in constitutional institutions, preferential allocations for ruling party MPs, and a reversal of the July Revolution’s goals."
+    },
+    {
+      "title": "Ekushey Book Fair to begin on 7 January",
+      "link": "https://www.tbsnews.net/bangladesh/ekushey-book-fair-begin-7-january-1576761",
+      "pubDate": "Sun, 18 Oct 2026 19:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/20240220_rajibdhar_0745_0_1.jpg",
+      "snippet": "Publishers’ representatives unanimously agree on the 2027 fair dates."
+    },
+    {
+      "title": "MyTV chairman shown arrested in July uprising killing case",
+      "link": "https://www.tbsnews.net/bangladesh/mytv-chairman-shown-arrested-july-uprising-killing-case-1576776",
+      "pubDate": "Sun, 18 Oct 2026 19:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/847006126_2121921991748860_3025779448580967180_n_1.jpg",
+      "snippet": "Pappu Chowdhury was shot during a demonstration in front of Donia College in Dhaka on 4 August 2024 and died in hospital the following day."
+    },
+    {
+      "title": "Dengue claims 6 more lives, 2,088 hospitalised in 24 hours",
+      "link": "https://www.tbsnews.net/bangladesh/dengue-claims-6-more-lives-2088-hospitalised-24-hours-1576741",
+      "pubDate": "Sun, 18 Oct 2026 19:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/25/05_news_copy.png",
+      "snippet": "The latest fatalities take the country’s dengue death toll to 348 this year, with total cases reaching 1,12,400."
+    },
+    {
+      "title": "Secretariat to move to Sher-e-Bangla Nagar by 2029",
+      "link": "https://www.tbsnews.net/bangladesh/secretariat-move-sher-e-bangla-nagar-2029-1576746",
+      "pubDate": "Sun, 18 Oct 2026 19:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/24/secretariat_1.jpeg",
+      "snippet": "The proposed complex will cover around 31.58 acres and comprise 14 12-storey buildings, each with three basement levels, providing approximately 3.316 million square feet of office space. It will have parking facilities for 3,800 vehicles."
+    },
+    {
+      "title": "Shariful pledges support for muslin research, technology transfer",
+      "link": "https://www.tbsnews.net/bangladesh/shariful-pledges-support-muslin-research-technology-transfer-1576726",
+      "pubDate": "Sun, 18 Oct 2026 19:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/image-436323-1792329444.jpg",
+      "snippet": "Shariful said one of the key responsibilities now was to make the technology for producing revived muslin available to private entrepreneurs."
+    },
+    {
+      "title": "Tk560cr disbursed under factory revival scheme, but BGMEA units still await funds",
       "link": "https://www.tbsnews.net/economy/banking/bangladesh-banks-tk20000cr-scheme-loans-closed-factories-rise-tk450cr-18-days",
       "pubDate": "Sun, 18 Oct 2026 18:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/28/bangladesh_bank.jpg",
-      "snippet": "Bangladesh Bank announced the scheme in June. However, banks took until October to complete the application and scrutiny processes."
+      "snippet": "Cenbank announces the scheme in June, but banks took until October to complete application and scrutiny process."
     },
     {
-      "title": "Motorcycle locks picked in 10-20 seconds; 6 arrested over thefts",
-      "link": "https://www.tbsnews.net/bangladesh/motorcycle-locks-picked-10-20-seconds-6-arrested-over-thefts-1576606",
-      "pubDate": "Sun, 18 Oct 2026 17:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/untitled_design_12.jpg",
-      "snippet": "Stolen bikes were allegedly sold in Cumilla and Noakhali for up to Tk1 lakh."
-    },
-    {
-      "title": "Bangladesh seeks details on execution of 2 nationals; Saudi envoy meets secretary Nazrul",
-      "link": "https://www.tbsnews.net/foreign-policy/bangladesh-seeks-details-execution-2-nationals-saudi-envoy-meets-foreign-secretary",
-      "pubDate": "Sun, 18 Oct 2026 17:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/7976669.jpg",
-      "snippet": "Although Dhaka raised the issue with the Saudi envoy, it expressed confidence that the incident would not affect the strong bilateral relations between the two countries."
-    },
-    {
-      "title": "Stolen Taurus pistol, eight rounds of ammunition recovered in Ctg",
-      "link": "https://www.tbsnews.net/bangladesh/crime/stolen-taurus-pistol-eight-rounds-ammunition-recovered-ctg-1576551",
-      "pubDate": "Sun, 18 Oct 2026 17:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/pistol.png",
-      "snippet": "A team of police, led by Double Mooring Model Police Station Officer-in-Charge Arif Faisal, conducted the operation based on a tip-off."
-    },
-    {
-      "title": "Tarique says planning, goodwill can make areas clean, green",
-      "link": "https://www.tbsnews.net/bangladesh/tarique-says-planning-goodwill-can-make-areas-clean-green-1576561",
-      "pubDate": "Sun, 18 Oct 2026 17:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/7503628.jpg",
-      "snippet": "“With proper planning and goodwill, an area can beautifully be transformed for the welfare and benefit of people. This place is the biggest proof of that,” he said."
-    },
-    {
-      "title": "Amini claims Shamim's death was accidental, says he is not remorseful",
-      "link": "https://www.tbsnews.net/bangladesh/amini-claims-shamims-death-was-accidental-says-he-not-remorseful-1576576",
-      "pubDate": "Sun, 18 Oct 2026 17:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/850832818_1659131975732437_5419993647623243948_n.jpg",
-      "snippet": "Addressing the people of the country, he claimed that they had not realised how atheist Shamim was."
-    },
-    {
-      "title": "BPPA board calls for expediting reforms to implement e-GP Version 2.0",
-      "link": "https://www.tbsnews.net/bangladesh/bppa-board-calls-expediting-reforms-implement-e-gp-version-20-1576546",
-      "pubDate": "Sun, 18 Oct 2026 17:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/9439193.jpg",
-      "snippet": "The meeting discussed the ongoing transition to e-GP Version 2.0, which aims to modernise and simplify the public procurement system."
-    },
-    {
-      "title": "Mosque-temple in same compound stands as testament to communal harmony",
-      "link": "https://www.tbsnews.net/bangladesh/mosque-temple-same-compound-stands-testament-communal-harmony-1576541",
-      "pubDate": "Sun, 18 Oct 2026 17:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/mosque-temple.png",
-      "snippet": "Several foreign ambassadors have already visited this historic mosque and temple to witness the peaceful coexistence of the two places of worship within the same compound."
-    },
-    {
-      "title": "Popular Life distributes insurance claim cheques worth hundreds of crores nationwide",
-      "link": "https://www.tbsnews.net/bangladesh/popular-life-distributes-insurance-claim-cheques-worth-hundreds-crores-nationwide-1576531",
-      "pubDate": "Sun, 18 Oct 2026 17:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/picture_of_popular_life_cheque_distribution.jpeg",
-      "snippet": "The company said customers are receiving their entitled claim amounts through separate programmes held in different regions."
-    },
-    {
-      "title": "Japanese investors announce $1.2b investment plan for Bangladesh's tourism sector",
-      "link": "https://www.tbsnews.net/bangladesh/japanese-investors-announce-12b-investment-plan-bangladeshs-tourism-sector-1576511",
-      "pubDate": "Sun, 18 Oct 2026 16:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/843410124_950600471027929_6996526397375968469_n.jpg",
-      "snippet": "Representatives of the Japanese delegation expressed their interest in investing in Bangladesh and said they were ready to work jointly to develop the country’s tourism sector."
-    },
-    {
-      "title": "Bangladesh, Uzbekistan discuss possibility of FTA to boost trade, investment ties",
-      "link": "https://www.tbsnews.net/foreign-policy/bangladesh-uzbekistan-discuss-possibility-fta-boost-trade-investment-ties-1576501",
-      "pubDate": "Sun, 18 Oct 2026 16:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/bangladesh-uzhekistan.png",
-      "snippet": "The state minister is leading the Bangladesh delegation to the OIC Council of Foreign ministers meeting in Baghdad taking place from 17-18 October."
-    },
-    {
-      "title": "Information Commission will serve people, not government or individuals: CIC",
-      "link": "https://www.tbsnews.net/bangladesh/information-commission-will-serve-people-not-government-or-individuals-cic-1576491",
-      "pubDate": "Sun, 18 Oct 2026 16:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/8076621.jpg",
-      "snippet": "The government yesterday (17 October) appointed Nahreen as CIC and journalists SAM Mahfuzur Rahman and Khan Mohammad Abul Hossain as information commissioners."
-    },
-    {
-      "title": "7 more witnesses testify in corruption case against ex-IGP Benazir Ahmed",
-      "link": "https://www.tbsnews.net/bangladesh/7-more-witnesses-testify-corruption-case-against-ex-igp-benazir-ahmed-1576466",
-      "pubDate": "Sun, 18 Oct 2026 16:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/benazir.ahmed_.jpg",
-      "snippet": "According to the charge sheet, Benazir declared immovable assets worth Tk6 crore 45 lakh 37 thousand 365 and movable assets worth Tk5 crore 74 lakh 89 thousand 966 in his asset statement."
-    },
-    {
-      "title": "Chamber court stays HC verdict ordering Grameen Kalyan to pay Tk666cr in taxes",
-      "link": "https://www.tbsnews.net/bangladesh/court/chamber-court-stays-hc-verdict-ordering-grameen-kalyan-pay-tk666cr-taxes-1576451",
-      "pubDate": "Sun, 18 Oct 2026 16:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/yunus_grameen_kalyan.jpg",
-      "snippet": "The court has scheduled hearings on two separate appeals before a full Appellate Division bench led by the chief justice on 13 December."
-    },
-    {
-      "title": "Ctg listed criminal 'Bihari Boga' denied bail in extortion case, sent to jail",
-      "link": "https://www.tbsnews.net/bangladesh/ctg-listed-criminal-bihari-boga-denied-bail-extortion-case-sent-jail-1576401",
-      "pubDate": "Sun, 18 Oct 2026 15:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/untitled_design_11.jpg",
-      "snippet": "After a hearing, Additional Chief Metropolitan Magistrate Md Mahidul Islam of the Chattogram Metropolitan Magistrate Court rejected his petition and ordered that he be sent to jail."
-    },
-    {
-      "title": "Supreme Court sets 24 Nov, 1 Dec final hearings in Abrar Fahad, Major Sinha murder cases",
-      "link": "https://www.tbsnews.net/bangladesh/court/supreme-court-sets-24-nov-1-dec-final-hearings-abrar-fahad-major-sinha-murder-cases",
-      "pubDate": "Sun, 18 Oct 2026 15:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/photo-output.jpeg",
-      "snippet": "Supreme Court also sets 17 November for final appeal hearings in Narayanganj seven-murder case"
-    },
-    {
-      "title": "Sultan Mansur, Moinuddin shown arrested in BNP activist Mokbul murder case",
-      "link": "https://www.tbsnews.net/bangladesh/court/sultan-mansur-moinuddin-shown-arrested-bnp-activist-mokbul-murder-case-1576376",
-      "pubDate": "Sun, 18 Oct 2026 15:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/14/received_1464302322227080.jpeg",
-      "snippet": "During the hearing, state prosecutor Sumon said the accused were involved in the murder and sought an order to show them as arrested. Lawyers for the accused, including Morshed Hossain Shaheen, opposed the petition. With the court’s permission, Sulta..."
-    },
-    {
-      "title": "Health minister urges doctors to take breast cancer awareness to rural women",
+      "title": "Govt plans grassroots breast cancer screening: Health minister",
       "link": "https://www.tbsnews.net/bangladesh/health/health-minister-urges-doctors-take-breast-cancer-awareness-rural-women-1576256",
       "pubDate": "Sun, 18 Oct 2026 13:00:00 +0600",
       "category": "Health",
@@ -477,23 +499,12 @@
       "title": "Bangladesh’s debut sovereign bond: Why it costs more to borrow from Wall Street",
       "link": "https://www.tbsnews.net/analysis/bangladeshs-debut-sovereign-bond-why-it-costs-more-borrow-wall-street-1575121",
       "pubDate": "Sat, 17 Oct 2026 13:00:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
+      "category": "Analysis",
+      "color": "#5d4037",
+      "bg": "#efebe9",
+      "icon": "🔍",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/17/ershad_hossain.jpg",
       "snippet": "Bangladesh would no longer run its economy on money from the IMF, and would instead raise funds through bond and stock markets at home and abroad"
-    },
-    {
-      "title": "How will a Bangladesh-Japan special zone prepare workers for jobs in Japan?",
-      "link": "https://www.tbsnews.net/economy/how-will-bangladesh-japan-special-zone-prepare-workers-jobs-japan-1575171",
-      "pubDate": "Sat, 17 Oct 2026 12:45:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/28/japan_bangladesh.jpg",
-      "snippet": "The proposed zone would combine language training, professional certification and technical education to prepare workers for Japan’s labour market."
     },
     {
       "title": "Bangladesh is battling measles. It's a 'real warning' to other nations",
@@ -551,17 +562,6 @@
       "snippet": "Named MAST-CloudNet, the device attracts mosquitoes using sound, photographs captured insects and uses AI to determine whether they belong to the Aedes genus."
     },
     {
-      "title": "Ginger surges Tk50-60 in two days, onion and garlic also costlier",
-      "link": "https://www.tbsnews.net/economy/bazaar/ginger-surges-tk50-60-two-days-onion-and-garlic-also-costlier-1574916",
-      "pubDate": "Fri, 16 Oct 2026 21:50:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/02/18/ginger_garlic.jpg",
-      "snippet": "A visit to the kitchen markets in Hatirpool, New Market and Lalbagh on Friday (16 October) found Chinese ginger selling at Tk190 per kg, up from Tk130-140 last Wednesday."
-    },
-    {
       "title": "Zero tolerance for health sector corruption: State minister",
       "link": "https://www.tbsnews.net/bangladesh/health/zero-tolerance-health-sector-corruption-state-minister-1574891",
       "pubDate": "Fri, 16 Oct 2026 21:10:00 +0600",
@@ -571,17 +571,6 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/16/state_minister_for_health.jpg",
       "snippet": "Government pledges transparent spending on doctors, nurses, medicines and treatment."
-    },
-    {
-      "title": "29% of highly educated Bangladeshi youth unemployed, half work below qualifications: IMF",
-      "link": "https://www.tbsnews.net/bangladesh/29-highly-educated-bangladeshi-youth-unemployed-half-work-below-qualifications-imf",
-      "pubDate": "Fri, 16 Oct 2026 19:35:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/10/26/unemployment.jpg",
-      "snippet": "The IMF warns that skills mismatches, limited quality jobs and AI-driven changes in hiring are compounding employment challenges for young Bangladeshis."
     },
     {
       "title": "The state should build markets, not become them ",
@@ -606,17 +595,6 @@
       "snippet": "The latest deaths take this year’s toll to 335, while the cumulative number of dengue cases has reached 108,440, according to the DGHS."
     },
     {
-      "title": "Bangladesh's trillion-dollar dream versus reality: Can 'band-aids' fix a governance crisis?",
-      "link": "https://www.tbsnews.net/economy/bangladeshs-trillion-dollar-dream-versus-reality-can-band-aids-fix-governance-crisis-1574726",
-      "pubDate": "Fri, 16 Oct 2026 16:50:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/16/08_panorama_trillion_dollar_dream.png",
-      "snippet": "The IMF projects Bangladesh’s growth to hover around 3% by FY31, as weak governance, corruption and stalled reforms threaten its $1 trillion economic ambition."
-    },
-    {
       "title": "Measles: Death toll reaches 1,186 as 5 more children die in 24hrs",
       "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-1186-5-more-children-die-24hrs-1574716",
       "pubDate": "Fri, 16 Oct 2026 16:35:00 +0600",
@@ -639,28 +617,6 @@
       "snippet": "The white two-seater vehicle, ‌developed in collaboration with CEO Elon Musk's rocket company SpaceX, drove upside down on a ramp using a suction system, turned in the air and landed using built-in thrusters. Later in the event it used the thrusters ..."
     },
     {
-      "title": "Bangladesh, IMF to work out details of loan proposal over next two weeks: Khosru",
-      "link": "https://www.tbsnews.net/economy/bangladesh-imf-work-out-details-loan-proposal-over-next-two-weeks-khosru-1574551",
-      "pubDate": "Fri, 16 Oct 2026 11:45:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/27/_julian_alvarez_1.png",
-      "snippet": "'In principle, everything is fine. Now, the two teams will sit together to discuss how to close the deal,' says Finance Minister Amir Khosru Mahmud Chowdhury."
-    },
-    {
-      "title": "Bangladesh overtakes India in per capita GDP, but IMF sees India regaining lead in FY29",
-      "link": "https://www.tbsnews.net/economy/bangladesh-overtakes-india-capita-gdp-imf-sees-india-regaining-lead-fy29-1574521",
-      "pubDate": "Fri, 16 Oct 2026 11:00:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/16/845975963_1578386546930448_5680494016679808706_n_1.png",
-      "snippet": "Bangladesh had previously maintained a higher GDP per capita than India for seven consecutive years from 2018, before India overtook it in 2025."
-    },
-    {
       "title": "Innovating fish farming today to nourish tomorrow",
       "link": "https://www.tbsnews.net/thoughts/innovating-fish-farming-today-nourish-tomorrow-1574536",
       "pubDate": "Fri, 16 Oct 2026 10:35:00 +0600",
@@ -672,17 +628,6 @@
       "snippet": "Bangladesh must conserve its natural fisheries while harnessing science, breeding and responsible aquaculture to make nutritious fish available"
     },
     {
-      "title": "Fiscal year shift to April-March: Govt seeks time-bound plans to revise laws, regulations, and systems",
-      "link": "https://www.tbsnews.net/economy/fiscal-year-shift-april-march-govt-seeks-time-bound-plans-revise-laws-regulations-and",
-      "pubDate": "Fri, 16 Oct 2026 01:35:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/16/fiscal_year_shift.jpg",
-      "snippet": "The shift from July-June to April-March will require changes to laws, regulations and government systems, with ministries asked to submit time-bound plans by 25 October."
-    },
-    {
       "title": "AI, power, and the new logic of war",
       "link": "https://www.tbsnews.net/thoughts/ai-power-and-new-logic-war-1574396",
       "pubDate": "Fri, 16 Oct 2026 01:35:00 +0600",
@@ -692,29 +637,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/16/11_sci-tech_0_0.jpg",
       "snippet": "Legal systems must remain capable of scrutiny, explanation, and redress, even when technology advances faster than legislation"
-    },
-    {
-      "title": "Nvidia, Apple each gave $25 million for Trump's ballroom, Washington Post reports",
-      "link": "https://www.tbsnews.net/tech/nvidia-apple-each-gave-25-million-trumps-ballroom-washington-post-reports-1574306",
-      "pubDate": "Thu, 15 Oct 2026 21:40:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/15/trump_ballroom.png",
-      "snippet": "The Adelson family, one of ​the ​Republican Party's largest donor ‌dynasties, ⁠committed that sum as well, as ​did ​billionaire ⁠Charles Ergen, co-founder ​and chairman ​of ⁠telecommunications company Dish Network, ⁠the ​report ​added."
-    },
-    {
-      "title": "Dhaka Medical College Hospital performs 100 cataract surgeries with Chinese support",
-      "link": "https://www.tbsnews.net/bangladesh/health/dhaka-medical-college-hospital-performs-100-cataract-surgeries-chinese-support",
-      "pubDate": "Thu, 15 Oct 2026 20:05:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/15/aminul_haque_17.png",
-      "snippet": "A medical team from China’s Yunnan province carried out the procedures over three days under the “Yunnan Hand in Hand” programme."
     }
   ],
-  "updatedAt": "2026-10-18T12:43:41.485Z"
+  "updatedAt": "2026-10-18T16:22:06.703Z"
 }
