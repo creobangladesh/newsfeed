@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Ishraque to announce resignation today, vows intensified anti-drug campaign",
+      "link": "https://www.tbsnews.net/bangladesh/ishraque-announce-resignation-today-vows-intensified-anti-drug-campaign-1577091",
+      "pubDate": "Mon, 19 Oct 2026 09:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/state_minister_ishraque.jpg",
+      "snippet": "In a Facebook post, he shared, \"I will formally announce my resignation as state minister for liberation war affairs at a press conference at the National Press Club at 2pm today (19 October).\""
+    },
+    {
+      "title": "1,500 staff, deposit risks deter buyers from StanChart retail business",
+      "link": "https://www.tbsnews.net/economy/banking/1500-staff-deposit-risks-deter-buyers-stanchart-retail-business-1577056",
+      "pubDate": "Mon, 19 Oct 2026 07:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/24/standard-chartered-bank.jpg",
+      "snippet": "City Bank only lender signed NDA for cost-benefit analysis of proposed acquisition"
+    },
+    {
       "title": "COP31: Bangladesh’s test of climate diplomacy ",
       "link": "https://www.tbsnews.net/thoughts/cop31-bangladeshs-test-climate-diplomacy-1577046",
       "pubDate": "Mon, 19 Oct 2026 01:35:00 +0600",
@@ -210,17 +232,6 @@
       "snippet": "The benchmark DSEX index fell 10 points to 5,422, while the blue-chip DS30 index shed 4 points to 2,085."
     },
     {
-      "title": "DNA tests may take 3-4 weeks to identify 10 Cox’s Bazar resort fire victims",
-      "link": "https://www.tbsnews.net/bangladesh/dna-tests-may-take-3-4-weeks-identify-10-coxs-bazar-resort-fire-victims-1576886",
-      "pubDate": "Sun, 18 Oct 2026 21:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/40f7a4f0-5cf2-490d-b9a0-06a341f40135.jpg",
-      "snippet": "Tests expected to help identify victims of Cox’s Bazar blaze."
-    },
-    {
       "title": "1.2 billion jobseekers, 400 million jobs: WB chief warns of gap",
       "link": "https://www.tbsnews.net/economy/wb-president-warns-80-cr-global-job-gap-champions-smart-development-and-private-capital",
       "pubDate": "Sun, 18 Oct 2026 21:25:00 +0600",
@@ -230,17 +241,6 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/08/world_bank.jpg",
       "snippet": "He emphasized that addressing this crisis is vital not only for economic stability but for human dignity, noting that a job represents \"the difference between a young person who can build a future; and a young person awaiting one\"."
-    },
-    {
-      "title": "Cox's Bazar resort fire: Jashore family of 4 feared dead as relatives await DNA results",
-      "link": "https://www.tbsnews.net/bangladesh/coxs-bazar-resort-fire-jashore-family-4-feared-dead-relatives-await-dna-results-1576851",
-      "pubDate": "Sun, 18 Oct 2026 21:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/17/tuptup.jpg",
-      "snippet": "Nahidur Rahman Tuhin, his wife and their daughters, aged seven and three, have been missing since a fire at TupTup Restro and Resort in Ukhiya that killed 10 people."
     },
     {
       "title": "State minister vows full support for Muslin research, urges tech handover to entrepreneurs",
@@ -463,17 +463,6 @@
       "snippet": "The president says universities should prioritise technical and technology-related education to produce graduates who meet labour market needs at home and abroad, while urging private universities to waive tuition fees for poor and meritorious studen..."
     },
     {
-      "title": "Saudi airport restrictions: 17,701 passengers affected as 114 flights disrupted so far",
-      "link": "https://www.tbsnews.net/economy/aviation/saudi-airport-restrictions-17701-passengers-affected-114-flights-disrupted-so-far",
-      "pubDate": "Sat, 17 Oct 2026 15:50:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/11/dhaka_airport.jpeg",
-      "snippet": "Of the affected flights, 50 were direct, and 64 were transit flights."
-    },
-    {
       "title": "Bangladesh’s climate agenda: Turning investment into impact",
       "link": "https://www.tbsnews.net/thoughts/bangladeshs-climate-agenda-turning-investment-impact-1575356",
       "pubDate": "Sat, 17 Oct 2026 15:45:00 +0600",
@@ -672,5 +661,5 @@
       "snippet": "Bangladesh must conserve its natural fisheries while harnessing science, breeding and responsible aquaculture to make nutritious fish available"
     }
   ],
-  "updatedAt": "2026-10-18T23:30:21.912Z"
+  "updatedAt": "2026-10-19T03:29:56.104Z"
 }
