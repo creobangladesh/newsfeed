@@ -1,6 +1,105 @@
 {
   "news": [
     {
+      "title": "CPA disputes NBR study on 11-day cargo clearance time",
+      "link": "https://www.tbsnews.net/nbr/cpa-disputes-nbr-study-11-day-cargo-clearance-time-1578866",
+      "pubDate": "Wed, 21 Oct 2026 00:55:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/21/855677999_1106529678899163_4914778462406529654_n.jpg",
+      "snippet": ""
+    },
+    {
+      "title": "'Not newly-weds', family denies Saudi-executed Nazrul was newly married to Sweety",
+      "link": "https://www.tbsnews.net/bangladesh/not-newly-weds-family-denies-saudi-executed-nazrul-was-newly-married-sweety-1578861",
+      "pubDate": "Wed, 21 Oct 2026 00:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/21/nazrul_islam_0.jpg",
+      "snippet": "Mother says her son was unmarried and family never knew Sweety."
+    },
+    {
+      "title": "Bijoya Dashami today: One last day of devotion before Durga departs",
+      "link": "https://www.tbsnews.net/bangladesh/bijoya-dashami-today-one-last-day-devotion-durga-departs-1578856",
+      "pubDate": "Wed, 21 Oct 2026 00:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/21/durga_puja.jpeg",
+      "snippet": "Today, Bijoya Dashami will bring together the joy of devotion, the emotions of farewell and the hope of welcoming Goddess Durga again next year."
+    },
+    {
+      "title": "15 hurt as villagers clash under torchlight over cattle grass in Brahmanbaria",
+      "link": "https://www.tbsnews.net/bangladesh/15-hurt-villagers-clash-under-torchlight-over-cattle-grass-brahmanbaria-1578846",
+      "pubDate": "Tue, 20 Oct 2026 23:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/21/clash_1.jpg",
+      "snippet": "Tensions between the two groups remained high, and police were deployed at the scene to prevent further violence."
+    },
+    {
+      "title": "Defeated forces of 1971, 2024 want to disrupt peace: State minister",
+      "link": "https://www.tbsnews.net/bangladesh/defeated-forces-1971-2024-want-disrupt-peace-state-minister-1578851",
+      "pubDate": "Tue, 20 Oct 2026 23:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/21/whatsapp_image_2026-10-20_at_3.46.09_pm.jpeg",
+      "snippet": "Anindya Islam Amit urges vigilance and calls for religious harmony."
+    },
+    {
+      "title": "Chinese firm starts zipper, plastic button production at Bepza economic zone in Mirsarai",
+      "link": "https://www.tbsnews.net/economy/industry/chinese-firm-starts-zipper-plastic-button-production-bepza-economic-zone-mirsarai",
+      "pubDate": "Tue, 20 Oct 2026 21:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/20/852600431_1128402336330597_651610989036657715_n.jpg",
+      "snippet": "The company has invested $15.51 million against a proposed investment of $19.97 million, the release said."
+    },
+    {
+      "title": "PM visits JM Sen Hall Puja mandap in Chattogram",
+      "link": "https://www.tbsnews.net/bangladesh/pm-visits-jm-sen-hall-puja-mandap-chattogram-1578811",
+      "pubDate": "Tue, 20 Oct 2026 21:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/20/pm_tarique_ctg.jpg",
+      "snippet": "He exchanges Durga Puja greetings with Hindu community members at JM Sen Hall Puja mandap in Chattogram."
+    },
+    {
+      "title": "Power crisis, mounting losses leave Sharp Industries investors without dividends",
+      "link": "https://www.tbsnews.net/economy/stocks/power-crisis-mounting-losses-leave-sharp-industries-investors-without-dividends",
+      "pubDate": "Tue, 20 Oct 2026 21:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/20/852692065_1716191536148402_2014599182819162534_n.jpg",
+      "snippet": "It will move from the B category to the Z category on 25 October after failing to declare dividends for two consecutive years, according to the DSE."
+    },
+    {
+      "title": "Two Bangladeshis executed by Saudi Arabia: One was held for 'cybercrime', other for 'adultery'",
+      "link": "https://www.tbsnews.net/foreign-policy/two-bangladeshis-executed-saudi-arabia-one-was-held-cybercrime-other-adultery-1578796",
+      "pubDate": "Tue, 20 Oct 2026 21:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/19/pic_1.jpg",
+      "snippet": "Consulate says it has no knowledge of any such previous precedence."
+    },
+    {
       "title": "Saudi police arrest 4 Bangladeshis, Indians over 'begging'",
       "link": "https://www.tbsnews.net/bangladesh/saudi-police-arrest-4-bangladeshis-indians-over-begging-1578781",
       "pubDate": "Tue, 20 Oct 2026 21:30:00 +0600",
@@ -10,6 +109,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/20/80de647b-0ed7-4885-8287-e88ee1106a21.png",
       "snippet": "The arrests come as Saudi authorities intensify a campaign against begging and urge people to donate through authorised platforms."
+    },
+    {
+      "title": "Credit card transactions rise 30% YoY to Tk4,089cr in August, dips 5.4% from July",
+      "link": "https://www.tbsnews.net/economy/banking/credit-card-transactions-rise-30-yoy-tk4089cr-august-dips-54-july-1578791",
+      "pubDate": "Tue, 20 Oct 2026 21:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/02/13/card_0.jpg",
+      "snippet": "“Cash transactions have been dominating Bangladesh’s consumer payment ecosystem for many years, but their prevalence has shown a consistent decline in recent years,” the central bank said in its report."
     },
     {
       "title": "PM arrives in Chattogram to visit Durga Puja mandap",
@@ -133,61 +243,6 @@
       "snippet": "RSGT Bangladesh handles 2,571 TEUs in 21 hours, surpassing its September record of 82 TEUs per hour."
     },
     {
-      "title": "Tk2,811 crore spent, BRT scrapped as Gazipur buses never hit the road",
-      "link": "https://www.tbsnews.net/bangladesh/transport/tk2811-crore-spent-gazipur-brt-buses-never-hit-road-1578611",
-      "pubDate": "Tue, 20 Oct 2026 19:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/07/27/brt_project.jpg",
-      "snippet": "The government has now decided to scrap the project and repurpose its existing infrastructure for use as a conventional highway."
-    },
-    {
-      "title": " PM visits Durga Puja mandap at Rajshahi's Dharmasabha Temple",
-      "link": "https://www.tbsnews.net/bangladesh/pm-visits-durga-puja-mandap-rajshahis-dharmasabha-temple-1578601",
-      "pubDate": "Tue, 20 Oct 2026 19:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/20/pm_visit_rajshahi.png",
-      "snippet": "The prime minister later attended an exchange-of-views meeting with members of the Hindu community."
-    },
-    {
-      "title": "All citizens have equal rights irrespective of religion, ethnicity: PM ",
-      "link": "https://www.tbsnews.net/bangladesh/all-citizens-have-equal-rights-irrespective-religion-ethnicity-pm-1578586",
-      "pubDate": "Tue, 20 Oct 2026 19:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/20/image-436923-1792500532.jpg",
-      "snippet": "So, let us all work together to build the Bangladesh we aspire to,” he said."
-    },
-    {
-      "title": "Jamaat ameer backs Ishraque's anti-drug drive but says carrying gun was inappropriate",
-      "link": "https://www.tbsnews.net/bangladesh/politics/jamaat-ameer-backs-ishraques-anti-drug-drive-says-carrying-gun-was-inappropriate",
-      "pubDate": "Tue, 20 Oct 2026 18:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/20/jamaat_ameer.jpg",
-      "snippet": "Jamaat chief says the former state minister’s actions should not be criticised, but publicly carrying a firearm could set a dangerous precedent."
-    },
-    {
-      "title": "Dismissed bank employees in Ctg stage sit-in, seek PM's intervention",
-      "link": "https://www.tbsnews.net/bangladesh/dismissed-bank-employees-ctg-stage-sit-seek-pms-intervention-1578566",
-      "pubDate": "Tue, 20 Oct 2026 18:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/20/854772985_1994854417856356_243331317134883096_n.jpg",
-      "snippet": "Former employees of five Islamic banks say four months of uncertainty have left them facing mounting financial hardship and urge the government to reinstate them."
-    },
-    {
       "title": "Google Cloud services down in UK; banks, public sector report issues",
       "link": "https://www.tbsnews.net/tech/google-cloud-services-down-uk-banks-public-sector-report-issues-1578561",
       "pubDate": "Tue, 20 Oct 2026 18:35:00 +0600",
@@ -202,34 +257,12 @@
       "title": "Dengue: Death toll at 357 as 5 more die",
       "link": "https://www.tbsnews.net/bangladesh/health/dengue-death-toll-357-5-more-die-1578536",
       "pubDate": "Tue, 20 Oct 2026 18:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/15/dengue.jpg",
       "snippet": "The DGHS reports 1,366 new hospital admissions in 24 hours, taking this year’s total cases to 115,617."
-    },
-    {
-      "title": "84 detained from Addl DIG's property over illegal 'DJ parties', drug use",
-      "link": "https://www.tbsnews.net/bangladesh/crime/84-detained-addl-digs-property-over-illegal-dj-parties-drug-use-1578526",
-      "pubDate": "Tue, 20 Oct 2026 18:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/27/image-428779-1790493006.jpg",
-      "snippet": "Earlier today, Abdullah Al Zahir was transferred from the Repair and Maintenance branch and attached to the Headquarters branch."
-    },
-    {
-      "title": "Another cable theft at Ctg airport ahead of PM's arrival raises security concerns",
-      "link": "https://www.tbsnews.net/bangladesh/another-cable-theft-ctg-airport-ahead-pms-arrival-raises-security-concerns-1578516",
-      "pubDate": "Tue, 20 Oct 2026 18:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/06/08/ctg_airport.jpg",
-      "snippet": "Around 500 feet of underground electrical cable worth Tk2 lakh stolen near VOR facility, despite 635 security personnel deployed across four units."
     },
     {
       "title": " Bangladesh’s energy roadmap must balance LNG imports with domestic sources",
@@ -246,10 +279,10 @@
       "title": "Measles: Death toll reaches 1,204 as 3 more children die in 24hrs",
       "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-1204-3-more-children-die-24hrs-1578446",
       "pubDate": "Tue, 20 Oct 2026 17:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/16/measlessssssss.jpeg",
       "snippet": "The latest DGHS update records 1,217 new suspected cases and 42 laboratory-confirmed infections in 24 hours."
     },
@@ -265,7 +298,7 @@
       "snippet": "She stresses the urgent need for effective measures to address this situation."
     },
     {
-      "title": "China Exim Bank, Invest Bangladesh seek to attract Chinese banks as trade reaches $19b in FY25",
+      "title": "Invest Bangladesh, China Exim Bank seek Chinese banks' entry into Bangladesh",
       "link": "https://www.tbsnews.net/economy/banking/china-exim-bank-invest-bangladesh-seek-attract-chinese-banks-trade-reaches-19bn-fy25",
       "pubDate": "Tue, 20 Oct 2026 16:15:00 +0600",
       "category": "Banking",
@@ -287,7 +320,7 @@
       "snippet": "BMU is scheduled to carry out two more transplants on 30-31 October."
     },
     {
-      "title": "Noakhali customer gets Tk1.1 lakh 'ghost power bill'; slashed to Tk1,238 after revision as staff withdrawn",
+      "title": "Noakhali customer's Tk1.1 lakh 'ghost' power bill cut to Tk1,238, staffer withdrawn",
       "link": "https://www.tbsnews.net/economy/energy/tk11-lakh-power-bill-cut-tk1238-after-revision-noakhali-staff-withdrawn-1578276",
       "pubDate": "Tue, 20 Oct 2026 14:40:00 +0600",
       "category": "Economy",
@@ -295,7 +328,7 @@
       "bg": "#e8f5e9",
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/05/electricity_bill.jpg",
-      "snippet": "The consumer's September electricity bill showed consumption of 6,000 units, compared with an average of 187 units over the previous five months."
+      "snippet": "The customer’s September bill showed 6,000 units against previous 187-unit monthly average"
     },
     {
       "title": "BTRC plans to phase out 2G networks by Dec 2029",
@@ -628,17 +661,6 @@
       "snippet": "Bangladesh Bank warns borrowers could face blackmail and threats to expose private photos, while transactions through unlicensed payment services carry legal and financial risks."
     },
     {
-      "title": "CAL Bangladesh recommends five banks with up to 81% share price upside",
-      "link": "https://www.tbsnews.net/economy/stocks/cal-bangladesh-recommends-five-banks-81-share-price-upside-1576911",
-      "pubDate": "Sun, 18 Oct 2026 21:45:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/19/collage.jpg",
-      "snippet": "BRAC Bank leads the recommendations, with a target price of Tk117.45 against its closing price of Tk65 on 5 October 2026."
-    },
-    {
       "title": "Walton High-Tech sets unique precedent in cash dividend distribution",
       "link": "https://www.tbsnews.net/economy/stocks/walton-high-tech-sets-unique-precedent-cash-dividend-distribution-1576891",
       "pubDate": "Sun, 18 Oct 2026 21:45:00 +0600",
@@ -648,17 +670,6 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/walton_picture.jpg",
       "snippet": "The disclosure came after Walton High-Tech successfully conducted its 20th AGM on a digital platform on 15 October 2026, where shareholders unanimously approved the board’s proposal for a 180% cash dividend and a 10% stock dividend."
-    },
-    {
-      "title": "BSEC proposes 50% IPO debt repayment cap, mandatory escrow accounts",
-      "link": "https://www.tbsnews.net/economy/stocks/bsec-proposes-50-ipo-debt-repayment-cap-mandatory-escrow-accounts-1576896",
-      "pubDate": "Sun, 18 Oct 2026 21:45:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/15/bsec_stock.jpg",
-      "snippet": "The proposal would prohibit the use of IPO or RPO proceeds to repay loans classified as defaulted or loans that have been rescheduled."
     },
     {
       "title": "Measles: Death toll at 1,196 as 7 more children die",
@@ -714,18 +725,7 @@
       "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/6563809.jpg",
       "snippet": "The proposal covers 23 AI technologies, including advanced large models and agents. Exports of core technologies used in AI models trained on sensitive national data would be banned, while models with at least two trillion parameters or certain world..."
-    },
-    {
-      "title": "Businesses identify 107 business hurdles, customs-VAT top list",
-      "link": "https://www.tbsnews.net/economy/industry/businesses-identify-107-business-hurdles-customs-vat-top-list-1575941",
-      "pubDate": "Sun, 18 Oct 2026 00:05:00 +0600",
-      "category": "Industry",
-      "color": "#f57c00",
-      "bg": "#fff3e0",
-      "icon": "🏭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/09/vat1.jpg",
-      "snippet": ""
     }
   ],
-  "updatedAt": "2026-10-20T15:36:58.426Z"
+  "updatedAt": "2026-10-20T19:50:34.815Z"
 }
