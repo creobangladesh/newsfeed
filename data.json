@@ -1,6 +1,72 @@
 {
   "news": [
     {
+      "title": "How many migrant workers must die before Dhaka speaks up?",
+      "link": "https://www.tbsnews.net/features/panorama/how-many-migrant-workers-must-die-dhaka-speaks-1579896",
+      "pubDate": "Thu, 22 Oct 2026 01:50:00 +0600",
+      "category": "Analysis",
+      "color": "#5d4037",
+      "bg": "#efebe9",
+      "icon": "🔍",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/22/whatsapp_image_2026-10-22_at_1.44.42_am.jpeg",
+      "snippet": "The execution of two Bangladeshis in Saudi Arabia exposes a system in which Riyadh can deny migrant workers transparency and Dhaka often discovers the consequences when intervention is already impossible"
+    },
+    {
+      "title": "Inflation pushes 8-10 million people below poverty line: Titumir",
+      "link": "https://www.tbsnews.net/economy/inflation-pushes-8-10-million-people-below-poverty-line-titumir-1579886",
+      "pubDate": "Thu, 22 Oct 2026 00:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/02/for_web_rashed_al_mahmud_titumir.png",
+      "snippet": "Sustainable energy security is essential to attract investment and create jobs, he said."
+    },
+    {
+      "title": "4 held in Mohammadpur over 'plan' to organise AL processions",
+      "link": "https://www.tbsnews.net/bangladesh/crime/4-held-mohammadpur-over-plan-organise-al-processions-1579881",
+      "pubDate": "Thu, 22 Oct 2026 00:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/22/al.png",
+      "snippet": "Police allege the four were staying in Mohammadpur to organise Awami League processions and carry out criminal activities; two face multiple cases."
+    },
+    {
+      "title": "Minister assures support to family of Umrah pilgrim killed in Riyadh attack",
+      "link": "https://www.tbsnews.net/bangladesh/minister-assures-support-family-umrah-pilgrim-killed-riyadh-attack-1579876",
+      "pubDate": "Thu, 22 Oct 2026 00:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/13/riyadh_airport_attack.jpg",
+      "snippet": "The pilgrims expressed deep gratitude to the minister for his assistance in bringing back the injured Umrah pilgrims."
+    },
+    {
+      "title": "175,000 tonnes US wheat arrive",
+      "link": "https://www.tbsnews.net/bangladesh/175000-tonnes-us-wheat-arrive-1579871",
+      "pubDate": "Thu, 22 Oct 2026 00:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/06/02/wheat.jpg",
+      "snippet": "The arrivals account for nearly 80% of the latest purchase."
+    },
+    {
+      "title": "AL used politics to plunder public wealth: Speaker",
+      "link": "https://www.tbsnews.net/bangladesh/al-used-politics-plunder-public-wealth-speaker-1579866",
+      "pubDate": "Wed, 21 Oct 2026 23:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/21/speaker.png",
+      "snippet": "Hafiz Uddin also claimed that former Prime Minister Sheikh Hasina’s son Sajeeb Wazed Joy owns numerous properties in the United States, Canada and the United Kingdom."
+    },
+    {
       "title": "BNP MP Abu Sayed Chad receives Tk12,500 sugarcane farming incentive, draws criticism",
       "link": "https://www.tbsnews.net/bangladesh/bnp-mp-abu-sayed-chad-receives-tk12500-sugarcane-farming-incentive-draws-criticism",
       "pubDate": "Wed, 21 Oct 2026 22:00:00 +0600",
@@ -23,7 +89,7 @@
       "snippet": "The youth died at Dhaka Medical College Hospital about two hours after the incident."
     },
     {
-      "title": "FDRs, stable forex buoy Desco against losses FDRs, stable forex lift Desco to profit",
+      "title": "FDRs, stable forex lift Desco to profit",
       "link": "https://www.tbsnews.net/economy/stocks/fdrs-stable-forex-buoy-desco-against-losses-fdrs-stable-forex-lift-desco-profit",
       "pubDate": "Wed, 21 Oct 2026 21:45:00 +0600",
       "category": "Economy",
@@ -188,7 +254,7 @@
       "snippet": "One tourist rescued in critical condition and taken to hospital as lifeguards and Fire Service launch search for the missing."
     },
     {
-      "title": "Biman resumes Dammam flights, schedules Riyadh service for 25 October",
+      "title": "Biman resumes Dammam flights, schedules Riyadh service for 26 Oct",
       "link": "https://www.tbsnews.net/economy/aviation/biman-resumes-dammam-flights-schedules-riyadh-service-25-october-1579656",
       "pubDate": "Wed, 21 Oct 2026 19:05:00 +0600",
       "category": "Bangladesh",
@@ -197,61 +263,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/05/10/s2-afp_-_boeing_777-3e9er_-_biman_bangladesh_airlines_-_vghs.jpg",
       "snippet": "Flights were disrupted following a series of attacks on Saudi airports in early October."
-    },
-    {
-      "title": "PM Tarique to visit Khulna, Bagerhat tomorrow",
-      "link": "https://www.tbsnews.net/bangladesh/pm-tarique-visit-khulna-bagerhat-tomorrow-1579836",
-      "pubDate": "Wed, 21 Oct 2026 19:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/12/dengue_tarique.jpg",
-      "snippet": "Prime Minister Tarique Rahman will visit Khulna and Bagerhat tomorrow to inspect the Sundarbans, review Mongla Port’s operations and jetty facilities, and visit the proposed BEZA economic zone as part of his official tour."
-    },
-    {
-      "title": "Hindu devotees bid emotional farewell to goddess as Durga Puja ends amid festivities",
-      "link": "https://www.tbsnews.net/bangladesh/hindu-devotees-bid-emotional-farewell-goddess-durga-puja-ends-amid-festivities-1579651",
-      "pubDate": "Wed, 21 Oct 2026 19:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/21/idol_immersion7.jpeg",
-      "snippet": "From Sindur Khela and temple rituals to colourful processions, thousands joined the emotional farewell to the goddess on Bijoya Dashami."
-    },
-    {
-      "title": "Saudi airport restrictions: 20,254 passengers affected as 134 flights disrupted so far",
-      "link": "https://www.tbsnews.net/economy/aviation/saudi-airport-restrictions-20254-passengers-affected-134-flights-disrupted-so-far",
-      "pubDate": "Wed, 21 Oct 2026 18:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/11/dhaka_airport.jpeg",
-      "snippet": "Disruptions affect 11 airlines operating direct and transit services."
-    },
-    {
-      "title": "Police constable among four held over armed motorcycle robbery in Ctg",
-      "link": "https://www.tbsnews.net/bangladesh/crime/police-constable-among-four-held-over-armed-motorcycle-robbery-ctg-1579556",
-      "pubDate": "Wed, 21 Oct 2026 18:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/21/848880896_4637380603177441_8095642348579263244_n.jpg",
-      "snippet": "Victim traces stolen bike through Facebook sale advertisement."
-    },
-    {
-      "title": "103 crude bombs recovered from abandoned sack in Rajshahi",
-      "link": "https://www.tbsnews.net/bangladesh/103-crude-bombs-recovered-abandoned-sack-rajshahi-1579491",
-      "pubDate": "Wed, 21 Oct 2026 18:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/15/crude_bomb.png",
-      "snippet": "The homemade explosives were found in a litchi orchard in Kashiadanga during a raid based on a tip-off, says SRB."
     },
     {
       "title": "Cyberattack hits State Bank of India, exposes customer records",
@@ -785,24 +796,13 @@
       "title": "1,500 staff, deposit risks deter buyers from StanChart retail business",
       "link": "https://www.tbsnews.net/economy/banking/1500-staff-deposit-risks-deter-buyers-stanchart-retail-business-1577056",
       "pubDate": "Mon, 19 Oct 2026 07:25:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/24/standard-chartered-bank.jpg",
       "snippet": "City Bank only lender signed NDA for cost-benefit analysis of proposed acquisition"
-    },
-    {
-      "title": "COP31: Bangladesh’s test of climate diplomacy ",
-      "link": "https://www.tbsnews.net/thoughts/cop31-bangladeshs-test-climate-diplomacy-1577046",
-      "pubDate": "Mon, 19 Oct 2026 01:35:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/19/uncc.jpg",
-      "snippet": "Bangladesh no longer needs to prove its climate vulnerability. The next challenge is to prove that it can turn vulnerability into evidence, evidence into alliances, and alliances into finance and action"
     }
   ],
-  "updatedAt": "2026-10-21T17:31:43.277Z"
+  "updatedAt": "2026-10-21T21:18:26.085Z"
 }
