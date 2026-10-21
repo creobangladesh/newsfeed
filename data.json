@@ -1,6 +1,127 @@
 {
   "news": [
     {
+      "title": "Black rice farming raises hopes for crop diversification in B'baria",
+      "link": "https://www.tbsnews.net/agriculture/black-rice-farming-raises-hopes-crop-diversification-bbaria-1579091",
+      "pubDate": "Wed, 21 Oct 2026 11:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/21/black_rice.jpg",
+      "snippet": "The crop has started producing dark-coloured panicles, attracting the attention of local residents and fellow farmers."
+    },
+    {
+      "title": "Road accidents kill 7,963 children in Bangladesh in around 7 years: RSF",
+      "link": "https://www.tbsnews.net/bangladesh/road-accidents-kill-7963-children-bangladesh-around-7-years-rsf-1579106",
+      "pubDate": "Wed, 21 Oct 2026 11:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/05/gazipur_kaliakair_road_accident.jpg",
+      "snippet": ""
+    },
+    {
+      "title": "Rajshahi divisional commissioner transferred after alleged protocol breach with PM",
+      "link": "https://www.tbsnews.net/bangladesh/rajshahi-divisional-commissioner-transferred-after-alleged-protocol-breach-pm-1579071",
+      "pubDate": "Wed, 21 Oct 2026 11:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/21/6ad8414aa0020.jpg",
+      "snippet": "Before boarding a military aircraft, the prime minister shook hands with political leaders and administrative officials. After shaking hands with him, Yusuf Ali allegedly leaned forward and attempted to approach him, in what was described as a breach..."
+    },
+    {
+      "title": "New mayfly species discovered at Khaiyachhara, habitat threatened by waste",
+      "link": "https://www.tbsnews.net/bangladesh/environment/new-mayfly-species-discovered-khaiyachhara-habitat-threatened-waste-1578961",
+      "pubDate": "Wed, 21 Oct 2026 11:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/21/mayfly.jpg",
+      "snippet": "Researchers observed plastic bottles, polythene bags and food waste accumulating near the sampling site as tourist visits increased, despite its distance from human settlements."
+    },
+    {
+      "title": "RMG exporters fear EU order slump as protests intensify",
+      "link": "https://www.tbsnews.net/economy/rmg/rmg-exporters-fear-eu-order-slump-protests-intensify-1578931",
+      "pubDate": "Wed, 21 Oct 2026 11:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/16/rmg_hannan_group_3_1.jpg",
+      "snippet": "They also concerned about rising costs, competition"
+    },
+    {
+      "title": "Govt scraps 9 ADP projects, merges 32 to tighten fiscal belt",
+      "link": "https://www.tbsnews.net/bangladesh/govt-scraps-9-adp-projects-merges-32-tighten-fiscal-belt-1578911",
+      "pubDate": "Wed, 21 Oct 2026 10:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/21/857772011_1697826428529432_341061046782357551_n.jpg",
+      "snippet": "Official documents show that the nine cancelled projects have so far spent Tk156 crore."
+    },
+    {
+      "title": "Bobby Hajjaj asks Hindu community leaders to directly inform him of their concerns",
+      "link": "https://www.tbsnews.net/bangladesh/bobby-hajjaj-asks-hindu-community-leaders-directly-inform-him-their-concerns-1578926",
+      "pubDate": "Wed, 21 Oct 2026 09:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/21/8887385.jpg",
+      "snippet": "Bobby Hajjaj expressed his pleasure at having the opportunity to share the joy of religious festivals with people from different communities."
+    },
+    {
+      "title": "AJR Courier warehouse in Hazaribagh vandalised, looted over alleged rent dispute",
+      "link": "https://www.tbsnews.net/bangladesh/ajr-courier-warehouse-hazaribagh-vandalised-looted-over-alleged-rent-dispute-1578921",
+      "pubDate": "Wed, 21 Oct 2026 09:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/21/untitled_design_40.jpg",
+      "snippet": "The attackers allegedly vandalised the warehouse and office and looted customers’ parcels, valuable equipment, and office belongings."
+    },
+    {
+      "title": "Bangladesh delegation meets Algerian PM as MoU signed on energy cooperation",
+      "link": "https://www.tbsnews.net/foreign-policy/bangladesh-delegation-meets-algerian-pm-mou-signed-energy-cooperation-1578916",
+      "pubDate": "Wed, 21 Oct 2026 09:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/21/4882015.jpg",
+      "snippet": "The two sides discussed a wide range of issues to further strengthen bilateral relations for the mutual benefit of Bangladesh and Algeria."
+    },
+    {
+      "title": "Saudi execution of two Bangladeshis 'sad, tragic': Law minister",
+      "link": "https://www.tbsnews.net/bangladesh/saudi-execution-two-bangladeshis-sad-tragic-law-minister-1578906",
+      "pubDate": "Wed, 21 Oct 2026 09:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/21/7419350.jpg",
+      "snippet": "Responding to a question about legal assistance for expatriates and the role of Bangladesh's overseas missions in dealing with detained citizens, Asaduzzaman said it was inappropriate to make sweeping allegations against embassies."
+    },
+    {
+      "title": "PSG sink Barcelona in six-goal thriller, Liverpool and Man City win",
+      "link": "https://www.tbsnews.net/sports/psg-sink-barcelona-six-goal-thriller-liverpool-and-man-city-win-1578901",
+      "pubDate": "Wed, 21 Oct 2026 07:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/21/uefa_football_psg_barcelona.png",
+      "snippet": "Desire Doue, Lucas Hernandez, Vitinha and Fabian Ruiz scored for PSG, with Xavi Espart and Lamine Yamal twice pulling Barcelona level in the second half"
+    },
+    {
       "title": "Çelebi eyes electric ground equipment investment, promises better baggage services at Dhaka airport",
       "link": "https://www.tbsnews.net/interviews/celebi-eyes-electric-ground-equipment-investment-promises-better-baggage-services-dhaka",
       "pubDate": "Wed, 21 Oct 2026 07:15:00 +0600",
@@ -111,92 +232,26 @@
       "snippet": "Consulate says it has no knowledge of any such previous precedence."
     },
     {
-      "title": "Saudi police arrest 4 Bangladeshis, Indians over 'begging'",
-      "link": "https://www.tbsnews.net/bangladesh/saudi-police-arrest-4-bangladeshis-indians-over-begging-1578781",
-      "pubDate": "Tue, 20 Oct 2026 21:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/20/80de647b-0ed7-4885-8287-e88ee1106a21.png",
-      "snippet": "The arrests come as Saudi authorities intensify a campaign against begging and urge people to donate through authorised platforms."
-    },
-    {
       "title": "Credit card transactions rise 30% YoY to Tk4,089cr in August, dips 5.4% from July",
       "link": "https://www.tbsnews.net/economy/banking/credit-card-transactions-rise-30-yoy-tk4089cr-august-dips-54-july-1578791",
       "pubDate": "Tue, 20 Oct 2026 21:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/02/13/card_0.jpg",
       "snippet": "“Cash transactions have been dominating Bangladesh’s consumer payment ecosystem for many years, but their prevalence has shown a consistent decline in recent years,” the central bank said in its report."
-    },
-    {
-      "title": "PM arrives in Chattogram to visit Durga Puja mandap",
-      "link": "https://www.tbsnews.net/bangladesh/politics/pm-arrives-chattogram-visit-durga-puja-mandap-1578776",
-      "pubDate": "Tue, 20 Oct 2026 21:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/20/pm_ctg.png",
-      "snippet": "Thousands of BNP leaders, activists and supporters stood in rows along both sides of the roads to greet the prime minister."
-    },
-    {
-      "title": "Speaker Hafiz Uddin urges ruling party leaders, activists to reform themselves",
-      "link": "https://www.tbsnews.net/bangladesh/speaker-hafiz-uddin-urges-ruling-party-leaders-activists-reform-themselves-1578761",
-      "pubDate": "Tue, 20 Oct 2026 21:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/speaker_hafiz.jpg",
-      "snippet": "He also referred to State Minister Ishraque Hossain’s resignation."
-    },
-    {
-      "title": "Ousted autocrat funding a party to destabilise country: PM",
-      "link": "https://www.tbsnews.net/bangladesh/intelligence-reports-show-money-flowing-ousted-autocrat-political-party-pm-1578756",
-      "pubDate": "Tue, 20 Oct 2026 20:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/20/pm_tarique_rajshahi.jpg",
-      "snippet": "He says intelligence reports point to attempts to foment unrest, as he urges people to remain vigilant against efforts to disrupt the country’s stability."
-    },
-    {
-      "title": "Body of Bangladeshi killed in Riyadh airport attack due Friday",
-      "link": "https://www.tbsnews.net/bangladesh/body-bangladeshi-killed-riyadh-airport-attack-due-friday-1578746",
-      "pubDate": "Tue, 20 Oct 2026 20:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/13/riyadh_airport_attack.jpg",
-      "snippet": "Employer deposits around Tk9 lakh in outstanding salary and benefits."
     },
     {
       "title": "Bretton Woods in Bangkok: Structural reforms, revenue overhaul key to building economic resilience",
       "link": "https://www.tbsnews.net/economy/bretton-woods-bangkok-structural-reforms-revenue-overhaul-key-building-economic-resilience",
       "pubDate": "Tue, 20 Oct 2026 20:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/20/imf-wb.png",
       "snippet": "Dhaka faces policy choices to align with key outcomes of World Bank-IMF meetings"
-    },
-    {
-      "title": "Birth, death registration services suspended for seven days",
-      "link": "https://www.tbsnews.net/bangladesh/birth-death-registration-services-suspended-seven-days-1578741",
-      "pubDate": "Tue, 20 Oct 2026 20:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/20/image-436959-1792506063.jpg",
-      "snippet": "Maintenance of the BDRIS software will be carried out from 6:00 am on October 19 to 6am on 25 October."
     },
     {
       "title": "China says US DeepSeek ban disregards Xi-Trump consensus",
@@ -213,34 +268,12 @@
       "title": "Bangladesh scores 13 out of 32 in global climate-health assessment",
       "link": "https://www.tbsnews.net/bangladesh/environment/bangladesh-scores-13-out-32-global-climate-health-assessment-1578686",
       "pubDate": "Tue, 20 Oct 2026 20:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/20/global_climate-health_assessment.jpg",
       "snippet": "The country receives full marks for recognising health benefits of climate action but scores zero for financing and implementation monitoring."
-    },
-    {
-      "title": "Jamaat ameer skipped July Memorial inauguration as invitation failed to give him due respect: Porwar",
-      "link": "https://www.tbsnews.net/bangladesh/politics/jamaat-ameer-skipped-july-memorial-inauguration-invitation-failed-give-him-due",
-      "pubDate": "Tue, 20 Oct 2026 20:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/20/porwar_jamaat_2.jpg",
-      "snippet": "The Jamaat secretary general rejects the prime minister’s claim that the opposition “does not embrace July Uprising,” accuses BNP government of following Awami League’s “path of fascism.”"
-    },
-    {
-      "title": "Cox's Bazar expects over 700,000 tourists during five-day holiday",
-      "link": "https://www.tbsnews.net/bangladesh/coxs-bazar-expects-over-700000-tourists-during-five-day-holiday-1578666",
-      "pubDate": "Tue, 20 Oct 2026 19:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/20/78207.jpg",
-      "snippet": "Around 90% of hotel and motel rooms are booked as holidaymakers flock to the beach, with authorities stepping up security and monitoring."
     },
     {
       "title": "Google Cloud services down in UK; banks, public sector report issues",
@@ -714,18 +747,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/untitled_design_4.png",
       "snippet": "Health and Family Welfare Minister Sardar Md Sakhawat Husain stressed the need to ensure that disadvantaged women receive proper medical care."
-    },
-    {
-      "title": "China proposes export curbs on AI, chip and solar technologies",
-      "link": "https://www.tbsnews.net/tech/china-proposes-export-curbs-ai-chip-and-solar-technologies-1576076",
-      "pubDate": "Sun, 18 Oct 2026 10:35:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/6563809.jpg",
-      "snippet": "The proposal covers 23 AI technologies, including advanced large models and agents. Exports of core technologies used in AI models trained on sensitive national data would be banned, while models with at least two trillion parameters or certain world..."
     }
   ],
-  "updatedAt": "2026-10-21T01:24:03.840Z"
+  "updatedAt": "2026-10-21T06:20:52.567Z"
 }
