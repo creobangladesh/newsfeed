@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Çelebi eyes electric ground equipment investment, promises better baggage services at Dhaka airport",
+      "link": "https://www.tbsnews.net/interviews/celebi-eyes-electric-ground-equipment-investment-promises-better-baggage-services-dhaka",
+      "pubDate": "Wed, 21 Oct 2026 07:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/21/p3_interview_dave_william_dorner.jpg",
+      "snippet": "Dave Dorner, group CEO of Çelebi Aviation, recently spoke to The Business Standard’s senior staff correspondent Kamran Siddiqui in a virtual interview about the company’s interest in Bangladesh"
+    },
+    {
       "title": "CPA disputes NBR study on 11-day cargo clearance time",
       "link": "https://www.tbsnews.net/nbr/cpa-disputes-nbr-study-11-day-cargo-clearance-time-1578866",
       "pubDate": "Wed, 21 Oct 2026 00:55:00 +0600",
@@ -230,17 +241,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/20/78207.jpg",
       "snippet": "Around 90% of hotel and motel rooms are booked as holidaymakers flock to the beach, with authorities stepping up security and monitoring."
-    },
-    {
-      "title": "Patenga terminal sets new vessel handling record at 122 TEUs per hour",
-      "link": "https://www.tbsnews.net/bangladesh/patenga-terminal-sets-new-vessel-handling-record-122-teus-hour-1578606",
-      "pubDate": "Tue, 20 Oct 2026 19:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/20/857105019_1603046197686779_3316153902143845755_n.jpg",
-      "snippet": "RSGT Bangladesh handles 2,571 TEUs in 21 hours, surpassing its September record of 82 TEUs per hour."
     },
     {
       "title": "Google Cloud services down in UK; banks, public sector report issues",
@@ -727,5 +727,5 @@
       "snippet": "The proposal covers 23 AI technologies, including advanced large models and agents. Exports of core technologies used in AI models trained on sensitive national data would be banned, while models with at least two trillion parameters or certain world..."
     }
   ],
-  "updatedAt": "2026-10-20T22:56:36.833Z"
+  "updatedAt": "2026-10-21T01:24:03.840Z"
 }
