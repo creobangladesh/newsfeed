@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Bangladesh seeks $3.77b on top of WB loans for LNG import, food security in FY27",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-seeks-377b-top-wb-loans-lng-import-food-security-fy27-1579921",
+      "pubDate": "Thu, 22 Oct 2026 10:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/22/wb-loans.png",
+      "snippet": "The proposal was first raised by the prime minister during a bilateral meeting with the World Bank president on 22 September on the sidelines of the UNGA in New York."
+    },
+    {
+      "title": "Puja rush leaves hotels, resorts fully booked at tourist hotspots",
+      "link": "https://www.tbsnews.net/bangladesh/puja-rush-leaves-hotels-resorts-fully-booked-tourist-hotspots-1579901",
+      "pubDate": "Thu, 22 Oct 2026 07:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/20/78207.jpg",
+      "snippet": "Gazipur, Cox’s Bazar, Kuakata and Bandarban are among the hotspots as families and groups of friends make the most of the extended break."
+    },
+    {
       "title": "How many migrant workers must die before Dhaka speaks up?",
       "link": "https://www.tbsnews.net/features/panorama/how-many-migrant-workers-must-die-dhaka-speaks-1579896",
       "pubDate": "Thu, 22 Oct 2026 01:50:00 +0600",
@@ -243,28 +265,6 @@
       "snippet": "Bangladesh should use COP31 to turn its climate commitments into measurable action by securing adequate international climate finance and prioritising methane reduction, climate-resilient food systems and sustainable urban development"
     },
     {
-      "title": "3 tourists drown, 2 missing after being swept away at Himchari beach",
-      "link": "https://www.tbsnews.net/bangladesh/3-tourists-drown-2-missing-after-being-swept-away-himchari-beach-1579661",
-      "pubDate": "Wed, 21 Oct 2026 19:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/08/22/drown-istock.jpg",
-      "snippet": "One tourist rescued in critical condition and taken to hospital as lifeguards and Fire Service launch search for the missing."
-    },
-    {
-      "title": "Biman resumes Dammam flights, schedules Riyadh service for 26 Oct",
-      "link": "https://www.tbsnews.net/economy/aviation/biman-resumes-dammam-flights-schedules-riyadh-service-25-october-1579656",
-      "pubDate": "Wed, 21 Oct 2026 19:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/05/10/s2-afp_-_boeing_777-3e9er_-_biman_bangladesh_airlines_-_vghs.jpg",
-      "snippet": "Flights were disrupted following a series of attacks on Saudi airports in early October."
-    },
-    {
       "title": "Cyberattack hits State Bank of India, exposes customer records",
       "link": "https://www.tbsnews.net/world/south-asia/cyberattack-hits-state-bank-india-exposes-customer-records-1579461",
       "pubDate": "Wed, 21 Oct 2026 18:05:00 +0600",
@@ -276,28 +276,6 @@
       "snippet": ""
     },
     {
-      "title": " Dengue: Death toll reaches 364 as 7 more die",
-      "link": "https://www.tbsnews.net/bangladesh/health/dengue-death-toll-reaches-364-7-more-die-1579376",
-      "pubDate": "Wed, 21 Oct 2026 17:00:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/15/dengue.jpg",
-      "snippet": "Dhaka South records all seven deaths as 1,373 new patients are hospitalised nationwide."
-    },
-    {
-      "title": "Measles: Death toll reaches 1,205 as one more child dies",
-      "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-1205-one-more-child-dies-1579351",
-      "pubDate": "Wed, 21 Oct 2026 16:20:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/26/measles.jpg",
-      "snippet": "997 new suspected cases reported in the latest 24-hour period"
-    },
-    {
       "title": "Is AI exposing a skills gap Bangladesh can no longer ignore? ",
       "link": "https://www.tbsnews.net/thoughts/ai-exposing-skills-gap-bangladesh-can-no-longer-ignore-1579356",
       "pubDate": "Wed, 21 Oct 2026 16:15:00 +0600",
@@ -307,17 +285,6 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/21/ai.png",
       "snippet": "Why reading comprehension, reasoning, and critical thinking may be just as important as access to artificial intelligence"
-    },
-    {
-      "title": "Rajshahi Medical College interns continue work abstention, warn of tougher programmes",
-      "link": "https://www.tbsnews.net/bangladesh/health/rajshahi-medical-college-interns-go-work-abstention-1579156",
-      "pubDate": "Wed, 21 Oct 2026 12:50:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/03/19/rmch.jpg",
-      "snippet": "The society’s leaders said several intern doctors had received death threats."
     },
     {
       "title": "Why is Europe burning?",
@@ -780,29 +747,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/19/india_protest.jpg",
       "snippet": "India’s democratic credibility is at stake as the erosion of trust in the Election Commission raises questions about electoral independence, political accountability and the future of free and fair elections"
-    },
-    {
-      "title": "Deposit rate cut comes when inflation already eats up savings",
-      "link": "https://www.tbsnews.net/economy/banking/deposit-rate-cut-comes-when-inflation-already-eats-savings-1577086",
-      "pubDate": "Mon, 19 Oct 2026 10:30:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/19/bank_deposit.jpg",
-      "snippet": "Banks cut fixed deposit rates to 7.5% as deposits rise and private-sector lending remains sluggish, leaving savers with negative real returns"
-    },
-    {
-      "title": "1,500 staff, deposit risks deter buyers from StanChart retail business",
-      "link": "https://www.tbsnews.net/economy/banking/1500-staff-deposit-risks-deter-buyers-stanchart-retail-business-1577056",
-      "pubDate": "Mon, 19 Oct 2026 07:25:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/24/standard-chartered-bank.jpg",
-      "snippet": "City Bank only lender signed NDA for cost-benefit analysis of proposed acquisition"
     }
   ],
-  "updatedAt": "2026-10-22T00:06:13.209Z"
+  "updatedAt": "2026-10-22T05:11:39.815Z"
 }
