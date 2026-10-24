@@ -1,6 +1,50 @@
 {
   "news": [
     {
+      "title": "HSC, equivalent exam results to be published on 29 October",
+      "link": "https://www.tbsnews.net/bangladesh/education/hsc-equivalent-exam-results-be-published-29-october-1581916",
+      "pubDate": "Sun, 25 Oct 2026 00:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/06/whatsapp_image_2022-11-06_at_11.47.22_am.jpeg",
+      "snippet": "The Inter-Education Board Coordination Committee says details on the results publication will be announced in a press release on 26 October."
+    },
+    {
+      "title": "Multiple proposals emerge on caretaker govt structure",
+      "link": "https://www.tbsnews.net/bangladesh/multiple-proposals-emerge-caretaker-govt-structure-1581911",
+      "pubDate": "Sat, 24 Oct 2026 23:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/24/home_minister.jpg",
+      "snippet": "The home minister says constitutional experts had discussed whether an upper chamber could play a role in forming a caretaker government and whether the process could be incorporated into the Constitution."
+    },
+    {
+      "title": "Hefazat demands halt to Saad followers' Ijtema activities in Tongi",
+      "link": "https://www.tbsnews.net/bangladesh/hefazat-demands-halt-saad-followers-ijtema-activities-tongi-1581896",
+      "pubDate": "Sat, 24 Oct 2026 21:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/24/ijtema.jpg",
+      "snippet": "The organisation also demands speedy investigations and charge sheets in murder cases over incidents in 2018 and 2024, currently being investigated by the PBI."
+    },
+    {
+      "title": "Import-export operations resume at Hili Land Port in Dinajpur",
+      "link": "https://www.tbsnews.net/economy/import-export-operations-resume-hili-land-port-dinajpur-1581881",
+      "pubDate": "Sat, 24 Oct 2026 21:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/07/27/hili_landport.jpg",
+      "snippet": "Operations at the Hili Land Port returned to normal today at 2:30pm."
+    },
+    {
       "title": "19 Chhatra League activists arrested while preparing for procession near Baitul Mukarram",
       "link": "https://www.tbsnews.net/bangladesh/19-chhatra-league-activists-arrested-while-preparing-procession-near-baitul-mukarram",
       "pubDate": "Sat, 24 Oct 2026 21:25:00 +0600",
@@ -111,17 +155,6 @@
       "snippet": "Caller allegedly demands a settlement by today as police verify recording."
     },
     {
-      "title": "Ex-MP, journalist Shafiqur Rahman passes away",
-      "link": "https://www.tbsnews.net/bangladesh/obituary/ex-mp-journalist-shafiqur-rahman-passes-away-1581751",
-      "pubDate": "Sat, 24 Oct 2026 19:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/24/shafiqul.jpg",
-      "snippet": "The former lawmaker was taken to Evercare Hospital after falling in his home bathroom this afternoon, where doctors declared him dead."
-    },
-    {
       "title": "Shama Obaed urges developed countries to honour climate finance pledges ahead of COP31",
       "link": "https://www.tbsnews.net/bangladesh/shama-obaed-urges-developed-countries-honour-climate-finance-pledges-ahead-cop31-1581746",
       "pubDate": "Sat, 24 Oct 2026 19:15:00 +0600",
@@ -131,6 +164,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/24/pre-cop_event_1.jpeg",
       "snippet": "The state minister calls for grant-based support, stronger coordination and a unified national position, as Bangladesh’s climate plans require billions of dollars in international funding."
+    },
+    {
+      "title": "Ex-MP, journalist Shafiqur Rahman passes away",
+      "link": "https://www.tbsnews.net/bangladesh/obituary/ex-mp-journalist-shafiqur-rahman-passes-away-1581751",
+      "pubDate": "Sat, 24 Oct 2026 19:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/24/shafiqul.jpg",
+      "snippet": "The former lawmaker was taken to Evercare Hospital after falling in his home bathroom this afternoon, where doctors declared him dead."
     },
     {
       "title": "Vaping after quitting smoking linked to higher lung cancer risk: Study",
@@ -186,50 +230,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/07/21/mob_beating.jpg",
       "snippet": "Police say a toy pistol and a machete were recovered from the two men after locals caught them over an alleged mugging attempt."
-    },
-    {
-      "title": "BTRC allows Viasat for in-flight internet service with $2,000 annual fee",
-      "link": "https://www.tbsnews.net/bangladesh/btrc-allows-viasat-flight-internet-service-2000-annual-fee-1581666",
-      "pubDate": "Sat, 24 Oct 2026 17:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/24/gemini_generated_image_stsyfwstsyfwstsy.jpg",
-      "snippet": "The recommendation is subject to security clearances and final approval, while a BTRC committee has suggested reviewing the $2,000 annual fee."
-    },
-    {
-      "title": "13 muggers, including woman and teenagers arrested in Mohammadpur",
-      "link": "https://www.tbsnews.net/bangladesh/crime/13-muggers-including-woman-and-teenagers-arrested-mohammadpur-1581656",
-      "pubDate": "Sat, 24 Oct 2026 17:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/07/20/woman_arrested.jpg",
-      "snippet": "Police seize blades, knives, iron rods and four mobile phones."
-    },
-    {
-      "title": "Rizvi warns of planned cultural aggression in Bangladesh",
-      "link": "https://www.tbsnews.net/bangladesh/rizvi-warns-planned-cultural-aggression-bangladesh-1581646",
-      "pubDate": "Sat, 24 Oct 2026 17:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/24/rizvi.jpg",
-      "snippet": "He alleges attempts to reshape Bengali vocabulary and national identity."
-    },
-    {
-      "title": "Shama seeks stronger UN support, affordable financing for LDC graduation",
-      "link": "https://www.tbsnews.net/foreign-policy/shama-seeks-stronger-un-support-affordable-financing-ldc-graduation-1581636",
-      "pubDate": "Sat, 24 Oct 2026 17:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/24/shama_obaed_2.jpg",
-      "snippet": "She urges stronger UN engagement to facilitate the early and sustainable repatriation of Rohingyas to their homeland in Myanmar."
     },
     {
       "title": "Health minister's surprise visit: Nurse transferred, 4 doctors face pay cuts in Mymensingh",
@@ -626,18 +626,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/02/for_web_rashed_al_mahmud_titumir.png",
       "snippet": "Sustainable energy security is essential to attract investment and create jobs, he said."
-    },
-    {
-      "title": "FDRs, stable forex lift Desco to profit",
-      "link": "https://www.tbsnews.net/economy/stocks/fdrs-stable-forex-buoy-desco-against-losses-fdrs-stable-forex-lift-desco-profit",
-      "pubDate": "Wed, 21 Oct 2026 21:45:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/14/desco.png",
-      "snippet": "Auditor, however, flags Tk114cr investment stuck in ‘distressed banks’, raises doubt about recoverability"
     }
   ],
-  "updatedAt": "2026-10-24T15:28:13.912Z"
+  "updatedAt": "2026-10-24T18:18:59.472Z"
 }
