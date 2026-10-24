@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Saudi airport restrictions: 22,021 passengers affected as 144 flights disrupted so far",
+      "link": "https://www.tbsnews.net/economy/aviation/saudi-airport-restrictions-22021-passengers-affected-144-flights-disrupted-so-far",
+      "pubDate": "Sun, 25 Oct 2026 00:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/11/dhaka_airport.jpeg",
+      "snippet": "The latest figures show 67 disrupted direct flights and 77 transit flights, with Biman Bangladesh Airlines recording the highest number of affected direct services."
+    },
+    {
+      "title": "Madrasah files counter-case against rape case complainant, 5 others in Savar",
+      "link": "https://www.tbsnews.net/bangladesh/madrasah-files-counter-case-against-rape-case-complainant-5-others-savar-1581921",
+      "pubDate": "Sun, 25 Oct 2026 00:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/09/30/savar_model_thana.jpg",
+      "snippet": "The madrasah headteacher’s son alleges the accused vandalised the institution and a nearby residence, looting Tk47 lakh in cash and 12 bhori of gold ornaments."
+    },
+    {
       "title": "HSC, equivalent exam results to be published on 29 October",
       "link": "https://www.tbsnews.net/bangladesh/education/hsc-equivalent-exam-results-be-published-29-october-1581916",
       "pubDate": "Sun, 25 Oct 2026 00:10:00 +0600",
@@ -155,17 +177,6 @@
       "snippet": "Caller allegedly demands a settlement by today as police verify recording."
     },
     {
-      "title": "Shama Obaed urges developed countries to honour climate finance pledges ahead of COP31",
-      "link": "https://www.tbsnews.net/bangladesh/shama-obaed-urges-developed-countries-honour-climate-finance-pledges-ahead-cop31-1581746",
-      "pubDate": "Sat, 24 Oct 2026 19:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/24/pre-cop_event_1.jpeg",
-      "snippet": "The state minister calls for grant-based support, stronger coordination and a unified national position, as Bangladesh’s climate plans require billions of dollars in international funding."
-    },
-    {
       "title": "Ex-MP, journalist Shafiqur Rahman passes away",
       "link": "https://www.tbsnews.net/bangladesh/obituary/ex-mp-journalist-shafiqur-rahman-passes-away-1581751",
       "pubDate": "Sat, 24 Oct 2026 19:15:00 +0600",
@@ -175,6 +186,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/24/shafiqul.jpg",
       "snippet": "The former lawmaker was taken to Evercare Hospital after falling in his home bathroom this afternoon, where doctors declared him dead."
+    },
+    {
+      "title": "Shama Obaed urges developed countries to honour climate finance pledges ahead of COP31",
+      "link": "https://www.tbsnews.net/bangladesh/shama-obaed-urges-developed-countries-honour-climate-finance-pledges-ahead-cop31-1581746",
+      "pubDate": "Sat, 24 Oct 2026 19:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/24/pre-cop_event_1.jpeg",
+      "snippet": "The state minister calls for grant-based support, stronger coordination and a unified national position, as Bangladesh’s climate plans require billions of dollars in international funding."
     },
     {
       "title": "Vaping after quitting smoking linked to higher lung cancer risk: Study",
@@ -213,23 +235,12 @@
       "title": "Bangladesh Bank website still offline over global PHP security vulnerability",
       "link": "https://www.tbsnews.net/economy/banking/bangladesh-bank-website-still-offline-over-global-php-security-vulnerability-1581696",
       "pubDate": "Sat, 24 Oct 2026 18:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/bangladesh_bank.jpg",
       "snippet": "The central bank has remained offline since 22 October as technical teams assess PHP security flaws that could expose servers and sensitive data to cyberattacks."
-    },
-    {
-      "title": "Two suspected muggers detained after mob beating in Kushtia",
-      "link": "https://www.tbsnews.net/bangladesh/two-suspected-muggers-detained-after-mob-beating-kushtia-1581676",
-      "pubDate": "Sat, 24 Oct 2026 18:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/07/21/mob_beating.jpg",
-      "snippet": "Police say a toy pistol and a machete were recovered from the two men after locals caught them over an alleged mugging attempt."
     },
     {
       "title": "Health minister's surprise visit: Nurse transferred, 4 doctors face pay cuts in Mymensingh",
@@ -604,29 +615,7 @@
       "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/22/mark_zuckerberg_1791923532940_krkx_1791923533066_1mpp_ee916047-9cd3-40da-a274-9995636c0d7c_ewjt.jpg",
       "snippet": "The lawsuit originated from Meta's role in the Cambridge Analytica scandal, in which the political consulting firm used data from millions of Facebook users, including in work related to the 2016 US presidential election."
-    },
-    {
-      "title": "How many migrant workers must die before Dhaka speaks up?",
-      "link": "https://www.tbsnews.net/features/panorama/how-many-migrant-workers-must-die-dhaka-speaks-1579896",
-      "pubDate": "Thu, 22 Oct 2026 01:50:00 +0600",
-      "category": "Analysis",
-      "color": "#5d4037",
-      "bg": "#efebe9",
-      "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/22/whatsapp_image_2026-10-22_at_1.44.42_am.jpeg",
-      "snippet": "The execution of two Bangladeshis in Saudi Arabia exposes a system in which Riyadh can deny migrant workers transparency and Dhaka often discovers the consequences when intervention is already impossible"
-    },
-    {
-      "title": "Inflation pushes 8-10 million people below poverty line: Titumir",
-      "link": "https://www.tbsnews.net/economy/inflation-pushes-8-10-million-people-below-poverty-line-titumir-1579886",
-      "pubDate": "Thu, 22 Oct 2026 00:50:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/02/for_web_rashed_al_mahmud_titumir.png",
-      "snippet": "Sustainable energy security is essential to attract investment and create jobs, he said."
     }
   ],
-  "updatedAt": "2026-10-24T18:18:59.472Z"
+  "updatedAt": "2026-10-24T21:03:42.515Z"
 }
