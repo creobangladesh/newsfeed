@@ -1,6 +1,94 @@
 {
   "news": [
     {
+      "title": "Rain likely in Ctg division ",
+      "link": "https://www.tbsnews.net/bangladesh/environment/rain-likely-ctg-division-1581416",
+      "pubDate": "Sat, 24 Oct 2026 12:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/26/rainfall_0.jpg",
+      "snippet": "The highest temperature yesterday was 35.6 degrees Celsius in Sandwip and Ambagan under Chattogram division, while today's minimum temperature was 17.7 degrees Celsius in Tetulia."
+    },
+    {
+      "title": "Cox's Bazar's iconic station: Built for the future, deteriorating in the present",
+      "link": "https://www.tbsnews.net/bangladesh/transport/coxs-bazars-iconic-station-built-future-deteriorating-present-1581326",
+      "pubDate": "Sat, 24 Oct 2026 12:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/24/coxs_bazar_railway_station.jpg",
+      "snippet": "Passengers deprived of promised amenities as the station awaits full operation"
+    },
+    {
+      "title": "China launches 'green channel' for Bangladeshi eye patients",
+      "link": "https://www.tbsnews.net/bangladesh/china-launches-green-channel-bangladeshi-eye-patients-1581391",
+      "pubDate": "Sat, 24 Oct 2026 11:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/24/image-437804-1792818906.jpg",
+      "snippet": "According to a press release, under the new arrangement, Bangladeshi patients will be able to receive medical consultations and have their medical documents reviewed before travelling to China for treatment."
+    },
+    {
+      "title": "Chickpea prices rise amid artificial shortage fears despite normal imports",
+      "link": "https://www.tbsnews.net/markets/chickpea-prices-rise-amid-artificial-shortage-fears-despite-normal-imports-1581316",
+      "pubDate": "Sat, 24 Oct 2026 11:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/01/12/lentils-chickpeas.jpg",
+      "snippet": "Wholesale prices in Chattogram’s Khatunganj market have increased by Tk17-21 per kg over the past two months, even after the country imported more chickpeas in July and August than during the same period last year"
+    },
+    {
+      "title": "Govt moves to ensure safe water, sanitation in Barind region",
+      "link": "https://www.tbsnews.net/bangladesh/govt-moves-ensure-safe-water-sanitation-barind-region-1581341",
+      "pubDate": "Sat, 24 Oct 2026 11:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/24/image-437800-1792817231_1.jpg",
+      "snippet": "The project will be placed before the next meeting of the Executive Committee of the National Economic Council (ECNEC), scheduled to be held tomorrow at the Bangladesh Secretariat, with ECNEC Chairman and Prime Minister Tarique Rahman in the chair."
+    },
+    {
+      "title": "Govt explores Sukuk, dollar bonds for $1.3b Matarbari Phase 2",
+      "link": "https://www.tbsnews.net/economy/energy/govt-explores-sukuk-dollar-bonds-13b-matarbari-phase-2-1581301",
+      "pubDate": "Sat, 24 Oct 2026 10:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/24/p1_infograph_funding_matarbari-2_coal_power_plant_leadipdc-3.png",
+      "snippet": "Major international institutions have declined to finance due to global mandates restricting coal financing."
+    },
+    {
+      "title": "Shots fired at singer Asif Akbar's parked car in Moghbazar",
+      "link": "https://www.tbsnews.net/bangladesh/crime/shots-fired-singer-asif-akbars-parked-car-moghbazar-1581311",
+      "pubDate": "Sat, 24 Oct 2026 09:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/24/asif_car.jpg",
+      "snippet": "Asif was not inside the vehicle at the time."
+    },
+    {
+      "title": "3 killed, 16 injured as bus plunges into ditch beside Dhaka-Mawa Expressway",
+      "link": "https://www.tbsnews.net/bangladesh/3-killed-16-injured-bus-plunges-ditch-dhaka-mawa-expressway-1581306",
+      "pubDate": "Sat, 24 Oct 2026 09:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/24/accident_hasara.jpg",
+      "snippet": "Two rescue units from the Sreenagar Fire Station rushed to the scene and began rescue operations."
+    },
+    {
       "title": "Chinese firm invests $100m in beverage can factory at Kaliakoir Hi-Tech Park",
       "link": "https://www.tbsnews.net/economy/industry/chinese-firm-invests-100m-beverage-can-factory-kaliakoir-hi-tech-park-1581271",
       "pubDate": "Sat, 24 Oct 2026 07:25:00 +0600",
@@ -144,17 +232,6 @@
       "snippet": "Opposition Leader and Jamaat Ameer Dr Shafiqur Rahman will address the rally as the chief guest, alongside other senior leaders of the 11-party alliance."
     },
     {
-      "title": "Amit distributes Tk40 lakh medical materials to Jashore hospital",
-      "link": "https://www.tbsnews.net/bangladesh/amit-distributes-tk40-lakh-medical-materials-jashore-hospital-1581136",
-      "pubDate": "Fri, 23 Oct 2026 20:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/23/amit.jpeg",
-      "snippet": "He handed over the materials in collaboration with the organisation 'Human Appeal USA' to the civil surgeon and the hospital superintendent at Jashore Circuit House."
-    },
-    {
       "title": "The UN at 81: Reclaiming credibility in a fractured world",
       "link": "https://www.tbsnews.net/thoughts/un-81-reclaiming-credibility-fractured-world-1581126",
       "pubDate": "Fri, 23 Oct 2026 20:25:00 +0600",
@@ -164,28 +241,6 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/23/a7e9d121-21af-4b8b-a58e-c64d75268e7e.png",
       "snippet": "The UN is far from perfect, but the need for a forum where nations can negotiate and cooperate remains undeniable. Abandoning multilateralism would not resolve global problems; it would make collective responses even more difficult"
-    },
-    {
-      "title": "2 arrested in Naogaon over loudspeaker campaign on Hasina's return",
-      "link": "https://www.tbsnews.net/bangladesh/2-arrested-naogaon-over-loudspeaker-campaign-hasinas-return-1581106",
-      "pubDate": "Fri, 23 Oct 2026 20:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/23/loudspeaker_naogaon.jpg",
-      "snippet": "Police seized an autorickshaw used in the campaign, which announced Sheikh Hasina’s return to Bangladesh in December and urged people to welcome her."
-    },
-    {
-      "title": "From newsroom to party office: Yeasir Arafat named NCP media editor",
-      "link": "https://www.tbsnews.net/bangladesh/newsroom-party-office-yeasir-arafat-named-ncp-media-editor-1581101",
-      "pubDate": "Fri, 23 Oct 2026 20:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/23/ncp_yeasir.jpg",
-      "snippet": "Arafat co-founded the July Memories archive and led the Bangladesh Free Press Initiative before joining the NCP."
     },
     {
       "title": "Meta to delay new commercial terms criticised by publishers, advertisers",
@@ -208,61 +263,6 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/23/worlds-most-populous-cities.png",
       "snippet": "Productive work, competent institutions and a clear timetable for results are essential to turning people into a national strength"
-    },
-    {
-      "title": "July Uprising murder case: Dipu Moni landed in jail after 2-day remand",
-      "link": "https://www.tbsnews.net/bangladesh/court/july-uprising-murder-case-dipu-moni-landed-jail-after-2-day-remand-1581071",
-      "pubDate": "Fri, 23 Oct 2026 19:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/11/18/whatsapp_image_2024-11-18_at_11.18.30_am_1.jpeg",
-      "snippet": "The complaint alleges that a bullet fired by the accused while suppressing the movement entered the victim’s body near the left ribs and exited through his right armpit."
-    },
-    {
-      "title": "Sports best way to save youths from drugs: President",
-      "link": "https://www.tbsnews.net/bangladesh/sports-best-way-save-youths-drugs-president-1581056",
-      "pubDate": "Fri, 23 Oct 2026 19:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/23/fakhrul.png",
-      "snippet": "The president formally inaugurated the competition by releasing balloons and festoons at the National Stadium this evening."
-    },
-    {
-      "title": "Riyadh airport attack victim buried beside grandfather in Bogura",
-      "link": "https://www.tbsnews.net/bangladesh/riyadh-airport-attack-victim-buried-beside-grandfather-bogura-1581066",
-      "pubDate": "Fri, 23 Oct 2026 19:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/23/saudi_attack_killed_attack.jpg",
-      "snippet": "Family seeks support as wife and two children face uncertainty."
-    },
-    {
-      "title": "Mirza Abbas visits ailing Land Minister Minu at hospital",
-      "link": "https://www.tbsnews.net/bangladesh/politics/mirza-abbas-visits-ailing-land-minister-minu-hospital-1581051",
-      "pubDate": "Fri, 23 Oct 2026 19:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/23/mirza_abbas.png",
-      "snippet": "Mirza Abbas visited the minister at the BMU cabin block around noon and enquired about his health"
-    },
-    {
-      "title": "Jubo Dal leader accused of trying to extort journalists in Brahmanbaria",
-      "link": "https://www.tbsnews.net/bangladesh/jubo-dal-leader-accused-trying-extort-journalists-brahmanbaria-1581041",
-      "pubDate": "Fri, 23 Oct 2026 18:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/23/bbaria_extortion.jpg",
-      "snippet": "Authorities move to cancel municipal lease after alleged harassment."
     },
     {
       "title": " Educational institutions directed to ensure cleanliness to prevent dengue",
@@ -582,40 +582,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/22/thoughts_sci_tech_ai_laptop.png",
       "snippet": "Why reading comprehension, reasoning, and critical thinking may be just as important as access to artificial intelligence"
-    },
-    {
-      "title": "Rajshahi Medical College interns continue work abstention, warn of tougher programmes",
-      "link": "https://www.tbsnews.net/bangladesh/health/rajshahi-medical-college-interns-go-work-abstention-1579156",
-      "pubDate": "Wed, 21 Oct 2026 12:50:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/03/19/rmch.jpg",
-      "snippet": "The society’s leaders said several intern doctors had received death threats."
-    },
-    {
-      "title": "Why is Europe burning?",
-      "link": "https://www.tbsnews.net/thoughts/why-europe-burning-1579131",
-      "pubDate": "Wed, 21 Oct 2026 12:25:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/21/albania_protest_reuters.jpeg",
-      "snippet": "In Europe, three things have arrived at once — an oil shock the continent did not cause, governments that no longer have the money to cushion it, and a generation that had already concluded the system was not built for them"
-    },
-    {
-      "title": "How Bangladesh can turn its capital market into an engine of growth",
-      "link": "https://www.tbsnews.net/thoughts/how-bangladesh-can-turn-its-capital-market-engine-growth-1579121",
-      "pubDate": "Wed, 21 Oct 2026 12:20:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/21/eib-economy-cover-2-1-1920x1132_1.jpeg",
-      "snippet": "Bangladesh must rebuild investor confidence through transparent pricing, stronger corporate governance, easier capital repatriation, diversified investment products and modern market infrastructure to transform its capital market into a driver of lon..."
     }
   ],
-  "updatedAt": "2026-10-24T01:48:53.418Z"
+  "updatedAt": "2026-10-24T06:54:31.696Z"
 }
