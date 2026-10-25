@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Saudi jobs slump, remittance risks rise",
+      "link": "https://www.tbsnews.net/bangladesh/saudi-jobs-slump-remittance-risks-rise-1581956",
+      "pubDate": "Sun, 25 Oct 2026 07:35:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/12/remittance-earning_0.png",
+      "snippet": "The mounting crisis in the Middle East has also exposed a major vulnerability in Bangladesh’s economy: its heavy reliance on the Saudi Arabian labour market"
+    },
+    {
       "title": "Saudi airport restrictions: 22,021 passengers affected as 144 flights disrupted so far",
       "link": "https://www.tbsnews.net/economy/aviation/saudi-airport-restrictions-22021-passengers-affected-144-flights-disrupted-so-far",
       "pubDate": "Sun, 25 Oct 2026 00:25:00 +0600",
@@ -219,17 +230,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/24/rumeen_oc.jpg",
       "snippet": "The Brahmanbaria-2 MP says she is awaiting departmental action after filing a complaint against Sarail police station’s officer-in-charge."
-    },
-    {
-      "title": "2 arrested in Ctg over motorcycle snatching; stolen bike recovered",
-      "link": "https://www.tbsnews.net/bangladesh/crime/2-arrested-ctg-over-motorcycle-snatching-stolen-bike-recovered-1581701",
-      "pubDate": "Sat, 24 Oct 2026 18:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/24/chattogram_bike_snaching.jpg",
-      "snippet": "Police say the suspects assaulted the motorcycle owner and threatened to kill him before fleeing with the bike; a white private car allegedly used in the incident was also seized."
     },
     {
       "title": "Bangladesh Bank website still offline over global PHP security vulnerability",
@@ -617,5 +617,5 @@
       "snippet": "The lawsuit originated from Meta's role in the Cambridge Analytica scandal, in which the political consulting firm used data from millions of Facebook users, including in work related to the 2016 US presidential election."
     }
   ],
-  "updatedAt": "2026-10-24T23:32:07.391Z"
+  "updatedAt": "2026-10-25T03:26:54.596Z"
 }
