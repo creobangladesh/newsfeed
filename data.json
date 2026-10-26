@@ -1,6 +1,127 @@
 {
   "news": [
     {
+      "title": "NBR raids Gulshan restaurant, seizes alcohol over suspected duty evasion",
+      "link": "https://www.tbsnews.net/bangladesh/nbr-raids-gulshan-restaurant-seizes-alcohol-over-suspected-duty-evasion-1583061",
+      "pubDate": "Mon, 26 Oct 2026 11:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/26/screenshot_2026-10-26_112149.png",
+      "snippet": "The operation was carried out under the NBR’s directives and the overall supervision of the Customs Intelligence and Investigation Directorate (CIID), according to a press release issued today (26 October)."
+    },
+    {
+      "title": "NBR bifurcation bill likely to be placed in parliament next month",
+      "link": "https://www.tbsnews.net/nbr/nbr-bifurcation-bill-likely-be-placed-parliament-next-month-1582986",
+      "pubDate": "Mon, 26 Oct 2026 11:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/26/nbr_1.jpg",
+      "snippet": "The government is apparently maintaining strict confidentiality over the leadership structure."
+    },
+    {
+      "title": "Five arrested over attack on SRB members in Chattogram",
+      "link": "https://www.tbsnews.net/bangladesh/crime/five-arrested-over-attack-srb-members-chattogram-1583036",
+      "pubDate": "Mon, 26 Oct 2026 11:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/26/untitled_design_45.jpg",
+      "snippet": "SRB-7 said a team conducted an operation at Ghatkul Para in Kanaimadari village of Borkal Union in Chandanaish upazila at around 3:30pm on Saturday (24 October)."
+    },
+    {
+      "title": "GPH Ispat puts Tk968cr rights share issue on hold amid weak market conditions",
+      "link": "https://www.tbsnews.net/economy/stocks/gph-ispat-puts-tk968cr-rights-share-issue-hold-amid-weak-market-conditions-1583041",
+      "pubDate": "Mon, 26 Oct 2026 11:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/organization/logo/gph_ispat_ltd.png",
+      "snippet": "Following the disclosure filed with the Dhaka Stock Exchange on Monday, the company's share price remained unchanged at Tk15.80."
+    },
+    {
+      "title": "Apple’s iPhone Duo users report screen cracks along folding hinge",
+      "link": "https://www.tbsnews.net/tech/apples-iphone-duo-users-report-screen-cracks-along-folding-hinge-1583021",
+      "pubDate": "Mon, 26 Oct 2026 10:30:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/26/iphone_duo_screen_crack.jpg",
+      "snippet": "The reported faults include cracks along the folding mechanism, with many resulting in a bright line of broken pixels across one side of the screen"
+    },
+    {
+      "title": "Gazipur madrasah student rescued after harassment, abduction; 5 accused including head teacher absconding ",
+      "link": "https://www.tbsnews.net/bangladesh/gazipur-madrasah-student-rescued-after-harassment-abduction-5-accused-including-head",
+      "pubDate": "Mon, 26 Oct 2026 10:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/26/joydebpur_thana.jpg",
+      "snippet": "On 10 October, at around 7:30am, Ariful allegedly lured the student from Markazul Quran Adarsha Mohila Madrasah to an unknown location with the help of four others."
+    },
+    {
+      "title": "Banks get more room to handle large LC payments",
+      "link": "https://www.tbsnews.net/economy/banking/banks-get-more-room-handle-large-lc-payments-1582981",
+      "pubDate": "Mon, 26 Oct 2026 10:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/26/bangladesh-bank.png",
+      "snippet": "Cenbank raises commercial banks’ NOP limits after four years"
+    },
+    {
+      "title": "iPhone Duo review: Apple's first foldable is bold, brilliant and fun",
+      "link": "https://www.tbsnews.net/tech/apple-iphone-duo-review-boldest-iphone-iphone-x-dash-fun-1583006",
+      "pubDate": "Mon, 26 Oct 2026 10:00:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/26/vn2jstvt35j55a67nfmygxhd4u.jpg",
+      "snippet": "The iPhone Duo is also more pocketable than its form factor might suggest."
+    },
+    {
+      "title": "Bangladesh's foreign debt repayments more than double aid inflows in Q1 of FY27",
+      "link": "https://www.tbsnews.net/economy/bangladeshs-foreign-debt-repayments-more-double-aid-inflows-q1-fy27-1582971",
+      "pubDate": "Mon, 26 Oct 2026 09:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/16/debt.png",
+      "snippet": "External debt servicing costs soared to $1,351.23 million, while foreign aid disbursements dropped sharply to $662.31 million, leaving net inflows deeply negative for the period."
+    },
+    {
+      "title": "Ctg Customs’ revenue recovery from false import declarations jumps 83.6% in Q1",
+      "link": "https://www.tbsnews.net/economy/ctg-customs-revenue-recovery-false-import-declarations-jumps-836-q1-1582936",
+      "pubDate": "Mon, 26 Oct 2026 07:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/06/04/ctg_customs.jpg",
+      "snippet": "The number of consignments locked by the Audit, Investigation and Research (AIR) wing rose 29.4% year-on-year from 361 in the same period of FY26, while revenue and fines collected surged 83.6% from Tk31.7 crore, according to customs data"
+    },
+    {
+      "title": "PM arrives in Tokyo on four-day visit to Japan",
+      "link": "https://www.tbsnews.net/foreign-policy/prime-minister-arrives-japan-1582931",
+      "pubDate": "Mon, 26 Oct 2026 07:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/26/japan_bangladesh_pm_tarique_rahman.jpg",
+      "snippet": "The prime minister was received at the airport by State Minister for Foreign Affairs Yasutaka Nakasone. A motorcade then escorted him to Tokyo's Imperial Hotel, where he will stay during his visit"
+    },
+    {
       "title": "PM Tarique off to Japan on four-day state visit",
       "link": "https://www.tbsnews.net/bangladesh/pm-tarique-japan-four-day-state-visit-1582926",
       "pubDate": "Mon, 26 Oct 2026 01:25:00 +0600",
@@ -144,70 +265,15 @@
       "snippet": "The files relating to these plots have been kept on hold, according to the Housing and Public Works Ministry."
     },
     {
-      "title": "Parliamentary body seeks details of execution of 2 Bangladeshis in KSA",
-      "link": "https://www.tbsnews.net/bangladesh/parliamentary-body-seeks-details-execution-2-bangladeshis-ksa-1582776",
-      "pubDate": "Sun, 25 Oct 2026 21:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/25/ministry.png",
-      "snippet": "The committee further recommended that the ministry take necessary measures to ensure the protection of Bangladeshi women workers employed in Saudi Arabia and other Middle Eastern countries."
-    },
-    {
-      "title": "Jubo Dal leader murder: 21 named in case, Chhatra Dal leader prime suspect",
-      "link": "https://www.tbsnews.net/bangladesh/crime/jubo-dal-leader-murder-21-named-case-chhatra-dal-leader-prime-suspect-1582781",
-      "pubDate": "Sun, 25 Oct 2026 21:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/25/zahirul_jubo_dal_leader_1.jpg",
-      "snippet": "The case alleges that the prime suspect and his associates attacked the victim at a CNG stand near the old Araihazar police station on 15 November 2025."
-    },
-    {
-      "title": "Speaker, Swedish envoy discuss parliamentary ties, investment",
-      "link": "https://www.tbsnews.net/foreign-policy/speaker-swedish-envoy-discuss-parliamentary-ties-investment-1582756",
-      "pubDate": "Sun, 25 Oct 2026 21:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/25/speaker.png",
-      "snippet": "The speaker said students and people from all walks of life brought an end to the autocratic regime through the mass uprising of 2024."
-    },
-    {
       "title": "1,170 businesses fined Tk1.09cr in Oct market drives amid crackdown on adulteration, hoarding",
       "link": "https://www.tbsnews.net/markets/1170-businesses-fined-tk109cr-oct-market-drives-amid-crackdown-adulteration-hoarding-1582761",
       "pubDate": "Sun, 25 Oct 2026 21:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Market",
+      "color": "#7b1fa2",
+      "bg": "#f3e5f5",
+      "icon": "📊",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/12/photo-output_1.jpeg",
       "snippet": "Crackdown targets adulterated milk, counterfeit products and hoarding."
-    },
-    {
-      "title": "Bangladesh missions in Saudi Arabia struggle to serve 3.5 million expatriates",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-missions-saudi-arabia-struggle-serve-35-million-expatriates-1582766",
-      "pubDate": "Sun, 25 Oct 2026 21:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/07/06/embassy_of_bangladesh_in_riyadh.jpg",
-      "snippet": "Two Bangladeshis executed, 306 in Saudi prisons."
-    },
-    {
-      "title": "Afroza seeks US technical support for food safety, grain storage",
-      "link": "https://www.tbsnews.net/foreign-policy/afroza-seeks-us-technical-support-food-safety-grain-storage-1582746",
-      "pubDate": "Sun, 25 Oct 2026 21:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/29/afroza_khanam.jpg",
-      "snippet": "During the meeting, they discussed about various issues relating to mutual interest."
     },
     {
       "title": "Cenbank allows hotels, merchants to retain 15% of foreign currency earnings",
@@ -219,39 +285,6 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/08/bangladesh_bank.jpg",
       "snippet": "The facility applies to payments made through internationally issued cards and other admissible payment instruments."
-    },
-    {
-      "title": "Killed for identifying intruders: 3 held over Jubo Mohila League leader's murder",
-      "link": "https://www.tbsnews.net/bangladesh/crime/killed-identifying-intruders-3-held-over-jubo-mohila-league-leaders-murder-1582726",
-      "pubDate": "Sun, 25 Oct 2026 20:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/25/jubo-mohila-league-leader.jpg",
-      "snippet": "Police say suspects killed Dalia Akter after she recognised them."
-    },
-    {
-      "title": "Ex-Meherpur-1 MP Abdul Mannan sent to jail in anti-terrorism case",
-      "link": "https://www.tbsnews.net/bangladesh/court/ex-meherpur-1-mp-abdul-mannan-sent-jail-anti-terrorism-case-1582721",
-      "pubDate": "Sun, 25 Oct 2026 20:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/18/jailed_representational_image.jpg",
-      "snippet": "A Dhaka court rejects his bail plea after detectives arrest him from his Dhanmondi residence early in the morning."
-    },
-    {
-      "title": "Last group of 40 stranded Umrah pilgrims returns from Saudi Arabia",
-      "link": "https://www.tbsnews.net/bangladesh/last-group-40-stranded-umrah-pilgrims-returns-saudi-arabia-1582716",
-      "pubDate": "Sun, 25 Oct 2026 20:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/21/hajj_pilgrims.jpeg",
-      "snippet": "Religious Affairs Minister Kazi Shah Mofazzal Hossain Kaikobad arranged reception, meals, clothing and transport for the returning pilgrims, while seven others remain hospitalised in Riyadh."
     },
     {
       "title": "The price of political loyalty: Why corruption survives a change of government",
@@ -659,29 +692,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/23/tea_garden.jpg",
       "snippet": "Tea Board expects annual output to reach 105 million kg."
-    },
-    {
-      "title": "How fiscal policy can increase the tax burden while maintaining a illusion of tax relief",
-      "link": "https://www.tbsnews.net/thoughts/how-fiscal-policy-can-increase-tax-burden-while-maintaining-illusion-tax-relief-1580761",
-      "pubDate": "Fri, 23 Oct 2026 10:35:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/23/15_thoughts_copy.png",
-      "snippet": "Although the first taxable income band was expanded from Tk1 lakh to Tk3 lakh, the tax rate was doubled from 5% to 10%. Looking only at headline exemptions can hide a heavier burden on low and middle-income earners"
-    },
-    {
-      "title": "Five ways to stay safe online amid AI-supercharged hacking",
-      "link": "https://www.tbsnews.net/tech/five-ways-stay-safe-online-amid-ai-supercharged-hacking-1580736",
-      "pubDate": "Fri, 23 Oct 2026 09:15:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/23/syvhv6fhqvjija2wkqfn6gqrl4.jpg",
-      "snippet": "Experts say responsibility lies largely with software providers and organisations that serve customers."
     }
   ],
-  "updatedAt": "2026-10-26T00:33:45.167Z"
+  "updatedAt": "2026-10-26T05:47:56.555Z"
 }
