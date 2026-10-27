@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Bangladesh pays over $2 for every $1 foreign loan received in Q1",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-pays-over-2-every-1-foreign-loan-received-q1-1583956",
+      "pubDate": "Tue, 27 Oct 2026 07:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/16/debt.png",
+      "snippet": "The country repaid $1.35 billion in principal and interest on foreign loans in the July-September period against $662.31 million foreign loans disbursed, according to provisional data from the Economic Relations Division (ERD) released yesterday"
+    },
+    {
       "title": "Sajek blockade to continue as talks fail over removal timeline of armed Santu faction",
       "link": "https://www.tbsnews.net/bangladesh/sajek-blockade-continue-talks-fail-over-removal-timeline-armed-santu-faction-1583931",
       "pubDate": "Tue, 27 Oct 2026 02:10:00 +0600",
@@ -219,17 +230,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/09/tarique_rahman_japan_pm.jpg",
       "snippet": "The talks are expected to focus on trade, investment, the Bangladesh-Japan Economic Partnership Agreement and expanded cooperation in renewable energy, agriculture, technology and skills development, with several MoUs also under discussion."
-    },
-    {
-      "title": "Ramu's 'Kolpo Jahaj' festival marking Prabarana Purnima calls for justice over 2012 attacks",
-      "link": "https://www.tbsnews.net/bangladesh/ramus-kolpo-jahaj-festival-marking-prabarana-purnima-calls-justice-over-2012-attacks",
-      "pubDate": "Mon, 26 Oct 2026 20:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/26/kolpo_jahaj.jpeg",
-      "snippet": "Held along the Bakkhali River from noon to evening, the centuries-old festival drew thousands. This year, the ships carried messages calling for religious freedom, communal harmony and an end to impunity."
     },
     {
       "title": "Banks to remain closed on 7 Nov for Revolution and Solidarity Day",
@@ -747,18 +747,7 @@
       "icon": "📊",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/01/12/lentils-chickpeas.jpg",
       "snippet": "Wholesale prices in Chattogram’s Khatunganj market have increased by Tk17-21 per kg over the past two months, even after the country imported more chickpeas in July and August than during the same period last year"
-    },
-    {
-      "title": "Chinese firm invests $100m in beverage can factory at Kaliakoir Hi-Tech Park",
-      "link": "https://www.tbsnews.net/economy/industry/chinese-firm-invests-100m-beverage-can-factory-kaliakoir-hi-tech-park-1581271",
-      "pubDate": "Sat, 24 Oct 2026 07:25:00 +0600",
-      "category": "Industry",
-      "color": "#f57c00",
-      "bg": "#fff3e0",
-      "icon": "🏭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/03/gazipur_kaliakoir_hi-tech_park_photo5.jpg",
-      "snippet": "The factory is expected to produce 100 crore beverage cans yearly, supplying the remainder to the domestic market, according to the company’s Managing Director Yuan Dingyan"
     }
   ],
-  "updatedAt": "2026-10-26T23:01:51.391Z"
+  "updatedAt": "2026-10-27T02:18:32.216Z"
 }
