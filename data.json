@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Why the IGP’s ‘crossfire’ remark cannot be dismissed as a metaphor",
+      "link": "https://www.tbsnews.net/features/panorama/why-igps-crossfire-remark-cannot-be-dismissed-metaphor-1585076",
+      "pubDate": "Wed, 28 Oct 2026 03:10:00 +0600",
+      "category": "Analysis",
+      "color": "#5d4037",
+      "bg": "#efebe9",
+      "icon": "🔍",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/28/crossfire_panorama_copy.png",
+      "snippet": "For a country carrying nearly 3,000 deaths under the term, ‘crossfire’ cannot be an innocent figure of speech. It is an institutional memory of how easily allegations became death sentences — and how often the state wrote the verdict after firing the..."
+    },
+    {
       "title": "'No parking, no service': Private ambulance owners go on indefinite strike at Dhaka Medical",
       "link": "https://www.tbsnews.net/bangladesh/health/no-parking-no-service-private-ambulance-owners-go-indefinite-strike-dhaka-medical",
       "pubDate": "Wed, 28 Oct 2026 00:50:00 +0600",
@@ -100,17 +111,6 @@
       "snippet": "Muhit said the health sector had long suffered from a lack of good governance and had faced numerous allegations of corruption."
     },
     {
-      "title": "Kakon, Kalu groups trade gunfire in turf war over control of Padma chars",
-      "link": "https://www.tbsnews.net/bangladesh/crime/kakon-kalu-groups-trade-gunfire-turf-war-over-control-padma-chars-1584991",
-      "pubDate": "Tue, 27 Oct 2026 22:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/26/gunfight.jpg",
-      "snippet": "Locals report hearing more than 100 shots during hours-long clash."
-    },
-    {
       "title": "Lured from Ctg with promises of China trip, jobs; 12 ethnic minority women rescued in Dhaka",
       "link": "https://www.tbsnews.net/bangladesh/lured-ctg-promises-china-trip-jobs-12-ethnic-minority-women-rescued-dhaka-1584996",
       "pubDate": "Tue, 27 Oct 2026 22:00:00 +0600",
@@ -131,6 +131,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/27/cid_officials.jpg",
       "snippet": "Victims were allegedly forced into online fraud and held for ransom."
+    },
+    {
+      "title": "Kakon, Kalu groups trade gunfire in turf war over control of Padma chars",
+      "link": "https://www.tbsnews.net/bangladesh/crime/kakon-kalu-groups-trade-gunfire-turf-war-over-control-padma-chars-1584991",
+      "pubDate": "Tue, 27 Oct 2026 22:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/26/gunfight.jpg",
+      "snippet": "Locals report hearing more than 100 shots during hours-long clash."
     },
     {
       "title": "Direct flights from Ctg to Oman's Salalah begin 28 October",
@@ -452,17 +463,6 @@
       "snippet": "The two countries have already exchanged preliminary draft agreements which will be discussed following the opening session."
     },
     {
-      "title": "Doreen Power exits DSE risk list as earnings rise 58%, dividend to 15%",
-      "link": "https://www.tbsnews.net/economy/stocks/doreen-power-exits-dse-risk-list-earnings-rise-58-dividend-15-1583921",
-      "pubDate": "Mon, 26 Oct 2026 23:55:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/04/25/doreen_power_generations_and_systems_limited.jpg",
-      "snippet": "The company’s shares closed at Tk30.60 on the DSE today (26 October)."
-    },
-    {
       "title": "Bangladesh pays over $2 for every $1 foreign loan received in Q1",
       "link": "https://www.tbsnews.net/economy/bangladesh-pays-over-2-every-1-foreign-loan-received-q1-1583946",
       "pubDate": "Mon, 26 Oct 2026 23:55:00 +0600",
@@ -472,6 +472,17 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/08/foreign_loan.jpeg",
       "snippet": "Bangladesh paid $2.04 in foreign debt servicing for every dollar it received in loans from external sources during the quarter."
+    },
+    {
+      "title": "Doreen Power exits DSE risk list as earnings rise 58%, dividend to 15%",
+      "link": "https://www.tbsnews.net/economy/stocks/doreen-power-exits-dse-risk-list-earnings-rise-58-dividend-15-1583921",
+      "pubDate": "Mon, 26 Oct 2026 23:55:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/04/25/doreen_power_generations_and_systems_limited.jpg",
+      "snippet": "The company’s shares closed at Tk30.60 on the DSE today (26 October)."
     },
     {
       "title": "JMI Syringes posts Tk6 crore loss in FY26, recommends 10% cash dividend",
@@ -848,5 +859,5 @@
       "snippet": "The central bank took its website offline on 22 October following concerns over potential cyberattacks linked to security vulnerabilities in PHP, a widely used programming language for website development."
     }
   ],
-  "updatedAt": "2026-10-27T19:50:22.319Z"
+  "updatedAt": "2026-10-27T23:31:27.665Z"
 }
