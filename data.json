@@ -1,15 +1,81 @@
 {
   "news": [
     {
+      "title": "Three officers under consideration for IGP post after crossfire controversy",
+      "link": "https://www.tbsnews.net/bangladesh/three-officers-under-consideration-igp-post-after-crossfire-controversy-1585221",
+      "pubDate": "Wed, 28 Oct 2026 10:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/28/867521678_1431968482391199_807610436878565731_n.jpg",
+      "snippet": "According to sources familiar with the matter, the PMO has sought files containing the personal and professional details of the three senior officers."
+    },
+    {
+      "title": "Cable market shrinks 25% as demand slump hits manufacturers",
+      "link": "https://www.tbsnews.net/economy/industry/cable-market-shrinks-25-demand-slump-hits-manufacturers-1585131",
+      "pubDate": "Wed, 28 Oct 2026 10:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/28/pexels-brett-sayles-4280696.jpg",
+      "snippet": "Activity in this segment has declined by 50-60% over the past two years, while demand from the housing sector has fallen by 30-35%, he said."
+    },
+    {
+      "title": "How does Gen Z think? Lessons for policymakers",
+      "link": "https://www.tbsnews.net/thoughts/how-does-gen-z-think-lessons-policymakers-1585196",
+      "pubDate": "Wed, 28 Oct 2026 09:50:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/22/sajid-amit.png",
+      "snippet": "The fundamental challenge is not that Gen Z thinks differently. It is that our institutions may still be operating on assumptions about society, work and opportunity that are becoming increasingly outdated"
+    },
+    {
+      "title": "PM urges Japan Bank for International Cooperation to open office in Dhaka",
+      "link": "https://www.tbsnews.net/foreign-policy/pm-urges-japan-bank-international-cooperation-open-office-dhaka-1585136",
+      "pubDate": "Wed, 28 Oct 2026 09:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/28/tarique_kazuhiko_amakawa.jpg",
+      "snippet": "Both sides discussed investment and economic cooperation in Bangladesh’s energy, information and communication technology (ICT) and infrastructure sectors."
+    },
+    {
+      "title": "Staff shortage strains EPI as 40% of vaccinator posts lie vacant",
+      "link": "https://www.tbsnews.net/bangladesh/health/staff-shortage-strains-epi-40-vaccinator-posts-lie-vacant-1585111",
+      "pubDate": "Wed, 28 Oct 2026 09:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/28/manpower_agency.jpg",
+      "snippet": "Review flags vaccine storage risks and weak urban oversight."
+    },
+    {
       "title": "Why the IGP’s ‘crossfire’ remark cannot be dismissed as a metaphor",
       "link": "https://www.tbsnews.net/features/panorama/why-igps-crossfire-remark-cannot-be-dismissed-metaphor-1585076",
-      "pubDate": "Wed, 28 Oct 2026 03:10:00 +0600",
+      "pubDate": "Wed, 28 Oct 2026 08:10:00 +0600",
       "category": "Analysis",
       "color": "#5d4037",
       "bg": "#efebe9",
       "icon": "🔍",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/28/crossfire_panorama_copy.png",
       "snippet": "For a country carrying nearly 3,000 deaths under the term, ‘crossfire’ cannot be an innocent figure of speech. It is an institutional memory of how easily allegations became death sentences — and how often the state wrote the verdict after firing the..."
+    },
+    {
+      "title": "Tk1,958cr export incentives stuck in payment delays",
+      "link": "https://www.tbsnews.net/economy/tk1958cr-q1-export-incentives-stuck-payment-delays-1585081",
+      "pubDate": "Wed, 28 Oct 2026 07:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/05/16/ctg_port_2_1.png",
+      "snippet": "The government cleared export incentive payments up to June, but the subsequent three months’ dues remain outstanding, creating financial pressure on exporters who depend on the support to sustain operations and plan new investments."
     },
     {
       "title": "'No parking, no service': Private ambulance owners go on indefinite strike at Dhaka Medical",
@@ -45,7 +111,7 @@
       "snippet": "During discussion, both sides discussed various aspects of strengthening military cooperation, enhancing efficiency and strategic partnership."
     },
     {
-      "title": "'We are here to stay,' says visiting German vice minister; reaffirms commitment to long-term partnership with Bangladesh ",
+      "title": "'We are here to stay': German vice minister reaffirms commitment to long-term partnership with Bangladesh",
       "link": "https://www.tbsnews.net/foreign-policy/we-are-here-stay-says-visiting-german-vice-minister-reaffirms-commitment-long-term",
       "pubDate": "Wed, 28 Oct 2026 00:10:00 +0600",
       "category": "Bangladesh",
@@ -111,6 +177,17 @@
       "snippet": "Muhit said the health sector had long suffered from a lack of good governance and had faced numerous allegations of corruption."
     },
     {
+      "title": "Kakon, Kalu groups trade gunfire in turf war over control of Padma chars",
+      "link": "https://www.tbsnews.net/bangladesh/crime/kakon-kalu-groups-trade-gunfire-turf-war-over-control-padma-chars-1584991",
+      "pubDate": "Tue, 27 Oct 2026 22:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/26/gunfight.jpg",
+      "snippet": "Locals report hearing more than 100 shots during hours-long clash."
+    },
+    {
       "title": "Lured from Ctg with promises of China trip, jobs; 12 ethnic minority women rescued in Dhaka",
       "link": "https://www.tbsnews.net/bangladesh/lured-ctg-promises-china-trip-jobs-12-ethnic-minority-women-rescued-dhaka-1584996",
       "pubDate": "Tue, 27 Oct 2026 22:00:00 +0600",
@@ -131,17 +208,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/27/cid_officials.jpg",
       "snippet": "Victims were allegedly forced into online fraud and held for ransom."
-    },
-    {
-      "title": "Kakon, Kalu groups trade gunfire in turf war over control of Padma chars",
-      "link": "https://www.tbsnews.net/bangladesh/crime/kakon-kalu-groups-trade-gunfire-turf-war-over-control-padma-chars-1584991",
-      "pubDate": "Tue, 27 Oct 2026 22:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/26/gunfight.jpg",
-      "snippet": "Locals report hearing more than 100 shots during hours-long clash."
     },
     {
       "title": "Direct flights from Ctg to Oman's Salalah begin 28 October",
@@ -175,61 +241,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/27/jatrabari_youth_shot_blurred.jpg",
       "snippet": "Maruf, 20, was shot in the chest near the Dholpur Wasa gate; police have been informed, but the attackers remain unidentified."
-    },
-    {
-      "title": "Sajek remains cut off as blockade enters sixth day",
-      "link": "https://www.tbsnews.net/bangladesh/sajek-remains-cut-blockade-enters-sixth-day-1584916",
-      "pubDate": "Tue, 27 Oct 2026 21:20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/24/sajek_blockade_.jpg",
-      "snippet": "Talks remain deadlocked over protesters’ demand to remove armed JSS members."
-    },
-    {
-      "title": "President's visits to Ctg, Rangamati and Bandarban cancelled amid Sajek unrest",
-      "link": "https://www.tbsnews.net/bangladesh/presidents-visits-ctg-rangamati-and-bandarban-cancelled-amid-sajek-unrest-1584921",
-      "pubDate": "Tue, 27 Oct 2026 21:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/22/president_fakhrul.jpg",
-      "snippet": "The 28-30 October tour was called off amid unrest in Sajek Valley and an indefinite road blockade in Rangamati’s Baghaichhari."
-    },
-    {
-      "title": "Power Grid forms 5-member probe committee over grid failure",
-      "link": "https://www.tbsnews.net/economy/energy/power-grid-forms-5-member-probe-committee-over-grid-failure-1584901",
-      "pubDate": "Tue, 27 Oct 2026 21:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/03/power_2_2.jpg",
-      "snippet": "Generation plunged by 5,370MW within an hour today, with gas-fired output falling 60% and coal-fired generation 39% as power plants went offline."
-    },
-    {
-      "title": "Contracts signed for MRT Line-1, Line-5 construction",
-      "link": "https://www.tbsnews.net/bangladesh/contracts-signed-mrt-line-1-line-5-construction-1584896",
-      "pubDate": "Tue, 27 Oct 2026 21:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/04/10/metro_rail.png",
-      "snippet": "The contracts cover depot facilities, 11.507km of elevated tracks and eight stations under MRT Line-1 and the northern route of MRT Line-5."
-    },
-    {
-      "title": "Mamunul Haque warns of tougher programs ahead unless govt starts cooperating with opposition",
-      "link": "https://www.tbsnews.net/bangladesh/politics/mamunul-haque-warns-tougher-programs-ahead-unless-govt-starts-cooperating",
-      "pubDate": "Tue, 27 Oct 2026 20:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/27/mamunul_haque.png",
-      "snippet": "He made these remarks at a press briefing following a meeting of the alliance’s top leaders at the official residence of the Opposition Leader on Mintoo Road in the capital."
     },
     {
       "title": "Boeing reports smaller loss but misses expectations",
@@ -463,17 +474,6 @@
       "snippet": "The two countries have already exchanged preliminary draft agreements which will be discussed following the opening session."
     },
     {
-      "title": "Bangladesh pays over $2 for every $1 foreign loan received in Q1",
-      "link": "https://www.tbsnews.net/economy/bangladesh-pays-over-2-every-1-foreign-loan-received-q1-1583946",
-      "pubDate": "Mon, 26 Oct 2026 23:55:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/08/foreign_loan.jpeg",
-      "snippet": "Bangladesh paid $2.04 in foreign debt servicing for every dollar it received in loans from external sources during the quarter."
-    },
-    {
       "title": "Doreen Power exits DSE risk list as earnings rise 58%, dividend to 15%",
       "link": "https://www.tbsnews.net/economy/stocks/doreen-power-exits-dse-risk-list-earnings-rise-58-dividend-15-1583921",
       "pubDate": "Mon, 26 Oct 2026 23:55:00 +0600",
@@ -483,6 +483,17 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/04/25/doreen_power_generations_and_systems_limited.jpg",
       "snippet": "The company’s shares closed at Tk30.60 on the DSE today (26 October)."
+    },
+    {
+      "title": "Bangladesh pays over $2 for every $1 foreign loan received in Q1",
+      "link": "https://www.tbsnews.net/economy/bangladesh-pays-over-2-every-1-foreign-loan-received-q1-1583946",
+      "pubDate": "Mon, 26 Oct 2026 23:55:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/08/foreign_loan.jpeg",
+      "snippet": "Bangladesh paid $2.04 in foreign debt servicing for every dollar it received in loans from external sources during the quarter."
     },
     {
       "title": "JMI Syringes posts Tk6 crore loss in FY26, recommends 10% cash dividend",
@@ -785,10 +796,10 @@
       "title": "Palli Sanchay Bank deposits Tk60cr in dividends into government treasury",
       "link": "https://www.tbsnews.net/economy/banking/palli-sanchay-bank-deposits-tk60cr-dividends-government-treasury-1582486",
       "pubDate": "Sun, 25 Oct 2026 18:00:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/organization/logo/palli_sanchay_bank.jpg",
       "snippet": "Finance Minister Amir Khosru Mahmud Chowdhury received the cheque for dividends declared up to the 2023-24 fiscal year at his office in the Secretariat."
     },
@@ -835,29 +846,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/25/6335159-face-2936245_1920.jpg",
       "snippet": "In a well-known experiment conducted in the late 1980s, researchers asked participants to hold a pencil between their lips in a way that produced either a smiling or frowning expression while watching a positive video clip, such as a cartoon."
-    },
-    {
-      "title": "Padma Bank fails depositors, but pays Tk60 lakh monthly rent to ex-chairman Nafeez Sarafat",
-      "link": "https://www.tbsnews.net/economy/banking/padma-bank-fails-depositors-pays-tk60-lakh-monthly-rent-ex-chairman-nafeez-sarafat",
-      "pubDate": "Sun, 25 Oct 2026 10:00:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/25/862399622_2983987415293308_6105644226478634730_n.png",
-      "snippet": "Bank with Tk9,300cr loss operating in limited scale but continues paying rent for a property linked to its former chairman."
-    },
-    {
-      "title": "BB website back online after cybersecurity precaution",
-      "link": "https://www.tbsnews.net/economy/banking/bb-website-likely-be-back-online-today-after-3-days-1582001",
-      "pubDate": "Sun, 25 Oct 2026 09:45:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/25/bangladesh_bank_0.jpg",
-      "snippet": "The central bank took its website offline on 22 October following concerns over potential cyberattacks linked to security vulnerabilities in PHP, a widely used programming language for website development."
     }
   ],
-  "updatedAt": "2026-10-27T23:31:27.665Z"
+  "updatedAt": "2026-10-28T04:17:49.686Z"
 }
