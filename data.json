@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "12kg gold worth Tk24cr seized from 2 passengers at Dhaka airport",
+      "link": "https://www.tbsnews.net/bangladesh/crime/12kg-gold-worth-tk24cr-seized-2-passengers-dhaka-airport-1586281",
+      "pubDate": "Thu, 29 Oct 2026 00:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/29/airport.png",
+      "snippet": "Preliminary tests confirmed the gold paste was 24-carat and found it concealed in cloth sewn into the two passengers’ jeans and underwear, according to Dhaka Customs House."
+    },
+    {
+      "title": "Open University must go beyond awarding certificates, says education minister",
+      "link": "https://www.tbsnews.net/bangladesh/education/open-university-must-go-beyond-awarding-certificates-says-education-minister",
+      "pubDate": "Thu, 29 Oct 2026 00:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/29/bou_0.png",
+      "snippet": "The minister says the university should help people who could not complete their education return to learning while expanding opportunities to develop skills."
+    },
+    {
+      "title": "Cenbank sells $122m to ease dollar pressure",
+      "link": "https://www.tbsnews.net/economy/banking/cenbank-sells-122m-ease-dollar-pressure-1586251",
+      "pubDate": "Wed, 28 Oct 2026 23:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/28/bangladesh_bank.jpg",
+      "snippet": "Banks sought $800 million as the Bangladesh Bank sold $122 million from reserves at up to Tk124.30 per dollar, while month-end payments and low remittance inflows added to market pressure."
+    },
+    {
       "title": "Bangladesh, ILO chief discuss post-2030 agenda, future of work",
       "link": "https://www.tbsnews.net/foreign-policy/bangladesh-ilo-chief-discuss-post-2030-agenda-future-work-1586201",
       "pubDate": "Wed, 28 Oct 2026 21:50:00 +0600",
@@ -78,17 +111,6 @@
       "snippet": "The minister issued several directives and calls to researchers and scientists, stressing the need to intensify research on breeding, breed development and the recovery of various endangered indigenous fish species."
     },
     {
-      "title": "BBS, ISN downgraded to Z category for failing to declare dividends",
-      "link": "https://www.tbsnews.net/economy/stocks/bbs-isn-downgraded-z-category-failing-declare-dividends-1586146",
-      "pubDate": "Wed, 28 Oct 2026 21:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/28/bbs.jpg",
-      "snippet": "Both companies reported losses per share for FY26, taking the number of ‘Z’ category companies on the Dhaka Stock Exchange to 129."
-    },
-    {
       "title": "Banking sector recovery expected by March-April 2027: BB ",
       "link": "https://www.tbsnews.net/economy/banking/banking-sector-recovery-expected-march-april-2027-bb-1586131",
       "pubDate": "Wed, 28 Oct 2026 21:15:00 +0600",
@@ -100,15 +122,15 @@
       "snippet": "Bangladesh Bank expects visible improvements in banks’ financial health by March–April 2027 as it reviews asset quality, tackles bad loans and capital shortfalls, and strengthens governance and risk management."
     },
     {
-      "title": "AL's politics ended in Bangladesh through July Uprising: Nahid Islam",
-      "link": "https://www.tbsnews.net/bangladesh/politics/als-politics-ended-bangladesh-through-july-uprising-nahid-islam-1586136",
-      "pubDate": "Wed, 28 Oct 2026 21:10:00 +0600",
+      "title": "BBS, ISN downgraded to Z category for failing to declare dividends",
+      "link": "https://www.tbsnews.net/economy/stocks/bbs-isn-downgraded-z-category-failing-declare-dividends-1586146",
+      "pubDate": "Wed, 28 Oct 2026 21:15:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/28/nahid_islam.png",
-      "snippet": "Nahid made the remarks while talking to journalists at Rajbari Pourashava auditorium around 12:30pm,"
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/28/bbs.jpg",
+      "snippet": "Both companies reported losses per share for FY26, taking the number of ‘Z’ category companies on the Dhaka Stock Exchange to 129."
     },
     {
       "title": "Fortification Alliance Bangladesh launched to accelerate national action against hidden hunger",
@@ -120,6 +142,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/28/hellenkiller_kib.jpeg",
       "snippet": "An estimated 25.6 million people in Bangladesh cannot afford a nutritious and diversified diet, while around 16 million face acute food insecurity."
+    },
+    {
+      "title": "AL's politics ended in Bangladesh through July Uprising: Nahid Islam",
+      "link": "https://www.tbsnews.net/bangladesh/politics/als-politics-ended-bangladesh-through-july-uprising-nahid-islam-1586136",
+      "pubDate": "Wed, 28 Oct 2026 21:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/28/nahid_islam.png",
+      "snippet": "Nahid made the remarks while talking to journalists at Rajbari Pourashava auditorium around 12:30pm,"
     },
     {
       "title": "State Minister MA Muhit made president of disability rights caucus",
@@ -188,7 +221,7 @@
       "snippet": "The parliamentary committee has called for coordinated market monitoring to investigate alleged supply-chain irregularities, excessive middlemen profits and artificial shortages driving up prices of fish, meat, milk and eggs."
     },
     {
-      "title": "RMG wage board to be gazetted within a week: Labour minister",
+      "title": "Garment wage board to be gazetted within a week: Labour minister ",
       "link": "https://www.tbsnews.net/economy/rmg/rmg-wage-board-be-gazetted-within-week-labour-minister-1586001",
       "pubDate": "Wed, 28 Oct 2026 20:00:00 +0600",
       "category": "Bangladesh",
@@ -196,29 +229,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/28/labour_minister.jpg",
-      "snippet": "The minister says the government has received nominees from both owners and workers, while a special monitoring cell will be formed to address industrial disputes."
-    },
-    {
-      "title": "President urges universities to focus on world-class education to develop skilled workforce",
-      "link": "https://www.tbsnews.net/bangladesh/president-urges-universities-focus-world-class-education-develop-skilled-workforce",
-      "pubDate": "Wed, 28 Oct 2026 20:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/28/fakhrul1.png",
-      "snippet": "The president also stressed the need to overhaul the higher education system, giving priority to artificial intelligence (AI) and cutting-edge digital technologies."
-    },
-    {
-      "title": "Nation headed North Korea's way under BNP: Hasnat",
-      "link": "https://www.tbsnews.net/bangladesh/politics/nation-headed-north-koreas-way-under-bnp-hasnat-1585996",
-      "pubDate": "Wed, 28 Oct 2026 19:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/28/hasnat_abdullah.jpg",
-      "snippet": "Hasnat says Prime Minister Tarique Rahman had stated before the election that he believed in the freedom of dissent, but no evidence of that is visible now."
+      "snippet": "Govt receives representatives’ lists; monitoring cell planned."
     },
     {
       "title": "Banking sector destroyed by culture of default and loot: Wahiduddin Mahmud",
@@ -230,17 +241,6 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/28/wahiuddin_mahmud.png",
       "snippet": "Urging stakeholders to learn from past mistakes, Mahmud pointed out that inadequate regulatory frameworks during the initial authorization of private banks in the past allowed entrepreneur-directors to siphon off nearly one-third (equivalent to 35 pe..."
-    },
-    {
-      "title": "Biman resumes ticket sales at Ashkona Hajj Camp counter",
-      "link": "https://www.tbsnews.net/economy/aviation/biman-resumes-ticket-sales-ashkona-hajj-camp-counter-1585981",
-      "pubDate": "Wed, 28 Oct 2026 19:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/25/biman_2_0_0.jpg",
-      "snippet": "The counter will provide services daily from 10am to 5pm, according to a press release issued by the national flag carrier."
     },
     {
       "title": "No plan to hike edible oil prices for now: Muktadir",
@@ -320,15 +320,15 @@
       "snippet": "Bangladesh recorded 1,322 new suspected cases and 90 laboratory-confirmed infections in the 24 hours to 8am today, according to the DGHS."
     },
     {
-      "title": "Bank loan misuse: Economist Wahiduddin questions safeguards against fund misappropriation",
+      "title": "Economists warn of loan misuse, weak investment, deepening banking crisis",
       "link": "https://www.tbsnews.net/economy/banking/bank-loan-misuse-economist-wahiduddin-questions-safeguards-against-fund",
       "pubDate": "Wed, 28 Oct 2026 13:05:00 +0600",
       "category": "Economy",
       "color": "#2e7d32",
       "bg": "#e8f5e9",
       "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/08/21/456195661_2522630451254171_4903539009766611749_n.jpg",
-      "snippet": "Wahiduddin said private banks had once been brought up to international standards, but the banking sector was first undermined by non-performing loans."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/28/bank_crisis.jpg",
+      "snippet": "Speakers call for stronger governance and action against wilful defaulters."
     },
     {
       "title": "Govt plans ambulance pool, 151-bed upazila hospitals: Health minister",
@@ -901,18 +901,7 @@
       "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/26/vn2jstvt35j55a67nfmygxhd4u.jpg",
       "snippet": "The iPhone Duo is also more pocketable than its form factor might suggest."
-    },
-    {
-      "title": "UK firm eyes $500m recovery from Sikder Group's alleged $1b laundering",
-      "link": "https://www.tbsnews.net/economy/banking/uk-firm-eyes-500m-recovery-sikder-groups-alleged-1b-laundering-1582911",
-      "pubDate": "Mon, 26 Oct 2026 00:25:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/04/03/4807295_new-project1-300x170.jpg",
-      "snippet": "R1 Consortium would charge fees only after fund recovery, with no upfront payment."
     }
   ],
-  "updatedAt": "2026-10-28T17:00:07.979Z"
+  "updatedAt": "2026-10-28T21:36:29.127Z"
 }
