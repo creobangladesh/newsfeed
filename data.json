@@ -1,6 +1,127 @@
 {
   "news": [
     {
+      "title": "BRTA extends deadline for motorcycles to display front number plates to 31 Dec",
+      "link": "https://www.tbsnews.net/bangladesh/transport/brta-extends-deadline-motorcycles-display-front-number-plates-31-dec-1587396",
+      "pubDate": "Fri, 30 Oct 2026 01:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/06/06/bike.jpg",
+      "snippet": "The extension gives motorcycle owners additional time to install manually made front plates alongside the digital number plates already required at the rear."
+    },
+    {
+      "title": "Grameen Group, Japanese firm Wick launch social-business venture",
+      "link": "https://www.tbsnews.net/foreign-policy/grameen-group-japanese-firm-wick-launch-social-business-venture-1587386",
+      "pubDate": "Fri, 30 Oct 2026 01:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/30/878255414_996497273519135_4021731027263930974_n.jpg",
+      "snippet": "The joint venture plans to launch around spring 2027, with users earning points by viewing ads and redeeming them for essential goods, healthcare and education."
+    },
+    {
+      "title": "Bangladesh gets 3 more years before LDC graduation",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-gets-3-more-years-ldc-graduation-1587421",
+      "pubDate": "Fri, 30 Oct 2026 01:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/26/ldc_graduation.jpeg",
+      "snippet": "The extension gives Bangladesh until 24 November 2029 to strengthen export competitiveness, implement economic reforms and prepare for the loss of trade preferences and other LDC-specific benefits."
+    },
+    {
+      "title": "Man run over by bus in Rampura; driver detained",
+      "link": "https://www.tbsnews.net/bangladesh/crime/man-run-over-bus-rampura-driver-detained-1587381",
+      "pubDate": "Fri, 30 Oct 2026 00:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/untitled-2_0.png",
+      "snippet": "Police seize the Raida bus and detain its driver; body handed to family without autopsy."
+    },
+    {
+      "title": "Your walls, floors to cost more now as tile prices hiked by Tk1-2 per sq-ft",
+      "link": "https://www.tbsnews.net/economy/industry/your-walls-floors-cost-more-now-tile-prices-hiked-tk1-2-sq-ft-1587371",
+      "pubDate": "Fri, 30 Oct 2026 00:05:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/30/29013.jpg",
+      "snippet": "The new rates took effect on Wednesday."
+    },
+    {
+      "title": "Climate-sensitive health risks cost Bangladesh $20.7b annually: Study",
+      "link": "https://www.tbsnews.net/bangladesh/health/climate-sensitive-health-risks-cost-bangladesh-207b-annually-study-1587356",
+      "pubDate": "Thu, 29 Oct 2026 23:45:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/04/01/bd_climate_0.jpg",
+      "snippet": "Heat exposure cost 29.3 billion potential work hours, worth $15.8b."
+    },
+    {
+      "title": "BNP's Mirza Faisal Amin wins Thakurgaon-1 by-election with 227,917 votes",
+      "link": "https://www.tbsnews.net/bangladesh/bnps-mirza-faisal-amin-wins-thakurgaon-1-election-227917-votes-1587361",
+      "pubDate": "Thu, 29 Oct 2026 23:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/29/mirza_faisal.jpg",
+      "snippet": "His nearest rival, Delawar Hosen of the Jamaat-led alliance, secured 96,513 votes, with voter turnout standing at 64.81%."
+    },
+    {
+      "title": "Misinterpretation of religion, patriarchal mindsets hinder women's empowerment: Zahir Uddin Swapan",
+      "link": "https://www.tbsnews.net/bangladesh/misinterpretation-religion-patriarchal-mindsets-hinder-womens-empowerment-zahir-uddin",
+      "pubDate": "Thu, 29 Oct 2026 22:00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/29/zahir_uddin_swapan.png",
+      "snippet": "The prime minister's adviser said the government placed particular importance on gender equality and women's empowerment as part of its vision for building the Bangladesh of the future."
+    },
+    {
+      "title": "State minister tells scientists to make Bangladesh self-sufficient in livestock vaccines",
+      "link": "https://www.tbsnews.net/bangladesh/state-minister-tells-scientists-make-bangladesh-self-sufficient-livestock-vaccines",
+      "pubDate": "Thu, 29 Oct 2026 21:40:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/29/tuku.png",
+      "snippet": "He made the call at a view-exchange meeting held at the conference room of the Bangladesh Livestock Research Institute (BLRI)."
+    },
+    {
+      "title": "BRAC Bank's nine-month profit jumps 38% to Tk2,121cr",
+      "link": "https://www.tbsnews.net/economy/stocks/brac-banks-nine-month-profit-jumps-38-tk2121cr-1587291",
+      "pubDate": "Thu, 29 Oct 2026 21:35:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/23/brac_bank_logo_16x9.png",
+      "snippet": "Standalone net profit climbed about 50% to Tk1,584cr in Jan-Sep 2026."
+    },
+    {
+      "title": "Airport vehicle tracking plan aims to improve aviation safety, not address security lapse: Caab",
+      "link": "https://www.tbsnews.net/economy/aviation/airport-vehicle-tracking-plan-aims-improve-aviation-safety-not-address-security",
+      "pubDate": "Thu, 29 Oct 2026 21:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/23/dhaka-airport-2.jpeg",
+      "snippet": "The aviation regulator says reports on airside vehicle movement have confused aviation safety with aviation security."
+    },
+    {
       "title": "Health ministry cancels directive to stock Zia, Khaleda books in hospital, medical college libraries",
       "link": "https://www.tbsnews.net/bangladesh/health-ministry-cancels-directive-stock-zia-khaleda-books-hospital-medical-college",
       "pubDate": "Thu, 29 Oct 2026 21:20:00 +0600",
@@ -21,6 +142,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/29/shafiqur.png",
       "snippet": "EU Ambassador Michael Miller headed the delegation, which arrived at the opposition leader's official residence in the afternoon."
+    },
+    {
+      "title": "Absconding Ex-DIG Anisur to lose job over extrajudicial killing, disappearance cases",
+      "link": "https://www.tbsnews.net/bangladesh/ex-dig-anisur-rahman-faces-dismissal-amid-cases-over-alleged-extrajudicial-killings",
+      "pubDate": "Thu, 29 Oct 2026 21:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/29/dig_anisur.png",
+      "snippet": "He is currently suspended, and proceedings to dismiss him permanently are underway."
     },
     {
       "title": "Tarique, Zubaida sit in Toyota's first passenger car during factory visit",
@@ -133,127 +265,6 @@
       "snippet": "Syed Emran Saleh Prince calls Jamaat’s allegation baseless and politically motivated, accusing the party of trying to hide its own political failures and historical responsibility."
     },
     {
-      "title": "Shama discusses Bangladesh's foreign policy vision at roundtable Chatham House",
-      "link": "https://www.tbsnews.net/foreign-policy/shama-discusses-bangladeshs-foreign-policy-vision-roundtable-chatham-house-1587126",
-      "pubDate": "Thu, 29 Oct 2026 19:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/23/f9391e520b57fcbe7c1b1c2b9a82bf99-69a5a8b5393a4.jpg",
-      "snippet": "The session brought together scholars, academics and experts from Chatham House and other leading UK research and academic institutions."
-    },
-    {
-      "title": "Technical glitch fixed; Biman flight carrying PM expected to leave Tokyo for Dhaka shortly",
-      "link": "https://www.tbsnews.net/bangladesh/technical-glitch-fixed-biman-flight-carrying-pm-expected-leave-tokyo-dhaka-shortly",
-      "pubDate": "Thu, 29 Oct 2026 19:40:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/29/biman_bangladesh_airlines.jpg",
-      "snippet": "The Biman flight was scheduled to leave Tokyo at 6pm local time."
-    },
-    {
-      "title": "EC satisfied with peaceful Thakurgaon-1 by-election: EC Secretary",
-      "link": "https://www.tbsnews.net/bangladesh/ec-satisfied-peaceful-thakurgaon-1-election-ec-secretary-1587111",
-      "pubDate": "Thu, 29 Oct 2026 19:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/29/thakurgaon-1.png",
-      "snippet": "The EC secretary said, “Voters exercised their franchise in a festive atmosphere.“"
-    },
-    {
-      "title": "2 Chinese nationals placed on 7-day remand over smuggling of 12kg gold paste hidden in clothing",
-      "link": "https://www.tbsnews.net/bangladesh/2-chinese-nationals-placed-7-day-remand-over-smuggling-12kg-gold-paste-hidden-clothing",
-      "pubDate": "Thu, 29 Oct 2026 19:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/29/airport.png",
-      "snippet": "A goldsmith’s preliminary examination indicated that the paste was 24-carat gold, but its purity has yet to be confirmed through chemical testing."
-    },
-    {
-      "title": "Govt revises pay, benefits for contractually appointed officials",
-      "link": "https://www.tbsnews.net/bangladesh/govt-revises-pay-benefits-contractually-appointed-officials-1587106",
-      "pubDate": "Thu, 29 Oct 2026 19:25:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/22/govt_10.png",
-      "snippet": "The notification further stated that the relevant provisions of all previous orders, memorandums and instructions inconsistent with the new notification would stand cancelled, while earlier instructions consistent with it would remain in force."
-    },
-    {
-      "title": "Jamaat alleges irregularities, intimidation and advance ballot stamping in Thakurgaon-1 by-election",
-      "link": "https://www.tbsnews.net/bangladesh/politics/jamaat-alleges-irregularities-intimidation-and-advance-ballot-stamping",
-      "pubDate": "Thu, 29 Oct 2026 19:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/29/porwar_by-election.jpg",
-      "snippet": "In some cases, voters are reportedly told their votes have already been cast, says Porwar."
-    },
-    {
-      "title": "150 tonnes of Pakistani tobacco in 10 containers seized at Ctg Port over tax evasion concerns",
-      "link": "https://www.tbsnews.net/bangladesh/150-tonnes-pakistani-tobacco-10-containers-seized-ctg-port-over-tax-evasion-concerns",
-      "pubDate": "Thu, 29 Oct 2026 19:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/02/ctg_port_feb_2026.jpg",
-      "snippet": "Tobacco could produce cigarettes worth Tk494 crore; importer faces scrutiny over alleged irregularities in bonded warehouse records."
-    },
-    {
-      "title": "Bangladesh, Malaysia conclude first FTA talks, next round planned for January",
-      "link": "https://www.tbsnews.net/foreign-policy/bangladesh-malaysia-conclude-first-fta-talks-next-round-planned-january-1587076",
-      "pubDate": "Thu, 29 Oct 2026 19:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/29/866308821_3661569207334108_9109603718884450786_n.png",
-      "snippet": "Thirteen working groups reviewed draft chapters on goods and services, investment, digital trade and customs, with the next round expected to address outstanding differences."
-    },
-    {
-      "title": "'Nothing but ridiculous': Jamaat slams intelligence agencies, seeks accountability over ex-Air Force officer's death",
-      "link": "https://www.tbsnews.net/bangladesh/nothing-ridiculous-jamaat-slams-intelligence-agencies-seeks-accountability-over-ex-air",
-      "pubDate": "Thu, 29 Oct 2026 19:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/29/screenshot_2026-10-29_191526_0.png",
-      "snippet": "The party calls for an impartial probe, the arrest of those involved, and exemplary punishment"
-    },
-    {
-      "title": "Philippine envoy seeks stronger tourism ties with Bangladesh",
-      "link": "https://www.tbsnews.net/foreign-policy/philippine-envoy-seeks-stronger-tourism-ties-bangladesh-1587071",
-      "pubDate": "Thu, 29 Oct 2026 19:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/29/philuppine_envoy.png",
-      "snippet": "The Philippine envoy emphasised that tourism was not merely about leisure and recreation but also played a crucial role in supporting livelihoods and strengthening national economies."
-    },
-    {
-      "title": "Saint Martin's-bound tourist ships unlikely to sail from 1 November despite approval",
-      "link": "https://www.tbsnews.net/bangladesh/saint-martins-bound-tourist-ships-unlikely-sail-1-november-despite-approval-1587066",
-      "pubDate": "Thu, 29 Oct 2026 18:55:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/29/meeting_on_sain_martin.jpeg",
-      "snippet": "Three vessels have received regulatory and environmental clearance, but operators say outstanding administrative formalities could delay services until 3 or 4 November."
-    },
-    {
       "title": "President stresses multilingual education to strengthen Bangladesh's position in global job market",
       "link": "https://www.tbsnews.net/bangladesh/education/president-stresses-multilingual-education-strengthen-bangladeshs-position",
       "pubDate": "Thu, 29 Oct 2026 18:15:00 +0600",
@@ -298,8 +309,8 @@
       "snippet": "Bangladesh has achieved a level of bureaucratic performance art that Kafka himself would have dismissed as too on the nose for fiction"
     },
     {
-      "title": "Most banks would have disappeared if market rules were followed: Mahbub Ullah",
-      "link": "https://www.tbsnews.net/economy/banking/most-banks-would-have-disappeared-if-market-rules-were-followed-mahbub-ullah-1586916",
+      "title": "Most banks would have disappeared if market rules were followed: National Prof Mahbub Ullah",
+      "link": "https://www.tbsnews.net/economy/banking/most-banks-would-have-disappeared-if-market-rules-were-followed-national-prof-mahbub",
       "pubDate": "Thu, 29 Oct 2026 17:10:00 +0600",
       "category": "Banking",
       "color": "#00796b",
@@ -903,17 +914,6 @@
       "snippet": "Gas-fired generation plunged by 60% and coal-fired output by 39% within an hour, disrupting electricity supply in parts of Dhaka, Chattogram and other areas."
     },
     {
-      "title": "How daylight saving time changes affect health and how to prepare",
-      "link": "https://www.tbsnews.net/bangladesh/health/how-daylight-saving-time-changes-affect-health-and-how-prepare-1584321",
-      "pubDate": "Tue, 27 Oct 2026 14:25:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/27/screenshot_2026-10-27_142737.png",
-      "snippet": "The poll found that, if given a choice, most Americans would prefer to retain the additional hour of evening daylight."
-    },
-    {
       "title": "Govt to reopen 3 fertiliser factories by November next ",
       "link": "https://www.tbsnews.net/economy/govt-reopen-3-fertiliser-factories-november-next-1584291",
       "pubDate": "Tue, 27 Oct 2026 14:20:00 +0600",
@@ -967,40 +967,7 @@
       "icon": "🔍",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/27/trump_netanyahu_israel_election.jpg",
       "snippet": "If Netanyahu loses, it would end a relationship in which Trump has swung between praise and scorn."
-    },
-    {
-      "title": "Bangladesh, Malaysia set to begin FTA talks today",
-      "link": "https://www.tbsnews.net/economy/bangladesh-malaysia-set-begin-fta-talks-today-1583916",
-      "pubDate": "Tue, 27 Oct 2026 01:35:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/20/bd_malaysia_flag.jpg",
-      "snippet": "The two countries have already exchanged preliminary draft agreements which will be discussed following the opening session."
-    },
-    {
-      "title": "Doreen Power exits DSE risk list as earnings rise 58%, dividend to 15%",
-      "link": "https://www.tbsnews.net/economy/stocks/doreen-power-exits-dse-risk-list-earnings-rise-58-dividend-15-1583921",
-      "pubDate": "Mon, 26 Oct 2026 23:55:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/04/25/doreen_power_generations_and_systems_limited.jpg",
-      "snippet": "The company’s shares closed at Tk30.60 on the DSE today (26 October)."
-    },
-    {
-      "title": "Bangladesh pays over $2 for every $1 foreign loan received in Q1",
-      "link": "https://www.tbsnews.net/economy/bangladesh-pays-over-2-every-1-foreign-loan-received-q1-1583946",
-      "pubDate": "Mon, 26 Oct 2026 23:55:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/08/foreign_loan.jpeg",
-      "snippet": "Bangladesh paid $2.04 in foreign debt servicing for every dollar it received in loans from external sources during the quarter."
     }
   ],
-  "updatedAt": "2026-10-29T15:24:58.876Z"
+  "updatedAt": "2026-10-29T20:27:01.782Z"
 }
