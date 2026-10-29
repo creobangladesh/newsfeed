@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Savings certificate sales on the rise, likely to exceed budget target as bank deposit rates fall",
+      "link": "https://www.tbsnews.net/economy/banking/savings-certificate-sales-rise-likely-exceed-budget-target-bank-deposit-rates-fall",
+      "pubDate": "Thu, 29 Oct 2026 07:15:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/19/bank_deposit.jpg",
+      "snippet": "Net sales stood at Tk2,463 crore in July-August, according to data from the Department of National Savings"
+    },
+    {
       "title": "12kg gold worth Tk24cr seized from 2 passengers at Dhaka airport",
       "link": "https://www.tbsnews.net/bangladesh/crime/12kg-gold-worth-tk24cr-seized-2-passengers-dhaka-airport-1586281",
       "pubDate": "Thu, 29 Oct 2026 00:50:00 +0600",
@@ -133,17 +144,6 @@
       "snippet": "Both companies reported losses per share for FY26, taking the number of ‘Z’ category companies on the Dhaka Stock Exchange to 129."
     },
     {
-      "title": "Fortification Alliance Bangladesh launched to accelerate national action against hidden hunger",
-      "link": "https://www.tbsnews.net/bangladesh/fortification-alliance-bangladesh-launched-accelerate-national-action-against-hidden",
-      "pubDate": "Wed, 28 Oct 2026 21:10:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/28/hellenkiller_kib.jpeg",
-      "snippet": "An estimated 25.6 million people in Bangladesh cannot afford a nutritious and diversified diet, while around 16 million face acute food insecurity."
-    },
-    {
       "title": "AL's politics ended in Bangladesh through July Uprising: Nahid Islam",
       "link": "https://www.tbsnews.net/bangladesh/politics/als-politics-ended-bangladesh-through-july-uprising-nahid-islam-1586136",
       "pubDate": "Wed, 28 Oct 2026 21:10:00 +0600",
@@ -153,6 +153,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/28/nahid_islam.png",
       "snippet": "Nahid made the remarks while talking to journalists at Rajbari Pourashava auditorium around 12:30pm,"
+    },
+    {
+      "title": "Fortification Alliance Bangladesh launched to accelerate national action against hidden hunger",
+      "link": "https://www.tbsnews.net/bangladesh/fortification-alliance-bangladesh-launched-accelerate-national-action-against-hidden",
+      "pubDate": "Wed, 28 Oct 2026 21:10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/28/hellenkiller_kib.jpeg",
+      "snippet": "An estimated 25.6 million people in Bangladesh cannot afford a nutritious and diversified diet, while around 16 million face acute food insecurity."
     },
     {
       "title": "State Minister MA Muhit made president of disability rights caucus",
@@ -219,17 +230,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/28/image-439486-1793193873.jpg",
       "snippet": "The parliamentary committee has called for coordinated market monitoring to investigate alleged supply-chain irregularities, excessive middlemen profits and artificial shortages driving up prices of fish, meat, milk and eggs."
-    },
-    {
-      "title": "Garment wage board to be gazetted within a week: Labour minister ",
-      "link": "https://www.tbsnews.net/economy/rmg/rmg-wage-board-be-gazetted-within-week-labour-minister-1586001",
-      "pubDate": "Wed, 28 Oct 2026 20:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/28/labour_minister.jpg",
-      "snippet": "Govt receives representatives’ lists; monitoring cell planned."
     },
     {
       "title": "Banking sector destroyed by culture of default and loot: Wahiduddin Mahmud",
@@ -763,10 +763,10 @@
       "title": "Govt nominates private bank executives to head Janata, Agrani",
       "link": "https://www.tbsnews.net/economy/banking/govt-nominates-private-bank-executives-head-janata-agrani-1583611",
       "pubDate": "Mon, 26 Oct 2026 18:25:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/26/bank-heads.jpg",
       "snippet": "According to Financial Institutions Division letters, all executives are to be appointed on a contractual basis for three years."
     },
@@ -903,5 +903,5 @@
       "snippet": "The iPhone Duo is also more pocketable than its form factor might suggest."
     }
   ],
-  "updatedAt": "2026-10-28T21:36:29.127Z"
+  "updatedAt": "2026-10-29T01:34:54.578Z"
 }
