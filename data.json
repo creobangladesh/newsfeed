@@ -1,6 +1,116 @@
 {
   "news": [
     {
+      "title": "Garment exporters accuse local yarn mills of raising prices after import restrictions",
+      "link": "https://www.tbsnews.net/economy/rmg/garment-exporters-accuse-local-yarn-mills-raising-prices-after-import-restrictions",
+      "pubDate": "Fri, 30 Oct 2026 11:00:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/yarn.jpg",
+      "snippet": "Spinners say allegations are sweeping and unsubstantiated."
+    },
+    {
+      "title": "BUILD, UNCDF launch working group to boost green financing for SMEs",
+      "link": "https://www.tbsnews.net/bangladesh/build-uncdf-launch-working-group-boost-green-financing-smes-1587596",
+      "pubDate": "Fri, 30 Oct 2026 10:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/08/10/sme_small_and_medium_enterprises.jpg",
+      "snippet": "The initiative will focus on improving access to green finance, promoting cleaner technologies and addressing policy barriers facing small businesses."
+    },
+    {
+      "title": "Fishermen return to rivers as hilsa fishing ban ends",
+      "link": "https://www.tbsnews.net/bangladesh/fishermen-return-rivers-hilsa-fishing-ban-ends-1587606",
+      "pubDate": "Fri, 30 Oct 2026 10:55:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/08/23/success_comes_with_team_work.jpg",
+      "snippet": "Joint forces comprising the district and upazila administrations, the Fisheries Department, river police, the Bangladesh Coast Guard, and the district task force patrolled the 70-kilometer sanctuary area day and night."
+    },
+    {
+      "title": "Bangladesh, UK discuss ways to strengthen climate cooperation",
+      "link": "https://www.tbsnews.net/foreign-policy/bangladesh-uk-discuss-ways-strengthen-climate-cooperation-1587591",
+      "pubDate": "Fri, 30 Oct 2026 10:50:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/30/6173701.jpg",
+      "snippet": "The discussions focused on strengthening Bangladesh-UK cooperation in addressing climate change, particularly in climate adaptation and resilience, access to climate finance, renewable energy transition, carbon markets, and investment opportunities i..."
+    },
+    {
+      "title": "Activists call for iPhone boycott over Congo 'blood tech' claims",
+      "link": "https://www.tbsnews.net/tech/activists-call-iphone-boycott-over-congo-blood-tech-claims-1587576",
+      "pubDate": "Fri, 30 Oct 2026 10:35:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/26/vn2jstvt35j55a67nfmygxhd4u.jpg",
+      "snippet": "Footage shows protesters at Apple stores, with placards including 'No to Apple blood tech'."
+    },
+    {
+      "title": " Death of Tahsif Souri: PBI takes close acquaintance Dwip into custody",
+      "link": "https://www.tbsnews.net/bangladesh/crime/death-tahsif-souri-pbi-takes-close-acquaintance-dwip-custody-1587571",
+      "pubDate": "Fri, 30 Oct 2026 10:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/29/k_m_tahsin_sauri.jpg",
+      "snippet": "Dwip reportedly spent around five and a half hours with Souri before he went missing."
+    },
+    {
+      "title": "Finmin to seek $9.3b in Korean financing, speedy project approvals",
+      "link": "https://www.tbsnews.net/bangladesh/finmin-seek-93b-korean-financing-speedy-project-approvals-1587531",
+      "pubDate": "Fri, 30 Oct 2026 09:30:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/06/24/bd_s_korea.jpg",
+      "snippet": "A delegation led by Khosru scheduled to visit South Korea on 1-5 November."
+    },
+    {
+      "title": "Cash is king, as investors draw new battle lines in AI spending boom",
+      "link": "https://www.tbsnews.net/tech/cash-king-investors-draw-new-battle-lines-ai-spending-boom-1587546",
+      "pubDate": "Fri, 30 Oct 2026 08:55:00 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/30/screenshot_2026-10-30_at_09-00-15_cash_is_king_as_investors_draw_new_battle_lines_in_ai_spending_boom_reuters.png",
+      "snippet": "Microsoft is the only Big Tech firm generating cash in Q3, with $18.6 billion in free cash flow."
+    },
+    {
+      "title": "Harmful 'aflatoxin' detected in 135 tonnes of Indian rice: BRRI ",
+      "link": "https://www.tbsnews.net/bangladesh/harmful-aflatoxin-detected-135-tonnes-indian-rice-brri-1587536",
+      "pubDate": "Fri, 30 Oct 2026 08:20:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/2019902.jpg",
+      "snippet": "But presence of aflatoxin is tolerable, BRRI says"
+    },
+    {
+      "title": "PM returns home wrapping up four-day Japan visit",
+      "link": "https://www.tbsnews.net/bangladesh/pm-returns-home-wrapping-four-day-japan-visit-1587521",
+      "pubDate": "Fri, 30 Oct 2026 07:25:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/30/866164405_3270373139814468_1464342686962554098_n.jpg",
+      "snippet": "During the visit, Bangladesh and Japan signed six cooperation instruments covering coastal security, economic relations, the investment climate, agriculture, skills development, fisheries, livestock and climate change."
+    },
+    {
       "title": "BRTA extends deadline for motorcycles to display front number plates to 31 Dec",
       "link": "https://www.tbsnews.net/bangladesh/transport/brta-extends-deadline-motorcycles-display-front-number-plates-31-dec-1587396",
       "pubDate": "Fri, 30 Oct 2026 01:10:00 +0600",
@@ -155,17 +265,6 @@
       "snippet": "He is currently suspended, and proceedings to dismiss him permanently are underway."
     },
     {
-      "title": "Tarique, Zubaida sit in Toyota's first passenger car during factory visit",
-      "link": "https://www.tbsnews.net/bangladesh/tarique-zubaida-sit-toyotas-first-passenger-car-during-factory-visit-1587206",
-      "pubDate": "Thu, 29 Oct 2026 20:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/29/pm_toyota1.png",
-      "snippet": "A replica of the historic vehicle is preserved at the Toyota Automobile Museum in Japan."
-    },
-    {
       "title": "Parents' perceptions linked to children's maths performance: DU study",
       "link": "https://www.tbsnews.net/bangladesh/education/parents-perceptions-linked-childrens-maths-performance-du-study-1587211",
       "pubDate": "Thu, 29 Oct 2026 20:50:00 +0600",
@@ -188,39 +287,6 @@
       "snippet": "The decision follows talks with a UGC advisory committee, as students begin returning to classes after a 36-day shutdown while demanding the former VC’s reinstatement."
     },
     {
-      "title": "JU to host 16th Butterfly Fair on 27 November",
-      "link": "https://www.tbsnews.net/bangladesh/ju-host-16th-butterfly-fair-27-november-1587191",
-      "pubDate": "Thu, 29 Oct 2026 20:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/29/1000032543.jpg",
-      "snippet": "Organisers say butterfly diversity on campus has declined from around 110 species to 70, citing habitat destruction, urbanisation and development activities."
-    },
-    {
-      "title": "Zabihullah seeks JICA's support for setting up food testing labs in 64 districts",
-      "link": "https://www.tbsnews.net/bangladesh/zabihullah-seeks-jicas-support-setting-food-testing-labs-64-districts-1587176",
-      "pubDate": "Thu, 29 Oct 2026 20:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/29/zabiullah.png",
-      "snippet": "The team leader of the JICA Atsushi Koyama presented JICA’s recommendations for strengthening the food safety administration during the meeting."
-    },
-    {
-      "title": "Experts call for coordinated action to tackle food insecurity amid rising costs",
-      "link": "https://www.tbsnews.net/bangladesh/experts-call-coordinated-action-tackle-food-insecurity-amid-rising-costs-1587181",
-      "pubDate": "Thu, 29 Oct 2026 20:30:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/29/food_security_0.jpg",
-      "snippet": "Economists and development specialists urge stronger social safety nets, lower agricultural production costs and climate-resilient food systems to protect vulnerable households."
-    },
-    {
       "title": "Kaspersky warns of barcode scanner flaw",
       "link": "https://www.tbsnews.net/tech/kaspersky-warns-barcode-scanner-flaw-1587156",
       "pubDate": "Thu, 29 Oct 2026 20:20:00 +0600",
@@ -232,37 +298,15 @@
       "snippet": "Handheld scanners typically communicate with a base station connected to a workstation or business system."
     },
     {
-      "title": "PM leaves Tokyo for Dhaka after nearly 5-hour delay",
-      "link": "https://www.tbsnews.net/bangladesh/pm-leaves-tokyo-dhaka-after-nearly-5-hour-delay-1587151",
-      "pubDate": "Thu, 29 Oct 2026 20:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/29/biman_bangladesh_airlines.jpg",
-      "snippet": "Prime Minister Tarique Rahman’s flight was delayed by a technical glitch, with engineers fixing the problem before the aircraft departed Narita International Airport at 10:44pm local time."
-    },
-    {
       "title": "Govt to take legal action over IEDCR director assault: State minister",
       "link": "https://www.tbsnews.net/bangladesh/health/govt-take-legal-action-over-iedcr-director-assault-state-minister-1587141",
       "pubDate": "Thu, 29 Oct 2026 20:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/28/screenshot_2026-10-28_155830.png",
       "snippet": "MA Muhit says administrative measures are already under way after outsiders allegedly entered the director's office and assaulted him."
-    },
-    {
-      "title": "Prince accuses Jamaat of fabricating 'BNP-AL ties' over 2006 violence",
-      "link": "https://www.tbsnews.net/bangladesh/politics/prince-accuses-jamaat-fabricating-bnp-al-ties-over-2006-violence-1587136",
-      "pubDate": "Thu, 29 Oct 2026 20:00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/29/prince.png",
-      "snippet": "Syed Emran Saleh Prince calls Jamaat’s allegation baseless and politically motivated, accusing the party of trying to hide its own political failures and historical responsibility."
     },
     {
       "title": "President stresses multilingual education to strengthen Bangladesh's position in global job market",
@@ -934,40 +978,7 @@
       "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/26/vn2jstvt35j55a67nfmygxhd4u.jpg",
       "snippet": "Apple did not comment on ​what might cause the issue."
-    },
-    {
-      "title": "Inside 'Lula's Army': How 10m WhatsApp users fuelled Brazil's election turnaround",
-      "link": "https://www.tbsnews.net/world/inside-lulas-army-how-10m-whatsapp-users-fuelled-brazils-election-turnaround-1584131",
-      "pubDate": "Tue, 27 Oct 2026 12:05:00 +0600",
-      "category": "Analysis",
-      "color": "#5d4037",
-      "bg": "#efebe9",
-      "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/27/brazil-election-lula.jpg",
-      "snippet": "Analysts, however, say the full picture is more complicated."
-    },
-    {
-      "title": "In China, the AI bubble has already burst",
-      "link": "https://www.tbsnews.net/worldbiz/china/china-ai-bubble-has-already-burst-1584106",
-      "pubDate": "Tue, 27 Oct 2026 11:45:00 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/27/chinese_ai_bubble.jpg",
-      "snippet": "With AI stocks accounting for 42% of China's market capitalisation and 57% of turnover across mainland-listed A-shares and Hong Kong's H-shares, according to Goldman Sachs, few investors in a market dominated by small investors have escaped the pain."
-    },
-    {
-      "title": "10,000km apart, bound by war: How Israel, US elections could reshape the world",
-      "link": "https://www.tbsnews.net/analysis/10000km-apart-bound-war-how-israel-us-elections-could-reshape-world-1584066",
-      "pubDate": "Tue, 27 Oct 2026 11:35:00 +0600",
-      "category": "Analysis",
-      "color": "#5d4037",
-      "bg": "#efebe9",
-      "icon": "🔍",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/27/trump_netanyahu_israel_election.jpg",
-      "snippet": "If Netanyahu loses, it would end a relationship in which Trump has swung between praise and scorn."
     }
   ],
-  "updatedAt": "2026-10-30T00:08:38.937Z"
+  "updatedAt": "2026-10-30T06:13:41.286Z"
 }
