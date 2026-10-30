@@ -1,9 +1,53 @@
 {
   "news": [
     {
+      "title": "Islami Bank, National Bank suffer massive Tk6,3,03cr loss in Jan-Sep",
+      "link": "https://www.tbsnews.net/economy/banking/islami-bank-national-bank-suffer-massive-tk6303cr-loss-jan-sep-1588081",
+      "pubDate": "Sat, 31 Oct 2026 01:35 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/31/islami-bank-and-national-bank_0.jpg",
+      "snippet": "Bad loans and falling investment income weigh on both lenders."
+    },
+    {
+      "title": "Bangladesh seeks stronger UK cultural ties through creative economy",
+      "link": "https://www.tbsnews.net/foreign-policy/bangladesh-seeks-stronger-uk-cultural-ties-through-creative-economy-1588066",
+      "pubDate": "Sat, 31 Oct 2026 01:10 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/31/bd-uk.jpg",
+      "snippet": "State minister visits Oxford museum to explore artistic partnerships."
+    },
+    {
+      "title": "Child found hanging in capital’s Kalabagan; family suspects suicide",
+      "link": "https://www.tbsnews.net/bangladesh/child-found-hanging-capitals-kalabagan-family-suspects-suicide-1588061",
+      "pubDate": "Sat, 31 Oct 2026 01:10 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/28/dead_2.png",
+      "snippet": "Police are investigating the death and preparing for an autopsy."
+    },
+    {
+      "title": "Leftist alliance demands scrapping of US trade deal, NCT lease to DP World",
+      "link": "https://www.tbsnews.net/bangladesh/leftist-alliance-demands-scrapping-us-trade-deal-nct-lease-dp-world-1588076",
+      "pubDate": "Fri, 30 Oct 2026 23:55 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/p1_ctg_port_news_photo_1.jpg",
+      "snippet": "Its leaders also urged the government not to involve Bangladesh in any imperialist military or war alliance."
+    },
+    {
       "title": "Bangladesh’s port development: Why the right contractual model matters",
       "link": "https://www.tbsnews.net/thoughts/bangladeshs-port-development-why-right-contractual-model-matters-1588056",
-      "pubDate": "Fri, 30 Oct 2026 22:25:00 +0600",
+      "pubDate": "Fri, 30 Oct 2026 22:25 +0600",
       "category": "Thoughts",
       "color": "#455a64",
       "bg": "#eceff1",
@@ -14,7 +58,7 @@
     {
       "title": "28 Khulna Range police personnel withdrawn over corruption allegations",
       "link": "https://www.tbsnews.net/bangladesh/28-khulna-range-police-personnel-withdrawn-over-corruption-allegations-1588046",
-      "pubDate": "Fri, 30 Oct 2026 21:55:00 +0600",
+      "pubDate": "Fri, 30 Oct 2026 21:55 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
@@ -25,7 +69,7 @@
     {
       "title": "CU student sued over derogatory remarks about peer's mother",
       "link": "https://www.tbsnews.net/bangladesh/cu-student-sued-over-derogatory-remarks-about-peers-mother-1588051",
-      "pubDate": "Fri, 30 Oct 2026 21:55:00 +0600",
+      "pubDate": "Fri, 30 Oct 2026 21:55 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
@@ -36,7 +80,7 @@
     {
       "title": "Shipping agent disputes reports of aflatoxin in imported 135 tonnes of Indian rice",
       "link": "https://www.tbsnews.net/bangladesh/shipping-agent-disputes-reports-aflatoxin-imported-135-tonnes-indian-rice-1588036",
-      "pubDate": "Fri, 30 Oct 2026 21:45:00 +0600",
+      "pubDate": "Fri, 30 Oct 2026 21:45 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
@@ -47,7 +91,7 @@
     {
       "title": "Saudi airport restrictions: 22,721 passengers affected as 159 flights disrupted so far",
       "link": "https://www.tbsnews.net/economy/aviation/saudi-airport-restrictions-22721-passengers-affected-159-flights-disrupted-so-far",
-      "pubDate": "Fri, 30 Oct 2026 21:40:00 +0600",
+      "pubDate": "Fri, 30 Oct 2026 21:40 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
@@ -58,7 +102,7 @@
     {
       "title": "Sajek road blockade to be relaxed for one day on Sunday",
       "link": "https://www.tbsnews.net/bangladesh/sajek-road-blockade-be-relaxed-one-day-sunday-1588011",
-      "pubDate": "Fri, 30 Oct 2026 21:25:00 +0600",
+      "pubDate": "Fri, 30 Oct 2026 21:25 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
@@ -69,7 +113,7 @@
     {
       "title": "Six killed, two injured in lightning strike while fishing in Pabna",
       "link": "https://www.tbsnews.net/bangladesh/six-killed-two-injured-lightning-strike-while-fishing-pabna-1588016",
-      "pubDate": "Fri, 30 Oct 2026 21:15:00 +0600",
+      "pubDate": "Fri, 30 Oct 2026 21:15 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
@@ -78,20 +122,9 @@
       "snippet": "The victims took shelter in a makeshift hut as rain intensified, when lightning struck, killing six on the spot and critically injuring two others."
     },
     {
-      "title": "Chhatra League leader hospitalised after ‘custodial torture’ in Sunamganj",
-      "link": "https://www.tbsnews.net/bangladesh/chhatra-league-leader-hospitalised-after-custodial-torture-sunamganj-1588001",
-      "pubDate": "Fri, 30 Oct 2026 21:15:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/30/sunamganj-sylhet.jpg",
-      "snippet": "Police say the 19-year-old fell ill while in custody."
-    },
-    {
       "title": "Panchagarh-Cox's Bazar rail link to be considered after broad-gauge conversion: DG",
       "link": "https://www.tbsnews.net/bangladesh/transport/panchagarh-coxs-bazar-rail-link-be-considered-after-broad-gauge-conversion-dg",
-      "pubDate": "Fri, 30 Oct 2026 21:15:00 +0600",
+      "pubDate": "Fri, 30 Oct 2026 21:15 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
@@ -100,20 +133,20 @@
       "snippet": "He says the proposed rail link was a long-term plan, with its feasibility to be assessed after broad-gauge conversion based on passenger demand and expected ridership."
     },
     {
-      "title": "Govt to recruit 25,000 midwives to strengthen women's healthcare: Sakhawat",
-      "link": "https://www.tbsnews.net/bangladesh/health/govt-recruit-25000-midwives-strengthen-womens-healthcare-sakhawat-1587991",
-      "pubDate": "Fri, 30 Oct 2026 21:10:00 +0600",
+      "title": "Chhatra League leader hospitalised after ‘custodial torture’ in Sunamganj",
+      "link": "https://www.tbsnews.net/bangladesh/chhatra-league-leader-hospitalised-after-custodial-torture-sunamganj-1588001",
+      "pubDate": "Fri, 30 Oct 2026 21:15 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/30/health_minister.jpg",
-      "snippet": "The minister distributed sewing machines and fruit saplings among 300 people."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/30/sunamganj-sylhet.jpg",
+      "snippet": "Police say the 19-year-old fell ill while in custody."
     },
     {
       "title": "Egg prices rise Tk10 a dozen, winter vegetables remain expensive",
       "link": "https://www.tbsnews.net/bangladesh/egg-prices-rise-tk10-dozen-winter-vegetables-remain-expensive-1587996",
-      "pubDate": "Fri, 30 Oct 2026 21:10:00 +0600",
+      "pubDate": "Fri, 30 Oct 2026 21:10 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
@@ -122,9 +155,20 @@
       "snippet": "Egg prices have increased by Tk10 a dozen, while winter vegetables remain costly despite rising supplies. Fish prices have also climbed, though chicken prices remain mostly stable."
     },
     {
+      "title": "Govt to recruit 25,000 midwives to strengthen women's healthcare: Sakhawat",
+      "link": "https://www.tbsnews.net/bangladesh/health/govt-recruit-25000-midwives-strengthen-womens-healthcare-sakhawat-1587991",
+      "pubDate": "Fri, 30 Oct 2026 21:10 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/30/health_minister.jpg",
+      "snippet": "The minister distributed sewing machines and fruit saplings among 300 people."
+    },
+    {
       "title": "'Don't ask questions that encourage illegal occupation': Dhaka South administrator to media",
       "link": "https://www.tbsnews.net/bangladesh/dont-ask-questions-encourage-illegal-occupation-dhaka-south-administrator-media-1587976",
-      "pubDate": "Fri, 30 Oct 2026 20:55:00 +0600",
+      "pubDate": "Fri, 30 Oct 2026 20:55 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
@@ -135,7 +179,7 @@
     {
       "title": "Mirza Faisal visits defeated Jamaat rival after winning Thakurgaon-1 by-election",
       "link": "https://www.tbsnews.net/bangladesh/mirza-faisal-visits-defeated-jamaat-rival-after-winning-thakurgaon-1-election-1587971",
-      "pubDate": "Fri, 30 Oct 2026 20:45:00 +0600",
+      "pubDate": "Fri, 30 Oct 2026 20:45 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
@@ -146,7 +190,7 @@
     {
       "title": "Hilsa catches surge as fishing resumes in coastal waters",
       "link": "https://www.tbsnews.net/bangladesh/hilsa-catches-surge-fishing-resumes-coastal-waters-1587966",
-      "pubDate": "Fri, 30 Oct 2026 20:40:00 +0600",
+      "pubDate": "Fri, 30 Oct 2026 20:40 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
@@ -157,7 +201,7 @@
     {
       "title": "Sometimes ‘I’m fine’ is a cry for help",
       "link": "https://www.tbsnews.net/thoughts/sometimes-im-fine-cry-help-1587961",
-      "pubDate": "Fri, 30 Oct 2026 20:40:00 +0600",
+      "pubDate": "Fri, 30 Oct 2026 20:40 +0600",
       "category": "Thoughts",
       "color": "#455a64",
       "bg": "#eceff1",
@@ -168,7 +212,7 @@
     {
       "title": "Sukuk should not finance coal",
       "link": "https://www.tbsnews.net/thoughts/sukuk-should-not-finance-coal-1587951",
-      "pubDate": "Fri, 30 Oct 2026 20:35:00 +0600",
+      "pubDate": "Fri, 30 Oct 2026 20:35 +0600",
       "category": "Thoughts",
       "color": "#455a64",
       "bg": "#eceff1",
@@ -179,7 +223,7 @@
     {
       "title": "Golam Porwar warns govt against pushing country towards political confrontation",
       "link": "https://www.tbsnews.net/bangladesh/politics/golam-porwar-warns-govt-against-pushing-country-towards-political-confrontation",
-      "pubDate": "Fri, 30 Oct 2026 20:30:00 +0600",
+      "pubDate": "Fri, 30 Oct 2026 20:30 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
@@ -190,7 +234,7 @@
     {
       "title": "Nahid threatens to 'besiege' PM if home, energy ministers do not resign",
       "link": "https://www.tbsnews.net/bangladesh/politics/tarique-came-london-plans-corruption-extortion-land-grabbing-nahid-1587936",
-      "pubDate": "Fri, 30 Oct 2026 20:15:00 +0600",
+      "pubDate": "Fri, 30 Oct 2026 20:15 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
@@ -201,7 +245,7 @@
     {
       "title": "Next govt to be formed under Nahid, NCP leadership: Patwary",
       "link": "https://www.tbsnews.net/bangladesh/politics/next-govt-be-formed-under-nahid-ncp-leadership-patwary-1587926",
-      "pubDate": "Fri, 30 Oct 2026 20:10:00 +0600",
+      "pubDate": "Fri, 30 Oct 2026 20:10 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
@@ -210,20 +254,9 @@
       "snippet": "Party also pledges to contest local polls independently."
     },
     {
-      "title": "'Might makes right' increasingly becoming reality: Chief justice",
-      "link": "https://www.tbsnews.net/bangladesh/might-makes-right-increasingly-becoming-reality-chief-justice-1587921",
-      "pubDate": "Fri, 30 Oct 2026 19:35:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/30/chief_justice.jpg",
-      "snippet": "He urges states to place humanity above sovereignty."
-    },
-    {
       "title": "Global finance’s measure of success should be the people it serves",
       "link": "https://www.tbsnews.net/thoughts/global-finances-measure-success-should-be-people-it-serves-1587906",
-      "pubDate": "Fri, 30 Oct 2026 19:20:00 +0600",
+      "pubDate": "Fri, 30 Oct 2026 19:20 +0600",
       "category": "Thoughts",
       "color": "#455a64",
       "bg": "#eceff1",
@@ -232,42 +265,9 @@
       "snippet": "At the IMF-World Bank Annual Meetings, the numbers told one story — slowing growth, rising poverty, constrained fiscal space. The harder question, raised by civil society across the conference, was whether global finance is designed to reach the peop..."
     },
     {
-      "title": "Main purpose of my remark was to encourage third-gender education, clarifies Milon",
-      "link": "https://www.tbsnews.net/bangladesh/main-purpose-my-remark-was-encourage-third-gender-education-clarifies-milon-1587891",
-      "pubDate": "Fri, 30 Oct 2026 19:05:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/25/edu_minister.jpg",
-      "snippet": "The education minister clarifies that he had mistakenly used the term “transgender” instead of “third gender” during his speech."
-    },
-    {
-      "title": "Read joint statement before saying Bangladesh is being sold off: Humaiun tells Jamaat over PM's Japan visit",
-      "link": "https://www.tbsnews.net/bangladesh/read-joint-statement-saying-bangladesh-being-sold-humaiun-tells-jamaat-over-pms-japan",
-      "pubDate": "Fri, 30 Oct 2026 18:50:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/30/humauin_1.jpg",
-      "snippet": "The state minister asks the opposition party to read the statement before making claims about the Matarbari deep-sea port and Bangladesh’s national interests."
-    },
-    {
-      "title": "Rooppur nuclear plant's Unit 1 moves closer to grid connection",
-      "link": "https://www.tbsnews.net/economy/energy/rooppur-nuclear-plants-unit-1-begins-generating-power-uses-electricity-internally",
-      "pubDate": "Fri, 30 Oct 2026 18:45:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/02/rooppur_1.jpg",
-      "snippet": "Unit 1 is currently using the electricity generated for its internal operations as turbine checks and other tests continue, with grid connection subject to further inspections and regulatory approval."
-    },
-    {
       "title": "Govt working to strengthen upazila health system, referral network for women's health: Muhit",
       "link": "https://www.tbsnews.net/bangladesh/health/govt-working-strengthen-upazila-health-system-referral-network-womens-health-muhit",
-      "pubDate": "Fri, 30 Oct 2026 18:45:00 +0600",
+      "pubDate": "Fri, 30 Oct 2026 18:45 +0600",
       "category": "Health",
       "color": "#c2185b",
       "bg": "#fce4ec",
@@ -278,7 +278,7 @@
     {
       "title": "HSC, equivalent exam results tomorrow; ways to check online, by SMS",
       "link": "https://www.tbsnews.net/bangladesh/education/hsc-equivalent-exam-results-be-published-tomorrow-1587826",
-      "pubDate": "Fri, 30 Oct 2026 17:15:00 +0600",
+      "pubDate": "Fri, 30 Oct 2026 17:15 +0600",
       "category": "Education",
       "color": "#e65100",
       "bg": "#fff3e0",
@@ -289,7 +289,7 @@
     {
       "title": "Dengue claims 3 more lives in 24hrs, toll hits 418",
       "link": "https://www.tbsnews.net/bangladesh/health/dengue-claims-3-more-lives-24hrs-toll-hits-418-1587816",
-      "pubDate": "Fri, 30 Oct 2026 17:05:00 +0600",
+      "pubDate": "Fri, 30 Oct 2026 17:05 +0600",
       "category": "Health",
       "color": "#c2185b",
       "bg": "#fce4ec",
@@ -300,7 +300,7 @@
     {
       "title": "Measles: Death toll reaches 1,251 as 2 more children die in 24hrs",
       "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-1251-2-more-children-die-24hrs-1587806",
-      "pubDate": "Fri, 30 Oct 2026 16:50:00 +0600",
+      "pubDate": "Fri, 30 Oct 2026 16:50 +0600",
       "category": "Health",
       "color": "#c2185b",
       "bg": "#fce4ec",
@@ -311,7 +311,7 @@
     {
       "title": "UK increases student visa fund requirements from 30 Nov",
       "link": "https://www.tbsnews.net/bangladesh/education/uk-increases-student-visa-fund-requirements-30-nov-1587786",
-      "pubDate": "Fri, 30 Oct 2026 16:30:00 +0600",
+      "pubDate": "Fri, 30 Oct 2026 16:30 +0600",
       "category": "Education",
       "color": "#e65100",
       "bg": "#fff3e0",
@@ -322,7 +322,7 @@
     {
       "title": "Govt to open 10,306 acres of idle state industrial land to any businesses",
       "link": "https://www.tbsnews.net/economy/industry/govt-open-10306-acres-idle-state-industrial-land-any-businesses-1587626",
-      "pubDate": "Fri, 30 Oct 2026 13:00:00 +0600",
+      "pubDate": "Fri, 30 Oct 2026 13:00 +0600",
       "category": "Industry",
       "color": "#f57c00",
       "bg": "#fff3e0",
@@ -333,7 +333,7 @@
     {
       "title": "Garment exporters accuse local yarn mills of raising prices after import restrictions",
       "link": "https://www.tbsnews.net/economy/rmg/garment-exporters-accuse-local-yarn-mills-raising-prices-after-import-restrictions",
-      "pubDate": "Fri, 30 Oct 2026 11:00:00 +0600",
+      "pubDate": "Fri, 30 Oct 2026 11:00 +0600",
       "category": "Economy",
       "color": "#2e7d32",
       "bg": "#e8f5e9",
@@ -344,7 +344,7 @@
     {
       "title": "Activists call for iPhone boycott over Congo 'blood tech' claims",
       "link": "https://www.tbsnews.net/tech/activists-call-iphone-boycott-over-congo-blood-tech-claims-1587576",
-      "pubDate": "Fri, 30 Oct 2026 10:35:00 +0600",
+      "pubDate": "Fri, 30 Oct 2026 10:35 +0600",
       "category": "Tech",
       "color": "#1976d2",
       "bg": "#e3f2fd",
@@ -355,7 +355,7 @@
     {
       "title": "Cash is king, as investors draw new battle lines in AI spending boom",
       "link": "https://www.tbsnews.net/tech/cash-king-investors-draw-new-battle-lines-ai-spending-boom-1587546",
-      "pubDate": "Fri, 30 Oct 2026 08:55:00 +0600",
+      "pubDate": "Fri, 30 Oct 2026 08:55 +0600",
       "category": "Tech",
       "color": "#1976d2",
       "bg": "#e3f2fd",
@@ -366,7 +366,7 @@
     {
       "title": "Your walls, floors to cost more now as tile prices hiked by Tk1-2 per sq-ft",
       "link": "https://www.tbsnews.net/economy/industry/your-walls-floors-cost-more-now-tile-prices-hiked-tk1-2-sq-ft-1587371",
-      "pubDate": "Fri, 30 Oct 2026 00:05:00 +0600",
+      "pubDate": "Fri, 30 Oct 2026 00:05 +0600",
       "category": "Economy",
       "color": "#2e7d32",
       "bg": "#e8f5e9",
@@ -377,7 +377,7 @@
     {
       "title": "Climate-sensitive health risks cost Bangladesh $20.7b annually: Study",
       "link": "https://www.tbsnews.net/bangladesh/health/climate-sensitive-health-risks-cost-bangladesh-207b-annually-study-1587356",
-      "pubDate": "Thu, 29 Oct 2026 23:45:00 +0600",
+      "pubDate": "Thu, 29 Oct 2026 23:45 +0600",
       "category": "Health",
       "color": "#c2185b",
       "bg": "#fce4ec",
@@ -388,7 +388,7 @@
     {
       "title": "BRAC Bank's nine-month profit jumps 38% to Tk2,121cr",
       "link": "https://www.tbsnews.net/economy/stocks/brac-banks-nine-month-profit-jumps-38-tk2121cr-1587291",
-      "pubDate": "Thu, 29 Oct 2026 21:35:00 +0600",
+      "pubDate": "Thu, 29 Oct 2026 21:35 +0600",
       "category": "Economy",
       "color": "#2e7d32",
       "bg": "#e8f5e9",
@@ -399,7 +399,7 @@
     {
       "title": "Parents' perceptions linked to children's maths performance: DU study",
       "link": "https://www.tbsnews.net/bangladesh/education/parents-perceptions-linked-childrens-maths-performance-du-study-1587211",
-      "pubDate": "Thu, 29 Oct 2026 20:50:00 +0600",
+      "pubDate": "Thu, 29 Oct 2026 20:50 +0600",
       "category": "Education",
       "color": "#e65100",
       "bg": "#fff3e0",
@@ -410,7 +410,7 @@
     {
       "title": "Cuet teachers to continue protest programmes until demands met",
       "link": "https://www.tbsnews.net/bangladesh/education/cuet-teachers-continue-protest-programmes-until-demands-met-1587196",
-      "pubDate": "Thu, 29 Oct 2026 20:40:00 +0600",
+      "pubDate": "Thu, 29 Oct 2026 20:40 +0600",
       "category": "Education",
       "color": "#e65100",
       "bg": "#fff3e0",
@@ -421,7 +421,7 @@
     {
       "title": "Kaspersky warns of barcode scanner flaw",
       "link": "https://www.tbsnews.net/tech/kaspersky-warns-barcode-scanner-flaw-1587156",
-      "pubDate": "Thu, 29 Oct 2026 20:20:00 +0600",
+      "pubDate": "Thu, 29 Oct 2026 20:20 +0600",
       "category": "Tech",
       "color": "#1976d2",
       "bg": "#e3f2fd",
@@ -432,7 +432,7 @@
     {
       "title": "Govt to take legal action over IEDCR director assault: State minister",
       "link": "https://www.tbsnews.net/bangladesh/health/govt-take-legal-action-over-iedcr-director-assault-state-minister-1587141",
-      "pubDate": "Thu, 29 Oct 2026 20:05:00 +0600",
+      "pubDate": "Thu, 29 Oct 2026 20:05 +0600",
       "category": "Health",
       "color": "#c2185b",
       "bg": "#fce4ec",
@@ -443,7 +443,7 @@
     {
       "title": "President stresses multilingual education to strengthen Bangladesh's position in global job market",
       "link": "https://www.tbsnews.net/bangladesh/education/president-stresses-multilingual-education-strengthen-bangladeshs-position",
-      "pubDate": "Thu, 29 Oct 2026 18:15:00 +0600",
+      "pubDate": "Thu, 29 Oct 2026 18:15 +0600",
       "category": "Education",
       "color": "#e65100",
       "bg": "#fff3e0",
@@ -454,7 +454,7 @@
     {
       "title": "DU administration seeks student groups' views on Ducsu, hall elections",
       "link": "https://www.tbsnews.net/bangladesh/education/du-administration-seeks-student-groups-views-ducsu-hall-elections-1586971",
-      "pubDate": "Thu, 29 Oct 2026 17:45:00 +0600",
+      "pubDate": "Thu, 29 Oct 2026 17:45 +0600",
       "category": "Education",
       "color": "#e65100",
       "bg": "#fff3e0",
@@ -465,7 +465,7 @@
     {
       "title": "ECB President Lagarde resigns at time of mounting challenges for Europe",
       "link": "https://www.tbsnews.net/worldbiz/europe/ecb-president-lagarde-resigns-time-mounting-challenges-europe-1586976",
-      "pubDate": "Thu, 29 Oct 2026 17:40:00 +0600",
+      "pubDate": "Thu, 29 Oct 2026 17:40 +0600",
       "category": "Economy",
       "color": "#2e7d32",
       "bg": "#e8f5e9",
@@ -476,7 +476,7 @@
     {
       "title": "The Dhaka BRT: A masterclass in building a bus station for buses that don’t exist",
       "link": "https://www.tbsnews.net/features/panorama/dhaka-brt-masterclass-building-bus-station-buses-dont-exist-1586936",
-      "pubDate": "Thu, 29 Oct 2026 17:25:00 +0600",
+      "pubDate": "Thu, 29 Oct 2026 17:25 +0600",
       "category": "Analysis",
       "color": "#5d4037",
       "bg": "#efebe9",
@@ -487,7 +487,7 @@
     {
       "title": "Most banks would have disappeared if market rules were followed: National Prof Mahbub Ullah",
       "link": "https://www.tbsnews.net/economy/banking/most-banks-would-have-disappeared-if-market-rules-were-followed-national-prof-mahbub",
-      "pubDate": "Thu, 29 Oct 2026 17:10:00 +0600",
+      "pubDate": "Thu, 29 Oct 2026 17:10 +0600",
       "category": "Banking",
       "color": "#00796b",
       "bg": "#e0f2f1",
@@ -498,7 +498,7 @@
     {
       "title": "Dengue death toll at 415 as 6 more die",
       "link": "https://www.tbsnews.net/bangladesh/dengue-death-toll-415-6-more-die-1586901",
-      "pubDate": "Thu, 29 Oct 2026 16:55:00 +0600",
+      "pubDate": "Thu, 29 Oct 2026 16:55 +0600",
       "category": "Health",
       "color": "#c2185b",
       "bg": "#fce4ec",
@@ -509,7 +509,7 @@
     {
       "title": "Liquidity without dilution: Direct listing as a shareholder exit route",
       "link": "https://www.tbsnews.net/thoughts/liquidity-without-dilution-direct-listing-shareholder-exit-route-1586886",
-      "pubDate": "Thu, 29 Oct 2026 16:40:00 +0600",
+      "pubDate": "Thu, 29 Oct 2026 16:40 +0600",
       "category": "Thoughts",
       "color": "#455a64",
       "bg": "#eceff1",
@@ -520,7 +520,7 @@
     {
       "title": "5 Kuet teachers, 2 employees dismissed over disciplinary violations, irregularities",
       "link": "https://www.tbsnews.net/bangladesh/education/5-kuet-teachers-2-employees-dismissed-over-disciplinary-violations",
-      "pubDate": "Thu, 29 Oct 2026 16:35:00 +0600",
+      "pubDate": "Thu, 29 Oct 2026 16:35 +0600",
       "category": "Education",
       "color": "#e65100",
       "bg": "#fff3e0",
@@ -531,7 +531,7 @@
     {
       "title": "All primary school textbooks must be supplied by 5 November: Bobby Hajjaj",
       "link": "https://www.tbsnews.net/bangladesh/education/all-primary-school-textbooks-must-be-supplied-5-november-bobby-hajjaj-1586786",
-      "pubDate": "Thu, 29 Oct 2026 15:50:00 +0600",
+      "pubDate": "Thu, 29 Oct 2026 15:50 +0600",
       "category": "Education",
       "color": "#e65100",
       "bg": "#fff3e0",
@@ -542,7 +542,7 @@
     {
       "title": "Measles toll reaches 1,249 as 7 more children die",
       "link": "https://www.tbsnews.net/bangladesh/measles-toll-reaches-1249-7-more-children-die-1586781",
-      "pubDate": "Thu, 29 Oct 2026 15:45:00 +0600",
+      "pubDate": "Thu, 29 Oct 2026 15:45 +0600",
       "category": "Health",
       "color": "#c2185b",
       "bg": "#fce4ec",
@@ -553,7 +553,7 @@
     {
       "title": "Arrests over non-abusive online criticism raise concerns",
       "link": "https://www.tbsnews.net/bangladesh/arrests-over-non-abusive-online-criticism-raise-concerns-1586751",
-      "pubDate": "Thu, 29 Oct 2026 15:35:00 +0600",
+      "pubDate": "Thu, 29 Oct 2026 15:35 +0600",
       "category": "Analysis",
       "color": "#5d4037",
       "bg": "#efebe9",
@@ -564,7 +564,7 @@
     {
       "title": "BERC panel for hiking 12kg LPG cylinder price by Tk139 to Tk1,976",
       "link": "https://www.tbsnews.net/economy/energy/berc-panel-hiking-12kg-lpg-cylinder-price-tk139-tk1976-1586726",
-      "pubDate": "Thu, 29 Oct 2026 15:05:00 +0600",
+      "pubDate": "Thu, 29 Oct 2026 15:05 +0600",
       "category": "Economy",
       "color": "#2e7d32",
       "bg": "#e8f5e9",
@@ -575,7 +575,7 @@
     {
       "title": "Cheap energy, not cheap labour, can make Bangladesh a manufacturing hub",
       "link": "https://www.tbsnews.net/thoughts/cheap-energy-not-cheap-labour-can-make-bangladesh-manufacturing-hub-1586691",
-      "pubDate": "Thu, 29 Oct 2026 14:20:00 +0600",
+      "pubDate": "Thu, 29 Oct 2026 14:20 +0600",
       "category": "Thoughts",
       "color": "#455a64",
       "bg": "#eceff1",
@@ -586,7 +586,7 @@
     {
       "title": "Every minute counts: Breaking Bangladesh's stroke treatment barrier",
       "link": "https://www.tbsnews.net/bangladesh/health/every-minute-counts-breaking-bangladeshs-stroke-treatment-barrier-1586371",
-      "pubDate": "Thu, 29 Oct 2026 12:00:00 +0600",
+      "pubDate": "Thu, 29 Oct 2026 12:00 +0600",
       "category": "Health",
       "color": "#c2185b",
       "bg": "#fce4ec",
@@ -597,7 +597,7 @@
     {
       "title": "US envoy urges Bangladesh to cut red tape to attract foreign investment",
       "link": "https://www.tbsnews.net/economy/us-envoy-urges-bangladesh-cut-red-tape-attract-foreign-investment-1586521",
-      "pubDate": "Thu, 29 Oct 2026 11:40:00 +0600",
+      "pubDate": "Thu, 29 Oct 2026 11:40 +0600",
       "category": "Economy",
       "color": "#2e7d32",
       "bg": "#e8f5e9",
@@ -608,7 +608,7 @@
     {
       "title": "UGC plans satellite TV channel to expand access to higher education",
       "link": "https://www.tbsnews.net/bangladesh/education/ugc-plans-satellite-tv-channel-expand-access-higher-education-1586486",
-      "pubDate": "Thu, 29 Oct 2026 11:20:00 +0600",
+      "pubDate": "Thu, 29 Oct 2026 11:20 +0600",
       "category": "Education",
       "color": "#e65100",
       "bg": "#fff3e0",
@@ -619,7 +619,7 @@
     {
       "title": "Samsung posts record profit as AI boom drives chip demand",
       "link": "https://www.tbsnews.net/tech/samsung-posts-record-profit-ai-boom-drives-chip-demand-1586481",
-      "pubDate": "Thu, 29 Oct 2026 11:15:00 +0600",
+      "pubDate": "Thu, 29 Oct 2026 11:15 +0600",
       "category": "Tech",
       "color": "#1976d2",
       "bg": "#e3f2fd",
@@ -630,7 +630,7 @@
     {
       "title": "Revenue shortfall hits Tk43,000cr as economic slowdown, VAT slump bite",
       "link": "https://www.tbsnews.net/economy/revenue-shortfall-hits-tk43000cr-economic-slowdown-vat-slump-bite-1586361",
-      "pubDate": "Thu, 29 Oct 2026 11:00:00 +0600",
+      "pubDate": "Thu, 29 Oct 2026 11:00 +0600",
       "category": "Economy",
       "color": "#2e7d32",
       "bg": "#e8f5e9",
@@ -641,7 +641,7 @@
     {
       "title": "Savings certificate sales on the rise, likely to exceed budget target as bank deposit rates fall",
       "link": "https://www.tbsnews.net/economy/banking/savings-certificate-sales-rise-likely-exceed-budget-target-bank-deposit-rates-fall",
-      "pubDate": "Thu, 29 Oct 2026 07:15:00 +0600",
+      "pubDate": "Thu, 29 Oct 2026 07:15 +0600",
       "category": "Economy",
       "color": "#2e7d32",
       "bg": "#e8f5e9",
@@ -652,7 +652,7 @@
     {
       "title": "Open University must go beyond awarding certificates, says education minister",
       "link": "https://www.tbsnews.net/bangladesh/education/open-university-must-go-beyond-awarding-certificates-says-education-minister",
-      "pubDate": "Thu, 29 Oct 2026 00:05:00 +0600",
+      "pubDate": "Thu, 29 Oct 2026 00:05 +0600",
       "category": "Education",
       "color": "#e65100",
       "bg": "#fff3e0",
@@ -663,7 +663,7 @@
     {
       "title": "Cenbank sells $122m to ease dollar pressure",
       "link": "https://www.tbsnews.net/economy/banking/cenbank-sells-122m-ease-dollar-pressure-1586251",
-      "pubDate": "Wed, 28 Oct 2026 23:50:00 +0600",
+      "pubDate": "Wed, 28 Oct 2026 23:50 +0600",
       "category": "Banking",
       "color": "#00796b",
       "bg": "#e0f2f1",
@@ -672,20 +672,9 @@
       "snippet": "Banks sought $800 million as the Bangladesh Bank sold $122 million from reserves at up to Tk124.30 per dollar, while month-end payments and low remittance inflows added to market pressure."
     },
     {
-      "title": "Govt approves import of 1,50,000 tonnes of MOP fertiliser from Canada, Russia",
-      "link": "https://www.tbsnews.net/agriculture/govt-approves-import-150000-tonnes-mop-fertiliser-canada-russia-1586176",
-      "pubDate": "Wed, 28 Oct 2026 21:30:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/05/21/fertiliser.jpg",
-      "snippet": "The purchase proposals also include one LNG cargo from Qatar at a price $0.10 per MMBtu below the Japan Korea Marker benchmark, alongside the procurement of one crore jute sacks for the Directorate General of Food."
-    },
-    {
       "title": "World Bank warns of worsening food insecurity as commodity prices soar",
       "link": "https://www.tbsnews.net/economy/world-bank-warns-worsening-food-insecurity-commodity-prices-soar-1586186",
-      "pubDate": "Wed, 28 Oct 2026 21:30:00 +0600",
+      "pubDate": "Wed, 28 Oct 2026 21:30 +0600",
       "category": "Economy",
       "color": "#2e7d32",
       "bg": "#e8f5e9",
@@ -694,9 +683,20 @@
       "snippet": "Food prices were expected to rise by 10% in 2026 and another seven percent next year."
     },
     {
+      "title": "Govt approves import of 1,50,000 tonnes of MOP fertiliser from Canada, Russia",
+      "link": "https://www.tbsnews.net/agriculture/govt-approves-import-150000-tonnes-mop-fertiliser-canada-russia-1586176",
+      "pubDate": "Wed, 28 Oct 2026 21:30 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/05/21/fertiliser.jpg",
+      "snippet": "The purchase proposals also include one LNG cargo from Qatar at a price $0.10 per MMBtu below the Japan Korea Marker benchmark, alongside the procurement of one crore jute sacks for the Directorate General of Food."
+    },
+    {
       "title": "Dialysis patients urge PPP deal to maintain services at Chittagong Medical College Hospital",
       "link": "https://www.tbsnews.net/bangladesh/health/dialysis-patients-urge-ppp-deal-maintain-services-chittagong-medical-college",
-      "pubDate": "Wed, 28 Oct 2026 20:50:00 +0600",
+      "pubDate": "Wed, 28 Oct 2026 20:50 +0600",
       "category": "Health",
       "color": "#c2185b",
       "bg": "#fce4ec",
@@ -707,7 +707,7 @@
     {
       "title": "Banking sector destroyed by culture of default and loot: Wahiduddin Mahmud",
       "link": "https://www.tbsnews.net/economy/banking/banking-sector-destroyed-culture-default-and-loot-wahiduddin-mahmud-1585991",
-      "pubDate": "Wed, 28 Oct 2026 19:55:00 +0600",
+      "pubDate": "Wed, 28 Oct 2026 19:55 +0600",
       "category": "Economy",
       "color": "#2e7d32",
       "bg": "#e8f5e9",
@@ -718,7 +718,7 @@
     {
       "title": "No plan to hike edible oil prices for now: Muktadir",
       "link": "https://www.tbsnews.net/markets/no-plan-hike-edible-oil-prices-now-muktadir-1585966",
-      "pubDate": "Wed, 28 Oct 2026 19:45:00 +0600",
+      "pubDate": "Wed, 28 Oct 2026 19:45 +0600",
       "category": "Market",
       "color": "#7b1fa2",
       "bg": "#f3e5f5",
@@ -729,7 +729,7 @@
     {
       "title": "Health ministry forms 3-member probe committee after IEDCR director assaulted",
       "link": "https://www.tbsnews.net/bangladesh/health-ministry-forms-3-member-probe-committee-after-iedcr-director-assaulted-1585916",
-      "pubDate": "Wed, 28 Oct 2026 19:20:00 +0600",
+      "pubDate": "Wed, 28 Oct 2026 19:20 +0600",
       "category": "Health",
       "color": "#c2185b",
       "bg": "#fce4ec",
@@ -740,7 +740,7 @@
     {
       "title": "Dhaka Medical private ambulance strike suspended for 7 days",
       "link": "https://www.tbsnews.net/bangladesh/health/dhaka-medical-private-ambulance-strike-suspended-7-days-1585881",
-      "pubDate": "Wed, 28 Oct 2026 19:10:00 +0600",
+      "pubDate": "Wed, 28 Oct 2026 19:10 +0600",
       "category": "Health",
       "color": "#c2185b",
       "bg": "#fce4ec",
@@ -751,7 +751,7 @@
     {
       "title": "'Sell it and buy peanuts': Health minister accuses AL of wasting Tk18cr on MRI machine",
       "link": "https://www.tbsnews.net/bangladesh/health/sell-it-and-buy-peanuts-health-minister-accuses-al-wasting-tk18cr-mri-machine",
-      "pubDate": "Wed, 28 Oct 2026 17:05:00 +0600",
+      "pubDate": "Wed, 28 Oct 2026 17:05 +0600",
       "category": "Health",
       "color": "#c2185b",
       "bg": "#fce4ec",
@@ -762,7 +762,7 @@
     {
       "title": "Dengue: Death toll reaches 409 as nine more die",
       "link": "https://www.tbsnews.net/bangladesh/health/dengue-death-toll-reaches-409-nine-more-die-1585666",
-      "pubDate": "Wed, 28 Oct 2026 17:00:00 +0600",
+      "pubDate": "Wed, 28 Oct 2026 17:00 +0600",
       "category": "Health",
       "color": "#c2185b",
       "bg": "#fce4ec",
@@ -773,7 +773,7 @@
     {
       "title": "WB-backed economic zones in Bangladesh attract $300m investment, create 42,000 jobs",
       "link": "https://www.tbsnews.net/economy/wb-backed-economic-zones-bangladesh-attract-300m-investment-create-42000-jobs-1585656",
-      "pubDate": "Wed, 28 Oct 2026 16:45:00 +0600",
+      "pubDate": "Wed, 28 Oct 2026 16:45 +0600",
       "category": "Economy",
       "color": "#2e7d32",
       "bg": "#e8f5e9",
@@ -784,7 +784,7 @@
     {
       "title": "Measles: Death toll reaches 1,242 as two more children die",
       "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-1242-two-more-children-die-1585596",
-      "pubDate": "Wed, 28 Oct 2026 16:25:00 +0600",
+      "pubDate": "Wed, 28 Oct 2026 16:25 +0600",
       "category": "Health",
       "color": "#c2185b",
       "bg": "#fce4ec",
@@ -795,7 +795,7 @@
     {
       "title": "Economists warn of loan misuse, weak investment, deepening banking crisis",
       "link": "https://www.tbsnews.net/economy/banking/bank-loan-misuse-economist-wahiduddin-questions-safeguards-against-fund",
-      "pubDate": "Wed, 28 Oct 2026 13:05:00 +0600",
+      "pubDate": "Wed, 28 Oct 2026 13:05 +0600",
       "category": "Economy",
       "color": "#2e7d32",
       "bg": "#e8f5e9",
@@ -806,7 +806,7 @@
     {
       "title": "Govt plans ambulance pool, 151-bed upazila hospitals: Health minister",
       "link": "https://www.tbsnews.net/bangladesh/health/govt-plans-ambulance-pool-151-bed-upazila-hospitals-health-minister-1585381",
-      "pubDate": "Wed, 28 Oct 2026 13:05:00 +0600",
+      "pubDate": "Wed, 28 Oct 2026 13:05 +0600",
       "category": "Health",
       "color": "#c2185b",
       "bg": "#fce4ec",
@@ -817,7 +817,7 @@
     {
       "title": "Gold price rises by Tk2,216 per bhori after four straight cuts",
       "link": "https://www.tbsnews.net/bangladesh/gold-price-rises-tk-2216-bhori-after-four-straight-cuts-1585316",
-      "pubDate": "Wed, 28 Oct 2026 11:55:00 +0600",
+      "pubDate": "Wed, 28 Oct 2026 11:55 +0600",
       "category": "Economy",
       "color": "#2e7d32",
       "bg": "#e8f5e9",
@@ -828,7 +828,7 @@
     {
       "title": "Neural Semiconductor opens Malaysia office, marks first for Bangladesh",
       "link": "https://www.tbsnews.net/tech/neural-semiconductor-opens-malaysia-office-marks-first-bangladesh-1585271",
-      "pubDate": "Wed, 28 Oct 2026 11:05:00 +0600",
+      "pubDate": "Wed, 28 Oct 2026 11:05 +0600",
       "category": "Tech",
       "color": "#1976d2",
       "bg": "#e3f2fd",
@@ -839,7 +839,7 @@
     {
       "title": "Janata Bank seeks urgent govt intervention to halt closure of UAE branches",
       "link": "https://www.tbsnews.net/economy/banking/janata-bank-seeks-urgent-govt-intervention-halt-closure-uae-branches-1585226",
-      "pubDate": "Wed, 28 Oct 2026 11:00:00 +0600",
+      "pubDate": "Wed, 28 Oct 2026 11:00 +0600",
       "category": "Banking",
       "color": "#00796b",
       "bg": "#e0f2f1",
@@ -850,7 +850,7 @@
     {
       "title": "Tarique urges Uniqlo to expand investment in Bangladesh's RMG sector",
       "link": "https://www.tbsnews.net/economy/rmg/tarique-urges-uniqlo-expand-investment-bangladeshs-rmg-sector-1585241",
-      "pubDate": "Wed, 28 Oct 2026 10:15:00 +0600",
+      "pubDate": "Wed, 28 Oct 2026 10:15 +0600",
       "category": "Economy",
       "color": "#2e7d32",
       "bg": "#e8f5e9",
@@ -861,7 +861,7 @@
     {
       "title": "Cable market shrinks 25% as demand slump hits manufacturers",
       "link": "https://www.tbsnews.net/economy/industry/cable-market-shrinks-25-demand-slump-hits-manufacturers-1585131",
-      "pubDate": "Wed, 28 Oct 2026 10:00:00 +0600",
+      "pubDate": "Wed, 28 Oct 2026 10:00 +0600",
       "category": "Industry",
       "color": "#f57c00",
       "bg": "#fff3e0",
@@ -872,7 +872,7 @@
     {
       "title": "How does Gen Z think? Lessons for policymakers",
       "link": "https://www.tbsnews.net/thoughts/how-does-gen-z-think-lessons-policymakers-1585196",
-      "pubDate": "Wed, 28 Oct 2026 09:50:00 +0600",
+      "pubDate": "Wed, 28 Oct 2026 09:50 +0600",
       "category": "Thoughts",
       "color": "#455a64",
       "bg": "#eceff1",
@@ -883,7 +883,7 @@
     {
       "title": "Staff shortage strains EPI as 40% of vaccinator posts lie vacant",
       "link": "https://www.tbsnews.net/bangladesh/health/staff-shortage-strains-epi-40-vaccinator-posts-lie-vacant-1585111",
-      "pubDate": "Wed, 28 Oct 2026 09:00:00 +0600",
+      "pubDate": "Wed, 28 Oct 2026 09:00 +0600",
       "category": "Health",
       "color": "#c2185b",
       "bg": "#fce4ec",
@@ -894,7 +894,7 @@
     {
       "title": "Why the IGP’s ‘crossfire’ remark cannot be dismissed as a metaphor",
       "link": "https://www.tbsnews.net/features/panorama/why-igps-crossfire-remark-cannot-be-dismissed-metaphor-1585076",
-      "pubDate": "Wed, 28 Oct 2026 08:10:00 +0600",
+      "pubDate": "Wed, 28 Oct 2026 08:10 +0600",
       "category": "Analysis",
       "color": "#5d4037",
       "bg": "#efebe9",
@@ -905,25 +905,14 @@
     {
       "title": "Tk1,958cr export incentives stuck in payment delays",
       "link": "https://www.tbsnews.net/economy/tk1958cr-q1-export-incentives-stuck-payment-delays-1585081",
-      "pubDate": "Wed, 28 Oct 2026 07:15:00 +0600",
+      "pubDate": "Wed, 28 Oct 2026 07:15 +0600",
       "category": "Economy",
       "color": "#2e7d32",
       "bg": "#e8f5e9",
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/05/16/ctg_port_2_1.png",
       "snippet": "The government cleared export incentive payments up to June, but the subsequent three months’ dues remain outstanding, creating financial pressure on exporters who depend on the support to sustain operations and plan new investments."
-    },
-    {
-      "title": "'No parking, no service': Private ambulance owners go on indefinite strike at Dhaka Medical",
-      "link": "https://www.tbsnews.net/bangladesh/health/no-parking-no-service-private-ambulance-owners-go-indefinite-strike-dhaka-medical",
-      "pubDate": "Wed, 28 Oct 2026 00:50:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/08/04/dmch_0.jpg",
-      "snippet": "The strike over designated parking space has disrupted patient transfers and transport of bodies, forcing some families to use vans and trolleys."
     }
   ],
-  "updatedAt": "2026-10-30T18:43:58.378Z"
+  "updatedAt": "2026-10-30T22:48:11.728Z"
 }
