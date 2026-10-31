@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Govt plans establishing 10-lakh-tonne fertiliser factory in Saudi Arabia",
+      "link": "https://www.tbsnews.net/economy/industry/govt-plans-establishing-10-lakh-tonne-fertiliser-factory-saudi-arabia-1588086",
+      "pubDate": "Sat, 31 Oct 2026 07:20 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/05/21/fertiliser.jpg",
+      "snippet": "Under the proposal, Bangladesh and Saudi Arabia will jointly own a new company operating the factory, with each government holding a 50% stake, according to sources in the foreign and industries ministries"
+    },
+    {
       "title": "Islami Bank, National Bank suffer massive Tk6,3,03cr loss in Jan-Sep",
       "link": "https://www.tbsnews.net/economy/banking/islami-bank-national-bank-suffer-massive-tk6303cr-loss-jan-sep-1588081",
       "pubDate": "Sat, 31 Oct 2026 01:35 +0600",
@@ -56,17 +67,6 @@
       "snippet": "A Chinese loan for Mongla Port is not the same as handing over control of it — but Bangladesh still needs a clear contractual framework to make sure those remain two very different things"
     },
     {
-      "title": "28 Khulna Range police personnel withdrawn over corruption allegations",
-      "link": "https://www.tbsnews.net/bangladesh/28-khulna-range-police-personnel-withdrawn-over-corruption-allegations-1588046",
-      "pubDate": "Fri, 30 Oct 2026 21:55 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/police.jpg",
-      "snippet": "Action covers members ranging from cooks to sub-inspectors."
-    },
-    {
       "title": "CU student sued over derogatory remarks about peer's mother",
       "link": "https://www.tbsnews.net/bangladesh/cu-student-sued-over-derogatory-remarks-about-peers-mother-1588051",
       "pubDate": "Fri, 30 Oct 2026 21:55 +0600",
@@ -76,6 +76,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/case_filed.jpg",
       "snippet": "Complainant alleges online abuse followed criticism of a Shibir leader."
+    },
+    {
+      "title": "28 Khulna Range police personnel withdrawn over corruption allegations",
+      "link": "https://www.tbsnews.net/bangladesh/28-khulna-range-police-personnel-withdrawn-over-corruption-allegations-1588046",
+      "pubDate": "Fri, 30 Oct 2026 21:55 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/police.jpg",
+      "snippet": "Action covers members ranging from cooks to sub-inspectors."
     },
     {
       "title": "Shipping agent disputes reports of aflatoxin in imported 135 tonnes of Indian rice",
@@ -241,17 +252,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/30/nahid_ncp_protest.png",
       "snippet": "Tarique Rahman is attempting to hand over an illegal corridor to India through Bangladesh, he alleges."
-    },
-    {
-      "title": "Next govt to be formed under Nahid, NCP leadership: Patwary",
-      "link": "https://www.tbsnews.net/bangladesh/politics/next-govt-be-formed-under-nahid-ncp-leadership-patwary-1587926",
-      "pubDate": "Fri, 30 Oct 2026 20:10 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/30/nasiruddin_ncp.jpg",
-      "snippet": "Party also pledges to contest local polls independently."
     },
     {
       "title": "Global finance’s measure of success should be the people it serves",
@@ -901,18 +901,7 @@
       "icon": "🔍",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/28/crossfire_panorama_copy.png",
       "snippet": "For a country carrying nearly 3,000 deaths under the term, ‘crossfire’ cannot be an innocent figure of speech. It is an institutional memory of how easily allegations became death sentences — and how often the state wrote the verdict after firing the..."
-    },
-    {
-      "title": "Tk1,958cr export incentives stuck in payment delays",
-      "link": "https://www.tbsnews.net/economy/tk1958cr-q1-export-incentives-stuck-payment-delays-1585081",
-      "pubDate": "Wed, 28 Oct 2026 07:15 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/05/16/ctg_port_2_1.png",
-      "snippet": "The government cleared export incentive payments up to June, but the subsequent three months’ dues remain outstanding, creating financial pressure on exporters who depend on the support to sustain operations and plan new investments."
     }
   ],
-  "updatedAt": "2026-10-30T22:48:11.728Z"
+  "updatedAt": "2026-10-31T02:02:04.194Z"
 }
