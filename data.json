@@ -1,7 +1,18 @@
 {
   "news": [
     {
-      "title": "If crossfire begins, BNP men will be first to face it: Hasnat Abdullah",
+      "title": "Govt has destroyed country in just eight months: Parwar",
+      "link": "https://www.tbsnews.net/bangladesh/politics/govt-has-destroyed-country-just-eight-months-parwar-1588991",
+      "pubDate": "Sun, 01 Nov 2026 01:25 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/01/parwar.jpg",
+      "snippet": "Jamaat leaders allege BNP of reversing its referendum commitments."
+    },
+    {
+      "title": "BNP men will be first to face crossfire if govt begins it: Hasnat",
       "link": "https://www.tbsnews.net/bangladesh/politics/if-crossfire-begins-bnp-men-will-be-first-face-it-hasnat-abdullah-1588986",
       "pubDate": "Sun, 01 Nov 2026 01:15 +0600",
       "category": "Bangladesh",
@@ -241,17 +252,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/energy_minister.jpeg",
       "snippet": "The government will also move to pass a law in parliament soon to facilitate rooftop solar installation and ensure that households can easily access the proposed benefits, he says."
-    },
-    {
-      "title": "10 Bangladeshi women return after serving jail in India",
-      "link": "https://www.tbsnews.net/bangladesh/10-bangladeshi-women-return-after-serving-jail-india-1588781",
-      "pubDate": "Sat, 31 Oct 2026 19:50 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/08/17/jail.jpg",
-      "snippet": "Indian Petrapole Immigration Police handed them over to Benapole Immigration Police around 8pm on Friday under a special travel permit."
     },
     {
       "title": "Cox's Bazar records 43.93% HSC pass rate, 53 secure GPA-5",
@@ -903,5 +903,5 @@
       "snippet": "Net sales stood at Tk2,463 crore in July-August, according to data from the Department of National Savings"
     }
   ],
-  "updatedAt": "2026-10-31T19:27:13.872Z"
+  "updatedAt": "2026-10-31T22:43:19.234Z"
 }
