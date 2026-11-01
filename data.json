@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Half of Rupali Bank’s Tk19,805cr defaulted loans stuck with 20 borrowers",
+      "link": "https://www.tbsnews.net/economy/banking/half-rupali-banks-tk19805cr-defaulted-loans-stuck-20-borrowers-1588996",
+      "pubDate": "Sun, 01 Nov 2026 07:30 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/19/rupali-bank.png",
+      "snippet": "High NPLs and provisioning requirements constrain banks’ capacity to extend fresh loans"
+    },
+    {
       "title": "Govt has destroyed country in just eight months: Parwar",
       "link": "https://www.tbsnews.net/bangladesh/politics/govt-has-destroyed-country-just-eight-months-parwar-1588991",
       "pubDate": "Sun, 01 Nov 2026 01:25 +0600",
@@ -241,17 +252,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/09/27/6b453a02-3215-11ed-a054-61a0e7dba4f0_1663015042543_1664250276243_1664250276243.jpg",
       "snippet": "One left a note expressing distress over his results, police say."
-    },
-    {
-      "title": "Rooftop solar homes to get 'green house' status, tax benefits: Tuku",
-      "link": "https://www.tbsnews.net/bangladesh/rooftop-solar-homes-get-green-status-tax-benefits-minister-1588771",
-      "pubDate": "Sat, 31 Oct 2026 19:50 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/energy_minister.jpeg",
-      "snippet": "The government will also move to pass a law in parliament soon to facilitate rooftop solar installation and ensure that households can easily access the proposed benefits, he says."
     },
     {
       "title": "Cox's Bazar records 43.93% HSC pass rate, 53 secure GPA-5",
@@ -890,18 +890,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/29/economic-slowdown.png",
       "snippet": "NBR chairman sits with field-level officials today to review revenue situation"
-    },
-    {
-      "title": "Savings certificate sales on the rise, likely to exceed budget target as bank deposit rates fall",
-      "link": "https://www.tbsnews.net/economy/banking/savings-certificate-sales-rise-likely-exceed-budget-target-bank-deposit-rates-fall",
-      "pubDate": "Thu, 29 Oct 2026 07:15 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/29/deposit.png",
-      "snippet": "Net sales stood at Tk2,463 crore in July-August, according to data from the Department of National Savings"
     }
   ],
-  "updatedAt": "2026-10-31T22:43:19.234Z"
+  "updatedAt": "2026-11-01T01:53:41.006Z"
 }
