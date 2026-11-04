@@ -1,6 +1,171 @@
 {
   "news": [
     {
+      "title": "Rain likely in 3 divisions ",
+      "link": "https://www.tbsnews.net/bangladesh/rain-likely-3-divisions-1592216",
+      "pubDate": "Wed, 04 Nov 2026 12:20 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/31/rainfall_0.jpg",
+      "snippet": "The highest temperature yesterday (3 November) was 34.6 degrees Celsius in Ambagan under Chattogram division, while today's minimum temperature is 17.4 degrees Celsius in Tetulia under Rangpur division."
+    },
+    {
+      "title": "PM releases commemorative stamp marking 7 November National Revolution and Solidarity Day",
+      "link": "https://www.tbsnews.net/bangladesh/pm-releases-commemorative-stamp-marking-7-november-national-revolution-and-solidarity-day",
+      "pubDate": "Wed, 04 Nov 2026 12:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/04/screenshot_2026-11-04_120244_0.png",
+      "snippet": "The prime minister signed the commemorative stamp and inaugural cover and officially released them by applying a special postmark."
+    },
+    {
+      "title": "Roadmap ready for drilling, overhauling 150 wells targeting 1,752 mmcfd gas",
+      "link": "https://www.tbsnews.net/bangladesh/roadmap-ready-drilling-overhauling-150-wells-targeting-1752-mmcfd-gas-1592191",
+      "pubDate": "Wed, 04 Nov 2026 12:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/02/gas_exploration.jpg",
+      "snippet": "Under the roadmap, the authorities have divided the programme into two phases."
+    },
+    {
+      "title": "PM's Mongla port visit tomorrow to mark launch of new jetties, MoU signing ",
+      "link": "https://www.tbsnews.net/bangladesh/pms-mongla-port-visit-tomorrow-mark-launch-new-jetties-mou-signing-1592186",
+      "pubDate": "Wed, 04 Nov 2026 12:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/08/18/image-302818-1755510534.jpg",
+      "snippet": "The prime minister is expected to lay the foundation stone for the construction of two new container jetties and associated facilities under a project aimed at expanding and modernising port infrastructure."
+    },
+    {
+      "title": "Bangladesh, Malaysia discuss joint monitoring for fair recruitment",
+      "link": "https://www.tbsnews.net/foreign-policy/bangladesh-malaysia-discuss-joint-monitoring-fair-recruitment-1592151",
+      "pubDate": "Wed, 04 Nov 2026 11:40 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/04/screenshot_2026-11-04_114525_0.png",
+      "snippet": "Both ministers discussed the need for joint inspections and monitoring to ensure fairness and transparency in the recruitment process, according to a Foreign Ministry press release issued tonight."
+    },
+    {
+      "title": "3 journalists assaulted while covering RMG workers' protest in Savar",
+      "link": "https://www.tbsnews.net/bangladesh/3-journalists-assaulted-while-covering-rmg-workers-protest-savar-1592111",
+      "pubDate": "Wed, 04 Nov 2026 11:25 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/04/journo_assault_rmg_savar_.jpg",
+      "snippet": "A group of protesters allegedly attacked them at around 9:30am while they were reporting on the workers’ movement."
+    },
+    {
+      "title": "Humaiun urges Commonwealth trade preferences beyond LDC graduation",
+      "link": "https://www.tbsnews.net/foreign-policy/humaiun-urges-commonwealth-trade-preferences-beyond-ldc-graduation-1592106",
+      "pubDate": "Wed, 04 Nov 2026 11:20 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/04/screenshot_2026-11-04_112058.png",
+      "snippet": "He highlighted obstacles to uninterrupted supply chains and trade among Commonwealth nations and called for concerted efforts to tap the grouping's vast trade potential."
+    },
+    {
+      "title": "Planning Commission objects to REB's limited tendering for power line projects",
+      "link": "https://www.tbsnews.net/bangladesh/planning-commission-objects-rebs-limited-tendering-power-line-projects-1592076",
+      "pubDate": "Wed, 04 Nov 2026 11:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/08/06/planning_commission.jpg",
+      "snippet": "The commission said the work should be procured through the open tendering method in line with the Public Procurement Act and Rules, to ensure fair competition and transparency."
+    },
+    {
+      "title": "New garment wage board to hold first meeting at 11am as chairman replaced",
+      "link": "https://www.tbsnews.net/bangladesh/new-garment-wage-board-hold-first-meeting-11am-chairman-replaced-1592081",
+      "pubDate": "Wed, 04 Nov 2026 10:35 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/13/copy_of_rmg-mumitm-1445_6.jpg",
+      "snippet": "The meeting is expected to begin at 11am, Babul Akter, the workers’ representative on the wage board, told The Business Standard."
+    },
+    {
+      "title": "Shortage of free hypertension, diabetes drugs hits poor patients",
+      "link": "https://www.tbsnews.net/bangladesh/health/shortage-free-hypertension-diabetes-drugs-hits-poor-patients-1592066",
+      "pubDate": "Wed, 04 Nov 2026 10:30 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/09/01/national_heart_foundation_hospital_and_research_institute.jpg",
+      "snippet": "National hypertension control rate declines by 2% in two months"
+    },
+    {
+      "title": "Dollar gains against taka as efforts to stabilise forex market falter",
+      "link": "https://www.tbsnews.net/economy/banking/dollar-gains-against-taka-efforts-stabilise-forex-market-falter-1592056",
+      "pubDate": "Wed, 04 Nov 2026 10:05 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/08/22/rich_dollar_0_0.jpg",
+      "snippet": "Higher government payment obligations, particularly large payments by the Bangladesh Petroleum Corporation (BPC) and Petrobangla, have driven up demand for dollars."
+    },
+    {
+      "title": "IMF proposes excise duty on fuel sales, but experts warn against timing",
+      "link": "https://www.tbsnews.net/bangladesh/imf-proposes-excise-duty-fuel-sales-experts-warn-against-timing-1592051",
+      "pubDate": "Wed, 04 Nov 2026 10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/08/21/fuel.jpeg",
+      "snippet": "IMF also questions why exemptions couldn’t be removed immediately"
+    },
+    {
+      "title": "FKI, Youngone host Bangladesh delegation to boost trade, investment",
+      "link": "https://www.tbsnews.net/bangladesh/fki-youngone-host-bangladesh-delegation-boost-trade-investment-1592046",
+      "pubDate": "Wed, 04 Nov 2026 09:20 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/04/south_korea_bd_trade__1.jpg",
+      "snippet": "Participants discussed Bangladesh's economic growth prospects and emerging business opportunities for South Korean companies, focusing on strengthening commercial ties and expanding investment."
+    },
+    {
+      "title": "4 killed in head-on collision between bus and leguna in Dhaka's Kallyanpur",
+      "link": "https://www.tbsnews.net/bangladesh/4-killed-head-collision-between-bus-and-leguna-dhakas-kallyanpur-1592036",
+      "pubDate": "Wed, 04 Nov 2026 09:15 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/04/road_accident_uttarpara.jpg",
+      "snippet": "The deceased include two men and two women. No one was injured in the incident."
+    },
+    {
+      "title": "RMG workers clash with police again in Savar, Gazipur, Narayanganj; tensions flare in Mirpur",
+      "link": "https://www.tbsnews.net/bangladesh/police-disperse-garment-workers-they-reach-dhaka-aricha-highway-savar-1592041",
+      "pubDate": "Wed, 04 Nov 2026 08:55 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/04/mirpur_rmg_unrest1.jpeg",
+      "snippet": "At 8:35am, eight factories in the Padma Mor and Hemayetpur areas sent their workers home, while two others suspended operations."
+    },
+    {
       "title": "Bangladesh, Malaysia discuss joint monitoring for fair recruitment",
       "link": "https://www.tbsnews.net/foreign-policy/bangladesh-malaysia-discuss-joint-monitoring-fair-recruitment-1591986",
       "pubDate": "Wed, 04 Nov 2026 01:10 +0600",
@@ -45,17 +210,6 @@
       "snippet": "The 35-year-old worker died after being attacked while filming a clash outside a garment factory in Gazipur on 2 November."
     },
     {
-      "title": "Udayan students protest over 'sexual harassment', question probe impartiality",
-      "link": "https://www.tbsnews.net/bangladesh/udayan-students-protest-over-sexual-harassment-question-probe-impartiality-1591951",
-      "pubDate": "Wed, 04 Nov 2026 00:30 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/04/udayan_school.jpg",
-      "snippet": "Students demand an independent investigation and reinstatement of 10 classmates kept out of regular classes after a ninth-grader was accused of creating obscene images of female students."
-    },
-    {
       "title": "107 businesses fined Tk11.35 lakh in nationwide drives",
       "link": "https://www.tbsnews.net/bangladesh/consumer-rights-protection-fines-107-businesses-tk1135-lakh-nationwide-drives-1591956",
       "pubDate": "Wed, 04 Nov 2026 00:30 +0600",
@@ -89,57 +243,13 @@
       "snippet": "The central bank appointed two independent directors to Bangladesh Commerce Bank and three to Premier Bank under Sections 45 and 47(3) of the Bank Company Act, 1991."
     },
     {
-      "title": "VEON positions Banglalink as digital player after $2.5b investment",
-      "link": "https://www.tbsnews.net/bangladesh/telecom/veon-positions-banglalink-digital-player-after-25b-investment-1591931",
-      "pubDate": "Tue, 03 Nov 2026 23:45 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/03/veon_and_banglalink_telecom_skyline.png",
-      "snippet": "Johan Buse, CEO of Banglalink, outlined the company's journey from a challenger in the mobile telecom market to a digital operator combining nationwide 4G connectivity with locally developed technology platforms."
-    },
-    {
-      "title": "One burnt after tow crude bombs explode outside courier service in Mirpur",
-      "link": "https://www.tbsnews.net/bangladesh/one-injured-two-crude-bombs-explode-outside-courier-service-mirpur-1591921",
-      "pubDate": "Tue, 03 Nov 2026 23:30 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/03/crude_bomb_mirpur.png",
-      "snippet": "The explosions took place around 8:30pm, when two unidentified individuals arrived on a motorcycle and hurled the bombs in front of the courier service office."
-    },
-    {
-      "title": "PM approves Tk3cr for Christmas celebration, Tk1cr more than sought",
-      "link": "https://www.tbsnews.net/bangladesh/pm-approves-tk3cr-christmas-celebration-tk1cr-more-sought-1591861",
-      "pubDate": "Tue, 03 Nov 2026 21:55 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/25/8076919_1.jpg",
-      "snippet": "The Christian Religious Welfare Trust sought Tk2 crore for the celebration of Christmas, the biggest religious festival of the Christian community."
-    },
-    {
-      "title": "T-shirts exporter Scandex files Tk55cr IPO as pipeline expands to Tk612cr",
-      "link": "https://www.tbsnews.net/economy/stocks/t-shirts-exporter-scandex-files-tk55cr-ipo-pipeline-expands-tk612cr-1591831",
-      "pubDate": "Tue, 03 Nov 2026 21:30 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/12/30/ipo-india.jpg",
-      "snippet": "Confidence Power and Energy has sought Tk400 crore through book-building to develop two 100MW solar power plants and repay bank loans."
-    },
-    {
       "title": "Nine pharma firms boost profits, but ACI and Silva losses deepen",
       "link": "https://www.tbsnews.net/economy/stocks/nine-pharma-firms-boost-profits-aci-and-silva-losses-deepen-1591841",
       "pubDate": "Tue, 03 Nov 2026 21:30 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/11/02/profit.jpg",
       "snippet": "However, rising production and operating expenses, along with business disruptions, weighed on the earnings of some companies, while two reported wider losses."
     },
@@ -155,103 +265,15 @@
       "snippet": "The manufacturer reported an earnings per share (EPS) of Tk0.38 for FY26, marking a significant recovery from Tk0.03 recorded in FY25."
     },
     {
-      "title": "Bangladesh has 19 years to turn its young workforce into lasting human resource, World Bank says",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-has-19-years-turn-its-young-workforce-lasting-human-world-bank-says-1591801",
-      "pubDate": "Tue, 03 Nov 2026 21:25 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/09/26/world_bank.jpg",
-      "snippet": "A new report warns that jobs, skills and health systems not keeping pace with country’s population"
-    },
-    {
       "title": "Cenbank waives approval for foreign investors' dividends up to 5%",
       "link": "https://www.tbsnews.net/economy/cenbank-waives-approval-foreign-investors-dividends-5-1591776",
       "pubDate": "Tue, 03 Nov 2026 21:15 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/25/bangladesh_bank_0.jpg",
       "snippet": "Fully convertible and irredeemable preference shares will be treated as equity capital, according to the circular."
-    },
-    {
-      "title": "Lalbagh land office surveyor sent to jail after arrest with Tk1 lakh bribe",
-      "link": "https://www.tbsnews.net/bangladesh/court/lalbagh-land-office-surveyor-sent-jail-after-arrest-tk1-lakh-bribe-1591766",
-      "pubDate": "Tue, 03 Nov 2026 21:10 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/03/mohammad_asadul_islam_was_caught_red-handed.jpg",
-      "snippet": "The ACC says the surveyor had allegedly demanded Tk80 lakh to complete the demarcation of 282 decimals of land in Dhaka's Char-Kamrangi mouza."
-    },
-    {
-      "title": "Italy offers Bangladeshis legal migration outside quota system",
-      "link": "https://www.tbsnews.net/foreign-policy/italy-offers-bangladeshis-legal-migration-outside-quota-system-1591771",
-      "pubDate": "Tue, 03 Nov 2026 21:10 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/03/img_1223.jpeg",
-      "snippet": "Under the provision, workers who complete a certified pre-departure training program approved by Italy’s Ministry of Labour and Social Policies can legally enter Italy outside the annual Decreto Flussi quota."
-    },
-    {
-      "title": "Liberation War Museum suspends exhibition on four national leaders over security concerns",
-      "link": "https://www.tbsnews.net/bangladesh/liberation-war-museum-suspends-exhibition-four-national-leaders-over-security-concerns",
-      "pubDate": "Tue, 03 Nov 2026 20:45 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/03/four_leaders_liberation_war.png",
-      "snippet": "The exhibition commemorating Syed Nazrul Islam, Tajuddin Ahmad, Captain M Mansur Ali and AHM Qamaruzzaman was scheduled to open on Jail Killing Day, today."
-    },
-    {
-      "title": "President stresses state responsibility to ensure dignity, safety of elderly people",
-      "link": "https://www.tbsnews.net/bangladesh/president-stresses-state-responsibility-ensure-dignity-safety-elderly-people-1591746",
-      "pubDate": "Tue, 03 Nov 2026 20:40 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/03/president.png",
-      "snippet": "During the meeting, the delegation placed several demands, including old-age allowances, a 50% fare concession on the metro rail, trains and public transport for citizens aged 65 and above,"
-    },
-    {
-      "title": "OBHIZATRIK launches project to monitor air quality in Dhaka's underserved areas",
-      "link": "https://www.tbsnews.net/bangladesh/environment/obhizatrik-launches-project-monitor-air-quality-dhakas-underserved-areas",
-      "pubDate": "Tue, 03 Nov 2026 20:35 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/03/whatsapp_image_2026-11-03_at_8.07.41_pm.jpeg",
-      "snippet": "The EPIC-supported initiative will install PM2.5 sensors at eight pollution-vulnerable locations and make 12 months of monitoring data publicly accessible."
-    },
-    {
-      "title": "UNESCO, PIB organise training on local government election reporting",
-      "link": "https://www.tbsnews.net/bangladesh/unesco-pib-organise-training-local-government-election-reporting-1591736",
-      "pubDate": "Tue, 03 Nov 2026 20:25 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/03/pib.png",
-      "snippet": "PIB Director General Faruk Wasif said that recognising disinformation and attempts to manipulate information on social media is essential to fact-based reporting."
-    },
-    {
-      "title": "Dhaka, Moscow to hold 5th meeting of IGC 5-6 Nov",
-      "link": "https://www.tbsnews.net/foreign-policy/dhaka-moscow-hold-5th-meeting-igc-5-6-nov-1591731",
-      "pubDate": "Tue, 03 Nov 2026 20:25 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/08/bangladesh_russia_1.png",
-      "snippet": "The Russian delegation will be led by Ilya Shestakov, Head of the Federal Agency for Fisheries and Chairperson of the Russian part of the Commission."
     },
     {
       "title": "Bangladesh aims to become global manufacturing hub, export gateway: Titumir",
@@ -703,51 +725,7 @@
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/01/143072.jpg",
       "snippet": "The system will give customers greater flexibility in choosing when, where, and how they access banking services."
-    },
-    {
-      "title": "HSC result re-scrutiny begins, candidates can apply until 7 Nov",
-      "link": "https://www.tbsnews.net/bangladesh/education/hsc-result-re-scrutiny-begins-candidates-can-apply-until-7-nov-1589171",
-      "pubDate": "Sun, 01 Nov 2026 11:50 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/01/image-440605-1793511959.jpg",
-      "snippet": "A fee of Tk150 will be charged for each paper."
-    },
-    {
-      "title": "IUB360 launches second phase of Innovation to Impact Award with 24 teams",
-      "link": "https://www.tbsnews.net/bangladesh/education/iub360-launches-second-phase-innovation-impact-award-24-teams-1589156",
-      "pubDate": "Sun, 01 Nov 2026 11:40 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/01/1st_nov_pr_0.jpg",
-      "snippet": ""
-    },
-    {
-      "title": "One Tech Tip: How to get started with AI agents and choose the right ones",
-      "link": "https://www.tbsnews.net/tech/one-tech-tip-how-get-started-ai-agents-and-choose-right-ones-1589146",
-      "pubDate": "Sun, 01 Nov 2026 11:25 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/30/openai_dots.png",
-      "snippet": "Experts also advise testing different agents and starting with repetitive online tasks that users want to delegate. Clara Gigling of Oudae Labs recommends providing clear instructions, specific goals and necessary context to achieve better results."
-    },
-    {
-      "title": "Digital healthcare project cost nearly triples to Tk494cr as DGHS expands pilot to six districts",
-      "link": "https://www.tbsnews.net/bangladesh/health/digital-healthcare-project-cost-nearly-triples-tk494cr-dghs-expands-pilot-six",
-      "pubDate": "Sun, 01 Nov 2026 11:00 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/05/11/digital_healthcare.jpg",
-      "snippet": "Planning Commission sought explanation, DGHS cites wider project scope"
     }
   ],
-  "updatedAt": "2026-11-04T00:05:59.967Z"
+  "updatedAt": "2026-11-04T06:51:42.221Z"
 }
