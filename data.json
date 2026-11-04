@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "Bangladesh, Malaysia discuss joint monitoring for fair recruitment",
+      "link": "https://www.tbsnews.net/foreign-policy/bangladesh-malaysia-discuss-joint-monitoring-fair-recruitment-1591986",
+      "pubDate": "Wed, 04 Nov 2026 01:10 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/04/c4698caf-232d-4b00-87dd-914fd26fb7dd.jpg",
+      "snippet": "Recalling Prime Minister Tarique Rahman's state visit to Malaysia in June this year, the ministers expressed satisfaction over the growing bilateral relations."
+    },
+    {
+      "title": "Legal notice asks Nasiruddin Patwary to apologise over 'defamatory remarks' on Anee",
+      "link": "https://www.tbsnews.net/bangladesh/legal-notice-asks-nasiruddin-patwary-apologise-over-defamatory-remarks-anee-1591981",
+      "pubDate": "Wed, 04 Nov 2026 01:05 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/12/patwary.jpg",
+      "snippet": "It said the speech was broadcast on 30 October by Channel 24 and several other media outlets, online news portals and social media platforms."
+    },
+    {
+      "title": "Govt asks officials, employees to keep ID cards visible inside Secretariat",
+      "link": "https://www.tbsnews.net/bangladesh/govt-asks-officials-employees-keep-id-cards-visible-inside-secretariat-1591976",
+      "pubDate": "Wed, 04 Nov 2026 01:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/24/secretariat_6.jpeg",
+      "snippet": "Against this backdrop, displaying identity cards at all times has become particularly important to ensure internal security, the ministry said."
+    },
+    {
       "title": "Garment worker dies after being injured in clash during wage protests in Gazipur",
       "link": "https://www.tbsnews.net/bangladesh/garment-worker-dies-after-being-injured-clash-during-wage-protests-gazipur-1591966",
       "pubDate": "Wed, 04 Nov 2026 00:45 +0600",
@@ -219,39 +252,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/08/bangladesh_russia_1.png",
       "snippet": "The Russian delegation will be led by Ilya Shestakov, Head of the Federal Agency for Fisheries and Chairperson of the Russian part of the Commission."
-    },
-    {
-      "title": "Police reshuffle: Four SPs transferred",
-      "link": "https://www.tbsnews.net/bangladesh/police-reshuffle-four-sps-transferred-1591716",
-      "pubDate": "Tue, 03 Nov 2026 20:20 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/03/police.jpg",
-      "snippet": "The latest reshuffle follows an earlier order changing the postings of seven senior police officials, including heads of three police units."
-    },
-    {
-      "title": "Wage board to convene meeting soon to fix RMG workers' new wages: Chairman",
-      "link": "https://www.tbsnews.net/economy/rmg/wage-board-convene-meeting-soon-fix-rmg-workers-new-wages-chairman-1591721",
-      "pubDate": "Tue, 03 Nov 2026 20:20 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/01/protest_of_rmg_workers_0.jpeg",
-      "snippet": "The development comes amid ongoing labour unrest, as workers staged demonstrations and clashed with police in Gazipur, Savar, Ashulia and Mirpur on Tuesday."
-    },
-    {
-      "title": "Two crude bombs explode in front of BTV building in Rampura",
-      "link": "https://www.tbsnews.net/bangladesh/two-crude-bombs-explode-front-btv-building-rampura-1591726",
-      "pubDate": "Tue, 03 Nov 2026 20:20 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/15/crude_bomb.png",
-      "snippet": "The explosions took place around 4:45pm. No casualties were reported."
     },
     {
       "title": "Bangladesh aims to become global manufacturing hub, export gateway: Titumir",
@@ -749,5 +749,5 @@
       "snippet": "Planning Commission sought explanation, DGHS cites wider project scope"
     }
   ],
-  "updatedAt": "2026-11-03T19:07:59.298Z"
+  "updatedAt": "2026-11-04T00:05:59.967Z"
 }
