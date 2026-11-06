@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Bangladesh-China road link via Myanmar could cut journey to 24 hours: minister",
+      "link": "https://www.tbsnews.net/foreign-policy/bangladesh-china-road-link-myanmar-could-cut-journey-24-hours-minister-1595121",
+      "pubDate": "Sat, 07 Nov 2026 01:20 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/07/commerce_minister.jpg",
+      "snippet": "Proposed corridor expected to expand regional trade and connectivity."
+    },
+    {
+      "title": "Bangladesh showcases fisheries investment potential at South Korea expo",
+      "link": "https://www.tbsnews.net/foreign-policy/bangladesh-showcases-fisheries-investment-potential-south-korea-expo-1595106",
+      "pubDate": "Sat, 07 Nov 2026 00:50 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/1000226601_1.jpg",
+      "snippet": "Deep-sea fishing, cold-chain infrastructure, marine biotechnology and seafood processing emerge as key investment opportunities as Dhaka seeks to expand exports and attract foreign investors."
+    },
+    {
       "title": "BNP to bring out rally today amid political tensions",
       "link": "https://www.tbsnews.net/bangladesh/politics/bnp-bring-out-rally-today-amid-political-tensions-1595096",
       "pubDate": "Sat, 07 Nov 2026 00:30 +0600",
@@ -36,13 +58,13 @@
     {
       "title": "Bangladesh faces fuel security test despite power capacity surplus: S&P",
       "link": "https://www.tbsnews.net/economy/energy/bangladesh-faces-fuel-security-test-despite-power-capacity-surplus-sp-1595086",
-      "pubDate": "Fri, 06 Nov 2026 23:55 +0600",
+      "pubDate": "Fri, 06 Nov 2026 23:50 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/07/bangladesh-fuel.jpg",
-      "snippet": "S&P report recommends prioritising investments that ensure reliable generation rather than simply adding capacity"
+      "snippet": "S&P report recommends prioritising investments that ensure reliable generation rather than simply adding capacity."
     },
     {
       "title": "Man arrested over rape of 11-year-old cousin in Chattogram",
@@ -224,10 +246,10 @@
       "title": "Govt working to ensure free primary healthcare for all: Zahid",
       "link": "https://www.tbsnews.net/bangladesh/health/govt-working-ensure-free-primary-healthcare-all-zahid-1594761",
       "pubDate": "Fri, 06 Nov 2026 18:20 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/06/zahid.png",
       "snippet": "He urged medical professionals to work together to ensure that patients could receive comprehensive treatment for complex diseases within the country, without having to seek medical care abroad."
     },
@@ -235,10 +257,10 @@
       "title": "US trade show highlights Bangladesh's $9b medical equipment opportunity",
       "link": "https://www.tbsnews.net/economy/us-trade-show-highlights-bangladeshs-9b-medical-equipment-opportunity-1594756",
       "pubDate": "Fri, 06 Nov 2026 18:10 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/10/us_trade_deal.png",
       "snippet": "Healthcare investment and US market expansion take centre stage on second day."
     },
@@ -672,17 +694,6 @@
       "snippet": "The inquiry will examine the responsibility of the interim government, which was in office from 8 August 2024 to 17 February 2026."
     },
     {
-      "title": "Uniform rates, digital system proposed for govt construction costs",
-      "link": "https://www.tbsnews.net/economy/uniform-rates-digital-system-proposed-govt-construction-costs-1593071",
-      "pubDate": "Wed, 04 Nov 2026 21:40 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/04/ecnec-meeting.jpg",
-      "snippet": "Government committee proposes six-month timeline to implement reforms."
-    },
-    {
       "title": "Nahee Aluminum MD to gift 40 lakh shares worth Tk15.92cr to sons",
       "link": "https://www.tbsnews.net/economy/stocks/nahee-aluminum-md-gift-40-lakh-shares-worth-tk1592cr-sons-1593081",
       "pubDate": "Wed, 04 Nov 2026 21:40 +0600",
@@ -692,6 +703,17 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/04/nahee-group.jpg",
       "snippet": "According to disclosures, the shares will be transferred outside the exchange’s trading system within 30 working days from Monday."
+    },
+    {
+      "title": "Uniform rates, digital system proposed for govt construction costs",
+      "link": "https://www.tbsnews.net/economy/uniform-rates-digital-system-proposed-govt-construction-costs-1593071",
+      "pubDate": "Wed, 04 Nov 2026 21:40 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/04/ecnec-meeting.jpg",
+      "snippet": "Government committee proposes six-month timeline to implement reforms."
     },
     {
       "title": "'Greenovation Challenge' honours four student teams for eco-friendly ideas",
@@ -892,5 +914,5 @@
       "snippet": "Commercial banks bought dollars from remittance houses at up to Tk124.70 yesterday, while Bangladesh Bank called a $100 million auction but made no sale as market rates exceeded its preferred level."
     }
   ],
-  "updatedAt": "2026-11-06T18:56:48.576Z"
+  "updatedAt": "2026-11-06T23:40:47.239Z"
 }
