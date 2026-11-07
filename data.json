@@ -1,26 +1,279 @@
 {
   "news": [
     {
+      "title": "Apex Footwear earns just Tk1cr from Tk890cr exports in FY26",
+      "link": "https://www.tbsnews.net/economy/stocks/apex-footwear-earns-just-tk1cr-tk890cr-exports-fy26-1595781",
+      "pubDate": "Sat, 07 Nov 2026 21:55 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/26/apex_footwear.jpg",
+      "snippet": "Craftsman Footwear and Accessories Limited also reported a 5.83% export margin in FY25, earning Tk4.32 crore against revenue of Tk74 crore."
+    },
+    {
+      "title": "Work together for independence, economic emancipation: Shama Obaed",
+      "link": "https://www.tbsnews.net/bangladesh/work-together-independence-economic-emancipation-shama-obaed-1595776",
+      "pubDate": "Sat, 07 Nov 2026 21:50 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/07/shama_obaed.jpg",
+      "snippet": "State minister urges younger generations to learn the history of 7 November, alleging the previous government distorted its significance."
+    },
+    {
+      "title": "Capital outflows deepen as foreign investors retreat from stocks in Oct  ",
+      "link": "https://www.tbsnews.net/economy/stocks/capital-outflows-deepen-foreign-investors-retreat-stocks-oct-1595766",
+      "pubDate": "Sat, 07 Nov 2026 21:45 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/14/b75a3f43-e8bb-492c-b0a9-88afb324c29c_0.jpg",
+      "snippet": "Foreign investors sold Tk283 crore worth of shares and bought Tk102 crore in October, with Prime Bank, City Bank and Square Pharmaceuticals seeing the biggest outflows."
+    },
+    {
+      "title": "No extra fee for HSC supplementary exam forms: Authorities",
+      "link": "https://www.tbsnews.net/bangladesh/education/no-extra-fee-hsc-supplementary-exam-forms-authorities-1595741",
+      "pubDate": "Sat, 07 Nov 2026 21:30 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/01/image-440605-1793511959.jpg",
+      "snippet": "Legal action will be taken against the heads of the concerned institutions and the institutions themselves for violating the directive."
+    },
+    {
+      "title": "Significant day '7 Nov' change the country's history: Muktadir",
+      "link": "https://www.tbsnews.net/bangladesh/significant-day-7-nov-change-countrys-history-muktadir-1595731",
+      "pubDate": "Sat, 07 Nov 2026 21:25 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/24/muktadir-1771544088.jpg",
+      "snippet": "Shaheed President Ziaur Rahman had inspired a sense of nationalism and self-confidence among the people, the minister says."
+    },
+    {
+      "title": "BUET admission applications to open on 21 Nov; test set for 16 Jan",
+      "link": "https://www.tbsnews.net/bangladesh/education/buet-admission-applications-open-21-nov-test-set-16-jan-1595726",
+      "pubDate": "Sat, 07 Nov 2026 21:25 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/04/01/buet.jpg",
+      "snippet": "Admission test committee chief says the earlier notice stands and the eligibility criteria will stay the same as last year."
+    },
+    {
+      "title": "July Uprising murder case: AL leader Nasim's close aide Motahar placed on fresh 3-day remand",
+      "link": "https://www.tbsnews.net/bangladesh/court/july-uprising-murder-case-al-leader-nasims-close-aide-motahar-placed-fresh-3-day",
+      "pubDate": "Sat, 07 Nov 2026 21:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/11/12/chief_magistrate_court_cmm_court.jpg",
+      "snippet": "The investigating officer told the court that the accused had allegedly financed efforts to resist the student movement on 5 August 2024."
+    },
+    {
+      "title": "Bangladesh’s LDC extension buys time, not readiness",
+      "link": "https://www.tbsnews.net/thoughts/bangladeshs-ldc-extension-buys-time-not-readiness-1595696",
+      "pubDate": "Sat, 07 Nov 2026 21:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/07/thoughts_update_copy.png",
+      "snippet": "Dhaka calls it a diplomatic success; the European Union (EU), while supporting the decision, warns that repeated delays for countries that have already met the graduation criteria could undermine the credibility of the process"
+    },
+    {
+      "title": "Dhaka needs to rethink its mass transit priorities before scrapping BRT",
+      "link": "https://www.tbsnews.net/thoughts/dhaka-needs-rethink-its-mass-transit-priorities-scrapping-brt-1595716",
+      "pubDate": "Sat, 07 Nov 2026 21:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/07/mehedi_hasan_2.jpg",
+      "snippet": "Dhaka's transport policy needs to prioritise world-class bus services, such as Bus Rapid Transit (BRT), so that even car users would choose buses for faster and more comfortable journeys"
+    },
+    {
+      "title": "Bangladesh Bank begins final selection of Manikganj youth entrepreneurs tomorrow",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-bank-begins-final-selection-manikganj-youth-entrepreneurs-tomorrow-1595706",
+      "pubDate": "Sat, 07 Nov 2026 20:55 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/17/852100108_1450324470524956_751402661241712421_n.jpg",
+      "snippet": "The selection will take place at the central bank’s headquarters through interviews and assessments and continue until Thursday."
+    },
+    {
+      "title": "Bangladesh's garment wage crisis is about who pays, not just how much",
+      "link": "https://www.tbsnews.net/features/In-the-views/bangladeshs-garment-wage-crisis-about-who-pays-not-just-how-much-1595701",
+      "pubDate": "Sat, 07 Nov 2026 20:50 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/08/16/20220629_rajibdhar_8149.jpg",
+      "snippet": "As workers demand a Tk30,000 minimum wage and factory owners warn of mounting financial pressure, the dispute exposes a structural weakness in Bangladesh's apparel industry, where international brands retain pricing power while manufacturers struggle..."
+    },
+    {
+      "title": "Man 'beaten to death' in Ctg, ex-wife confesses to involvement in killing",
+      "link": "https://www.tbsnews.net/bangladesh/crime/man-beaten-death-ctg-ex-wife-confesses-involvement-killing-1595686",
+      "pubDate": "Sat, 07 Nov 2026 20:45 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/dead_body.jpg",
+      "snippet": "Police say Ayesha Akhter gave a confessional statement before a court under Section 164 of the Code of Criminal Procedure, while a hunt is underway for other suspects."
+    },
+    {
+      "title": "Exporters seek clarity on US trade deal, warn of rising compliance costs",
+      "link": "https://www.tbsnews.net/bangladesh/exporters-seek-clarity-us-trade-deal-warn-rising-compliance-costs-1595676",
+      "pubDate": "Sat, 07 Nov 2026 20:30 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/07/891769931_1301801382073629_7327311882947590560_n.jpg",
+      "snippet": "Business leaders call for wider consultations, transparent implementation and stronger preparedness to meet US market requirements."
+    },
+    {
+      "title": "Bangladesh needs dedicated authority to unlock $7.7 trillion global halal economy: Stakeholders",
+      "link": "https://www.tbsnews.net/economy/bangladesh-needs-dedicated-authority-unlock-77-trillion-global-halal-economy-stakeholders",
+      "pubDate": "Sat, 07 Nov 2026 20:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/07/hala_economy.png",
+      "snippet": "Bangladesh's halal exports stand at just $943m."
+    },
+    {
+      "title": "Two killed as truck collides with covered van on Dhaka-Chattogram highway",
+      "link": "https://www.tbsnews.net/bangladesh/two-killed-truck-collides-covered-van-dhaka-chattogram-highway-1595641",
+      "pubDate": "Sat, 07 Nov 2026 19:50 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/07/2496618.jpg",
+      "snippet": "The truck driver and his helper were trapped inside the mangled cabin after the collision in Sitakunda"
+    },
+    {
+      "title": "14 held over 'fresh attack' on New Guinea project ",
+      "link": "https://www.tbsnews.net/bangladesh/14-held-over-fresh-attack-new-guinea-project-1595636",
+      "pubDate": "Sat, 07 Nov 2026 19:45 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/09/01/1660100471-four-arrested-with-hoarded-diesel-stock-l.jpg",
+      "snippet": "Four women among those taken to Cantonment Police Station following a reported clash at the ECB Chattar housing project."
+    },
+    {
+      "title": "7 Bangladeshis, including child, killed as truck hits bus in Saudi Arabia",
+      "link": "https://www.tbsnews.net/bangladesh/7-bangladeshis-including-child-killed-truck-hits-bus-saudi-arabia-1595631",
+      "pubDate": "Sat, 07 Nov 2026 19:35 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/04/dead_body.jpg",
+      "snippet": "Another 15 Bangladeshis were injured when a truck hit the bus from behind as the group was returning from Medina to Jeddah."
+    },
+    {
+      "title": "15 injured as rival BNP factions clash in B'baria; crude bombs explode",
+      "link": "https://www.tbsnews.net/bangladesh/15-injured-rival-bnp-factions-clash-brahmanbaria-crude-bombs-explode-1595621",
+      "pubDate": "Sat, 07 Nov 2026 19:20 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/07/crude_bomb_bbaria_clash_.png",
+      "snippet": "The violence erupted during a discussion following a BNP procession marking National Revolution and Solidarity Day."
+    },
+    {
+      "title": "Bangladesh's first youth nuclear dialogue: Participants flag gaps in training, research and internships",
+      "link": "https://www.tbsnews.net/bangladesh/bangladeshs-first-youth-nuclear-dialogue-participants-flag-gaps-training-research-and",
+      "pubDate": "Sat, 07 Nov 2026 19:20 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/07/nuclear_dialogue.jpeg",
+      "snippet": "More than 50 students, professionals and graduates discuss skills development, research opportunities and ways to increase youth participation in Bangladesh’s nuclear sector."
+    },
+    {
+      "title": "12 injured as BNP factions clash over 7 November programmes in Sunamganj",
+      "link": "https://www.tbsnews.net/bangladesh/12-injured-bnp-factions-clash-over-7-november-programmes-sunamganj-1595606",
+      "pubDate": "Sat, 07 Nov 2026 19:10 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/07/screenshot_2026-11-07_191616.png",
+      "snippet": "The clash erupts after two rival processions come face to face in front of Jamalganj Police Station."
+    },
+    {
+      "title": "Bangladesh CSOs demand continued climate finance beyond LDC graduation ahead of COP31",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-csos-demand-continued-climate-finance-beyond-ldc-graduation-ahead-cop31",
+      "pubDate": "Sat, 07 Nov 2026 18:50 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/07/892807196_1490872159773119_188527448549213853_n.jpg",
+      "snippet": "Civil society groups from Bangladesh, Bhutan and Nepal call for predictable, grant-based adaptation funding."
+    },
+    {
+      "title": "Disability carers seek official recognition, allowances and policy support",
+      "link": "https://www.tbsnews.net/bangladesh/disability-carers-seek-official-recognition-allowances-and-policy-support-1595596",
+      "pubDate": "Sat, 07 Nov 2026 18:40 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/07/disability_feature.jpg",
+      "snippet": "Carers Alliance Bangladesh to push for carer cards, financial benefits and national observance of International Carers Day."
+    },
+    {
+      "title": "Tarique warns of new conspiracies, vows fitting response",
+      "link": "https://www.tbsnews.net/bangladesh/tarique-warns-new-conspiracies-vows-fitting-response-1595576",
+      "pubDate": "Sat, 07 Nov 2026 17:40 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/07/6276662.jpg",
+      "snippet": "Speaking at National Revolution and Solidarity Day, PM Tarique Rahman said, \"Not Delhi, not Pindi, nor any other country. Bangladesh comes first, Bangladesh for all.”"
+    },
+    {
+      "title": "Cuet drops 30 places in QS Asia rankings despite higher overall score",
+      "link": "https://www.tbsnews.net/bangladesh/education/cuet-drops-30-places-qs-asia-rankings-despite-higher-overall-score-1595561",
+      "pubDate": "Sat, 07 Nov 2026 17:30 +0600",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/05/cuet_1.jpg",
+      "snippet": "The university ranks 415th in Asia with an overall score of 36.9, up from 35.2 in the previous edition, as its academic reputation score declines."
+    },
+    {
       "title": "Dengue claims 3 more lives in 24hrs, toll hits 458",
       "link": "https://www.tbsnews.net/bangladesh/health/dengue-claims-3-more-lives-24hrs-toll-hits-458-1595531",
       "pubDate": "Sat, 07 Nov 2026 17:10 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/07/dengue.jpg",
       "snippet": "A total of 1,674 new dengue patients were hospitalised across the country in the 24 hours."
-    },
-    {
-      "title": "1,300 jars of unauthorised beauty cream worth Tk8 lakh seized at Ctg airport",
-      "link": "https://www.tbsnews.net/bangladesh/1300-jars-unauthorised-beauty-cream-worth-tk8-lakh-seized-ctg-airport-1595521",
-      "pubDate": "Sat, 07 Nov 2026 17:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/07/cream_seized_at_ctg_airport.jpeg",
-      "snippet": "Customs intelligence officials recover 40kg of Fresh & White Beauty Cream from a passenger arriving from Dubai."
     },
     {
       "title": "ICAO audit team satisfied with improvements in Bangladesh's aviation security",
@@ -34,28 +287,6 @@
       "snippet": "The Civil Aviation Authority of Bangladesh (CAAB) hosted a dinner last night (6 November) in honour of the ICAO delegation following the completion of the audit"
     },
     {
-      "title": "Saudi airport restrictions: 23,085 passengers affected as 180 flights disrupted so far",
-      "link": "https://www.tbsnews.net/economy/aviation/saudi-airport-restrictions-23085-passengers-affected-180-flights-disrupted-so-far",
-      "pubDate": "Sat, 07 Nov 2026 16:25 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/11/dhaka_airport.jpeg",
-      "snippet": "Of the affected flights, 103 were direct, and 77 were transit services."
-    },
-    {
-      "title": "Garment sector unrest will not affect long-term investment: Commerce minister",
-      "link": "https://www.tbsnews.net/bangladesh/garment-sector-unrest-will-not-affect-long-term-investment-commerce-minister-1595496",
-      "pubDate": "Sat, 07 Nov 2026 16:05 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/07/893258604_2197805348285385_3747117766281220028_n.jpg",
-      "snippet": "Earlier in the day, speaking to journalists in Naiyorpul, Sylhet, he said instability and unrest were major obstacles to economic growth."
-    },
-    {
       "title": "Measles: Death toll reaches 1,280 as 4 more die",
       "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-1280-4-more-die-1595471",
       "pubDate": "Sat, 07 Nov 2026 15:50 +0600",
@@ -65,39 +296,6 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/14/whatsapp_image_2026-05-03_at_14.50.36.jpeg",
       "snippet": "Altogether, 1,175 suspected measles-related deaths have been recorded, while 105 have been confirmed through laboratory tests."
-    },
-    {
-      "title": "22 upazilas to get specialised services for persons with disabilities in pilot project: State minister",
-      "link": "https://www.tbsnews.net/bangladesh/22-upazilas-get-specialised-services-persons-disabilities-pilot-project-state-minister",
-      "pubDate": "Sat, 07 Nov 2026 15:10 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/07/muhit_.jpg",
-      "snippet": "The government has also introduced a 50% metro rail fare concession for persons with disabilities and is working to introduce a similar concession on the railway, he mentioned."
-    },
-    {
-      "title": "Man killed in Barishal over land dispute, three detained",
-      "link": "https://www.tbsnews.net/bangladesh/man-killed-barishal-over-land-dispute-three-detained-1595446",
-      "pubDate": "Sat, 07 Nov 2026 15:05 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/28/dead_2.png",
-      "snippet": "He was rushed to Barishal Sher-e-Bangla Medical College Hospital, where the attending doctor declared him dead."
-    },
-    {
-      "title": "Joint forces launch fresh crackdown on human trafficking gangs in Teknaf",
-      "link": "https://www.tbsnews.net/bangladesh/law-order/joint-forces-launch-fresh-crackdown-human-trafficking-gangs-teknaf-1595441",
-      "pubDate": "Sat, 07 Nov 2026 14:55 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/07/7138701.jpg",
-      "snippet": "During the operation, an exchange of gunfire took place between the joint forces and the traffickers, leaving Army soldier Mohammad Titas Sheikh, 27, dead."
     },
     {
       "title": "Dialysis centres at kidney hospital in Dhaka, Ctg Medical face closure; 500 patients uncertain over treatment",
@@ -111,81 +309,15 @@
       "snippet": "The contract expires on 29 November."
     },
     {
-      "title": "President pays tribute to Ziaur Rahman, Khaleda Zia on Nat'l Revolution and Solidarity Day",
-      "link": "https://www.tbsnews.net/bangladesh/president-pays-tribute-ziaur-rahman-khaleda-zia-natl-revolution-and-solidarity-day",
-      "pubDate": "Sat, 07 Nov 2026 14:30 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/17/fakhrul.jpg",
-      "snippet": "He offered prayers seeking eternal peace for the souls of Shaheed President Ziaur Rahman and former Prime Minister Begum Khaleda Zia."
-    },
-    {
-      "title": "PM Tarique announces salary, allowance hikes for village police",
-      "link": "https://www.tbsnews.net/bangladesh/pm-announces-salary-hike-gram-police-personnel-1595416",
-      "pubDate": "Sat, 07 Nov 2026 14:10 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/07/gram_police_0.jpg",
-      "snippet": "The prime minister said the monthly salary of a village police member had been raised from Tk7,500 to Tk10,500, while that of a village police chief had been increased from Tk8,000 to Tk11,000."
-    },
-    {
-      "title": "Nat'l Revolution and Solidarity Day: Tarique-led BNP procession begins in Naya Paltan",
-      "link": "https://www.tbsnews.net/bangladesh/politics/national-revolution-and-solidarity-day-tarique-led-bnp-procession-begins-naya",
-      "pubDate": "Sat, 07 Nov 2026 13:55 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/07/888831507_1004135978670568_8135610206838508236_n.jpg",
-      "snippet": "Since morning, BNP leaders and activists from different thanas and wards in the capital, as well as nearby districts and upazilas, had been gathering in Naya Paltan in smaller processions to join the event."
-    },
-    {
-      "title": "3 of a family among 4 killed in Jamalpur road crash",
-      "link": "https://www.tbsnews.net/bangladesh/3-family-among-4-killed-jamalpur-road-crash-1595371",
-      "pubDate": "Sat, 07 Nov 2026 13:40 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/07/unb_photo_accident_jamalpur.jpg",
-      "snippet": "The injured were taken to Melandaha Upazila Health complex from there they were shifted to Mymensingh Medical College and Hospital."
-    },
-    {
-      "title": "2 killed, 30 injured as study tour bus plunges into pond in Chattogram",
-      "link": "https://www.tbsnews.net/bangladesh/2-killed-30-injured-study-tour-bus-plunges-pond-chattogram-1595381",
-      "pubDate": "Sat, 07 Nov 2026 13:35 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/07/129425.jpg",
-      "snippet": "Police suspect the driver may have dozed off at the wheel before the bus lost control and plunged into a roadside pond."
-    },
-    {
       "title": "A trillion dollars, one constraint at a time",
       "link": "https://www.tbsnews.net/analysis/trillion-dollars-one-constraint-time-1595186",
       "pubDate": "Sat, 07 Nov 2026 13:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/09/economy.png",
       "snippet": "A list everyone agrees with."
-    },
-    {
-      "title": "PM joins Gram Police rally with wife",
-      "link": "https://www.tbsnews.net/bangladesh/pm-joins-gram-police-rally-wife-1595346",
-      "pubDate": "Sat, 07 Nov 2026 12:55 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/07/pmo.jpg",
-      "snippet": "Accompanied by his wife, Dr Zubaida Rahman, vice-president of the Ziaur Rahman Foundation, the premier arrived at the venue at around 11:45am."
     },
     {
       "title": "Whose hands hold our data, whose rules govern our AI?",
@@ -199,70 +331,15 @@
       "snippet": "As the Pentagon’s dispute with Anthropic shows how quickly a foreign AI model can become unavailable, Bangladesh must put its citizens’ data and the rules for AI under its own control"
     },
     {
-      "title": "DMP urges people not to spread unverified allegations against police",
-      "link": "https://www.tbsnews.net/bangladesh/dmp-urges-people-not-spread-unverified-allegations-against-police-1595336",
-      "pubDate": "Sat, 07 Nov 2026 12:45 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/08/13/dmp-logo-tbs.jpg",
-      "snippet": "The appeal came following the circulation of a photograph on Facebook."
-    },
-    {
-      "title": "7 November gave Bangladesh new direction: Rizvi",
-      "link": "https://www.tbsnews.net/bangladesh/7-november-gave-bangladesh-new-direction-rizvi-1595301",
-      "pubDate": "Sat, 07 Nov 2026 12:20 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/07/5537587.jpg",
-      "snippet": "Prime Minister and BNP Chairman Tarique Rahman paid tribute to Shaheed President Ziaur Rahman and former Prime Minister Khaleda Zia at their graves at 8:30am on behalf of the BNP, marking the day."
-    },
-    {
-      "title": "Met office predicts dry weather ",
-      "link": "https://www.tbsnews.net/bangladesh/met-office-predicts-dry-weather-1595286",
-      "pubDate": "Sat, 07 Nov 2026 12:05 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/07/screenshot_2026-11-07_121014.png",
-      "snippet": "Night and day temperatures may remain nearly unchanged over the country."
-    },
-    {
       "title": "World Bank approves $300m to improve learning for 2.6 crore Bangladeshi children",
       "link": "https://www.tbsnews.net/bangladesh/education/world-bank-approves-300m-improve-learning-26-crore-bangladeshi-children-1595296",
       "pubDate": "Sat, 07 Nov 2026 12:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/07/gemini_generated_image_d93jkzd93jkzd93j.jpg",
       "snippet": "The initiative aims to improve learning outcomes from pre-primary to Grade 5, strengthen teaching and school management, and provide additional support to children falling behind in their studies."
-    },
-    {
-      "title": "St Martin's residents protest as power tariff hits Tk76, five times national rate",
-      "link": "https://www.tbsnews.net/bangladesh/st-martins-residents-protest-power-tariff-hits-tk76-five-times-national-rate-1595176",
-      "pubDate": "Sat, 07 Nov 2026 12:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/11/07/saint_martin_rashed_kabir.jpg",
-      "snippet": "UP Chairman to file case against private power supplier, residents demand PDB supply."
-    },
-    {
-      "title": "PM calls for unity to prevent rights violations, foreign domination",
-      "link": "https://www.tbsnews.net/bangladesh/pm-calls-unity-prevent-rights-violations-foreign-domination-1595256",
-      "pubDate": "Sat, 07 Nov 2026 11:35 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/07/5323195.jpg",
-      "snippet": "He said the spirit of the 7 November revolution, led by soldiers and civilians, must be upheld to maintain national unity, taking into account Bangladesh's socioeconomic, geographical and political realities."
     },
     {
       "title": "Ctg Uni set for first TSC in 60 years with Tk49cr project",
@@ -373,6 +450,17 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/10/us_trade_deal.png",
       "snippet": "Healthcare investment and US market expansion take centre stage on second day."
+    },
+    {
+      "title": "November 7: How Ziaur Rahman reshaped Bangladesh’s political and economic landscape",
+      "link": "https://www.tbsnews.net/thoughts/november-7-how-ziaur-rahman-reshaped-bangladeshs-political-and-economic-landscape-1595551",
+      "pubDate": "Fri, 06 Nov 2026 17:20 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/06/zia_on_7nov.jpg",
+      "snippet": "The events of November 7, 1975, marked a turning point in Bangladesh’s history, paving the way for a new political order and a shift from state-controlled socialism towards a more open, market-oriented economy. Ziaur Rahman seized the opportunity to ..."
     },
     {
       "title": "Measles: Death toll reaches 1,276 as 4 more die",
@@ -518,17 +606,6 @@
       "snippet": "BNP Acting Secretary General Ruhul Kabir Rizvi assures them he will take appropriate steps."
     },
     {
-      "title": "Import surge widens trade deficit to $7.47b in Q1",
-      "link": "https://www.tbsnews.net/economy/import-surge-widens-trade-deficit-747b-q1-1594176",
-      "pubDate": "Thu, 05 Nov 2026 21:20 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/06/16/trade_deficit.jpg",
-      "snippet": "Imports rose 15.1% year-on-year to $19.33 billion, while export receipts grew 7%, pushing the current account into a $1.3 billion deficit."
-    },
-    {
       "title": "Three-day women entrepreneurs' summit and product fair begins in Dhaka",
       "link": "https://www.tbsnews.net/economy/three-day-women-entrepreneurs-summit-and-product-fair-begins-dhaka-1594181",
       "pubDate": "Thu, 05 Nov 2026 21:20 +0600",
@@ -538,6 +615,17 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/05/whatsapp_image_2026-11-05_at_2.38.02_pm_1.jpeg",
       "snippet": "Around 60 entrepreneurs are showcasing products, with sessions on financing, marketing, business networking and mental health."
+    },
+    {
+      "title": "Import surge widens trade deficit to $7.47b in Q1",
+      "link": "https://www.tbsnews.net/economy/import-surge-widens-trade-deficit-747b-q1-1594176",
+      "pubDate": "Thu, 05 Nov 2026 21:20 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/06/16/trade_deficit.jpg",
+      "snippet": "Imports rose 15.1% year-on-year to $19.33 billion, while export receipts grew 7%, pushing the current account into a $1.3 billion deficit."
     },
     {
       "title": "DU undergraduate admission applications open on 11 November",
@@ -802,106 +890,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/07/whatsapp_image_2026-05-07_at_2.56.49_pm.jpeg",
       "snippet": "The inquiry will examine the responsibility of the interim government, which was in office from 8 August 2024 to 17 February 2026."
-    },
-    {
-      "title": "Uniform rates, digital system proposed for govt construction costs",
-      "link": "https://www.tbsnews.net/economy/uniform-rates-digital-system-proposed-govt-construction-costs-1593071",
-      "pubDate": "Wed, 04 Nov 2026 21:40 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/04/ecnec-meeting.jpg",
-      "snippet": "Government committee proposes six-month timeline to implement reforms."
-    },
-    {
-      "title": "Nahee Aluminum MD to gift 40 lakh shares worth Tk15.92cr to sons",
-      "link": "https://www.tbsnews.net/economy/stocks/nahee-aluminum-md-gift-40-lakh-shares-worth-tk1592cr-sons-1593081",
-      "pubDate": "Wed, 04 Nov 2026 21:40 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/04/nahee-group.jpg",
-      "snippet": "According to disclosures, the shares will be transferred outside the exchange’s trading system within 30 working days from Monday."
-    },
-    {
-      "title": "'Greenovation Challenge' honours four student teams for eco-friendly ideas",
-      "link": "https://www.tbsnews.net/bangladesh/education/greenovation-challenge-honours-four-student-teams-eco-friendly-ideas-1593061",
-      "pubDate": "Wed, 04 Nov 2026 21:35 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/11/illustration-for-thoughts_0.jpg",
-      "snippet": "The winners were announced at the final pitching round and award ceremony held at North South University in Dhaka."
-    },
-    {
-      "title": "Bangladesh Bank sells $120m from reserves to commercial banks",
-      "link": "https://www.tbsnews.net/economy/bangladesh-bank-sells-120m-reserves-commercial-banks-1593016",
-      "pubDate": "Wed, 04 Nov 2026 21:15 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/29/untitled_design_14.jpg",
-      "snippet": "The central bank initially offered $100 million through the auction but sold an additional $20 million in response to stronger market demand."
-    },
-    {
-      "title": "Bangladesh Bank disconnects DGePay from NPSB over data security concerns",
-      "link": "https://www.tbsnews.net/economy/bangladesh-bank-disconnects-dgepay-npsb-over-data-security-concerns-1593011",
-      "pubDate": "Wed, 04 Nov 2026 21:10 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/08/bangladesh_bank.jpg",
-      "snippet": "BB disconnected DGePay over concerns that it was operating its services through a vendor outside Bangladesh, raising questions about the security of financial transactions."
-    },
-    {
-      "title": "Tk41,090cr PEDP-5 gets Ecnec nod to upgrade primary schools",
-      "link": "https://www.tbsnews.net/bangladesh/education/ecnec-approves-tk41090cr-fifth-primary-education-development-programme-1592816",
-      "pubDate": "Wed, 04 Nov 2026 18:50 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/01/23/primary_students.jpg",
-      "snippet": "The programme will run from July 2026 to June 2031, but the Planning Commission has flagged a Tk436 crore consultancy package and ordered revisions to the project proposal within two weeks."
-    },
-    {
-      "title": "City Group's Tk1,700cr loan deal likely Thursday; payouts begin 8 Nov as cenbank relaxes rules",
-      "link": "https://www.tbsnews.net/economy/banking/bb-relaxes-lending-rules-allow-tk1700cr-fresh-loan-city-group-1592806",
-      "pubDate": "Wed, 04 Nov 2026 18:45 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/30/city_group.jpg",
-      "snippet": "Bangladesh Bank has exempted five defaulting City Group companies from a lending restriction until 31 December 2027, allowing a City Bank-led consortium to provide up to Tk3,000 crore in working capital loans, with Tk1,700 crore agreed in the initial..."
-    },
-    {
-      "title": "Govt to build 5 nuclear medicine institutes outside Dhaka to boost cancer care",
-      "link": "https://www.tbsnews.net/bangladesh/health/govt-set-five-nuclear-medicine-institutes-outside-dhaka-tk535cr-1592781",
-      "pubDate": "Wed, 04 Nov 2026 18:35 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/03/16/ecnec.jpg",
-      "snippet": "The institutes will be set up at Sunamganj, Tangail, Noakhali and Patuakhali medical colleges and Shaheed Syed Nazrul Islam Medical College Hospital in Kishoreganj."
-    },
-    {
-      "title": "How the blue Tsunami swept America",
-      "link": "https://www.tbsnews.net/thoughts/how-blue-tsunami-swept-america-1592711",
-      "pubDate": "Wed, 04 Nov 2026 18:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/04/democratic_party_2.png",
-      "snippet": "His decision to launch military action against Iran disrupted energy markets and pushed up fuel prices, while tariffs increased consumer costs. His administration's immigration crackdown and allegations of profiteering further alienated voters."
     }
   ],
-  "updatedAt": "2026-11-07T11:31:18.204Z"
+  "updatedAt": "2026-11-07T17:28:56.346Z"
 }
