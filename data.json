@@ -1,6 +1,28 @@
 {
   "news": [
     {
+      "title": "Bangladesh, Turkey discuss tourism cooperation, potential investment",
+      "link": "https://www.tbsnews.net/foreign-policy/bangladesh-turkey-discuss-tourism-cooperation-potential-investment-1596916",
+      "pubDate": "Mon, 09 Nov 2026 00:55 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/02/bd_turkey.png",
+      "snippet": "Bangladesh Tourism Board CEO meets Turkey's honorary consul in Konya to explore ways to attract Turkish tourists and investors to the country's tourism industry."
+    },
+    {
+      "title": "Six years on, no end in sight to trial over ASP Anisul's death",
+      "link": "https://www.tbsnews.net/bangladesh/court/six-years-no-end-sight-trial-over-asp-anisuls-death-1596911",
+      "pubDate": "Mon, 09 Nov 2026 00:40 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/09/anisul_karim_shipon.jpg",
+      "snippet": "Anisul, who had been suffering from mental health problems, was admitted to Mind Aid Hospital in Adabor around 11:45am on 9 November 2020. He died shortly afterwards, allegedly after being beaten and restrained by hospital staff."
+    },
+    {
       "title": "Whip GK Gouse asks administration not to approve rural folk music events in Habiganj",
       "link": "https://www.tbsnews.net/bangladesh/whip-gk-gouse-asks-administration-not-approve-rural-folk-music-events-habiganj-1596901",
       "pubDate": "Mon, 09 Nov 2026 00:20 +0600",
@@ -34,17 +56,6 @@
       "snippet": "Police filed a case under the Pornography Control Act after locals caught Bayazid Mithu and handed him over; the party has expelled him from all posts."
     },
     {
-      "title": "BNP factions face off during processions in Cumilla, MP's convoy vehicle vandalised",
-      "link": "https://www.tbsnews.net/bangladesh/politics/bnp-factions-face-during-processions-cumilla-mps-convoy-vehicle-vandalised",
-      "pubDate": "Sun, 08 Nov 2026 21:40 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/08/cumilla_bnp.png",
-      "snippet": "The confrontation broke out near Debidwar Upazila Parishad after the two groups held separate rallies and processions marking National Revolution and Solidarity Day."
-    },
-    {
       "title": "Lovello recommends 10% cash dividend for FY26",
       "link": "https://www.tbsnews.net/economy/stocks/lovello-recommends-10-cash-dividend-fy26-1596826",
       "pubDate": "Sun, 08 Nov 2026 21:40 +0600",
@@ -67,6 +78,17 @@
       "snippet": "After nearly a decade of suspended production, the DSE-listed company plans to use fresh investment to build a factory in Dhamrai, install machinery and resume manufacturing, but faces financial, legal and management challenges."
     },
     {
+      "title": "BNP factions face off during processions in Cumilla, MP's convoy vehicle vandalised",
+      "link": "https://www.tbsnews.net/bangladesh/politics/bnp-factions-face-during-processions-cumilla-mps-convoy-vehicle-vandalised",
+      "pubDate": "Sun, 08 Nov 2026 21:40 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/08/cumilla_bnp.png",
+      "snippet": "The confrontation broke out near Debidwar Upazila Parishad after the two groups held separate rallies and processions marking National Revolution and Solidarity Day."
+    },
+    {
       "title": "Integrated awareness, healthcare vital to ensure eye health: Health minister",
       "link": "https://www.tbsnews.net/bangladesh/integrated-awareness-healthcare-vital-ensure-eye-health-health-minister-1596806",
       "pubDate": "Sun, 08 Nov 2026 21:15 +0600",
@@ -76,17 +98,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/08/health_minister.png",
       "snippet": "The minister said the government alone could not ensure healthcare for everyone and stressed the need to raise awareness at all levels of society."
-    },
-    {
-      "title": "Who is stopping fugitive accused from returning home? asks Rabiul",
-      "link": "https://www.tbsnews.net/bangladesh/who-stopping-fugitive-accused-returning-home-asks-rabiul-1596801",
-      "pubDate": "Sun, 08 Nov 2026 21:10 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/16/minister_shaikh_rabiul_alam.png",
-      "snippet": "Shaikh Rabiul Alam urges those who fled the country to return and face trial, saying no one is above the law."
     },
     {
       "title": "Govt outlines reform plans to address statistical flaws in previous GDP calculations",
@@ -100,15 +111,15 @@
       "snippet": "Although the government holds official data, their rightful owners are the people, he said, stressing that greater public access would encourage feedback and help identify errors."
     },
     {
-      "title": "People will never accept Hasina's return: Rizvi",
-      "link": "https://www.tbsnews.net/bangladesh/politics/people-will-never-accept-hasinas-return-rizvi-1596786",
-      "pubDate": "Sun, 08 Nov 2026 21:00 +0600",
+      "title": "Who is stopping fugitive accused from returning home? asks Rabiul",
+      "link": "https://www.tbsnews.net/bangladesh/who-stopping-fugitive-accused-returning-home-asks-rabiul-1596801",
+      "pubDate": "Sun, 08 Nov 2026 21:10 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/08/rizvi_0.jpg",
-      "snippet": "The BNP leader also alleges the Rakkhi Bahini was used to kill thousands of political activists after independence, and credits Ziaur Rahman with building the modern army."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/16/minister_shaikh_rabiul_alam.png",
+      "snippet": "Shaikh Rabiul Alam urges those who fled the country to return and face trial, saying no one is above the law."
     },
     {
       "title": "PM urges new BCS officers to serve people with honesty, efficiency and humanity",
@@ -122,15 +133,15 @@
       "snippet": "He also stresses the need to reduce delays in public administration and make government services easier and more citizen-friendly."
     },
     {
-      "title": "1,050 union parishads to vote in first phase on 21 January: EC secretary",
-      "link": "https://www.tbsnews.net/bangladesh/1050-union-parishads-vote-first-phase-21-january-ec-secretary-1596776",
-      "pubDate": "Sun, 08 Nov 2026 20:50 +0600",
+      "title": "People will never accept Hasina's return: Rizvi",
+      "link": "https://www.tbsnews.net/bangladesh/politics/people-will-never-accept-hasinas-return-rizvi-1596786",
+      "pubDate": "Sun, 08 Nov 2026 21:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/03/election_polls_vote_voting.png",
-      "snippet": "The commission is prioritising unions under sadar upazilas, with elections to around 4,300 councils scheduled in five phases by 27 May 2027."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/08/rizvi_0.jpg",
+      "snippet": "The BNP leader also alleges the Rakkhi Bahini was used to kill thousands of political activists after independence, and credits Ziaur Rahman with building the modern army."
     },
     {
       "title": "Around 40 RMG factories suspend operations as 'workers refuse to work'",
@@ -144,6 +155,17 @@
       "snippet": "A section of garment factory owners is pushing an 11-point proposal that includes a ‘no work, no pay’ provision ahead of tomorrow’s wage-board meeting."
     },
     {
+      "title": "1,050 union parishads to vote in first phase on 21 January: EC secretary",
+      "link": "https://www.tbsnews.net/bangladesh/1050-union-parishads-vote-first-phase-21-january-ec-secretary-1596776",
+      "pubDate": "Sun, 08 Nov 2026 20:50 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/03/election_polls_vote_voting.png",
+      "snippet": "The commission is prioritising unions under sadar upazilas, with elections to around 4,300 councils scheduled in five phases by 27 May 2027."
+    },
+    {
       "title": "HC gives authorities 2 more weeks to submit Karnaphuli encroacher list",
       "link": "https://www.tbsnews.net/bangladesh/court/hc-gives-authorities-2-more-weeks-submit-karnaphuli-encroacher-list-1596756",
       "pubDate": "Sun, 08 Nov 2026 20:35 +0600",
@@ -155,17 +177,6 @@
       "snippet": "The court extends the deadline for surveying the river's southern and eastern banks and submitting a report identifying illegal occupants."
     },
     {
-      "title": "Crude bomb blasts reported at multiple locations in Dhaka; SRB member injured",
-      "link": "https://www.tbsnews.net/bangladesh/crime/crude-bomb-explodes-outside-cid-headquarters-malibagh-1596741",
-      "pubDate": "Sun, 08 Nov 2026 20:25 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/15/crude_bomb.png",
-      "snippet": "The explosions were reported at Dhaka University, Nilkhet, the CID headquarters in Malibagh, Pallabi Police Station and in front of Sony Hall in Mirpur-1, with an SRB member injured in the Pallabi blast."
-    },
-    {
       "title": "Master plans being prepared for every city corporation, district: Housing minister",
       "link": "https://www.tbsnews.net/bangladesh/master-plans-being-prepared-every-city-corporation-district-housing-minister-1596746",
       "pubDate": "Sun, 08 Nov 2026 20:25 +0600",
@@ -175,6 +186,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/08/zakaria_taher.png",
       "snippet": "Housing, he noted, means more than four walls – it encompasses safe water, electricity, sanitation, public transport, education, healthcare, employment and an environment for a life of dignity."
+    },
+    {
+      "title": "Crude bomb blasts reported at multiple locations in Dhaka; SRB member injured",
+      "link": "https://www.tbsnews.net/bangladesh/crime/crude-bomb-explodes-outside-cid-headquarters-malibagh-1596741",
+      "pubDate": "Sun, 08 Nov 2026 20:25 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/15/crude_bomb.png",
+      "snippet": "The explosions were reported at Dhaka University, Nilkhet, the CID headquarters in Malibagh, Pallabi Police Station and in front of Sony Hall in Mirpur-1, with an SRB member injured in the Pallabi blast."
     },
     {
       "title": "Envoy Textiles Q1 profit jumps 40% to Tk53cr on export growth, lower financing costs",
@@ -230,28 +252,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/08/rail.png",
       "snippet": "The blockade at Kodda Cabin area under Sadar upazila halted train movement on Dhaka-Sylhet and Dhaka-Chattogram routes in the morning."
-    },
-    {
-      "title": "Crude bombs explode at DU, Nilkhet; 3 detained",
-      "link": "https://www.tbsnews.net/bangladesh/crude-bombs-explode-du-nilkhet-3-detained-1596701",
-      "pubDate": "Sun, 08 Nov 2026 19:15 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/15/crude_bomb.png",
-      "snippet": "Eight to nine explosions were reported at TSC, the Senate Building gate, Nilkhet and roads near two university halls within 30 minutes."
-    },
-    {
-      "title": "Parked school bus set on fire on Dhaka's 100 Feet Road",
-      "link": "https://www.tbsnews.net/bangladesh/parked-school-bus-set-fire-dhakas-100-feet-road-1596681",
-      "pubDate": "Sun, 08 Nov 2026 19:15 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/08/screenshot_2026-11-08_191431.png",
-      "snippet": "The bus belonging to Jolshiri Cantonment School and College was parked with three other school buses when miscreants set it ablaze in Bhatara."
     },
     {
       "title": "Tk10,000 in, Tk9,815 out: The question foreign investors will ask about Bangla QR",
@@ -771,5 +771,5 @@
       "snippet": "While the government’s ultimate target is a 14-day turnaround, a roadmap presented by Invest Bangladesh (IB) outlined an interim 18-day timeline."
     }
   ],
-  "updatedAt": "2026-11-08T18:57:24.380Z"
+  "updatedAt": "2026-11-08T22:43:40.066Z"
 }
