@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Insurance firms flout commission ban, poach rivals’ customers",
+      "link": "https://www.tbsnews.net/bangladesh/insurance-firms-flout-commission-ban-poach-rivals-customers-1596926",
+      "pubDate": "Mon, 09 Nov 2026 07:35 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/21/insurance.png",
+      "snippet": "Bangladesh currently has 46 non-life insurance companies, most of which are allegedly continuing to offer commissions or other financial incentives to attract customers, according to sources."
+    },
+    {
       "title": "Bangladesh, Turkey discuss tourism cooperation, potential investment",
       "link": "https://www.tbsnews.net/foreign-policy/bangladesh-turkey-discuss-tourism-cooperation-potential-investment-1596916",
       "pubDate": "Mon, 09 Nov 2026 00:55 +0600",
@@ -56,17 +67,6 @@
       "snippet": "Police filed a case under the Pornography Control Act after locals caught Bayazid Mithu and handed him over; the party has expelled him from all posts."
     },
     {
-      "title": "Lovello recommends 10% cash dividend for FY26",
-      "link": "https://www.tbsnews.net/economy/stocks/lovello-recommends-10-cash-dividend-fy26-1596826",
-      "pubDate": "Sun, 08 Nov 2026 21:40 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/12/lovello_ice_cream.png",
-      "snippet": "The company reported its earnings per share (EPS) surged by 61% to Tk2.53, which was Tk1.57 restated in the previous fiscal year."
-    },
-    {
       "title": "Once a pioneer, now in crisis: BD Welding seeks investor to revive operations",
       "link": "https://www.tbsnews.net/economy/stocks/once-pioneer-now-crisis-bd-welding-seeks-investor-revive-operations-1596821",
       "pubDate": "Sun, 08 Nov 2026 21:40 +0600",
@@ -87,6 +87,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/08/cumilla_bnp.png",
       "snippet": "The confrontation broke out near Debidwar Upazila Parishad after the two groups held separate rallies and processions marking National Revolution and Solidarity Day."
+    },
+    {
+      "title": "Lovello recommends 10% cash dividend for FY26",
+      "link": "https://www.tbsnews.net/economy/stocks/lovello-recommends-10-cash-dividend-fy26-1596826",
+      "pubDate": "Sun, 08 Nov 2026 21:40 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/12/lovello_ice_cream.png",
+      "snippet": "The company reported its earnings per share (EPS) surged by 61% to Tk2.53, which was Tk1.57 restated in the previous fiscal year."
     },
     {
       "title": "Integrated awareness, healthcare vital to ensure eye health: Health minister",
@@ -241,17 +252,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/08/media-partner.jpg",
       "snippet": "Rangpur consultation urges urgent implementation of Media Reform Commission recommendations."
-    },
-    {
-      "title": "Train services on Dhaka-Chattogram, Dhaka-Sylhet routes resume after 5 hours",
-      "link": "https://www.tbsnews.net/bangladesh/transport/train-services-dhaka-chattogram-dhaka-sylhet-routes-resume-after-5-hours",
-      "pubDate": "Sun, 08 Nov 2026 19:20 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/08/rail.png",
-      "snippet": "The blockade at Kodda Cabin area under Sadar upazila halted train movement on Dhaka-Sylhet and Dhaka-Chattogram routes in the morning."
     },
     {
       "title": "Tk10,000 in, Tk9,815 out: The question foreign investors will ask about Bangla QR",
@@ -771,5 +771,5 @@
       "snippet": "While the government’s ultimate target is a 14-day turnaround, a roadmap presented by Invest Bangladesh (IB) outlined an interim 18-day timeline."
     }
   ],
-  "updatedAt": "2026-11-08T22:43:40.066Z"
+  "updatedAt": "2026-11-09T02:23:58.088Z"
 }
