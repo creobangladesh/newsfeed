@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "ICB caught in bind as Tk3,000cr Beximco Sukuk nears maturity",
+      "link": "https://www.tbsnews.net/economy/banking/icb-caught-bind-tk3000cr-beximco-sukuk-nears-maturity-1597941",
+      "pubDate": "Tue, 10 Nov 2026 07:10 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/01/27/bonds-coupon.png",
+      "snippet": "As the exposure is spread across 22 public and private banks, including several of their subsidiaries, it has raised concerns about a potential increase in classified investments across the financial sector if the repayment crisis leads to a default"
+    },
+    {
       "title": "Yarn import row: PM asks committee to propose solution by 20 Nov",
       "link": "https://www.tbsnews.net/economy/yarn-import-row-pm-asks-committee-propose-solution-20-nov-1597926",
       "pubDate": "Tue, 10 Nov 2026 01:00 +0600",
@@ -219,17 +230,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/09/health_minister1.png",
       "snippet": "The minister also announces Tk50 crore for Nitor's development, inaugurates ICU, post-operative services and other facilities."
-    },
-    {
-      "title": "Ctg traders seek end to harassment, illegal hawking and arbitrary trade fair permits",
-      "link": "https://www.tbsnews.net/bangladesh/ctg-traders-seek-end-harassment-illegal-hawking-and-arbitrary-trade-fair-permits-1597611",
-      "pubDate": "Mon, 09 Nov 2026 20:10 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/09/ctg_traders1.png",
-      "snippet": "Market associations urge chamber to restore package VAT system, issue clear holiday guidelines and protect small businesses."
     },
     {
       "title": "Meta expands AI age checks for Instagram teens as lawsuits mount",
@@ -738,17 +738,6 @@
       "snippet": "A total of 1,674 new dengue patients were hospitalised across the country in the 24 hours."
     },
     {
-      "title": "ICAO audit team satisfied with improvements in Bangladesh's aviation security",
-      "link": "https://www.tbsnews.net/economy/aviation/icao-audit-team-satisfied-improvements-bangladeshs-aviation-security-1595511",
-      "pubDate": "Sat, 07 Nov 2026 16:50 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/07/892916845_1452855020130457_4913154136873988416_n.jpg",
-      "snippet": "The Civil Aviation Authority of Bangladesh (CAAB) hosted a dinner last night (6 November) in honour of the ICAO delegation following the completion of the audit"
-    },
-    {
       "title": "Measles: Death toll reaches 1,280 as 4 more die",
       "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-1280-4-more-die-1595471",
       "pubDate": "Sat, 07 Nov 2026 15:50 +0600",
@@ -815,5 +804,5 @@
       "snippet": "Located in Hathazari, around 22km north of Chittagong city, CU has long faced difficulties in providing students and teachers with access to textbooks, reference books, research journals, and other academic materials."
     }
   ],
-  "updatedAt": "2026-11-09T20:57:14.906Z"
+  "updatedAt": "2026-11-10T03:19:13.012Z"
 }
