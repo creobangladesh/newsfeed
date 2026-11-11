@@ -1,13 +1,68 @@
 {
   "news": [
     {
-      "title": "Dollar rate crosses Tk125 as fuel import payments rise",
-      "link": "https://www.tbsnews.net/economy/dollar-rate-crosses-tk125-fuel-import-payments-rise-1598881",
-      "pubDate": "Wed, 11 Nov 2026 00:30 +0600",
+      "title": "3 DB members injured in attack during anti-drug drive in Kushtia",
+      "link": "https://www.tbsnews.net/bangladesh/crime/3-db-members-injured-attack-during-anti-drug-drive-kushtia-1598901",
+      "pubDate": "Wed, 11 Nov 2026 01:55 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/11/kushtia.jpg",
+      "snippet": "The attack was allegedly carried out by Chhatra Dal leaders and activists during a raid at Kushtia Government College."
+    },
+    {
+      "title": "Bomb attacks, arson fuel fresh fear for investment, businesses",
+      "link": "https://www.tbsnews.net/economy/bomb-attacks-arson-fuel-fresh-fear-investment-businesses-1598896",
+      "pubDate": "Wed, 11 Nov 2026 01:35 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/10/fire_at_bus_ctg.jpg",
+      "snippet": "According to Dhaka Metropolitan Police (DMP) data, at least 49 crude bomb explosions were reported at different locations across Dhaka in the past three days."
+    },
+    {
+      "title": "Revenue shortfall exceeds Tk50,000cr in first four months of FY27",
+      "link": "https://www.tbsnews.net/economy/revenue-shortfall-exceeds-tk50000cr-first-four-months-fy27-1598891",
+      "pubDate": "Wed, 11 Nov 2026 01:30 +0600",
       "category": "Economy",
       "color": "#2e7d32",
       "bg": "#e8f5e9",
       "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/29/economic-slowdown.png",
+      "snippet": "According to preliminary NBR estimates, the revenue authority collected less than Tk1.28 lakh crore between July and October, against a target of around Tk1.78 lakh crore."
+    },
+    {
+      "title": "146 RMG factories suspend work amid fresh unrest",
+      "link": "https://www.tbsnews.net/economy/rmg/146-rmg-factories-suspend-work-amid-fresh-unrest-1598886",
+      "pubDate": "Wed, 11 Nov 2026 01:20 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/02/05/rmg_2.jpg",
+      "snippet": "Owners may decide on indefinite closure after assessing situation today."
+    },
+    {
+      "title": "DU steps up patrols, surveillance after repeated campus explosions",
+      "link": "https://www.tbsnews.net/bangladesh/du-tightens-campus-security-sets-checkpoints-six-entry-points-1598906",
+      "pubDate": "Wed, 11 Nov 2026 01:10 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/organization/logo/dhaka_university_logo_0.png",
+      "snippet": "The university has also suspended an estate office employee after preliminary evidence linked him to a plot to attack fellow staff members."
+    },
+    {
+      "title": "Dollar rate crosses Tk125 as fuel import payments rise",
+      "link": "https://www.tbsnews.net/economy/dollar-rate-crosses-tk125-fuel-import-payments-rise-1598881",
+      "pubDate": "Wed, 11 Nov 2026 00:30 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/27/dollar.jpg",
       "snippet": "The rate has risen by more than Tk2.30 in three months, while letters of credit (LCs) were settled at Tk124.90-124.97 per dollar."
     },
@@ -23,7 +78,7 @@
       "snippet": "Zubaida Rahman is accompanying Prime Minister Tarique Rahman on his three-day official visit to Türkiye to attend the World Leaders' Summit of the 31st UN Climate Change Conference (COP31)."
     },
     {
-      "title": "Tarique, Erdoğan hold 30-minute bilateral meeting in Antalya",
+      "title": "Tarique, Erdoğan discuss defence co-op, trade, Rohingya repatriation",
       "link": "https://www.tbsnews.net/foreign-policy/tarique-erdogan-hold-30-minute-bilateral-meeting-antalya-1598856",
       "pubDate": "Tue, 10 Nov 2026 23:40 +0600",
       "category": "Bangladesh",
@@ -31,7 +86,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/10/tarique_erdogan_meeting_1.jpg",
-      "snippet": "PM is scheduled to address a plenary session on 12 November and hold several bilateral meetings with world leaders on the sidelines of the summit."
+      "snippet": "They also explore partnership in renewable energy, mineral resources, and climate action."
     },
     {
       "title": "Moving bus catches fire in Dhaka's Shyamoli",
@@ -67,17 +122,6 @@
       "snippet": "Police handed over 258 of the 520 detained juvenile gang members to their guardians after they signed undertakings, while legal action was taken against the remaining 262."
     },
     {
-      "title": "ACC conducts drives at railway loco shed, passport office and 2 other places",
-      "link": "https://www.tbsnews.net/bangladesh/acc-conducts-drives-railway-loco-shed-passport-office-and-2-other-places-1598831",
-      "pubDate": "Tue, 10 Nov 2026 22:05 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/10/900064252_1826553795223105_3548627452444664086_n_0.png",
-      "snippet": "The anti-graft body examines alleged irregularities in equipment purchases, passport services and road construction projects in four separate operations."
-    },
-    {
       "title": "C&F agents seek withdrawal of new customs inspection rules, fear port clearance delays",
       "link": "https://www.tbsnews.net/bangladesh/cf-agents-seek-withdrawal-new-customs-inspection-rules-fear-port-clearance-delays-1598826",
       "pubDate": "Tue, 10 Nov 2026 22:05 +0600",
@@ -87,6 +131,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/05/ctg_port_6.jpg",
       "snippet": "CCAA leaders met the customs commissioner and senior officials on Tuesday afternoon to press for the withdrawal of the order and demand consultations with stakeholders before implementing the new guidelines."
+    },
+    {
+      "title": "ACC conducts drives at railway loco shed, passport office and 2 other places",
+      "link": "https://www.tbsnews.net/bangladesh/acc-conducts-drives-railway-loco-shed-passport-office-and-2-other-places-1598831",
+      "pubDate": "Tue, 10 Nov 2026 22:05 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/10/900064252_1826553795223105_3548627452444664086_n_0.png",
+      "snippet": "The anti-graft body examines alleged irregularities in equipment purchases, passport services and road construction projects in four separate operations."
     },
     {
       "title": "NRBC Bank to inject Tk100cr into securities subsidiary to ease debt burden",
@@ -122,17 +177,6 @@
       "snippet": "Kelley E Currie will assess the impact of Myanmar's deteriorating human rights situation on Bangladesh, including the Rohingya crisis and developments in Rakhine State."
     },
     {
-      "title": "Home ministry more focused on constitutional amendments than public security, alleges Nahid Islam",
-      "link": "https://www.tbsnews.net/bangladesh/politics/home-ministry-more-focused-constitutional-amendments-public-security-alleges",
-      "pubDate": "Tue, 10 Nov 2026 21:40 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/30/nahid.png",
-      "snippet": "The opposition chief whip questions the ministry's priorities amid what he describes as a rise in attacks, arson and sabotage across the country."
-    },
-    {
       "title": "E-GP not mandatory for solar equipment purchases worth up to Tk5cr",
       "link": "https://www.tbsnews.net/economy/energy/e-gp-not-mandatory-solar-equipment-purchases-worth-tk5cr-1598776",
       "pubDate": "Tue, 10 Nov 2026 21:40 +0600",
@@ -142,6 +186,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/02/12/solar_panel.jpg",
       "snippet": "Under the proposed law, purchases of goods and related services worth up to Tk5 crore under the capital expenditure model for solar power installations will be allowed through the Limited Tendering Method (LTM)."
+    },
+    {
+      "title": "Home ministry more focused on constitutional amendments than public security, alleges Nahid Islam",
+      "link": "https://www.tbsnews.net/bangladesh/politics/home-ministry-more-focused-constitutional-amendments-public-security-alleges",
+      "pubDate": "Tue, 10 Nov 2026 21:40 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/30/nahid.png",
+      "snippet": "The opposition chief whip questions the ministry's priorities amid what he describes as a rise in attacks, arson and sabotage across the country."
     },
     {
       "title": "Cumilla board advises 15 colleges with zero HSC passes to close higher secondary sections",
@@ -188,61 +243,6 @@
       "snippet": "The launch comes 13 years after its predecessor, GTA V, set new benchmarks in gameplay and commercial success."
     },
     {
-      "title": "Initiative underway to establish an economic zone in Fatikchhari",
-      "link": "https://www.tbsnews.net/bangladesh/initiative-underway-establish-economic-zone-fatikchhari-1598741",
-      "pubDate": "Tue, 10 Nov 2026 21:20 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/10/fatikchari.png",
-      "snippet": "Despite these advantages, the upazila has yet to develop a major industrial hub. As a result, many young people leave the area for Chattogram city, other parts of the country or abroad in search of employment."
-    },
-    {
-      "title": "Bargain hunters lift DSEX by 44 points as stocks extend recovery",
-      "link": "https://www.tbsnews.net/economy/stocks/bargain-hunters-lift-dsex-44-points-stocks-extend-recovery-1598736",
-      "pubDate": "Tue, 10 Nov 2026 21:20 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/11/05/dsex.png",
-      "snippet": ""
-    },
-    {
-      "title": "Two retired army officers placed on 2-day remand in sedition case",
-      "link": "https://www.tbsnews.net/bangladesh/court/two-retired-army-officers-placed-2-day-remand-sedition-case-1598726",
-      "pubDate": "Tue, 10 Nov 2026 21:10 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/16/army_jail.png",
-      "snippet": "Police sought seven days to question the accused over alleged links to banned organisations and anti-government activities."
-    },
-    {
-      "title": "Govt to recruit 500,000 against 521,922 vacant posts: State minister",
-      "link": "https://www.tbsnews.net/bangladesh/govt-recruit-500000-against-521922-vacant-posts-state-minister-1598731",
-      "pubDate": "Tue, 10 Nov 2026 21:10 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/10/abdul_bari.png",
-      "snippet": "The ministries and divisions have also been asked to prepare time-bound action plans to publish recruitment circulars promptly and complete appointments against vacant positions, Bari added."
-    },
-    {
-      "title": "Fish export earnings to reach $1b by 2030: Minister",
-      "link": "https://www.tbsnews.net/bangladesh/fish-export-earnings-reach-1b-2030-minister-1598721",
-      "pubDate": "Tue, 10 Nov 2026 21:05 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/19/amin_ur_rashid.jpg",
-      "snippet": "The export earnings were $501 million from 90,620 tonnes in FY25, indicating an increase in both volume and value in the following fiscal year, he said."
-    },
-    {
       "title": "Financial inclusion reaches 64.5% of adults, but farmers', students' savings decline: Cenbank report",
       "link": "https://www.tbsnews.net/economy/banking/financial-inclusion-reaches-645-adults-farmers-students-savings-decline-cenbank",
       "pubDate": "Tue, 10 Nov 2026 20:55 +0600",
@@ -251,7 +251,7 @@
       "bg": "#e8f5e9",
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/08/10/coin.png",
-      "snippet": ""
+      "snippet": "In contrast, mobile financial services (MFS) and agent banking recorded substantial growth in transactions, deposits and lending. The total value of transactions through MFS increased by 25.58% to more than Tk21.83 lakh crore during the year."
     },
     {
       "title": "Chittagong Chamber seeks ILO partnership to bridge skills gap and create jobs",
@@ -661,17 +661,6 @@
       "snippet": "Revenue rises 10.5% to Tk519 crore as financial expenses fall 17.6% following a shift from high-cost local borrowing to cheaper ADB financing."
     },
     {
-      "title": "Renata posts 37% Q1 profit growth on lower finance costs, export gains",
-      "link": "https://www.tbsnews.net/economy/stocks/renatas-q1-profit-jumps-37-tk102cr-export-growth-lower-finance-costs-1596716",
-      "pubDate": "Sun, 08 Nov 2026 20:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/30/reneta.jpg",
-      "snippet": "Consolidated revenue rises 11% to Tk1,260 crore, while a Tk521 crore reduction in gross debt helps cut net financing costs by 35%."
-    },
-    {
       "title": "Tk10,000 in, Tk9,815 out: The question foreign investors will ask about Bangla QR",
       "link": "https://www.tbsnews.net/features/panorama/tk10000-tk9815-out-question-foreign-investors-will-ask-about-bangla-qr-1596666",
       "pubDate": "Sun, 08 Nov 2026 19:05 +0600",
@@ -681,17 +670,6 @@
       "icon": "🔍",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/08/cash-out-successful-tk9815.jpg",
       "snippet": "Zero fees have taken Bangla QR to 3.5 lakh payments a day in three months. To turn that reach into digital banks investors will fund, Bangladesh Bank could now add a price schedule above the small-ticket band"
-    },
-    {
-      "title": "PKSF disburses Tk2,500cr to support 50,000 cottage, micro entrepreneurs",
-      "link": "https://www.tbsnews.net/economy/pksf-disburses-tk2500cr-support-50000-cottage-micro-entrepreneurs-1596626",
-      "pubDate": "Sun, 08 Nov 2026 18:55 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/03/07/011.jpg",
-      "snippet": "Around 87% of the beneficiaries are women, while the Tk5,000 crore Bangladesh Bank incentive package aims to finance small businesses across all 64 districts."
     },
     {
       "title": "Dengue death toll rises to 461 as 3 more die",
@@ -780,18 +758,7 @@
       "icon": "🏭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/08/896101462_1440392300957840_3408507087728240486_n.png",
       "snippet": "It seeks $100m in fresh Saudi equity."
-    },
-    {
-      "title": "Biodiversity COP17: a global promise, a critical test for bangladesh",
-      "link": "https://www.tbsnews.net/thoughts/biodiversity-cop17-global-promise-critical-test-bangladesh-1595866",
-      "pubDate": "Sun, 08 Nov 2026 03:10 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/08/enb-iisd_-_anastasia_rodopoulou_-_unccd-cop17-_17aug2026_-_photo-75.jpg",
-      "snippet": "The global biodiversity summit in Yerevan renewed commitments to conservation, but the world remains off track to meet its 2030 targets. For Bangladesh, the challenge now is to turn international promises into measurable action through stronger gover..."
     }
   ],
-  "updatedAt": "2026-11-10T19:23:28.196Z"
+  "updatedAt": "2026-11-11T00:10:50.318Z"
 }
