@@ -1,6 +1,83 @@
 {
   "news": [
     {
+      "title": "Found wandering Bahrain's streets, Manikganj's Lilufa reunited with family after 32yrs",
+      "link": "https://www.tbsnews.net/bangladesh/found-wandering-bahrains-streets-manikganjs-lilufa-reunited-family-after-32yrs-1601136",
+      "pubDate": "Fri, 13 Nov 2026 01:35 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/13/bahrain1_0.jpg",
+      "snippet": "After returning from Bahrain in a physically and mentally distressed condition, the 53-year-old could not recall her family members’ names or contact details; BRAC traced her two sisters and reunited them after more than three decades."
+    },
+    {
+      "title": "Fixing the taka means fixing the budget, banks, and exports",
+      "link": "https://www.tbsnews.net/thoughts/fixing-taka-means-fixing-budget-banks-and-exports-1601126",
+      "pubDate": "Fri, 13 Nov 2026 01:35 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/13/taka.jpg",
+      "snippet": "To steady the taka for the long term, Bangladesh needs fiscal limits, floating rates, clean banks, diversified export earnings, stronger RMG backward linkage and formal remittances"
+    },
+    {
+      "title": "Cabinet secy questions if officials are waiting for December amid Hasina return talk",
+      "link": "https://www.tbsnews.net/bangladesh/cabinet-secy-questions-if-officials-are-waiting-december-amid-hasina-return-talk-1601116",
+      "pubDate": "Fri, 13 Nov 2026 01:15 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/13/905045547_2032023424131688_7362761746682682369_n.jpg",
+      "snippet": "The cabinet secretary has urged ministries and divisions to speed up administrative work and submit pending proposals without delay."
+    },
+    {
+      "title": "Did govt pick the worst option to scrap BRT?",
+      "link": "https://www.tbsnews.net/bangladesh/did-govt-pick-worst-option-scrap-brt-1601121",
+      "pubDate": "Fri, 13 Nov 2026 01:10 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/29/brt_project_1.jpg",
+      "snippet": "Yunus-led interim government declined to approve extension, directing alternative implementation models instead."
+    },
+    {
+      "title": "Govt undertakes projects to expand biogas use: Energy minister",
+      "link": "https://www.tbsnews.net/economy/energy/govt-undertakes-projects-expand-biogas-use-energy-minister-1601111",
+      "pubDate": "Fri, 13 Nov 2026 01:10 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/13/tuku.jpg",
+      "snippet": "The lawmaker wanted to know whether the government had any plan to establish biogas plants to address the household gas crisis."
+    },
+    {
+      "title": "Govt to prepare list of genuine journalists in consultation with associations: Yasser",
+      "link": "https://www.tbsnews.net/bangladesh/govt-prepare-list-genuine-journalists-consultation-associations-yasser-1601106",
+      "pubDate": "Fri, 13 Nov 2026 01:05 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/13/yasser.jpg",
+      "snippet": "The state minister says the government will not set criteria for professional journalists, leaving the matter to journalists' organisations."
+    },
+    {
+      "title": "11 DU journalism students get 'Sitara Parveen Award'",
+      "link": "https://www.tbsnews.net/bangladesh/education/11-du-journalism-students-get-sitara-parveen-award-1601096",
+      "pubDate": "Fri, 13 Nov 2026 01:00 +0600",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/13/sitara_parveen.jpg",
+      "snippet": "The award recognises their outstanding results in the 2024 BSS (Honours) examinations and was established by Professor Sitara Parveen's family in her memory."
+    },
+    {
       "title": "Don't freeze factory owners' accounts without specific evidence: BGMEA",
       "link": "https://www.tbsnews.net/economy/rmg/dont-freeze-factory-owners-accounts-without-specific-evidence-bgmea-1601081",
       "pubDate": "Fri, 13 Nov 2026 00:25 +0600",
@@ -8,7 +85,7 @@
       "color": "#2e7d32",
       "bg": "#e8f5e9",
       "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/13/c5a5fe27-1f98-4210-a59e-f006a83316d1_1.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/13/905865207_1876935413758439_5256871119679699993_n.jpg",
       "snippet": "NBR ordered banks to freeze or verify accounts of more than 200 individuals, entities over the garment sector."
     },
     {
@@ -45,17 +122,6 @@
       "snippet": "Following the auction, remittance houses lowered their dollar selling rates to below Tk125, from Tk125.30-Tk125.40 earlier in the day, easing pressure on the exchange rate."
     },
     {
-      "title": "Cabinet secretary urges ministries, divisions to expedite activities and proposals, highlight govt achievements",
-      "link": "https://www.tbsnews.net/bangladesh/cabinet-secy-urges-ministries-expedite-activities-proposals-highlight-govt-achievements",
-      "pubDate": "Thu, 12 Nov 2026 23:40 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/secretariat_6.jpg",
-      "snippet": "At a meeting of the secretaries, the question of whether anyone was waiting for December was also raised – hinting towards the talk surrounding ousted prime minister Sheikh Hasina’s recent remarks that she wanted to return to Bangladesh from India ne..."
-    },
-    {
       "title": "Reserved seats for women should be phased out: Speaker",
       "link": "https://www.tbsnews.net/bangladesh/reserved-seats-women-should-be-phased-out-speaker-1601061",
       "pubDate": "Thu, 12 Nov 2026 23:40 +0600",
@@ -65,6 +131,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/speaker_hafiz.jpg",
       "snippet": "The speaker said many qualified women leaders had emerged across the country who could contest elections independently and defeat male candidates."
+    },
+    {
+      "title": "Ministries, divisions told to expedite activities and proposals, highlight govt achievements",
+      "link": "https://www.tbsnews.net/bangladesh/cabinet-secy-urges-ministries-expedite-activities-proposals-highlight-govt-achievements",
+      "pubDate": "Thu, 12 Nov 2026 23:40 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/secretariat_6.jpg",
+      "snippet": "At a meeting of the secretaries, the question of whether anyone was waiting for December was also raised – hinting towards the talk surrounding ousted prime minister Sheikh Hasina’s recent remarks that she wanted to return to Bangladesh from India ne..."
     },
     {
       "title": "Dhaka-Delhi relations stall: Consular dialogue scheduled for Nov not taking place",
@@ -98,17 +175,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/16/image.png",
       "snippet": "Five have submitted their resignation letters, while the sixth is expected to do so by the end of Thursday."
-    },
-    {
-      "title": "DCCI, Canada trade body launch 5-year project to help 200 SMEs tap Canadian market",
-      "link": "https://www.tbsnews.net/economy/dcci-canada-trade-body-launch-5-year-project-help-200-smes-tap-canadian-market-1601011",
-      "pubDate": "Thu, 12 Nov 2026 21:55 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/29/sme_mumitm-7575_1.jpg",
-      "snippet": "The Canadian government-funded initiative will support 3,200 SMEs across 16 countries, with 200 Bangladeshi businesses receiving targeted assistance, particularly in the jute sector."
     },
     {
       "title": "Bangladesh among five countries selected for CIF climate resilience investment programme",
@@ -208,61 +274,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/12/66430ffd09fcb081104400.jpg",
       "snippet": "All four convicts were absent when the verdict was delivered; the court ordered forfeiture of the embezzled money to the state."
-    },
-    {
-      "title": "JS body for action plans to cut losses, revive closed state-owned factories",
-      "link": "https://www.tbsnews.net/bangladesh/js-body-action-plans-cut-losses-revive-closed-state-owned-factories-1600926",
-      "pubDate": "Thu, 12 Nov 2026 20:40 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/08/parliament.png",
-      "snippet": "During the meeting, the committee examined the financial position of different BSEC enterprises and recommended identifying the reasons behind their losses and preparing effective, institution-specific action plans to reduce them."
-    },
-    {
-      "title": "Bangladeshi photographer Pinu Rahman wins grand prize at world's richest photography award",
-      "link": "https://www.tbsnews.net/bangladesh/bangladeshi-photographer-pinu-rahman-wins-grand-prize-worlds-richest-photography-award",
-      "pubDate": "Thu, 12 Nov 2026 20:40 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/12/under_the_same_sky.jpg",
-      "snippet": "His winning photograph captures a family of five sleeping inside the remains of their Dhaka home after a fire destroyed around 1,500 dwellings in November 2025."
-    },
-    {
-      "title": "6 police officers, including former additional DIG, dismissed; ASP sent on retirement",
-      "link": "https://www.tbsnews.net/bangladesh/6-police-officers-including-former-additional-dig-dismissed-asp-sent-retirement-1600911",
-      "pubDate": "Thu, 12 Nov 2026 20:35 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/03/police.jpg",
-      "snippet": "The seven officers were punished over allegations of misconduct and desertion under separate notifications issued by the Home Ministry."
-    },
-    {
-      "title": "Fire at MP Nusrat's house in Kushtia: Heated exchange in parliament over cause of blaze",
-      "link": "https://www.tbsnews.net/bangladesh/fire-mp-nusrats-house-kushtia-heated-exchange-parliament-over-cause-blaze-1600916",
-      "pubDate": "Thu, 12 Nov 2026 20:35 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/12/nahid_salahuddin.jpg",
-      "snippet": "The fire broke out at the ancestral home of the reserved-seat MP in Kushtia’s Daulatpur upazila in the early hours of today."
-    },
-    {
-      "title": "5 Bangladesh Air Force officers sent into retirement",
-      "link": "https://www.tbsnews.net/bangladesh/5-baf-officers-sent-retirement-1600901",
-      "pubDate": "Thu, 12 Nov 2026 20:30 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/03/16/baf_logo.jpg",
-      "snippet": "The officers are Wing Commander Sanjida Akter, Wing Commander Enamul Kabir, Squadron Leader SM Tanzil Ahsan, Squadron Leader Md Shahriar Chowdhury and Squadron Leader Sanjana Sharmin Chowdhury."
     },
     {
       "title": "Maintenance of BSCIC industrial estates across country to begin this fiscal: Muktadir",
@@ -716,6 +727,17 @@
       "snippet": "In contrast, mobile financial services (MFS) and agent banking recorded substantial growth in transactions, deposits and lending. The total value of transactions through MFS increased by 25.58% to more than Tk21.83 lakh crore during the year."
     },
     {
+      "title": "Chittagong Chamber seeks ILO partnership to bridge skills gap and create jobs",
+      "link": "https://www.tbsnews.net/economy/chittagong-chamber-seeks-ilo-partnership-bridge-skills-gap-and-create-jobs-1598696",
+      "pubDate": "Tue, 10 Nov 2026 20:40 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/10/ccci_meeting.jpg",
+      "snippet": "The ILO plans to introduce employment support services in Chattogram to connect jobseekers with employers and align skills training with industry needs."
+    },
+    {
       "title": "Young Bangladeshi scholar represents country at AsianSIL conference in Doha",
       "link": "https://www.tbsnews.net/bangladesh/education/young-bangladeshi-scholar-represents-country-asiansil-conference-doha-1598676",
       "pubDate": "Tue, 10 Nov 2026 20:30 +0600",
@@ -815,5 +837,5 @@
       "snippet": "As the exposure is spread across 22 public and private banks, including several of their subsidiaries, it has raised concerns about a potential increase in classified investments across the financial sector if the repayment crisis leads to a default"
     }
   ],
-  "updatedAt": "2026-11-12T18:42:37.368Z"
+  "updatedAt": "2026-11-12T23:58:23.949Z"
 }
