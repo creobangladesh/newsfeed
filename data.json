@@ -1,6 +1,105 @@
 {
   "news": [
     {
+      "title": "Alleged arson attack on MP Nusrat's home: Case filed, 8 leaders of banned AL's affiliates among accused",
+      "link": "https://www.tbsnews.net/bangladesh/crime/alleged-arson-attack-mp-nusrats-home-case-filed-8-leaders-banned-als-affiliates",
+      "pubDate": "Fri, 13 Nov 2026 12:10 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/13/nusrat_presser_home_collage.jpg",
+      "snippet": "The eight named accused are leaders of the banned Chhatra League, Jubo League and Swechchhasebak League at district and upazila levels in Kushtia."
+    },
+    {
+      "title": "Customs detects Tk1.59 crore revenue irregularities in export consignments of two garment exporters",
+      "link": "https://www.tbsnews.net/economy/rmg/customs-detects-tk159-crore-revenue-irregularities-export-consignments-two-garment",
+      "pubDate": "Fri, 13 Nov 2026 11:40 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/06/04/ctg_customs.jpg",
+      "snippet": "Eagle Textiles and Reaz Knitwear allegedly removed bond-facility imported fabrics illegally; undeclared garments found during separate inspections."
+    },
+    {
+      "title": "'Will be doubtful about probe's impartiality': Nusrat questions home minister's remarks on arson attack at her Kushtia home",
+      "link": "https://www.tbsnews.net/bangladesh/will-be-doubtful-about-probes-impartiality-nusrat-questions-home-ministers-remarks-arson",
+      "pubDate": "Fri, 13 Nov 2026 11:30 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/13/556847339_1541511190352671_3701642181990396476_n.jpg",
+      "snippet": "The home minister said the old electrical wiring made a short circuit, a highly likely cause of the fire. He added that the government will take action if further investigation finds evidence of sabotage."
+    },
+    {
+      "title": "11 arrested, including bar manager and bouncers, over assault on Chhatra Dal activists in Dhanmondi",
+      "link": "https://www.tbsnews.net/bangladesh/11-arrested-including-bar-manager-and-bouncers-over-assault-chhatra-dal-activists",
+      "pubDate": "Fri, 13 Nov 2026 10:40 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/21/1660100471-four-arrested-with-hoarded-diesel-stock-l.jpg",
+      "snippet": "The accused were produced before a Dhaka court yesterday (12 November), which ordered them to be sent to jail."
+    },
+    {
+      "title": "Help wanted: AI firms court ex-spies as Nvidia crisis spotlights security risks",
+      "link": "https://www.tbsnews.net/tech/help-wanted-ai-firms-court-ex-spies-nvidia-crisis-spotlights-security-risks-1601261",
+      "pubDate": "Fri, 13 Nov 2026 10:35 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/13/img_7330.jpeg",
+      "snippet": "The giant AI firm said its star founder Huang would step down on Thursday, rocking the company and the wider AI industry. Huang has admitted to one of the affairs."
+    },
+    {
+      "title": "Three years on, Gabtoli flower market gathers dust instead of buyers",
+      "link": "https://www.tbsnews.net/bangladesh/three-years-gabtoli-flower-market-gathers-dust-instead-buyers-1601186",
+      "pubDate": "Fri, 13 Nov 2026 10:30 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/13/img_3345.jpg",
+      "snippet": "Allocation disputes and low sales hamper regular trading."
+    },
+    {
+      "title": "Islami Bank seeks Tk6,000cr govt investment, could hand state 78.8% ownership",
+      "link": "https://www.tbsnews.net/economy/banking/islami-bank-seeks-tk6000cr-govt-investment-could-hand-state-788-ownership-1601171",
+      "pubDate": "Fri, 13 Nov 2026 10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/11/islami_bank_logo.jpg",
+      "snippet": "Former governor Mansur opposes move, urges foreign and private investment."
+    },
+    {
+      "title": "Microsoft outage drags on for hours, disrupting Outlook, Teams for thousands",
+      "link": "https://www.tbsnews.net/tech/microsoft-outage-drags-hours-disrupting-outlook-teams-thousands-1601196",
+      "pubDate": "Fri, 13 Nov 2026 09:55 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/05/25/2023-05-24t222222z_5_lynxmpej4n0s0_rtroptp_4_microsoft-workers.jpg",
+      "snippet": "OpenAI said it was investigating an issue with Microsoft connectors in which new connections may be broken and tools are not working as expected."
+    },
+    {
+      "title": "PM returns home from Türkiye after attending COP31",
+      "link": "https://www.tbsnews.net/bangladesh/pm-returns-home-turkiye-after-attending-cop31-1601146",
+      "pubDate": "Fri, 13 Nov 2026 07:25 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/13/screenshot_2026-11-13_072318.png",
+      "snippet": "Tarique went to Antalya on November 10 on a three-day official visit to attend COP31 and the Antalya Leaders' Summit."
+    },
+    {
       "title": "Found wandering Bahrain's streets, Manikganj's Lilufa reunited with family after 32yrs",
       "link": "https://www.tbsnews.net/bangladesh/found-wandering-bahrains-streets-manikganjs-lilufa-reunited-family-after-32yrs-1601136",
       "pubDate": "Fri, 13 Nov 2026 01:35 +0600",
@@ -34,17 +133,6 @@
       "snippet": "The cabinet secretary has urged ministries and divisions to speed up administrative work and submit pending proposals without delay."
     },
     {
-      "title": "Did govt pick the worst option to scrap BRT?",
-      "link": "https://www.tbsnews.net/bangladesh/did-govt-pick-worst-option-scrap-brt-1601121",
-      "pubDate": "Fri, 13 Nov 2026 01:10 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/29/brt_project_1.jpg",
-      "snippet": "Yunus-led interim government declined to approve extension, directing alternative implementation models instead."
-    },
-    {
       "title": "Govt undertakes projects to expand biogas use: Energy minister",
       "link": "https://www.tbsnews.net/economy/energy/govt-undertakes-projects-expand-biogas-use-energy-minister-1601111",
       "pubDate": "Fri, 13 Nov 2026 01:10 +0600",
@@ -54,6 +142,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/13/tuku.jpg",
       "snippet": "The lawmaker wanted to know whether the government had any plan to establish biogas plants to address the household gas crisis."
+    },
+    {
+      "title": "Did govt pick the worst option to scrap BRT?",
+      "link": "https://www.tbsnews.net/bangladesh/did-govt-pick-worst-option-scrap-brt-1601121",
+      "pubDate": "Fri, 13 Nov 2026 01:10 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/29/brt_project_1.jpg",
+      "snippet": "Yunus-led interim government declined to approve extension, directing alternative implementation models instead."
     },
     {
       "title": "Govt to prepare list of genuine journalists in consultation with associations: Yasser",
@@ -122,17 +221,6 @@
       "snippet": "Following the auction, remittance houses lowered their dollar selling rates to below Tk125, from Tk125.30-Tk125.40 earlier in the day, easing pressure on the exchange rate."
     },
     {
-      "title": "Reserved seats for women should be phased out: Speaker",
-      "link": "https://www.tbsnews.net/bangladesh/reserved-seats-women-should-be-phased-out-speaker-1601061",
-      "pubDate": "Thu, 12 Nov 2026 23:40 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/speaker_hafiz.jpg",
-      "snippet": "The speaker said many qualified women leaders had emerged across the country who could contest elections independently and defeat male candidates."
-    },
-    {
       "title": "Ministries, divisions told to expedite activities and proposals, highlight govt achievements",
       "link": "https://www.tbsnews.net/bangladesh/cabinet-secy-urges-ministries-expedite-activities-proposals-highlight-govt-achievements",
       "pubDate": "Thu, 12 Nov 2026 23:40 +0600",
@@ -142,6 +230,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/secretariat_6.jpg",
       "snippet": "At a meeting of the secretaries, the question of whether anyone was waiting for December was also raised – hinting towards the talk surrounding ousted prime minister Sheikh Hasina’s recent remarks that she wanted to return to Bangladesh from India ne..."
+    },
+    {
+      "title": "Reserved seats for women should be phased out: Speaker",
+      "link": "https://www.tbsnews.net/bangladesh/reserved-seats-women-should-be-phased-out-speaker-1601061",
+      "pubDate": "Thu, 12 Nov 2026 23:40 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/speaker_hafiz.jpg",
+      "snippet": "The speaker said many qualified women leaders had emerged across the country who could contest elections independently and defeat male candidates."
     },
     {
       "title": "Dhaka-Delhi relations stall: Consular dialogue scheduled for Nov not taking place",
@@ -188,50 +287,6 @@
       "snippet": "The selection followed a process that identified 25 expressions of interest representing more than US$700 million in potential investment opportunities across several sectors."
     },
     {
-      "title": "BSEC imposes fines Tk29cr on directors of ten listed companies over unpaid dividends",
-      "link": "https://www.tbsnews.net/economy/stocks/bsec-imposes-fines-tk29cr-directors-ten-listed-companies-over-unpaid-dividends",
-      "pubDate": "Thu, 12 Nov 2026 21:40 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/bsec.jpg",
-      "snippet": "The penalties target managing directors and non-independent directors for failing to pay declared cash dividends on time, with the regulator also imposing daily fines for continuing defaults where applicable."
-    },
-    {
-      "title": "US ambassador meets Indian High Commissioner Trivedi",
-      "link": "https://www.tbsnews.net/bangladesh/us-ambassador-meets-indian-high-commissioner-trivedi-1600991",
-      "pubDate": "Thu, 12 Nov 2026 21:30 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/12/trivedi_christensen_.jpg",
-      "snippet": "Ambassador Christensen arrived in Dhaka on 12 January this year, while High Commissioner Dinesh Trivedi arrived in June this year."
-    },
-    {
-      "title": "Shipbreaking workers submit 12-point demand to prevent workplace deaths",
-      "link": "https://www.tbsnews.net/bangladesh/shipbreaking-workers-submit-12-point-demand-prevent-workplace-deaths-1600981",
-      "pubDate": "Thu, 12 Nov 2026 21:20 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/12/whatsapp_image_2026-11-12_at_16.42.51.jpeg",
-      "snippet": "Demands include regular safety inspections, independent accident investigations, fair compensation and enforcement of labour rights"
-    },
-    {
-      "title": "BB unveils Tk1,500cr loan scheme for marginal farmers, small entrepreneurs",
-      "link": "https://www.tbsnews.net/economy/banking/bb-unveils-tk1500cr-loan-scheme-marginal-farmers-small-entrepreneurs-1600971",
-      "pubDate": "Thu, 12 Nov 2026 21:15 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/25/bangladesh_bank_0.jpg",
-      "snippet": "Priority will be given to farmers with smart cards, disaster-affected people, ethnic minorities, third-gender people, persons with disabilities and migrant workers who have returned home."
-    },
-    {
       "title": "BB sets new eligibility criteria for CFOs, company secretaries at NBFIs",
       "link": "https://www.tbsnews.net/economy/banking/bb-sets-new-eligibility-criteria-cfos-company-secretaries-nbfis-1600966",
       "pubDate": "Thu, 12 Nov 2026 21:15 +0600",
@@ -243,37 +298,26 @@
       "snippet": "The new rules set experience and professional qualification requirements for the three senior positions, while existing officials have until 31 December 2029 to meet the criteria."
     },
     {
-      "title": "David Emon placed on 2-day remand in extortion, gunfire case; shown arrested in another case",
-      "link": "https://www.tbsnews.net/bangladesh/court/david-emon-placed-2-day-remand-extortion-gunfire-case-shown-arrested-another-case",
-      "pubDate": "Thu, 12 Nov 2026 21:10 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/02/b8696a9e-e724-4f39-bf43-75394621b0ca.jpg",
-      "snippet": "The court also approved his arrest in a case over an attack and looting at an internet service provider's office in Chattogram."
+      "title": "BB unveils Tk1,500cr loan scheme for marginal farmers, small entrepreneurs",
+      "link": "https://www.tbsnews.net/economy/banking/bb-unveils-tk1500cr-loan-scheme-marginal-farmers-small-entrepreneurs-1600971",
+      "pubDate": "Thu, 12 Nov 2026 21:15 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/25/bangladesh_bank_0.jpg",
+      "snippet": "Priority will be given to farmers with smart cards, disaster-affected people, ethnic minorities, third-gender people, persons with disabilities and migrant workers who have returned home."
     },
     {
       "title": "Govt has adequate vaccine stocks to fight pneumonia: Health minister",
       "link": "https://www.tbsnews.net/bangladesh/health/govt-has-adequate-vaccine-stocks-fight-pneumonia-health-minister-1600961",
       "pubDate": "Thu, 12 Nov 2026 21:05 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/12/897639823_1534011355204122_3289192339132550439_n.jpg",
       "snippet": "The government will import additional vaccines if needed, while planning to deploy 25,000 Family Welfare Visitors to raise awareness of child health and hygiene."
-    },
-    {
-      "title": "Jashore Islami Bank's Tk1.14cr embezzlement: 2 sacked staff among 4 sentenced after 26-year legal battle",
-      "link": "https://www.tbsnews.net/bangladesh/court/jashore-islami-banks-tk114cr-embezzlement-2-sacked-staff-among-4-sentenced-after-26",
-      "pubDate": "Thu, 12 Nov 2026 21:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/12/66430ffd09fcb081104400.jpg",
-      "snippet": "All four convicts were absent when the verdict was delivered; the court ordered forfeiture of the embezzled money to the state."
     },
     {
       "title": "Maintenance of BSCIC industrial estates across country to begin this fiscal: Muktadir",
@@ -683,17 +727,6 @@
       "snippet": "The rate has risen by more than Tk2.30 in three months, while letters of credit (LCs) were settled at Tk124.90-124.97 per dollar."
     },
     {
-      "title": "E-GP not mandatory for solar equipment purchases worth up to Tk5cr",
-      "link": "https://www.tbsnews.net/economy/energy/e-gp-not-mandatory-solar-equipment-purchases-worth-tk5cr-1598776",
-      "pubDate": "Tue, 10 Nov 2026 21:40 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/02/12/solar_panel.jpg",
-      "snippet": "Under the proposed law, purchases of goods and related services worth up to Tk5 crore under the capital expenditure model for solar power installations will be allowed through the Limited Tendering Method (LTM)."
-    },
-    {
       "title": "Cumilla board advises 15 colleges with zero HSC passes to close higher secondary sections",
       "link": "https://www.tbsnews.net/bangladesh/education/cumilla-board-advises-15-colleges-zero-hsc-passes-close-higher-secondary",
       "pubDate": "Tue, 10 Nov 2026 21:35 +0600",
@@ -719,23 +752,12 @@
       "title": "Financial inclusion reaches 64.5% of adults, but farmers', students' savings decline: Cenbank report",
       "link": "https://www.tbsnews.net/economy/banking/financial-inclusion-reaches-645-adults-farmers-students-savings-decline-cenbank",
       "pubDate": "Tue, 10 Nov 2026 20:55 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/08/10/coin.png",
       "snippet": "In contrast, mobile financial services (MFS) and agent banking recorded substantial growth in transactions, deposits and lending. The total value of transactions through MFS increased by 25.58% to more than Tk21.83 lakh crore during the year."
-    },
-    {
-      "title": "Chittagong Chamber seeks ILO partnership to bridge skills gap and create jobs",
-      "link": "https://www.tbsnews.net/economy/chittagong-chamber-seeks-ilo-partnership-bridge-skills-gap-and-create-jobs-1598696",
-      "pubDate": "Tue, 10 Nov 2026 20:40 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/10/ccci_meeting.jpg",
-      "snippet": "The ILO plans to introduce employment support services in Chattogram to connect jobseekers with employers and align skills training with industry needs."
     },
     {
       "title": "Young Bangladeshi scholar represents country at AsianSIL conference in Doha",
@@ -813,29 +835,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/10/whatsapp_image_2026-11-09_at_10.00.49_pm_1.jpeg",
       "snippet": "Patients and their relatives made the demand at a human chain held on the hospital premises at 10am today"
-    },
-    {
-      "title": "DU undergraduate admission applications open tomorrow",
-      "link": "https://www.tbsnews.net/bangladesh/education/du-undergraduate-admission-applications-open-tomorrow-1598041",
-      "pubDate": "Tue, 10 Nov 2026 10:55 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/01/27/dhaka_university-carzon-hall.jpg",
-      "snippet": "Applications will remain open until 11:59pm on 25 November."
-    },
-    {
-      "title": "ICB caught in bind as Tk3,000cr Beximco Sukuk nears maturity",
-      "link": "https://www.tbsnews.net/economy/banking/icb-caught-bind-tk3000cr-beximco-sukuk-nears-maturity-1597941",
-      "pubDate": "Tue, 10 Nov 2026 07:10 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/01/27/bonds-coupon.png",
-      "snippet": "As the exposure is spread across 22 public and private banks, including several of their subsidiaries, it has raised concerns about a potential increase in classified investments across the financial sector if the repayment crisis leads to a default"
     }
   ],
-  "updatedAt": "2026-11-12T23:58:23.949Z"
+  "updatedAt": "2026-11-13T06:22:08.169Z"
 }
