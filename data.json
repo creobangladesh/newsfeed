@@ -1,6 +1,160 @@
 {
   "news": [
     {
+      "title": "Law minister seeks to update Commercial Courts Act",
+      "link": "https://www.tbsnews.net/bangladesh/law-minister-seeks-update-commercial-courts-act-1602671",
+      "pubDate": "Sun, 15 Nov 2026 00:30 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/29/law_minister.jpg",
+      "snippet": "Stakeholders have been asked to submit written recommendations within 10 days as the government prepares to revise the draft law for parliamentary consideration in January."
+    },
+    {
+      "title": "Law enforcers continuing past practices: Badiul Alam Majumdar",
+      "link": "https://www.tbsnews.net/bangladesh/law-enforcers-continuing-past-practices-badiul-alam-majumdar-1602666",
+      "pubDate": "Sun, 15 Nov 2026 00:25 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/15/905482241_1637209047871395_133750260488652753_n_1.jpg",
+      "snippet": "He calls for an independent and accountable police force, warning that continued political influence and protection of criminal activities could worsen the law and order situation."
+    },
+    {
+      "title": "Scientists discuss Nobel-winning discoveries at Chattogram lecture",
+      "link": "https://www.tbsnews.net/bangladesh/scientists-discuss-nobel-winning-discoveries-chattogram-lecture-1602661",
+      "pubDate": "Sun, 15 Nov 2026 00:20 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/15/907538076_1147590184525456_8884611597833749813_n.jpg",
+      "snippet": "The lecture explored how Nobel-recognised research in neuroscience, physics and chemistry could contribute to medical treatment and a better understanding of the universe."
+    },
+    {
+      "title": "Bangladesh seeks new debt strategy amid rising repayment pressure",
+      "link": "https://www.tbsnews.net/economy/bangladesh-seeks-new-debt-strategy-amid-rising-repayment-pressure-1602651",
+      "pubDate": "Sun, 15 Nov 2026 00:15 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/16/debt.png",
+      "snippet": "International debt conference begins in Cox’s Bazar today."
+    },
+    {
+      "title": "'Diabetes Mela' app to provide info on diabetes risk, diagnosis, treatment",
+      "link": "https://www.tbsnews.net/bangladesh/health/diabetes-mela-app-provide-info-diabetes-risk-diagnosis-treatment-1602646",
+      "pubDate": "Sun, 15 Nov 2026 00:05 +0600",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/15/910273170_1843243010210242_6154711616470597656_n.png",
+      "snippet": "The app is expected to offer risk assessments and treatment guidance, as organisers seek public feedback before finalising its features by January 2027."
+    },
+    {
+      "title": "Case filed against NCP leader Nusrat Tabassum's father over land dispute",
+      "link": "https://www.tbsnews.net/bangladesh/case-filed-against-ncp-leader-nusrat-tabassums-father-over-land-dispute-1602641",
+      "pubDate": "Sat, 14 Nov 2026 23:55 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/15/907000909_1117587871032419_647826431978939970_n.jpg",
+      "snippet": "The complainant alleges that the attack followed a dispute over 4.25 kathas of land, while Halim denies knowledge of the case and acknowledges a dispute over the property sale."
+    },
+    {
+      "title": "Bangladesh could become regional hub for precision medicine: Science secretary",
+      "link": "https://www.tbsnews.net/science/bangladesh-could-become-regional-hub-precision-medicine-science-secretary-1602656",
+      "pubDate": "Sat, 14 Nov 2026 23:40 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/15/science-and-technology-secretary-md-anwar-hossain.jpg",
+      "snippet": "Wider use of genome sequencing and nuclear medicine could advance cancer care."
+    },
+    {
+      "title": "Late Pakistan goal dashes Bangladesh's Saff final hopes",
+      "link": "https://www.tbsnews.net/sports/late-pakistan-goal-dashes-bangladeshs-saff-final-hopes-1602566",
+      "pubDate": "Sat, 14 Nov 2026 22:55 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/14/bd_vs_pakistan.jpg",
+      "snippet": "Hosts squander chances before Abdul Arshad strikes in the 86th minute to send Pakistan through to the final."
+    },
+    {
+      "title": "Lawyer, former Chhatra League member sent to jail in attempted murder case",
+      "link": "https://www.tbsnews.net/bangladesh/court/lawyer-former-chhatra-league-member-sent-jail-attempted-murder-case-1602446",
+      "pubDate": "Sat, 14 Nov 2026 22:05 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/18/jailed_representational_image.jpg",
+      "snippet": "Police allege his phone records show links to a banned organisation and involvement in activities aimed at destabilising the country."
+    },
+    {
+      "title": "17 banned Awami League men arrested over crude bomb blasts at Jashore court premises",
+      "link": "https://www.tbsnews.net/bangladesh/crime/17-banned-awami-league-men-arrested-over-crude-bomb-blasts-jashore-court-premises",
+      "pubDate": "Sat, 14 Nov 2026 21:55 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/09/01/1660100471-four-arrested-with-hoarded-diesel-stock-l.jpg",
+      "snippet": "Police say the accused were shown arrested in a case under the Explosives Act and subsequently sent to jail."
+    },
+    {
+      "title": "BSEC asks DSE to verify Progressive Life’s Tk14.52cr land deal",
+      "link": "https://www.tbsnews.net/economy/stocks/bsec-asks-dse-verify-progressive-lifes-tk1452cr-land-deal-1602436",
+      "pubDate": "Sat, 14 Nov 2026 21:50 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/bsec.jpg",
+      "snippet": ""
+    },
+    {
+      "title": "Transport workers call indefinite strike in Sylhet from Monday over 3-point demands",
+      "link": "https://www.tbsnews.net/bangladesh/transport/transport-workers-call-indefinite-strike-sylhet-monday-over-3-point-demands",
+      "pubDate": "Sat, 14 Nov 2026 21:45 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/08/30/sylhet_central_bus_terminal_3.jpg",
+      "snippet": "The demands include withdrawal of cases against labour leaders over the deaths of two workers at Kadamtali Terminal."
+    },
+    {
+      "title": "Saiham Textile’s Q1 profit rises 23% to Tk1.92cr on lower production costs",
+      "link": "https://www.tbsnews.net/economy/stocks/saiham-textiles-q1-profit-rises-23-tk192cr-lower-production-costs-1602416",
+      "pubDate": "Sat, 14 Nov 2026 21:45 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/08/19/saiham_cotton.jpg",
+      "snippet": "Saiham Textile’s net operating cash flow per share also returned to positive territory, rising to Tk1.86 from a negative Tk2.54 a year earlier, while earnings per share increased to Tk0.21."
+    },
+    {
+      "title": "Top-tier pharma firms post growth despite fuel and power disruptions in Q1",
+      "link": "https://www.tbsnews.net/economy/stocks/top-tier-pharma-firms-post-growth-despite-fuel-and-power-disruptions-q1-1602406",
+      "pubDate": "Sat, 14 Nov 2026 21:40 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/02/pharmaceutical_industry.png",
+      "snippet": "Square, Beximco, Renata, Beacon, Acme and IBN Sina reported higher revenue and profits, while ACI swung to a loss and smaller firms struggled amid rising operating costs."
+    },
+    {
       "title": "80% women among 1 lakh health workers to be hired for remote areas: Zubaida",
       "link": "https://www.tbsnews.net/bangladesh/health/80-women-among-1-lakh-health-workers-be-hired-remote-areas-zubaida-1602396",
       "pubDate": "Sat, 14 Nov 2026 21:30 +0600",
@@ -23,6 +177,17 @@
       "snippet": "Dhaka ranked 575th among 1,000 cities in the 2026 Oxford Economics Global Cities Ranking."
     },
     {
+      "title": "Bangladesh promotes jute as green alternative at COP31",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-promotes-jute-green-alternative-cop31-1602376",
+      "pubDate": "Sat, 14 Nov 2026 20:45 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/14/jute_products_pavilion.jpg",
+      "snippet": "Bangladesh’s national pavilion in the COP31 Blue Zone has also attracted visitors with interactive displays and virtual reality (VR)."
+    },
+    {
       "title": "Govt plans to involve 39,000 retired employees in Dhaka cleanliness drive",
       "link": "https://www.tbsnews.net/bangladesh/govt-plans-involve-39000-retired-employees-dhaka-cleanliness-drive-1602371",
       "pubDate": "Sat, 14 Nov 2026 20:45 +0600",
@@ -31,18 +196,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/07/screenshot_2026-09-07_155357.png",
-      "snippet": "Neighbourhood committees involving retired officials, young people and volunteers will work on dengue prevention, waste management, footpath encroachment and drainage improvement."
-    },
-    {
-      "title": "Bangladesh promotes jute as green alternative at COP31",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-promotes-jute-green-alternative-cop31-1602376",
-      "pubDate": "Sat, 14 Nov 2026 20:45 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/01/12/jute_ditf.jpg",
-      "snippet": "Bangladesh’s national pavilion in the COP31 Blue Zone has also attracted visitors with interactive displays and virtual reality (VR)."
+      "snippet": "Tarique Rahman directs authorities to engage retired officials and senior citizens in neighbourhood-level campaigns, alongside young volunteers."
     },
     {
       "title": "Tarique Rahman on list of 500 globally influential Muslims",
@@ -56,15 +210,15 @@
       "snippet": "Former interim government chief adviser Muhammad Yunus, who ranked 50th in the 2026 edition, does not feature in the latest list."
     },
     {
-      "title": "'High time' to explore Phulbari coal through open-pit mining: Energy minister",
-      "link": "https://www.tbsnews.net/bangladesh/high-time-explore-phulbari-coal-through-open-pit-mining-energy-minister-1602346",
+      "title": "Sovereign guarantees limit power deal review: Energy minister",
+      "link": "https://www.tbsnews.net/bangladesh/sovereign-guarantees-limit-power-deal-review-energy-minister-1602346",
       "pubDate": "Sat, 14 Nov 2026 20:20 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/19/energy_minister.jpg",
-      "snippet": "Iqbal Hassan Mahmood says coal extraction roadmap will be finalised within three months as Bangladesh seeks to reduce fuel imports and electricity costs."
+      "snippet": "Govt plans to establish a coal-fired power plant in Phulbari."
     },
     {
       "title": "Rehabilitation can help stroke, accident survivors regain work capacity: Experts",
@@ -89,28 +243,6 @@
       "snippet": "Seized items included over 40 lakh yaba tablets, 8kg of crystal meth, and 1,564kg of cannabis, while 219 suspected smugglers were arrested."
     },
     {
-      "title": "80 cameras installed, AI-powered surveillance planned in Mohammadpur-Adabor",
-      "link": "https://www.tbsnews.net/bangladesh/80-cameras-installed-ai-powered-surveillance-planned-mohammadpur-adabor-1602341",
-      "pubDate": "Sat, 14 Nov 2026 20:05 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/10/p5_my_city_f3a9682.jpg",
-      "snippet": "Govt plans local security committees in 70 neighbourhoods of Dhaka-13."
-    },
-    {
-      "title": "Man claiming to lead 'Non-Fugitive Awami League' released from police custody; alleges mob attack",
-      "link": "https://www.tbsnews.net/bangladesh/man-claiming-lead-non-fugitive-awami-league-released-police-custody-alleges-mob-attack",
-      "pubDate": "Sat, 14 Nov 2026 20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/14/ctg_al_polic_custoday_kamal_uddin.jpg",
-      "snippet": "He claims masked attackers tried to abduct him and set him on fire in Chattogram; police had taken him into protective custody after locals surrounded his rented house."
-    },
-    {
       "title": "Put warning labels on packaged food to curb diabetes: Experts",
       "link": "https://www.tbsnews.net/bangladesh/health/put-warning-labels-packaged-food-curb-diabetes-experts-1602326",
       "pubDate": "Sat, 14 Nov 2026 19:55 +0600",
@@ -122,129 +254,41 @@
       "snippet": "PROGGA urges govt to finalise 2026 labelling regulations without delay or exemptions."
     },
     {
-      "title": "'Debt by design': Bangladesh's climate debt estimated at $80 per person, new index finds",
-      "link": "https://www.tbsnews.net/environment/climate-change/debt-design-bangladeshs-climate-debt-estimated-80-person-new-index-finds",
-      "pubDate": "Sat, 14 Nov 2026 19:50 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/14/cop31_climate_debt.jpg",
-      "snippet": "The country’s energy sector received $2.54 billion in climate finance between 2002 and 2023, but 92% came as loans and 18.84% of designated funding went to fossil-fuel projects, the index findings show."
-    },
-    {
-      "title": "Idra favours closure of weak insurers, BIA seeks restructuring",
-      "link": "https://www.tbsnews.net/bangladesh/idra-favours-closure-weak-insurers-bia-seeks-restructuring-1602316",
-      "pubDate": "Sat, 14 Nov 2026 19:45 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/05/23/idra_0.jpg",
-      "snippet": "Nivin said Bangladesh has 82 insurance companies, but their financial strength and operational conditions vary considerably."
-    },
-    {
-      "title": "ASK calls for effective enforcement of anti-torture law",
-      "link": "https://www.tbsnews.net/bangladesh/ask-calls-effective-enforcement-anti-torture-law-1602296",
-      "pubDate": "Sat, 14 Nov 2026 19:30 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/01/15/08_panorama_f_disapperences_copy.png",
-      "snippet": "Advocate Z I Khan Panna said, Survivors of torture and their families often face insecurity, difficulties in collecting evidence, obstacles in obtaining forensic reports and delays in investigations."
-    },
-    {
       "title": "Cenbank to ease expat bond rules; boost SME, retail loans",
       "link": "https://www.tbsnews.net/economy/cenbank-ease-expat-bond-rules-boost-sme-retail-loans-1602281",
       "pubDate": "Sat, 14 Nov 2026 19:20 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/14/expat-bond.jpg",
       "snippet": "Governor outlines measures to attract foreign currency, remove investment restrictions and reduce banks' reliance on corporate borrowers."
-    },
-    {
-      "title": "Bangladesh, Singapore sign MoU on carbon market cooperation",
-      "link": "https://www.tbsnews.net/foreign-policy/bangladesh-singapore-sign-mou-carbon-market-cooperation-1602271",
-      "pubDate": "Sat, 14 Nov 2026 19:05 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/14/image-445731-1794658910.jpg",
-      "snippet": "Speaking at the signing ceremony, Faridul Islam said Bangladesh warmly welcomes the partnership with Singapore under the Paris Agreement."
-    },
-    {
-      "title": "Ctg customs uncovers Tk1.71cr duty evasion attempt",
-      "link": "https://www.tbsnews.net/bangladesh/ctg-customs-uncovers-tk171cr-duty-evasion-attempt-1602266",
-      "pubDate": "Sat, 14 Nov 2026 18:55 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/14/image-445745-1794659650.jpeg",
-      "snippet": "The company, Nialco Alloys Limited, based in Sitakunda, had imported high-value copper and alloy scrap under the bonded warehouse facility, which allows duty-free imports of raw materials on the condition that they are used to manufacture goods for e..."
-    },
-    {
-      "title": "58 stalls, career summit to feature at first Bangladesh Youth Tourism Expo",
-      "link": "https://www.tbsnews.net/bangladesh/58-stalls-career-summit-feature-first-bangladesh-youth-tourism-expo-1602261",
-      "pubDate": "Sat, 14 Nov 2026 18:45 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/14/byte26.jpg",
-      "snippet": "The three-day BYTE 2026 will focus on promoting the county’s domestic destinations and connecting young entrepreneurs with tourism industry stakeholders."
-    },
-    {
-      "title": "48 high-powered explosives, 100 detonators recovered near Sylhet border",
-      "link": "https://www.tbsnews.net/bangladesh/crime/48-high-powered-explosives-100-detonators-recovered-near-sylhet-border-1602256",
-      "pubDate": "Sat, 14 Nov 2026 18:45 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/14/907793056_1165515292567055_7165899024086244804_n.jpg",
-      "snippet": "BGB says the explosives were found abandoned in a tea garden about 400 yards inside Bangladesh."
     },
     {
       "title": "Govt aims to bring cancer treatment to people's doorsteps within 5yrs: State minister",
       "link": "https://www.tbsnews.net/bangladesh/health/govt-aims-bring-cancer-treatment-peoples-doorsteps-within-5yrs-state-minister",
       "pubDate": "Sat, 14 Nov 2026 18:35 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/14/897639843_1638210071367878_7399487494996581101_n.jpg",
       "snippet": "Plans include cancer hospitals in every divisional city, regular screening and early diagnosis, and two national initiatives to coordinate cancer prevention efforts."
-    },
-    {
-      "title": "'One City, Two Town': State minister eyes renewable energy, bird sanctuary and recreation park for Ctg",
-      "link": "https://www.tbsnews.net/bangladesh/one-city-two-town-state-minister-eyes-renewable-energy-bird-sanctuary-and-recreation-park",
-      "pubDate": "Sat, 14 Nov 2026 18:25 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/14/one-city-two-town.jpg",
-      "snippet": "State Minister Mir Mohammad Helal Uddin says he will discuss the proposed ‘One City, Two Town’ concept with the prime minister."
     },
     {
       "title": "Rehabilitation can restore work capacity of stroke, accident survivors: Experts",
       "link": "https://www.tbsnews.net/bangladesh/health/rehabilitation-can-restore-work-capacity-stroke-accident-survivors-experts-1602216",
       "pubDate": "Sat, 14 Nov 2026 18:20 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/14/904807638_1106683628834656_2670962374981031032_n.jpg",
       "snippet": "Specialists call for wider access to advanced rehabilitation services."
     },
     {
-      "title": "COP31: The next chapter in global climate action",
-      "link": "https://www.tbsnews.net/thoughts/cop31-next-chapter-global-climate-action-1602201",
+      "title": "COP31: Can climate pledges translate into action?",
+      "link": "https://www.tbsnews.net/thoughts/cop31-can-climate-pledges-translate-action-1602201",
       "pubDate": "Sat, 14 Nov 2026 18:05 +0600",
       "category": "Thoughts",
       "color": "#455a64",
@@ -265,6 +309,17 @@
       "snippet": "For decades, Bangladesh enjoyed wide access to the US consumer market, most notably through ready-made garments. Yet selling clothes to retailers is different from attracting American capital to productive enterprises"
     },
     {
+      "title": "Global Sourcing Expo 2026 Dhaka begins tomorrow",
+      "link": "https://www.tbsnews.net/economy/global-sourcing-expo-2026-dhaka-begins-tomorrow-1602161",
+      "pubDate": "Sat, 14 Nov 2026 16:55 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/14/14th_nov_pr_14.jpg",
+      "snippet": "161 companies from 12 sectors to take part"
+    },
+    {
       "title": "15 lakh university seats vacant against 6 lakh prospective students: Education minister",
       "link": "https://www.tbsnews.net/bangladesh/education/15-lakh-university-seats-vacant-against-6-lakh-prospective-students-education",
       "pubDate": "Sat, 14 Nov 2026 15:00 +0600",
@@ -276,15 +331,15 @@
       "snippet": "Minister urges public universities to expedite admission tests."
     },
     {
-      "title": "Manufacturing boom inflated Bangladesh's GDP growth figures: Experts",
-      "link": "https://www.tbsnews.net/economy/manufacturing-boom-inflated-bangladeshs-gdp-growth-figures-experts-1601986",
+      "title": "Flawed industrial data inflated GDP growth numbers in FY15-FY19: Govt audit",
+      "link": "https://www.tbsnews.net/economy/flawed-industrial-data-inflated-gdp-growth-numbers-fy15-fy19-govt-audit-1601986",
       "pubDate": "Sat, 14 Nov 2026 13:30 +0600",
       "category": "Economy",
       "color": "#2e7d32",
       "bg": "#e8f5e9",
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/02/15/gdp_2.jpg",
-      "snippet": "According to a report by the expert committee average real GDP growth rose from 6.27% in the first period to 7.39% in the second."
+      "snippet": "Cement, shipbuilding sectors’ growth data did not match with actual performance."
     },
     {
       "title": "Factory owners meet over continued labour unrest; BGMEA press conference this afternoon",
@@ -562,17 +617,6 @@
       "snippet": "Five have submitted their resignation letters, while the sixth is expected to do so by the end of Thursday."
     },
     {
-      "title": "BB sets new eligibility criteria for CFOs, company secretaries at NBFIs",
-      "link": "https://www.tbsnews.net/economy/banking/bb-sets-new-eligibility-criteria-cfos-company-secretaries-nbfis-1600966",
-      "pubDate": "Thu, 12 Nov 2026 21:15 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/08/bangladesh_bank.jpg",
-      "snippet": "The new rules set experience and professional qualification requirements for the three senior positions, while existing officials have until 31 December 2029 to meet the criteria."
-    },
-    {
       "title": "BB unveils Tk1,500cr loan scheme for marginal farmers, small entrepreneurs",
       "link": "https://www.tbsnews.net/economy/banking/bb-unveils-tk1500cr-loan-scheme-marginal-farmers-small-entrepreneurs-1600971",
       "pubDate": "Thu, 12 Nov 2026 21:15 +0600",
@@ -582,6 +626,17 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/25/bangladesh_bank_0.jpg",
       "snippet": "Priority will be given to farmers with smart cards, disaster-affected people, ethnic minorities, third-gender people, persons with disabilities and migrant workers who have returned home."
+    },
+    {
+      "title": "BB sets new eligibility criteria for CFOs, company secretaries at NBFIs",
+      "link": "https://www.tbsnews.net/economy/banking/bb-sets-new-eligibility-criteria-cfos-company-secretaries-nbfis-1600966",
+      "pubDate": "Thu, 12 Nov 2026 21:15 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/08/bangladesh_bank.jpg",
+      "snippet": "The new rules set experience and professional qualification requirements for the three senior positions, while existing officials have until 31 December 2029 to meet the criteria."
     },
     {
       "title": "Govt has adequate vaccine stocks to fight pneumonia: Health minister",
@@ -758,51 +813,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/12/your_paragraph_text.jpg",
       "snippet": "Measles weakens children’s immune systems, leaving them vulnerable to pneumonia, diarrhoea and other infections."
-    },
-    {
-      "title": "Islami Bank gets Cenbank nod to raise authorised capital fivefold to Tk10,000cr",
-      "link": "https://www.tbsnews.net/economy/banking/islami-bank-gets-cenbank-nod-raise-authorised-capital-fivefold-tk10000cr-1599836",
-      "pubDate": "Wed, 11 Nov 2026 22:10 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/11/islami_bank_logo.jpg",
-      "snippet": "The bank's board approved the proposal on 4 November as defaulted loans exceeded Tk1 lakh crore and its provision shortfall reached Tk85,886 crore."
-    },
-    {
-      "title": "Bangladesh, Sri Lanka look to boost pharma, medical education",
-      "link": "https://www.tbsnews.net/bangladesh/health/bangladesh-sri-lanka-look-boost-pharma-medical-education-1599831",
-      "pubDate": "Wed, 11 Nov 2026 22:05 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/11/health_minister_sri_lanka.jpg",
-      "snippet": "Health Minister Sakhawat congratulated Sri Lanka on hosting the first Bimstec Health Ministers' Conference."
-    },
-    {
-      "title": "Ananta Jalil seeks exit policy to settle Tk226cr debt as business crisis deepens",
-      "link": "https://www.tbsnews.net/economy/banking/ananta-jalil-seeks-exit-policy-settle-tk226cr-debt-business-crisis-deepens-1599786",
-      "pubDate": "Wed, 11 Nov 2026 21:55 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/12/30/ananta_jalil.png",
-      "snippet": "The actor-businessman's AB Apparels owes Mutual Trust Bank Tk267 crore, and a Tk226.75 crore cheque was dishonoured for insufficient funds."
-    },
-    {
-      "title": "Bangladesh to host first international public debt management conference on 15-16 Nov",
-      "link": "https://www.tbsnews.net/economy/bangladesh-host-first-international-public-debt-management-conference-15-16-nov-1599756",
-      "pubDate": "Wed, 11 Nov 2026 21:45 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/12/28/loans_0.jpg",
-      "snippet": "The Cox’s Bazar event will bring together around 100 delegates from 30 countries to discuss debt sustainability, borrowing risks, institutional reforms and alternative sources of development financing."
     }
   ],
-  "updatedAt": "2026-11-14T15:35:49.623Z"
+  "updatedAt": "2026-11-14T20:27:16.197Z"
 }
