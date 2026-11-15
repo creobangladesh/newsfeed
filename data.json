@@ -1,6 +1,160 @@
 {
   "news": [
     {
+      "title": "PM chairs Cabinet meeting",
+      "link": "https://www.tbsnews.net/bangladesh/pm-chairs-cabinet-meeting-1602866",
+      "pubDate": "Sun, 15 Nov 2026 12:25 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/15/6507084.jpg",
+      "snippet": "Ministers and senior officials concerned participated in the meeting."
+    },
+    {
+      "title": "Weather likely to remain mainly dry across country",
+      "link": "https://www.tbsnews.net/bangladesh/weather-likely-remain-mainly-dry-across-country-1602851",
+      "pubDate": "Sun, 15 Nov 2026 12:10 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/05/image-431371-1791180125.jpg",
+      "snippet": "The highest temperature on Saturday (14 November) was 33.1 degrees Celsius."
+    },
+    {
+      "title": "Depression over Bay of Bengal likely to intensify into cyclonic storm",
+      "link": "https://www.tbsnews.net/bangladesh/depression-over-bay-bengal-likely-intensify-cyclonic-storm-1602841",
+      "pubDate": "Sun, 15 Nov 2026 12:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/11/24/storm1.jpg",
+      "snippet": "The system was positioned approximately 1,950 kilometres southwest of Chattogram, 1,900 kilometres southwest of Cox's Bazar, 1,820 kilometres southwest of Mongla and 1,825 kilometres southwest of Payra."
+    },
+    {
+      "title": "AI reshaping global media landscape, bringing opportunities and challenges: Report",
+      "link": "https://www.tbsnews.net/tech/ai-reshaping-global-media-landscape-bringing-opportunities-and-challenges-report-1602821",
+      "pubDate": "Sun, 15 Nov 2026 11:50 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/15/2501606.jpg",
+      "snippet": "It calls on global news media to promote technological inclusiveness, lead efforts to uphold digital ethics, help establish rules for AI applications, safeguard digital rights and foster mutual learning to build a trustworthy and equitable communicat..."
+    },
+    {
+      "title": "Bangladesh seeks stronger EU support for renewable energy, climate resilience",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-seeks-stronger-eu-support-renewable-energy-climate-resilience-1602806",
+      "pubDate": "Sun, 15 Nov 2026 11:35 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/15/image-445896-1794720590.jpeg",
+      "snippet": "During the meeting, the state minister outlined Bangladesh's climate priorities and development plans, highlighting the government's target of generating 10,000 megawatts of electricity from solar power over the next five years."
+    },
+    {
+      "title": "19 years of Cyclone Sidr: Coastal communities still at risk due to river erosion, vulnerable embankment  ",
+      "link": "https://www.tbsnews.net/bangladesh/19-years-cyclone-sidr-coastal-communities-still-risk-due-river-erosion-vulnerable",
+      "pubDate": "Sun, 15 Nov 2026 11:30 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/15/sidr_bagherhat.jpg",
+      "snippet": "Mentionable, on 15 November 2007, the devastating Cyclone Sidr hit southern Bangladesh causing over 3,500 deaths and severe damage."
+    },
+    {
+      "title": "13 factories shut indefinitely in Gazipur amid labour unrest, 50 remain closed in Savar-Ashulia",
+      "link": "https://www.tbsnews.net/economy/rmg/13-factories-shut-indefinitely-gazipur-amid-labour-unrest-holiday-declared-five-1602791",
+      "pubDate": "Sun, 15 Nov 2026 11:10 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/15/gazipur_rmg_15112026_1.jpg",
+      "snippet": "Twenty-five platoons of law enforcement personnel have been deployed across the industrial areas to maintain order and protect factories."
+    },
+    {
+      "title": "Italy slaps Meta with $887 million fine over access to Android photos",
+      "link": "https://www.tbsnews.net/tech/italy-slaps-meta-887-million-fine-over-access-android-photos-1602786",
+      "pubDate": "Sun, 15 Nov 2026 11:10 +0600",
+      "category": "Tech",
+      "color": "#1976d2",
+      "bg": "#e3f2fd",
+      "icon": "💻",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/04/06/2023-04-05t084106z_204198879_rc2780ah7hhn_rtrmadp_3_meta-italy-probe.jpg",
+      "snippet": "The fine, equal to 0.4% of Meta's annual turnover."
+    },
+    {
+      "title": "BGB seizes smuggled goods worth Tk273.38 crore in October",
+      "link": "https://www.tbsnews.net/bangladesh/bgb-seizes-smuggled-goods-worth-tk27338-crore-october-1602771",
+      "pubDate": "Sun, 15 Nov 2026 11:05 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/15/15th_nov_pr.jpg",
+      "snippet": ""
+    },
+    {
+      "title": "19-year-old killed as fire guts homes, shop in Korail slum",
+      "link": "https://www.tbsnews.net/bangladesh/19-year-old-killed-fire-guts-homes-shop-korail-slum-1602761",
+      "pubDate": "Sun, 15 Nov 2026 10:50 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/15/untitled_design.png",
+      "snippet": "According to the Fire Service, three units rushed to the scene after receiving information about the fire and brought it under control at 5:20am."
+    },
+    {
+      "title": "Jica team visits 800-acre site proposed for Lakshmipur economic zone",
+      "link": "https://www.tbsnews.net/bangladesh/jica-team-visits-800-acre-site-proposed-lakshmipur-economic-zone-1602721",
+      "pubDate": "Sun, 15 Nov 2026 10:30 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/05/22/jica.png",
+      "snippet": "The proposed site is located in Burirghat, Ward 9, of Char Ramanimohan Union under Lakshmipur Sadar upazila. A large portion of the land is government-owned khas property."
+    },
+    {
+      "title": "From the Bangladesh paradox to the Bangladesh puzzle",
+      "link": "https://www.tbsnews.net/bangladesh/bangladesh-paradox-bangladesh-puzzle-1602716",
+      "pubDate": "Sun, 15 Nov 2026 10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/15/gemini_generated_image_ddoxy1ddoxy1ddox.jpg",
+      "snippet": "A thirteen-part series explores how Bangladesh’s development surplus turned into deficit and why reversing the trend is as much a political challenge as an economic one."
+    },
+    {
+      "title": "Ctg Range Reserve Force SP arrested in sedition case over alleged links with AL leaders",
+      "link": "https://www.tbsnews.net/bangladesh/crime/ctg-range-reserve-force-sp-arrested-sedition-case-over-alleged-links-al-leaders",
+      "pubDate": "Sun, 15 Nov 2026 10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/15/rrf_sp_1.jpg",
+      "snippet": "Police said RRF Assistant Superintendent of Police (ASP) Abul Kashem filed the case against Jahangir after receiving approval from the ministry. Members of Panchlaish Police Station and the SRU arrested him later that night."
+    },
+    {
+      "title": "Govt scrutinises offer as US firm proposes $6.29 per passenger for immigration upgrade",
+      "link": "https://www.tbsnews.net/bangladesh/govt-scrutinises-offer-us-firm-proposes-629-passenger-immigration-upgrade-1602686",
+      "pubDate": "Sun, 15 Nov 2026 07:35 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/15/airport.png",
+      "snippet": "At a steering committee meeting on 5 November, officials from the foreign affairs, finance and civil aviation ministries questioned the proposed fee, its applicability to arriving and departing passengers, and its potential impact on Bangladeshi migr..."
+    },
+    {
       "title": "Law minister seeks to update Commercial Courts Act",
       "link": "https://www.tbsnews.net/bangladesh/law-minister-seeks-update-commercial-courts-act-1602671",
       "pubDate": "Sun, 15 Nov 2026 00:30 +0600",
@@ -111,114 +265,15 @@
       "snippet": "Police say the accused were shown arrested in a case under the Explosives Act and subsequently sent to jail."
     },
     {
-      "title": "BSEC asks DSE to verify Progressive Life’s Tk14.52cr land deal",
-      "link": "https://www.tbsnews.net/economy/stocks/bsec-asks-dse-verify-progressive-lifes-tk1452cr-land-deal-1602436",
-      "pubDate": "Sat, 14 Nov 2026 21:50 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/09/bsec.jpg",
-      "snippet": ""
-    },
-    {
-      "title": "Transport workers call indefinite strike in Sylhet from Monday over 3-point demands",
-      "link": "https://www.tbsnews.net/bangladesh/transport/transport-workers-call-indefinite-strike-sylhet-monday-over-3-point-demands",
-      "pubDate": "Sat, 14 Nov 2026 21:45 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/08/30/sylhet_central_bus_terminal_3.jpg",
-      "snippet": "The demands include withdrawal of cases against labour leaders over the deaths of two workers at Kadamtali Terminal."
-    },
-    {
-      "title": "Saiham Textile’s Q1 profit rises 23% to Tk1.92cr on lower production costs",
-      "link": "https://www.tbsnews.net/economy/stocks/saiham-textiles-q1-profit-rises-23-tk192cr-lower-production-costs-1602416",
-      "pubDate": "Sat, 14 Nov 2026 21:45 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/08/19/saiham_cotton.jpg",
-      "snippet": "Saiham Textile’s net operating cash flow per share also returned to positive territory, rising to Tk1.86 from a negative Tk2.54 a year earlier, while earnings per share increased to Tk0.21."
-    },
-    {
-      "title": "Top-tier pharma firms post growth despite fuel and power disruptions in Q1",
-      "link": "https://www.tbsnews.net/economy/stocks/top-tier-pharma-firms-post-growth-despite-fuel-and-power-disruptions-q1-1602406",
-      "pubDate": "Sat, 14 Nov 2026 21:40 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/02/pharmaceutical_industry.png",
-      "snippet": "Square, Beximco, Renata, Beacon, Acme and IBN Sina reported higher revenue and profits, while ACI swung to a loss and smaller firms struggled amid rising operating costs."
-    },
-    {
       "title": "80% women among 1 lakh health workers to be hired for remote areas: Zubaida",
       "link": "https://www.tbsnews.net/bangladesh/health/80-women-among-1-lakh-health-workers-be-hired-remote-areas-zubaida-1602396",
       "pubDate": "Sat, 14 Nov 2026 21:30 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/06/screenshot_2026-10-06_162754.png",
       "snippet": "The initiative aims to extend preventive healthcare services to people in remote parts of the country, she says."
-    },
-    {
-      "title": "Local governments sidelined in urban planning, experts say",
-      "link": "https://www.tbsnews.net/bangladesh/local-governments-sidelined-urban-planning-experts-say-1602381",
-      "pubDate": "Sat, 14 Nov 2026 21:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/03/24/dhaka_city_buildings_housing_0.jpg",
-      "snippet": "Dhaka ranked 575th among 1,000 cities in the 2026 Oxford Economics Global Cities Ranking."
-    },
-    {
-      "title": "Bangladesh promotes jute as green alternative at COP31",
-      "link": "https://www.tbsnews.net/bangladesh/bangladesh-promotes-jute-green-alternative-cop31-1602376",
-      "pubDate": "Sat, 14 Nov 2026 20:45 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/14/jute_products_pavilion.jpg",
-      "snippet": "Bangladesh’s national pavilion in the COP31 Blue Zone has also attracted visitors with interactive displays and virtual reality (VR)."
-    },
-    {
-      "title": "Govt plans to involve 39,000 retired employees in Dhaka cleanliness drive",
-      "link": "https://www.tbsnews.net/bangladesh/govt-plans-involve-39000-retired-employees-dhaka-cleanliness-drive-1602371",
-      "pubDate": "Sat, 14 Nov 2026 20:45 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/07/screenshot_2026-09-07_155357.png",
-      "snippet": "Tarique Rahman directs authorities to engage retired officials and senior citizens in neighbourhood-level campaigns, alongside young volunteers."
-    },
-    {
-      "title": "Tarique Rahman on list of 500 globally influential Muslims",
-      "link": "https://www.tbsnews.net/bangladesh/tarique-rahman-list-500-globally-influential-muslims-1602366",
-      "pubDate": "Sat, 14 Nov 2026 20:35 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/28/7534741_1.jpg",
-      "snippet": "Former interim government chief adviser Muhammad Yunus, who ranked 50th in the 2026 edition, does not feature in the latest list."
-    },
-    {
-      "title": "Sovereign guarantees limit power deal review: Energy minister",
-      "link": "https://www.tbsnews.net/bangladesh/sovereign-guarantees-limit-power-deal-review-energy-minister-1602346",
-      "pubDate": "Sat, 14 Nov 2026 20:20 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/19/energy_minister.jpg",
-      "snippet": "Govt plans to establish a coal-fired power plant in Phulbari."
     },
     {
       "title": "Rehabilitation can help stroke, accident survivors regain work capacity: Experts",
@@ -230,17 +285,6 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/14/gemini_generated_image_a77slya77slya77s.jpg",
       "snippet": "They called for expanding rehabilitation services, including neuro-rehabilitation and robotic physiotherapy."
-    },
-    {
-      "title": "BGB seizes smuggled goods, drugs worth Tk273cr in October",
-      "link": "https://www.tbsnews.net/bangladesh/bgb-seizes-smuggled-goods-drugs-worth-tk273cr-october-1602336",
-      "pubDate": "Sat, 14 Nov 2026 20:10 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/09/8304771.jpg",
-      "snippet": "Seized items included over 40 lakh yaba tablets, 8kg of crystal meth, and 1,564kg of cannabis, while 219 suspected smugglers were arrested."
     },
     {
       "title": "Put warning labels on packaged food to curb diabetes: Experts",
@@ -758,62 +802,7 @@
       "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/12/i2hav333jnk6hif3qs3so7jlzi.jpg",
       "snippet": "A major Chinese cloud provider has internally discussed whether to secure overseas Nvidia chip capacity, while some companies have contacted data centre operators about reserving it, the people said."
-    },
-    {
-      "title": "CU admission applications to open on 20 December; HSC supplementary examinees eligible",
-      "link": "https://www.tbsnews.net/bangladesh/education/cu-admission-applications-open-20-december-hsc-supplementary-examinees-eligible",
-      "pubDate": "Thu, 12 Nov 2026 12:55 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/04/03/chittagong_university.jpg",
-      "snippet": "Syed Akhtaruzzaman, president of the Bangladesh Inter-Education Board Coordination Committee, has informed the media that the results of the HSC supplementary examinations may be published on 31 December."
-    },
-    {
-      "title": "From SpaceX to Anthropic, markets have a new playbook for mega-share debuts",
-      "link": "https://www.tbsnews.net/tech/spacex-anthropic-markets-have-new-playbook-mega-share-debuts-1600076",
-      "pubDate": "Thu, 12 Nov 2026 11:45 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/12/wjm565rcvnmyrcmhdt6zgexwda.jpg",
-      "snippet": "Investors expect the same dynamic with Anthropic."
-    },
-    {
-      "title": "Dutch-Bangla, BRAC Bank lead digital transactions; bKash dominates MFS",
-      "link": "https://www.tbsnews.net/economy/banking/dutch-bangla-brac-bank-lead-digital-transactions-bkash-dominates-mfs-1599996",
-      "pubDate": "Thu, 12 Nov 2026 11:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/12/digital_payment_cashless_dhaka_2.jpg",
-      "snippet": "Customers rely on banks for large-value transactions and on MFS platforms for smaller payments."
-    },
-    {
-      "title": "Indian billionaire, doctors spar over $900 brain blood-flow tracker Temple",
-      "link": "https://www.tbsnews.net/tech/indian-billionaire-doctors-spar-over-900-brain-blood-flow-tracker-temple-1600021",
-      "pubDate": "Thu, 12 Nov 2026 10:45 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/12/r3susmrnszk5dgeneyteh7h62i.jpg",
-      "snippet": "The device can also measure thermal, immune, digestive, cognitive, and emotional readings that, according to its developers, help transform how a person regulates their health."
-    },
-    {
-      "title": "Measles outbreak brings fresh threat of pneumonia for children",
-      "link": "https://www.tbsnews.net/bangladesh/health/measles-outbreak-brings-fresh-threat-pneumonia-children-1599991",
-      "pubDate": "Thu, 12 Nov 2026 10:30 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/12/your_paragraph_text.jpg",
-      "snippet": "Measles weakens children’s immune systems, leaving them vulnerable to pneumonia, diarrhoea and other infections."
     }
   ],
-  "updatedAt": "2026-11-15T00:06:54.371Z"
+  "updatedAt": "2026-11-15T06:57:44.691Z"
 }
