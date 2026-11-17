@@ -1,7 +1,106 @@
 {
   "news": [
     {
-      "title": "Govt adopts new strategies as external debt repayments may reach $7.6b/year",
+      "title": "Police constable among two arrested for posing as DB officers, kidnapping Satkhira trader",
+      "link": "https://www.tbsnews.net/bangladesh/police-constable-among-two-arrested-posing-db-officers-kidnapping-satkhira-trader-1604921",
+      "pubDate": "Tue, 17 Nov 2026 00:40 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/17/911915235_2180119482938422_2390074807613517536_n.jpg",
+      "snippet": "Suspects allegedly handcuffed the trader at his shop and demanded Tk7 lakh from his wife for his release."
+    },
+    {
+      "title": "Over 200 children explore science at festival in Rangamati's Kaptai",
+      "link": "https://www.tbsnews.net/bangladesh/districts/over-200-children-explore-science-festival-rangamatis-kaptai-1604911",
+      "pubDate": "Tue, 17 Nov 2026 00:30 +0600",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/17/science_fair.jpg",
+      "snippet": "Hands-on activities included DNA extraction, rocket-making, robotics, drone demonstrations and food adulteration detection."
+    },
+    {
+      "title": "Millat leads Bangladesh delegation to ICAO aviation conference",
+      "link": "https://www.tbsnews.net/economy/aviation/millat-leads-bangladesh-delegation-icao-aviation-conference-1604901",
+      "pubDate": "Tue, 17 Nov 2026 00:15 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/17/m_rashiduzzaman_millat.jpg",
+      "snippet": "The five-day conference opened at the International Civil Aviation Organization (ICAO) headquarters in Montreal."
+    },
+    {
+      "title": "National University closes offices for three days amid employee protests",
+      "link": "https://www.tbsnews.net/bangladesh/education/national-university-closes-offices-three-days-amid-employee-protests-1604886",
+      "pubDate": "Tue, 17 Nov 2026 00:05 +0600",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/30/national_university_16x9_1_1.png",
+      "snippet": "Closure from 17 to 19 November follows a campus lockdown by 988 reinstated employees demanding seniority restoration, promotions and outstanding salaries."
+    },
+    {
+      "title": "Govt eases tender rules for 'deprived' bidders under amended procurement law",
+      "link": "https://www.tbsnews.net/bangladesh/law-order/govt-eases-tender-rules-deprived-bidders-under-amended-procurement-law-1604876",
+      "pubDate": "Tue, 17 Nov 2026 00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/16/1ba8793c-3951-468b-b506-fcb040e7f809_0.jpg",
+      "snippet": "Eligibility rules for long-term experience, high annual turnover, and prior execution of large contracts non-mandatory."
+    },
+    {
+      "title": "COP31 draft calls for fossil fuel phaseout, at least $120b in adaptation finance",
+      "link": "https://www.tbsnews.net/economy/cop31-draft-calls-fossil-fuel-phaseout-least-120bn-adaptation-finance-1604866",
+      "pubDate": "Mon, 16 Nov 2026 23:45 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/2026-11-9to20-banner_cop31.png",
+      "snippet": "Bangladeshi climate advocates welcome key proposals but warn that delivery will depend on public grants, clear timelines and firm obligations for developed countries."
+    },
+    {
+      "title": "US$822m fund pledged against US$2.8b sought by developing countries, Mintoo tells JS",
+      "link": "https://www.tbsnews.net/economy/us822m-fund-pledged-against-us28b-sought-developing-countries-mintoo-tells-js-1604851",
+      "pubDate": "Mon, 16 Nov 2026 23:30 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/16/mintoo.png",
+      "snippet": "He said that although Bangladesh contributes less than 0.5% of global greenhouse gas emissions, it is the world's 13th most climate-vulnerable country."
+    },
+    {
+      "title": "BGB fires warning shots along Satkhira border, arrests 8",
+      "link": "https://www.tbsnews.net/bangladesh/bgb-fires-warning-shots-along-satkhira-border-arrests-8-1604836",
+      "pubDate": "Mon, 16 Nov 2026 23:20 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/16/910738126_2060030258716894_3354486742306671790_n.jpg",
+      "snippet": "Border surveillance and patrols have been intensified across 54km under the Satkhira 33 BGB Battalion to prevent illegal entry and cross-border crimes."
+    },
+    {
+      "title": "Passenger bus set on fire in Mirpur-1, 2 detained",
+      "link": "https://www.tbsnews.net/bangladesh/crime/passenger-bus-set-fire-mirpur-1-2-detained-1604831",
+      "pubDate": "Mon, 16 Nov 2026 23:15 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/16/bus_fire.jpg",
+      "snippet": "Fire Service deploys two units to extinguish the blaze; cause and possible casualties remain unknown."
+    },
+    {
+      "title": "New strategies adopted as external debt repayments may reach $7.6b/year: Titumir",
       "link": "https://www.tbsnews.net/economy/govt-adopts-new-strategies-external-debt-repayments-may-reach-76byear-1604816",
       "pubDate": "Mon, 16 Nov 2026 21:55 +0600",
       "category": "Bangladesh",
@@ -45,17 +144,6 @@
       "snippet": "Jashore reports 61 killings, the highest among the division’s 10 districts, while extortion and violence against women and children remain major concerns."
     },
     {
-      "title": "Bangladesh's largest solar power plant building in Sonagazi, expecting commission on June 2028",
-      "link": "https://www.tbsnews.net/economy/energy/bangladeshs-largest-solar-power-plant-building-sonagazi-expecting-commission-june",
-      "pubDate": "Mon, 16 Nov 2026 21:35 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/25/image-438105-1792912962.jpg",
-      "snippet": "State Minister for Power, Energy and Mineral Resources Anindya Islam Amit inaugurated a start-up workshop on the project today (16 November)."
-    },
-    {
       "title": "JU admission applications for 2026-27 session open on 22 November, tests in January",
       "link": "https://www.tbsnews.net/bangladesh/education/ju-admission-applications-2026-27-session-open-22-november-tests-january",
       "pubDate": "Mon, 16 Nov 2026 21:35 +0600",
@@ -65,6 +153,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2019/11/05/jahangirnagar-university.jpg",
       "snippet": "Applications for 1,848 seats across 37 departments and institutes will remain open until 15 December."
+    },
+    {
+      "title": "Bangladesh's largest solar power plant building in Sonagazi, expecting commission on June 2028",
+      "link": "https://www.tbsnews.net/economy/energy/bangladeshs-largest-solar-power-plant-building-sonagazi-expecting-commission-june",
+      "pubDate": "Mon, 16 Nov 2026 21:35 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/25/image-438105-1792912962.jpg",
+      "snippet": "State Minister for Power, Energy and Mineral Resources Anindya Islam Amit inaugurated a start-up workshop on the project today (16 November)."
     },
     {
       "title": "Ambee Pharma's earnings decline 40% in first quarter",
@@ -100,17 +199,6 @@
       "snippet": "Recruitment is also underway for 3,663 assistant surgeons through the 46th, 47th and 50th BCS examinations, while thousands of nursing and midwifery posts are being processed."
     },
     {
-      "title": "Bangladesh becomes eligible for US DFC financing",
-      "link": "https://www.tbsnews.net/foreign-policy/bangladesh-becomes-eligible-us-dfc-financing-1604721",
-      "pubDate": "Mon, 16 Nov 2026 21:10 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/10/23/bd_us_flag.png",
-      "snippet": "It’s important opportunity to deepen economic partnership, says DFC CEO."
-    },
-    {
       "title": "Bangladesh Bank orders repatriation of destination charges within a month",
       "link": "https://www.tbsnews.net/economy/banking/bangladesh-bank-orders-repatriation-destination-charges-within-month-1604731",
       "pubDate": "Mon, 16 Nov 2026 21:10 +0600",
@@ -120,6 +208,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/09/bangladesh_bank_1.jpg",
       "snippet": "Under new central bank rules, local destination charges paid to foreign suppliers must be returned via banking channels within 30 days."
+    },
+    {
+      "title": "Bangladesh becomes eligible for US DFC financing",
+      "link": "https://www.tbsnews.net/foreign-policy/bangladesh-becomes-eligible-us-dfc-financing-1604721",
+      "pubDate": "Mon, 16 Nov 2026 21:10 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/10/23/bd_us_flag.png",
+      "snippet": "It’s important opportunity to deepen economic partnership, says DFC CEO."
     },
     {
       "title": "Cenbank governor urges restraint on Ramadan profits; importers voice dollar concerns",
@@ -188,70 +287,15 @@
       "snippet": "The dollar rate eased slightly after the central bank’s sale, while remittance houses lowered their selling rates to commercial banks."
     },
     {
-      "title": "Govt to raise collateral-free loan ceiling for CMSME sector: Muktadir",
-      "link": "https://www.tbsnews.net/bangladesh/govt-raise-collateral-free-loan-ceiling-cmsme-sector-muktadir-1604646",
-      "pubDate": "Mon, 16 Nov 2026 20:45 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/16/muktadir.png",
-      "snippet": "Muktadir said the growth of small and medium enterprises could create employment opportunities for a vast number of people."
-    },
-    {
-      "title": "Ex-army officer Ziaul Ahsan to attend Shapla Chattar trial virtually from jail",
-      "link": "https://www.tbsnews.net/bangladesh/court/ex-army-officer-ziaul-ahsan-attend-shapla-chattar-trial-virtually-jail-1604661",
-      "pubDate": "Mon, 16 Nov 2026 20:45 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/23/ziaul_ahsan.jpg",
-      "snippet": "The chief prosecutor said all accused had been handcuffed for security reasons, but the repeated incidents involving Ziaul had delayed the court proceedings."
-    },
-    {
       "title": "EBL banking services to be suspended for 15 hours from 20 November night",
       "link": "https://www.tbsnews.net/economy/banking/ebl-banking-services-be-suspended-15-hours-20-november-night-1604651",
       "pubDate": "Mon, 16 Nov 2026 20:45 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/17/ebl_logo_16x9.png",
       "snippet": "Core banking software maintenance will disrupt ATM, card, mobile banking, internet banking and several payment services."
-    },
-    {
-      "title": "If referendum is illegal, govt's legitimacy also in question: Mamunul Haque",
-      "link": "https://www.tbsnews.net/bangladesh/politics/if-referendum-illegal-govts-legitimacy-also-question-mamunul-haque-1604746",
-      "pubDate": "Mon, 16 Nov 2026 20:40 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/16/mamunul_haque.jpg",
-      "snippet": "The Bangladesh Khelafat Majlish chief questions the government's position, asking how the referendum can be deemed illegal while the national election is considered valid."
-    },
-    {
-      "title": "DSCC to re-excavate 22 canals with own funds to ease water logging",
-      "link": "https://www.tbsnews.net/bangladesh/dscc-re-excavate-22-canals-own-funds-ease-water-logging-1604631",
-      "pubDate": "Mon, 16 Nov 2026 20:35 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/16/abdus_salam.png",
-      "snippet": "DSCC expects around 250,000 people in the areas concerned to benefit directly from the initiative."
-    },
-    {
-      "title": "Medical screening for Malaysia-bound Bangladeshi workers resumes at 51 centres",
-      "link": "https://www.tbsnews.net/bangladesh/migration/medical-screening-malaysia-bound-bangladeshi-workers-resumes-51-centres-1604636",
-      "pubDate": "Mon, 16 Nov 2026 20:35 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/16/medical-screening.jpg",
-      "snippet": "The government has fixed the examination fee at Tk8,000 and warned authorised centres against overcharging workers or conducting unauthorised tests."
     },
     {
       "title": "Bangladesh Bank asks banks to alert exporters to cyber fraud risks",
@@ -507,17 +551,6 @@
       "snippet": "Students can complete form submission by 18 November and pay fees through Sonali Seba until 19 November."
     },
     {
-      "title": "Bond market, diversified financing among debt management reform priorities: Khosru",
-      "link": "https://www.tbsnews.net/bangladesh/economy-stabilizes-back-government-reform-measures-finance-minister-1603381",
-      "pubDate": "Sun, 15 Nov 2026 18:45 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/15/finance_minister.png",
-      "snippet": "Higher debt servicing, weak revenue, rising development financing three major challenges."
-    },
-    {
       "title": "Dengue toll at 499 as 8 more die",
       "link": "https://www.tbsnews.net/bangladesh/dengue-toll-499-8-more-die-1603331",
       "pubDate": "Sun, 15 Nov 2026 18:25 +0600",
@@ -549,17 +582,6 @@
       "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/15/jenseng.png",
       "snippet": "Megaspeed said it conducted “legitimate and lawful business” and had retained external legal counsel to conduct a thorough internal investigation."
-    },
-    {
-      "title": "Govt plans first sovereign bond in int'l market from early January: Khosru ",
-      "link": "https://www.tbsnews.net/economy/govt-plans-first-sovereign-bond-issue-intl-market-early-january-1603276",
-      "pubDate": "Sun, 15 Nov 2026 17:40 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/22/bonds.png",
-      "snippet": "He expects to finalise new IMF loan framework by Jan-Feb."
     },
     {
       "title": "Full-fledged services at new Neurosciences Hospital building to begin soon",
@@ -747,18 +769,7 @@
       "icon": "🔍",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/10/12/imf-bd.png",
       "snippet": "Economic stability will depend not only on foreign assistance, but also on banking reform, domestic revenue mobilisation, responsible debt management"
-    },
-    {
-      "title": "39% people unaware of their diabetes, at risk of life-altering complications",
-      "link": "https://www.tbsnews.net/bangladesh/health/39-people-unaware-their-diabetes-risk-life-altering-complications-1601746",
-      "pubDate": "Sat, 14 Nov 2026 00:30 +0600",
-      "category": "Health",
-      "color": "#c2185b",
-      "bg": "#fce4ec",
-      "icon": "🏥",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/14/diabetes.jpg",
-      "snippet": "An estimated 1.39 crore adults in Bangladesh live with diabetes, yet nearly 40% remain unaware of their condition due to a lack of early symptoms."
     }
   ],
-  "updatedAt": "2026-11-16T17:18:05.733Z"
+  "updatedAt": "2026-11-17T00:57:13.940Z"
 }
