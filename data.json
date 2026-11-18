@@ -1,15 +1,191 @@
 {
   "news": [
     {
-      "title": "Two BNP leaders killed as AL supporters attack procession in Narail",
+      "title": "Dhaka South BNP leaders claim 24-hour street presence to prevent AL sabotage",
+      "link": "https://www.tbsnews.net/bangladesh/politics/dhaka-south-bnp-leaders-claim-24-hour-street-presence-prevent-al-sabotage",
+      "pubDate": "Thu, 19 Nov 2026 02:10 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/19/bnp_procession.jpg",
+      "snippet": "The party says its leaders and activists are maintaining a round-the-clock street presence to prevent sabotage and arson by the activity-banned Awami League."
+    },
+    {
+      "title": "Two AL leaders beaten, handed over to police in Satkhira",
+      "link": "https://www.tbsnews.net/bangladesh/two-al-leaders-beaten-handed-over-police-satkhira-1607296",
+      "pubDate": "Thu, 19 Nov 2026 02:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/19/satkhira_al.jpg",
+      "snippet": "The two men were confined at a market after Jubo Dal activists arrived, while around 10-12 people reportedly fled the scene."
+    },
+    {
+      "title": "4 Barishal University officials handed over to police after Chhatra Dal detention over 'AL links'",
+      "link": "https://www.tbsnews.net/bangladesh/4-barishal-university-officials-handed-over-police-after-chhatra-dal-detention-over-al",
+      "pubDate": "Thu, 19 Nov 2026 02:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/19/bu_police_arrest.jpg",
+      "snippet": "Proctor says he knows nothing about the beating; Chhatra Dal leader says campaign against Chhatra League and Awami League will continue."
+    },
+    {
+      "title": "Crude bomb blasts, arson attacks rock Dhaka ahead of AL programme today; police tighten security",
+      "link": "https://www.tbsnews.net/bangladesh/crude-bomb-blasts-arson-attacks-rock-dhaka-ahead-al-programme-today-police-tighten",
+      "pubDate": "Thu, 19 Nov 2026 01:55 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/19/police_biker.jpg",
+      "snippet": "Police deployed at major flyovers and stepped up vehicle checks across the capital."
+    },
+    {
+      "title": "Bank resolution fund approved; money to be raised largely from bonds",
+      "link": "https://www.tbsnews.net/economy/banking/bank-resolution-fund-approved-money-be-raised-largely-bonds-1607281",
+      "pubDate": "Thu, 19 Nov 2026 01:50 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/11/08_panorama_4.11.2026.jpg.jpeg",
+      "snippet": "The initiative aims to establish a self-financing mechanism for dealing with troubled financial institutions, reducing reliance on taxpayers’ money for bank restructuring, mergers and liquidation."
+    },
+    {
+      "title": "UN court to deliver landmark judgment in Myanmar Rohingya genocide case",
+      "link": "https://www.tbsnews.net/bangladesh/un-court-deliver-landmark-judgment-myanmar-rohingya-genocide-case-1607276",
+      "pubDate": "Thu, 19 Nov 2026 01:45 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/12/14/rohingya_camp.jpg",
+      "snippet": "The case was brought by The Gambia, a Muslim-majority African country, in 2019."
+    },
+    {
+      "title": "UGC scraps decision on public university admission tests",
+      "link": "https://www.tbsnews.net/bangladesh/education/ugc-scraps-decision-public-university-admission-tests-1607271",
+      "pubDate": "Thu, 19 Nov 2026 01:25 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/23/ugc.jpg",
+      "snippet": "According to UGC, a meeting of vice-chancellors on 9 November had requested public universities to defer admission tests until the publication of the results of the review and supplementary examinations of the 2026 HSC examinations."
+    },
+    {
+      "title": "Muhammad Yunus's ancestral home in Ctg set on fire, petrol bomb attack suspected",
+      "link": "https://www.tbsnews.net/bangladesh/muhammad-yunuss-ancestral-home-ctg-set-fire-petrol-bomb-attack-suspected-1607261",
+      "pubDate": "Thu, 19 Nov 2026 01:15 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/19/yunus_home_fire.png",
+      "snippet": "The fire broke out in an unused room on the ground floor on the eastern side of the building around 11:30pm."
+    },
+    {
+      "title": "Ctg trade fair returns after 2-year gap, over 300 firms to take part",
+      "link": "https://www.tbsnews.net/bangladesh/ctg-trade-fair-returns-after-2-year-gap-over-300-firms-take-part-1607256",
+      "pubDate": "Thu, 19 Nov 2026 01:10 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/19/ctg_trade_fair.jpg",
+      "snippet": "The month-long event, featuring entrepreneurs from India, Pakistan, China and Thailand, will open on 20 November."
+    },
+    {
+      "title": "70% of women unaware of investment diversification: Survey",
+      "link": "https://www.tbsnews.net/economy/70-women-unaware-investment-diversification-survey-1607251",
+      "pubDate": "Thu, 19 Nov 2026 01:05 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/09/30/infographic_beximco-sukuk.jpg",
+      "snippet": "Experts urge digital expansion and financial literacy."
+    },
+    {
+      "title": "Court issues arrest warrant, bars population dev agency chief from leaving Bangladesh",
+      "link": "https://www.tbsnews.net/bangladesh/court/court-issues-arrest-warrant-bars-population-dev-agency-chief-leaving-bangladesh",
+      "pubDate": "Thu, 19 Nov 2026 00:55 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/06/11/arrest_warrant.jpg",
+      "snippet": "The court orders come amid a criminal case involving allegations of breach of trust and cheating against Executive Director Joseph Akinkugbe Adelegan, as Bangladesh and Pakistan challenge his authority to convene international meetings."
+    },
+    {
+      "title": "Porwar urges president to intervene as law and order deteriorates",
+      "link": "https://www.tbsnews.net/bangladesh/politics/porwar-urges-president-intervene-law-and-order-deteriorates-1607241",
+      "pubDate": "Thu, 19 Nov 2026 00:40 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/12/mia_golam_porwar.png",
+      "snippet": "At a press conference, the Jamaat secretary general alleged that attacks on police, government establishments, homes and businesses reflected the authorities' failure to maintain public safety."
+    },
+    {
+      "title": "UNGA president to visit Rohingya camps in Cox's Bazar Friday",
+      "link": "https://www.tbsnews.net/foreign-policy/unga-president-visit-rohingya-camps-coxs-bazar-friday-1607236",
+      "pubDate": "Thu, 19 Nov 2026 00:30 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/19/khalil.png",
+      "snippet": "The visit comes a day after the International Court of Justice is scheduled to deliver its judgment in The Gambia's genocide case against Myanmar."
+    },
+    {
+      "title": "BGB to deploy 10 platoons in 5 Chattogram areas, seeks 16 vehicles",
+      "link": "https://www.tbsnews.net/bangladesh/bgb-deploy-10-platoons-5-chattogram-areas-seeks-16-vehicles-1607231",
+      "pubDate": "Thu, 19 Nov 2026 00:20 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/09/8304771.jpg",
+      "snippet": "The deployment will cover Chattogram city and four upazilas till 21 November."
+    },
+    {
+      "title": "Chhatra Dal activists attack, vandalise Jubo League leader's home in Dhaka",
+      "link": "https://www.tbsnews.net/bangladesh/chhatra-dal-activists-attack-vandalise-jubo-league-secretarys-home-dhaka-1607211",
+      "pubDate": "Wed, 18 Nov 2026 23:55 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/19/nikhil_home.jpeg",
+      "snippet": "Around 40–50 people reportedly took part in the attack on Mainul Hossain Nikhil’s Mirpur residence, while another group set fire to a garage at Kazi Mesbaul Haque Sachchu’s house in Kafrul."
+    },
+    {
+      "title": "Lawyer sends legal notice seeking guidelines on media coverage of violence",
+      "link": "https://www.tbsnews.net/bangladesh/court/lawyer-sends-legal-notice-seeking-guidelines-media-coverage-violence-1607216",
+      "pubDate": "Wed, 18 Nov 2026 23:55 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/10/court.png",
+      "snippet": "Advocate SM Zulfikar Ali Junu gives the information minister and information secretary seven days to respond, warning of a High Court petition otherwise."
+    },
+    {
+      "title": "Two BNP leaders killed as 'AL supporters' attack procession in Narail",
       "link": "https://www.tbsnews.net/bangladesh/crime/two-bnp-leaders-killed-al-supporters-attack-procession-narail-1607201",
       "pubDate": "Wed, 18 Nov 2026 23:25 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/11/dead_body.jpg",
-      "snippet": "Chhatra Dal and Jubo Dal jointly brought out a procession in the evening in protest against Awami League’s planned lockdown for tomorrow."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/19/2_bnp_men_narail.jpg",
+      "snippet": "The victims, general secretaries of the upazila units of Krishak Dal and JASAS, were attacked while taking part in a procession protesting the Awami League's planned lockdown for tomorrow."
     },
     {
       "title": "MP's clinic vandalised, set on fire as AL activists block roads in Gopalganj",
@@ -78,125 +254,15 @@
       "snippet": "Police have detained 25 people over the killing of Krishak Dal leader Raju Molla in Faridpur, but no case had been filed more than 20 hours after the incident."
     },
     {
-      "title": "Krishibid Seed declares no dividend as FY26 earnings plunge 68%",
-      "link": "https://www.tbsnews.net/economy/stocks/krishibid-seed-declares-no-dividend-fy26-earnings-plunge-68-1607116",
-      "pubDate": "Wed, 18 Nov 2026 21:45 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/04/11/krishibid_seed.jpg",
-      "snippet": "The company’s earnings per share fell 68% year-on-year to Tk0.22 in FY26, while its net operating cash flow per share turned negative."
-    },
-    {
-      "title": "Police patrol van stolen outside Ctg Police Lines recovered 3hrs later",
-      "link": "https://www.tbsnews.net/bangladesh/police-patrol-van-stolen-outside-ctg-police-lines-recovered-3hrs-later-1607126",
-      "pubDate": "Wed, 18 Nov 2026 21:45 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/18/police_van_ctg.jpg",
-      "snippet": "A sergeant spotted the stolen van near the New Bridge area, and police recovered it from Fakinner Hat after a chase."
-    },
-    {
-      "title": "Parliament prorogued with speaker calling for vigilance against anti-state force's designs",
-      "link": "https://www.tbsnews.net/bangladesh/parliament-prorogued-speaker-calling-vigilance-against-anti-state-forces-designs-1607106",
-      "pubDate": "Wed, 18 Nov 2026 21:40 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/21/speaker.jpg",
-      "snippet": "He made the remarks in the house shortly before reading out the president's order proroguing the session."
-    },
-    {
-      "title": "Shafiqur urges return to anti-fascist unity, alleges 'third force' behind RMG unrest",
-      "link": "https://www.tbsnews.net/bangladesh/shafiqur-urges-return-anti-fascist-unity-alleges-third-force-behind-rmg-unrest-1607121",
-      "pubDate": "Wed, 18 Nov 2026 21:40 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/06/27/shafiqur.jpg",
-      "snippet": "The opposition leader calls for implementing the July Charter, arresting those behind factory attacks and placing previous bilateral and multilateral agreements before parliament."
-    },
-    {
-      "title": "Young generation must ensure proper use of resources: PM",
-      "link": "https://www.tbsnews.net/bangladesh/young-generation-must-ensure-proper-use-resources-pm-1607111",
-      "pubDate": "Wed, 18 Nov 2026 21:40 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/18/pm2.png",
-      "snippet": "The prime minister also encouraged students to learn additional languages and make use of government-provided opportunities to develop their skills and capabilities."
-    },
-    {
-      "title": "Barishal civil judge goes missing after leaving court",
-      "link": "https://www.tbsnews.net/bangladesh/barishal-civil-judge-goes-missing-after-leaving-court-1607101",
-      "pubDate": "Wed, 18 Nov 2026 21:35 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/18/unnamed_4.jpg",
-      "snippet": "Sheikh Farhana Nadeem left for home after completing court duties on 17 November but has not been heard from since, court officials say."
-    },
-    {
       "title": "Mobile phone use banned in classrooms at secondary-level educational institutions: Education minister",
       "link": "https://www.tbsnews.net/bangladesh/education/mobile-phone-use-banned-classrooms-secondary-level-educational-institutions",
       "pubDate": "Wed, 18 Nov 2026 21:35 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/18/gemini_generated_image_wtr1e7wtr1e7wtr1.jpg",
       "snippet": "The Directorate of Secondary and Higher Education has issued an order prohibiting both teachers and students from bringing mobile phones into classrooms or using them during class hours."
-    },
-    {
-      "title": "Situation in the country normal, says DB",
-      "link": "https://www.tbsnews.net/bangladesh/politics/situation-country-normal-says-db-1607086",
-      "pubDate": "Wed, 18 Nov 2026 21:30 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/18/db_briefing.jpg",
-      "snippet": "Three banned Awami League activists arrested with 2kg of gunpowder."
-    },
-    {
-      "title": "Police to launch combing operation  to arrest those taking shelter in Dhaka after violence",
-      "link": "https://www.tbsnews.net/bangladesh/police-launch-combing-operation-arrest-those-taking-shelter-dhaka-after-violence-1607081",
-      "pubDate": "Wed, 18 Nov 2026 21:30 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/03/police.jpg",
-      "snippet": "Police have increased checkposts and patrols across the capital and deployed additional personnel at key installations as part of the operation."
-    },
-    {
-      "title": "PM calls deposed AL a 'terrorist group', urges democratic forces to unite against it",
-      "link": "https://www.tbsnews.net/bangladesh/pm-calls-deposed-al-terrorist-group-urges-democratic-forces-unite-against-it-1607171",
-      "pubDate": "Wed, 18 Nov 2026 21:30 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/01/pm_tarique_rahman.jpg",
-      "snippet": "He alleges conspiracy to destabilise country, says garment sector unrest is part of the plot."
-    },
-    {
-      "title": "Bill placed to facilitate rooftop solar in Parliament",
-      "link": "https://www.tbsnews.net/economy/energy/bill-placed-facilitate-rooftop-solar-parliament-1607066",
-      "pubDate": "Wed, 18 Nov 2026 21:20 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/11/28/kepz_rooftop_solar_power_project-_3.jpg",
-      "snippet": "Parliament passes bill to expand small-scale solar power installations"
     },
     {
       "title": "Singapore-China firm to invest $6m in Ctg EPZ garment factory ",
@@ -210,35 +276,13 @@
       "snippet": "The factory will produce 2.5 million high-end garments annually and create 2,230 jobs, with production targeted to begin by March 2027."
     },
     {
-      "title": "Ecnec approves revised construction material prices; raises rates of sand, cement and steel rods",
-      "link": "https://www.tbsnews.net/bangladesh/ecnec-approves-revised-construction-material-prices-raises-rates-sand-cement-and-steel",
-      "pubDate": "Wed, 18 Nov 2026 21:15 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/12/rod_1.png",
-      "snippet": "The price of coarse sand has increased by nearly 86%, while diesel has become 24% more expensive; rates of imported stone and 420 MPa steel rods have been reduced."
-    },
-    {
-      "title": "'Not an isolated incident': 15 interim govt advisers link London attack on Nahid to political violence in Bangladesh",
-      "link": "https://www.tbsnews.net/bangladesh/not-isolated-incident-15-interim-govt-advisers-link-london-attack-nahid-political",
-      "pubDate": "Wed, 18 Nov 2026 21:05 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/17/your_paragraph_text_1.jpg",
-      "snippet": "The former advisers to the interim government urge the UK to investigate the attack under British law, including counterterrorism legislation."
-    },
-    {
       "title": "Dhaka University to appeal High Court order halting admission tests until Dec",
       "link": "https://www.tbsnews.net/bangladesh/education/dhaka-university-appeal-high-court-order-halting-admission-tests-until-dec",
       "pubDate": "Wed, 18 Nov 2026 21:05 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/16/image.png",
       "snippet": "The university says complying with the order could push its admission schedule beyond March, causing session delays and disadvantaging meritorious students."
     },
@@ -331,7 +375,7 @@
       "snippet": "A workshop brings together government officials, civil society, media and public health representatives to develop communication strategies for promoting the new provisions."
     },
     {
-      "title": "2 labour leaders among 3 held as unrest leads to closure of 132 RMG factories in Ashulia",
+      "title": "2 labour leaders held as unrest leads to closure of 535 RMG factories",
       "link": "https://www.tbsnews.net/economy/rmg/2-labour-leaders-among-3-held-unrest-leads-closure-132-rmg-factories-ashulia-1606536",
       "pubDate": "Wed, 18 Nov 2026 16:00 +0600",
       "category": "Economy",
@@ -694,17 +738,6 @@
       "snippet": "The documents also show that Beijing is encouraging distillation to make AI cheaper and easier to deploy across China's powerful manufacturing sector."
     },
     {
-      "title": "The human capital deficit",
-      "link": "https://www.tbsnews.net/economy/human-capital-deficit-1604971",
-      "pubDate": "Tue, 17 Nov 2026 10:00 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/17/lead_zahid_hossain_copy.jpg",
-      "snippet": "The puzzle is no longer what Bangladesh’s human-capital deficits are. The puzzle is why they have proven so resistant to correction."
-    },
-    {
       "title": "AI-assisted cheating fears mount ahead of South Korea's college entrance exam",
       "link": "https://www.tbsnews.net/tech/ai-assisted-cheating-fears-mount-ahead-south-koreas-college-entrance-exam-1605006",
       "pubDate": "Tue, 17 Nov 2026 09:45 +0600",
@@ -736,17 +769,6 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/30/national_university_16x9_1_1.png",
       "snippet": "Closure from 17 to 19 November follows a campus lockdown by 988 reinstated employees demanding seniority restoration, promotions and outstanding salaries."
-    },
-    {
-      "title": "COP31 draft calls for fossil fuel phaseout, at least $120b in adaptation finance",
-      "link": "https://www.tbsnews.net/economy/cop31-draft-calls-fossil-fuel-phaseout-least-120bn-adaptation-finance-1604866",
-      "pubDate": "Mon, 16 Nov 2026 23:45 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/25/2026-11-9to20-banner_cop31.png",
-      "snippet": "Bangladeshi climate advocates welcome key proposals but warn that delivery will depend on public grants, clear timelines and firm obligations for developed countries."
     },
     {
       "title": "Dengue deaths surpass 500, outbreak likely to persist into December",
@@ -925,5 +947,5 @@
       "snippet": "By 2030, Beijing wants AI literacy to be universal among schoolchildren."
     }
   ],
-  "updatedAt": "2026-11-18T17:49:07.671Z"
+  "updatedAt": "2026-11-18T23:56:03.330Z"
 }
