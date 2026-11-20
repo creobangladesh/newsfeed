@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "Capital shortfall at 22 banks exceeds Tk3 lakh crore in June",
+      "link": "https://www.tbsnews.net/economy/banking/capital-shortfall-22-banks-exceeds-tk3-lakh-crore-june-1608456",
+      "pubDate": "Fri, 20 Nov 2026 09:30 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/05/15/banking_sector_0.jpg",
+      "snippet": "Mounting bad loans erode banks' capital and weaken their lending capacity."
+    },
+    {
+      "title": "24 attacks on AJR Courier in 30 days: Police yet to establish links, masterminds remain at large",
+      "link": "https://www.tbsnews.net/bangladesh/crime/24-attacks-ajr-courier-30-days-police-yet-establish-links-masterminds-remain-large",
+      "pubDate": "Fri, 20 Nov 2026 08:10 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/22/courier_hazaribagh.jpg",
+      "snippet": "The company alleges that a gang is demanding extortion money using the name of listed criminal Sanjidul Islam Emon, also known as Captain Emon, and carrying out the attacks because it refused to pay extortion money."
+    },
+    {
+      "title": "14–19 November: Violence, arson and arrests reported across Bangladesh",
+      "link": "https://www.tbsnews.net/bangladesh/14-19-november-violence-arson-and-arrests-reported-across-bangladesh-1608431",
+      "pubDate": "Fri, 20 Nov 2026 07:55 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/17/gopalganj_mp_fire.jpg",
+      "snippet": "The violence, reported in at least 12 districts, targeted police stations, political leaders' residences, public offices, vehicles, transport infrastructure and educational institutions. At least four people were killed and several others injured, wh..."
+    },
+    {
       "title": "US firms line up investment proposals as DFC delegation plans Bangladesh visit in January",
       "link": "https://www.tbsnews.net/economy/us-firms-line-investment-proposals-dfc-delegation-plans-bangladesh-visit-january-1608426",
       "pubDate": "Fri, 20 Nov 2026 01:30 +0600",
@@ -221,28 +254,6 @@
       "snippet": "The BSEC chairman also stressed the need for strong market makers to ensure liquidity, particularly during the initial stages."
     },
     {
-      "title": "Shafiqur Rahman to visit Australia, Malaysia on weeklong visit Friday",
-      "link": "https://www.tbsnews.net/bangladesh/politics/shafiqur-rahman-visit-australia-malaysia-weeklong-visit-friday-1608296",
-      "pubDate": "Thu, 19 Nov 2026 21:45 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/01/03/jamaat_ameer_shafiqur_rahman.jpg",
-      "snippet": "The Jamaat ameer is scheduled to return home on 26 November."
-    },
-    {
-      "title": "Bangladesh's EU denim market share shrinks despite retaining top spot",
-      "link": "https://www.tbsnews.net/economy/rmg/bangladeshs-eu-denim-market-share-shrinks-despite-retaining-top-spot-1608251",
-      "pubDate": "Thu, 19 Nov 2026 21:45 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/11/old-jeans_0.jpg",
-      "snippet": "Imports from Bangladesh declined 5.48% to €1.01b, bringing its share of the EU denim market down to 29.48%, from 30.18% in the corresponding period last year."
-    },
-    {
       "title": "BB expands agri loans to cover transport, storage",
       "link": "https://www.tbsnews.net/economy/banking/bb-expands-agri-loans-cover-transport-storage-1608241",
       "pubDate": "Thu, 19 Nov 2026 21:45 +0600",
@@ -254,17 +265,6 @@
       "snippet": "Previously such loans were available only to individuals, now open to institutions, digital agricultural services, precision farming and climate-smart agriculture."
     },
     {
-      "title": "New Tk20, Tk50 notes to enter market next week",
-      "link": "https://www.tbsnews.net/economy/banking/new-tk20-tk50-notes-enter-market-next-week-1608231",
-      "pubDate": "Thu, 19 Nov 2026 21:40 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/09/28/taka.gif",
-      "snippet": "The Tk100 note will retain its existing design, while delays in securing transport arrangements have pushed back the release of the two new denominations."
-    },
-    {
       "title": "ILO urges evidence-based wage review, peaceful dialogue amid RMG unrest",
       "link": "https://www.tbsnews.net/economy/rmg/ilo-urges-evidence-based-wage-review-peaceful-dialogue-amid-rmg-unrest-1608236",
       "pubDate": "Thu, 19 Nov 2026 21:40 +0600",
@@ -274,6 +274,17 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/06/12/ilo_0.png",
       "snippet": "The UN labour agency says minimum wage adjustments should reflect workers' living costs, inflation, productivity and the sustainability of businesses."
+    },
+    {
+      "title": "New Tk20, Tk50 notes to enter market next week",
+      "link": "https://www.tbsnews.net/economy/banking/new-tk20-tk50-notes-enter-market-next-week-1608231",
+      "pubDate": "Thu, 19 Nov 2026 21:40 +0600",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/09/28/taka.gif",
+      "snippet": "The Tk100 note will retain its existing design, while delays in securing transport arrangements have pushed back the release of the two new denominations."
     },
     {
       "title": "BGMEA seeks data on losses from RMG sector unrest in November",
@@ -705,17 +716,6 @@
       "snippet": "BGMEA, BKMEA leaders plan to pitch an inflation-linked annual increment model at 23 November wage board meeting."
     },
     {
-      "title": "Insurance, bank rally lifts DSEX as turnover tops Tk900cr after three months",
-      "link": "https://www.tbsnews.net/economy/stocks/insurance-bank-rally-lifts-dsex-turnover-tops-tk900cr-after-three-months-1605916",
-      "pubDate": "Tue, 17 Nov 2026 22:10 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/11/05/dsex.png",
-      "snippet": "All seven tracked private banks posted gains, supported by attractive valuations. Most leading private lenders are trading at just 3 to 4 times their trailing earnings, compared with the broader market’s price-to-earnings (P/E) ratio of 8.2."
-    },
-    {
       "title": "Ctg depositors of Sammilito Islami Bank demand regular transactions, market rates",
       "link": "https://www.tbsnews.net/economy/banking/ctg-depositors-sammilito-islami-bank-demand-regular-transactions-market-rates",
       "pubDate": "Tue, 17 Nov 2026 22:05 +0600",
@@ -868,18 +868,7 @@
       "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/17/7bvfk4ccgnl2xaul2kcqo6kzdm.jpg",
       "snippet": "The documents also show that Beijing is encouraging distillation to make AI cheaper and easier to deploy across China's powerful manufacturing sector."
-    },
-    {
-      "title": "AI-assisted cheating fears mount ahead of South Korea's college entrance exam",
-      "link": "https://www.tbsnews.net/tech/ai-assisted-cheating-fears-mount-ahead-south-koreas-college-entrance-exam-1605006",
-      "pubDate": "Tue, 17 Nov 2026 09:45 +0600",
-      "category": "Tech",
-      "color": "#1976d2",
-      "bg": "#e3f2fd",
-      "icon": "💻",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/17/ai_south_korea_.jpg",
-      "snippet": "South Korea's annual College Scholastic Ability Test, known as Suneung, is a major event in the country, where university admission can significantly influence career prospects and social standing."
     }
   ],
-  "updatedAt": "2026-11-19T22:59:25.560Z"
+  "updatedAt": "2026-11-20T03:56:06.080Z"
 }
