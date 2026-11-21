@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Railway plans dollar-based charges for container transport",
+      "link": "https://www.tbsnews.net/bangladesh/transport/railway-plans-dollar-based-charges-container-transport-1609151",
+      "pubDate": "Sat, 21 Nov 2026 07:20 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/16/railway_india.jpg",
+      "snippet": "Move aimed at narrowing gap between operating and expenditure"
+    },
+    {
       "title": "Bank official found dead in pond; family accuses local gang leader",
       "link": "https://www.tbsnews.net/bangladesh/bank-official-found-dead-pond-family-accuses-local-gang-leader-1609136",
       "pubDate": "Sat, 21 Nov 2026 01:35 +0600",
@@ -230,17 +241,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/20/kobir.png",
       "snippet": "He says the government will track down fugitives accused of killing people and bring them to justice."
-    },
-    {
-      "title": "Garment workers get 10kg rice for Tk300 under special OMS scheme",
-      "link": "https://www.tbsnews.net/economy/rmg/garment-workers-get-10kg-rice-tk300-under-special-oms-scheme-1608941",
-      "pubDate": "Fri, 20 Nov 2026 19:35 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/20/rmg.png",
-      "snippet": "Factory authorities said around 5,000 workers are employed at Sparrow Apparels. Of them, 500 have initially been selected for the scheme, with more workers to be included in phases."
     },
     {
       "title": "Gopalganj Science and Technology University suspends all classes, exams indefinitely",
@@ -780,18 +780,7 @@
       "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/18/trump_kennedy.jpg",
       "snippet": "Kennedy has occasionally said that MMR vaccination is the best way to prevent the spread of measles, as in this April 2025 social-media post after the death of an 8-year-old girl from measles in Texas."
-    },
-    {
-      "title": "Will AI take away the jobs of our graduates?",
-      "link": "https://www.tbsnews.net/thoughts/will-ai-take-away-jobs-our-graduates-1605991",
-      "pubDate": "Wed, 18 Nov 2026 04:00 +0600",
-      "category": "Thoughts",
-      "color": "#455a64",
-      "bg": "#eceff1",
-      "icon": "💭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/18/thoughts_sci_tech_ai_laptop.png",
-      "snippet": "The World Economic Forum expects AI to create far more jobs than it displaces by 2030, but only graduates trained for the change will get them. Bangladesh must decide whether to supply skilled talent to an ageing world or remain a source of unskilled..."
     }
   ],
-  "updatedAt": "2026-11-20T20:56:10.481Z"
+  "updatedAt": "2026-11-21T02:00:29.762Z"
 }
