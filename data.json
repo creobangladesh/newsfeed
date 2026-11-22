@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Police step up security amid fears of December sabotage following recent attacks",
+      "link": "https://www.tbsnews.net/bangladesh/law-order/police-step-security-amid-fears-december-sabotage-following-recent-attacks",
+      "pubDate": "Sun, 22 Nov 2026 07:30 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/21/police_1.jpg",
+      "snippet": "Additional police planned for vulnerable districts as border surveillance intensifies and investigators trace funding"
+    },
+    {
       "title": "Dhaka, Delhi to discuss water issues Sunday",
       "link": "https://www.tbsnews.net/foreign-policy/dhaka-delhi-discuss-water-issues-sunday-1610011",
       "pubDate": "Sun, 22 Nov 2026 00:15 +0600",
@@ -230,17 +241,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/21/image-448478-1795258562.jpg",
       "snippet": "Aminul also directed officials to hold such exchange meetings every four months and ensure timely office attendance."
-    },
-    {
-      "title": "NTRCA is a 'factory for issuing fake certificates': MP Selim Bhuiyan",
-      "link": "https://www.tbsnews.net/bangladesh/ntrca-factory-issuing-fake-certificates-mp-selim-bhuiyan-1609816",
-      "pubDate": "Sat, 21 Nov 2026 20:15 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/21/918196269_4203303249969614_2919565606910136_n.jpg",
-      "snippet": "The Cumilla-2 lawmaker calls for a Public Service Commission to oversee teacher recruitment, alleging widespread irregularities and highlighting the hardships faced by women teachers posted far from home."
     },
     {
       "title": "450 firms to showcase local products at national SME fair from Sunday",
@@ -648,18 +648,7 @@
       "icon": "💻",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/05/07/gta_6.png",
       "snippet": "After 13 years of waiting, fans around the world will get to play the latest installment in the blockbuster video game series. In focus: A tale of crime and violence in a fictionalized version of Miami."
-    },
-    {
-      "title": "Half-empty classrooms, 54% teacher vacancies plague technical education",
-      "link": "https://www.tbsnews.net/bangladesh/education/half-empty-classrooms-54-teacher-vacancies-plague-technical-education-1607311",
-      "pubDate": "Thu, 19 Nov 2026 07:15 +0600",
-      "category": "Education",
-      "color": "#e65100",
-      "bg": "#fff3e0",
-      "icon": "🎓",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/06/24/classroom.jpg",
-      "snippet": "The crisis has become so acute that the authorities have suspended admissions at 246 institutions and initiated action against another 112, raising questions about the quality, relevance and future of technical education"
     }
   ],
-  "updatedAt": "2026-11-21T22:48:48.191Z"
+  "updatedAt": "2026-11-22T02:50:31.476Z"
 }
