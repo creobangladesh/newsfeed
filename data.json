@@ -1,6 +1,94 @@
 {
   "news": [
     {
+      "title": "Indonesia seizes Bangladesh-bound ship carrying 405 tonnes of rocket-grade chemicals, millions of SIM cards",
+      "link": "https://www.tbsnews.net/bangladesh/indonesia-seizes-bangladesh-bound-ship-carrying-405-tonnes-rocket-grade-chemicals",
+      "pubDate": "Mon, 23 Nov 2026 01:20 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/23/indo_vessel.jpg",
+      "snippet": "The Comoros-flagged vessel was travelling from China to Mongla Port when intercepted in Indonesian waters."
+    },
+    {
+      "title": "Police constable stabbed to death in Narayanganj's Fatullah; one detained",
+      "link": "https://www.tbsnews.net/bangladesh/crime/police-constable-stabbed-death-narayanganjs-fatullah-one-detained-1611061",
+      "pubDate": "Mon, 23 Nov 2026 01:10 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/21/dead_2.jpg",
+      "snippet": "The constable was killed after unidentified assailants chased him and an assistant sub-inspector in Deobhog; the latter escaped."
+    },
+    {
+      "title": "Woman killed, 2 injured in explosion at Hazaribagh house",
+      "link": "https://www.tbsnews.net/bangladesh/woman-killed-2-injured-explosion-hazaribagh-house-1611046",
+      "pubDate": "Mon, 23 Nov 2026 01:05 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/11/21/cylinder_blast.jpg",
+      "snippet": "The blast damaged part of a wall and shattered windowpanes; police are yet to confirm its cause."
+    },
+    {
+      "title": "6 suffer burns in gas line explosion at Lalbagh restaurant",
+      "link": "https://www.tbsnews.net/bangladesh/six-suffer-burns-gas-line-explosion-lalbagh-restaurant-1611051",
+      "pubDate": "Mon, 23 Nov 2026 01:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/05/19/fire.jpg",
+      "snippet": "The accident occurred at Kacchi Khanas restaurant under Lalbagh Police Station around 8:30pm."
+    },
+    {
+      "title": "Neo-JMB member 'Bomaru Mamun' arrested in Lakshmipur after hiding under false identity",
+      "link": "https://www.tbsnews.net/bangladesh/crime/neo-jmb-member-bomaru-mamun-arrested-lakshmipur-after-hiding-under-false-identity",
+      "pubDate": "Mon, 23 Nov 2026 00:55 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/23/924042883_1435317418315767_9157716103855221618_n.jpg",
+      "snippet": "Nazmul Hasan Mamun was living under the name Saiful Islam Sujon; police recovered 11 improvised explosive devices from his rented house."
+    },
+    {
+      "title": "Businessman shot in Chattogram; police suspect link to arrest of 'Kala Mobarak'",
+      "link": "https://www.tbsnews.net/bangladesh/crime/businessman-shot-chattogram-police-suspect-link-arrest-kala-mobarak-1611031",
+      "pubDate": "Mon, 23 Nov 2026 00:50 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/23/919360810_1583470663538707_40147779957756302_n.jpg",
+      "snippet": "Preliminary investigation suggests the attack may be linked to the trader's role in helping police arrest the alleged gunman, an associate of Mobarak, says OC."
+    },
+    {
+      "title": "Parties optimistic as Tarique starts dialogue today to maintain national unity",
+      "link": "https://www.tbsnews.net/bangladesh/politics/parties-optimistic-tarique-starts-dialogue-today-maintain-national-unity-1611021",
+      "pubDate": "Mon, 23 Nov 2026 00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/08/aminul_haque_1.png",
+      "snippet": "Tarique scheduled to hold meeting with NCP today."
+    },
+    {
+      "title": "4 CMP personnel suspended over theft of police patrol vehicle in Chattogram",
+      "link": "https://www.tbsnews.net/bangladesh/4-cmp-personnel-suspended-over-theft-police-patrol-vehicle-chattogram-1611016",
+      "pubDate": "Mon, 23 Nov 2026 00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/18/police_van_ctg.jpg",
+      "snippet": "An SI and three constables face action for negligence after leaving the vehicle unattended while going for a meal; police recovered it within hours."
+    },
+    {
       "title": "Bhutanese candidate for WHO SEARO regional director meets Humaiun Kobir",
       "link": "https://www.tbsnews.net/foreign-policy/bhutanese-candidate-who-searo-regional-director-meets-humaiun-kobir-1611011",
       "pubDate": "Sun, 22 Nov 2026 23:55 +0600",
@@ -9,18 +97,7 @@
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/22/humaiun.png",
-      "snippet": "Ngedup, former Prime Minister and Minister of Health and Education of Bhutan, briefed the state minister on his candidature"
-    },
-    {
-      "title": "Hasina's supporters launch 'Insurgency' to destabilise government: NYT",
-      "link": "https://www.tbsnews.net/bangladesh/politics/hasinas-supporters-launch-insurgency-destabilise-government-nyt-1611006",
-      "pubDate": "Sun, 22 Nov 2026 23:50 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/19/untitled-1.jpg",
-      "snippet": "Citing police, the report said at least four people had been killed in the violence, including three members of the BNP and its affiliated organisations and a bus helper who died in an arson attack."
+      "snippet": "Ngedup, former Prime Minister and minister of Health and Education of Bhutan, briefed the state minister on his candidature"
     },
     {
       "title": "Ex-MP Nixon named prime accused in Faridpur Krishak Dal leader Raju murder case",
@@ -32,6 +109,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/12/08/mp_mujibur_rahman_nixon_chowdhury.jpg",
       "snippet": "Former Faridpur-4 MP Mujibur Rahman Chowdhury Nixon has been named the prime accused, along with 95 others, in the case filed over the killing of Raju Molla"
+    },
+    {
+      "title": "Hasina's supporters launch 'Insurgency' to destabilise government: NYT",
+      "link": "https://www.tbsnews.net/bangladesh/politics/hasinas-supporters-launch-insurgency-destabilise-government-nyt-1611006",
+      "pubDate": "Sun, 22 Nov 2026 23:50 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/19/untitled-1.jpg",
+      "snippet": "Citing police, the report said at least four people had been killed in the violence, including three members of the BNP and its affiliated organisations and a bus helper who died in an arson attack."
     },
     {
       "title": "9 global labour groups urge Bangladesh to set RMG minimum wage at living level",
@@ -175,94 +263,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/22/mir_shahe_alam.png",
       "snippet": "Mir Shahe Alam urges local authorities to hold meetings with landlords in industrial areas to discourage simultaneous rent hikes after the new wage structure is announced"
-    },
-    {
-      "title": "Bangladesh, Maldives discuss stronger security cooperation, regional stability",
-      "link": "https://www.tbsnews.net/foreign-policy/bangladesh-maldives-discuss-stronger-security-cooperation-regional-stability-1610901",
-      "pubDate": "Sun, 22 Nov 2026 21:20 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/22/bangladesh-maldivs.png",
-      "snippet": "The two countries exchanged views on maritime security, counterterrorism and transnational crime ahead of the upcoming Colombo Security Conclave meeting in Malé."
-    },
-    {
-      "title": "Fake visa racket busted in Chattogram, man arrested with 17 passports",
-      "link": "https://www.tbsnews.net/bangladesh/crime/fake-visa-racket-busted-chattogram-man-arrested-17-passports-1610916",
-      "pubDate": "Sun, 22 Nov 2026 21:20 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/22/ctg_fake_visa.jpeg",
-      "snippet": "Police seize forged Serbian visas, a printer and other equipment during a raid in Teribazar"
-    },
-    {
-      "title": "Give us Vietnam-like facilities; we will pay Vietnam-like wages: BGMEA president",
-      "link": "https://www.tbsnews.net/economy/rmg/give-us-vietnam-facilities-we-will-pay-vietnam-wages-bgmea-president-1610896",
-      "pubDate": "Sun, 22 Nov 2026 21:15 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/05/31/mahmud_hasan_khan.jpg",
-      "snippet": "BILS chief says workers feel they have to take to the streets to get their demands heard, while BGMEA chief urges them to move away from that mindset."
-    },
-    {
-      "title": "New wage board expected to meet workers' expectations: Labour minister",
-      "link": "https://www.tbsnews.net/economy/rmg/new-wage-board-expected-meet-workers-expectations-labour-minister-1610891",
-      "pubDate": "Sun, 22 Nov 2026 21:05 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/22/labour_minister.jpeg",
-      "snippet": "Ariful Haque Choudhury hopes employers and workers will establish a cooperative working environment within a year amid ongoing unrest in the garment sector"
-    },
-    {
-      "title": "4 associates of 'Chapa Arif' arrested with revolver, heroin and yaba in Dhaka's Mohammadpur",
-      "link": "https://www.tbsnews.net/bangladesh/crime/4-associates-chapa-arif-arrested-revolver-heroin-and-yaba-dhakas-mohammadpur",
-      "pubDate": "Sun, 22 Nov 2026 21:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/22/chapa_arf_associates.jpg",
-      "snippet": "SRB says it seized a foreign-made revolver, 360 grams of heroin and 750 yaba tablets in a pre-dawn raid on Pabna House Lane."
-    },
-    {
-      "title": "State minister stresses fisheries sector expansion for economic prosperity",
-      "link": "https://www.tbsnews.net/bangladesh/fisheries-sector-has-ample-scope-export-expansion-tuku-1610881",
-      "pubDate": "Sun, 22 Nov 2026 20:55 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/22/tuku.png",
-      "snippet": "We have to ensure a suitable environment for fish to live and grow, he says."
-    },
-    {
-      "title": "CPD acknowledges BGMEA objections, but estimates hardly move",
-      "link": "https://www.tbsnews.net/bangladesh/cpd-acknowledges-bgmea-objections-estimates-hardly-move-1610871",
-      "pubDate": "Sun, 22 Nov 2026 20:50 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/20/bgmea-cpd.jpg",
-      "snippet": "The think-tank says adopting BGMEA’s proposed household-size figure would lower its poverty-line-based wage estimate by just Tk186, to Tk18,392"
-    },
-    {
-      "title": "Ex-health secretary sent to jail after 3-day remand in July Uprising murder case",
-      "link": "https://www.tbsnews.net/bangladesh/court/ex-health-secretary-sent-jail-after-3-day-remand-july-uprising-murder-case-1610851",
-      "pubDate": "Sun, 22 Nov 2026 20:45 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/10/07/hammer_court.jpg",
-      "snippet": "The court rejects his bail plea in connection with the killing of Government Bangla College student Sagar Ahmed during the July Uprising."
     },
     {
       "title": "ICJ verdict raises hope, but Rohingya future uncertain",
@@ -681,29 +681,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/05/15/banking_sector_0.jpg",
       "snippet": "Mounting bad loans erode banks' capital and weaken their lending capacity."
-    },
-    {
-      "title": "US firms line up investment proposals as DFC delegation plans Bangladesh visit in January",
-      "link": "https://www.tbsnews.net/economy/us-firms-line-investment-proposals-dfc-delegation-plans-bangladesh-visit-january-1608426",
-      "pubDate": "Fri, 20 Nov 2026 01:30 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/07/inflow_1.jpg",
-      "snippet": "Restored financing eligibility after 13 years could unlock US investment in energy, infrastructure and manufacturing."
-    },
-    {
-      "title": "Borrowers in disputes eligible for Tk60,000cr stimulus loans with court stay orders",
-      "link": "https://www.tbsnews.net/economy/banking/borrowers-disputes-eligible-tk60000cr-stimulus-loans-court-stay-orders-1608416",
-      "pubDate": "Fri, 20 Nov 2026 01:20 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/16/collage-dollar.jpg",
-      "snippet": "The directive allows borrowers to access the funds without withdrawing their cases against lenders, provided they obtain court orders staying loan-related proceedings."
     }
   ],
-  "updatedAt": "2026-11-22T18:14:51.767Z"
+  "updatedAt": "2026-11-22T23:43:26.527Z"
 }
