@@ -1,6 +1,171 @@
 {
   "news": [
     {
+      "title": "Govt plans 600 model schools, colleges nationwide ",
+      "link": "https://www.tbsnews.net/bangladesh/education/govt-plans-600-model-schools-colleges-nationwide-1611226",
+      "pubDate": "Mon, 23 Nov 2026 11:50 +0600",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/23/image-449044-1795411393.jpg",
+      "snippet": "The Commission’s note says the ERD will discuss financing arrangements with potential development partners following the required policy approval."
+    },
+    {
+      "title": "Defaulted loans rise to Tk6.27 lakh crore, nearly 34% of total loans",
+      "link": "https://www.tbsnews.net/economy/banking/defaulted-loans-rise-tk627-lakh-crore-nearly-34-total-loans-1611196",
+      "pubDate": "Mon, 23 Nov 2026 11:35 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/16/default_loan_cartoon_1.jpg",
+      "snippet": "Bankers attributed the rise to deteriorating business conditions, high interest rates, the dollar's appreciation and the energy crisis, which have made it difficult for many businesses to repay loans"
+    },
+    {
+      "title": "18 gold bars worth Tk3.78 crore seized at Dhaka airport",
+      "link": "https://www.tbsnews.net/bangladesh/18-gold-bars-worth-tk378-crore-seized-dhaka-airport-1611191",
+      "pubDate": "Mon, 23 Nov 2026 11:10 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/06/16/gold_jewellery.jpg",
+      "snippet": "When the tape was removed at the inventory table in the customs hall, 18 gold bars, each weighing 117 grams, were found."
+    },
+    {
+      "title": "NCP protesters allegedly attacked by BNP activists while demanding release of arrested member",
+      "link": "https://www.tbsnews.net/bangladesh/ncp-protesters-allegedly-attacked-bnp-activists-while-demanding-release-arrested-member",
+      "pubDate": "Mon, 23 Nov 2026 11:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/23/916021465_1828857241680472_3894751424291551160_n.jpg",
+      "snippet": "NCP leaders and activists were protesting outside the police station demanding the release of a party member arrested in an explosives case."
+    },
+    {
+      "title": "Top criminal Sweden Aslam arrested at Dhaka airport",
+      "link": "https://www.tbsnews.net/bangladesh/crime/top-criminal-sweden-aslam-arrested-dhaka-airport-1611176",
+      "pubDate": "Mon, 23 Nov 2026 10:50 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/23/924411564_4456108447984622_7509338577088297835_n.jpg",
+      "snippet": "He was arrested and handed over to the DB after police found during immigration checks that his passport had been blocked"
+    },
+    {
+      "title": "729 plant species newly documented along Halda, 100 face extinction risk",
+      "link": "https://www.tbsnews.net/bangladesh/environment/729-plant-species-newly-documented-along-halda-100-face-extinction-risk",
+      "pubDate": "Mon, 23 Nov 2026 10:45 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/07/14/p1_story_halda_river10_3_0.jpg",
+      "snippet": "The study also identified 517 medicinal plant species, 29 pollution sources, Keora trees in the river’s upstream areas, and a potential additional source of the Halda."
+    },
+    {
+      "title": "Child among 3 burnt in Gazipur house fire",
+      "link": "https://www.tbsnews.net/bangladesh/child-among-3-burnt-gazipur-house-fire-1611141",
+      "pubDate": "Mon, 23 Nov 2026 10:20 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/23/fire.jpg",
+      "snippet": "All three injured people were tenants at the house."
+    },
+    {
+      "title": "Gas subsidies balloon, put dev spending at risk",
+      "link": "https://www.tbsnews.net/bangladesh/gas-subsidies-balloon-put-dev-spending-risk-1611111",
+      "pubDate": "Mon, 23 Nov 2026 10:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/23/gas-subsidy.png",
+      "snippet": "Subsidies hit nearly four times the annual allocation in just 4.5 months"
+    },
+    {
+      "title": "Attempt to torch CU shuttle train foiled  ",
+      "link": "https://www.tbsnews.net/bangladesh/attempt-torch-cu-shuttle-train-foiled-1611121",
+      "pubDate": "Mon, 23 Nov 2026 09:50 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/23/cu_shuttle_train_arson.jpg",
+      "snippet": "According to the student's account, they later detected the smell of kerosene inside the train. Upon inspection, they found a bottle of kerosene and discovered that the seats had been smeared with the fuel."
+    },
+    {
+      "title": "BNP office arson case names former Chhatra Dal leader as Chhatra League activist",
+      "link": "https://www.tbsnews.net/bangladesh/crime/bnp-office-arson-case-names-former-chhatra-dal-leader-chhatra-league-activist",
+      "pubDate": "Mon, 23 Nov 2026 09:35 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/23/untitled-1.jpg",
+      "snippet": "Mehdi Hasan, a former joint organising secretary of Narayanganj district Chhatra Dal, is among those named in the case."
+    },
+    {
+      "title": "Power without energy",
+      "link": "https://www.tbsnews.net/bangladesh/power-without-energy-1611101",
+      "pubDate": "Mon, 23 Nov 2026 09:35 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/23/paradox_to_puzzle_9.jpg",
+      "snippet": "How emergency procurement rules socialised risk and privatised profit in Bangladesh’s power sector"
+    },
+    {
+      "title": "81 mother vessels stranded as lighter vessel dispute disrupts cargo handling",
+      "link": "https://www.tbsnews.net/bangladesh/81-mother-vessels-stranded-lighter-vessel-dispute-disrupts-cargo-handling-1611096",
+      "pubDate": "Mon, 23 Nov 2026 09:30 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/04/02/lighter_vessel_ctg_ii.jpg",
+      "snippet": "A 50,000-tonne mother vessel typically requires three to four lighter vessels a day to maintain unloading operations."
+    },
+    {
+      "title": "Labour unrest persists in Ashulia as workers protest, 22 factories remain shut",
+      "link": "https://www.tbsnews.net/economy/rmg/labour-unrest-eases-savar-ashulia-22-factories-remain-closed-indefinitely-1611091",
+      "pubDate": "Mon, 23 Nov 2026 08:50 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/23/ashulia_factory.jpg",
+      "snippet": "Meanwhile, a total of 22 factories, including Ha-meem, Envoy, Knit Asia and Next Collection, remain closed indefinitely under Section 13(1) of the Labour Act for various reasons amid the ongoing unrest."
+    },
+    {
+      "title": "Certain, swift and proportionate: The three tests Bangladesh’s death-penalty laws fail",
+      "link": "https://www.tbsnews.net/thoughts/certain-swift-and-proportionate-three-tests-bangladeshs-death-penalty-laws-fail-1611151",
+      "pubDate": "Mon, 23 Nov 2026 08:00 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/23/feature-image_0.png",
+      "snippet": "Bangladesh continues to expand the use of capital punishment despite weak evidence that harsher sentences deter crime. The real deterrents are the certainty and speed of punishment, alongside penalties proportionate to the offence — principles the co..."
+    },
+    {
+      "title": "Coal emerges as leading power source as gas supply falters",
+      "link": "https://www.tbsnews.net/economy/energy/coal-emerges-leading-power-source-gas-supply-falters-1611071",
+      "pubDate": "Mon, 23 Nov 2026 07:35 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/23/coal.png",
+      "snippet": "Coal’s share of total electricity generation rose from 6.24% in the fiscal 2021-22 to 26.72% in FY25, marking a 328.21% increase over four years, according to Bangladesh Power Development Board (BPDB) data"
+    },
+    {
       "title": "Indonesia seizes Bangladesh-bound ship carrying 405 tonnes of rocket-grade chemicals, millions of SIM cards",
       "link": "https://www.tbsnews.net/bangladesh/indonesia-seizes-bangladesh-bound-ship-carrying-405-tonnes-rocket-grade-chemicals",
       "pubDate": "Mon, 23 Nov 2026 01:20 +0600",
@@ -67,17 +232,6 @@
       "snippet": "Preliminary investigation suggests the attack may be linked to the trader's role in helping police arrest the alleged gunman, an associate of Mobarak, says OC."
     },
     {
-      "title": "Parties optimistic as Tarique starts dialogue today to maintain national unity",
-      "link": "https://www.tbsnews.net/bangladesh/politics/parties-optimistic-tarique-starts-dialogue-today-maintain-national-unity-1611021",
-      "pubDate": "Mon, 23 Nov 2026 00:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/08/aminul_haque_1.png",
-      "snippet": "Tarique scheduled to hold meeting with NCP today."
-    },
-    {
       "title": "4 CMP personnel suspended over theft of police patrol vehicle in Chattogram",
       "link": "https://www.tbsnews.net/bangladesh/4-cmp-personnel-suspended-over-theft-police-patrol-vehicle-chattogram-1611016",
       "pubDate": "Mon, 23 Nov 2026 00:00 +0600",
@@ -89,37 +243,15 @@
       "snippet": "An SI and three constables face action for negligence after leaving the vehicle unattended while going for a meal; police recovered it within hours."
     },
     {
-      "title": "Bhutanese candidate for WHO SEARO regional director meets Humaiun Kobir",
-      "link": "https://www.tbsnews.net/foreign-policy/bhutanese-candidate-who-searo-regional-director-meets-humaiun-kobir-1611011",
-      "pubDate": "Sun, 22 Nov 2026 23:55 +0600",
+      "title": "Parties optimistic as Tarique starts dialogue today to maintain national unity",
+      "link": "https://www.tbsnews.net/bangladesh/politics/parties-optimistic-tarique-starts-dialogue-today-maintain-national-unity-1611021",
+      "pubDate": "Mon, 23 Nov 2026 00:00 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/22/humaiun.png",
-      "snippet": "Ngedup, former Prime Minister and minister of Health and Education of Bhutan, briefed the state minister on his candidature"
-    },
-    {
-      "title": "Ex-MP Nixon named prime accused in Faridpur Krishak Dal leader Raju murder case",
-      "link": "https://www.tbsnews.net/bangladesh/ex-mp-nixon-named-prime-accused-faridpur-krishak-dal-leader-raju-murder-case-1611001",
-      "pubDate": "Sun, 22 Nov 2026 23:50 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/12/08/mp_mujibur_rahman_nixon_chowdhury.jpg",
-      "snippet": "Former Faridpur-4 MP Mujibur Rahman Chowdhury Nixon has been named the prime accused, along with 95 others, in the case filed over the killing of Raju Molla"
-    },
-    {
-      "title": "Hasina's supporters launch 'Insurgency' to destabilise government: NYT",
-      "link": "https://www.tbsnews.net/bangladesh/politics/hasinas-supporters-launch-insurgency-destabilise-government-nyt-1611006",
-      "pubDate": "Sun, 22 Nov 2026 23:50 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/19/untitled-1.jpg",
-      "snippet": "Citing police, the report said at least four people had been killed in the violence, including three members of the BNP and its affiliated organisations and a bus helper who died in an arson attack."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/08/aminul_haque_1.png",
+      "snippet": "Tarique scheduled to hold meeting with NCP today."
     },
     {
       "title": "9 global labour groups urge Bangladesh to set RMG minimum wage at living level",
@@ -140,74 +272,8 @@
       "color": "#f57c00",
       "bg": "#fff3e0",
       "icon": "🏭",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2022/01/17/622jqhh6uzmpjo2mjacpexiov4.jpg",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/23/926935187_1495629055842605_6784766699675815089_n.jpg",
       "snippet": "Founded by entrepreneur Hameed Hasan Alvee, the company produces recycled polyethylene terephthalate (PET) flakes, which are exported to Spain, Italy, Germany and Lithuania."
-    },
-    {
-      "title": "AL leaders visit Petrapole border to assess possible route for Hasina's return: Indian media",
-      "link": "https://www.tbsnews.net/bangladesh/al-leaders-visit-petrapole-border-assess-possible-route-hasinas-return-indian-media",
-      "pubDate": "Sun, 22 Nov 2026 23:35 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2024/12/04/petrapole.jpg",
-      "snippet": "Indian media reports say a delegation of senior Awami League leaders is also expected to visit the India-Bangladesh border at Agartala."
-    },
-    {
-      "title": "RMG net earnings rebound 11.20% in Jul-Sep, but mounting pressures threaten orders",
-      "link": "https://www.tbsnews.net/economy/rmg/rmg-net-earnings-rebound-1120-jul-sep-mounting-pressures-threaten-orders-1610976",
-      "pubDate": "Sun, 22 Nov 2026 23:25 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/16/rmg_rajib-dhar.png",
-      "snippet": "RMG net earnings rebound 11.20% in Jul-Sep, but mounting pressures threaten orders."
-    },
-    {
-      "title": "Relatives of slain BNP leaders behind Narail arson, looting: Police",
-      "link": "https://www.tbsnews.net/bangladesh/law-order/relatives-slain-bnp-leaders-behind-narail-arson-looting-police-1610971",
-      "pubDate": "Sun, 22 Nov 2026 23:20 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/22/narail_arson.jpg",
-      "snippet": "Police say relatives and supporters of two BNP leaders killed in clashes torched homes belonging to six families and looted valuables in alleged retaliatory attacks in Kalia."
-    },
-    {
-      "title": "Owners may table wage proposal at Monday's meeting as RMG unrest nears 3 weeks",
-      "link": "https://www.tbsnews.net/economy/rmg/owners-may-table-wage-proposal-mondays-meeting-rmg-unrest-nears-3-weeks-1610966",
-      "pubDate": "Sun, 22 Nov 2026 22:05 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/08/rmg_1.jpg",
-      "snippet": "Workers have proposed Tk32,000 against the existing Tk12,500; BGMEA and BKMEA leaders say owners will also propose regular wage adjustment on a set benchmark."
-    },
-    {
-      "title": "Lighter vessel sinks at Chattogram Port outer anchorage while loading soda ash",
-      "link": "https://www.tbsnews.net/bangladesh/lighter-vessel-sinks-chattogram-port-outer-anchorage-while-loading-soda-ash-1610951",
-      "pubDate": "Sun, 22 Nov 2026 21:45 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/05/ctg_port_6.jpg",
-      "snippet": "MV Balasur-1 sank at Alpha Anchorage after tilting during a loading operation; all crew members were rescued, port officials say."
-    },
-    {
-      "title": "Ducsu leader Musaddiq names 19 over attack on family home in Gopalganj",
-      "link": "https://www.tbsnews.net/bangladesh/ducsu-leader-musaddiq-names-19-over-attack-family-home-gopalganj-1610941",
-      "pubDate": "Sun, 22 Nov 2026 21:40 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/22/musaddiq_press.jpg",
-      "snippet": "Musaddiq Ali Ibne Mohammad accuses former minister Faruk Khan and Tania Haque Shova of ordering the attack."
     },
     {
       "title": "Matin Spinning vice chairman to buy 10.24 lakh shares worth Tk13.5cr",
@@ -235,34 +301,12 @@
       "title": "BSEC orders fresh probe into DSE’s delisting recommendation for Excelsior Shoes",
       "link": "https://www.tbsnews.net/economy/stocks/bsec-orders-fresh-probe-dses-delisting-recommendation-excelsior-shoes-1610931",
       "pubDate": "Sun, 22 Nov 2026 21:30 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/25/gemini_generated_image_sjihexsjihexsjih.jpg",
       "snippet": "The regulator has asked the DSE to submit a supplementary, evidence-based report within 10 working days after 5 November."
-    },
-    {
-      "title": "DSE stocks rally as turnover jumps 63% to nearly four-month high",
-      "link": "https://www.tbsnews.net/economy/stocks/dse-stocks-rally-turnover-jumps-63-nearly-four-month-high-1610926",
-      "pubDate": "Sun, 22 Nov 2026 21:30 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/07/dse.jpg",
-      "snippet": "Turnover rose 63% to Tk1,220 crore, the highest in nearly four months, as the DSEX gained 59 points to close at 5,565."
-    },
-    {
-      "title": "Landlords will face legal action if they raise rents alongside garment wages: State minister",
-      "link": "https://www.tbsnews.net/bangladesh/landlords-will-face-legal-action-if-they-raise-rents-alongside-garment-wages-state",
-      "pubDate": "Sun, 22 Nov 2026 21:25 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/22/mir_shahe_alam.png",
-      "snippet": "Mir Shahe Alam urges local authorities to hold meetings with landlords in industrial areas to discourage simultaneous rent hikes after the new wage structure is announced"
     },
     {
       "title": "ICJ verdict raises hope, but Rohingya future uncertain",
@@ -659,29 +703,7 @@
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/16/rmg_rajib-dhar.png",
       "snippet": "The latest additions have taken the country's total number of LEED-certified green factories to 302, the highest globally."
-    },
-    {
-      "title": "Success without reform",
-      "link": "https://www.tbsnews.net/economy/success-without-reform-1608471",
-      "pubDate": "Fri, 20 Nov 2026 11:30 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/20/c765af05-4f6d-44ab-b2f7-3e60674fe225.png",
-      "snippet": "Record remittance inflows hide a migration system still broken by high fees, syndicates, and weak institutions."
-    },
-    {
-      "title": "Capital shortfall at 22 banks exceeds Tk3 lakh crore in June",
-      "link": "https://www.tbsnews.net/economy/banking/capital-shortfall-22-banks-exceeds-tk3-lakh-crore-june-1608456",
-      "pubDate": "Fri, 20 Nov 2026 09:30 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2020/05/15/banking_sector_0.jpg",
-      "snippet": "Mounting bad loans erode banks' capital and weaken their lending capacity."
     }
   ],
-  "updatedAt": "2026-11-22T23:43:26.527Z"
+  "updatedAt": "2026-11-23T05:59:52.085Z"
 }
