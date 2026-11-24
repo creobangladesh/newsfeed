@@ -1,169 +1,290 @@
 {
   "news": [
     {
-      "title": "Shafiqur leaves Australia for home, cancels Malaysia trip",
-      "link": "https://www.tbsnews.net/bangladesh/politics/shafiqur-leaves-australia-home-cancels-malaysia-trip-1612946",
-      "pubDate": "Tue, 24 Nov 2026 20:15 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/24/sahfiqur_australia.jpeg",
-      "snippet": "Shafiqur says he suspended the planned one-day trip to Malaysia due to an urgent necessity, expressing hope of meeting expatriate Bangladeshis there in the near future."
-    },
-    {
-      "title": "Bangladesh's export receipts from Germany, France fall by nearly $678m in FY26",
-      "link": "https://www.tbsnews.net/economy/bangladeshs-export-receipts-germany-france-fall-nearly-678m-fy26-1612941",
-      "pubDate": "Tue, 24 Nov 2026 20:15 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/24/bangladesh-export.jpg",
-      "snippet": "Garment shipments drove much of the decline, while overall export receipts from the European Union fell 2.7% to $19.72 billion."
-    },
-    {
-      "title": "Crude bomb explodes behind Khilgaon Police Station; suspect held",
-      "link": "https://www.tbsnews.net/bangladesh/crude-bomb-explodes-near-khilgaon-police-station-suspect-held-1612961",
-      "pubDate": "Tue, 24 Nov 2026 20:15 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/10/crude_bomb.jpg",
-      "snippet": "The explosion occurred around 6:30pm on the tin roof behind the women and children service desk of the station."
-    },
-    {
-      "title": "Factories scale back hiring as industrial activity remains stagnant: Survey",
-      "link": "https://www.tbsnews.net/economy/factories-scale-back-hiring-industrial-activity-remains-stagnant-survey-1612956",
-      "pubDate": "Tue, 24 Nov 2026 20:15 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/15/photo_salahuddin_ahmed.jpg",
-      "snippet": "A BIDS-BCI survey finds output down 0.4% year-on-year, with 93% of factories citing energy shortages among their top business constraints and machinery investment plunging 94%."
-    },
-    {
-      "title": "174 Bangladeshis return home from Libya",
-      "link": "https://www.tbsnews.net/bangladesh/174-bangladeshis-return-home-libya-1612931",
-      "pubDate": "Tue, 24 Nov 2026 20:10 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/07/07/libya_repatriate_0.jpg",
-      "snippet": "According to the ministry, most of the returnees had entered Libya with the encouragement and assistance of human traffickers, hoping to reach Europe illegally by crossing the Mediterranean Sea."
-    },
-    {
-      "title": "Bangladesh's first AI bulletin 'AI for the Global South' launched",
-      "link": "https://www.tbsnews.net/bangladesh/bangladeshs-first-ai-bulletin-ai-global-south-launched-1612921",
-      "pubDate": "Tue, 24 Nov 2026 20:05 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/24/ai_event.jpeg",
-      "snippet": "The bulletin is a joint initiative of the Eelaia Foundation, the Centre for Alternatives and Argus Diplomatic Intelligence."
-    },
-    {
-      "title": "IDRA suspends marine cargo business of Green Delta, BGIC for 3 months",
-      "link": "https://www.tbsnews.net/economy/idra-suspends-marine-cargo-business-green-delta-bgic-3-months-1612906",
-      "pubDate": "Tue, 24 Nov 2026 20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/14/idra_0.jpg",
-      "snippet": "Suspension took effect on 5 November over insurance law violations"
-    },
-    {
-      "title": "Bangladesh, UAE seek stronger bilateral, multilateral cooperation ties",
-      "link": "https://www.tbsnews.net/foreign-policy/bangladesh-uae-seek-stronger-bilateral-multilateral-cooperation-ties-1612901",
-      "pubDate": "Tue, 24 Nov 2026 19:55 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/24/image-449708-1795528067.jpg",
-      "snippet": "The two foreign ministers discussed opportunities to enhance collaboration on multilateral initiatives and promote closer engagement on matters of shared international concern."
-    },
-    {
-      "title": "Production halted at 481 garment factories amid minimum wage negotiations",
-      "link": "https://www.tbsnews.net/economy/rmg/production-halted-481-garment-factories-amid-minimum-wage-negotiations-1612891",
-      "pubDate": "Tue, 24 Nov 2026 19:55 +0600",
+      "title": "Wage board fixes Tk17,000 minimum wage for garment workers, up 36%",
+      "link": "https://www.tbsnews.net/economy/rmg/wage-board-fixes-tk17000-minimum-wage-garment-workers-36-1613156",
+      "pubDate": "Wed, 25 Nov 2026 03:15 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/04/factory-closure_0.jpg",
-      "snippet": "Factory owners proposed a minimum monthly wage of Tk15,700, against workers' demand for Tk22,000."
+      "snippet": "Labour ministry will make final decision and can increase rates before issuing official notification."
     },
     {
-      "title": "ACC charges ex-MP Mostafizur, wife over Tk 2.38cr illegal wealth ",
-      "link": "https://www.tbsnews.net/bangladesh/corruption/acc-charges-ex-mp-mostafizur-wife-over-tk-238cr-illegal-wealth-1612886",
-      "pubDate": "Tue, 24 Nov 2026 19:55 +0600",
+      "title": "Gazipur RMG workers protest over rumour of colleague's death; 'dead' woman turns up alive",
+      "link": "https://www.tbsnews.net/bangladesh/gazipur-rmg-workers-protest-over-rumour-colleagues-death-dead-woman-turns-alive-1613151",
+      "pubDate": "Wed, 25 Nov 2026 01:20 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/10/acc-tbs.jpg",
-      "snippet": "The commission also found evidence of suspicious transactions worth Tk3.16 crore through six bank accounts."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/25/4efff777-88f9-463a-8380-d24e07a7dd42.jpg",
+      "snippet": "More than 250 workers gathered outside Fin Bangla Apparels after rumours spread that a female worker had died following a scuffle at the factory."
     },
     {
-      "title": "Ctg City Corporation plans separate lane for heavy port vehicles, concrete roads and utility duct",
-      "link": "https://www.tbsnews.net/bangladesh/ctg-city-corporation-plans-separate-lane-heavy-port-vehicles-concrete-roads-and-utility",
-      "pubDate": "Tue, 24 Nov 2026 19:50 +0600",
+      "title": "President urges Vietnam to increase imports of Bangladeshi products, boost investment",
+      "link": "https://www.tbsnews.net/foreign-policy/president-urges-vietnam-increase-imports-bangladeshi-products-boost-investment",
+      "pubDate": "Wed, 25 Nov 2026 00:40 +0600",
       "category": "Bangladesh",
       "color": "#0288d1",
       "bg": "#e1f5fe",
       "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/02/05/chattogram-port.png",
-      "snippet": "The plans also include a modern roundabout at the city’s Saltgola Crossing to ease traffic congestion and improve cargo movement through the port."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/25/11a29658-30b1-46a1-aa49-6a2e62fadf73.jpg",
+      "snippet": "The president thanked Vietnam for allowing Bangladeshi exporters to export potatoes to the country since March this year."
     },
     {
-      "title": "Eighth consignment of uranium reaches Rooppur nuclear power plant",
+      "title": "NBR freezes bank accounts of 97 individuals, 4 firms over funding of Gopalganj violence",
+      "link": "https://www.tbsnews.net/nbr/nbr-freezes-bank-accounts-97-individuals-4-firms-over-funding-gopalganj-violence-1613136",
+      "pubDate": "Wed, 25 Nov 2026 00:35 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/16/unf8rq1f.jpg",
+      "snippet": "Those whose accounts have been frozen include former health secretary Sirajul Haque Khan and his wife, as well as former leaders of the activity-banned Awami League from Gopalganj and its different upazilas."
+    },
+    {
+      "title": "Bangladesh, Malta rowing federations agree on technical cooperation",
+      "link": "https://www.tbsnews.net/foreign-policy/bangladesh-malta-rowing-federations-agree-technical-cooperation-1613131",
+      "pubDate": "Wed, 25 Nov 2026 00:30 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/25/1ebc801d-2f6a-426b-a5e3-ce4b3001f768.jpg",
+      "snippet": "​Drawing on Malta’s 450-year rowing heritage, the Malta Rowing Federation agreed to provide institutional and technical support to the Bangladeshi federation."
+    },
+    {
+      "title": "Khulna sees six shooting incidents in a day, leaving former AL leader dead",
+      "link": "https://www.tbsnews.net/bangladesh/crime/khulna-sees-six-shooting-incidents-day-leaving-former-al-leader-dead-1613126",
+      "pubDate": "Wed, 25 Nov 2026 00:20 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/03/gunshot.jpg",
+      "snippet": "A separate report of a gunshot-like sound near Sonali Jute Mills remained unconfirmed."
+    },
+    {
+      "title": "Six shot in Fatikchhari: Police link listed criminal Raihan to attack; he claims self-defence",
+      "link": "https://www.tbsnews.net/bangladesh/crime/six-shot-fatikchhari-police-link-listed-criminal-raihan-attack-he-claims-self",
+      "pubDate": "Tue, 24 Nov 2026 23:55 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/25/mohammad_raihan_alam.jpg",
+      "snippet": "Raihan, who remains at large, admits opening fire but claims he acted in self-defence after a group of BNP leaders tried to stop his vehicle."
+    },
+    {
+      "title": "Bachelor's degree mandatory for heads of private educational institutions' governing bodies",
+      "link": "https://www.tbsnews.net/bangladesh/education/bachelors-degree-mandatory-heads-private-educational-institutions-governing",
+      "pubDate": "Tue, 24 Nov 2026 23:50 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/03/15/image-300109-1754713315.jpg",
+      "snippet": "However, the government may relax the requirement for individuals who have made special contributions to the expansion and development of education."
+    },
+    {
+      "title": "NEIR could be a goldmine for Bangladesh’s digital policymaking",
+      "link": "https://www.tbsnews.net/thoughts/neir-could-be-goldmine-bangladeshs-digital-policymaking-1613106",
+      "pubDate": "Tue, 24 Nov 2026 22:10 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/24/growth_story_supplement.jpg",
+      "snippet": "Bangladesh’s National Equipment Identity Register (NEIR) could provide Bangladesh with real-time, granular data on smartphone ownership and distribution, enabling evidence-based policymaking on digital affordability, telecom infrastructure investment..."
+    },
+    {
+      "title": "'Jailed for 18 years over mistaken identity in India': Badal Farazi returns home on 4-week parole",
+      "link": "https://www.tbsnews.net/bangladesh/badal-farazi-returns-home-four-week-parole-after-18-years-jail-1613096",
+      "pubDate": "Tue, 24 Nov 2026 22:05 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/04/07/badal_farazi.png",
+      "snippet": "His family had spent years seeking his release, while his father died searching for him and his seriously ill mother is now hoping to see him again."
+    },
+    {
+      "title": "Listed firms offering 5% cash dividend can now hold digital AGMs",
+      "link": "https://www.tbsnews.net/economy/stocks/listed-firms-offering-5-cash-dividend-can-now-hold-digital-agms-1613086",
+      "pubDate": "Tue, 24 Nov 2026 21:50 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/01/29/cash_dividend.jpg",
+      "snippet": "The facility is limited to companies that remain in the 'A' category or declare at least a 5% cash dividend, while three companies seeking approval do not meet the threshold."
+    },
+    {
+      "title": "First flight carrying 112 workers to Malaysia free of cost on Thursday",
+      "link": "https://www.tbsnews.net/bangladesh/migration/first-flight-carrying-112-workers-malaysia-free-cost-thursday-1613081",
+      "pubDate": "Tue, 24 Nov 2026 21:45 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/24/img_1223.jpeg",
+      "snippet": "The flight, operated by Biman Bangladesh Airlines, will depart Hazrat Shahjalal International Airport at 7pm for Kuala Lumpur."
+    },
+    {
+      "title": "KMP commissioner, 13 other senior police officials transferred",
+      "link": "https://www.tbsnews.net/bangladesh/kmp-commissioner-13-other-senior-police-officials-transferred-1613071",
+      "pubDate": "Tue, 24 Nov 2026 21:45 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/21/police_1.jpg",
+      "snippet": "The reshuffle includes the transfer of the KMP chief to the CID and appointments to several other police units across the country."
+    },
+    {
+      "title": "Lovello director’s brother fined Tk10 lakh over share manipulation",
+      "link": "https://www.tbsnews.net/economy/stocks/lovello-directors-brother-fined-tk10-lakh-over-share-manipulation-1613056",
+      "pubDate": "Tue, 24 Nov 2026 21:40 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/10/12/lovello_ice_cream.png",
+      "snippet": ""
+    },
+    {
+      "title": "2 die after inhaling toxic gas in Satkhira septic tank",
+      "link": "https://www.tbsnews.net/bangladesh/2-die-after-inhaling-toxic-gas-satkhira-septic-tank-1613061",
+      "pubDate": "Tue, 24 Nov 2026 21:40 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/21/dead_2.jpg",
+      "snippet": "Local people said Mahananda went to the septic tank of one Ashraf for cleaning it and died on the spot after inhaling toxic gas."
+    },
+    {
+      "title": "5 killed as bus collides with auto-rickshaw in Cox's Bazar",
+      "link": "https://www.tbsnews.net/bangladesh/5-killed-1-injured-bus-collides-auto-rickshaw-coxs-bazar-1613046",
+      "pubDate": "Tue, 24 Nov 2026 21:35 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/24/930853764_29792834766974844_2371507511432463011_n.png",
+      "snippet": "All six victims were travelling in the auto-rickshaw when it collided with the bus on the Cox's Bazar-Chattogram highway."
+    },
+    {
+      "title": "PM returns to Dhaka after witnessing joint special forces exercise at Swarnadwip",
+      "link": "https://www.tbsnews.net/bangladesh/pm-returns-dhaka-after-witnessing-joint-special-forces-exercise-swarnadwip-1613051",
+      "pubDate": "Tue, 24 Nov 2026 21:35 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/15/6b8a0530-5bd3-4bda-a951-5daa99fc6fc7.jpg",
+      "snippet": "The helicopter carrying the Prime Minister landed at Tejgaon Airport at 5pm"
+    },
+    {
+      "title": "Coast Guard detains 101 fishermen, seizes 13.2 tonnes of fish near Saint Martin's",
+      "link": "https://www.tbsnews.net/bangladesh/coast-guard-detains-101-fishermen-seizes-132-tonnes-fish-near-saint-martins-1613041",
+      "pubDate": "Tue, 24 Nov 2026 21:30 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/24/coast_guard_saint_martin.jpg",
+      "snippet": "Five illegal trawlers and 28 fishing nets were seized during an operation 20 nautical miles southwest of the island."
+    },
+    {
+      "title": "Large-firm linkages key to expanding CMSME exports: Experts",
+      "link": "https://www.tbsnews.net/economy/large-firm-linkages-key-expanding-cmsme-exports-experts-1613036",
+      "pubDate": "Tue, 24 Nov 2026 21:20 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/24/cmsme.jpeg",
+      "snippet": "Speakers call for stronger linkages between large industries and CMSMEs to help small businesses overcome export barriers and access international markets."
+    },
+    {
+      "title": "Journalists' independent feedback vital for better policymaking: Finance minister",
+      "link": "https://www.tbsnews.net/bangladesh/journalists-independent-feedback-vital-better-policymaking-finance-minister-1613031",
+      "pubDate": "Tue, 24 Nov 2026 21:20 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/24/nagad_dru.jpg",
+      "snippet": "He cautioned that govt attempts to control media might work temporarily but cannot ensure sustainable governance."
+    },
+    {
+      "title": "Bhola records highest fertility rate, Bagerhat lowest: BBS survey",
+      "link": "https://www.tbsnews.net/bangladesh/health/bhola-records-highest-fertility-rate-bagerhat-lowest-bbs-survey-1613021",
+      "pubDate": "Tue, 24 Nov 2026 21:05 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/08/08/newborn-1399155_1920_1.jpg",
+      "snippet": "47.2% of women married off before 18, Joypurhat tops at 73.3%."
+    },
+    {
+      "title": "DU suspends 2 teachers for staying abroad without permission",
+      "link": "https://www.tbsnews.net/bangladesh/education/du-suspends-2-teachers-staying-abroad-without-permission-1613016",
+      "pubDate": "Tue, 24 Nov 2026 21:00 +0600",
+      "category": "Education",
+      "color": "#e65100",
+      "bg": "#fff3e0",
+      "icon": "🎓",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/10/16/image.png",
+      "snippet": "Syndicate also decides to frame charges against two professors over allegations related to the July Uprising."
+    },
+    {
+      "title": "Factories scale back hiring as industrial activity remains stagnant: Survey",
+      "link": "https://www.tbsnews.net/economy/factories-scale-back-hiring-industrial-activity-remains-stagnant-survey-1612956",
+      "pubDate": "Tue, 24 Nov 2026 20:15 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/15/photo_salahuddin_ahmed.jpg",
+      "snippet": "A BIDS-BCI survey finds output down 0.4% year-on-year, with 93% of factories citing energy shortages among their top business constraints and machinery investment plunging 94%."
+    },
+    {
+      "title": "Bangladesh's export receipts from Germany, France fall by nearly $678m in FY26",
+      "link": "https://www.tbsnews.net/economy/bangladeshs-export-receipts-germany-france-fall-nearly-678m-fy26-1612941",
+      "pubDate": "Tue, 24 Nov 2026 20:15 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/24/bangladesh-export.jpg",
+      "snippet": "Garment shipments drove much of the decline, while overall export receipts from the European Union fell 2.7% to $19.72 billion."
+    },
+    {
+      "title": "IDRA suspends marine cargo business of Green Delta, BGIC for 3 months",
+      "link": "https://www.tbsnews.net/economy/idra-suspends-marine-cargo-business-green-delta-bgic-3-months-1612906",
+      "pubDate": "Tue, 24 Nov 2026 20:00 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/14/idra_0.jpg",
+      "snippet": "Suspension took effect on 5 November over insurance law violations"
+    },
+    {
+      "title": "Eighth consignment of uranium reaches Rooppur Nuclear Power Plant",
       "link": "https://www.tbsnews.net/economy/energy/eighth-consignment-uranium-reaches-rooppur-nuclear-power-plant-1612876",
       "pubDate": "Tue, 24 Nov 2026 19:45 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/23/rooppur_1.jpg",
       "snippet": "Built with Russia's latest technology, the Rooppur Nuclear Power Plant has two VVER-1200 units, each with a generation capacity of 1,200 megawatts."
-    },
-    {
-      "title": "Jamaat announces protests over AL violence",
-      "link": "https://www.tbsnews.net/bangladesh/politics/jamaat-announces-protests-over-al-violence-1612866",
-      "pubDate": "Tue, 24 Nov 2026 19:40 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/12/14/porwar.png",
-      "snippet": "Porwar says the demonstrations will also be held to press for the implementation of the seven-point demand of the 11-party alliance."
-    },
-    {
-      "title": "Joint special forces exercise demonstrates military's readiness to face any challenge: PM",
-      "link": "https://www.tbsnews.net/bangladesh/joint-special-forces-exercise-demonstrates-militarys-readiness-face-any-challenge-pm",
-      "pubDate": "Tue, 24 Nov 2026 19:40 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/24/pm_tarique2.jpg",
-      "snippet": "Special forces from the Army, Navy and Air Force took part in the exercise together for the first time, showcasing their coordination and operational capabilities."
-    },
-    {
-      "title": "Ensure Information Commission's independence, parity for commissioners with SC judges: RTI Forum",
-      "link": "https://www.tbsnews.net/bangladesh/ensure-information-commissions-independence-parity-commissioners-sc-judges-rti-forum",
-      "pubDate": "Tue, 24 Nov 2026 19:35 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/24/rti_forum_pr.jpg",
-      "snippet": "Forum calls for adequate staffing, budgetary support and a full-time secretary to strengthen the commission's independence and quasi-judicial functions."
     },
     {
       "title": "Bangladesh Bank clarifies cash assistance for fabric toy, tent exports",
@@ -177,48 +298,15 @@
       "snippet": "Exporters of fabric-made toys and tents will receive incentives at specified rates under an existing circular, with other conditions unchanged."
     },
     {
-      "title": "Home minister urges Canada to recruit skilled Bangladeshi workers",
-      "link": "https://www.tbsnews.net/foreign-policy/home-minister-urges-canada-recruit-skilled-bangladeshi-workers-1612851",
-      "pubDate": "Tue, 24 Nov 2026 19:20 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/24/image-449655-1795524925.jpg",
-      "snippet": "During the meeting, the home minister highlighted Bangladesh's substantial pool of trained and skilled professionals in nursing, medical technology, home care, marine cadet and hospitality sectors."
-    },
-    {
-      "title": "Former Jashore-6 MP Azizul Islam sent to jail in explosives case",
-      "link": "https://www.tbsnews.net/bangladesh/former-jashore-6-mp-azizul-islam-sent-jail-explosives-case-1612841",
-      "pubDate": "Tue, 24 Nov 2026 19:15 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/23/azizul_hakim.jpg",
-      "snippet": "He was arrested in Lalmatia over an alleged plan to carry out sabotage in Mohammadpur."
-    },
-    {
       "title": "Incepta launches Bangladesh's first self-injectable contraceptive for women",
       "link": "https://www.tbsnews.net/bangladesh/health/bangladesh-launches-first-self-injectable-contraceptive-women-1612836",
       "pubDate": "Tue, 24 Nov 2026 19:15 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/24/medogen.jpg",
       "snippet": "Incepta says Medogen SubQ, administered once every three months, offers women a more convenient birth control option."
-    },
-    {
-      "title": "National Museum's 'Nazrul Corner' to reopen after 15 years of closure",
-      "link": "https://www.tbsnews.net/bangladesh/national-museums-nazrul-corner-reopen-after-15-years-closure-1612831",
-      "pubDate": "Tue, 24 Nov 2026 19:05 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/24/image-449639-1795523896.jpeg",
-      "snippet": "Tanzim Wahab, said, ‘I hope we will be able to reopen the 'Nazrul Corner' in a new format in December or January.'"
     },
     {
       "title": "Real appreciation of Taka is hurting exports",
@@ -235,10 +323,10 @@
       "title": "Medicine allocation for non-communicable disease corners should rise to Tk5,000cr: MA Muhit",
       "link": "https://www.tbsnews.net/bangladesh/health/medicine-allocation-non-communicable-disease-corners-should-rise-tk5000cr-ma-muhit",
       "pubDate": "Tue, 24 Nov 2026 18:45 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/24/muhit.jpeg",
       "snippet": "13.9 million adults in Bangladesh have diabetes, 5.4 million undiagnosed."
     },
@@ -251,7 +339,7 @@
       "bg": "#e0f2f1",
       "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/24/padma-bank-bb.jpg",
-      "snippet": "Move under the Bank Resolution Act 2026 aims to restore governance, protect depositors and rebuild public confidence."
+      "snippet": "Central bank is yet to decide whether to recapitalise, merge or liquidate the lender, with a further decision expected within a month."
     },
     {
       "title": "Govt plans free education up to Class 8 from next FY: Mahdi Amin",
@@ -287,7 +375,7 @@
       "snippet": "A total of 1,145 new dengue patients were hospitalised across the country in the 24 hours."
     },
     {
-      "title": "BSEC to cut SME board trading threshold to Tk10 lakh from Tk30 lakh",
+      "title": "BSEC slashes SME investor portfolio threshold by two-thirds to Tk10 lakh",
       "link": "https://www.tbsnews.net/economy/stocks/bsec-cut-sme-board-trading-threshold-tk10-lakh-tk30-lakh-1612566",
       "pubDate": "Tue, 24 Nov 2026 16:35 +0600",
       "category": "Economy",
@@ -295,7 +383,7 @@
       "bg": "#e8f5e9",
       "icon": "📈",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/10/18/bsec_stock.jpg",
-      "snippet": "Commission reverses its May decision, with the revised threshold to take effect after issuance of an amended directive."
+      "snippet": "The latest move reverses a decision made on 19 May, when the commission restored the Tk30 lakh minimum requirement after lowering it to Tk10 lakh in January."
     },
     {
       "title": "Stamford University leaders meet president at Bangabhaban",
@@ -375,8 +463,8 @@
       "snippet": "Reforming the 1973 press law should go beyond simplifying registration to protect the right to publish, ensure ownership transparency and editorial independence, and support the media industry’s professional and economic development"
     },
     {
-      "title": "BB to issue Tk32,000cr Sukuk in FY27 to ease Islamic banks' liquidity crunch",
-      "link": "https://www.tbsnews.net/economy/banking/bb-issue-tk32000cr-sukuk-fy27-ease-islamic-banks-liquidity-crunch-1612261",
+      "title": "BB to Issue Tk32,000cr Sukuk in FY27 to strengthen Islamic banking liquidity",
+      "link": "https://www.tbsnews.net/economy/banking/bb-issue-tk32000cr-sukuk-fy27-strengthen-islamic-banking-liquidity-1612261",
       "pubDate": "Tue, 24 Nov 2026 11:35 +0600",
       "category": "Economy",
       "color": "#2e7d32",
@@ -540,17 +628,6 @@
       "snippet": "The cumulative number of measles-related deaths has reached 1,352."
     },
     {
-      "title": "RMG workers, owners agree to make concessions in bid to finalise wage",
-      "link": "https://www.tbsnews.net/economy/rmg/rmg-workers-demand-tk30000-minimum-wage-wage-board-holds-third-meeting-1611381",
-      "pubDate": "Mon, 23 Nov 2026 14:05 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/04/factory-closure_0.jpg",
-      "snippet": "Owners submit wage proposal, but board keeps it confidential."
-    },
-    {
       "title": "The global climate relay race: An intergenerational commitment to environmental education, responsible practices, and climate-friendly lifestyles",
       "link": "https://www.tbsnews.net/thoughts/global-climate-relay-race-intergenerational-commitment-environmental-education-responsible",
       "pubDate": "Mon, 23 Nov 2026 13:50 +0600",
@@ -598,10 +675,10 @@
       "title": "Defaulted loans rise to Tk6.27 lakh crore, nearly 34% of total loans",
       "link": "https://www.tbsnews.net/economy/banking/defaulted-loans-rise-tk627-lakh-crore-nearly-34-total-loans-1611196",
       "pubDate": "Mon, 23 Nov 2026 11:35 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
+      "category": "Banking",
+      "color": "#00796b",
+      "bg": "#e0f2f1",
+      "icon": "🏦",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/16/default_loan_cartoon_1.jpg",
       "snippet": "Bankers attributed the rise to deteriorating business conditions, high interest rates, the dollar's appreciation and the energy crisis, which have made it difficult for many businesses to repay loans"
     },
@@ -758,29 +835,7 @@
       "icon": "🎓",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/22/918821559_1164218719883163_921156528061579701_n.jpg",
       "snippet": "Milon also questions research funding and urges industry-focused education."
-    },
-    {
-      "title": "Distressed asset management law could help ease banks' bad loan burden: Experts",
-      "link": "https://www.tbsnews.net/economy/banking/distressed-asset-management-law-could-help-ease-banks-bad-loan-burden-experts",
-      "pubDate": "Sat, 21 Nov 2026 22:00 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/21/draft_laws_roundtable.jpg",
-      "snippet": "The proposed law aims to attract private investors to acquire distressed bank assets without requiring government funding, but experts stress that proper safeguards and accountability will be crucial."
-    },
-    {
-      "title": "Cenbank orders StanChart to retain employees’ 5% profit share as retained earnings",
-      "link": "https://www.tbsnews.net/economy/banking/cenbank-orders-stanchart-retain-employees-5-profit-share-retained-earnings-1609901",
-      "pubDate": "Sat, 21 Nov 2026 21:45 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/21/813804266_2047225876666303_2123854374973384758_n.png",
-      "snippet": "The central bank says the amount must remain reserved until legal complications over employees’ eligibility for the profit-sharing benefit are resolved."
     }
   ],
-  "updatedAt": "2026-11-24T14:35:34.964Z"
+  "updatedAt": "2026-11-24T23:46:08.900Z"
 }
