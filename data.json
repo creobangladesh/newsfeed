@@ -1,6 +1,127 @@
 {
   "news": [
     {
+      "title": "US proposes surprise new tariffs on Brazil imports, including 10% duty on aircraft",
+      "link": "https://www.tbsnews.net/world/us-proposes-surprise-new-tariffs-brazil-imports-including-10-duty-aircraft-1614251",
+      "pubDate": "Thu, 26 Nov 2026 07:40 +0600",
+      "category": "Economy",
+      "color": "#2e7d32",
+      "bg": "#e8f5e9",
+      "icon": "📈",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/26/img_7718.jpeg",
+      "snippet": "Brazil’s government said Washington’s announcement was unacceptable and aimed to pressure Brazil into changing its regulatory measures."
+    },
+    {
+      "title": "BB turns to dollar swaps with commercial banks to stabilise exchange rate",
+      "link": "https://www.tbsnews.net/economy/banking/bb-turns-dollar-swaps-commercial-banks-stabilise-exchange-rate-1614241",
+      "pubDate": "Thu, 26 Nov 2026 07:20 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/29/untitled_design_14.jpg",
+      "snippet": "Bankers say the central bank has taken the initiative to increase dollar supply through swaps as commercial banks face heavy pressure to meet government letter of credit (LC) payments."
+    },
+    {
+      "title": "Reports of fire at Bogura BNP office are rumours, say party leaders",
+      "link": "https://www.tbsnews.net/bangladesh/politics/reports-fire-bogura-bnp-office-are-rumours-say-party-leaders-1614226",
+      "pubDate": "Thu, 26 Nov 2026 01:50 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/08/03/bnp_logo.png",
+      "snippet": "Police say they have received no specific complaint from the upazila BNP and have not yet identified anyone."
+    },
+    {
+      "title": "Sedition case: CMP seizes 2 phones of ex-SP Jahangir, seeks forensic examination",
+      "link": "https://www.tbsnews.net/bangladesh/sedition-case-cmp-seizes-2-phones-ex-sp-jahangir-seeks-forensic-examination-1614211",
+      "pubDate": "Thu, 26 Nov 2026 00:55 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/15/rrf_sp_1.jpg",
+      "snippet": "The phones were seized earlier and sent to the Special Branch in Dhaka; police will seek court permission to send them for forensic examination."
+    },
+    {
+      "title": "Jubo Dal's Noyan hands over AL activist to police after serving him fruit, cheese",
+      "link": "https://www.tbsnews.net/bangladesh/politics/jubo-dals-noyan-hands-over-al-activist-police-after-serving-him-fruit-cheese",
+      "pubDate": "Thu, 26 Nov 2026 00:35 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/26/noyon.png",
+      "snippet": "Jubo Dal leader Robiul Islam Noyan said he caught Rahmatullah, a Jubo League ward-level leader, while he was allegedly planning sabotage and handed him over to police."
+    },
+    {
+      "title": "Cancer, kidney and heart disease hospital project cost rises by Tk1,099cr",
+      "link": "https://www.tbsnews.net/bangladesh/health/cancer-kidney-and-heart-disease-hospital-project-cost-rises-tk1099cr-1614201",
+      "pubDate": "Thu, 26 Nov 2026 00:30 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/26/rising_hospital_construction_costs.png",
+      "snippet": "The project began in 2023 and was scheduled for completion in three years."
+    },
+    {
+      "title": "16 crude bombs recovered from CNG in Keraniganj; 2 AL activists held",
+      "link": "https://www.tbsnews.net/bangladesh/crime/16-crude-bombs-recovered-cng-keraniganj-2-al-activists-held-1614196",
+      "pubDate": "Thu, 26 Nov 2026 00:20 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/26/keraniganj.png",
+      "snippet": "Police say the two men were arrested at a checkpoint in Keraniganj, while a CID bomb disposal team later detonated the explosives safely"
+    },
+    {
+      "title": "CMP traffic sergeant suspended over alleged disobedience of superior's order",
+      "link": "https://www.tbsnews.net/bangladesh/cmp-traffic-sergeant-suspended-over-alleged-disobedience-superiors-order-1614186",
+      "pubDate": "Thu, 26 Nov 2026 00:15 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2021/03/02/suspended.jpg",
+      "snippet": "The sergeant has been attached to Dampara Police Lines."
+    },
+    {
+      "title": "Bangladesh lost $2.26b to tax abuse in 2023 alone, global study finds",
+      "link": "https://www.tbsnews.net/economy/bangladesh-lost-226b-tax-abuse-2023-alone-global-study-finds-1614181",
+      "pubDate": "Thu, 26 Nov 2026 00:05 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/26/bangladesh_tax_loss_warning_graphic.png",
+      "snippet": "The estimated revenue loss was also equivalent to 91% of a year’s average wages for all unemployed young people aged 15-24 in the country."
+    },
+    {
+      "title": "Narayanganj constable killing: 'Mastermind' among 6 arrested, 5 remanded for 5 days",
+      "link": "https://www.tbsnews.net/bangladesh/crime/narayanganj-constable-killing-mastermind-among-6-arrested-5-remanded-5-days-1614176",
+      "pubDate": "Thu, 26 Nov 2026 00:00 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/23/dead_constable.jpeg",
+      "snippet": "Narayanganj constable killing: ‘Mastermind’ among 6 arrested, 5 remanded for 5 days"
+    },
+    {
+      "title": "JU students block highway over alleged assault by army personnel",
+      "link": "https://www.tbsnews.net/bangladesh/ju-students-block-highway-over-alleged-assault-army-personnel-1614171",
+      "pubDate": "Wed, 25 Nov 2026 23:55 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/26/dhaka_aricha_road_blockade.jpg",
+      "snippet": "Students said they would continue the blockade until their demands were met and the incident was properly explained."
+    },
+    {
       "title": "Proposed law seeks RJSC power to share company data with foreign agencies",
       "link": "https://www.tbsnews.net/economy/proposed-law-seeks-rjsc-power-share-company-data-foreign-agencies-1614161",
       "pubDate": "Wed, 25 Nov 2026 23:50 +0600",
@@ -100,17 +221,6 @@
       "snippet": "17 platoons are operating in Gazipur and four in Narayanganj to maintain security in industrial zones"
     },
     {
-      "title": "Why is US proposing new tariffs on Bangladesh?",
-      "link": "https://www.tbsnews.net/explainer/why-us-proposing-new-tariffs-bangladesh-1614056",
-      "pubDate": "Wed, 25 Nov 2026 21:25 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/25/bd_us_tariff.jpeg",
-      "snippet": "Washington says Bangladesh’s industrial policies, export incentives and inadequate labour protections contribute to excess manufacturing capacity and restrict US commercial interests."
-    },
-    {
       "title": "ACC finds irregularities in Caab overtime bill records during probe",
       "link": "https://www.tbsnews.net/bangladesh/corruption/acc-finds-irregularities-caab-overtime-bill-records-during-probe-1614051",
       "pubDate": "Wed, 25 Nov 2026 21:25 +0600",
@@ -120,6 +230,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/25/388adc8c-0502-4f7c-a150-da19fcfb8686.jpg",
       "snippet": "The anti-graft agency also detected alleged overcharging at Cumilla Medical College Hospital and investigated complaints of bribery and harassment at a passport office and a union land office."
+    },
+    {
+      "title": "Why is US proposing new tariffs on Bangladesh?",
+      "link": "https://www.tbsnews.net/explainer/why-us-proposing-new-tariffs-bangladesh-1614056",
+      "pubDate": "Wed, 25 Nov 2026 21:25 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/25/bd_us_tariff.jpeg",
+      "snippet": "Washington says Bangladesh’s industrial policies, export incentives and inadequate labour protections contribute to excess manufacturing capacity and restrict US commercial interests."
     },
     {
       "title": "Ctg Customs withdraws directives on physical examination of goods",
@@ -133,114 +254,26 @@
       "snippet": "Traders warn the 14 directives would delay customs clearance, increase demurrage charges and raise the cost of doing business"
     },
     {
-      "title": "AL activist dies while making crude bombs in Chapainawabganj",
-      "link": "https://www.tbsnews.net/bangladesh/al-activist-dies-while-making-crude-bombs-chapainawabganj-1614026",
-      "pubDate": "Wed, 25 Nov 2026 21:05 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/25/crude.png",
-      "snippet": "Police say three to four others fled the scene in injured condition after the explosion beside a brickfield in Shibganj"
-    },
-    {
-      "title": "July fighters seek High Court order to dissolve, ban Awami League and affiliated groups",
-      "link": "https://www.tbsnews.net/bangladesh/court/july-fighters-seek-high-court-order-dissolve-ban-awami-league-and-affiliated-groups",
-      "pubDate": "Wed, 25 Nov 2026 20:50 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/19/high_courtt.png",
-      "snippet": "The petition also seeks removal of the party's social media content and material allegedly inciting violence, while allowing lawful news reports, academic reviews and criticism of the government."
-    },
-    {
       "title": "Drug administration directorate being overhauled to tackle antibiotic resistance: State minister",
       "link": "https://www.tbsnews.net/bangladesh/health/drug-administration-directorate-being-overhauled-tackle-antibiotic-resistance",
       "pubDate": "Wed, 25 Nov 2026 20:35 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/25/drugs.jpg",
       "snippet": "Around 1.25 lakh people in Bangladesh die every year because antibiotics become ineffective, posing a major threat to global public health."
-    },
-    {
-      "title": "President stresses cultivating patriotism among children ",
-      "link": "https://www.tbsnews.net/bangladesh/president-stresses-cultivating-patriotism-among-children-1614006",
-      "pubDate": "Wed, 25 Nov 2026 20:20 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/25/president2.png",
-      "snippet": "During a visit by 35 students to Bangabhaban, the president also urges children to develop reading habits, respect parents and teachers, and balance studies with sports"
-    },
-    {
-      "title": "US proposes 18% new tariffs on Bangladeshi goods over trade practices",
-      "link": "https://www.tbsnews.net/bangladesh/us-announces-fresh-tariffs-bangladesh-13-other-economies-1614011",
-      "pubDate": "Wed, 25 Nov 2026 20:15 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/25/us_tariff_on_bd_goods.png",
-      "snippet": "The proposed duties target 14 trading partners over what Washington calls structural excess industrial capacity, with China facing the highest proposed rate of 20%."
-    },
-    {
-      "title": "Afroza for coordinated efforts to ensure food safety",
-      "link": "https://www.tbsnews.net/bangladesh/afroza-coordinated-efforts-ensure-food-safety-1613996",
-      "pubDate": "Wed, 25 Nov 2026 20:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/25/afroza_khamam.png",
-      "snippet": "The minister says a five-year action plan will be formulated and three testing laboratories will be established in Dhaka, Khulna and Chattogram with JICA funding"
-    },
-    {
-      "title": "Fire at MP Nusrat's Kushtia home: Probe committee recommends further investigation",
-      "link": "https://www.tbsnews.net/bangladesh/crime/fire-mp-nusrats-kushtia-home-probe-committee-recommends-further-investigation",
-      "pubDate": "Wed, 25 Nov 2026 19:55 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/12/mp_nusrat_home_arson.jpg",
-      "snippet": "Investigators considered a cigarette or mosquito coil and old electrical wiring as possible causes but could not determine what sparked the fire."
     },
     {
       "title": "MA Muhit blames interim govt policies for disruption in family planning, vaccination programmes",
       "link": "https://www.tbsnews.net/bangladesh/ma-muhit-blames-interim-govt-policies-disruption-family-planning-vaccination-programmes",
       "pubDate": "Wed, 25 Nov 2026 19:40 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
+      "category": "Health",
+      "color": "#c2185b",
+      "bg": "#fce4ec",
+      "icon": "🏥",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/25/ma_muhit.jpg",
       "snippet": "Nationwide family planning campaign to begin on 13 December, with the president scheduled to inaugurate the year-long initiative."
-    },
-    {
-      "title": "SPs among 14 police officers transferred in fresh police reshuffle",
-      "link": "https://www.tbsnews.net/bangladesh/sps-among-14-police-officers-transferred-fresh-police-reshuffle-1613971",
-      "pubDate": "Wed, 25 Nov 2026 19:40 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/21/police_1.jpg",
-      "snippet": "The Ministry of Home Affairs issued a notification in this regard today (25 November)."
-    },
-    {
-      "title": "India voices concern over violence against minorities in Bangladesh, urges thorough probe",
-      "link": "https://www.tbsnews.net/foreign-policy/india-voices-concern-over-violence-against-minorities-bangladesh-urges-thorough-probe",
-      "pubDate": "Wed, 25 Nov 2026 19:35 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/04/randhir_jaiswal.jpg",
-      "snippet": "MEA spokesperson Randhir Jaiswal says Sheikh Hasina's extradition request is being examined under established procedures."
     },
     {
       "title": "RMG workers' discontent persists as announced wages do not match demands",
@@ -463,17 +496,6 @@
       "snippet": "Syndicate also decides to frame charges against two professors over allegations related to the July Uprising."
     },
     {
-      "title": "Bangladesh's export receipts from Germany, France fall by nearly $678m in FY26",
-      "link": "https://www.tbsnews.net/economy/bangladeshs-export-receipts-germany-france-fall-nearly-678m-fy26-1612941",
-      "pubDate": "Tue, 24 Nov 2026 20:15 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/24/bangladesh-export.jpg",
-      "snippet": "Garment shipments drove much of the decline, while overall export receipts from the European Union fell 2.7% to $19.72 billion."
-    },
-    {
       "title": "Factories scale back hiring as industrial activity remains stagnant: Survey",
       "link": "https://www.tbsnews.net/economy/factories-scale-back-hiring-industrial-activity-remains-stagnant-survey-1612956",
       "pubDate": "Tue, 24 Nov 2026 20:15 +0600",
@@ -485,37 +507,15 @@
       "snippet": "A BIDS-BCI survey finds output down 0.4% year-on-year, with 93% of factories citing energy shortages among their top business constraints and machinery investment plunging 94%."
     },
     {
-      "title": "IDRA suspends marine cargo business of Green Delta, BGIC for 3 months",
-      "link": "https://www.tbsnews.net/economy/idra-suspends-marine-cargo-business-green-delta-bgic-3-months-1612906",
-      "pubDate": "Tue, 24 Nov 2026 20:00 +0600",
+      "title": "Bangladesh's export receipts from Germany, France fall by nearly $678m in FY26",
+      "link": "https://www.tbsnews.net/economy/bangladeshs-export-receipts-germany-france-fall-nearly-678m-fy26-1612941",
+      "pubDate": "Tue, 24 Nov 2026 20:15 +0600",
       "category": "Economy",
       "color": "#2e7d32",
       "bg": "#e8f5e9",
       "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/09/14/idra_0.jpg",
-      "snippet": "Suspension took effect on 5 November over insurance law violations"
-    },
-    {
-      "title": "Eighth consignment of uranium reaches Rooppur Nuclear Power Plant",
-      "link": "https://www.tbsnews.net/economy/energy/eighth-consignment-uranium-reaches-rooppur-nuclear-power-plant-1612876",
-      "pubDate": "Tue, 24 Nov 2026 19:45 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/23/rooppur_1.jpg",
-      "snippet": "Built with Russia's latest technology, the Rooppur Nuclear Power Plant has two VVER-1200 units, each with a generation capacity of 1,200 megawatts."
-    },
-    {
-      "title": "Bangladesh Bank clarifies cash assistance for fabric toy, tent exports",
-      "link": "https://www.tbsnews.net/economy/bangladesh-bank-clarifies-cash-assistance-fabric-toy-tent-exports-1612856",
-      "pubDate": "Tue, 24 Nov 2026 19:30 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/09/bangladesh_bank_1.jpg",
-      "snippet": "Exporters of fabric-made toys and tents will receive incentives at specified rates under an existing circular, with other conditions unchanged."
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/24/bangladesh-export.jpg",
+      "snippet": "Garment shipments drove much of the decline, while overall export receipts from the European Union fell 2.7% to $19.72 billion."
     },
     {
       "title": "Incepta launches Bangladesh's first self-injectable contraceptive for women",
@@ -815,5 +815,5 @@
       "snippet": "Bangladesh continues to expand the use of capital punishment despite weak evidence that harsher sentences deter crime. The real deterrents are the certainty and speed of punishment, alongside penalties proportionate to the offence — principles the co..."
     }
   ],
-  "updatedAt": "2026-11-25T18:06:05.626Z"
+  "updatedAt": "2026-11-26T01:54:03.505Z"
 }
