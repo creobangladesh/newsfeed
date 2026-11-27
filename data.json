@@ -1,6 +1,39 @@
 {
   "news": [
     {
+      "title": "HSC answer scripts behind changed results to be re-evaluated: Education minister",
+      "link": "https://www.tbsnews.net/bangladesh/education/hsc-answer-scripts-behind-changed-results-be-re-evaluated-education-minister",
+      "pubDate": "Fri, 27 Nov 2026 08:25 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/09/23/milon.jpg",
+      "snippet": "Examiners responsible for changes caused by negligence or errors will face disciplinary action, warns Education Minister ANM Ehsanul Hoque Milon."
+    },
+    {
+      "title": "Building a climate-resilient Bangladesh: The role of architecture beyond COP31",
+      "link": "https://www.tbsnews.net/thoughts/building-climate-resilient-bangladesh-role-architecture-beyond-cop31-1615416",
+      "pubDate": "Fri, 27 Nov 2026 01:50 +0600",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/27/cyclone_resilient_house_1_1.jpg",
+      "snippet": "The 2026 UN Climate Change Conference offers Bangladesh an opportunity to rethink its architectural practices, transform its construction industry and place climate-responsive design at the heart of sustainable development"
+    },
+    {
+      "title": "What Vietnam got right, and Bangladesh missed",
+      "link": "https://www.tbsnews.net/analysis/what-vietnam-got-right-and-bangladesh-missed-1615411",
+      "pubDate": "Fri, 27 Nov 2026 01:45 +0600",
+      "category": "Analysis",
+      "color": "#5d4037",
+      "bg": "#efebe9",
+      "icon": "🔍",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/27/vietnam.jpg",
+      "snippet": "Vietnam attracted global capital, diversified its exports and built investor confidence through policy consistency. Bangladesh, meanwhile, remains constrained by regulatory uncertainty, weak infrastructure and an overreliance on garments"
+    },
+    {
       "title": "Man injured in Chapainawabganj crude bomb blast detained at Rajshahi home",
       "link": "https://www.tbsnews.net/bangladesh/man-injured-chapainawabganj-crude-bomb-blast-detained-rajshahi-home-1615406",
       "pubDate": "Fri, 27 Nov 2026 01:20 +0600",
@@ -100,17 +133,6 @@
       "snippet": "The directorate further recommended determining the actual sales of the establishments to ensure proper VAT collection based on their current business activities."
     },
     {
-      "title": "PM seeks to make Bangladesh a trusted brand in global livestock market",
-      "link": "https://www.tbsnews.net/bangladesh/pm-seeks-make-bangladesh-trusted-brand-global-livestock-market-1615346",
-      "pubDate": "Thu, 26 Nov 2026 23:30 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/24/screenshot_2026-11-24_111136.png",
-      "snippet": "Bangladesh had significant potential to export halal meat, dairy and poultry products, as well as leather goods and other animal by-products, he said."
-    },
-    {
       "title": "Boeings, more cotton imports, nothing could stop US tariff",
       "link": "https://www.tbsnews.net/economy/boeings-more-cotton-imports-nothing-could-stop-us-tariff-1615351",
       "pubDate": "Thu, 26 Nov 2026 23:30 +0600",
@@ -120,6 +142,17 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/26/us_tariff_0.jpg",
       "snippet": "Despite a sharp rise in US imports and major purchase commitments, Bangladesh has yet to receive promised duty-free access for garments made from US cotton, while Washington is proposing an additional 18% tariff and pressing Dhaka to buy more US yarn..."
+    },
+    {
+      "title": "PM seeks to make Bangladesh a trusted brand in global livestock market",
+      "link": "https://www.tbsnews.net/bangladesh/pm-seeks-make-bangladesh-trusted-brand-global-livestock-market-1615346",
+      "pubDate": "Thu, 26 Nov 2026 23:30 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/24/screenshot_2026-11-24_111136.png",
+      "snippet": "Bangladesh had significant potential to export halal meat, dairy and poultry products, as well as leather goods and other animal by-products, he said."
     },
     {
       "title": "Five long-unused children's hospitals to open within a month: State minister",
@@ -221,17 +254,6 @@
       "snippet": "The changes were made through an office order signed by the DMP commissioner yesterday (25 November)."
     },
     {
-      "title": "Another crude bomb thrown at Kushtia District Jail",
-      "link": "https://www.tbsnews.net/bangladesh/crime/another-crude-bomb-thrown-kushtia-district-jail-1615236",
-      "pubDate": "Thu, 26 Nov 2026 21:00 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/26/kushtia_jail_gate_.jpg",
-      "snippet": "Police, prison authorities and locals said unidentified assailants threw a tape-wrapped crude bomb over the prison wall on its eastern-southern side."
-    },
-    {
       "title": " Milon finds only one female student in class during college inspection in Rajshahi",
       "link": "https://www.tbsnews.net/bangladesh/education/milon-finds-only-one-female-student-class-during-college-inspection-rajshahi",
       "pubDate": "Thu, 26 Nov 2026 20:45 +0600",
@@ -299,12 +321,12 @@
     },
     {
       "title": "Enforcing ICJ judgement on Rohingya genocide requires international political will",
-      "link": "https://www.tbsnews.net/features/panorama/enforcing-icj-judgement-rohingya-genocide-requires-international-political-will",
+      "link": "https://www.tbsnews.net/thoughts/enforcing-icj-judgement-rohingya-genocide-requires-international-political-will-1614971",
       "pubDate": "Thu, 26 Nov 2026 18:40 +0600",
-      "category": "Analysis",
-      "color": "#5d4037",
-      "bg": "#efebe9",
-      "icon": "🔍",
+      "category": "Thoughts",
+      "color": "#455a64",
+      "bg": "#eceff1",
+      "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/26/awns7qrtw5lydnay7a3ynoblsa.jpg",
       "snippet": "The ICJ has no independent police apparatus to enforce its decisions, nor can it impose economic sanctions. Such measures depend on decisions by individual states and international institutions"
     },
@@ -848,5 +870,5 @@
       "snippet": "Deputy Governor Md Kabir Ahmed said the planned issuance would help expand financing for businesses and infrastructure while strengthening the country's Islamic finance market."
     }
   ],
-  "updatedAt": "2026-11-26T19:46:51.108Z"
+  "updatedAt": "2026-11-27T02:40:26.051Z"
 }
