@@ -1,6 +1,17 @@
 {
   "news": [
     {
+      "title": "Primitek enters plastic household goods market, targets Tk150cr monthly sales",
+      "link": "https://www.tbsnews.net/economy/industry/primitek-enters-plastic-household-goods-market-targets-tk150cr-monthly-sales",
+      "pubDate": "Sat, 28 Nov 2026 07:15 +0600",
+      "category": "Bangladesh",
+      "color": "#0288d1",
+      "bg": "#e1f5fe",
+      "icon": "🇧🇩",
+      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2025/11/14/nsez.jpg",
+      "snippet": "The factory began operations last week, producing plastic, polymer and PVC products for the domestic market, with plans to expand into exports"
+    },
+    {
       "title": "Between mob rule and state control: The crisis of policing",
       "link": "https://www.tbsnews.net/thoughts/between-mob-rule-and-state-control-crisis-policing-1616106",
       "pubDate": "Sat, 28 Nov 2026 02:05 +0600",
@@ -23,7 +34,7 @@
       "snippet": "Every link in the garment chain says it is under pressure. Only one has no one to pass it on to"
     },
     {
-      "title": "5 crude bombs explode at five Dhaka locations; one arrested",
+      "title": "5 crude bombs explode sperate locations in Dhaka; one arrested",
       "link": "https://www.tbsnews.net/bangladesh/crime/5-crude-bombs-explode-five-dhaka-locations-one-arrested-1616086",
       "pubDate": "Sat, 28 Nov 2026 01:10 +0600",
       "category": "Bangladesh",
@@ -252,17 +263,6 @@
       "icon": "🇧🇩",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/27/zubaida_rahman2.png",
       "snippet": "The school feeding programme, currently covering 3.1 million students in 151 upazilas, will be expanded to all 500 upazilas from next year, Dr Zubaida Rahman says."
-    },
-    {
-      "title": "Zero-cost Malaysia migration a historic initiative of PM: Mahdi",
-      "link": "https://www.tbsnews.net/bangladesh/zero-cost-malaysia-migration-historic-initiative-pm-mahdi-1615951",
-      "pubDate": "Fri, 27 Nov 2026 19:40 +0600",
-      "category": "Bangladesh",
-      "color": "#0288d1",
-      "bg": "#e1f5fe",
-      "icon": "🇧🇩",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/05/25/mahdi_amin_0.jpg",
-      "snippet": "Adviser Mahdi Amin says the first batch of 112 workers has travelled to Malaysia through a government-led recruitment programme, with employers bearing all migration costs."
     },
     {
       "title": "6 arrested over attack on Nahid's London reception",
@@ -749,17 +749,6 @@
       "snippet": "Nationwide family planning campaign to begin on 13 December, with the president scheduled to inaugurate the year-long initiative."
     },
     {
-      "title": "RMG workers' discontent persists as announced wages do not match demands",
-      "link": "https://www.tbsnews.net/economy/rmg/workers-discontent-persists-announced-wages-do-not-match-demands-1613881",
-      "pubDate": "Wed, 25 Nov 2026 18:45 +0600",
-      "category": "Economy",
-      "color": "#2e7d32",
-      "bg": "#e8f5e9",
-      "icon": "📈",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/25/gazipur_wednesday_8.jpg",
-      "snippet": "Some workers said they are satisfied with the increase."
-    },
-    {
       "title": "Measles: Death toll reaches 1,363 as 2 more children die",
       "link": "https://www.tbsnews.net/bangladesh/health/measles-death-toll-reaches-1363-2-more-children-die-1613561",
       "pubDate": "Wed, 25 Nov 2026 15:30 +0600",
@@ -802,18 +791,7 @@
       "icon": "💭",
       "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2026/11/25/15_thoughts_copy_3.png",
       "snippet": "Young people invest heavily in friendships, conversations and digital connections, but rarely consider what they gain from them. A banker and development researcher argues that purposeful social relationships can help Bangladesh’s youth build skills,..."
-    },
-    {
-      "title": "BB to collect LC payment schedules early as aggregators exploit due dates",
-      "link": "https://www.tbsnews.net/economy/banking/bb-collect-lc-payment-schedules-early-aggregators-exploit-due-dates-1613166",
-      "pubDate": "Wed, 25 Nov 2026 07:20 +0600",
-      "category": "Banking",
-      "color": "#00796b",
-      "bg": "#e0f2f1",
-      "icon": "🏦",
-      "image": "https://www.tbsnews.net/sites/default/files/styles/big_1/public/images/2023/10/04/bangladesh_bank_0.jpg",
-      "snippet": "Bankers seek uniform remittance rate to curb competition among banks"
     }
   ],
-  "updatedAt": "2026-11-27T20:44:00.195Z"
+  "updatedAt": "2026-11-28T03:06:25.573Z"
 }
